@@ -1,0 +1,45 @@
+{
+	"next_topic_id": 3,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "That's quite an impressive design you have here",
+			"body": "Seriously. Haven't checked anything on the technical side yet, but at least you made it look super-good. Kudos for that.",
+			"added": 1448443758
+		},
+		{
+			"topic_id": 2,
+			"title": "Restrict posting by ID?",
+			"body": "Is it possible, on a given site (which I'm the owner) to restrict edition to only a selected set of ZeroIDs?\n\nI guess it should be possible to only show posts from those IDs, but I'd rather have contents from unseen users not stored at all, right?",
+			"added": 1452087370
+		}
+	],
+	"topic_vote": {
+		"1_1J2AKukZAJ5b6dJgBjMgWCBUGw7ZVh46XH": 1
+	},
+	"next_comment_id": 4,
+	"comment": {
+		"1_1NyGo7eBax4F1dm1gsoVHg9gCqm5EUhFAP": [
+			{
+				"comment_id": 1,
+				"body": "The dashboard is nothing if there's no underlying code to actually make the changes. For now, it's relatively easy to tweak things by hand. I guess the easiest path, for now, would be to publish several \"template\" blogs, ready to be cloned, with different themes/appearances. People would then be able to choose which one they like the most and clone from there.\n\nFor advanced settings, it probably will always mean a little CSS editing (maybe LESS/SASS could help here, but still). Doesn't mean a text field to edit said CSS/LESS/SASS wouldn't be a welcome addition ;)",
+				"added": 1448526514
+			},
+			{
+				"comment_id": 2,
+				"body": "There. I'm not a designer nor an artist, but this should be a clone-able blog with a slightly different theme : http://127.0.0.1:43110/1LndwkWLnXfd1cbCReWguGVNhiboP9iqPD\n\nTook about three minutes, publishing included. Though I do admit I prefer the original colours, myself ;)",
+				"added": 1448529069
+			}
+		],
+		"2_1J2AKukZAJ5b6dJgBjMgWCBUGw7ZVh46XH": [
+			{
+				"comment_id": 3,
+				"body": "Even more interesting : would it be possible to restrict parts of a ZeroSite to non-authorized ZeroIDs? And not just by \"not showing them\"?",
+				"added": 1452087567
+			}
+		]
+	},
+	"comment_vote": {
+		"119_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1
+	}
+}

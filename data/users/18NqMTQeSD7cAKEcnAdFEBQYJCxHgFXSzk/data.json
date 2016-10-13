@@ -1,0 +1,89 @@
+{
+	"next_topic_id": 4,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "How do I shut down ZeroNet in linux?",
+			"body": "There is a start.py but not a stop one.",
+			"added": 1450714657
+		},
+		{
+			"topic_id": 2,
+			"title": "Would it be possible to host browergames with zeronet?",
+			"body": "Like Unity 3D, java, flash or html5 games?",
+			"added": 1450717743
+		},
+		{
+			"topic_id": 3,
+			"title": "Bug report would be nice",
+			"body": "I tried using zeronnet with tor but it won't work.\nport 15441 is forwarded and when starting zeronet normally it works flawlessly.\n\nlog:\n[21:31:14] Site:14kr6q..T2Ag Announce to 0 trackers in 0.047s, failed\n[21:31:15] FileServer Checking port 15441 using portchecker.co...\n[21:31:15] FileServer [BAD :(] Port closed: Error: ProxyConnectionError: Error connecting to SOCKS5 proxy 127.0.0.1:9050: [Errno 111] Connection refused in FileServer.py line 83 > urllib2.py line 127 > urllib2.py line 404 > urllib2.py line 422 > urllib2.py line 382 > urllib2.py line 1214 > urllib2.py line 1181 > httplib.py line 979 > httplib.py line 1013 > httplib.py line 975 > httplib.py line 835 > httplib.py line 797 > httplib.py line 778 > SocksProxy.py line 8 > socks.py line 674\n[21:31:15] FileServer Checking port 15441 using canyouseeme.org...\n[21:31:15] FileServer [BAD :(] Port closed: Error: ProxyConnectionError: Error connecting to SOCKS5 proxy 127.0.0.1:9050: [Errno 111] Connection refused in FileServer.py line 116 > urllib2.py line 127 > urllib2.py line 404 > urllib2.py line 422 > urllib2.py line 382 > urllib2.py line 1214 > urllib2.py line 1181 > httplib.py line 979 > httplib.py line 1013 > httplib.py line 975 > httplib.py line 835 > httplib.py line 797 > httplib.py line 778 > SocksProxy.py line 8 > socks.py line 674\n[21:31:15] FileServer Trying to open port using UpnpPunch...\n[21:31:16] FileServer Checking port 15441 using portchecker.co...\n[21:31:16] FileServer [BAD :(] Port closed: Error: ProxyConnectionError: Error connecting to SOCKS5 proxy 127.0.0.1:9050: [Errno 111] Connection refused in FileServer.py line 83 > urllib2.py line 127 > urllib2.py line 404 > urllib2.py line 422 > urllib2.py line 382 > urllib2.py line 1214 > urllib2.py line 1181 > httplib.py line 979 > httplib.py line 1013 > httplib.py line 975 > httplib.py line 835 > httplib.py line 797 > httplib.py line 778 > SocksProxy.py line 8 > socks.py line 674\n[21:31:16] FileServer Checking port 15441 using canyouseeme.org...\n[21:31:16] FileServer [BAD :(] Port closed: Error: ProxyConnectionError: Error connecting to SOCKS5 proxy 127.0.0.1:9050: [Errno 111] Connection refused in FileServer.py line 116 > urllib2.py line 127 > urllib2.py line 404 > urllib2.py line 422 > urllib2.py line 382 > urllib2.py line 1214 > urllib2.py line 1181 > httplib.py line 979 > httplib.py line 1013 > httplib.py line 975 > httplib.py line 835 > httplib.py line 797 > httplib.py line 778 > SocksProxy.py line 8 > socks.py line 674\n[21:31:16] FileServer Upnp mapping failed :( Please forward port 15441 on your router to your ipaddress\n",
+			"added": 1450730698
+		}
+	],
+	"topic_vote": {},
+	"next_comment_id": 12,
+	"comment": {
+		"1_18NqMTQeSD7cAKEcnAdFEBQYJCxHgFXSzk": [
+			{
+				"comment_id": 1,
+				"body": "Thx had to kill it",
+				"added": 1450715879
+			}
+		],
+		"2_18NqMTQeSD7cAKEcnAdFEBQYJCxHgFXSzk": [
+			{
+				"comment_id": 2,
+				"body": "Awesome! But the 1MB limit is really bad T_T hope it'll be fixed soon.",
+				"added": 1450718147
+			},
+			{
+				"comment_id": 3,
+				"body": "Why wouldn't it work well? If the host has good speed it should work.",
+				"added": 1450721310
+			},
+			{
+				"comment_id": 4,
+				"body": "Tor-by-default would suck, let it stay optional, there are enough ppl that don't trust tor and think it's a honeypot. Tor has been compromised before i2p hasn't, that + better large file support is why I prefer i2p. Users should be able to choose if they want to be clear, connect trough i2p or tor. Also if you want a shitload of users you need a gui & n00b friendly installation. I think that zeronet has the potential to get very big, so a C or C++ port might be needed someday.",
+				"added": 1450722799
+			},
+			{
+				"comment_id": 5,
+				"body": "If the host has enough speed there is no need for seeders they will just boost the overall speed. I think zeronet + i2p is perfect for streaming websites since they are driven out of the clearnet. The Popcorn Time guys are already checking out i2p. I don't think tor will ever be good for multimedia content.",
+				"added": 1450723133
+			},
+			{
+				"comment_id": 6,
+				"body": "Really strange, I had one or two MByte per second with the i2p torrents. Good to know that the crypto part is in C. Then all zeronet needs is some awesome websites to pull users in. ^-^ The \"download, unpack, start\" is good for the alpha/early beta, advanced users have no problem with this but the casuals need guis. For zeronet to get mainstream it'll have to install with assistant (exe), autostart the service on boot etc. so the user can just press next, next, next and finish. Then get presented (auto open) a website in the browser that tells him how to use zeronet. Fast access links (like there currently already are) and a link on the desktop and/or start menu. Casual users are very very lazy they need these things. I'll be following zeronet and play around with a website or two like the rest but I need bigger filesizes for anything serious. \n\nKeep up the good work! This has the potential do become Internet 2.0 if done well.",
+				"added": 1450725957
+			}
+		],
+		"3_18NqMTQeSD7cAKEcnAdFEBQYJCxHgFXSzk": [
+			{
+				"comment_id": 7,
+				"body": "Ahh thx now it works, but not in the tor browser.",
+				"added": 1450731574
+			},
+			{
+				"comment_id": 8,
+				"body": "It was port 9150 for me fixed that but It still won't work:\n\n[22:00:37] FileServer Checking port 15441 using portchecker.co...\n[22:00:50] FileServer [BAD :(] Port closed: Error: GeneralProxyError: Connection closed unexpectedly in FileServer.py line 83 > urllib2.py line 127 > urllib2.py line 404 > urllib2.py line 422 > urllib2.py line 382 > urllib2.py line 1214 > urllib2.py line 1181 > httplib.py line 979 > httplib.py line 1013 > httplib.py line 975 > httplib.py line 835 > httplib.py line 797 > httplib.py line 778 > SocksProxy.py line 8 > socks.py line 681 > socks.py line 383 > socks.py line 450 > socks.py line 234\n[22:00:50] FileServer Checking port 15441 using canyouseeme.org...\n[22:00:50] Site:1y5x1u..DvNb Announce to 0 trackers in 1.992s, failed\n[22:00:50] FileServer [BAD :(] Port closed: Error: ProxyConnectionError: Error connecting to SOCKS5 proxy 127.0.0.1:9150: [Errno 111] Connection refused in FileServer.py line 116 > urllib2.py line 127 > urllib2.py line 404 > urllib2.py line 422 > urllib2.py line 382 > urllib2.py line 1214 > urllib2.py line 1181 > httplib.py line 979 > httplib.py line 1013 > httplib.py line 975 > httplib.py line 835 > httplib.py line 797 > httplib.py line 778 > SocksProxy.py line 8 > socks.py line 674\n[22:00:50] FileServer Trying to open port using UpnpPunch...\n[22:00:51] FileServer Checking port 15441 using portchecker.co...\n[22:00:51] FileServer [BAD :(] Port closed: Error: ProxyConnectionError: Error connecting to SOCKS5 proxy 127.0.0.1:9150: [Errno 111] Connection refused in FileServer.py line 83 > urllib2.py line 127 > urllib2.py line 404 > urllib2.py line 422 > urllib2.py line 382 > urllib2.py line 1214 > urllib2.py line 1181 > httplib.py line 979 > httplib.py line 1013 > httplib.py line 975 > httplib.py line 835 > httplib.py line 797 > httplib.py line 778 > SocksProxy.py line 8 > socks.py line 674\n[22:00:51] FileServer Checking port 15441 using canyouseeme.org...\n[22:00:51] FileServer [BAD :(] Port closed: Error: ProxyConnectionError: Error connecting to SOCKS5 proxy 127.0.0.1:9150: [Errno 111] Connection refused in FileServer.py line 116 > urllib2.py line 127 > urllib2.py line 404 > urllib2.py line 422 > urllib2.py line 382 > urllib2.py line 1214 > urllib2.py line 1181 > httplib.py line 979 > httplib.py line 1013 > httplib.py line 975 > httplib.py line 835 > httplib.py line 797 > httplib.py line 778 > SocksProxy.py line 8 > socks.py line 674\n[22:00:51] FileServer Upnp mapping failed :( Please forward port 15441 on your router to your ipaddress\n\n\n\nI get this when connecting normally:\n\n[22:02:10] FileServer [OK :)] Port open: Port 15441 is open.\n[22:02:13] Site:14kr6q..T2Ag data/users/16dVbybDseQBQnxdJDuQhCzYAij8iR8YEc/content.json: Site too large 10486929 > 10485760, aborting task...\n\nbut it works.",
+				"added": 1450731885
+			},
+			{
+				"comment_id": 9,
+				"body": "> [mystd](#comment_7_18NqMTQeSD7cAKEcnAdFEBQYJCxHgFXSzk): Ahh thx now it works, but not in the tor browser.\n\nsry thought it worked but was only the cached offline site.",
+				"added": 1450731951
+			},
+			{
+				"comment_id": 10,
+				"body": "After keeping the tor browser bundle open:\n\n$ telnet 127.0.0.1 9150\nTrying 127.0.0.1...\nConnected to 127.0.0.1.\nEscape character is '^]'.\n\n\nIt runs now but only restricted. Sais port closed.\n\n[22:12:19] FileServer Checking port 15441 using portchecker.co...\n[22:12:21] FileServer [BAD :(] Port closed: Port 15441 is closed.\n[22:12:21] FileServer Checking port 15441 using canyouseeme.org...\n[22:12:29] FileServer [BAD :(] Port closed: Error: I could not see your service on 46.246.61.213 on port (15441) Reason: Connection timed out\n[22:12:29] FileServer Trying to open port using UpnpPunch...\n[22:12:30] FileServer Checking port 15441 using portchecker.co...\n[22:12:32] FileServer [BAD :(] Port closed: Port 15441 is closed.\n[22:12:32] FileServer Checking port 15441 using canyouseeme.org...\n[22:12:41] FileServer [BAD :(] Port closed: Error: I could not see your service on 46.246.61.213 on port (15441) Reason: Connection timed out\n[22:12:41] FileServer Upnp mapping failed :( Please forward port 15441 on your router to your ipaddress\n[22:12:42] Site:14kr6q..T2Ag data/users/16dVbybDseQBQnxdJDuQhCzYAij8iR8YEc/content.json: Site too large 10486429 > 10485760, aborting task...\n\nI'm sorry but I don't see any edit/delete button here.",
+				"added": 1450732820
+			},
+			{
+				"comment_id": 11,
+				"body": "Wow that pencil, you can barely spot it. It's better if you make a normal visible button. Or at least give it a yellow BG color like the submit button.",
+				"added": 1450771432
+			}
+		]
+	},
+	"comment_vote": {}
+}

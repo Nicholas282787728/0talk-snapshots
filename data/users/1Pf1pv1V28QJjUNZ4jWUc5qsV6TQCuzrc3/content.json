@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HK1Hs7Y0ag9uNdjW0mSifL8PjiUtKt2g/Kjx0ETg0o3UFGUUS//O3XBjdYeDyH7hRXYoWvrWJm3jts+K8so54H8=",
+ "cert_user_id": "blankspot@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "80c4a67abaf8dcff2908f4fefdff8703ce07f05fc51a20b49ad572534b688581",
+   "size": 243
+  }
+ },
+ "inner_path": "data/users/1Pf1pv1V28QJjUNZ4jWUc5qsV6TQCuzrc3/content.json",
+ "modified": 1457933247.023197,
+ "signs": {
+  "1Pf1pv1V28QJjUNZ4jWUc5qsV6TQCuzrc3": "GzdhFa1zPnKktf4SOwgRmupg0IduYvIyTIy+INItKR9/uSKaP0GSCJT+DH8QQkvVOy3BlfZXFqG7ikPAZzsoCYQ="
+ }
+}

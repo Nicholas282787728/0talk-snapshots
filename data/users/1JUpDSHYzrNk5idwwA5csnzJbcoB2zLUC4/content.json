@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "G6ZkB33c39ylU7xCJXdfR3OtML2IJkTL6k14M77HRV/qFeZEwpN8mwtGkU52SHMtEhWowDI1Qo6XPKb5F5VQZZM=",
+ "cert_user_id": "poker26@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "8b9d7545e4cad3ad3bf8a785cef2c8d800724b4f613bfc20a44bb50beafbbe5a",
+   "size": 353
+  }
+ },
+ "inner_path": "data/users/1JUpDSHYzrNk5idwwA5csnzJbcoB2zLUC4/content.json",
+ "modified": 1458924264.300008,
+ "signs": {
+  "1JUpDSHYzrNk5idwwA5csnzJbcoB2zLUC4": "HKx3wqhBwFBiMtuLZgDs9Ve+V7SSlOXpVX9GNBk0w1uJszGnFpZ0JylICdeWk3Ww2StHkZEf4e11CmNkV6WYbps="
+ }
+}

@@ -1,0 +1,23 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 3,
+	"comment": {
+		"1_1ARmoCDkmZkYWAMCipxPqbUoT4akypoPoE": [
+			{
+				"comment_id": 1,
+				"body": "well, you need to be alive in the first place to find out",
+				"added": 1461553977
+			}
+		],
+		"1_18jipjDsfAxAuq4ixbi2w24xJrYVfTYFPn": [
+			{
+				"comment_id": 2,
+				"body": "trolling?\ntake a guess",
+				"added": 1461554041
+			}
+		]
+	},
+	"comment_vote": {}
+}

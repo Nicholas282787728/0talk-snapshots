@@ -1,0 +1,16 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 2,
+	"comment": {
+		"1_1E1PGsCSCNzkP8xmx8awJ2hho3cPdsN4FF": [
+			{
+				"comment_id": 1,
+				"body": "Saluton!",
+				"added": 1457622562
+			}
+		]
+	},
+	"comment_vote": {}
+}

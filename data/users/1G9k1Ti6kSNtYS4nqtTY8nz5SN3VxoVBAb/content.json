@@ -1,0 +1,15 @@
+{
+ "cert_auth_type": "web", 
+ "cert_sign": "HP53hpQGcjGxe1duiirrU2mguEy3Yt7jzwpNj6ABwJOjCwYEfHjBCFC86MsvrzFnMbQE12Nzw3ULoP8uMH3ULgY=", 
+ "cert_user_id": "throwaway@zeroid.bit", 
+ "files": {
+  "data.json": {
+   "sha512": "0056671cef0d5aac701566383ba1be574d7a6e4381f5865b31a2dd019918fee9", 
+   "size": 4527
+  }
+ }, 
+ "modified": 1456155684.13942, 
+ "signs": {
+  "1G9k1Ti6kSNtYS4nqtTY8nz5SN3VxoVBAb": "HNZCr55CjxPUslWMN4/qGyL1Ao/12DahPldYQMVMdNUwNoKLaQLvCax1pzq9WVxr/s3rejg5/PzP5j3+uAtLcJg="
+ }
+}

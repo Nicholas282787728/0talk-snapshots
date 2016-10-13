@@ -1,0 +1,16 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 2,
+	"comment": {
+		"10_1MEWJRMLgvofqG9Mbsb2Rc4hFFyv7HeRx7": [
+			{
+				"comment_id": 1,
+				"body": "> [zarka](#comment_2_16R5J6zeFBmUQB2QM4ZgZMw8DxM4MnwcPr): Hey,If you assume deep web = overlay network, then Zeronet is a deep web (like Bittorrent, I2P, Tor, RetroShare, whatever).A darknet is a network where you don't connect to unknown peers.Freenet, Retroshare and some other can be used as darknets but Zeronet can't.\n> I personally think that there is no deep web. Why a part of the web would be more deeper than an other? It is mostly a word for people who don't really understand what is the web and what are theses network.\n\nI think ZeroNet is part of the deep WEB. But Bittorrent and RetroShare.\nWeb =/= Internet.",
+				"added": 1458917120
+			}
+		]
+	},
+	"comment_vote": {}
+}

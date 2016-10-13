@@ -1,0 +1,50 @@
+{
+	"next_topic_id": 3,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "How to open Zeronet in Tor browser?",
+			"body": "I set it up to Tor for all connections but for best privacy and to hide your IP it says to use tor browser but zeronet keeps opening in Firefox. How can I make it use Tor browser? Thanks",
+			"added": 1470742104
+		},
+		{
+			"topic_id": 2,
+			"title": "Where is ZeroGoogle?",
+			"body": "Is there a search engine for ZeroNet sites?",
+			"added": 1470743424
+		}
+	],
+	"topic_vote": {},
+	"next_comment_id": 5,
+	"comment": {
+		"1_1DpQSUAGRj5ykejhp5NFinYZUHz5q87ujh": [
+			{
+				"comment_id": 1,
+				"body": "> [genericusername](#comment_19_14ng1wByxwoNXAhihYbpgyarVJbFiqs8ny): I read the question wrong, sorry. For me Zeronet doesn't open any browser at all so I can't help you? There's probably a config option or flag somewhere though...\n\nHow do you use zeronet then if you don't open it in a browser?",
+				"added": 1470748595
+			},
+			{
+				"comment_id": 2,
+				"body": "> [genericusername](#comment_20_14ng1wByxwoNXAhihYbpgyarVJbFiqs8ny): I mean ZeroNet doesn't open the browser for me. You can just close firefox and input http://127.0.0.1:43110 in your browser of choice. I'm not sure why firefox opens by default but I'd guess something to do with your default browser settings. I searched the ZeroNet documentation to see if there's a way to change this but it doesn't look like it (unless I missed something).\n\nOh okay, is Tor browser necessary for being anon or am I already anon when Tor mode is active even thought I'm using Firefox? \n\nI just tried http://127.0.0.1:43110 into Tor browser and it just shows a blank page even though I have set up the No Proxy for http://127.0.0.1",
+				"added": 1470749374
+			}
+		],
+		"2_1DpQSUAGRj5ykejhp5NFinYZUHz5q87ujh": [
+			{
+				"comment_id": 3,
+				"body": "> [kaffie](#comment_130_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh): http://127.0.0.1:43110/kaffiene.bit/\n\nThanks!",
+				"added": 1470749447
+			}
+		],
+		"7_19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ": [
+			{
+				"comment_id": 4,
+				"body": "Where's the anime?",
+				"added": 1470749848
+			}
+		]
+	},
+	"comment_vote": {
+		"130_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1
+	}
+}

@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HB1Aur/s/zHy6dPxrrNkFECDsLFMFPhuXKDPCN5E3Sosl93PBhVr0ZgN7kpwtotSUFs2srOVsT8sPsdjcrsPLAY=",
+ "cert_user_id": "josephgarboua@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "5a4bbe5db53c55ff1a370d5cd1f2d74432fd0a4fda502a159bdfe2c58d41141e",
+   "size": 247
+  }
+ },
+ "inner_path": "data/users/14gCBPkVyahpxiuqbZYHKvj2tughDwy3n1/content.json",
+ "modified": 1457783542.242476,
+ "signs": {
+  "14gCBPkVyahpxiuqbZYHKvj2tughDwy3n1": "HL4nc5BE4/BjopgGa9pTUu4cgyk0Ajbem2EwLLg9VpkL2YyM//CH8Y5ExFIUdkSzzPvcK9l7vRcmdsI1HugdMMU="
+ }
+}

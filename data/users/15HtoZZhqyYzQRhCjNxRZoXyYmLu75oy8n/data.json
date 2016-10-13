@@ -1,0 +1,16 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 2,
+	"comment": {
+		"1_19RagxAc2n7zYdfbfda2Zc4dRoHRJzyAxo": [
+			{
+				"comment_id": 1,
+				"body": "The Internet existed before ads.  It can exist without ads.  If your business model is such that you can't get donations/subscriptions in exchange for use of the website without ads (or Ads Fewer on Wonkette, for example) then your content isn't that worthwhile, is it?\n\nI remember the time before ads.  I remember when the NSF was the backbone and when Bitnet was actually larger than the actual Internet (any time before 1994).  Back when \"unprofessional behavior\" would get one kicked off of one's ISP.  \n\nBack when you could call the abuse desk at UUNET and get the actual guy in charge of it.  And have him pay attention to you.\n\nI am more than comfortable with a platform that bans commercial activity.  A peer-to-peer distributed network doesn't need commercial activity to flourish.  The only thing it needs is a simple way to install and operate.   It certainly looks like Zeronet is on the way there.",
+				"added": 1470083326
+			}
+		]
+	},
+	"comment_vote": {}
+}

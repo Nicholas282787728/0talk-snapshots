@@ -1,0 +1,16 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 2,
+	"comment": {
+		"1_1EUyJtat7mbu5wMcR6nrJTPBBRons1mtMA": [
+			{
+				"comment_id": 1,
+				"body": "Sounds like TorrentFreak and Hacker News are bringing a lot of activity. I hope it stays this popular, that could mean good things for the internet as a whole.",
+				"added": 1456981897
+			}
+		]
+	},
+	"comment_vote": {}
+}

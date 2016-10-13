@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "G7U74dTxX2Ep50uH2VJ1UgNlqSHH1iS0xGYFr6xE88O2XwTDPKdVNGsVsQSIkAXxeuaAmT4ac9rKUt76bcyoikg=",
+ "cert_user_id": "physicalit@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "a13feb5782c2d7a88a3c5ca51cd7845f1f0e1d53b43726d0408f6a9399b2762b",
+   "size": 3209
+  }
+ },
+ "inner_path": "data/users/1Ci5Y4TxZwY1SQhvQR7Ttbdyyai4WRV5TU/content.json",
+ "modified": 1467810040.6521,
+ "signs": {
+  "1Ci5Y4TxZwY1SQhvQR7Ttbdyyai4WRV5TU": "G3n2IvxldFgDMWFS0CQV5uPc9h4YEr8tYZoSFCQ7MPrsVn4z+rFfvRY+f6+cRAnCqio4iUA9bITXvtUcftZM8yc="
+ }
+}

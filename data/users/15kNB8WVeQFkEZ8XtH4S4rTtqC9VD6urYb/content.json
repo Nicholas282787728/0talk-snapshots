@@ -1,0 +1,12 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HC3wD3A6GDsVz3UgRP2niAiTci+VfKXoE3lFFgYgxPIgRo1li0OEH0HJRUt3gO01tqOhGF8gWY4B4XvbagkSsmg=",
+ "cert_user_id": "ussruser@zeroid.bit",
+ "files": {},
+ "inner_path": "data/users/15kNB8WVeQFkEZ8XtH4S4rTtqC9VD6urYb/content.json",
+ "modified": 1457316822.442,
+ "signs": {
+  "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT": "HDPTLskfODLI2MJxpYTH4PT1JWL45DhPPvFkOWDsYldeaefe0QFpyomhazIfv84FJivHMZ1z67S8z5OquWeb9hM="
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "GxygO434rOLKWaaHtpEfOp9qrZV8Qx3dm5GdrbsYMQ0PzWh/p6mNKtAyFanad3K1k1c4UX9qlzeKXo0rWg8NHfU=",
+ "cert_user_id": "kiwikillerfruit@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "66f84284660c933fea5fc8ac641a3a6cd117015d5d163859abc8e25aec11c72d",
+   "size": 594
+  }
+ },
+ "inner_path": "data/users/1PhFvQ5bjmRf5fvJvxZU3oq7reiNanAL18/content.json",
+ "modified": 1470643226.818,
+ "signs": {
+  "1PhFvQ5bjmRf5fvJvxZU3oq7reiNanAL18": "HGvTbzHKEq5d7kpyZ773ykVRLsCjPgBxiMHQha5w3uH9YKAgAMvJHJ69tM/iOj5iNvXAhEhRwIg0ir5/G14brOg="
+ }
+}

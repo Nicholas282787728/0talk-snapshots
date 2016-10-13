@@ -1,0 +1,26 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {
+		"6825_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG": 1,
+		"1_17i7Y7r8nTaCfLbCAuaKyc4R5BbKZYU2Hr": 1
+	},
+	"next_comment_id": 3,
+	"comment": {
+		"6_13hcYDp4XW3GQo4LMtmPf8qUZLZcxFSmVw": [
+			{
+				"comment_id": 1,
+				"body": "I have little understanding of how things works on zeroID and \"NanasiID\". But I have a general question: how is concurrency handeled and what's a difference in mentioned solutions(if any)? I mean can two users have same human readable nick?",
+				"added": 1468880932
+			},
+			{
+				"comment_id": 2,
+				"body": "Thanks for response!\n\nOne more question - in Nanasi's solution is there anything preventing me from deleting all of user identities?",
+				"added": 1468956981
+			}
+		]
+	},
+	"comment_vote": {
+		"1_1FDhCAP9pqKaonKkhAibsYCjRwwtbr3GYD": 1
+	}
+}

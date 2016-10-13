@@ -1,0 +1,23 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 3,
+	"comment": {
+		"1_1EmKu3AxsUduZzr99SryZbfcPrihsZV9mg": [
+			{
+				"comment_id": 1,
+				"body": "> [tkarita](#comment_131_1GervYZoP82e8X1Rgc4wyMkJY2zSsJuq8t): ZeroHello can search through sites you're following in the newsfeed, but tbh you can find more with grep.  Almost everything is stored in plain text.\n\nWait...do you mean that ZeroNet stores everything in plain text locally? but the traffic is always encrypted?",
+				"added": 1473209751
+			}
+		],
+		"5_1C6qdRAX8iYqSB7TfUxk91yW8Y2SBKNgfA": [
+			{
+				"comment_id": 2,
+				"body": "Well...it doesn't show mine. \nI guess you probably fail to modify \"torrc\" properly.",
+				"added": 1473209838
+			}
+		]
+	},
+	"comment_vote": {}
+}

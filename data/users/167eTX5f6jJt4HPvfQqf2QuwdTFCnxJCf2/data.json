@@ -1,0 +1,202 @@
+{
+	"next_topic_id": 11,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "Is embedded content like IMGUR images in zeropages/onion sites de-anonymizing?",
+			"body": "Example: http://127.0.0.1:43110/1LHt9Ry3aoH7tBmbbKyquu7wEK2EE7yzcs\n\nQuestion is:\n1) Embedding pictures like that defeat the purpose of zeronet, that is decentralization?\n2) Even if surfing with \"--tor always\", those pictures are distributed securely from IMGUR or de-anonymize any reader/seeder of that blog?",
+			"added": 1454788272
+		},
+		{
+			"topic_id": 2,
+			"title": "New ZeroHello: Flexible tabs/Bookmarking Idea",
+			"body": "The main thing for Zeronet to attract people besides discoverability would be to allow users easy sorting of pages that he/she likes (like bookmarking).\n\nThe new Zerohello has now kind of \"wasted\" space in the middle compared to the old version.\nHow about using that space for users favorite bookmarks place, where one can drag and drop sites from the left sidebar to the middle, rearrange the order to ones liking, delete favorite bookmarks, etc., something looking like Jumpstart: http://lh5.ggpht.com/_B0CuCDv4i18/SQsnUGFFGcI/AAAAAAAAA1g/aHExWnft6D0/s1600-h/New%20Tab%20JumpStart%5B3%5D.jpg\n\nIs it possible to have individual customized startpages and save them per user?",
+			"added": 1454933716
+		},
+		{
+			"topic_id": 3,
+			"title": "Emscripten ports on Zeronet?",
+			"body": "Is it possible to copy+paste things from here to zeronet:\nhttps://github.com/kripken/emscripten/wiki/Porting-Examples-and-Demos",
+			"added": 1454967692
+		},
+		{
+			"topic_id": 4,
+			"title": "Webpage not working on zeronet, only locally",
+			"body": "Anyone got an idea why this website works locally (simply clicking the index.html), but not on zeronet?\nhttp://127.0.0.1:43110/19VKLy7AAJaKfXb4sdE8YQjRaUcYfBXdis",
+			"added": 1455054838
+		},
+		{
+			"topic_id": 5,
+			"title": "Zero Bird",
+			"body": "http://127.0.0.1:43110/1LMG9b3mhvnfAiMpRccSNzvTbq6bYCQWLf",
+			"added": 1455108186
+		},
+		{
+			"topic_id": 6,
+			"title": "\"Open Site\" message",
+			"body": "When clicking on a game, that is then loaded into another zeronet page, i get repeated messages to confirm i want to open it from a link:\nhttp://127.0.0.1:43110/1T9fgrEwujZf7ACT9G1q5UaGdd6LunDYs\n\nIs that correct behaviour to continously open pages or any idea how to make it work better?",
+			"added": 1455203207
+		},
+		{
+			"topic_id": 7,
+			"title": "zeronet API",
+			"body": "Is it possible given a zeronet adress to get number of peers and last update time for that adress/site?",
+			"added": 1455626195
+		},
+		{
+			"topic_id": 9,
+			"title": "Error saving objects on cloned ZeroQuotes website",
+			"body": "Hi,\n\nhttp://127.0.0.1:43110/14LPKMNiDdgvSyhcboimzaALEeVYDvZ7qe\n\nI cloned website ZeroQuotes to use for different content than Quotes, but get errormessage when trying to save new entry:\nInternal error: TypeError: 'bool' object has no attribute '__getitem__'\nUiWebsocket.py line 97 > UiWebsocket.py line 173 > UiWebsocket.py line 310 > UiWebsocket.py line 276\n\nAnyone knows whats wrong and how to make it work?",
+			"added": 1455708186
+		},
+		{
+			"topic_id": 10,
+			"title": "Difference between \"_blank\" and \"right-click\" open in new tab/window?",
+			"body": "Hi,\n\nif I click on a link that opens via _blank, the opened website displays the yellow warning, but if I manually chose \"open in new window\" via right clicking on a link, it opens fine.\nWhat exactly is it inside the two newly opened windows that causes the difference in behaviour?",
+			"added": 1455790994
+		}
+	],
+	"topic_vote": {},
+	"next_comment_id": 23,
+	"comment": {
+		"1_167eTX5f6jJt4HPvfQqf2QuwdTFCnxJCf2": [
+			{
+				"comment_id": 1,
+				"body": "@ekaterina: how do you run two tor instances with zeronet?\nBest would be to have one tor instance serving clearnet and zeronet.",
+				"added": 1454792378
+			},
+			{
+				"comment_id": 2,
+				"body": "When I check this: \nhttps://check.torproject.org/\n\nit says \"not running tor\", even if i start \"tor\" after editing the /etc/tor/torrc suggested to work with zeronet.\n\nThere are also non-onion connections shown in bash when starting zeronet with --tor always?",
+				"added": 1454793269
+			}
+		],
+		"11_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf": [
+			{
+				"comment_id": 3,
+				"body": "> [ow](#comment_24_13KqD3BoaRMudEG5QU2fnGLkSVx8qDXKof): Maybe we could use a master private key method?\n\nI think the important thing of this scenario is to prevent an update of a well established site where e.g. everything is deleted and instead an \"all gone\" message put up there, which then automatically starts to \"destroy\" all copies by rendering them useless. Effectively, this would undermine the decentralization part of zeronet, with still having a single point of failure for possible attack of the \"master site\" (like with vampires: always kill the master).",
+				"added": 1454946837
+			}
+		],
+		"2_167eTX5f6jJt4HPvfQqf2QuwdTFCnxJCf2": [
+			{
+				"comment_id": 4,
+				"body": "yes, thats useful when you follow sites, still it could be also used for kind of a favorites place like modern browsers (especially mobile ones) offer default.\nSo the middle space has multiple usecases, like now it already has two usecases showing some fixed startsites or newsfeed.\nThe idea is to make the fixed startsites flexible in allowing add, delete and reorder those \"tabs\".",
+				"added": 1454947179
+			}
+		],
+		"10_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf": [
+			{
+				"comment_id": 5,
+				"body": "> [klauszimmermann](#comment_26_15QGRquMETTn5LnCHjTm1qa9eaXGtq7gpT): This. And also sort the ZeroHello sites by most recently updated, not number of seeders. More dynamic sites are usually more interesting as well, so that's where the spotlight should point!\n\n+1",
+				"added": 1454966065
+			},
+			{
+				"comment_id": 6,
+				"body": "more js emulators decentralized: http://archive.vg/blog/a-big-list-of-browser-based-emulators-and-ports-of-classic-games",
+				"added": 1454966103
+			}
+		],
+		"3_168qV1Xxp2EyszrzdECLUwXrn9wGYjDdar": [
+			{
+				"comment_id": 7,
+				"body": "SimCity Javascript: http://127.0.0.1:43110/13ozLST1c4rqUjCNLg1YFGWnYVVfPsVqnV",
+				"added": 1455017719
+			},
+			{
+				"comment_id": 11,
+				"body": "Some DOS Games:\nhttp://127.0.0.1:43110/1T9fgrEwujZf7ACT9G1q5UaGdd6LunDYs\n\nThe clue here is that the content is seperated from the service, that is to play the games.\nSo the links \"forward\" the content to the service provider, giving the chance for competition for the best service provider for each content type.",
+				"added": 1455217797
+			},
+			{
+				"comment_id": 22,
+				"body": "> [lukipuki](#comment_1_1CMYxdit4qq9QGk9DYRu2ruRPd2YDGckH8): Hey, I made some kind of Image-Blog. Nothing fancy, just some generative 'art' (or whatever you want to call it).\n> http://127.0.0.1:43110/1HzKesHsWG3N96CfW9eC2aL9VKY7EDm2Zj\n\nnice, is that art collected from elsewhere or done by yourself?",
+				"added": 1455835096
+			}
+		],
+		"4_167eTX5f6jJt4HPvfQqf2QuwdTFCnxJCf2": [
+			{
+				"comment_id": 8,
+				"body": "Do you know where that happens and what could be changed to make the emulator work without cookies?",
+				"added": 1455055750
+			},
+			{
+				"comment_id": 9,
+				"body": "got it somehow readable and working, thanks!",
+				"added": 1455103398
+			}
+		],
+		"6_167eTX5f6jJt4HPvfQqf2QuwdTFCnxJCf2": [
+			{
+				"comment_id": 10,
+				"body": "Works, thank you very much!",
+				"added": 1455203846
+			}
+		],
+		"19_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf": [
+			{
+				"comment_id": 12,
+				"body": "@oxilic: How to crawl + index mostly javascript rendered pages on zeronet?",
+				"added": 1455534876
+			}
+		],
+		"1_16irrH5hRDUX3nrY71JFrRChNEr5p9b6jS": [
+			{
+				"comment_id": 13,
+				"body": "nippletwister: i cant, it just displays \"index.html2\" as text on screen",
+				"added": 1455566125
+			}
+		],
+		"15_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf": [
+			{
+				"comment_id": 14,
+				"body": "Interesting, I like the top bar and search engine of Qora, reminds of google:\nhttps://www.youtube.com/watch?v=dNJ9s08m0qc",
+				"added": 1455652092
+			},
+			{
+				"comment_id": 16,
+				"body": "> [ekaterina](#comment_29_1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD): Hmm, interesting idea. You can download snapshots of a blockchain so this should be possible. But then you have to trust the source that the blockchain hasn't been tampered with. But maybe the creation of those snapshots could be decentralized too, so that there is a consensus if a snapshot is trustworthy.\n\nThat snapshot idea is what could be the key missing from current zeronet. It may solve the whole trustworthiness issue and also versioning history if some established site goes haywire?",
+				"added": 1455712937
+			},
+			{
+				"comment_id": 17,
+				"body": "> [ekaterina](#comment_31_1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD): True, could work I think (although I'm just a hobby web dev, so no idea if this is feasible). The client would just create a tarball of a site in a backup folder before a site is updated (excluding user files so that things like voting and commenting don't create a new site version), then check with other peers who have also done this, they would sign the tarball saying yup I've created the same tarball here. Then this could be integrated in the ZeroNet sidebar, one click to go back to the previous version (or select from a list of all versions). Binary diffing could also be used to only save the differences between the last time the site was backed up, so that the size of the site history doesn't get too big. Going back to a different version would then create a clone of the site at a different address which you then could share with other people on ZeroTalk and co, because nobody should be able to take someones site over, even if the site owner does something nefarious, and even if there was a consensus to go back to the old version (IMHO). And I guess these history/backup files should be optional files to download, so if you want a site's history you would just check it in the ZeroNet sidebar like you can do with optional files.\n\nNice, like a built-in archive.is/org :)\nBut whos the first to test and see if the site update is okay? Wouldnt all people voting on the update need to safe-test itself?",
+				"added": 1455716115
+			},
+			{
+				"comment_id": 18,
+				"body": "> [ekaterina](#comment_27_1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD): they put the community and the IPFS gateways under a code of conduct so it's not everyone's cup of tea, makes me very wary of it. It's interesting that it's so popular, I would have thought those most interested in decentralized technology would be those who do not want yet more censorship. You would have to change your username there I think, the terms are very strict and cover not just speech but usernames too. Nothing rude, offensive, sexually inappropriate, and so on and so on. It's a long list.\n\nI dont understand this, isnt IPFS supposed to be like zeronet, in the sense that anyone can setup IPFS on a home-server and operate it freely? Or if the IPFS puts restrictions on it, use the technology and clone it into another network free of those limitations? How does IPFS monitors this anyway, is it setup like a cnetralized overload/guard system, so its federated, but not decentralized?",
+				"added": 1455716291
+			},
+			{
+				"comment_id": 19,
+				"body": "Regarding IPFS:\nCan  something like this be built in or into zeronet: https://github.com/ipfspics\nAnd also implenent some sort of validation before publicizing uploaded content, like the maintainer or some editors?",
+				"added": 1455718056
+			}
+		],
+		"1_1PPqTMbH8Uwrk496grUVuBk57dSoeU9hig": [
+			{
+				"comment_id": 15,
+				"body": "So points to consider in the future are:\n- websites can be deleted/rendered useless by maintainer\n- small files limitation problem\n- javascript/trust\n- not truly anonymous yet even with current tor-mode (maybe tor mode can be tightened)?\n\nAnything else?",
+				"added": 1455697031
+			}
+		],
+		"2_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": [
+			{
+				"comment_id": 20,
+				"body": "test",
+				"added": 1455750994
+			}
+		],
+		"10_167eTX5f6jJt4HPvfQqf2QuwdTFCnxJCf2": [
+			{
+				"comment_id": 21,
+				"body": "Example links to click on this page: http://127.0.0.1:43110/1Dt7FR5aNLkqAjmosWh8cMWzJu633GYN6u",
+				"added": 1455791060
+			}
+		]
+	},
+	"comment_vote": {
+		"45_1LWuc6JBhUGrKEAh1aPrPU85dEMcKmg3pS": 1
+	}
+}

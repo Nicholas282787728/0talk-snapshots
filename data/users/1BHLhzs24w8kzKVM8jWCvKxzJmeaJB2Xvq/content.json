@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HPO70p988Y322S43FlDvbvSKMfLI1GbbzsSKBtJMwoEzgejCPSo8vnITaL6MCiszd2MMjEGjUYuQLH0Bjt2VbqU=",
+ "cert_user_id": "msspecialist@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "6d4ab793d5f3f982cd7cff1838e400327c6b1f80d03ab42baccd36e1eeaeaf64",
+   "size": 249
+  }
+ },
+ "inner_path": "data/users/1BHLhzs24w8kzKVM8jWCvKxzJmeaJB2Xvq/content.json",
+ "modified": 1470599222.697,
+ "signs": {
+  "1BHLhzs24w8kzKVM8jWCvKxzJmeaJB2Xvq": "HHR7Rn/9EAI7nysfYRVZ2pWYvWwAnSzZxiCE6xxx/gcor4xvbft6ghEAJBnk4MS/KirIw0qMMAHmIWwl9aXr4+c="
+ }
+}

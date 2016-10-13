@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HP7sC1SG7wMtXgS7Wu31WDeJQ2c1xaAPZLr1CC+RgmNjkBS0gnohKdqGvob1bAGNR8VxntSjboXcpodvbhujW7o=",
+ "cert_user_id": "chinatown@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "da5d31e4a788bd0fdbcf1efe1cfd0a6533e25dc4b80e2ef57b4b340eb854d253",
+   "size": 253
+  }
+ },
+ "inner_path": "data/users/1HmzM7268o9bNscNXj5yjrYQpm8bBZcwCV/content.json",
+ "modified": 1458007522.685918,
+ "signs": {
+  "1HmzM7268o9bNscNXj5yjrYQpm8bBZcwCV": "HJc2eWdgfczwo1pp+I6JlIC1ECtiFc99Ps3+Q6CZaLfnaKVeU3MSgKFyEwurcN/lIAE8U9FRh5dkRAYIybmmtho="
+ }
+}

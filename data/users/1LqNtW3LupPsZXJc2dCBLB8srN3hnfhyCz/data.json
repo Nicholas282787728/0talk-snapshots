@@ -1,0 +1,34 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {
+		"1_14yb6qdkbYmhqt6rVxUqXo65s4i63BffAr": 1,
+		"1_17ApQKugX1XH727gpAeD3mrRLjLxASdakd": 1,
+		"1_12ve3nmRvDkay7puHnhTT5pgqAo9Uo8ee6": 1,
+		"1_12xtj36axnhJ5M7jfCQNfDbMYK7hg7uvjM": 1
+	},
+	"next_comment_id": 3,
+	"comment": {
+		"1_14yb6qdkbYmhqt6rVxUqXo65s4i63BffAr": [
+			{
+				"comment_id": 1,
+				"body": "Alguém sabe pq nao pode usar no android e se há previsão?",
+				"added": 1457584563
+			}
+		],
+		"1_17ApQKugX1XH727gpAeD3mrRLjLxASdakd": [
+			{
+				"comment_id": 2,
+				"body": "Venha conversar em Português no ZeroTalk, o Microblog do ZeroNet!!!\nhttp://127.0.0.1:43110/13RhXecmBH34X44Nohf2qMogZKH7KzoG78/",
+				"added": 1457594239
+			}
+		]
+	},
+	"comment_vote": {
+		"22_1MaXyfVAZyyRfY2n8G81sVwRuUZhnzDLX": 1,
+		"1_17fTdHNN8SG87jATPehDUrY4iPxmEBVmfM": 1,
+		"2_14gGPfCHoaUU7PizjB6PaUmM6pZ5YV5H4f": 1,
+		"13_1BEvmD7jRfwieXU5H3o1rCT35Y3VV1p9TW": 1,
+		"77_1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD": 1
+	}
+}

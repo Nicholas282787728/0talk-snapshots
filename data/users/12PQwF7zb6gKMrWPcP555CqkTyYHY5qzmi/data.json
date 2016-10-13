@@ -1,0 +1,30 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "zeronet/pol/",
+			"body": "Hello fellow goyim. I guess this is where we can fall back if we have to ?",
+			"added": 1473000970
+		}
+	],
+	"topic_vote": {},
+	"next_comment_id": 3,
+	"comment": {
+		"1_1ELBjparWRzWWptstDfNtKyY2E5mHtL5J4": [
+			{
+				"comment_id": 1,
+				"body": "Doctor CIA i am Bane",
+				"added": 1473000854
+			}
+		],
+		"2_1DcE9QfZbfLZhXxgtQ8Ui3oMZvs9NVjqZB": [
+			{
+				"comment_id": 2,
+				"body": "> [kingbudgie](#comment_15_17nphNHoGtz9EzvvTSSbZn7WHfM1ynpdsL): WE GET IT, you are a special autistic geek that is immune to facts.\n\nI wonder (((who))) could be behind this post",
+				"added": 1473001684
+			}
+		]
+	},
+	"comment_vote": {}
+}

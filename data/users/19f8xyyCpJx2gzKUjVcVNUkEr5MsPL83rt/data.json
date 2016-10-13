@@ -1,0 +1,27 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {
+		"1_16m4KFYTxwbNsMUau3t493txwvHxnwb3b9": 1
+	},
+	"next_comment_id": 3,
+	"comment": {
+		"1_16m4KFYTxwbNsMUau3t493txwvHxnwb3b9": [
+			{
+				"comment_id": 1,
+				"body": "here a example http://127.0.0.1:43110/1ASVFYc3TgWf5oFhSmY4Gjc2raEzuYpWZv  i wont update the site and is up to you zeronet users to fork and update this",
+				"added": 1457774874
+			},
+			{
+				"comment_id": 2,
+				"body": "one more comment on this, is better to have a simple model with allot of data that a fancy model with some data, inferential forecasting have no place in bitcoin because all data is available",
+				"added": 1457775584
+			}
+		]
+	},
+	"comment_vote": {
+		"68_15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ": 1,
+		"1_19f8xyyCpJx2gzKUjVcVNUkEr5MsPL83rt": 1,
+		"2_19f8xyyCpJx2gzKUjVcVNUkEr5MsPL83rt": 1
+	}
+}

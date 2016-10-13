@@ -1,0 +1,15 @@
+{
+ "cert_auth_type": "web", 
+ "cert_sign": "G/1hHkU9Ku8sxnRulVxpCpVgkreoVhGcJIPCPJeoC2xqHP60T2we2ww4g9ZxNDI2Xthllgl+ZcLqxUw0TtK3OGA=", 
+ "cert_user_id": "konubinix@zeroid.bit", 
+ "files": {
+  "data.json": {
+   "sha512": "5fbf2aceaf2523aee7eec2491e3c198d98fd53275536785acb94249438cfcecc", 
+   "size": 393
+  }
+ }, 
+ "modified": 1453537537.773075, 
+ "signs": {
+  "1JWV37RdEUEwDuK3ZuuzzkHMG9jkPyPYrM": "G1X6bAVQtFvPflODmpQ7tCDqUBHoEGb3r098LycH1Ow1M15u4F3il4FWZbzuZeZlsDJfnWcqXdTbHDJLco1fAZM="
+ }
+}

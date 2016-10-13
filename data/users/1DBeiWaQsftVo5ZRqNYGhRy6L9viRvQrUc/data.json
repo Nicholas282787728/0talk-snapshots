@@ -1,0 +1,25 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 3,
+	"comment": {
+		"8_1PNyuY1iZqXBpft4ArouqcnE4pNRGYij5i": [
+			{
+				"comment_id": 1,
+				"body": "cause of the crazy tshabs who made zerovid experiment !",
+				"added": 1441653615
+			}
+		],
+		"1_16XLqRV4cwdqvbHCS3M2jH3xuP7ZPv1Y8k": [
+			{
+				"comment_id": 2,
+				"body": "> [edisontrent](#comment_10_18ECMG6USRQenXgf7QdxDniLGi7PLBcKjX): Right now my hobby is developing a fully functional imageboard on ZeroNet. Things are looking pretty good from here.\n\nLooks like there is already an attempt on this here : http://127.0.0.1:43110/1C2JhCunGLtvyX56nQ88tcb87WnXspjWN",
+				"added": 1441700016
+			}
+		]
+	},
+	"comment_vote": {
+		"1_1FPzL4N6zBuQg72JRKx6f2XqxKMeQwXXn": 1
+	}
+}

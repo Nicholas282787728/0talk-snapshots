@@ -1,0 +1,44 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "[Guide] Adding obfs4 support to Zeronet",
+			"body": "A basic guide to ensuring Zeronet isn't blocked due to its use of tor.\nhttps://www.reddit.com/r/zeronet/comments/4n12a7/guide_adding_obfs4_bridge_support_to_zeronet/",
+			"added": 1465341535
+		}
+	],
+	"topic_vote": {
+		"1_19mfoBRfUNYUhv9MAeihggMTW6ejWcctJi": 1
+	},
+	"next_comment_id": 5,
+	"comment": {
+		"1_19mfoBRfUNYUhv9MAeihggMTW6ejWcctJi": [
+			{
+				"comment_id": 1,
+				"body": "By default, the instance of tor bundled with Zeronet does not come with pluggable transports. Said pluggable transports are a crucial part of any tor instance, as it helps your tor instance overcome potential firewalls and ISP censorship.\nHere is a step-by-step guide to adding this crucial function to Zeronet.\n\n1.) If you don't have an instance of the Tor Browser Bundle, download it. Follow the extraction instructions.\n\n2.) Open your TBB instance and navigate to Browser\\TorBrowser\\Tor. There should be a folder in there named \"Pluggable Transports.\" Right-click copy it.\n\n3.) Open your Zeronet instance and navigate to ZeroNet\\tools\\tor\\data. Paste the Pluggable Transports directory there.\n\n4.) Go up one directory, to ZeroNet\\tools\\tor. Open the torrc file, and add the following lines:\n\nClientTransportPlugin fte exec data\\PluggableTransports\\fteproxy --managed\nClientTransportPlugin obfs2,obfs3,obfs4,scramblesuit exec data\\PluggableTransports\\obfs4proxy\nUseBridges 1\n\n5.) Go to https://bridges.torproject.org/bridges?transport=obfs4\n\nand acquire an obfs4 proxy address. Add the bridge to the torrc file, then save and close.\n\n6.) If already running, restart your instance of Zeronet.\n\nThat's it! Your instance of Zeronet should now be running through an obfs4 proxy.",
+				"added": 1465341612
+			},
+			{
+				"comment_id": 2,
+				"body": "> [bullishonline](#comment_3_1Hw8MgzEGWsLfBRhKkCfah1SLqXoh2f64g): How do I get it to connect from proxy as well? (I'm on a proxy for ZeroNet atm. I will also add that I use custom bridges.)\n\nYou'll need to configure tor to use said proxy.  Bear with me; I've never had to do this before.\n\nI fiddled around with the Tor Browser Bundle startup wizard, and found all the settings you will need.\nFor a SOCKS5 proxy, here is an example configuration:\n\nSocks5Proxy 10.0.0.1:80\nSocks5ProxyUsername bullishonline\nSocks5ProxyPassword hunter2\n\nFor an https proxy, here is another example:\nHTTPSProxy 10.0.0.1:443\nHTTPSProxyAuthenticator bullishonline:hunter2\n\nIf you've done this already to get the Tor Browser Bundle working, then you can extract the required lines for the torrc there.  You'll find it in Browser\\TorBrowser\\Data\\Tor.",
+				"added": 1465420133
+			}
+		],
+		"1_1KSynGkJ19GwKmR8BM2PTqWENa8rQ9vJS7": [
+			{
+				"comment_id": 3,
+				"body": "> [scrub](#comment_86_1ADB7TdX2fVbTsWBoMe9yBTmVXTbb33b4R): I would like a easy setup like what the Tor Browser Bundle has. Why? So I can connect to ZeroNet at school.\n> @nofish I've currently used 39.7K/40K and I need to raise my limit. >.<\n\nThis, plus built-in obfs4 support.  I managed to whack in support for it, but it has one glaring bug that I just can't get rid of.\nWhen you terminate or restart zeronet, it terminates tor, but not the obfs4proxy process it spawns.  The leftover process then interferes with zeronet when you try to start it again.\nI'm trying to modify Tormanager.py in the zeronet code to fix this, but it's proving difficult.",
+				"added": 1465423428
+			}
+		],
+		"1_1MKgosdi6YqUTZQgviPXdEUWopfXpM8vkF": [
+			{
+				"comment_id": 4,
+				"body": "> [boby1904](#comment_1_1MKgosdi6YqUTZQgviPXdEUWopfXpM8vkF): I receive the following error:\n> TorManager Tor controller connect error: IOError: [Errno 13] Permission denied: u'/var/lib/tor/control_auth_cookie' in TorManager.py line 165\n> Anybody?\n\nThat's a permissions error.  You may need to elevate the command with sudo (if available), or su.  I'm guessing you're trying to follow the instructions from here?: https://zeronet.readthedocs.io/en/latest/faq/#how-to-make-zeronet-work-with-tor-under-linux",
+				"added": 1465781123
+			}
+		]
+	},
+	"comment_vote": {}
+}

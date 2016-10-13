@@ -1,0 +1,73 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {
+		"1_15P5kZhBwmwiuBmSUBSkBsT2DLEUYvn24u": 1
+	},
+	"next_comment_id": 9,
+	"comment": {
+		"10_17i7Y7r8nTaCfLbCAuaKyc4R5BbKZYU2Hr": [
+			{
+				"comment_id": 1,
+				"body": "ZeroMail :)",
+				"added": 1458707211
+			},
+			{
+				"comment_id": 2,
+				"body": "> [crypton](#comment_57_17fgJ3tZjhM7HCkTkd5TWf2BLLWmhRKcXB): You can use a browser extension like Mailvelope that uses OpenPGP.js (based on OpenPGP standards)\n\nDo you trust Javascript to do the crypto for you? (I'm not bashing languages)\n\nBecause that sounds like a pretty clever and rather unthought-of solution.",
+				"added": 1458783287
+			}
+		],
+		"11_1MEWJRMLgvofqG9Mbsb2Rc4hFFyv7HeRx7": [
+			{
+				"comment_id": 3,
+				"body": "> [malbonkonduta](#comment_1_154gAnMB3ChRWzTgxj4DNwVX53JXyQYMZf): fuck islam!\n\n> [zentralsonne](#comment_2_16ojERmxhsiYi13evABojDh1JgDNqodpZF): fuck islam, fuck liberals who bring islam terorist to Europe\n\nPlenty of [Christian terrorists](https://en.wikipedia.org/wiki/Anders_Behring_Breivik) and criminals around, pal ;)",
+				"added": 1459104443
+			}
+		],
+		"1_18jipjDsfAxAuq4ixbi2w24xJrYVfTYFPn": [
+			{
+				"comment_id": 4,
+				"body": "Pandora",
+				"added": 1459109298
+			}
+		],
+		"1_15P5kZhBwmwiuBmSUBSkBsT2DLEUYvn24u": [
+			{
+				"comment_id": 5,
+				"body": "I've read it and it's excellent, like most other Doctorow works.\n\nIncidentally, It's available for download within ZeroNet through [The Free Library](http://127.0.0.1:43110/1Hsv1b1ij5gAk5SGc23tmDmUQXwF31aXWb). To download it, all you need is a running ZeroNet instance and to click here:\n\nhttp://127.0.0.1:43110/1Hsv1b1ij5gAk5SGc23tmDmUQXwF31aXWb/?Post:3:Cory+Doctorow+-+Little+Brother\n\nEnjoy!",
+				"added": 1459650067
+			}
+		],
+		"1_18ZfPCaU1pYAeos3A7YhZVgtsmXqXeRRW7": [
+			{
+				"comment_id": 6,
+				"body": "I have a basic premise to think that `ZeroMail != EMail` despite its name.\n\nI think of ZeroMail more along the lines of Bitmessage: a P2P messaging system,  encrypted by default and with its own separate network. Perhaps, then, it would be better to rename it ZeroMessage to avoid confusion, but again, those are just my 2c.",
+				"added": 1459889913
+			}
+		],
+		"1_1K7fPamTWE8J9ogsdFoyjmtjq1FjBeRQGW": [
+			{
+				"comment_id": 7,
+				"body": "[It depends on what the meaning of word \"is\" is](https://www.youtube.com/watch?v=j4XT-l-_3y0)",
+				"added": 1460315670
+			}
+		],
+		"5_1FieP4c1gxFme5webFJB9x5ZPBXdR6p3Fs": [
+			{
+				"comment_id": 8,
+				"body": "*Sigh...* Won't these people ever learn?\n\nThey should be forced to write one hundred times on the board: [Copying is not theft; stealing a thing leaves one less left, copying it makes one thing more](http://questioncopyright.org/minute_memes/copying_is_not_theft).",
+				"added": 1461292001
+			}
+		]
+	},
+	"comment_vote": {
+		"83_1PVcdu7USZH2kHMETbqDYLPjJZKCDWM52k": 1,
+		"57_17fgJ3tZjhM7HCkTkd5TWf2BLLWmhRKcXB": 1,
+		"87_1H8oKiRa7fGgUqS1hpUtaSYLvAqkaknbkf": 1,
+		"116_1KwTTgPRSTHFmmJAFBt6kQfdyNeSM5KJuH": 1,
+		"27_18rFd7W9y5QGQEVXaCoJV7jyt7D8aN156h": 1,
+		"1_1Dj5WCaPV2r18QcDQFHmyx2HnGmwMJce9b": 1,
+		"3_13hcYDp4XW3GQo4LMtmPf8qUZLZcxFSmVw": 1
+	}
+}

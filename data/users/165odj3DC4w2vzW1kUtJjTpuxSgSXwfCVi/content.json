@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "G4N805Joe0neyVL53TSJH3bb8K+BO1uVBVAclops44yPNEZjW4mwMxhci1dA1UMZ7R+XA8J1S9p/LceouKlsGUg=",
+ "cert_user_id": "cia@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "727216c781afe3eca975ee4b802ca745d6bd6622eba69d64a35c3e959f228848",
+   "size": 391
+  }
+ },
+ "inner_path": "data/users/165odj3DC4w2vzW1kUtJjTpuxSgSXwfCVi/content.json",
+ "modified": 1459412964.391,
+ "signs": {
+  "165odj3DC4w2vzW1kUtJjTpuxSgSXwfCVi": "G346MAoDjYJc7f3qWV0b84h6lm5ztvT3Gvh226VNM7jC9zRQmRU1nbrF2vg0wvXzX8/kuMVe32Chy2yOs61FUu8="
+ }
+}

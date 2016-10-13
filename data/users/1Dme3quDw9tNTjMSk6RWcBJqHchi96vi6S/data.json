@@ -1,0 +1,25 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "ZeroTalk - Italia",
+			"body": "Uno spazio per quelli che parlano la lingua del bel paese :)",
+			"added": 1436995962
+		}
+	],
+	"topic_vote": {
+		"1_1Dme3quDw9tNTjMSk6RWcBJqHchi96vi6S": 1
+	},
+	"next_comment_id": 2,
+	"comment": {
+		"1_1Dme3quDw9tNTjMSk6RWcBJqHchi96vi6S": [
+			{
+				"comment_id": 1,
+				"body": "Ciao a Tutti :)\nPrimo post sullo spazio italiano di ZeroNet. Sono davvero curioso di vedere se ci sono altri Italici di passaggio da queste parti.",
+				"added": 1436996020
+			}
+		]
+	},
+	"comment_vote": {}
+}

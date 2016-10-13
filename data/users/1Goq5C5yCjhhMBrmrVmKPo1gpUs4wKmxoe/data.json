@@ -1,0 +1,23 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 3,
+	"comment": {
+		"1_1BQg5MQZ63aEQZMzLEXP6yY3hsgznKpaps": [
+			{
+				"comment_id": 1,
+				"body": "Mac OS here, but I've got Windows, Arch and Debian Boxes in the lab ;-)",
+				"added": 1458668749
+			},
+			{
+				"comment_id": 2,
+				"body": "Hells to the yeah it does !\n> [morro](#comment_4_1AkQwH5jKWsMFH8zAo5zCu9RV2Csa57RYF): Does osx counts as well?",
+				"added": 1458668915
+			}
+		]
+	},
+	"comment_vote": {
+		"3_1DjezZz4h4amzFHeeq1cMJzWfNCnHcamby": 1
+	}
+}

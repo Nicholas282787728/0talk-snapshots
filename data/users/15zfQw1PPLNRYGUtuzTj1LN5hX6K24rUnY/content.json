@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HDBPrSOv+OS5pHiK5cPzpFbHqK2zAfRjVpL7VpAJZRRLWN7NM0xl+Dtdf3ORtMqRoIvRmISITVKHY0ixDmyzLYw=",
+ "cert_user_id": "nickflamel@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "5c65b5ce2935ae2b7d200fe444543a906391eaa33f61e4e3a8ee5307794402c5",
+   "size": 280
+  }
+ },
+ "inner_path": "data/users/15zfQw1PPLNRYGUtuzTj1LN5hX6K24rUnY/content.json",
+ "modified": 1456902196.944,
+ "signs": {
+  "15zfQw1PPLNRYGUtuzTj1LN5hX6K24rUnY": "G1D8rcABxkEIZa7IHcWzfS6/XZBS0KyZHjydBKSAzb+OI43PhEcmsDX1I0l3+HVutKCeH+ftJZoSQMwHx3CLtrg="
+ }
+}

@@ -1,0 +1,172 @@
+{
+	"next_topic_id": 8,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "To the idiot who owns this account.",
+			"body": "You left it signed in on bit.no.com.",
+			"added": 1471695881
+		},
+		{
+			"topic_id": 2,
+			"title": "Error when visiting .bit",
+			"body": "Solved: If the domain has a - in it, the error occours. For example literally any domain from ZeroName with a - with it in the name won't work.",
+			"added": 1471894672
+		},
+		{
+			"topic_id": 3,
+			"title": "Videorama Portal",
+			"body": "http://127.0.0.1:43110/18SZadPsFtTEefBK5CTvRSFiBXs9TvAGEG/\n\nPrototype using merger site feature, so anyone can make their own Channel=Hub to agregate videos on the main site.\nNo webtorrent, magnetlinks or external clearnet sources everything is done inside zeronet.",
+			"added": 1472733503
+		},
+		{
+			"topic_id": 4,
+			"title": "Is the US Economy Heading for Recession?",
+			"body": "",
+			"added": 1472746196
+		},
+		{
+			"topic_id": 5,
+			"title": "You should really follow my adventures on ZeroMe",
+			"body": "http://127.0.0.1:43110/Me.ZeroNetwork.bit/?Profile/12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv/13Cqt2MSFS6eu4cbVuByZBuULrEAcZAqFG/beelzebub@zeroid.bit",
+			"added": 1472934080
+		},
+		{
+			"topic_id": 6,
+			"title": "Has anyone tried investing in LARA.",
+			"body": "",
+			"added": 1473006535
+		},
+		{
+			"topic_id": 7,
+			"title": "Videorama: User Channel Video and Audio Portal",
+			"body": "Alpha prototype of a complete decentralized selfcontained, zeronet videoportal...\n\nHas 3 parts:\n\nhttp://127.0.0.1:43110/18SZadPsFtTEefBK5CTvRSFiBXs9TvAGEG/\n\nVideorama Main Site, with videoplayer , acts like kinox.to frontend to aggregate and play content from all registered userchannels: \n\n\nUser Site (clone this to add your videos to your own channel): http://127.0.0.1:43110/1CRFBc4Tn8vvYdNBQCLRbuRwLZkNaHY8kz/\n\nRegister your channel here to become public on Main site: http://127.0.0.1:43110/1NP1a1aUghi3R6CEtA2WDCzDWE4n9xWmFf/\n\n\nWhy 3 parts? The way it is done is for maximum security and free participation or evolution, to avoid zeronet sites becoming portals that are \"centralized decentralized\" in zeronet.\nLike Videorama, anyone can clone the Main Frontend and develop a different looking frontend while pointing to the current Registration or another Registration in the future.\n\nNote:\nNew videos can take 10-15 minutes if over 100MB, depending on speed of peers, etc.\n(If someone knows how to quickstart playing while its still downloading, that would help).\n\nPlease try it out, any suggestions or help welcome :)",
+			"added": 1473012037
+		}
+	],
+	"topic_vote": {
+		"2_13Cqt2MSFS6eu4cbVuByZBuULrEAcZAqFG": 1
+	},
+	"next_comment_id": 19,
+	"comment": {
+		"2_13U9mRgV3bdkXiNXjMZeBWTcSHZjgNmk2z": [
+			{
+				"comment_id": 1,
+				"body": "http://127.0.0.1:43110/1HNf26SK9Hi9LES1kUKg6r36hDwhBdNBKM/",
+				"added": 1471683262
+			}
+		],
+		"1_1FEikAyxCNPJcW996B69r5UFg29yfq579m": [
+			{
+				"comment_id": 2,
+				"body": "Hi, i'm not beelzebub but its logged in and i'm lazy.\n\nI started working on this last summer but time ran away on me.  In theory its easy with Kivy + python-for-android (if anyone wants to have a shot).  Getting buildozer setup can be a bit fiddly.\n\nThis should be able to produce an apk (should work for ios also but i have no way of testing)",
+				"added": 1471738138
+			}
+		],
+		"7_19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ": [
+			{
+				"comment_id": 3,
+				"body": "Hi, ZeroTorrent creator here.  My apologies for absence but been really busy.  My current dev version of zerotorrent has some bugs that need resolving (and i'm procrastinating) relating to optional_files improvements so it should scale better.  At the same time i'm trying to rope in some designers to help with the interface.\n\nA couple of pain points:\n\n- Lack of database migrations (think south/django).  There is already data in two formats on ZeroTorrent.\n- Lack of proper sanitization of user data (can be done in coffescript/js but there is nothing to stop people running modified script or creating the json data files manually containing malicious js; the solution to this might be to sanitize on read).\n- Difficult to prevent spam without moderation or it being a general pain in the ass (I have been thinking of doing some kind of POW like bitmessage to post, and clients could ignore posts without enough work,in theory this can be done in javascript)\n- Difficult to (reliably) setup a testing environment with real data, without fucking up prod site. \n\nI have also been anticipating the merger sites feature and I am taking a look to see how it could be used to further help scaleability.\n\nIf I can take a couple of weeks out I will evaluate all this and am considering starting from scratch and doing things less hacky this time (which would involve launching on a new address; the .bit would be updated, but we again fall on the issue of migrating user data, unless i create a single user to reupload everything currently on zerotorrent but comments will be tricky and attriution will be lost).\n\nI am lurking around from time to time and I hear your calls for ebooks section and I promise to include this on the next update, however, as mentioned, reliably testing is a bit of a bitch and I am quite apprehensive about touching the live site as I have previously fucked it up due to database migration (change of schema) issues. \n\nNeed to get moving on this ........ \n\nBtw, not beelzebub.",
+				"added": 1471739551
+			},
+			{
+				"comment_id": 12,
+				"body": "Post zerotorrent source code on github, maybe some people will contribute.",
+				"added": 1472318623
+			}
+		],
+		"11_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": [
+			{
+				"comment_id": 4,
+				"body": "very interesting.....",
+				"added": 1471846227
+			}
+		],
+		"2_13Cqt2MSFS6eu4cbVuByZBuULrEAcZAqFG": [
+			{
+				"comment_id": 5,
+				"body": "It's the -. No - domains work. @nofish, please fix.",
+				"added": 1471895456
+			},
+			{
+				"comment_id": 6,
+				"body": "Oh wow, I fixed the issue myself. Now all I need is for @nofish to push it to master (I don't have github) so it is fixed for everyone else. It was a very simple fix. I just changed the 3 UiRequestPlugin.py files to read \"A-Za-z0-9-\" where they previously read \"A-Za-z0-9\".\n\nIt says it 3 times in each of the UiRequestPlugin.py files. If you just add - to the end, all the problems are solved.\n\nI feel like a l33t hacker xD\n\nIf anyone else with github wants to take credit and send a pull request, go ahead. It is clear I don't care for publicity as I am posting from a public account.",
+				"added": 1471901624
+			},
+			{
+				"comment_id": 11,
+				"body": "BUMP @nofish",
+				"added": 1472306095
+			}
+		],
+		"2_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": [
+			{
+				"comment_id": 7,
+				"body": "dfasfkjladsfadsf",
+				"added": 1471970455
+			}
+		],
+		"3_1HUrhTUZFB2KKsXLUv1vugPH358iB6zsiY": [
+			{
+				"comment_id": 8,
+				"body": "step 1:\ngo to http://127.0.0.1:43110/14vveXKfYf4ywjnkLedqWJzqSSF5YrntYM/ and download the site.\nstep 2:\nshutdown zeronet\nstep 3:\ngo to your zeronet installion folder, and open a console window\nstep 4:\ntype\n..\\python\\python.exe .\\zeronet.py --bit_resolver 14vveXKfYf4ywjnkLedqWJzqSSF5YrntYM",
+				"added": 1472273385
+			},
+			{
+				"comment_id": 9,
+				"body": "https://bit.no.com:43110/0chan.bit/?/b/thread/d4f408041cc95b5a75513a48eb06306d",
+				"added": 1472273436
+			}
+		],
+		"1_1Ewqk6zSHCnRGx8kTmygeBiiEhZGZ3yq6S": [
+			{
+				"comment_id": 10,
+				"body": "<3",
+				"added": 1472282650
+			}
+		],
+		"2_1AZjDLkfYwSmjM7ZJUf7HHnrF778augRMa": [
+			{
+				"comment_id": 13,
+				"body": "> [kaffie](#comment_187_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh): Trans women are women. Just because you're an idiot doesn't make that not true.\n> \n> Lots of cis people have genetic disorders and are not XX nor XY. Chromosomes have little bearing on sex and appearance. Seriously, go fucking learn your shit before you spew crap off like an idiot.\n> \n> Being trans is not a mental illness. Though I'd consider people who say stupid shit like the stuff you're saying to be mentally ill.\n> \n> Yes, there are cis women here. You don't believe it because you're a sexist transphobic bigot. If you don't like it here, gtfo.\n\nTransgenders and homosexuals are most certainly mentally or neurologically ill. Any abnormality that reduces chance of reproduction is an illness.",
+				"added": 1472756132
+			},
+			{
+				"comment_id": 16,
+				"body": "> [moonmanmeme](#comment_1_13CnFMgi6N7KQkuomswsVwSU7bKfRC82KY): No.And thats a good thing.This must be a new wild west of the internet.Cancerous content should be encouraged not frowned upon.\n\nSo few people appreciate cancer.  We believe you will enjoy http://127.0.0.1:43110/bloob.bit",
+				"added": 1472853018
+			}
+		],
+		"1_1DcE9QfZbfLZhXxgtQ8Ui3oMZvs9NVjqZB": [
+			{
+				"comment_id": 14,
+				"body": "More than in India considering its standard of living.",
+				"added": 1472756497
+			},
+			{
+				"comment_id": 17,
+				"body": "Go suck your own dick...",
+				"added": 1472920413
+			}
+		],
+		"3_13Cqt2MSFS6eu4cbVuByZBuULrEAcZAqFG": [
+			{
+				"comment_id": 15,
+				"body": "Thanks nutomic. We're working on the preview imgs, a few show up using various methods. First time load is getting the video via zeronetp p2p into your cache, then buffering it from there to your browser. Would be great to have zeronet/python load a video with sequential p2p load, so that a new user can start playing the video immediately even before fully downloaded in the cache.",
+				"added": 1472761969
+			}
+		],
+		"6_13Cqt2MSFS6eu4cbVuByZBuULrEAcZAqFG": [
+			{
+				"comment_id": 18,
+				"body": "I just want to know is it real or spam",
+				"added": 1473006607
+			}
+		]
+	},
+	"comment_vote": {
+		"5_13Cqt2MSFS6eu4cbVuByZBuULrEAcZAqFG": 1,
+		"6_13Cqt2MSFS6eu4cbVuByZBuULrEAcZAqFG": 1,
+		"11_13Cqt2MSFS6eu4cbVuByZBuULrEAcZAqFG": 1
+	}
+}

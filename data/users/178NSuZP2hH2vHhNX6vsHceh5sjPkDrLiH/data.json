@@ -1,0 +1,64 @@
+{
+	"next_topic_id": 7,
+	"topic": [
+		{
+			"topic_id": 4,
+			"title": "HUGE list of selfhosted services / wep apps",
+			"body": "I found a very long list of open source selfhosted services / web apps. Enjoy ;)\nhttps://github.com/Kickball/awesome-selfhosted",
+			"added": 1465757834
+		},
+		{
+			"topic_id": 5,
+			"title": "Is the partnership between Canonical and Microsoft a good thing ?",
+			"body": "Not a long time ago, Microsoft and Canonical decided to make a native Windows implementation in Ubuntu and  integrate a Linux bash in Windows 10. Is it a good thing?",
+			"added": 1465895391
+		},
+		{
+			"topic_id": 6,
+			"title": "IPFS : A peer-to-peer hypermedia protocol",
+			"body": "Hi everyone. i've been wandering the internet and i've found this. This is  a protocol that aims the same goals as Zeronet, decentralize the internet. It seems promising.\nhttps://ipfs.io/",
+			"added": 1466841700
+		}
+	],
+	"topic_vote": {
+		"1_178NSuZP2hH2vHhNX6vsHceh5sjPkDrLiH": 1,
+		"3_178NSuZP2hH2vHhNX6vsHceh5sjPkDrLiH": 1,
+		"4_178NSuZP2hH2vHhNX6vsHceh5sjPkDrLiH": 1,
+		"5_178NSuZP2hH2vHhNX6vsHceh5sjPkDrLiH": 1,
+		"6_178NSuZP2hH2vHhNX6vsHceh5sjPkDrLiH": 1
+	},
+	"next_comment_id": 5,
+	"comment": {
+		"2_178NSuZP2hH2vHhNX6vsHceh5sjPkDrLiH": [
+			{
+				"comment_id": 1,
+				"body": "Any other swiss ?",
+				"added": 1465755359
+			}
+		],
+		"1_1FoCQCBaoX3Fi85goewPLRLr1mxFqmCKNU": [
+			{
+				"comment_id": 2,
+				"body": "Hi from Switzerland !!",
+				"added": 1465758432
+			}
+		],
+		"5_178NSuZP2hH2vHhNX6vsHceh5sjPkDrLiH": [
+			{
+				"comment_id": 3,
+				"body": "I'm worried about Microsoft. If Microsoft is trying to make himself a place in the \"Linux World\", with all the Windows 10 bullshit they made, i personally don't take it as a good sign.",
+				"added": 1465895729
+			},
+			{
+				"comment_id": 4,
+				"body": "> [assman](#comment_11_18AAv2MxpUxLjG6U64nucoBg833eTaR83u): Anything that lowers the barrier to Free Software adoption is a good thing.\n\nAbsolutely, but i don't think Microsoft would do such thing without any benefits.",
+				"added": 1465896272
+			}
+		]
+	},
+	"comment_vote": {
+		"11_18AAv2MxpUxLjG6U64nucoBg833eTaR83u": 1,
+		"8_1DWrKbEomgBLHjczm1HkP556Vg68ewDmyd": 1,
+		"94_14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx": 1
+	}
+}

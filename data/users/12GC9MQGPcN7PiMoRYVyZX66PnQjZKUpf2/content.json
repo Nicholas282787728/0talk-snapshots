@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "Gzqso0A3fJITQz6T5TtMNJhkPm4ThH+GeTXZGF236fXschGhqYXUnQa9fNow18A+q55Saf9PpZR3znuUpE04rRE=",
+ "cert_user_id": "quarkgate@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "e987f80d32414ea69e872c0094bc73bb80f6ddff57f70330c51159afa82d11f6",
+   "size": 15843
+  }
+ },
+ "inner_path": "data/users/12GC9MQGPcN7PiMoRYVyZX66PnQjZKUpf2/content.json",
+ "modified": 1470152656.812,
+ "signs": {
+  "12GC9MQGPcN7PiMoRYVyZX66PnQjZKUpf2": "GwHZYHvMQBLzTKNuzkVqnmiBeTkwV9yXwGaOt+VHRyf7ajfL8ZfHVDOyE3/gUJAXwdhy0PP5Z1Xt69muiRXNeKw="
+ }
+}

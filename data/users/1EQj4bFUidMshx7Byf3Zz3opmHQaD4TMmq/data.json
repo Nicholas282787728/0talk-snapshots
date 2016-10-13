@@ -1,0 +1,51 @@
+{
+	"next_topic_id": 5,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "I've cloned a new ZeroTalk, but it's unable to allow its users to create a new topic...",
+			"body": "Why is that?",
+			"added": 1462510608
+		},
+		{
+			"topic_id": 2,
+			"title": "诚挚欢迎墙内的主内弟兄姐妹为全球最大华人基督教传媒基督教论坛报做种",
+			"body": "基督教论坛报 http://127.0.0.1:43110/153d9qggceSJrTxAhFqNX2oe58TTsVyMZy\n基督教论坛 http://127.0.0.1:43110/1JyUHFgT4C9xXyqtrE1o6jcD7Wxd2AzAFQ\n.\n基督教论坛有您的互动与参与才会加倍的丰盛和精彩\n.\n愿那爱我们就爱到底，满有恩典、怜悯与慈爱的神与您和您的亲友同在",
+			"added": 1463562551
+		},
+		{
+			"topic_id": 3,
+			"title": "期待新政府不只拼经济更要拼公义",
+			"body": "http://127.0.0.1:43110/1JyUHFgT4C9xXyqtrE1o6jcD7Wxd2AzAFQ/?Topic:16_1EQj4bFUidMshx7Byf3Zz3opmHQaD4TMmq",
+			"added": 1463641253
+		},
+		{
+			"topic_id": 4,
+			"title": "姚立明：当政治立场不同 超越蓝绿教会带头做",
+			"body": "http://127.0.0.1:43110/1JyUHFgT4C9xXyqtrE1o6jcD7Wxd2AzAFQ/?Topic:19_1EQj4bFUidMshx7Byf3Zz3opmHQaD4TMmq",
+			"added": 1464768570
+		}
+	],
+	"topic_vote": {},
+	"next_comment_id": 4,
+	"comment": {
+		"1_1EQj4bFUidMshx7Byf3Zz3opmHQaD4TMmq": [
+			{
+				"comment_id": 1,
+				"body": "http://127.0.0.1:43110/1BJz7ZRjGvnRdVyonW6sBAQsyiLECBp11S",
+				"added": 1462529529
+			},
+			{
+				"comment_id": 2,
+				"body": "> [nofish](#comment_647_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): You need to sign your site after every modification you made. You can do this using the sidebar. (sign both content.json and data/users/content.json)\n\ni've tried the following commands but it's still the same. nobody is able to create a new topic.\n\npython zeronet.py siteSign YOUR_SITE_ADDRESS --inner_path data/users/content.json --publish\npython zeronet.py siteSign YOUR_SITE_ADDRESS --publish",
+				"added": 1462762809
+			},
+			{
+				"comment_id": 3,
+				"body": "for some reason, i just can't use the web frame to publish the site. after i drag the zero icon to the left to display the web frame, my harden tor browser just closes instantly if i scroll down a little. i don't know if it's a bug of the latest version of harden tor browser or zeronet.",
+				"added": 1462765395
+			}
+		]
+	},
+	"comment_vote": {}
+}

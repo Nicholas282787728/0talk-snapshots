@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "G8sKvsTJZuaOzxjiB0MktezrP0ErFu0FKnVKDpYNgz5vFE5zW8UIRTN4A2NjQhsCWlaJwlrrQXOqCkpRqybr/iU=",
+ "cert_user_id": "redd@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "41df1c3b1efbfc5c421f7ef1391b1f5c0b425230ecea82abbd72a3024d585ced",
+   "size": 468
+  }
+ },
+ "inner_path": "data/users/1Kz31Nrjh64AMqRch9XY3etVXmTX6tgGNV/content.json",
+ "modified": 1466027527.315,
+ "signs": {
+  "1Kz31Nrjh64AMqRch9XY3etVXmTX6tgGNV": "G37Lo1yB2MJ9wEtEnUPjSyOBbhTAF+BWgi3Y1ZTZ2DMwuE9HZvSAg1z4eBpgqnaj3TYDiuM1f1lOCOBtN593VLk="
+ }
+}

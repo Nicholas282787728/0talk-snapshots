@@ -1,0 +1,16 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 2,
+	"comment": {
+		"4_1NzjwWNcVjsX1ndBgkgC1EM5EUzMACGm8L": [
+			{
+				"comment_id": 1,
+				"body": "everything works except the full screenn in firefox.",
+				"added": 1457854689
+			}
+		]
+	},
+	"comment_vote": {}
+}

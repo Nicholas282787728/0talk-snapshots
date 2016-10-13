@@ -1,0 +1,35 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 5,
+	"comment": {
+		"1_1JwPBvZYXLJzrA6YisjpsyTuuieFLCARS6": [
+			{
+				"comment_id": 1,
+				"body": "It's maintained by a private party. No repo's available.",
+				"added": 1464291793
+			}
+		],
+		"10_1MEWJRMLgvofqG9Mbsb2Rc4hFFyv7HeRx7": [
+			{
+				"comment_id": 2,
+				"body": "No. IMO, ZN's shouldn't be used to hide your content in the shadows. It should be used to host/share it with the world from multiple locations. The \"Deep Web/Dark Net\" nonsense only applies to shit that's not meant to be seen or shared by anyone outside of a LAN.",
+				"added": 1464296911
+			},
+			{
+				"comment_id": 3,
+				"body": "> [v1p3r](#comment_2_1DjuXLVkQi8fZFTxogDxrXpUn3Pd63Ss8X): No. IMO, ZN's shouldn't be used to hide your content in the shadows. It should be used to host/share it with the world from multiple locations. The \"Deep Web/Dark Net\" nonsense only applies to shit that's not meant to be seen or shared by anyone outside of a LAN.\n\n*ZN shouldn't...",
+				"added": 1464296965
+			}
+		],
+		"14_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf": [
+			{
+				"comment_id": 4,
+				"body": "Torrent Freak. They mentioned it in an article about Play.",
+				"added": 1467614695
+			}
+		]
+	},
+	"comment_vote": {}
+}

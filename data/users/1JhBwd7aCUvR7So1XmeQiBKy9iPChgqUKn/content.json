@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HHhJNmV9LHZciPawngSgvFUS8mFnPMjsE3fpNGotkziDD2ZBj8XhvAjYO0jUNcc7+l0e2nsF8KZMHmbvNx1XX8E=",
+ "cert_user_id": "kratomlover@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "3cad48dfd38c277644b31b75b32298d66a99bb275e4c50da58fbd815d5e424d5",
+   "size": 274
+  }
+ },
+ "inner_path": "data/users/1JhBwd7aCUvR7So1XmeQiBKy9iPChgqUKn/content.json",
+ "modified": 1456967791.158535,
+ "signs": {
+  "1JhBwd7aCUvR7So1XmeQiBKy9iPChgqUKn": "HOkSSKX+F9ELKilFe+ShrqVq8u6sgjPNC4VtxIeyFJyWLg85fhfUkDW/pJW+OOe8dCZBNOQ55B6/HCBO2xu4IOg="
+ }
+}

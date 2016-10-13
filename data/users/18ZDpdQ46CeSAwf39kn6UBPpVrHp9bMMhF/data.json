@@ -1,0 +1,16 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 2,
+	"comment": {
+		"1_1F6BMqittjWUStzUbRXm2kG2GQ3RdBLqFQ": [
+			{
+				"comment_id": 1,
+				"body": "Всем привет :) Тут как с анонимностью? А то оценить не могу в силу ограниченных знаний...",
+				"added": 1457188394
+			}
+		]
+	},
+	"comment_vote": {}
+}

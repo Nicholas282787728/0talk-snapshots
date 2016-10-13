@@ -1,0 +1,39 @@
+{
+	"next_topic_id": 3,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "ZeroChat with Zeromail",
+			"body": "Hello i try to make a \"site\" with zerotalk and zeromail to chat with my friends and sent mail.Are these possible ?",
+			"added": 1455794967
+		},
+		{
+			"topic_id": 2,
+			"title": "Error when try to combine Zeromail With simple ZeroChat`",
+			"body": "Page.selectUser is not a function",
+			"added": 1455805088
+		}
+	],
+	"topic_vote": {},
+	"next_comment_id": 4,
+	"comment": {
+		"1_149Lc5r63oF2drRtd1pokm5G7M49DhhMji": [
+			{
+				"comment_id": 1,
+				"body": "I want to make one-page site with zero-talk and zeromail.",
+				"added": 1455795459
+			},
+			{
+				"comment_id": 2,
+				"body": "Thanks I try to developed that without using promise.js .I used pure javascript",
+				"added": 1455795626
+			},
+			{
+				"comment_id": 3,
+				"body": "> [o4zw5vmpoz5hz78z](#comment_103_1KTjPe9MxoYkcXj78GuZgCcj3R3f3Twh7r): well you just clone zeromail and integrate zerochat in it because thats way it will be easier\n\nYes i try that but i think zeromail used promise.js and zerochat no.Cant handle same variable !",
+				"added": 1455796549
+			}
+		]
+	},
+	"comment_vote": {}
+}

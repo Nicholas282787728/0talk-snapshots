@@ -1,0 +1,40 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 6,
+	"comment": {
+		"2_17PhTjw3o2wPhxyKeM3Ss975eWZ1UMsjQC": [
+			{
+				"comment_id": 1,
+				"body": "I understood that you share the stuff you visited. Even worse, by the time you visited the site it might have looked legit, but you constantly download updates even if you don't visit the site again. So using VPN should be the best you can do. Not sure how TOR comes into play here",
+				"added": 1457116120
+			},
+			{
+				"comment_id": 3,
+				"body": "TOR for what ? Seriously, If you don't trust your VPN, change it !",
+				"added": 1457120410
+			},
+			{
+				"comment_id": 4,
+				"body": "> [angristan](#comment_38_1MEWJRMLgvofqG9Mbsb2Rc4hFFyv7HeRx7): My VPN is on my own server os I trust it a little bit :p\n\nMy one isn't so I'm sure it can't be traced back to me (that easily)",
+				"added": 1457121750
+			}
+		],
+		"2_15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ": [
+			{
+				"comment_id": 2,
+				"body": "Proxy for what ?",
+				"added": 1457116195
+			}
+		],
+		"1_1A6hcWNpQ9SSLoTTpuT19VsVQ6WCVRkyen": [
+			{
+				"comment_id": 5,
+				"body": "Echobot seems to work now but I cant send a mail to ZAlex@zeroid.bit",
+				"added": 1457126201
+			}
+		]
+	},
+	"comment_vote": {}
+}

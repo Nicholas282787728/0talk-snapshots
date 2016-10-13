@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "G4sYmr51K5S4EnwytwtPVwaLu/X3wjfpviun5j+4a/vBMOLpkurRPzAPS3C/mjUziFBxOMF/DhtmV5v4VW6qIb4=",
+ "cert_user_id": "megamozg@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "a656b5c4879a926f6d38c80866de93737c5411818bedffbddf9ad5589b0cfdd8",
+   "size": 510
+  }
+ },
+ "inner_path": "data/users/1MMMrTZBpQCxym4WL2JRioFkaHbPrTZr5v/content.json",
+ "modified": 1458078457.345,
+ "signs": {
+  "1MMMrTZBpQCxym4WL2JRioFkaHbPrTZr5v": "G7CgGyt+YdlnLfkKDAQHBrYYQJaKYURaPc6o+G6HBVJb0oINOZdETSf16s9LfOk5VHOz/2CTMl9YvqYmlbQHfLg="
+ }
+}

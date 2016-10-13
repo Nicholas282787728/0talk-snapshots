@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "GypoPNWtij2rSwm0mqr62KCQJBmuDO1pzGXHv68wX351iEasY0MlXv22EtFf7alsywBVjbAbkAewgHvbwHbehN0=",
+ "cert_user_id": "omaha@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "5764d952ef8ec29a91afb9764f7e57941470441204744ef6f563e366cb699b55",
+   "size": 162
+  }
+ },
+ "inner_path": "data/users/12oMgJCjvTEeAcnCN2wRGkvBaN6b17GmJB/content.json",
+ "modified": 1456928911.42,
+ "signs": {
+  "12oMgJCjvTEeAcnCN2wRGkvBaN6b17GmJB": "G3tuuCobQCfVC+zHCmHFbOBwyGqzcZWj4CBum6+iTYcUyIGXgxG9CBlypjgGbp1cMPcvciKBerGE9CyvHU/fKsk="
+ }
+}

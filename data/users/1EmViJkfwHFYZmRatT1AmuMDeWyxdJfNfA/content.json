@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "Gz0IfvJIbOCX1G35WOiGZFsMdN+NWkFuRdcva09+MsUz/N24koqDv3Oc4o6L8dP7fVT8B4+VXk/jOQRMKwoiSbc=",
+ "cert_user_id": "sharpsounds@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "dcfa1c8f9157d1a6e7c0b77111c3812a4db8414c54df9e9578bada708bd56a83",
+   "size": 1031
+  }
+ },
+ "inner_path": "data/users/1EmViJkfwHFYZmRatT1AmuMDeWyxdJfNfA/content.json",
+ "modified": 1456984445.85,
+ "signs": {
+  "1EmViJkfwHFYZmRatT1AmuMDeWyxdJfNfA": "HMLeyQ4EcGQ6ap/GLKSGeW5alvUnwD9ROwIACmqEHvBnPdRfqHpiop0YMHQFH5v/qw2HKSEyz0lQPPa5TAHbWc4="
+ }
+}

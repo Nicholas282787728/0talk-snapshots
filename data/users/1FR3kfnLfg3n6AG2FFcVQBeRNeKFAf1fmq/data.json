@@ -1,0 +1,32 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {
+		"6100_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG": 1
+	},
+	"next_comment_id": 4,
+	"comment": {
+		"6100_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG": [
+			{
+				"comment_id": 1,
+				"body": "http://jacobappelbaum.net/",
+				"added": 1465246983
+			}
+		],
+		"1_1Ga7vs5ZV73jbTSMR77FuZi8KWt2MnBSvb": [
+			{
+				"comment_id": 2,
+				"body": "> [pycole](#comment_158_1KwTTgPRSTHFmmJAFBt6kQfdyNeSM5KJuH): Okay, I'll bite...what?\n\nThere's nothing to it. It is yet another tinfoil hatter.",
+				"added": 1465249407
+			},
+			{
+				"comment_id": 3,
+				"body": "> [cow2001](#comment_2_1FR3kfnLfg3n6AG2FFcVQBeRNeKFAf1fmq): There's nothing to it. It is yet another tinfoil hatter.\n\nOr someone joking about them…",
+				"added": 1465249429
+			}
+		]
+	},
+	"comment_vote": {
+		"159_1KwTTgPRSTHFmmJAFBt6kQfdyNeSM5KJuH": 1
+	}
+}

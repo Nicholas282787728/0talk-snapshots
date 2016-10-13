@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "Gxix+bW7MeTTpf1TQG+/2woVT0eUfk9gMoIXwwyoepM/W1R/1yMC++vAsE5tM3kwiL01KyK4PXDpp2AhhfTpwwM=",
+ "cert_user_id": "lizdainis@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "790494446a70e0ba76ef594250f3800ca3b349df6d874f82ebe3fc6c6081eef8",
+   "size": 241
+  }
+ },
+ "inner_path": "data/users/1qpvmvHZg3yMx6A9PWTxn4ajHcjkeDH4W/content.json",
+ "modified": 1473155641.884,
+ "signs": {
+  "1qpvmvHZg3yMx6A9PWTxn4ajHcjkeDH4W": "G4EvyaJnXOMDcLAJA4LmfQ7eQP3Xbd5MOP9KwddeABxwvWznPpoILUIru6f+Y5CZ7Y5rRzlzMS9VWra8rMwioB8="
+ }
+}

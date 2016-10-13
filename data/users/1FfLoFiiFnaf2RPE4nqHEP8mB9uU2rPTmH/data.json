@@ -1,0 +1,120 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {
+		"4100_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG": 1,
+		"4140_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG": 1,
+		"4139_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG": 1,
+		"4141_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG": 1,
+		"4142_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG": 1,
+		"1_1KMjDiMh4s8dWLxk3zSPQ1w8gSPyL5oUf8": 1,
+		"1_1EUyJtat7mbu5wMcR6nrJTPBBRons1mtMA": 1,
+		"12_1PNyuY1iZqXBpft4ArouqcnE4pNRGYij5i": 1,
+		"1_1BzUT9qFow1JG6GGk1cHiBHPq4qTyXwys4": 1,
+		"1_1GCsW9TFfjDsvcdmKPADq1n8Q3ha72UtDQ": 1,
+		"1_1BGaNcH1UBqAdatPbT3YssmPRVdhepMNPW": 1,
+		"2_1LnyrYbdxDU1K78nEYVZkfJ1Q4SYP1ukFV": 1,
+		"1_1LnyrYbdxDU1K78nEYVZkfJ1Q4SYP1ukFV": 1,
+		"1_12fNTMaQH1mN5bPehdvkNgTAVxzQXop87e": 1,
+		"1_1CGidpguPpSkqbX3c19P5NUtipRzLJenX": 1,
+		"1_154jAWx5PDRmvF4txGHo4Edw1BpduhDyvw": 1,
+		"1_15ymkjUYJS6tjUC35AekGMExZMN6iks8ma": 1,
+		"1_1N1WCav1oetiu7QpKNXmsfxpeGrEtZ3gCe": 1,
+		"2_1KJFB4SEHaHCY11HMKsMGyth1mXKb3R5oY": 1,
+		"4316_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG": 1,
+		"4312_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG": 1,
+		"4308_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG": 1,
+		"4309_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG": 1,
+		"4307_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG": 1,
+		"4297_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG": 1,
+		"5_1EMpuiFM1NLZmAVyoAWnwi8VwiZVV4dcnN": 1
+	},
+	"next_comment_id": 5,
+	"comment": {
+		"1_1EUyJtat7mbu5wMcR6nrJTPBBRons1mtMA": [
+			{
+				"comment_id": 1,
+				"body": "Looks like it's already going somewhat viral then. Can't wait for the next tsunami.",
+				"added": 1456964336
+			}
+		],
+		"1_1N1WCav1oetiu7QpKNXmsfxpeGrEtZ3gCe": [
+			{
+				"comment_id": 2,
+				"body": "> [mod](#comment_12_1GCsW9TFfjDsvcdmKPADq1n8Q3ha72UtDQ): You can always use Kaffeine Search. That's what I use the most\n\nFinally an alternative to Zero-Search! Does this one have a Google like bot crawler or is indexing still done manually?",
+				"added": 1457042694
+			}
+		],
+		"2_1KJFB4SEHaHCY11HMKsMGyth1mXKb3R5oY": [
+			{
+				"comment_id": 3,
+				"body": "I just found [another one](http://127.0.0.1:43110/bwoi.bit). Seems like it might eventually have automated crawling and indexing.",
+				"added": 1457045385
+			}
+		],
+		"1_1LnyrYbdxDU1K78nEYVZkfJ1Q4SYP1ukFV": [
+			{
+				"comment_id": 4,
+				"body": "Since most Z-net websites are open source, a fork of this forum with down-voting added would be interesting.",
+				"added": 1457045646
+			}
+		]
+	},
+	"comment_vote": {
+		"1_19K8YrrmPZKnHCWzSm7j8K1Rfvkx3cnfdm": 1,
+		"8_1Q8iqH31cKCqynoJRxR2PfJhzQr8wHdiHr": 1,
+		"4_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1,
+		"365_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"9_1Q8iqH31cKCqynoJRxR2PfJhzQr8wHdiHr": 1,
+		"1_1KMjDiMh4s8dWLxk3zSPQ1w8gSPyL5oUf8": 1,
+		"53_1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD": 1,
+		"1_12qWC8zAEZsNSKxb9XsVUpck8V4N93yg7x": 1,
+		"12_1HwYER58xAxchBDL6WKRqKuPZzmwSvMwjY": 1,
+		"1_1GNdkBSxTw6SpRdGHxDCyfANXnwi7FG7rJ": 1,
+		"1_1LVL5r7L5AwFk7waWmBwuVZ8Fcg9NDxakY": 1,
+		"1_1ACrZFtjEi3xDJH28vsg22MBb4nNxpXvzR": 1,
+		"1_1AXy2B7SEgps7Pdb2j1rKJZHRoessB76M6": 1,
+		"371_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"1_1F7iAyeMHfHnwXQg7yVrQYKM4b4AhZK6P4": 1,
+		"1_1Pfbvp2DhbVrjAYSPaUaucJc6nZsxMpeK9": 1,
+		"1_1JwPt5UVWZobrAntVKtqoZ6ChqGGq4DvNK": 1,
+		"46_1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD": 1,
+		"2_1ADB7TdX2fVbTsWBoMe9yBTmVXTbb33b4R": 1,
+		"9_1An7ATsNMMNqRgSgB2upWwbpXgFXQ9E2XD": 1,
+		"2_19K8YrrmPZKnHCWzSm7j8K1Rfvkx3cnfdm": 1,
+		"7_1Q8iqH31cKCqynoJRxR2PfJhzQr8wHdiHr": 1,
+		"2_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1,
+		"2_16zmmPJfuM4tj93xdy7CrteYabaR1zhf1T": 1,
+		"5_16Hg8ux8t4gqZjGgiEUWQ8xAsqJrtJv7MC": 1,
+		"1_1Kw542ksma7AFT9pCssiwDthvVjywu52NU": 1,
+		"8_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1,
+		"31_1PNyuY1iZqXBpft4ArouqcnE4pNRGYij5i": 1,
+		"29_1PNyuY1iZqXBpft4ArouqcnE4pNRGYij5i": 1,
+		"58_1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD": 1,
+		"1_19KtmLJftUcLg5ZtwmAfe616J2vp6iJBHU": 1,
+		"3_1GCsW9TFfjDsvcdmKPADq1n8Q3ha72UtDQ": 1,
+		"1_1DNn7xSUWbLEp8NSNAiVmYJXg9mGfYJtt9": 1,
+		"9_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1,
+		"385_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"395_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"11_17fgJ3tZjhM7HCkTkd5TWf2BLLWmhRKcXB": 1,
+		"1_181YMQqS8QgQ3E6FJgHxTcAqkYWS71Nyd9": 1,
+		"388_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"8_1NoRNknY1JbJ8nMdn88LwczyMDFnR1GtNw": 1,
+		"26_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1,
+		"7_1NoRNknY1JbJ8nMdn88LwczyMDFnR1GtNw": 1,
+		"3_1H8oKiRa7fGgUqS1hpUtaSYLvAqkaknbkf": 1,
+		"11_1An7ATsNMMNqRgSgB2upWwbpXgFXQ9E2XD": 1,
+		"67_1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD": 1,
+		"12_1GCsW9TFfjDsvcdmKPADq1n8Q3ha72UtDQ": 1,
+		"8_1DfkDpkeDXGbHJ2ZT31DPvYr5xR59Jr8BA": 1,
+		"3_1D7uESYtAKV36MVPGJZXuE7LUKbLwfo4dX": 1,
+		"73_1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD": 1,
+		"13_1HwYER58xAxchBDL6WKRqKuPZzmwSvMwjY": 1,
+		"93_1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD": 1,
+		"59_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1,
+		"42_1LRrd96P7FiTcsyNXVzPM5jtpQoH1B4gYf": 1,
+		"1_1DjezZz4h4amzFHeeq1cMJzWfNCnHcamby": 1,
+		"2_163rm8X1WReQzp1uAZjbrCHkF7En1VTXbU": 1
+	}
+}

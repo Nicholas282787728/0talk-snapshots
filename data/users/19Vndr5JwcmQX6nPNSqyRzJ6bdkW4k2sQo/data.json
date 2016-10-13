@@ -1,0 +1,30 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "您好，世界！",
+			"body": "为什么我的 Chrome 看到的中文样式，句子中间会莫名其妙出现一些空格隔断句子的？",
+			"added": 1460707820
+		}
+	],
+	"topic_vote": {},
+	"next_comment_id": 3,
+	"comment": {
+		"1_1MDFGD6PJsZLnTg8Y9BcZKTPfKHMRrTL83": [
+			{
+				"comment_id": 1,
+				"body": "为什么中文前面突然出现空格隔断句子的？",
+				"added": 1460707918
+			}
+		],
+		"1_1UfvLnMuzShvi3phWGSqn79tio81Wn9Dt": [
+			{
+				"comment_id": 2,
+				"body": "您好，世界！",
+				"added": 1461130449
+			}
+		]
+	},
+	"comment_vote": {}
+}

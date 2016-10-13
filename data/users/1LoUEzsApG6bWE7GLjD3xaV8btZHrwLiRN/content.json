@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "G50HqGqUTy8wI/o7oAFOSXemyGS0HcWiZqMM/E01gEX7Ve59unVXWziq6vQtxs11uJJqcjTsV4PlUxlCBIEKeKs=",
+ "cert_user_id": "thephantomblu@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "baf66055ec7e7851ad017743c0a13b7aceef3c163228c2d56e7511640857f065",
+   "size": 208
+  }
+ },
+ "inner_path": "data/users/1LoUEzsApG6bWE7GLjD3xaV8btZHrwLiRN/content.json",
+ "modified": 1457035511.741,
+ "signs": {
+  "1LoUEzsApG6bWE7GLjD3xaV8btZHrwLiRN": "G2l+/eBxD2TWhA745+180ONlnBDWFsDGwOeNiWHekTZxiuseh4cqamsLChMfV2JHYgVL6+dpEFP6cmYcL7jXXA0="
+ }
+}

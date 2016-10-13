@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HJQaRZUKb5PNgjwglBplv+9afI5xyeKcgIVlPDqOkWos5FKYEISToRoPsmVsenoTk42UHCDq8IqO1qnjlXELKLY=",
+ "cert_user_id": "shehrozasif@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "59bd06b6fd39fac506e9681ae47489ebf7bc19a10b3abee1220ccf1ac1d29623",
+   "size": 1637
+  }
+ },
+ "inner_path": "data/users/1FoCQCBaoX3Fi85goewPLRLr1mxFqmCKNU/content.json",
+ "modified": 1457464903.592,
+ "signs": {
+  "1FoCQCBaoX3Fi85goewPLRLr1mxFqmCKNU": "G64dncvKCxR57kjuwIvTb9RAN3vTl0q1R/wxknnRUZecWTvG4fjBuXdwkJ4WTvBz6y6xeXJYcKH5kAxQp7m2418="
+ }
+}

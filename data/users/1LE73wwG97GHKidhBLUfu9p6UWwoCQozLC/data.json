@@ -1,0 +1,36 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {
+		"3_1KwTTgPRSTHFmmJAFBt6kQfdyNeSM5KJuH": 1,
+		"1_1Kg7CXZM5h3wTPENsTDwWUmRBf9VhYy2cW": 1,
+		"1_14tJBPnxcrF9kMK5v7DULWnaJx3JepirXb": 1,
+		"1_1LnyrYbdxDU1K78nEYVZkfJ1Q4SYP1ukFV": 1,
+		"1_1BQg5MQZ63aEQZMzLEXP6yY3hsgznKpaps": 1
+	},
+	"next_comment_id": 2,
+	"comment": {
+		"1_1LnyrYbdxDU1K78nEYVZkfJ1Q4SYP1ukFV": [
+			{
+				"comment_id": 1,
+				"body": "> [basxto](#comment_17_1PVcdu7USZH2kHMETbqDYLPjJZKCDWM52k): A spam vote is definitely needed and hiding stuff that is > 50% spamvoted and has at least 20 votes\n\nMake it grey.\nOr have other background.\nOr put a red bar on one side.\nOr on both sides.\n(-: serial logic ;-)\n...because not hiding fits a warning better.\nHiding feels so much like censorship.\n\n> I'm against subjective downvotes, which could also be against another persons opinion … if you don't like it, skip it\n\nYour thumb has 3 basic directions: up, \"don't care\", down.\nTricky... only being able to vote or not to vote, there is something missing.\nAnd you have only 1 \"down\" per message.\nIt just takes one other reader to compensate.\nI don't expect voting wars.\nBut if they happen, these messages will have many up- and many down-votes.\nThese votes should be shown indepently (and totalled) instead of just showing the result so 1000 upvotes still can be seen even if there are 1001 downvotes.\n\nBut please: Let's have the spam/phishing/warning/.../xyzzy button first.\n\nSummary:\nwarning +1 (now)\ndownvote +1 (later)",
+				"added": 1457447349
+			}
+		]
+	},
+	"comment_vote": {
+		"15_14tJBPnxcrF9kMK5v7DULWnaJx3JepirXb": 1,
+		"34_1KwTTgPRSTHFmmJAFBt6kQfdyNeSM5KJuH": 1,
+		"14_14tJBPnxcrF9kMK5v7DULWnaJx3JepirXb": 1,
+		"12_14tJBPnxcrF9kMK5v7DULWnaJx3JepirXb": 1,
+		"11_14tJBPnxcrF9kMK5v7DULWnaJx3JepirXb": 1,
+		"6_14tJBPnxcrF9kMK5v7DULWnaJx3JepirXb": 1,
+		"2_18rwTQJ5QsASCHAguASWuN1uEZ3Fo9diyV": 1,
+		"6_1JA2umSc9f7VSNLaYLs1Cpk7rpvS4p18xe": 1,
+		"8_1DfkDpkeDXGbHJ2ZT31DPvYr5xR59Jr8BA": 1,
+		"1_18rwTQJ5QsASCHAguASWuN1uEZ3Fo9diyV": 1,
+		"16_14tJBPnxcrF9kMK5v7DULWnaJx3JepirXb": 1,
+		"17_14tJBPnxcrF9kMK5v7DULWnaJx3JepirXb": 1,
+		"1_1LE73wwG97GHKidhBLUfu9p6UWwoCQozLC": 1
+	}
+}

@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HEgr3UqH6EEb0wHgLZS+4d6+ZJYnU+Po9nCGg89L68OJjt66kTboKLq5+C6ZRm3fzPm0EiKhrXa3lWOGY9TG13w=",
+ "cert_user_id": "zanzibarland@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "a3f317523eefbd53fbe9433f9e41dbd14f333eeec7b595fe07efcb4560d6ba8e",
+   "size": 4010
+  }
+ },
+ "inner_path": "data/users/1PUA3WTqEzUWkEsX7DbCeoY229Y5iN9aMc/content.json",
+ "modified": 1473281174.254272,
+ "signs": {
+  "1PUA3WTqEzUWkEsX7DbCeoY229Y5iN9aMc": "HK2JvK05iw2wfwF6kXzOF8y4B53ODsgyiehnGp2nUxBpDMab5gbN0HTVm37MEQ+4WhvB5QTw47E195aC26zCVQc="
+ }
+}

@@ -1,0 +1,16 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 2,
+	"comment": {
+		"1_1UfvLnMuzShvi3phWGSqn79tio81Wn9Dt": [
+			{
+				"comment_id": 1,
+				"body": "中国人好多，现在大家都是开荒者，不过目前各方面技术都还不成熟，能做成这样很不错啦",
+				"added": 1461066884
+			}
+		]
+	},
+	"comment_vote": {}
+}

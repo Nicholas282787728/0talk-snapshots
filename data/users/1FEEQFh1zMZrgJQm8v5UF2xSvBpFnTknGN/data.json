@@ -1,0 +1,27 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "markdown linking is destroyed in the preview",
+			"body": "example here \n\n[In the Heart of the Sea (2015)][eb90d04a]\n[eb90d04a]: magnet:?xt=urn:btih:8DFC994F9313425E099D804C9886DBDCA9B9E8DF&dn=in+the+heart+of+the+sea+2015+dvdscr+xvid+ac3+hq+hive+cm8&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80%2Fannounce&tr=udp%3A%2F%2Fglotorrents.pw%3A6969%2Fannounce \"In the Heart of the Sea (2015)\"",
+			"added": 1457714602
+		}
+	],
+	"topic_vote": {
+		"1_1FEEQFh1zMZrgJQm8v5UF2xSvBpFnTknGN": 1
+	},
+	"next_comment_id": 2,
+	"comment": {
+		"1_1FEEQFh1zMZrgJQm8v5UF2xSvBpFnTknGN": [
+			{
+				"comment_id": 1,
+				"body": "but when you open the thread the link works like intended",
+				"added": 1457714640
+			}
+		]
+	},
+	"comment_vote": {
+		"1_1FEEQFh1zMZrgJQm8v5UF2xSvBpFnTknGN": 1
+	}
+}

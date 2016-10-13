@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HP2i3q/poV85lEiUlFRRNzyA4DDfQ2sNNWaifIcsZyiKdIntySbKSTN4yClW/1IFNITL3vQuiPVrTu/Pe/Qh9Ls=",
+ "cert_user_id": "thedudeabides@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "48800c4d0b6acba95698b4fc841814a10949aca8d294b4750b11b4cd1a72a51b",
+   "size": 257
+  }
+ },
+ "inner_path": "data/users/13mi9WgoVXKFshBq1K1VrzLYQeHWMahiDt/content.json",
+ "modified": 1471302505.224184,
+ "signs": {
+  "13mi9WgoVXKFshBq1K1VrzLYQeHWMahiDt": "G7go1RhIQx5eTsTmCjKFMC/qXCP3/kpxcyqLfo0amZw96ZXn53XRb0P8abHZvNqXouf9l7qGMaslNrHlN4sOVE8="
+ }
+}

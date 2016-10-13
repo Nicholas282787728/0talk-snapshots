@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HAyhcRoytOAlHRD1NLhxNuAPwN0ta8v5b4dqzYqrsU1t1IlAUFlU8JkAgu/6ZnuAUfc/W8S3R2E6PGwiFMKLpn0=",
+ "cert_user_id": "chemlord@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "899756ddc21eae918fb38bacd3ffdc9ff626c3646ffdd63de600faf7a54c5120",
+   "size": 242
+  }
+ },
+ "inner_path": "data/users/19ChcQ5esNbwygpkJ2dm8YBMymprTHp3fE/content.json",
+ "modified": 1462331375.979,
+ "signs": {
+  "19ChcQ5esNbwygpkJ2dm8YBMymprTHp3fE": "G36nsHPgzVhf72v1FkSm5H//ebwb0fh27zH0aPt6twQ6iYX8ShQxPkroroENo6HCxjcBLiqhNbYUb2UTmM6RFok="
+ }
+}

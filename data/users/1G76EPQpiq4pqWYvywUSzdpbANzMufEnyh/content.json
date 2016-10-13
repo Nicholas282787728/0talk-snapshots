@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "G0AWANy7Sq6LCwpO/0XdkvFdmPWqx9Z2mlPPUOIilCc8f/S598kOcpplWIDWNqkzqqxYzBO8DqpeVCORZ1wVP1Y=",
+ "cert_user_id": "findus@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "63a15bb07456dec18d2b511a34f561ad1915537fd255f66d350d64e826db3f9f",
+   "size": 289
+  }
+ },
+ "inner_path": "data/users/1G76EPQpiq4pqWYvywUSzdpbANzMufEnyh/content.json",
+ "modified": 1462728429.324,
+ "signs": {
+  "1G76EPQpiq4pqWYvywUSzdpbANzMufEnyh": "HNZx/yJWHLLyex20CK2TnAP96sJZsjesnmePZhLI7Mx+Yswf9+prw+b3c+fM9PFjCTO4Dqx5O7YAZPfBekujdRY="
+ }
+}

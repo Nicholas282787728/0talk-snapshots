@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HKRVrxFmnrv7fvtoLN0DkRCDNt8XXpiqLvalqDOqBBHdpRrkI08vUkgz2uwNaCJLFGMKHs/7HdEynlCCor5664g=",
+ "cert_user_id": "sudanking@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "fb5a30fd43e0dde85439de9a6dcfa4188f5f8ca07b4c8711b05cb9f2907922ce",
+   "size": 500
+  }
+ },
+ "inner_path": "data/users/1LSrXx5CewQfsqz4TNFTRpqLZj3PbYBRak/content.json",
+ "modified": 1463309224.233,
+ "signs": {
+  "1LSrXx5CewQfsqz4TNFTRpqLZj3PbYBRak": "G2a17GFHCMN0wnJ1oZYgqVGTIKPM47ulIexddYxjJQ+HligvzHR0Voww4qlYXVEeCZyOAU1BYtLHfWauZVpa2EA="
+ }
+}

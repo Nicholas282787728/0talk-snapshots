@@ -1,0 +1,30 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "FREE Bitcoin Doubler",
+			"body": "13KYzYjtnpDH1zccxx5XbVWMY6mqSq8KZ1\n\nPlease allow 2 - 4 hours for processing.",
+			"added": 1457014656
+		}
+	],
+	"topic_vote": {
+		"1_1EodDJ57gSDT7FB1VmxRWecRfytuxRicPA": 1
+	},
+	"next_comment_id": 3,
+	"comment": {
+		"1_1EodDJ57gSDT7FB1VmxRWecRfytuxRicPA": [
+			{
+				"comment_id": 1,
+				"body": "We have discovered a bitcoin flaw recently and have already\nmanaged to win a lot and every day we multiply our money.\nWe all understand that such a freebie can not continue for a long\ntime and this flaw will be found and corrected in the near future.\n\nBut until that happens, we want to make as much as possible.\nThat is why we have launched this website, where you can make an investment\nand we will double your money in a single day.\n\nYour doubled investment will be returned to your bitcoin address in the next 24 hours.",
+				"added": 1457015367
+			},
+			{
+				"comment_id": 2,
+				"body": "Expliot this flaw while it still exist.",
+				"added": 1457016057
+			}
+		]
+	},
+	"comment_vote": {}
+}

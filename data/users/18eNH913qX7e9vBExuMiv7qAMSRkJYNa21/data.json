@@ -1,0 +1,247 @@
+{
+	"next_topic_id": 5,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "Hactivism news flow",
+			"body": "http://127.0.0.1:43110/1BHsVTucrTcsKBzLnMVJFvCsc6D5useHe5",
+			"added": 1454097380
+		},
+		{
+			"topic_id": 2,
+			"title": "Politics Debate Thread",
+			"body": "Rules: No trolling or personal attacks. Statements must be backed by sources if requested.",
+			"added": 1454462929
+		},
+		{
+			"topic_id": 3,
+			"title": "I'm trying to clone ZeroTorrent, but it says the function is disabled on this proxy. I'm running locally",
+			"body": "",
+			"added": 1454463334
+		},
+		{
+			"topic_id": 4,
+			"title": "[Bug] This function is disabled on this proxy",
+			"body": "This happens when I try to delete sites from the homepage. What's wrong?",
+			"added": 1457240376
+		}
+	],
+	"topic_vote": {
+		"2_12Ex3Mrd75wY2r5rB21jBcmgj9hxwUK1w2": 1,
+		"1_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG": 1,
+		"1_12Ex3Mrd75wY2r5rB21jBcmgj9hxwUK1w2": 1,
+		"2_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"2_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf": 1,
+		"1_15XWWBuwnx3Mx8J1QuyqFBcJNRMCgMDSmk": 1,
+		"2_1NibKcCcidCHue94Rhr7F4Gvu3Lg6FAESp": 1,
+		"2_16iYwD5U2fNoS22p6447J7992iL3DHjSHY": 1,
+		"1_18eNH913qX7e9vBExuMiv7qAMSRkJYNa21": 1,
+		"2_1QBLGLcgKfcpfLmiDYuDzUKVXFfmTAew55": 1,
+		"3_1NibKcCcidCHue94Rhr7F4Gvu3Lg6FAESp": 1,
+		"2_17i7Y7r8nTaCfLbCAuaKyc4R5BbKZYU2Hr": 1,
+		"4_1QH84f44yLPvMjMua9s7iM7c4RoJNZ2nTp": 1,
+		"2_1CuQ21M7tmpoeyG4HrW4ax1Pz4w3JvXuA5": 1,
+		"2_18eNH913qX7e9vBExuMiv7qAMSRkJYNa21": 1,
+		"1_198jKSKMzpRxH5C81bXojho2xGcTxXXcqc": 1,
+		"1_1FHS5V4FmPFyJQspXVNB3gDVPd3JyjHCv7": 1,
+		"3_168qV1Xxp2EyszrzdECLUwXrn9wGYjDdar": 1,
+		"1_1KTyMhnssBpFUGavNRXQ5YNc15xTLkcfwD": 1,
+		"1_1JJcAjWkLz8CNDjL4J35wDz65Ky7QjLd4Q": 1,
+		"2_1JJcAjWkLz8CNDjL4J35wDz65Ky7QjLd4Q": 1,
+		"1_1BGaNcH1UBqAdatPbT3YssmPRVdhepMNPW": 1,
+		"2_17PhTjw3o2wPhxyKeM3Ss975eWZ1UMsjQC": 1,
+		"1_1EiP55LCzwSpCgde2oQfnR52LunWcBDiB4": 1,
+		"1_154jAWx5PDRmvF4txGHo4Edw1BpduhDyvw": 1,
+		"1_1ELh3yaiakmeDvLLUhzPDKixiNaqGUYzNh": 1,
+		"4_18eNH913qX7e9vBExuMiv7qAMSRkJYNa21": 1,
+		"1_18sw1reMFB1fpxc4vjfjoCrLaFs8UbMeQH": 1,
+		"1_19oTjiELVv5NKUxcchx4F7vyoznBfgodur": 1,
+		"4_1EMpuiFM1NLZmAVyoAWnwi8VwiZVV4dcnN": 1
+	},
+	"next_comment_id": 23,
+	"comment": {
+		"2_12Ex3Mrd75wY2r5rB21jBcmgj9hxwUK1w2": [
+			{
+				"comment_id": 1,
+				"body": "> [0nu](#comment_5_13zgtd1L3F7145JTZCJ2sdR5BdbdCV7v9M): Another way would be to enable the 'multiuser' plugin (mv plugins/disabled-Multiuser plugins/Multiuser).\n\nI've done that, It erased my old account, but I still only see a way to make a single one.",
+				"added": 1453916579
+			},
+			{
+				"comment_id": 2,
+				"body": "> [nofish](#comment_206_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): It's not erased, in Multiuser mode the accounts not saved to disk, so if you disable the plugin you get back your account or you can login to your previous account using the \"master_seed\" found in data/users.json.\n> You can logout/login to another account in ZeroHello page (topright corner)\n\nis there a way to move a zeroid from a backed up data folder to the new one? or does it have a seed somewhere?",
+				"added": 1453918833
+			}
+		],
+		"2_1789XcRxNBxCsCTWFhhGsbmjrmg4XX4QPL": [
+			{
+				"comment_id": 3,
+				"body": "get a job, hippie",
+				"added": 1453919492
+			}
+		],
+		"2_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf": [
+			{
+				"comment_id": 4,
+				"body": "> [nofish](#comment_167_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): Uploading is not planned yet.\n\nit's just outside links?",
+				"added": 1453919835
+			}
+		],
+		"3_1NibKcCcidCHue94Rhr7F4Gvu3Lg6FAESp": [
+			{
+				"comment_id": 5,
+				"body": "just run tails, download zeronet with git, and use it with the tor option",
+				"added": 1454136305
+			}
+		],
+		"2_17i7Y7r8nTaCfLbCAuaKyc4R5BbKZYU2Hr": [
+			{
+				"comment_id": 6,
+				"body": "> [muja](#comment_2_17i7Y7r8nTaCfLbCAuaKyc4R5BbKZYU2Hr): Works here\n\nnot zeronet",
+				"added": 1454136631
+			},
+			{
+				"comment_id": 7,
+				"body": "not working here",
+				"added": 1454136642
+			}
+		],
+		"1_198jKSKMzpRxH5C81bXojho2xGcTxXXcqc": [
+			{
+				"comment_id": 8,
+				"body": "> [ekaterina](#comment_5_1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD): I wholeheartedly agree. It's fast, supports dynamic content, supports anonymity through Tor, and already has lots of great sample apps. This is exactly what I always wanted a decentralized platform to be. It's even better because I never even thought about the idea of being able to clone a site you like with two clicks and make it your own, which makes \"installing\" a blog or forum software trivially easy. That's a killer feature.\n> And last but not least, you also don't run into the issue that older decentralized platforms have, where you can't control what content you store and serve to other peers, which used to be among the biggest critiques of decentralized networks. You only serve the sites you visit, so with ZeroNet there are no moral issues in using this software, you don't help distribute illegal content if you don't want to.\n> I could really see this taking off and becoming huge over the next few years. I'm honestly surprised that it hasn't already gotten much more people interested. Sure, there are still rough edges, but it's already so usable and easy to set up.\n\nI think it'll get a lot more popular with Tor support",
+				"added": 1454449625
+			}
+		],
+		"2_18eNH913qX7e9vBExuMiv7qAMSRkJYNa21": [
+			{
+				"comment_id": 9,
+				"body": "I'm a left-libertarian, agorist, mutualist, socialist, and a few other things",
+				"added": 1454462982
+			}
+		],
+		"3999_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG": [
+			{
+				"comment_id": 10,
+				"body": "Haha awesome, I'll use it out of spite",
+				"added": 1455575653
+			}
+		],
+		"7_1MxdAjWgnqwCaunGHmhY39tVR51qV3peJL": [
+			{
+				"comment_id": 11,
+				"body": "better moderation features. easily remove posts, block userids, and create \"subreddits\"",
+				"added": 1457239944
+			}
+		],
+		"1_1BGaNcH1UBqAdatPbT3YssmPRVdhepMNPW": [
+			{
+				"comment_id": 12,
+				"body": "Working fine on airvpn. Good hacktivist service",
+				"added": 1457240127
+			}
+		],
+		"2_17PhTjw3o2wPhxyKeM3Ss975eWZ1UMsjQC": [
+			{
+				"comment_id": 13,
+				"body": "> [angristan](#comment_38_1MEWJRMLgvofqG9Mbsb2Rc4hFFyv7HeRx7): My VPN is on my own server os I trust it a little bit :p\n\nNot by default at all. With a special CLI command.",
+				"added": 1457240191
+			}
+		],
+		"1_1ELh3yaiakmeDvLLUhzPDKixiNaqGUYzNh": [
+			{
+				"comment_id": 14,
+				"body": "Use Play on zeronet or Bittorrent in general. Google it.",
+				"added": 1457240478
+			}
+		],
+		"4_18eNH913qX7e9vBExuMiv7qAMSRkJYNa21": [
+			{
+				"comment_id": 15,
+				"body": "> [scrub](#comment_62_1ADB7TdX2fVbTsWBoMe9yBTmVXTbb33b4R): The proxy you're using to access these ZeroNet sites does not allow you to delete sites I am assuming.\n\nI'm running it locally",
+				"added": 1457242183
+			}
+		],
+		"1_18sw1reMFB1fpxc4vjfjoCrLaFs8UbMeQH": [
+			{
+				"comment_id": 16,
+				"body": "he might but he can't win. i predict a large rise in right-wing violence worldwide.",
+				"added": 1457877339
+			}
+		],
+		"1_1KPRZRpbJtMeTWDQ2zFWoTTzuGRft39HfC": [
+			{
+				"comment_id": 17,
+				"body": "i've never been banned for tor",
+				"added": 1457877463
+			}
+		],
+		"2_1MCsyW6W243LY69ZYm99XbV3M8Gbbrp5hF": [
+			{
+				"comment_id": 18,
+				"body": "AirVPN is great, lots of features too, like VPN-over-Tor",
+				"added": 1458026976
+			}
+		],
+		"1_1JWyTPszAmKMiH7D9FV8isH1aYi2rihGtL": [
+			{
+				"comment_id": 19,
+				"body": "like, paying someone with cash? sending cash? bank deposit?",
+				"added": 1458027011
+			}
+		],
+		"15_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf": [
+			{
+				"comment_id": 20,
+				"body": "> [ekaterina](#comment_44_1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD): IPFS does plan to support dynamic websites through IPNS, their nameservice. Basically (as I understand it, so I might be incorrect), you can create a name that points to a resource, lets say the JSON file data.json which is used as a database in ZeroNet. This name (data.json) points to a hash of the data.json file, a version of that file at a specific point in time. This hash will always point to the same file, if it's changed, the hash still points to the old version and a new hash points to the new version, which is why sites in IPFS are static.\n> To make it dynamic, this same name using IPNS can be used to point to the hash of the new, changed data.json file, so when I request the resource behind the name data.json I will always receive the newest version of the data.json file, with new comments added, new votes, whatever it is that is stored in there.\n> But I still agree with you that ZeroNet is the most interesting of all of these projects. Like I said earlier in this thread, since IPFS's creators are pro-censorship, it's not everyone's cup of tea. To me it seems like it is mainly targeted at companies who want to save money distributing content rather than creating an internet free of censorship.\n> ZeroNet is the only option (I know of) if you want both a modern take on decentralization and the freedom to share and debate ideas, and it's IMHO a great option. Really have to applaud ZeroNet's developer here, he is so active. Truly inspiring what he has been able to do in such a relatively short period of time and how much work he puts into both the project itself and answering questions from the community.\n> \n> Interesting, thanks for pointing that out! :)\n\nHow are they pro-censorship? i haven't heard of it",
+				"added": 1458027085
+			}
+		],
+		"10_14XxpXNGMLsyeQxikacrbQnAFXVyhN5Ngx": [
+			{
+				"comment_id": 21,
+				"body": "> [low](#comment_3_16Wbf1q3ffLLNpzvyrrGczQK1ZRBJAwMro): This is awesome. Definitely should make sure this project continues to grow. Many great things can be covered here\n\nhttp://127.0.0.1:43110/138R53t3ZW7KDfSfxVpWUsMXgwUnsDNXLP/?Page:faq",
+				"added": 1458107355
+			}
+		],
+		"4_1EMpuiFM1NLZmAVyoAWnwi8VwiZVV4dcnN": [
+			{
+				"comment_id": 22,
+				"body": "I can't pick my user",
+				"added": 1458107950
+			}
+		]
+	},
+	"comment_vote": {
+		"4_13zgtd1L3F7145JTZCJ2sdR5BdbdCV7v9M": 1,
+		"1_1MuqWEiJ8VCCZMHZ6hcJW35RMEgm7VVED5": 1,
+		"12_17vE6u5SLLQ3eLazQDWXxM25663bbjPjBt": 1,
+		"4_17i7Y7r8nTaCfLbCAuaKyc4R5BbKZYU2Hr": 1,
+		"2_13zgtd1L3F7145JTZCJ2sdR5BdbdCV7v9M": 1,
+		"79_1KTjPe9MxoYkcXj78GuZgCcj3R3f3Twh7r": 1,
+		"16_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf": 1,
+		"4_1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD": 1,
+		"3_13TYHUzdFf2JuFtoDD1eTKHppNGcTemkTN": 1,
+		"2_14tZUZypdydwcKr3KwVng6XY85YJynBNrk": 1,
+		"16_16dVbybDseQBQnxdJDuQhCzYAij8iR8YEc": 1,
+		"72_1KTjPe9MxoYkcXj78GuZgCcj3R3f3Twh7r": 1,
+		"19_1KcPohxmuqiNShTaAzJZLndm5aWtBZLuJn": 1,
+		"2_1GQgd9YDKghg4KKrerR7nfUdDfqj1WatLL": 1,
+		"25_1PNyuY1iZqXBpft4ArouqcnE4pNRGYij5i": 1,
+		"2_1BwGNVyjmbqbuofH5WbwHgPUBtxZBvLQ7K": 1,
+		"1_12iiajZz3dGdYuEyqTR5hvGECWmGh748HL": 1,
+		"5_16iYwD5U2fNoS22p6447J7992iL3DHjSHY": 1,
+		"28_13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ": 1,
+		"9_15QGRquMETTn5LnCHjTm1qa9eaXGtq7gpT": 1,
+		"71_1KTjPe9MxoYkcXj78GuZgCcj3R3f3Twh7r": 1,
+		"132_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"10_15QGRquMETTn5LnCHjTm1qa9eaXGtq7gpT": 1,
+		"133_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"15_16dVbybDseQBQnxdJDuQhCzYAij8iR8YEc": 1,
+		"11_15QGRquMETTn5LnCHjTm1qa9eaXGtq7gpT": 1,
+		"134_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"5_1LUP6SN7WrXAH7e5bUFxdmrVsFr2m43XB4": 1,
+		"29_13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ": 1,
+		"48_1ADB7TdX2fVbTsWBoMe9yBTmVXTbb33b4R": 1,
+		"44_1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD": 1
+	}
+}

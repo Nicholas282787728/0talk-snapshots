@@ -1,0 +1,23 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 3,
+	"comment": {
+		"1_1ELBjparWRzWWptstDfNtKyY2E5mHtL5J4": [
+			{
+				"comment_id": 1,
+				"body": "No! They expect one of us in the wreckage brother",
+				"added": 1473048161
+			},
+			{
+				"comment_id": 2,
+				"body": "Tell me about Bane. Why does he wear the mask?",
+				"added": 1473135267
+			}
+		]
+	},
+	"comment_vote": {
+		"5_1HXv2c6awyWdtUb8SeP7bWViMHcvxdV82X": 1
+	}
+}

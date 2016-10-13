@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "G81owpsplJR/EeBZqnOSy9gar4+a5LllCsGm96XOTG4uNBVxIs3hJ5d/bvlpRiP9F7tvzLwC+Ap8RyqpF56de4E=",
+ "cert_user_id": "nigrobyte@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "12f3025f0ce835098cbfb2cf9557f83893c5c11e08e65b103a85c0113312fa86",
+   "size": 391
+  }
+ },
+ "inner_path": "data/users/17kSnZQKXTDRosNzuP1HiTrKkXEVChEfHE/content.json",
+ "modified": 1457561066.046423,
+ "signs": {
+  "17kSnZQKXTDRosNzuP1HiTrKkXEVChEfHE": "HEjjwH1dP2CEQ76umv2LCp/0Mryxnc1WoScwHW7/Vh4JCXg9QoAbWVP4HbP8f2Dm5t1QuGA7uXjah+Rwg58e76I="
+ }
+}

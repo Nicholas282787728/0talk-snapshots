@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "G3c16+OTeEerhGyED6RkbvkGZUbG+sLiBE/s3aa231bVwK4qETzubqpPMzpOIpnzuelaD8fomaLWpaJzf/86Fow=",
+ "cert_user_id": "deception@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "405e335757fdd7003b951489a85c52d7ce8cb5663ac5090bd98666c725d03cfd",
+   "size": 505
+  }
+ },
+ "inner_path": "data/users/125b8FxS36xSSCHkvZEhimvF5KPxjckS7o/content.json",
+ "modified": 1476344178.379949,
+ "signs": {
+  "125b8FxS36xSSCHkvZEhimvF5KPxjckS7o": "G0RCKagyAL+dgzAKpZm15GF1SmcDuQeU0phbqmIm3cxcMFZrv8nIIYGyf71Eww9w6ThdOlv+eiWzpPbDNZEa9/4="
+ }
+}

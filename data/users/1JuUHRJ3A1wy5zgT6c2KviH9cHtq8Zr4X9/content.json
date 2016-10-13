@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "bitmsg",
+ "cert_sign": "G08f+kZBMax/rgA6Kns5WFCHpAxpv2GYW7+pB4o3oilOJ/kvPdYD3zcZRTWCwXKfh7l/+B4RzVTf6XQPQnXw8bE=",
+ "cert_user_id": "planteater@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "73c36da23c114e50878300d285808abbfaa897f05db4eb531723f6d13e980cbd",
+   "size": 2351
+  }
+ },
+ "inner_path": "data/users/1JuUHRJ3A1wy5zgT6c2KviH9cHtq8Zr4X9/content.json",
+ "modified": 1476290462.047946,
+ "signs": {
+  "1JuUHRJ3A1wy5zgT6c2KviH9cHtq8Zr4X9": "G54qgim8HhmEnQDUSaMpumci/D2+ljEWQpBcXVUDgfOM8FYSDrCSYOm6XjZsvrjWyP0fWEc54GVPEb/zmGMob7c="
+ }
+}

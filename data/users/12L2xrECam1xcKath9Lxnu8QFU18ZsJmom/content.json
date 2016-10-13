@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HHWDMIcuRUMKrqtXI1MCxwRDOxnrSrZCR0QCOtYsORKYHHttz6olBomd0s4QBjOC/7SiIBcDJMHfmt4+wpEFO1I=",
+ "cert_user_id": "bugboy@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "e611ac129e7e21db0af6dc39c77a3fbf2ffc96ae9045cf44a45349eeb9225e0c",
+   "size": 291
+  }
+ },
+ "inner_path": "data/users/12L2xrECam1xcKath9Lxnu8QFU18ZsJmom/content.json",
+ "modified": 1475511227.555,
+ "signs": {
+  "12L2xrECam1xcKath9Lxnu8QFU18ZsJmom": "HG2W8rnePIT3YT7A7MeMB/0b9tLfzEG3FG3S3o/AYXGiQR6NdIn2d5R2YV+VynAuF55yIKM+XrfYlIr/qKVjMhQ="
+ }
+}

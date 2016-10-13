@@ -1,0 +1,15 @@
+{
+ "cert_auth_type": "web",
+ "cert_sign": "HKJZo1FjueZfyg836G0wZK6o7f2SWL4Q6fHKt8p9aZLiM8JaBGSxorf4SyeBNsvBzwVwsHJt17bJ6eHYOrmTmSw=",
+ "cert_user_id": "xamar@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "3d1fa20ece3bca5a89d8133989c35a2a3088ac9113516eb15a6ed52ed0a96c72",
+   "size": 719
+  }
+ },
+ "modified": 1455337650.085938,
+ "signs": {
+  "1GFA9WKyB9QKCcWWyD3Zkcs7E1HonYwLLE": "Gy7UqyBIIHgzny/M8Kot1Uow1Xzvt/+huDZ2DX2iWDIxB+K1ifbL7MlDweX4UEvicQd+6jyD0OOLuNevVJRUWlI="
+ }
+}

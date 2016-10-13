@@ -1,0 +1,29 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "Dumb question: Do I have to keep a zite open to \"seed\"?",
+			"body": "Just started ZeroNet today. I am loving it. So in order to be a peer, do I have to have zites open or just keep the program running?",
+			"added": 1472041889
+		}
+	],
+	"topic_vote": {
+		"3_1AZjDLkfYwSmjM7ZJUf7HHnrF778augRMa": 1,
+		"8_1GervYZoP82e8X1Rgc4wyMkJY2zSsJuq8t": 1,
+		"1_19CzFY4vCcinZjkuW3Nw4T35AnYuE3cNbP": 1,
+		"6_1KzaKud9cUZB7HcgHnhrZqyuq2NnTeW6PR": 1,
+		"1_114c9kLxp6SPG4xhhHZEnoijFdYA8j23JE": 1
+	},
+	"next_comment_id": 1,
+	"comment": {},
+	"comment_vote": {
+		"3_13Cqt2MSFS6eu4cbVuByZBuULrEAcZAqFG": 1,
+		"165_14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx": 1,
+		"112_1KdnTJVBGzEZrJppFZtzfG9chukuMv8xSb": 1,
+		"1_1HJnF1xNKtUDP33AtynJaH9UDmd8FTv27H": 1,
+		"10_1NAaF8VitwKSPo79RzJFhqz14gndmdWcGV": 1,
+		"16_13U9mRgV3bdkXiNXjMZeBWTcSHZjgNmk2z": 1,
+		"11_17nphNHoGtz9EzvvTSSbZn7WHfM1ynpdsL": 1
+	}
+}

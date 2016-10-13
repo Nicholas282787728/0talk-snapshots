@@ -1,0 +1,30 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {
+		"2_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1
+	},
+	"next_comment_id": 4,
+	"comment": {
+		"2_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": [
+			{
+				"comment_id": 1,
+				"body": "This is so awesome!!!",
+				"added": 1473364839
+			},
+			{
+				"comment_id": 2,
+				"body": "Limitless possibilities!",
+				"added": 1473364860
+			}
+		],
+		"3_1K4ZbzAxkpr7BJyVqFdZiXptiiNSQCvDBW": [
+			{
+				"comment_id": 3,
+				"body": "Spam has found it's way to ZeroNet.",
+				"added": 1473365102
+			}
+		]
+	},
+	"comment_vote": {}
+}

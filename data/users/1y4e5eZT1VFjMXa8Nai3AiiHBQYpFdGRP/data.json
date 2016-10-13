@@ -1,0 +1,16 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 2,
+	"comment": {
+		"2_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": [
+			{
+				"comment_id": 1,
+				"body": "Where stored information about accounts and ZeroID if I use Multiuser plugin? Without plugin I can find it in users.json",
+				"added": 1456223075
+			}
+		]
+	},
+	"comment_vote": {}
+}

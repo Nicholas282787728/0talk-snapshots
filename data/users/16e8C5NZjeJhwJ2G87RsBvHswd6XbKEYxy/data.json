@@ -1,0 +1,29 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {
+		"2_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"1_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG": 1,
+		"4283_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG": 1
+	},
+	"next_comment_id": 3,
+	"comment": {
+		"2_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": [
+			{
+				"comment_id": 1,
+				"body": "So it is like freenet except faster but less secure",
+				"added": 1456908002
+			}
+		],
+		"4283_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG": [
+			{
+				"comment_id": 2,
+				"body": "> [dankdank](#comment_2_1DNn7xSUWbLEp8NSNAiVmYJXg9mGfYJtt9): So fucking amazing! I love you zeronet!!!! I've been waiting for a p2p browser enabled sites for years!\n\nFreenet was already available for a couple of years but it's slow and not really user friendly :/",
+				"added": 1456911696
+			}
+		]
+	},
+	"comment_vote": {
+		"2_1DNn7xSUWbLEp8NSNAiVmYJXg9mGfYJtt9": 1
+	}
+}

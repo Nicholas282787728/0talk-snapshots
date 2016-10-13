@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HAzGaronCkYhTEMF19vgvAYZue8s4407EGRBtkByhejxqaZtF8Y7tkbdDeAEV82EgwFrK0hYWsrBjE3czpFmhQc=",
+ "cert_user_id": "jonahbellemans@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "447e2ca4bd38f9b0ca82bc6a278c0718e71bceebe5bb6be44d271ae927f8d440",
+   "size": 339
+  }
+ },
+ "inner_path": "data/users/1PFiFaLq3meQs8qzt8L4KseZ66yQKhbzAR/content.json",
+ "modified": 1457038515.257,
+ "signs": {
+  "1PFiFaLq3meQs8qzt8L4KseZ66yQKhbzAR": "HLV8IPLEby2yLYA5OyUNrytQp3ixzMHjHzrc+j5TCwSvhWFMMzFmpkEy/QPARkmpmJ1qlCezC/UDi+3mbF7Zmno="
+ }
+}

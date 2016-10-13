@@ -1,0 +1,15 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "how can one change his/her zeroid or \"logout\"?",
+			"body": "Is one stuck forever with one zeroid per unique zeronet user?\nBut isnt a user independent of his/her used zeroid, so its possible to use another zeroid without starting completely from scratch and thereby losing signing access to previously created sites?",
+			"added": 1471024257
+		}
+	],
+	"topic_vote": {},
+	"next_comment_id": 1,
+	"comment": {},
+	"comment_vote": {}
+}

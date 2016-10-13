@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "G2pdexXq1SXyCVE4fPMCkfwqRpxcb8OXlIswrIcQTerR2YvuIP3Jx/klJlZJox5MsUblDXYcHFaOIwAlLPoZZEo=",
+ "cert_user_id": "freedomchina@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "02feff9f869533987e0483a43279e80ae09559643942e421b7a71a5c88949c22",
+   "size": 1056
+  }
+ },
+ "inner_path": "data/users/14139fxEEc7VuHVxvK2UqYSeX3rJqiADVY/content.json",
+ "modified": 1475745099.93,
+ "signs": {
+  "14139fxEEc7VuHVxvK2UqYSeX3rJqiADVY": "G9SM5B2WXsxjyuwdGGz3mE7YbCioawpDvt1jP2LuskAm0AjJRELj1QMzYyDxyNCmcTIaB3ylIq8izFgRZk+gmXo="
+ }
+}

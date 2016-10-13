@@ -1,0 +1,35 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 5,
+	"comment": {
+		"1_1MRtwGn7hTgkPNffU2Xm3cPCtc718wuuUE": [
+			{
+				"comment_id": 1,
+				"body": "http://127.0.0.1:43110/17hnEfc3oxvAzRPFJCneeSFxaZ64u3gjrC/",
+				"added": 1462788646
+			},
+			{
+				"comment_id": 2,
+				"body": "http://127.0.0.1:43110/gfwtalk.bit/?Topic:1_13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ",
+				"added": 1462788740
+			}
+		],
+		"7_16tWPYFLbad3R8iGcMuetyiwC2q5qXp45T": [
+			{
+				"comment_id": 3,
+				"body": "Look at this was clear to you！http://127.0.0.1:43110/17hnEfc3oxvAzRPFJCneeSFxaZ64u3gjrC/",
+				"added": 1462802401
+			}
+		],
+		"2_1NL5YZdozXc6ZNzKm78H4SjSMabyzV16YX": [
+			{
+				"comment_id": 4,
+				"body": "可以，但是如果你的电脑中了木马，核心文件被复制，那么你的网站也就完了。",
+				"added": 1463153222
+			}
+		]
+	},
+	"comment_vote": {}
+}

@@ -1,0 +1,32 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "How much do .bit domains cost at the momment?",
+			"body": "",
+			"added": 1457760266
+		}
+	],
+	"topic_vote": {},
+	"next_comment_id": 3,
+	"comment": {
+		"1_1DHp9XeGd9EU3nm7h3Uf7BvxxiQsRUjmdJ": [
+			{
+				"comment_id": 1,
+				"body": "Your wife is clearly a liar and was seeing another man. She needed an easy way out and set you up.",
+				"added": 1457588927
+			}
+		],
+		"2_1DFDjUGJdSp1kMuFq1AtNS9ZWmkVtbp947": [
+			{
+				"comment_id": 2,
+				"body": "Google analytics may work via a public proxy, but you are only publicly announcing that you are a ZN user via your analytics ID. It's an interesting idea however. Please write a blog about it.",
+				"added": 1457589153
+			}
+		]
+	},
+	"comment_vote": {
+		"3_1MahZJTzjoEMMCv2jBReDWhyNGRhN5tvDq": 1
+	}
+}

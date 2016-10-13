@@ -1,0 +1,44 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 7,
+	"comment": {
+		"1_1FbEENPR12D1yfqWWszQfNgb1Tu5TecMFV": [
+			{
+				"comment_id": 1,
+				"body": "limba o putem folosi, întrebarea e despre ce vorbim?",
+				"added": 1457000561
+			},
+			{
+				"comment_id": 2,
+				"body": "hmmm. aveți site-uri?",
+				"added": 1457102762
+			},
+			{
+				"comment_id": 3,
+				"body": "folosește cineva ZeroNet în vagrant?",
+				"added": 1457184244
+			},
+			{
+				"comment_id": 4,
+				"body": "> [dadix](#comment_11_1BEvmD7jRfwieXU5H3o1rCT35Y3VV1p9TW): @petre Eu nu sunt programator asa ca ... nu.\nEști pe Ubuntu?",
+				"added": 1457204316
+			},
+			{
+				"comment_id": 5,
+				"body": "> [dadix](#comment_14_1BEvmD7jRfwieXU5H3o1rCT35Y3VV1p9TW): acum am instalat zeronet pe windows dar il mut pe Trisquel . Nu imi place Ubuntu.\n\nfoarte fain! spor!",
+				"added": 1457259316
+			},
+			{
+				"comment_id": 6,
+				"body": "> [dadix4e](#comment_1_1EqRTFLe3aeLBGPMMqW7r8mFxLXuEhsCMm): gata, acum scriu din Trisquel. Tu ce sistem de operare folosesti ?\n\neu sunt pe Fedora, dar am instalat ZeroNet intr-o mașină virtuală(Ubuntu) cu Vagrant.",
+				"added": 1458295817
+			}
+		]
+	},
+	"comment_vote": {
+		"1_1P46rhvckorxi9PpbN5CvJc9xWwWmzDrRw": 1,
+		"14_1BEvmD7jRfwieXU5H3o1rCT35Y3VV1p9TW": 1
+	}
+}

@@ -1,0 +1,44 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "0talk - auf gut Deutsch",
+			"body": "Landsleute & Deutschversteher! Dieses Topick ist für uns.",
+			"added": 1458557471
+		}
+	],
+	"topic_vote": {
+		"2_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"1_163rm8X1WReQzp1uAZjbrCHkF7En1VTXbU": 1
+	},
+	"next_comment_id": 4,
+	"comment": {
+		"1_163rm8X1WReQzp1uAZjbrCHkF7En1VTXbU": [
+			{
+				"comment_id": 1,
+				"body": "Ja, hallo erst mal.\n\nIch weiß nicht, ob Sie schon wußten daß viele hier sind und NullZeiten lesen.    ;-)",
+				"added": 1458557560
+			}
+		],
+		"5_1LRrd96P7FiTcsyNXVzPM5jtpQoH1B4gYf": [
+			{
+				"comment_id": 2,
+				"body": "> [0zite0dude](#comment_1_1DjezZz4h4amzFHeeq1cMJzWfNCnHcamby): ZeroWiki ushers in a new era of wiki freedom! Censorship is over!\n\nYes! It will be very hard to keep 0net \"in line\" with the liars from mainstream corporate media.\n\nFinally the age of media freedom has dawned. Power to the people!",
+				"added": 1458557694
+			}
+		],
+		"1_1Enf43zJhCNJhwoUh5V31pGLqsjUtGCDUF": [
+			{
+				"comment_id": 3,
+				"body": "I came across the personal homepage of Chiang Kai-Shek on 0net recently.",
+				"added": 1458557790
+			}
+		]
+	},
+	"comment_vote": {
+		"1_1DjezZz4h4amzFHeeq1cMJzWfNCnHcamby": 1,
+		"3_163rm8X1WReQzp1uAZjbrCHkF7En1VTXbU": 1,
+		"2_1Enf43zJhCNJhwoUh5V31pGLqsjUtGCDUF": 1
+	}
+}

@@ -1,0 +1,20 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {
+		"4578_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG": 1
+	},
+	"next_comment_id": 2,
+	"comment": {
+		"4578_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG": [
+			{
+				"comment_id": 1,
+				"body": "Subgraph is something that has been vapor for years now...I have heard talk that it's possible there will be some integration/collaboration between Subgraph and Qubes though, and for me by far Qubes takes the crown currently as best and most secure OS.   If anything, Subgraph could easily become a layer on top of Qubes, I believe one of the devs of the project suggested that idly somewhere when asked.  Right now though, Qubes works splendidly if you happen to have the hardware for it.",
+				"added": 1458199076
+			}
+		]
+	},
+	"comment_vote": {
+		"1_1Hx5XBGxJSHaE9W8atoYzAqxJEvsLtC3LC": 1
+	}
+}

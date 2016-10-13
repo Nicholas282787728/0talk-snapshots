@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "G4YgLE/m528SHaYVnOfXOwUVdrrI1DVismBcAck4XdQvf4GNn6nivYcbxybbOrKsEmtxQ0mjp03+omQma3Y7+z0=",
+ "cert_user_id": "armchairgenius@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "8f6a06b757e239828bc517399d595896bcbf5d353e23d8c307aa3c2e99c0b413",
+   "size": 4895
+  }
+ },
+ "inner_path": "data/users/1DW9EhqZ7rndNKZTPbdxsttBU1jGtT2soT/content.json",
+ "modified": 1470662795.894,
+ "signs": {
+  "1DW9EhqZ7rndNKZTPbdxsttBU1jGtT2soT": "HIYozp8LjknvjrIzaRtxdrnzX16q9FMnuTscywjb+XxDORMShqr07p4vfHfRQowckDY7VP7+EqBuorL/JQwhtVE="
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "G1mYZ7wbwXxIhDubNLKvxiZ6XpRRdV4eNYsAkZWUgRipVYKyh8YEtHtrUkS1VHUC2IWRyhwQe6yR5itynnwmPQ8=",
+ "cert_user_id": "hanktank@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "5bb832c36ca2d97da38cdae66343dba15492cc9640078aaa8c1ed4e527aa3a24",
+   "size": 484
+  }
+ },
+ "inner_path": "data/users/1EFFPRmMGwAnnD415LuA1GqmQGjnAQkTvS/content.json",
+ "modified": 1473376099.965127,
+ "signs": {
+  "1EFFPRmMGwAnnD415LuA1GqmQGjnAQkTvS": "HNhEnnF/TdSyHejmHXmTrQ+iIBU/B1PKKx3F7v061w14UD0IWt3U8ze00YqixTskdd1i195lMM+Qe82+b1WPrRY="
+ }
+}

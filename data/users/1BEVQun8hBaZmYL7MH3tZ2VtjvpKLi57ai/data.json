@@ -1,0 +1,18 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {
+		"1_12SuCFUNDaMYRHG9DsWCyCN1NgHGjddwSJ": 1
+	},
+	"next_comment_id": 2,
+	"comment": {
+		"1_1PRsmkcDcCnKbCfFTeQizKYcDpNn98iQcT": [
+			{
+				"comment_id": 1,
+				"body": "> [garou](#comment_1_1C6JtzttTcB1nd8Q8JZYDHriciPz3kvLqV): 私は日本語を勉強しています！\n\n私も！",
+				"added": 1456936501
+			}
+		]
+	},
+	"comment_vote": {}
+}

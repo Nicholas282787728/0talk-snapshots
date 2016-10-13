@@ -1,0 +1,15 @@
+{
+ "cert_auth_type": "web", 
+ "cert_sign": "G+KSz4y9WYBJE1LaMkX252x4XPUtw1GRfzFUm5R5tqhDwOKJuLDinwli0xQKVN0LKMBO9fkNZfE2fIQRJ0g//po=", 
+ "cert_user_id": "bbtuxi@zeroid.bit", 
+ "files": {
+  "data.json": {
+   "sha512": "ada63387886f0de4cb1a3ad8a46426f70acf2f39af8cedb46c235b85357c14c0", 
+   "size": 1866
+  }
+ }, 
+ "modified": 1455460151.386, 
+ "signs": {
+  "15y72LFjQ4ymUTnkJP6CC7r73R5uoePgFW": "GwgnTQ87xMVqE7m6Oc6VceRY8H472U/TPPUak1NBbVH2q95JIrVLHrysZ52EVSJ0wC8lLD682sFjVhWOuFJZbS8="
+ }
+}

@@ -1,0 +1,47 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {
+		"1_1N9vyd78w2N6174aLsw7FvCk5Lij3Bu33Y": 1,
+		"1_18NAazqd14AcVXdCqN29NTUrxSLGyPy5gB": 1,
+		"2_1LRrd96P7FiTcsyNXVzPM5jtpQoH1B4gYf": 1
+	},
+	"next_comment_id": 5,
+	"comment": {
+		"1_1Ch2Q1jPeM6pspyNZ28AA73v51wjYLSd3q": [
+			{
+				"comment_id": 1,
+				"body": "The article on Play. But everything else here is absolutely just as cool, so I plan on exploring much more than just that.",
+				"added": 1457020959
+			}
+		],
+		"1_1EodDJ57gSDT7FB1VmxRWecRfytuxRicPA": [
+			{
+				"comment_id": 2,
+				"body": "thank you yes worke very good good program good service papa jons",
+				"added": 1457021460
+			}
+		],
+		"2_1GCsW9TFfjDsvcdmKPADq1n8Q3ha72UtDQ": [
+			{
+				"comment_id": 3,
+				"body": "EVALDRAW by Ken Silverman is the only programming language needed for anything ever.",
+				"added": 1457086285
+			}
+		],
+		"2_1LRrd96P7FiTcsyNXVzPM5jtpQoH1B4gYf": [
+			{
+				"comment_id": 4,
+				"body": "Actually really fun; like a little bullet hell game.",
+				"added": 1457117899
+			}
+		]
+	},
+	"comment_vote": {
+		"3_1Nb1Gp5G8fbhy3khD5qPPC6PLYHGf3Jkon": 1,
+		"31_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1,
+		"63_1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD": 1,
+		"2_1D7uESYtAKV36MVPGJZXuE7LUKbLwfo4dX": 1,
+		"2_1LVL5r7L5AwFk7waWmBwuVZ8Fcg9NDxakY": 1
+	}
+}

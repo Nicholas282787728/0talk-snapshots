@@ -1,0 +1,28 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {
+		"8125_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG": 1,
+		"1_1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow": 1
+	},
+	"next_comment_id": 3,
+	"comment": {
+		"2_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": [
+			{
+				"comment_id": 1,
+				"body": "yeah, zeronet is a lot faster than freenet. like whoosh",
+				"added": 1474510982
+			}
+		],
+		"1_1LE1ngFyG62KJC1Q7G2xyZGjaB2QubXSi9": [
+			{
+				"comment_id": 2,
+				"body": "If you have BTRFS, can use snapper, then you will always have backups of all your stuff, including whatever the messages are on this site.  Simply can roll back to the latest version that had all the files/messages intact. \nThen can seed a new forum with it. \nIf the .bit domain is Not compromised, then can simply flow over to the new one by changing the zeronet: entry,\nIf the .bit domain is compromised, then will need to use a different one.",
+				"added": 1474858022
+			}
+		]
+	},
+	"comment_vote": {
+		"3_17tpqoZw9eG2MQq6C3CVZ9MVxJxLTtCPZC": 1
+	}
+}

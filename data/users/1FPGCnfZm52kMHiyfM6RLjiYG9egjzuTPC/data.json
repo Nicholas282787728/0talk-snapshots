@@ -1,0 +1,23 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 3,
+	"comment": {
+		"1_1BQg5MQZ63aEQZMzLEXP6yY3hsgznKpaps": [
+			{
+				"comment_id": 1,
+				"body": "Fedora with KDE Plasma here.",
+				"added": 1457818068
+			}
+		],
+		"1_1FEwrHgDUC1ziFNjfPWxLsVmxsLUYEkPn6": [
+			{
+				"comment_id": 2,
+				"body": "ZeroNet é maneiro demais aqui do RJ! ;)",
+				"added": 1457818196
+			}
+		]
+	},
+	"comment_vote": {}
+}

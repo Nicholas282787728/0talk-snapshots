@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "G9hnazuh2BSlyO9SKegogJ6/E+MUKOqevxUQ6th/TESufxmBVgESPh7TpX+IirmYO46bPYtC15HYdG5pUoTmx8o=",
+ "cert_user_id": "slangwhanger@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "84da9d52ba9742ccfea4ac2748d3d5f2b79645bd19295778e0e6ed58a5d26955",
+   "size": 162
+  }
+ },
+ "inner_path": "data/users/1Nze3B4fuPX7qE6d3jLfx3oHjvkHAkjM94/content.json",
+ "modified": 1456871329.947549,
+ "signs": {
+  "1Nze3B4fuPX7qE6d3jLfx3oHjvkHAkjM94": "HIApO2/mRYaVwsaV6yCLPK1u1hUdmgnwMc2h6dVZsPAsXsLE8/BnkMrRKIRjtH3KbiAkOK6wiXd2CZOpyeUt+zM="
+ }
+}

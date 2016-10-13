@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HOJqtaIxU9SYTwrYs9+NuF96k0gSlFdhVZcXGaypCSWlcIivllto2eUKhQaSqbnkbUB1cIuTKQUH7e5r66CoT/M=",
+ "cert_user_id": "qband@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "3d95e75f722cdcb7ee154b35684589c4c4a15655ee8ad036137526ab1543a16b",
+   "size": 164
+  }
+ },
+ "inner_path": "data/users/1L14oDUpbcCgjfhJCdthpZi4EMEPYr9xeL/content.json",
+ "modified": 1467518141.790074,
+ "signs": {
+  "1L14oDUpbcCgjfhJCdthpZi4EMEPYr9xeL": "G8c9GDq3KfZmxMsoklz5qDgoR40jQ1BnZmk+wNf0AfCRjKD2T/qogIBQ9C1gjfrsP7WnXxphnNBUTvx2YPXfqkU="
+ }
+}

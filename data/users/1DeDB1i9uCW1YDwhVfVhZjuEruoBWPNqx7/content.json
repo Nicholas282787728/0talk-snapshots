@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HJnvuXXvnJfhurrvSImJ9XlfNHcnR4lWRWYmyCuepHWSxV/qWDlab/knE1u0izcgMOCbyNpDD8UGzpIsDXBGTAw=",
+ "cert_user_id": "retos73@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "791ff0897b53702f5d8760c1d41e6c9ea6fef1c5d1a20e0bca160903c7075d94",
+   "size": 448
+  }
+ },
+ "inner_path": "data/users/1DeDB1i9uCW1YDwhVfVhZjuEruoBWPNqx7/content.json",
+ "modified": 1456958979.162275,
+ "signs": {
+  "1DeDB1i9uCW1YDwhVfVhZjuEruoBWPNqx7": "HHQG0Y9U9a9+lbF1JSAUphyuZuF1QCPNb1QLh0R/RO7a3W/PBfQrI9jm5COTO1BnzCOqf6iz0wMBAix6YULemxM="
+ }
+}

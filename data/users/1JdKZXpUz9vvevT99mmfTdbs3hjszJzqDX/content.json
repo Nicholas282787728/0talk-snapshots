@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HK1zui6fnDQs3nxykIBREGpYtt7tkWv0QZOoRvrg5YdXqQVjTeqjcgqNj261hu2NqCYDqeWkkvMmNm3aBLtt1jY=",
+ "cert_user_id": "vethit@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "16c157066337111ef9f9457e4e6792e44ea6917a35762f0c08fc09ea9ca55b9d",
+   "size": 11824
+  }
+ },
+ "inner_path": "data/users/1JdKZXpUz9vvevT99mmfTdbs3hjszJzqDX/content.json",
+ "modified": 1460990265.025,
+ "signs": {
+  "1JdKZXpUz9vvevT99mmfTdbs3hjszJzqDX": "GxrjutfPubwNtF4pcFBW4ULURlMvJQ/ezgYxP0MZw50AdHV+T8cQJAKDUd2PQwhXgCy1A0wA96x8gdSLQEGPL6Q="
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "G1pZrtsMQG23QXGqO/k3RFFbAX/FhfU58pGlzVU3w8bUXvoQlHtU0zpGi9SgGjRiQ2UFTNt+jxDbiXRRKNwjrkA=",
+ "cert_user_id": "alebabaloff@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "202c1640fd204ef50f8bcb877b33ac66e4cede8828d232c7ba2ba97aa84429cb",
+   "size": 241
+  }
+ },
+ "inner_path": "data/users/1939ouw3c8RDYf1ewUj328umSnWwT6rDaa/content.json",
+ "modified": 1458867033.287,
+ "signs": {
+  "1939ouw3c8RDYf1ewUj328umSnWwT6rDaa": "HDOal9M//SANWyZwmiVVRMU++LG+fhIRFuzQ9NwwFxvhyqI4zroFzQ1woQ3C4kV51IJ3/fXogVtoeS8q9VZbf1Y="
+ }
+}

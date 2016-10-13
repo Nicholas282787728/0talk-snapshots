@@ -1,0 +1,16 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 2,
+	"comment": {
+		"1_1LZbdpKVACfmxW5vffrcwAGugNwcWxuyKu": [
+			{
+				"comment_id": 1,
+				"body": "Like the others are saying, ZeroNet would leave much of the Parallella's features untouched. I do have a Pi2, I'll go ahead and run a benchmark on it and share the results. Because it would be a good platform to run it 24/7.\n\nWith that said, I think the Parallela is awesome (just from what I've read) and I think it's certainly worth the price. I imagine I'll pick one up to tinker with, since its an easily justifiable price. Hopefully we can find some ways to utilize the features of this type of platform with ZeroNet.",
+				"added": 1451442830
+			}
+		]
+	},
+	"comment_vote": {}
+}

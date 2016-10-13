@@ -1,0 +1,32 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 4,
+	"comment": {
+		"1_1BG8WrV2VY1bNjQiKR4tcL52FAw6Y6BoJ8": [
+			{
+				"comment_id": 1,
+				"body": "其实整个逻辑就很搞笑。迅雷离线下载在国内火爆完全是因为迅雷等吸血下载工具的流行（吸血驴听说过么，只下载不上传的人太多毁坏了国内BT生态，以至于诞生了所谓的PT），以及国内网速慢。国外BT非常流行，根本没什么人用“下载软件”。\nZeroNet如果失败绝不是因为P2P而是项目目前还没有完全成熟，很多特性在TODO list，如果主程不干了那么这个项目或许会前景暗淡。",
+				"added": 1472334782
+			}
+		],
+		"1_1FVwrkrpwe2DPu6Q4qpPRks2aAfRQ43DEC": [
+			{
+				"comment_id": 2,
+				"body": "I saw it's in the TODO list (accepting donation atm), local peer discovery thing.",
+				"added": 1472335626
+			}
+		],
+		"5_1KzaKud9cUZB7HcgHnhrZqyuq2NnTeW6PR": [
+			{
+				"comment_id": 3,
+				"body": "Transmission is very good. It has GUI and daemon, I used the latter with its web UI.",
+				"added": 1472474718
+			}
+		]
+	},
+	"comment_vote": {
+		"30_1HrRNH7KbdxMjwLmwrHmZqJrzVZVDKc9bF": 1
+	}
+}

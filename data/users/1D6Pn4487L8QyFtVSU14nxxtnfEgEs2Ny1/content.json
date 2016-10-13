@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "G06BnDePl40FZ/1VJCZdtTuIUy63dxgXg5aCINqI1cwe/wsK14bxtI1pwDuU2GnEslSyjoAIf2VdU55xqOv+f/g=",
+ "cert_user_id": "kickasstorrents@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "590411d13fbbb2740a2e636da0f7c1be965a41b0470f16efee054fcce2951067",
+   "size": 9455
+  }
+ },
+ "inner_path": "data/users/1D6Pn4487L8QyFtVSU14nxxtnfEgEs2Ny1/content.json",
+ "modified": 1470934122.876856,
+ "signs": {
+  "1D6Pn4487L8QyFtVSU14nxxtnfEgEs2Ny1": "HMbZ4zNCm3uemSqrd7KOLbuJkSpQVyordGLTJJ52Kv5IVuxia8iV2XWlFfKy4tDnEz5cVjd/pp5sE/QAPppa9Vc="
+ }
+}

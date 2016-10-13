@@ -1,0 +1,42 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "AMAZING WORK!",
+			"body": "Well done creators of ZeroNet and developers of these apps already up and running!\nThey're simply beautiful. Thanks for all the effort. It was a breeze to install and get working.\n\nI created a blog post to celebrate :)\nhttp://127.0.0.1:43110/15PHMSE9AZ19fT7wMWh9TCnGvbqdVQ4sS4/",
+			"added": 1456790813
+		}
+	],
+	"topic_vote": {
+		"1_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG": 1,
+		"4303_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG": 1,
+		"1_1JxycrsLzVrPA247VxtPuwfdQBA6BJrSQ3": 1
+	},
+	"next_comment_id": 4,
+	"comment": {
+		"14_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf": [
+			{
+				"comment_id": 2,
+				"body": "twitter, /r/bitcoin, then https://twitter.com/HelloZeroNet",
+				"added": 1456797490
+			}
+		],
+		"1_19VH75dPNaPcSqexT5hTCAXKGgePiDEVQE": [
+			{
+				"comment_id": 3,
+				"body": "yo",
+				"added": 1456892652
+			}
+		]
+	},
+	"comment_vote": {
+		"28_16AFTG7vdicwJbRQpWc2F9BRHTE5MTftE7": 1,
+		"342_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"15_14XxpXNGMLsyeQxikacrbQnAFXVyhN5Ngx": 1,
+		"45_1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD": 1,
+		"2_12w6hE4ubG3mAZJrHEvNPG9bc3UGz3wVv7": 1,
+		"9_1PX7VW6xfccTT2tNUTwrYKJpGsGfrnoJfP": 1,
+		"461_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1
+	}
+}

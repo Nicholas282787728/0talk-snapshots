@@ -1,0 +1,129 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "Rumble: off-the-grid communication [Android]",
+			"body": "http://www.disruptedsystems.org/",
+			"added": 1455201098
+		}
+	],
+	"topic_vote": {
+		"1_1F6BMqittjWUStzUbRXm2kG2GQ3RdBLqFQ": 1,
+		"1_16AFTG7vdicwJbRQpWc2F9BRHTE5MTftE7": 1,
+		"7_13KqD3BoaRMudEG5QU2fnGLkSVx8qDXKof": 1,
+		"5_17i7Y7r8nTaCfLbCAuaKyc4R5BbKZYU2Hr": 1,
+		"3_16AFTG7vdicwJbRQpWc2F9BRHTE5MTftE7": 1,
+		"18_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf": 1
+	},
+	"next_comment_id": 20,
+	"comment": {
+		"1_1F6BMqittjWUStzUbRXm2kG2GQ3RdBLqFQ": [
+			{
+				"comment_id": 1,
+				"body": "> [sthetz](#comment_3_1BNmjz9tBLY3M1tq2z7DKvA1LjFXYsmLd9): Привет.\n> Я вот тут делаю имиджборду: http://127.0.0.1:43110/0chan.bit\n> Если наберется еще несколько русскоговорящих людей, могу создать отдельный раздел для русских (сейчас там все на инглише)\n\nСоздавай русский раздел.  Это только дополнительно привлечет больше народу",
+				"added": 1455112114
+			},
+			{
+				"comment_id": 3,
+				"body": "> [shift](#comment_1_16AFTG7vdicwJbRQpWc2F9BRHTE5MTftE7): О, тут оказывается много русских\n\nКонечно ))",
+				"added": 1455195362
+			},
+			{
+				"comment_id": 4,
+				"body": "> [shift](#comment_2_16AFTG7vdicwJbRQpWc2F9BRHTE5MTftE7): @manrus знакомые люди, кажется )\nУгу)",
+				"added": 1455195921
+			},
+			{
+				"comment_id": 5,
+				"body": "> [gomzik](#comment_18_1F6BMqittjWUStzUbRXm2kG2GQ3RdBLqFQ): Охнуничегосебе. Оно ж тоже питонячее. Надо разобраться поглубже\n\nА чем ipfs не годиться?",
+				"added": 1455200634
+			},
+			{
+				"comment_id": 6,
+				"body": "> [gomzik](#comment_19_1F6BMqittjWUStzUbRXm2kG2GQ3RdBLqFQ): аааа, как много всего интересного!\n\nСмотри не подавись )))",
+				"added": 1455200766
+			},
+			{
+				"comment_id": 7,
+				"body": "> [zalex](#comment_42_1LWuc6JBhUGrKEAh1aPrPU85dEMcKmg3pS): Опыт показал, что юзверям если даже рассказать, то они не пойдут сюда. А если и пойдут, то не останутся. Я считаю, что на данном этапе развития стоит сфокусироваться на привлечении определённых категорий людей.\n\nЯ еще осенью пытался привести сюда людей с 2ch на http://127.0.0.1:43110/0chan.bit\nЧеловек 5 от силы написало пробный пост. Нужно улучшить функционал. И тогда может сработать. И обязательно удобство и простота установки/использования",
+				"added": 1455201344
+			},
+			{
+				"comment_id": 8,
+				"body": "> [shift](#comment_11_16AFTG7vdicwJbRQpWc2F9BRHTE5MTftE7): сам пилил это? как оно работает техническиPS тут я заметил сделали какую-то местную почту, она работает? можно с кем-то потестить ?\n\nМожешь мне написать. \nАвтор этой борды не я. Здесь еще сделали \"опциальные файлы\" чтобы не грузился весь сайт",
+				"added": 1455201467
+			},
+			{
+				"comment_id": 9,
+				"body": "> [gomzik](#comment_24_1F6BMqittjWUStzUbRXm2kG2GQ3RdBLqFQ): А вообще, тут все такое вебдванольненькое. Реал тайм апдейты. Вкуснотища прям.\n\nХоть и не разработчик, но подтвержаю)) Прям няшный интерфейс",
+				"added": 1455201833
+			},
+			{
+				"comment_id": 10,
+				"body": "shift проверь Mail.ZeroNetwork.bit",
+				"added": 1455202788
+			},
+			{
+				"comment_id": 11,
+				"body": "Можно попробовать переманить юзверей freenet'а. Вопрос в том насколько они параноики.",
+				"added": 1455203713
+			},
+			{
+				"comment_id": 12,
+				"body": "> [gomzik](#comment_27_1F6BMqittjWUStzUbRXm2kG2GQ3RdBLqFQ): как думаешь, насколько параноики пользователи f2f-сети? :) Да они ж доверяют только своим :)\n\nПо факту фринет p2p. f2f функцией там мало кто пользуется.",
+				"added": 1455203789
+			},
+			{
+				"comment_id": 13,
+				"body": "> [nippletwister](#comment_82_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf): Пиарить зеронет можно (удачнее всего) на фоне блокировки RuTracker, я недавно сделал пост на Пикабу, так он очень быстро стал набирать очки (дошел до 80, плюс 200 человек утащило его себе в закладки), пока его модераторы не прикрыли под тупым предлогом.\n\nНа пикабу аудитория не та. Одни школьники",
+				"added": 1455204735
+			},
+			{
+				"comment_id": 14,
+				"body": "> [nippletwister](#comment_84_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf): Я понимаю, но суть не в этом. Это просто один из механизмов рекламы/пропаганды - зацепиться за что-то известное)). Все накрутки такими нечестными способами работают. Т.е. есть процесс блокировки, многих он бесит, а тут предлагается ZeroNet в качестве решения. Хотя, по правде, я не уверен нужен ли RuTracker в виде одного сайта в Зеронете или он будет представлен некой федерацией сайтов, у каждого из которых свой хозяин.\n\nДаже не знаю что и сказать. На мой взгляд подросткам даже ТОР не интересен(за исключением тех кто в очках). Не те люди просто. Для них компьютер как лампочка в туалете",
+				"added": 1455205187
+			},
+			{
+				"comment_id": 15,
+				"body": "> [nippletwister](#comment_86_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf): А как идея насчет прикручивания зарабатывания токенов (валюты) за сидерство, и траты этих токенов на хостинг контента/добавление комментов? Похожая идея должна быть у DATT.co\n\nЯ думаю имеет смысл делать это только внутри соц сети на основе zeronet.",
+				"added": 1455208990
+			},
+			{
+				"comment_id": 16,
+				"body": "Если стало скучно то вам сюда - http://127.0.0.1:43110/1LMG9b3mhvnfAiMpRccSNzvTbq6bYCQWLf",
+				"added": 1455212429
+			},
+			{
+				"comment_id": 17,
+				"body": "> [shift](#comment_19_16AFTG7vdicwJbRQpWc2F9BRHTE5MTftE7): а смысл в поощрении сидирования если у  ресурсов на которые часто заходят и так всё будет хорошо с доступностью?\n\nВидимо смысл в привлечении новых пользователей",
+				"added": 1455216143
+			},
+			{
+				"comment_id": 18,
+				"body": "> [shift](#comment_26_16AFTG7vdicwJbRQpWc2F9BRHTE5MTftE7): работает не? http://127.0.0.1:43110/1Apr5ba6u9Nz6eFASmFrefGvyBKkM76QgE/\n\nРаботает",
+				"added": 1455281124
+			}
+		],
+		"5_167eTX5f6jJt4HPvfQqf2QuwdTFCnxJCf2": [
+			{
+				"comment_id": 2,
+				"body": "Nice",
+				"added": 1455121481
+			}
+		],
+		"14_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf": [
+			{
+				"comment_id": 19,
+				"body": "> [kasthuri](#comment_13_1BBKD8mSqtGDaK5GQ5Q6A6mLhpc8xrgW97): how to create the new site in zeronet ...actually m using windows 8\n\nhttp://127.0.0.1:43110/Blog.ZeroNetwork.bit/?Post:43:ZeroNet+site+development+tutorial+1",
+				"added": 1455635537
+			}
+		]
+	},
+	"comment_vote": {
+		"7_1BNmjz9tBLY3M1tq2z7DKvA1LjFXYsmLd9": 1,
+		"41_1LWuc6JBhUGrKEAh1aPrPU85dEMcKmg3pS": 1,
+		"79_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf": 1,
+		"109_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf": 1
+	}
+}

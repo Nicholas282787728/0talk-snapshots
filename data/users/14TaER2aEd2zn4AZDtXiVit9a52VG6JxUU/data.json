@@ -1,0 +1,21 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {
+		"1_16w7UuJAHbt8YBa8zxHS7UFk9mq8Q5DpE4": 1
+	},
+	"next_comment_id": 2,
+	"comment": {
+		"2_1AZjDLkfYwSmjM7ZJUf7HHnrF778augRMa": [
+			{
+				"comment_id": 1,
+				"body": "Internet has less criminals due to its censorship, so with an uncensored network, there is no way to stop them. If zeronet isn't intended to become \"dark\". We should announce a rule about what cannot be posted to maintream zite (zero me, zero talk, ...) and some kinds of \"moderator\" to implement the rules.",
+				"added": 1473174675
+			}
+		]
+	},
+	"comment_vote": {
+		"1_1M2gZSNe4Z28mxRsd8uvNVHT99xkZq4qwL": 1,
+		"23_1L5rGDgTs4W2V7gekSvJNhKa7XaHkVwotD": 1
+	}
+}

@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HD9ddClX5eh1LApf2vpHpwwysErSrsC2Rr/ka6a+4ABpfqwITLFOZzXwVuI90VZ0OZCSI4vZpPHzImRcOTZfGmQ=",
+ "cert_user_id": "ericcartman@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "c122b891a666d20e7e67039fd8e198b9113f8b2029453af9b1990b089135ce72",
+   "size": 297
+  }
+ },
+ "inner_path": "data/users/1NYgSG1DuNm5GzpwZAGiqDtPtYi2JP81PL/content.json",
+ "modified": 1462547357.241,
+ "signs": {
+  "1NYgSG1DuNm5GzpwZAGiqDtPtYi2JP81PL": "HGi+kTYyEEIzY0B/DyBSq8VRjGAGRzpUcGIwaaES6xr+JOuNjUOoxFtByf/cP1IYbBAEN1oijCLErIDZqenvzUE="
+ }
+}

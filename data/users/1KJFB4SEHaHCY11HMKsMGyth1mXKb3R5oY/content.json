@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HKZvPRuLR1M5Ns8sq1uJ9r9uTimk1Ag55M689S6/vfHGhUWhcK9vrt3k4+ktHnE85aqfz/D3zhdxoftOVs5q0/I=",
+ "cert_user_id": "hackscomicon@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "e8ef18f0955d7a5cc5e209dbb21f79719d0a45925716c8a18b23219b6aadaa55",
+   "size": 2684
+  }
+ },
+ "inner_path": "data/users/1KJFB4SEHaHCY11HMKsMGyth1mXKb3R5oY/content.json",
+ "modified": 1457035381.548,
+ "signs": {
+  "1KJFB4SEHaHCY11HMKsMGyth1mXKb3R5oY": "HA7Jhf1m14vWjhnsFTbXuX/PsGqUSOomt7LLSF+xTPECfsmXRwRFqPJojc69Xqg4TphYNm0QdAWKG3UHbwB4Qp8="
+ }
+}

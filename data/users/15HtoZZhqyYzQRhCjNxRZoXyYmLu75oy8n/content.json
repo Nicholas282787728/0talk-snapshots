@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "G7iqVwAbgIxMvqnD3/DAvgssnglZqmJE0/G3yw/V1KNTYr0Ayw9RX7WRQ3m/9CJ+5jOa3TJi+KRrqn19CFj77yY=",
+ "cert_user_id": "bmo@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "960b8157a82b23415b53e37a2da58470a5c47e2d78d9c548878b0f25db2801ff",
+   "size": 1155
+  }
+ },
+ "inner_path": "data/users/15HtoZZhqyYzQRhCjNxRZoXyYmLu75oy8n/content.json",
+ "modified": 1470083326.953161,
+ "signs": {
+  "15HtoZZhqyYzQRhCjNxRZoXyYmLu75oy8n": "HFB1AgKSOOZohKUd5nHh7RiBLCh7xQ/LdM2XXr9OHHb+dCsBSARBtq2dsL0Qn8CEIf9KP0rDia8KZ1oks5GlSnY="
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HLXlsMqvWmjua5WLrT7CMvAQyxw/Fd/GpAuc2UZTqjevP9TcvfAshQiJjJDeIk5cXtSAdv+E7wEnKIABSyBXOCs=",
+ "cert_user_id": "altermetax@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "6c5702c452dd36e31e97b613362ce8b56636a7c8b1277a50716db62680b255e2",
+   "size": 398
+  }
+ },
+ "inner_path": "data/users/1ChemHWceAz4r5GDxjGuBFT2kKJmrfqKjv/content.json",
+ "modified": 1458161821.241883,
+ "signs": {
+  "1ChemHWceAz4r5GDxjGuBFT2kKJmrfqKjv": "HLGPskn/JoGra33EG/slHk/5/2206Trn+1LHBDAlexfV679/TLLZn518UrNbO12ZRUMDU0HoRLwRvk6jfxc+X9c="
+ }
+}

@@ -1,0 +1,93 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 18,
+	"comment": {
+		"2_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": [
+			{
+				"comment_id": 1,
+				"body": "ping meow",
+				"added": 1455939690
+			},
+			{
+				"comment_id": 2,
+				"body": "I wondered... how is this sent",
+				"added": 1455949460
+			},
+			{
+				"comment_id": 3,
+				"body": "> [nippletwister](#comment_143_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf): ...pure magic\n\nHmm... I think I got 50% of it",
+				"added": 1455950360
+			},
+			{
+				"comment_id": 4,
+				"body": "They have nearly no doc in ZeroID",
+				"added": 1455950420
+			},
+			{
+				"comment_id": 5,
+				"body": "Wait a user can have only 40K?",
+				"added": 1455950453
+			},
+			{
+				"comment_id": 6,
+				"body": "and this mixed SQL with JSON\nthis is the thing that I want to make 3 months ago",
+				"added": 1455950658
+			},
+			{
+				"comment_id": 7,
+				"body": "And ZeroBoard uses a *PUBLIC URI* for publishing...............\nwhat a weird place...",
+				"added": 1455950720
+			},
+			{
+				"comment_id": 9,
+				"body": "AFAIK A people can remove his post by publish a json without the post.\nIs that right?\n\nHmm... Editing...",
+				"added": 1455956970
+			},
+			{
+				"comment_id": 10,
+				"body": "Is there a way to disable this completely?\n\n(*if i run my site*)",
+				"added": 1455957743
+			},
+			{
+				"comment_id": 11,
+				"body": "> [testuser0220](#comment_10_1EQssc8mBL4fyhNVLh2xURUUSX1MSfLRwh): Is there a way to disable this completely?\n> (if i run my site)\nˊ_>ˋIn a special case (goverment pressure) people can modify || remove what they said which is not good to the other participant",
+				"added": 1455958085
+			},
+			{
+				"comment_id": 12,
+				"body": "> [nofish](#comment_343_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): You only able to modify the comment if you have to private key, so the goverment is not able to do it.\n\nA special case means goverment can get the people who send the msg and force him to remove it",
+				"added": 1455958268
+			},
+			{
+				"comment_id": 13,
+				"body": "¯\\_(ツ)_/¯\nActually I am looking for a distributed forum solution like blockchain to solve that\nbut can't find one so far\n\nATM except for writting one myself, Zeronet is the best one among these projects\nsuch beautiful, so fast, very wow",
+				"added": 1455958370
+			},
+			{
+				"comment_id": 14,
+				"body": "> [nofish](#comment_344_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): It could be possible to add a special mode to the file verification process,that (if requested) only allows to add new parts to the data files, so it would make the comment deletion/edition impossible.\n\nHmm.. marked, thanks!",
+				"added": 1455959012
+			},
+			{
+				"comment_id": 15,
+				"body": "P.S. is that possible to publish something (not in this site) without an certificated identify?",
+				"added": 1455960407
+			},
+			{
+				"comment_id": 16,
+				"body": "> [nofish](#comment_345_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): You can create a new site, so you don't need any. (Choose ZeroBlog ⋮ > Clone at ZeroHello)\n\nI mean with \"Unique to this site\" option, is this even possible?",
+				"added": 1455960642
+			},
+			{
+				"comment_id": 17,
+				"body": "One more thing... Is there anyway to remove a certificate?",
+				"added": 1455975074
+			}
+		]
+	},
+	"comment_vote": {
+		"1_1EQssc8mBL4fyhNVLh2xURUUSX1MSfLRwh": 1
+	}
+}

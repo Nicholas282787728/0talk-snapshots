@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "G1hnTACKvIAl5knG0OjM/fvyU6HMB3yhgf+hT10id4oDDJyx4wCFO0Uf6cbxsn6ccIbVpLdFMFZNUyaM8+U/wSg=",
+ "cert_user_id": "polygone@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "5bfade2aa2abcfb2b2bb33ab790cbc2021874d45403e61e1e921cc1d028d307b",
+   "size": 297
+  }
+ },
+ "inner_path": "data/users/1Hc27i6BKGT75oVCnPdA6KnmzCeFnFmQEP/content.json",
+ "modified": 1462127811.83,
+ "signs": {
+  "1Hc27i6BKGT75oVCnPdA6KnmzCeFnFmQEP": "HNu5bk7c3Qr3f1Kra2cSV36ITuP3CD5Fs2EHDFMwwNJui/t9z6sA4YmAi0EwwWyX+A+5ulXpFaGyeaCKFJNRJiw="
+ }
+}

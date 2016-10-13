@@ -1,0 +1,37 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 5,
+	"comment": {
+		"14_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf": [
+			{
+				"comment_id": 1,
+				"body": ">Where did you know about ZeroNet first?\nIn tox chat.",
+				"added": 1455710589
+			}
+		],
+		"1_18jipjDsfAxAuq4ixbi2w24xJrYVfTYFPn": [
+			{
+				"comment_id": 2,
+				"body": "Try looking into that place where you dare not look. You'll find me there staring back at you.",
+				"added": 1459034745
+			}
+		],
+		"1_1HPdSHS7WWEMmsJ77JMtf87DUMRGpbTodx": [
+			{
+				"comment_id": 3,
+				"body": "Allah must be thinking you're not His best creature, dude.",
+				"added": 1459117826
+			}
+		],
+		"7_1LJMypJ67iEBwah82xwVVdB8SGZ1mwqgHQ": [
+			{
+				"comment_id": 4,
+				"body": "Sometimes has bugs, but usable. May become a standard for a non-paranoid yet rather anonimous and secure 1to1 communication along with zeronet for storage and distribution of information. For paranoid messaging bitmessage is a choice, of course.",
+				"added": 1459540378
+			}
+		]
+	},
+	"comment_vote": {}
+}

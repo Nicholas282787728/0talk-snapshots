@@ -1,0 +1,23 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 3,
+	"comment": {
+		"1_1ELBjparWRzWWptstDfNtKyY2E5mHtL5J4": [
+			{
+				"comment_id": 1,
+				"body": "I don't think we need to worry. Normies will never come here because installation requires unpacking a compressed file.",
+				"added": 1472998674
+			}
+		],
+		"2_1DcE9QfZbfLZhXxgtQ8Ui3oMZvs9NVjqZB": [
+			{
+				"comment_id": 2,
+				"body": "If you were going to vote third party, why would you ever pick Jill Stein over Johnson?",
+				"added": 1472998939
+			}
+		]
+	},
+	"comment_vote": {}
+}

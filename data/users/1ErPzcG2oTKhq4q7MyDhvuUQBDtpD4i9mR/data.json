@@ -1,0 +1,68 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "ZeroNet on Synology NAS?",
+			"body": "Possible? If yes, how? I guess I'd have to somehow transfer stuff like the ZeroNet sites I'm seeding from my client computer, you know the one I'm *actually* using to hang around here, to the NAS, just for \"passive seeding\".",
+			"added": 1456964305
+		}
+	],
+	"topic_vote": {},
+	"next_comment_id": 9,
+	"comment": {
+		"1_1BGaNcH1UBqAdatPbT3YssmPRVdhepMNPW": [
+			{
+				"comment_id": 1,
+				"body": "OpenVPN on OS X here… no problems. Took a couple of seconds longer than usual to launch ZeroNet, though.",
+				"added": 1456966373
+			}
+		],
+		"1_1ErPzcG2oTKhq4q7MyDhvuUQBDtpD4i9mR": [
+			{
+				"comment_id": 2,
+				"body": "Someone will probably build it… one day. I believe NAS-systems, the Pi etc. could be a big help in keeping lots of sites seeded. I'm just wondering if that would work with some kind of a ZeroNet bot (which would probably be the best idea for most passive seeders), or with the user manually setting up what to seed and what not to which isn't really feasible unless you can automate it somehow, like synchronizing the ZeroNet data directory on the NAS/Pi with the user's local data directory.",
+				"added": 1457049660
+			},
+			{
+				"comment_id": 5,
+				"body": "Yeah, afaik DSM (Synology OS) comes with python, and with a minor tweak you can also install pip, and then the ZeroNet dependencies. Then you just have build a ZeroNet launcher script for DSM startup, which shouldn't be too hard. The question is how to synchronize my local MacBook Pro running ZeroNet with the ZeroNet on the NAS. I guess I could add a launchd process, an agent that watches the local ZeroNet data folder for new site additions, and if another site is created for seeding, the agent will copy it to the data folder on the NAS. But I think that a sync option should eventually be built into ZeroNet itself; that way you could LAN sync lots of clients, not just your NAS to your computer.",
+				"added": 1457055007
+			}
+		],
+		"2_15ymkjUYJS6tjUC35AekGMExZMN6iks8ma": [
+			{
+				"comment_id": 3,
+				"body": "I launch ZeroNet by calling a script from BitBar: https://github.com/matryer/bitbar\n\n#! /bin/bash\ncd ~/git/ZeroNet-master\n/usr/local/bin/python zeronet.py\n\nThen got my bookmark in Safari: http://127.0.0.1:43110/\n\nIf you plan to use the OS X built-in python, you need to install pip, if you haven't already. (I installed python with homebrew, in addition to the built-in version, just to be sure; the brewed version comes with pip.)",
+				"added": 1457053113
+			},
+			{
+				"comment_id": 4,
+				"body": "The site swallowed the number sign… there needs to be a number sign (#) before the exclamation mark (#!). And you need to chmod +x your shell script, of course.",
+				"added": 1457053581
+			}
+		],
+		"1_1GG2zSSdoGqykuSqXrsnSo6JSgZ2UqMahu": [
+			{
+				"comment_id": 6,
+				"body": "I'd be happy with magnet links. But yeah, a series site would be awesome. :)",
+				"added": 1457055426
+			}
+		],
+		"2_1GCsW9TFfjDsvcdmKPADq1n8Q3ha72UtDQ": [
+			{
+				"comment_id": 7,
+				"body": "AppleScript. LOL. (Just kidding.)",
+				"added": 1457055517
+			},
+			{
+				"comment_id": 8,
+				"body": "In the end I'm with crypton: whatever's necessary… Objective-C, Swift, AppleScript, Python, bash scripting… whatever works.",
+				"added": 1457055759
+			}
+		]
+	},
+	"comment_vote": {
+		"12_17fgJ3tZjhM7HCkTkd5TWf2BLLWmhRKcXB": 1
+	}
+}

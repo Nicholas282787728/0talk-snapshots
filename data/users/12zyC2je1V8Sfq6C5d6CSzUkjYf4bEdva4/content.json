@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "G7qNk1jf7zbsHg3+bySwaQb4Vr+epys7710dRiyswWi/1DVHMEEsmi2OPLI67QeTmDSg1twScwAkOy8Lcxs9pVw=",
+ "cert_user_id": "vahcam@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "abb36fb64b18645a3c5aa9eb22957edaf9a0f4a334c4641b05eab44a822aac07",
+   "size": 1442
+  }
+ },
+ "inner_path": "data/users/12zyC2je1V8Sfq6C5d6CSzUkjYf4bEdva4/content.json",
+ "modified": 1472395431.998,
+ "signs": {
+  "12zyC2je1V8Sfq6C5d6CSzUkjYf4bEdva4": "HMZ1DM/D7To21qkL7pbu4cNL3p3Ix3vt5DRGpq9CZZOD02CAXfbPhYbp6nqHWGQHlIaUWdBmOOuE9zdk3O19ez0="
+ }
+}

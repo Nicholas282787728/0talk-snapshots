@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "G+V1F1oBAUsTDjoG+e9rWLMq3peLhqssRdAhFNDDznyoqEFqW/Lb78mPSxh9mx1txYhSIiTpdf7qcW/Ynmj52p8=",
+ "cert_user_id": "theassetman@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "068b72dc994e3e3ecc40074064702b5ce120ff219f310b684c8f4f2f4b9a603f",
+   "size": 414
+  }
+ },
+ "inner_path": "data/users/114c9kLxp6SPG4xhhHZEnoijFdYA8j23JE/content.json",
+ "modified": 1472356392.688,
+ "signs": {
+  "114c9kLxp6SPG4xhhHZEnoijFdYA8j23JE": "G140TM97bZhwmLc7uFd0JOo35rnl0d2Yhl7on+Ob3xdsGjZhE6+Ukl6mcJ737TI5pYPbWn58GYeeZG4G9SYsxD4="
+ }
+}

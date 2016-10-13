@@ -1,0 +1,33 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "How can I use cookie in my Zite?",
+			"body": "I tried use cookie in my zite but didn't work. I want to restore some temp setting like background music's volume, How can I realize it?",
+			"added": 1463916042,
+			"parent_topic_uri": "3_1PVcdu7USZH2kHMETbqDYLPjJZKCDWM52k"
+		}
+	],
+	"topic_vote": {},
+	"next_comment_id": 3,
+	"comment": {
+		"1_18hidquEH7k6Dnn5MDd4zJFJ2cTUF22wk2": [
+			{
+				"comment_id": 1,
+				"body": "> [nofish](#comment_669_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): It's restricted by iframe sandboxing because every site using the same domain (127.0.0.1), but you can use zeroframe api get/setLocalStorage: http://zeronet.readthedocs.io/en/latest/site_development/zeroframe_api_reference/#wrappergetlocalstorage\n\nThanks a lot",
+				"added": 1463921299
+			}
+		],
+		"1_1NL5YZdozXc6ZNzKm78H4SjSMabyzV16YX": [
+			{
+				"comment_id": 2,
+				"body": "zeronet fast then the freenet, freenet always can't connect",
+				"added": 1464351210
+			}
+		]
+	},
+	"comment_vote": {
+		"1_1GPyZ5aQhp9WquV7WfSefMvQXumDJhN545": 1
+	}
+}

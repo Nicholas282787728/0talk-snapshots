@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HE+N8RS3e2TanL2OoNc7mCEHipbCbOY7BySqPNphZ9ZqYR6b0uml+Y8qDo6MzCvSabK7ZNIsdKniwxgkDnYSfYM=",
+ "cert_user_id": "tesquet@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "84ad26eb896af95dcabb5973b071acb7883f11f49d81296549b26b83dbf9d8c0",
+   "size": 940
+  }
+ },
+ "inner_path": "data/users/15FPNEpEi9JcQSyqN3xSftES4oGr1tFJSp/content.json",
+ "modified": 1467841340.421,
+ "signs": {
+  "15FPNEpEi9JcQSyqN3xSftES4oGr1tFJSp": "HAq8hUOjvERks10NDuwydJ5tG66AewmSmt/7KzWkOn6jVS9yYYh0Uqp7S1XWvuQ0EYvczdee4jYaj5ySUOW7QBU="
+ }
+}

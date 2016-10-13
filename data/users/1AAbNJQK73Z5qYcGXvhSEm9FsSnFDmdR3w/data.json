@@ -1,0 +1,23 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 3,
+	"comment": {
+		"1_1GWzYMVUuvpdEKB3Lv9k4yw41nQT5BorpB": [
+			{
+				"comment_id": 1,
+				"body": "sadly,\"no peers found\" when i click to the link",
+				"added": 1452255252
+			}
+		],
+		"2_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": [
+			{
+				"comment_id": 2,
+				"body": "ZeroNet  test",
+				"added": 1452255411
+			}
+		]
+	},
+	"comment_vote": {}
+}

@@ -1,0 +1,87 @@
+{
+	"next_topic_id": 2,
+	"topic": [],
+	"topic_vote": {
+		"4_1JdoX9KdJeRVjN9zvK8N9C5jybEHzZe8n": 1,
+		"1_125pNDvQDGnxhZczL2nsJeYyGbyRzRVWnW": 1,
+		"1_14XqxwpdedXGY2FiUhvV3KVPkKTsABqGcm": 1,
+		"1_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG": 1,
+		"1628_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG": 1,
+		"2_1Hcc6FX8CaRnXcGC4EYZ4NjrR2yfxuUHW8": 1,
+		"4_1LRrd96P7FiTcsyNXVzPM5jtpQoH1B4gYf": 1,
+		"5_1MEWJRMLgvofqG9Mbsb2Rc4hFFyv7HeRx7": 1,
+		"4_1EMpuiFM1NLZmAVyoAWnwi8VwiZVV4dcnN": 1,
+		"2_1KdVeashoiPjj79tVUmAy8cBYjwxfZNe1e": 1,
+		"5041_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG": 1,
+		"5020_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG": 1,
+		"1_18jipjDsfAxAuq4ixbi2w24xJrYVfTYFPn": 1
+	},
+	"next_comment_id": 10,
+	"comment": {
+		"3_14yb6qdkbYmhqt6rVxUqXo65s4i63BffAr": [
+			{
+				"comment_id": 1,
+				"body": "Benchmarking ZeroNet 0.3.2 (rev396) Python 2.7.10 (default, Jul 13 2015, 12:05:58) [GCC 4.2.1 Compatible Apple LLVM 6.1.0 (clang-602.0.53)] on: darwin...\n\nCryptBitcoin:\n- hdPrivatekey x 10..........0.189s [x3.70: Insane!!]\n- sign x 10..........0.098s [x3.57: Insane!!]\n- openssl verify x 100..........0.195s [x1.90: Fast]\n- pure-python verify x 10..........0.483s [x3.31: WOW]\n\nCryptHash:\n- sha512 x 10 000..........0.570s [x1.75: Fast]\n\nDb:\n- Open x 10..........0.041s [x3.15: WOW]\n- Insert x 10 x 1000..........0.689s [x1.45: Fine]\n- Buffered insert x 100 x 100..........1.136s [x1.14: OK]\n- Total rows in db: 20000\n- Indexed query x 1000..........0.165s [x1.51: Fine]\n- Not indexed query x 100..........0.264s [x2.28: Fast]\n- Like query x 100..........0.585s [x3.08: WOW]\n\nDone. Total: 4.59s\n\nJust on a MacBook Air 2011 :D",
+				"added": 1442161400
+			},
+			{
+				"comment_id": 2,
+				"body": "Always the master :D (now 0.3.2 r431)",
+				"added": 1443110356
+			}
+		],
+		"8_1PNyuY1iZqXBpft4ArouqcnE4pNRGYij5i": [
+			{
+				"comment_id": 3,
+				"body": "Reddit, TBH :D",
+				"added": 1443114114
+			}
+		],
+		"3_1KTjPe9MxoYkcXj78GuZgCcj3R3f3Twh7r": [
+			{
+				"comment_id": 4,
+				"body": "Always check the signature or checksum! ",
+				"added": 1443118254
+			}
+		],
+		"3_168qV1Xxp2EyszrzdECLUwXrn9wGYjDdar": [
+			{
+				"comment_id": 5,
+				"body": "My new blog... let's see if somebody will read it :P\n\n[http://127.0.0.1:43110/1PSYNAtv3R3LFEiSJy2qRiXH74NKpwjiYR](http://127.0.0.1:43110/1PSYNAtv3R3LFEiSJy2qRiXH74NKpwjiYR)",
+				"added": 1443118309
+			}
+		],
+		"2_1Hcc6FX8CaRnXcGC4EYZ4NjrR2yfxuUHW8": [
+			{
+				"comment_id": 6,
+				"body": "Same on Safari, with Transmission: I am unable to connect to any peers to even download the torrent from the magnet! What is the source of these magnets?",
+				"added": 1457252714
+			},
+			{
+				"comment_id": 8,
+				"body": "I confirm, It works on Firefox",
+				"added": 1458654766
+			}
+		],
+		"4_1EMpuiFM1NLZmAVyoAWnwi8VwiZVV4dcnN": [
+			{
+				"comment_id": 7,
+				"body": "This is awesome :D",
+				"added": 1457262295
+			}
+		],
+		"2_1KdVeashoiPjj79tVUmAy8cBYjwxfZNe1e": [
+			{
+				"comment_id": 9,
+				"body": "Assolutamente si! :D",
+				"added": 1460277368
+			}
+		]
+	},
+	"comment_vote": {
+		"24_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"3_1BKURP8uJbQhPam8ub2ddqAXPgkmyAjpMR": 1,
+		"6_14XqxwpdedXGY2FiUhvV3KVPkKTsABqGcm": 1,
+		"1_1KHkPKbwUgBTKMsv7kAjEiqBzJDVmucyfp": 1
+	}
+}

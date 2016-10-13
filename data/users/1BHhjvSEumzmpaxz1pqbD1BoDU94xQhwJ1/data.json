@@ -1,0 +1,23 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 3,
+	"comment": {
+		"2_1LJLVfT9hKRuTHzBKTpse57PGfpwx82myR": [
+			{
+				"comment_id": 1,
+				"body": "> [cannonfodder](#comment_29_1GCMDNMgJHvZJfdbD9ygDmpBdnVAobdJYg): I wget/curl large files over tor all the time. It works fine.\n\ni would reccomend aria2c if using wget/curl tbh -- https://aria2.github.io/, which you can have webui (https://github.com/ziahamza/webui-aria2). aria2c also handles .torrent and magnet links so no need for a torrent client.",
+				"added": 1470130973
+			}
+		],
+		"1_1LvicbKBZEvd2438XPe3ZRHMMhntT34YoK": [
+			{
+				"comment_id": 2,
+				"body": "what operating system and router do you have?",
+				"added": 1470181654
+			}
+		]
+	},
+	"comment_vote": {}
+}

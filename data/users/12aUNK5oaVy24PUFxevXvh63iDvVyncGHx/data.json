@@ -1,0 +1,32 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {
+		"4_1BFTNXtYQDMCurqyg45KLmsV6oJD7bQSsH": 1,
+		"1_1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC": 1,
+		"2_1DcE9QfZbfLZhXxgtQ8Ui3oMZvs9NVjqZB": 1,
+		"3_19M1DT5vruSATEcbEczYRwCk2uPuLcATBa": 1
+	},
+	"next_comment_id": 3,
+	"comment": {
+		"1_1EmKu3AxsUduZzr99SryZbfcPrihsZV9mg": [
+			{
+				"comment_id": 1,
+				"body": "[kaffiene.bit](http://127.0.0.1:43110/kaffiene.bit/) is the best I've come across but everything is still manually indexed.",
+				"added": 1473197053
+			}
+		],
+		"2_1DcE9QfZbfLZhXxgtQ8Ui3oMZvs9NVjqZB": [
+			{
+				"comment_id": 2,
+				"body": "If I lived in the US, I would as she's the only sensible candidate although I wish she'd stop talking about anti-vaccine crap.",
+				"added": 1473240773
+			}
+		]
+	},
+	"comment_vote": {
+		"44_17fgJ3tZjhM7HCkTkd5TWf2BLLWmhRKcXB": 1,
+		"86_1KwTTgPRSTHFmmJAFBt6kQfdyNeSM5KJuH": 1,
+		"10_1FEikAyxCNPJcW996B69r5UFg29yfq579m": 1
+	}
+}

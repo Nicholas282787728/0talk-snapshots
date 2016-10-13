@@ -1,0 +1,23 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "资源太少了",
+			"body": "我用ZeroSearch搜索了一下，中国，china，全都没有结果……",
+			"added": 1461803099
+		}
+	],
+	"topic_vote": {},
+	"next_comment_id": 2,
+	"comment": {
+		"1_132SduUtowxXxJtRupiU5VzdGZ6efUrPXk": [
+			{
+				"comment_id": 1,
+				"body": "互联网建立之初，大家都是访问新浪搜狐之类的大型门户网站。现在也是同理，资源少的时候，急需一个大型门户站点。",
+				"added": 1461804623
+			}
+		]
+	},
+	"comment_vote": {}
+}

@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "G5J3wTqnI2Cmi6Q5f6cce5akLcAcaD9nVoPO5y1CiYpUABl72SvlTF8sh7IiU9io+edtT4QZj7+Xo8my5WIXZRQ=",
+ "cert_user_id": "yurithejewler@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "227258ca99e533caaf4c1d26858fc14b000d1dbbce4275e49003ea0e3f607357",
+   "size": 2938
+  }
+ },
+ "inner_path": "data/users/1BePwsiwFD8BjtYfB8tQegiKXDLnHWW1Um/content.json",
+ "modified": 1470912626.157,
+ "signs": {
+  "1BePwsiwFD8BjtYfB8tQegiKXDLnHWW1Um": "HB+e4NV9QonDiB9zXmM7+XGPWg4NSy/lkRl5TkzuTbGcmJp/Wpw9mNI8USFrjIl7ZVMh/62ERYlJMP1G4ibvOJI="
+ }
+}

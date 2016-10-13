@@ -1,0 +1,214 @@
+{
+	"next_topic_id": 5,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "Truly decentralized with no ISP",
+			"body": "Is it possible to have a direct connection to the internet that bypasses ISPs? I'm not very well versed in network design, so I don't know if this is a stupid question or not.\n\nIn order for ZeroNet sites to be not reliant on a single breakpoint or censorship point, then ISPs have to be bypassed. Otherwise, if all peers to a site are connected to the same ISP that ISP could easily take down that site. Am I correct in assuming this?",
+			"added": 1447527400
+		},
+		{
+			"topic_id": 2,
+			"title": "ZeroIndex",
+			"body": "I can't make it because I don't know CoffeeScript and I've tried looking over the ZeroHello code and I kinda get it but not really. It's basically a ZeroHello that allows sharing sites to people. Blog post about it here: http://127.0.0.1:43110/1N9pXXwAVadHQnFBj1DZhpdiHRva5Dix8b/?Post:14:ZeroIndex",
+			"added": 1447621924
+		},
+		{
+			"topic_id": 3,
+			"title": "Sorting ZeroHello by time not peers",
+			"body": "^ I want to be able to do this. I tried editing the coffeescript in a clone of ZeroHello and signing it, but I couldn't figure out where it actually sorts the sites. I think it has something to do with line 192,\n```coffeescript\nsites.sort (a,b) ->\n    return cmp b[\"peers\"], a[\"peers\"]```\nbut I don't know enough about the language to know where this is being called from, or what it even does. Obviously it compares the peers for each site, probably from a json file, but changing it to \"modified\", the entry for the time in data/sites.json, didn't work. Don't knwo what else to try.",
+			"added": 1447659911
+		},
+		{
+			"topic_id": 4,
+			"title": "0rc needs help!",
+			"body": "0rc (0net Relay Chat) is a fork of the original ZeroChat (like ZeroBoard) by nofish that was added onto by meow.\nIt is available [here](http://127.0.0.1:43110/1CjR14fofbRJ54oj8A7rAfWpzpLawdP5uc). meow no longer has time to work on the project, so me (cgm616), whowaswho (formarly thoth), and hhes have taken over. \n\nHowever, we need help improving it. All of the code is [here](https://github.com/cgm616/0rc), and a dev chat is [here](http://127.0.0.1:43110/1HvQcL6Gn8PhX1KzLmQyy6u55QyL1tWh5N)\n\nIf anyone could help, that would be awesome. We have a list of issues on the github page, and we need a frontend dev to help with the appearance. A lot is planned for this project, so stay tuned.",
+			"added": 1457307065
+		}
+	],
+	"topic_vote": {
+		"3_12HTPzQjWn9V57oxH7fA5KV3PQZ5vuj2Fm": 1,
+		"9_1ED3Ho3kmzaKiECtyuqSjDpoE47rKuXeP": 1,
+		"1_1FHS5V4FmPFyJQspXVNB3gDVPd3JyjHCv7": 1,
+		"18_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf": 1,
+		"4_1KcPohxmuqiNShTaAzJZLndm5aWtBZLuJn": 1
+	},
+	"next_comment_id": 29,
+	"comment": {
+		"2_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": [
+			{
+				"comment_id": 1,
+				"body": "Can anybody else see this?",
+				"added": 1447482686
+			},
+			{
+				"comment_id": 3,
+				"body": "> [nofish](#comment_108_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): Welcome!\n\nThis is all really cool, and suprisingly polished.\n\nI'm glad to see that it's so easy to run for the first time.",
+				"added": 1447518521
+			}
+		],
+		"8_1PNyuY1iZqXBpft4ArouqcnE4pNRGYij5i": [
+			{
+				"comment_id": 2,
+				"body": "I found it on reddit.com/r/zeronet, linked from /r/selfhosted",
+				"added": 1447485950
+			}
+		],
+		"1_1KcPohxmuqiNShTaAzJZLndm5aWtBZLuJn": [
+			{
+				"comment_id": 4,
+				"body": "> [nofish](#comment_109_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): You can it run on smaller (non-ISP) networks (eg. meshnets), but ISP-less global internet is currently only theoretically and nobody has idea if it would work or not, so the answer is not possible.\n\nDang. A meshnet sounds like a cool idea, but the problem would be getting it across big divided like the oceans. \n\nOn a side note, is there anything stopping someone from getting a group of people all in the same area to make a meshnet served by a lot of ISPs? That way if one decided to censor your content it would still be served by the others over the meshnet and the other ISPs.",
+				"added": 1447528237
+			}
+		],
+		"2_1KcPohxmuqiNShTaAzJZLndm5aWtBZLuJn": [
+			{
+				"comment_id": 5,
+				"body": "> [oxilic](#comment_21_1PNyuY1iZqXBpft4ArouqcnE4pNRGYij5i): Wouldn't this be similar to adding a \"filter sites I have\" option to zerosearch?\n\nProblem with ZeroSearch is that you need to know what you're looking for, you can't ust browse and find something. Yes, they are similar but ZeroIndex would be a way to easily find content you didn't know you wanted.",
+				"added": 1447648198
+			},
+			{
+				"comment_id": 6,
+				"body": "> [oracle](#comment_31_1ED3Ho3kmzaKiECtyuqSjDpoE47rKuXeP): ZeroSearch is a good idea but it needs a way to search for media formats like JPG, TIF, PNG, GIF and BMP for images and AVI, WMV, MP4, MOV and MPEG for video. It also needs a way to display them like Google and Yahoo does. Both Google and Yahoo have a video search and a image search and ZeroSearch needs something similar. \n> ZeroIndex is also a good idea though. It would be nice if ZeroSearch and ZeroIndex could be used together. ZeroIndex could be used to index everything and then you could use ZeroSearch to search through the ZeroIndex folders.Example -  You index a blog about nature on ZeroIndex and give it tags like nature, blog and landscapes, then people can use ZeroSearch and type in nature or landscape and ZeroSearch searches through ZeroIndex and brings up anything with those tags.\n\nYeah, that's a good bridge between the two. I like that idea. Also, yeah, ZeroSearch needs a way to find sites, which is the thing I'm trying to fix with Zeroindex. Google is able to crawl to pages, because very rarely is a page linked nowhere. However, pages are linked nowhere a lot in ZeroNet, and there is no site crawler for it yet. That means a lot of interesting content, say about nature, seen only by the visitors to that site, and not by someone who posts nature to ZeroSearch.",
+				"added": 1447655707
+			},
+			{
+				"comment_id": 7,
+				"body": "> [allreadytaken](#comment_1_17Cp1sZJpwq4dterxomJQ63qhKGmKtnr4E): this is exactly what public zero proxies with a zerohello page do. except you need their access.could be solved if one will publish a zeronet page that contains this complete zerohello AND all inside the data folder which is to much space :') there are of course better ways to manage it. btw take a look at zero.pags.to and bit.no.com and also on the javascript to coffee converter\n\nYeah, zero.pags.to and bit.no.com are kinda what I'm thinking, and they mirror some of the functionality, but they have no way to discover new things. They just show things people have visited with them.",
+				"added": 1447655774
+			},
+			{
+				"comment_id": 9,
+				"body": "> [oracle](#comment_33_1ED3Ho3kmzaKiECtyuqSjDpoE47rKuXeP): I think you would have to give ZeroIndex a search box and when someone searches for a tag like nature,  you could have ZeroIndex programmed to exclude the sites you already have and only show the ones you don't have.\n\nYeah, that would definitely solve lots of problems. I'll try to make a version with basic functionality if I can find the time.",
+				"added": 1447657753
+			},
+			{
+				"comment_id": 11,
+				"body": "> [oxilic](#comment_22_1PNyuY1iZqXBpft4ArouqcnE4pNRGYij5i): I had a basic crawler I made a while ago, although I turned it off as there weren't enough sites being made, so I just ended up adding them manually. Another problem is that the crawler didn't detect tags, so I had to add the sites found to a list and add tags manually. \n\nHow did you do the crawler? Was it just some python running? I don't think it would be possible to do a crawler in client side js, but that would definitely make it a lot more distributed.",
+				"added": 1447786428
+			},
+			{
+				"comment_id": 13,
+				"body": "> [oxilic](#comment_23_1PNyuY1iZqXBpft4ArouqcnE4pNRGYij5i): Yep, I had zeronet running in the background and a python script crawling it.  Client side wouldn't work as zeronet blocks a site from accessing other site's contents, and I'm not sure if having it more distributed would be good as it makes it more possible for people to add spam to the list.\n\nTrue about that, that makes sense.",
+				"added": 1447794516
+			}
+		],
+		"9_1ED3Ho3kmzaKiECtyuqSjDpoE47rKuXeP": [
+			{
+				"comment_id": 8,
+				"body": "I can't get it to work. When I press Sign In... it gives a nonce error.",
+				"added": 1447655809
+			}
+		],
+		"1_1DC9YZPSkxCMGkQB4ScRTxFRJQfraHxkS4": [
+			{
+				"comment_id": 10,
+				"body": "Probably a bug caused you to lose your private key.",
+				"added": 1447659311
+			}
+		],
+		"1_1GKM3wKFoijFGY5Bajw9z2FSjtKsu3pZQk": [
+			{
+				"comment_id": 12,
+				"body": "> [nofish](#comment_110_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): You can add password protection to it: http://zeronet.readthedocs.org/en/latest/faq/#is-it-possible-to-install-zeronet-to-a-remote-machine\n> Or if you want it to accessible to anyone then you can enable the Multiuser plugin, so new user will be generated for every visitor.\n\nCan you use multiuser with an actual user you use on ZeroID without comprimising your account if the server admin is malicious?",
+				"added": 1447793128
+			}
+		],
+		"11_1ED3Ho3kmzaKiECtyuqSjDpoE47rKuXeP": [
+			{
+				"comment_id": 14,
+				"body": "> [oracle](#comment_42_1ED3Ho3kmzaKiECtyuqSjDpoE47rKuXeP): Did I mention I hate coding, damn it sucks and not in a good way.\n\nJust wondering, why do you hate it so much? I like coding, but never seem to get good at it.",
+				"added": 1449096712
+			},
+			{
+				"comment_id": 16,
+				"body": "> [oracle](#comment_43_1ED3Ho3kmzaKiECtyuqSjDpoE47rKuXeP): I've never had one day of schooling in coding, when I graduated my school never had computers so I'm trying to learn all by myself and it seems virtually impossible. I have no coding experience what so ever. It's very difficult to learn and I'm going to http://www.w3schools.com/ but it still it's hard to understand. I'm starting to believe not everybody can code. I wanted to try to create a dashboard to make the blog more user friendly for people who can't code but that's hard to do when I can't code myself. People that can't code will not use ZeroNet. ZeroNet is a great project but if it doesn't have things like a simple dashboard to make it user friendly for non coders then it's doomed like FreeNet.\n\nThis sounds kinda weird, but I don't think web languages are where you should start. w3schools is also a pretty bad resource imo. I started doing stuff for my jailbroken iphone, small things that would make it easier to do stuff on it. It's the sense of accomplishment that really fuels me, making something small then having it work out. Over time I've gone to bigger and bigger projects, but making a blog dashboard is a pretty complicated thing to do for the first time, and especially with a new framework such as ZeroNet.",
+				"added": 1449106103
+			}
+		],
+		"1_1FHS5V4FmPFyJQspXVNB3gDVPd3JyjHCv7": [
+			{
+				"comment_id": 15,
+				"body": "No hablo mucho castellano, pero un poco. Es buena que ust. venga aqui, tu me dejas a estudiar afuera de clase.",
+				"added": 1449096893
+			}
+		],
+		"1_1KTyMhnssBpFUGavNRXQ5YNc15xTLkcfwD": [
+			{
+				"comment_id": 17,
+				"body": "CQEGAf8AAAJXxsBNBFZfv14BCADwyAZ3NFJGR1iksS+dbOe78BECo1+1xqmV33WK\nh+UPKkF8cEyFe+8+77wN/LnN2GEs7Q0/lCGO0hCykGSZNzAYYE4VgHtjQdUPfT02\nHoAuRy4NIr+L8vI8dNoZfJWCK1B6Low7AsEMZmn38xyfRm+TAPCvdBExZ+OL/Yh5\nFL+Ih9T+CLgCdksLiHU5utU5pFPjoFE/+Go5hvQEzv9DNmPAH8AzImovqpqIvkR0\nciqO+ygOEcjctB8pH/kfGLCSCD7HDQ89wowhB/FoFPg/hDakD9SPyGynXj6l0lAA\naCY7RjClFRrr86BvtyRAepkTwM1IKV/Px0oamvMz2YlQzWQnABEBAAHNI2NnbTYx\nNiAoR2VuZXJhdGVkIGJ5IFJldHJvU2hhcmUpIDw+wsBfBBMBAgATBQJWX79eCRDc\nWyKOUUGfVAIZAQAAl+EH/R9sDz9h5EuQoBbXq5e0/XAe9mz7+2fmCaoQwvBG061a\nJFp3GdV7Kf8vZE3wVlh5jevSfdVGN+XvMi17VkMreUwibv1FW9DOWEbqDFPUnoH1\niCSvpDD+OkUrQUaa+wa9hLKOfw3UWI1TU2TE0vi5xZUe7vmrLtSSHw9K9hpTaOvX\nBPMCb/MFtKQelZPA3GeYinjiyPy4nqEccU0FLXTyJbzRZrttN2IIozshiCt0G173\n37ReLXEdlHx2jz/+gvuR642zsMjKqODYEeL6HTgc381UpwyiW2Lp4McID/0IPmTX\nFFQg1uGTzsG7O59sK4r9JTeebKi3pzHhEhoScSYGQvUCBjK8JrAGtAMGwKgBdQa0\nBAAGC2NnbTYxNl9ob21lBRCcoCPtuxrNtU7BigARMp4PBwOvvFs=",
+				"added": 1449115824
+			}
+		],
+		"3_168qV1Xxp2EyszrzdECLUwXrn9wGYjDdar": [
+			{
+				"comment_id": 18,
+				"body": "> [otoman](#comment_8_1QH84f44yLPvMjMua9s7iM7c4RoJNZ2nTp): Your blog is great! I've seen it elsewhere. Any updates on ZeroIndex?\n\nHaha thanks! School gets out for break soon and I'm thinking about learning some javascript/coffeescript then. I'll try to get started, but everything here is pretty new to me.",
+				"added": 1449792710
+			}
+		],
+		"4_1QH84f44yLPvMjMua9s7iM7c4RoJNZ2nTp": [
+			{
+				"comment_id": 19,
+				"body": "cgm616\nPretty cool site.",
+				"added": 1449797661
+			},
+			{
+				"comment_id": 20,
+				"body": "> [phezu](#comment_2_1GQgd9YDKghg4KKrerR7nfUdDfqj1WatLL): Mine is phezu. Seems like you just put usernames into the To: box rather than @ or .com symbols and it automatically knows who to send messages to.\n\nI think that should change so people can use different @ names.",
+				"added": 1449806565
+			}
+		],
+		"1_1BUNUJ73oAgHW86cAP8aRCcHx1gJWKMqXe": [
+			{
+				"comment_id": 21,
+				"body": "So, not necessarily planets, but using smaller regional nets to share sites seems like it would reduce the distances sites would have to travel from computer to computer. It makes it less distributed though, and prone to censorship.",
+				"added": 1450800818
+			},
+			{
+				"comment_id": 22,
+				"body": "> [znnausfl](#comment_1_1BUNUJ73oAgHW86cAP8aRCcHx1gJWKMqXe): EXTREMELY basic info here -http://127.0.0.1:43110/1KaFKN9kbshJ9BZPxVaH1UuahTAztkVia1\n\nNo peers found.",
+				"added": 1450800831
+			},
+			{
+				"comment_id": 23,
+				"body": "> [znnausfl](#comment_2_1BUNUJ73oAgHW86cAP8aRCcHx1gJWKMqXe): Censorship will always be an issue, but that's why multiple connections should be established.\n\nOr the ability to change what \"region\" you are in without physically moving.",
+				"added": 1450804202
+			}
+		],
+		"18_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf": [
+			{
+				"comment_id": 24,
+				"body": "> [shift](#comment_29_16AFTG7vdicwJbRQpWc2F9BRHTE5MTftE7): +1\n\nThere is an upvote button btw. It would suck for this to turn into github issues.",
+				"added": 1455485170
+			}
+		],
+		"1_1674XymFPbmAXh78xEpt3Pehtko6i2kvtA": [
+			{
+				"comment_id": 25,
+				"body": "nofish is the original creator and really the only main maintainer afaik",
+				"added": 1457288302
+			}
+		],
+		"4_1KcPohxmuqiNShTaAzJZLndm5aWtBZLuJn": [],
+		"2_1DFDjUGJdSp1kMuFq1AtNS9ZWmkVtbp947": [
+			{
+				"comment_id": 27,
+				"body": "> [nofish](#comment_466_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): Please, respect your users and don't let google spying on them. So don't use any statistics service.\n\nIt's funny though, with just a public key any site can find everything you've said. So in a way it's worse than google analytics. Although I do agree with you.",
+				"added": 1457561634
+			}
+		],
+		"1_1ANQTb6AbkbYrAo4tPJ7fcHJjw6B6iB7mY": [
+			{
+				"comment_id": 28,
+				"body": "I'm fairly sure that there aren't moderators, except for the site owner. Anyone can post anything they want, but the owner at their discretion can ban a user and delete their comments or posts. However, they can't selectively delete, only all or nothing.",
+				"added": 1457926212
+			}
+		]
+	},
+	"comment_vote": {
+		"55_1KTjPe9MxoYkcXj78GuZgCcj3R3f3Twh7r": 1,
+		"1_1KKg234YUiRqybCsKpqRsNmFBaSSDB12L1": 1,
+		"466_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1
+	}
+}

@@ -1,0 +1,23 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 3,
+	"comment": {
+		"2_1GCsW9TFfjDsvcdmKPADq1n8Q3ha72UtDQ": [
+			{
+				"comment_id": 1,
+				"body": "Haskell. Referential transparency, elegant.",
+				"added": 1457628899
+			}
+		],
+		"2_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": [
+			{
+				"comment_id": 2,
+				"body": "test",
+				"added": 1457629677
+			}
+		]
+	},
+	"comment_vote": {}
+}

@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "G1K8+FwhaEaE8apBYAXMSE1OwJ4+80hB7ICnzTF9BQDKVJiha+6czsHFxtn8mqNh+3/tGGKcPez+7oOgeuWDsgo=",
+ "cert_user_id": "thebeheaded@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "3411ebc42cdf8551071c992e06b68d4423fc8319603d71624f908aa9b1f053a0",
+   "size": 559
+  }
+ },
+ "inner_path": "data/users/14prJRVd2xE3NuCfSsMXSQuZU6r5MPfzf6/content.json",
+ "modified": 1457519435.902,
+ "signs": {
+  "14prJRVd2xE3NuCfSsMXSQuZU6r5MPfzf6": "G8Di5oB3DqPQO636wHif8Y5D2dvlqfzqsCFnArV+Y9XHRXbtvRYUhX9Nb9Osj3svILujo0QlY9E2GNPWxQGO38c="
+ }
+}

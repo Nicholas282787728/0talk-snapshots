@@ -1,0 +1,15 @@
+{
+ "cert_auth_type": "web",
+ "cert_sign": "G+BDdrmWVJKBcxcndy1YTyIShhs/llF2qDAat8tabXUdpc950L+a7n/MTe/i7w4bNFvpubYdtx9RaATvagOtJ+M=",
+ "cert_user_id": "edgarthecrow@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "b2c5d301899a6bdd7d91d53540b7a7aa642f20f3cb34021d6c5eb2cdac32b142",
+   "size": 553
+  }
+ },
+ "modified": 1455497846.579766,
+ "signs": {
+  "16irrH5hRDUX3nrY71JFrRChNEr5p9b6jS": "HLEAP3ka03Md3nq+e3B3Oc7BJWliNiG8TYPRiTQ2JSOSeCgQtz5862gS9e2LR4U1y6vLZBZs+RQ8gqLxE9no+zE="
+ }
+}

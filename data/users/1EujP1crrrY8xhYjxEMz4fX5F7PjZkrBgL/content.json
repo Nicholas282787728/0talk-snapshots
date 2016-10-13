@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HN87Iiv/zE6VOPZht+LPOMUiay/OEiDvZml3QDtWkQ15XIcC65f6yx1LVkoTHNYo9LOV3J3jJcCScyMMPxFKpmo=",
+ "cert_user_id": "vendion@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "e04f902651c1ba7795acc23b75b50c77ab75af339f1ecf7d7bc93179f45ee098",
+   "size": 1259
+  }
+ },
+ "inner_path": "data/users/1EujP1crrrY8xhYjxEMz4fX5F7PjZkrBgL/content.json",
+ "modified": 1470101977.549055,
+ "signs": {
+  "1EujP1crrrY8xhYjxEMz4fX5F7PjZkrBgL": "HNImg/2AbyQD4Z1ULWq38QB2Xyms9Hgu1KB5Uo024ys5NKVfaZTN1J1FStaPtOW1tnkxhUJLf+LDnM9DmCEjipk="
+ }
+}

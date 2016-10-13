@@ -1,0 +1,185 @@
+{
+	"next_topic_id": 3,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "Vanity Domains",
+			"body": "Has anybody found a way to create vanity domains like the one Play has?",
+			"added": 1469288771
+		},
+		{
+			"topic_id": 2,
+			"title": "Stickied Posts",
+			"body": "Anybody know how to sticky a post on ZeroTalk clones?",
+			"added": 1469809263
+		}
+	],
+	"topic_vote": {
+		"1_12GC9MQGPcN7PiMoRYVyZX66PnQjZKUpf2": 1,
+		"1_1FHZZ13tmi64crAx9n8qJQkkEkCcKguaei": 1,
+		"14_1CMjV2r4EBpFt8VCcWWZKDysZXPcPExRNN": 1,
+		"2_1aDHG1wjqZ9BuF1PoPwtPqZsrnu7NZHGR": 1,
+		"1_1Lx7fktXnfMGnTcCRP8HeQsc1xsrJvRiMN": 1,
+		"3_13y1BVkYsWXbNMjdk2PrRVwpuXqohTRNHi": 1,
+		"1_1MasLuczfwx6JzgRkwdH6fpR1rKK8sDwZ1": 1,
+		"11_17fgJ3tZjhM7HCkTkd5TWf2BLLWmhRKcXB": 1,
+		"2_19arYgVKguUamTqtYGu6T9FSUsr19CyEcG": 1,
+		"1_137PNA5gLgCTLZTBtzUqCmMoZ752NQGQSJ": 1
+	},
+	"next_comment_id": 26,
+	"comment": {
+		"14_1CMjV2r4EBpFt8VCcWWZKDysZXPcPExRNN": [
+			{
+				"comment_id": 1,
+				"body": "I could try to put together a small website for us to use. I'd also be willing to checksum files",
+				"added": 1469287211
+			},
+			{
+				"comment_id": 2,
+				"body": "Probably would be best to have magnet links for downloads though",
+				"added": 1469288072
+			},
+			{
+				"comment_id": 3,
+				"body": "I downloaded a bunch of the software and ran a sha1sum and md5sum on the files. Obviously .exe files are windows, .dmg files are mac, and .tar.gz files are some variety of linux. Sadly, a lot of the software has 10+ downloads for various OSes, so I picked Ubuntu 32-bit and 64-bit most of the time.\n\nHere's the dump:\nhttp://localhost:43110/1MgHVPCE1ve6QfKrgsqCURzRj72HrRWioz/?1CSc14JKdGAQJfQsfCLrduhB6zU4oEMwBf_0",
+				"added": 1469461152
+			},
+			{
+				"comment_id": 4,
+				"body": "Here's the site so far:\n127.0.0.1:43110/12oGb8xBjLYz23CGJxRQyzZ6mGybZokEKt/\n\nNo links have been added yet, but we should double check the md5 and sha1 sums before we go there. We also need people willing to permanently host the torrent files (unless we want to have the direct links on the site, but that'll take a lot of space. The files included so far total 612MB).",
+				"added": 1469471684
+			},
+			{
+				"comment_id": 5,
+				"body": "Clickable link?\nhttp://127.0.0.1:43110/12oGb8xBjLYz23CGJxRQyzZ6mGybZokEKt/",
+				"added": 1469471719
+			},
+			{
+				"comment_id": 6,
+				"body": "> [sockspls](#comment_4_1KnFgYp6rbz2VLe4H7RW36J8ChSqHSbxLn): My issue is that there's no way to verify that the version on your website is the official version of the software. You can include an MD5 hash if you want, but that would have to match their official site, and which site do you trust if it doesn't match?\n\nThe idea is that we verify the one on their site (by having several people download and hash the files), then ours are more reliable because we've distributed the result.",
+				"added": 1469475823
+			},
+			{
+				"comment_id": 7,
+				"body": "It's not foolproof, but if have a bunch of people download the software (pref. from different countries, areas, whatever), and we take the most common version across the world (everybody rums an md5sum, we discard anything that doesn't match the majority), then we can 'ensure' the software is genuine. This way if anybody tried to modify the original website (and md5sum posted there) in any single country/area (e.g. MITM), we would be able to show that that version isn't the same as the one everybody else has.",
+				"added": 1469543528
+			},
+			{
+				"comment_id": 9,
+				"body": "Great! Glad you've signed on. I'm hesitant to send direct links though because of the nature of our little experiment. I have links to the websites on my page ( http://127.0.0.1:43110/12oGb8xBjLYz23CGJxRQyzZ6mGybZokEKt/ ) where I think it'd be better to get the files from. \n\nIf you're ever unsure of which file to download for linux, check the filenames on the md5/sha1 link at the top. Whenever I could I went for Ubuntu 32bit and 64bit.",
+				"added": 1469567314
+			},
+			{
+				"comment_id": 10,
+				"body": "I've spent all evening setting up torrents for all the files I've added so far.\n\nPLEASE NOTE: THE MD5 SUMS HAVE NOT YET BEEN VERIFIED\n\nI'm pooped. I'm gunna stop working for a while.",
+				"added": 1469572310
+			},
+			{
+				"comment_id": 11,
+				"body": "Certainly do-able (both comments). The forum idea would be far easier to complete (considering we would basically be cloning ZeroTalk and scrapping the current site).",
+				"added": 1469573089
+			},
+			{
+				"comment_id": 12,
+				"body": "Gotcha. Thats a great idea. I'll clone ZeroTalk and post it here in a minute",
+				"added": 1469573510
+			},
+			{
+				"comment_id": 13,
+				"body": "http://127.0.0.1:43110/15CmNF5L1murN3UMb4fZMuWJtpq689JRhx",
+				"added": 1469573639
+			},
+			{
+				"comment_id": 14,
+				"body": "better?",
+				"added": 1469574627
+			},
+			{
+				"comment_id": 15,
+				"body": "Yeah I think that'd be great",
+				"added": 1469575085
+			},
+			{
+				"comment_id": 16,
+				"body": "> [muja](#comment_84_17i7Y7r8nTaCfLbCAuaKyc4R5BbKZYU2Hr): Great initiative! You should learn a bit about optional files if you plan on adding a lot of files. Check the examples.\n> Also, md5 and sha1 are not ideal for security/integrity. You should try sha2 instead.\n\nAwesome. I didn't know about the optional files. I'll look into that tomorrow. As for the hash,  that's a good idea. We might include md5 and sha256 because I know it can be hard to find sha256 on windows machines.  \n  \nOn that same note, does anybody know a good file hasher for windows? My preliminary search turned up HashTab, which seems pretty good.",
+				"added": 1469584454
+			},
+			{
+				"comment_id": 17,
+				"body": "So I got the optional files up and running. If you can spare ~600MB it would be a huge help if you all could go to the site enable all optional files.\n***\nJust drag the 0 in the top right corner to get to page settings, then scroll down and enable \"Download and help distribute all files\"",
+				"added": 1469643615
+			},
+			{
+				"comment_id": 18,
+				"body": "That's odd. You might have to set the site's size limit up to around 650 MB before the site will update.",
+				"added": 1469671987
+			},
+			{
+				"comment_id": 19,
+				"body": "> [conobs](#comment_1_1AjJqGb8AmPfgD62kEBBtqhg2hYDW5zner): Set mine to 1gb and letting it update. I think this is a great idea.\nThank you!\n\n> [testset](#comment_8_17VwZEfWSUWb5RHkK9m1odnDdBfvjTL6Cp): To encourage and help people to contribute to the database, here is a simple Bash script that auto generates all the important info (file name, timestamp, source, sha256 and md5 sums) from a download link (they just have to copy-paste the outcome in the corresponding topic): 0isrsum.sh\nGreat idea! Nice work",
+				"added": 1469718490
+			},
+			{
+				"comment_id": 20,
+				"body": "I think we should migrate to our own forum from now on. General discussion (like what we've been doing here) can go in the following topic: http://127.0.0.1:43110/15CmNF5L1murN3UMb4fZMuWJtpq689JRhx/?Topic:4_1CSc14JKdGAQJfQsfCLrduhB6zU4oEMwBf/Misc+talk+discussions\n***\nGreat work so far guys! I'm excited for what we'll end up with!",
+				"added": 1469718579
+			},
+			{
+				"comment_id": 23,
+				"body": "> [testset](#comment_9_17VwZEfWSUWb5RHkK9m1odnDdBfvjTL6Cp): It took two days to download, but now finally I have and seed them all... =)\n\nHaha thanks. My upload speed can be all over the place sometimes. Glad you got them all.",
+				"added": 1469837926
+			}
+		],
+		"3_13y1BVkYsWXbNMjdk2PrRVwpuXqohTRNHi": [
+			{
+				"comment_id": 8,
+				"body": "Interesting. I've never heard of Qubes. That's a really cool idea for an OS.",
+				"added": 1469543656
+			}
+		],
+		"4_1GervYZoP82e8X1Rgc4wyMkJY2zSsJuq8t": [
+			{
+				"comment_id": 21,
+				"body": "How is this done?",
+				"added": 1469807930
+			}
+		],
+		"2_1CSc14JKdGAQJfQsfCLrduhB6zU4oEMwBf": [
+			{
+				"comment_id": 22,
+				"body": "Sweet. Thanks",
+				"added": 1469810138
+			}
+		],
+		"1_14ng1wByxwoNXAhihYbpgyarVJbFiqs8ny": [
+			{
+				"comment_id": 24,
+				"body": "It's not done based on majority. It's done based on the most recent signed copy of each file, so if you modify your file and 100 other peoples, it will just repopulate with the newest signed version anyway.",
+				"added": 1470238318
+			}
+		],
+		"3_1PVcdu7USZH2kHMETbqDYLPjJZKCDWM52k": [
+			{
+				"comment_id": 25,
+				"body": "Does this work?  \nAm I the only one to find this?",
+				"added": 1471370264
+			}
+		]
+	},
+	"comment_vote": {
+		"1_1ASdoF7uKU9nMNgPPc1UFkyDAZsfkNcHCF": 1,
+		"64_1CMjV2r4EBpFt8VCcWWZKDysZXPcPExRNN": 1,
+		"3_17VwZEfWSUWb5RHkK9m1odnDdBfvjTL6Cp": 1,
+		"11_12GC9MQGPcN7PiMoRYVyZX66PnQjZKUpf2": 1,
+		"5_1K9bJ8uijgvt5B3YfzPv2HqVx6kNDoEqtM": 1,
+		"1_1ELrvskr1xGbmZpbTWS9mC9U8fBouk1Em2": 1,
+		"5_17VwZEfWSUWb5RHkK9m1odnDdBfvjTL6Cp": 1,
+		"7_1CSc14JKdGAQJfQsfCLrduhB6zU4oEMwBf": 1,
+		"84_17i7Y7r8nTaCfLbCAuaKyc4R5BbKZYU2Hr": 1,
+		"10_1HrRNH7KbdxMjwLmwrHmZqJrzVZVDKc9bF": 1,
+		"1_1AjJqGb8AmPfgD62kEBBtqhg2hYDW5zner": 1,
+		"1_14J8mC3K7k5Ygx22uu9LUzGWnBoDAQdyDo": 1,
+		"707_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"9_17VwZEfWSUWb5RHkK9m1odnDdBfvjTL6Cp": 1
+	}
+}

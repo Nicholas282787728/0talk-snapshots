@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HADEf4LPto69gtUL1wevwEHiFyIS39tLAVqUElv/wAE0iSQTE9/50H364MHWCXM16ISSLia6nVq7pGGJt1LVyAc=",
+ "cert_user_id": "mylifewaiting@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "a1589b219d6eb86de9534aa3e8875e06c77a27a10ff37aa2388d6c84b3d83004",
+   "size": 11817
+  }
+ },
+ "inner_path": "data/users/14MrxSzhaSXiFwsAbyhwtipmU3Lh55Xcrr/content.json",
+ "modified": 1460963073.325322,
+ "signs": {
+  "14MrxSzhaSXiFwsAbyhwtipmU3Lh55Xcrr": "G7M/mRLD+zeYpAWawfoniTcFRdRuV0uodv+EuxaauiU/IgSQTfJhOU9Rxb7FIF1/AKgKWYbThU35N7HJMhmuEno="
+ }
+}

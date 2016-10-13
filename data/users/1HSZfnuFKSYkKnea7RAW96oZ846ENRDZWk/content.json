@@ -1,0 +1,15 @@
+{
+ "cert_auth_type": "web",
+ "cert_sign": "HOHxi0l1Qhiji+HnWjN3b4wgLB1F8Gh6zMduYRWbdOe0kmI1ug3crYy9Y0FSHhmFbLA0PYnIxyIfcUz+08c4ONY=",
+ "cert_user_id": "epiar@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "ba889ac028d2a461150bb4a01d3faaad1ff18945a316ed68ddb781780866bce5",
+   "size": 241
+  }
+ },
+ "modified": 1455284519.608154,
+ "signs": {
+  "1HSZfnuFKSYkKnea7RAW96oZ846ENRDZWk": "GxZILiahPTHEh9RoEiT5KM2KiB/IqIeP1kbpbANTxc6NuP0uEpmycvV2DSTX8IZaaFnRqCYJTgtyVr+I9vLtMk4="
+ }
+}

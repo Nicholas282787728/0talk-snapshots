@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HI7M/vsPX5ebCfHI7IRAb9888T/Vo7qo9PlG7K/jvY1A4d31W7byGIIJFH1gnidntXHuBAGJM5eAMA5dY3CQkd8=",
+ "cert_user_id": "slothrop@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "73dc294537509289480009a32dc1d8b2c4416bce82747cad0b5feb26a94040f9",
+   "size": 290
+  }
+ },
+ "inner_path": "data/users/1L7JfwR2oGMRf2CFWag7z9sPX7k5DvFMKr/content.json",
+ "modified": 1472991772.466278,
+ "signs": {
+  "1L7JfwR2oGMRf2CFWag7z9sPX7k5DvFMKr": "HMvc8HXOu4foFSfEiVyhLU/zDNhUpdGNWLVP+TXulqEf5uxhzQFN8dlBDLS7ztfXSGkMpAIoS65obhM/dtdNVHs="
+ }
+}

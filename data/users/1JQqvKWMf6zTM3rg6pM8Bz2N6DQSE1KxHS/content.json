@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HOzNuIdE8fM9te02RvyGZM2+nd9xMg6Fyi7hBNRaV2vvvD3B/CcHjsrFIJ5eaLX5/liFeOzYKV8QIeTXd24HXp4=",
+ "cert_user_id": "scicomath@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "3edf3329815505e38633bcb076c4fd77399538c543521f8649c82eff5cf8a6fd",
+   "size": 413
+  }
+ },
+ "inner_path": "data/users/1JQqvKWMf6zTM3rg6pM8Bz2N6DQSE1KxHS/content.json",
+ "modified": 1463578115.907,
+ "signs": {
+  "1JQqvKWMf6zTM3rg6pM8Bz2N6DQSE1KxHS": "HAUk+3gR5C8KYd7Xd12XWDxYTJTmk1FlvFy+1kmJCT8wcqWCEaxX5qFFF8IlFvWlTGVSVqrQ8P8yANj9NRNvO9g="
+ }
+}

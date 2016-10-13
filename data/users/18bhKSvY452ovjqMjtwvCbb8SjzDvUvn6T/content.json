@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HIbsdt6FYEnGz2m98lIsZlPIIAr8EwmY5CKz+VWscpPbN6IJux+TVF96FBeDKZ5MswreVlDljgKnp/OCFJqfhx8=",
+ "cert_user_id": "enisi@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "45282eea14fe7edbeee1d99e89688895c7a1ce2b4c31da68395b92dc705d47b6",
+   "size": 242
+  }
+ },
+ "inner_path": "data/users/18bhKSvY452ovjqMjtwvCbb8SjzDvUvn6T/content.json",
+ "modified": 1473440145.934,
+ "signs": {
+  "18bhKSvY452ovjqMjtwvCbb8SjzDvUvn6T": "GwIrin88OHUPavoAAwdDAQ7Cov1cxfvl58Dq8DhDeYWy2VEioLPFDpuvjY6MgUREoOfwoSoiAg772tJ8RGhmowY="
+ }
+}

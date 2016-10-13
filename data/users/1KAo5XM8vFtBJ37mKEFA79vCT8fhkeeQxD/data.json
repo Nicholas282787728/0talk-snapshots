@@ -1,0 +1,20 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 2,
+	"comment": {
+		"2_1BidR2Pw65fTPeh1R3LbwCdfEJUPB6FLes": [
+			{
+				"comment_id": 1,
+				"body": "> [error404](#comment_9_1CWttfFnJgQmZifX8FbZn9dZ3xaTfooSJd): hello, I don't know if it's a bug with the js of ZeroNet or the problem comes from the proxy. But when I'm using my phone (Nexus 5X), the links doesn't work really good in this forum ( Talk.ZeroNetwork.bit ). I need to \"click\" multiples times in the links to make it work. Is anybody else having this issue?\n\nI feel like this is a problem with the wrapper, I don't see why it'd be an issue with the proxy.",
+				"added": 1458315749
+			}
+		]
+	},
+	"comment_vote": {
+		"47_17fgJ3tZjhM7HCkTkd5TWf2BLLWmhRKcXB": 1,
+		"46_17fgJ3tZjhM7HCkTkd5TWf2BLLWmhRKcXB": 1,
+		"75_1PVcdu7USZH2kHMETbqDYLPjJZKCDWM52k": 1
+	}
+}

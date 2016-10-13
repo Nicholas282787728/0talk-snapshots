@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "G4pJC339KElU7cR+DV99GNSVvKdq4Z+ohQFg7oCFxij3l7xQMtrkCje2tFPx0RIUL8Cb07C2Fp9oMpN6rayBVJg=",
+ "cert_user_id": "alduin94@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "6b1fd7c2ef3cd0ed66fd57ade4728cbd4b5d246614b1193fe9ae116bc386fe6d",
+   "size": 383
+  }
+ },
+ "inner_path": "data/users/145YHggqkSLWMEKX4ajhXaJSdxXNnCRt4n/content.json",
+ "modified": 1460219923.46903,
+ "signs": {
+  "145YHggqkSLWMEKX4ajhXaJSdxXNnCRt4n": "HARmfqPkCZp7fOmjbWTmYhHrIvelqKYTWJkoVydpLHd8J/ivyTHK7nlhveBRKNyJyqr/33ZwzPPDcOu2eCYV+oU="
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "G6euyq75a2eDzwGJbmHmzo+bmJlInBl7fzmdSPE95f52g4gQREujEXMMH5aHAc0Gsqnr+gcvTYHYJ051GA/FKPU=",
+ "cert_user_id": "pabloserna@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "a5592efd4420a3bf93fc3b74ebf6e25b0f51c28a3b5e34ec10f7a31902da9257",
+   "size": 340
+  }
+ },
+ "inner_path": "data/users/1C6de54CHt5yb6ujiXpdkHQG9if1dD282n/content.json",
+ "modified": 1457110906.272,
+ "signs": {
+  "1C6de54CHt5yb6ujiXpdkHQG9if1dD282n": "G48yYoqiacTbJZzg52fT+ONlyFHnhplBC+dwqwxryADU9lVLdnbFrB01vPKm8R16JGN6D9lpkd99QXlYGFRlKMw="
+ }
+}

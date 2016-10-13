@@ -1,0 +1,123 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "Explain: \"Used: x kilobytes / limit\"",
+			"body": "Hi all - could someone please explain to me the basics behind the usage limits that we see here on ZeroTalk?  I'm wondering 1) how is your usage limit calculated/determined and 2) can one increase it and if so how?  A reference image: http://imgur.com/ZCiPtFP",
+			"added": 1457064978
+		}
+	],
+	"topic_vote": {
+		"1_17ApQKugX1XH727gpAeD3mrRLjLxASdakd": 1,
+		"1_1CcJZEvu57ZqSDjWDEJCAGEWzHQ7uXKKNR": 1,
+		"1_1EmViJkfwHFYZmRatT1AmuMDeWyxdJfNfA": 1,
+		"1_1MhL8nWAcuB5YxbhyYgEHNvsToUtQutRVs": 1,
+		"1_1MxdAjWgnqwCaunGHmhY39tVR51qV3peJL": 1,
+		"3_1NRTwjkXBxbeyrWhUvik7pLVoxWtsSjHQi": 1,
+		"14_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf": 1,
+		"2_1Kg7CXZM5h3wTPENsTDwWUmRBf9VhYy2cW": 1,
+		"7_17fgJ3tZjhM7HCkTkd5TWf2BLLWmhRKcXB": 1,
+		"4_15ymkjUYJS6tjUC35AekGMExZMN6iks8ma": 1,
+		"4_1ADB7TdX2fVbTsWBoMe9yBTmVXTbb33b4R": 1,
+		"1_19LkvdTE3CmnUApuSwY8KGbm7n7sWCNEPC": 1
+	},
+	"next_comment_id": 14,
+	"comment": {
+		"2_1KJFB4SEHaHCY11HMKsMGyth1mXKb3R5oY": [
+			{
+				"comment_id": 1,
+				"body": "Would someone mind doing a comparison of what we've got so far?  I've seen this one that's linked above, zerosearch, kaffeine, etc and I'm not quite sure which is the best choice to use/recommend.  Appreciate it :D",
+				"added": 1457055060
+			},
+			{
+				"comment_id": 5,
+				"body": "> [ripper234](#comment_1_1MxdAjWgnqwCaunGHmhY39tVR51qV3peJL): Integrate it into Zeronet homepage!\n> Also, pagerank.\n> https://medium.com/world-bug-repository/zerosearch-a-google-for-the-decentralized-web-b940ee66d9f3#.qng13v1fi\n> Also, are you looking for investors?\n\nI truly hope ZeroNet can eventually have something akin to what this article outlines.  Thanks for the good read :)",
+				"added": 1457065102
+			}
+		],
+		"2_1GCsW9TFfjDsvcdmKPADq1n8Q3ha72UtDQ": [
+			{
+				"comment_id": 2,
+				"body": "Python :D",
+				"added": 1457055111
+			}
+		],
+		"14_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf": [
+			{
+				"comment_id": 3,
+				"body": "https://torrentfreak.com/play-p2p-impossible-shutdown-160301/",
+				"added": 1457064004
+			}
+		],
+		"1_1BGaNcH1UBqAdatPbT3YssmPRVdhepMNPW": [
+			{
+				"comment_id": 4,
+				"body": "Any chance at building functionality to enable a \"VPN mode\" that simply hides the warnings about Tor not being configured or functional (both in the console and on the interface)?  As a VPN is an arguably more secure alternative to Tor, I think it's safe to assume that such a feature would be worthwhile.  It could be a toggle on the main interface in the same dropdown as the update, shutdown, etc for ZeroNet.",
+				"added": 1457064212
+			}
+		],
+		"1_1MxdAjWgnqwCaunGHmhY39tVR51qV3peJL": [
+			{
+				"comment_id": 6,
+				"body": "See for further discussion: http://127.0.0.1:43110/Talk.ZeroNetwork.bit/?Topic:2_1KJFB4SEHaHCY11HMKsMGyth1mXKb3R5oY/Search+engine+on+zeronet+here",
+				"added": 1457065678
+			}
+		],
+		"1_1MhL8nWAcuB5YxbhyYgEHNvsToUtQutRVs": [
+			{
+				"comment_id": 7,
+				"body": "Okay, well I found this explanation (after noticing that there was indeed a tooltip): http://imgur.com/VEd0udc\n\nBut, I guess all I'm wondering now is who to contact if/when you run out?  I joined ZeroNet today and I'm already at USED: 4.1K/40K :D",
+				"added": 1457067461
+			},
+			{
+				"comment_id": 12,
+				"body": "> [ekaterina](#comment_75_1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD): nofish, he is the owner of this site and the creator of ZeroNet. There will also be a message next to the display of the limit telling you to contact him when you reach 80% or so of the limit. So when the time comes you can just write him a quick ZeroMail, I did that a couple of days ago and got my limit raised.\n\nAwesome; thanks for the help!",
+				"added": 1457136231
+			}
+		],
+		"1_19KjJXTkb6bLafLJsfVBf5v127H4RYKABM": [
+			{
+				"comment_id": 8,
+				"body": "Have you considered using a VPN?  The best free one I can recommend is: https://www.betternet.co/\n\nCurrently they have a desktop app for Windows (that works great) with one for Mac coming soon.",
+				"added": 1457070607
+			},
+			{
+				"comment_id": 10,
+				"body": "Here - CNET has their official mirror: http://download.cnet.com/Betternet/3000-2144_4-76276273.html",
+				"added": 1457070790
+			}
+		],
+		"4_1ADB7TdX2fVbTsWBoMe9yBTmVXTbb33b4R": [
+			{
+				"comment_id": 13,
+				"body": "This is a great thread!  Post more :D",
+				"added": 1457314035
+			}
+		]
+	},
+	"comment_vote": {
+		"393_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"1_1MhL8nWAcuB5YxbhyYgEHNvsToUtQutRVs": 1,
+		"1_16rGP2GvZAi4dMjCFGvB7BzriWwZUaYW4v": 1,
+		"1_1A5yVGJ4eVDCns3oBjrubeX9viYXeTDcjm": 1,
+		"8_1JdKZXpUz9vvevT99mmfTdbs3hjszJzqDX": 1,
+		"2_13124rBf8BSiR3LDdWkBEp31q1xioDzpbu": 1,
+		"1_1NRTwjkXBxbeyrWhUvik7pLVoxWtsSjHQi": 1,
+		"1_1MxdAjWgnqwCaunGHmhY39tVR51qV3peJL": 1,
+		"7_13zsigUYso1gENPWyPd66wVACoF32W4Mnq": 1,
+		"8_1A6hcWNpQ9SSLoTTpuT19VsVQ6WCVRkyen": 1,
+		"12_15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ": 1,
+		"17_17fgJ3tZjhM7HCkTkd5TWf2BLLWmhRKcXB": 1,
+		"25_1ADB7TdX2fVbTsWBoMe9yBTmVXTbb33b4R": 1,
+		"1_183we11YnuufSTmU93yt2As6Bajp55rzoT": 1,
+		"2_17unJybgGpKdseDzUWwgDhDpsNBQvEM9W9": 1,
+		"5_1MhL8nWAcuB5YxbhyYgEHNvsToUtQutRVs": 1,
+		"2_1N9vyd78w2N6174aLsw7FvCk5Lij3Bu33Y": 1,
+		"11_1EMpuiFM1NLZmAVyoAWnwi8VwiZVV4dcnN": 1,
+		"4_1Vji3iRgeuJRJQiy3jXqwm7rQctpKtkbU": 1,
+		"2_1D7uESYtAKV36MVPGJZXuE7LUKbLwfo4dX": 1,
+		"25_17fgJ3tZjhM7HCkTkd5TWf2BLLWmhRKcXB": 1,
+		"24_1PVcdu7USZH2kHMETbqDYLPjJZKCDWM52k": 1
+	}
+}

@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "G3ONwKhLFRCBwMEtjBrpMq4EWEnJY4j7TKqkq1QfjsTHTWVqYHo4k7CQbBcjYJTGMDg4kw96va6QB1dQ1JIJ2eg=",
+ "cert_user_id": "freetrader@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "97391e97194139354bf3c40b4c8af7bfe2d78591bddcb1601759ba74b7f8ddf5",
+   "size": 2307
+  }
+ },
+ "inner_path": "data/users/1GzycmSBHvHfdNe1tUQHsDfDEpBgvBatXQ/content.json",
+ "modified": 1471255794.167839,
+ "signs": {
+  "1GzycmSBHvHfdNe1tUQHsDfDEpBgvBatXQ": "HJfTLUCX/HJAzWOfeK9/AXTXp+UQQkvWVSP/MaRoauAOGdSlycIOgJwn8RszA7U1udc4xwt5RWChdxljJS7Pjgs="
+ }
+}

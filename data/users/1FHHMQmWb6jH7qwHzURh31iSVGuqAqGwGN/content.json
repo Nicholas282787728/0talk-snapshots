@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "G379eXt84v0Vsp+iSqv9D8TNVdRX/w/taCsakahKj5R7gCYuudCl5ppdgaxrmno2gOMvhQAMNZAGOqP38VBHW28=",
+ "cert_user_id": "dowhilegeek@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "bd126d68ba17d357a006b44ef47cfe6af5ea96f3fa00b6f754aa6bf1ac40241b",
+   "size": 461
+  }
+ },
+ "inner_path": "data/users/1FHHMQmWb6jH7qwHzURh31iSVGuqAqGwGN/content.json",
+ "modified": 1456974929.077865,
+ "signs": {
+  "1FHHMQmWb6jH7qwHzURh31iSVGuqAqGwGN": "Gx2xJB7qYeeyIclI+PJehtNGIyfpHQ+4I1VeCdZG7gkAn8E+rnWQ9oHH/sGUZDqL6iv5jDnFdKLSylkmb1fOg4c="
+ }
+}

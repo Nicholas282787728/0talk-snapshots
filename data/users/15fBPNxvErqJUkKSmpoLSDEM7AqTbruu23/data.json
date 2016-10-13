@@ -1,0 +1,18 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 2,
+	"comment": {
+		"2_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": [
+			{
+				"comment_id": 1,
+				"body": "> [ozn](#comment_1_1E7KDpwYBsHZMAPnVSV18vSQTwD6DFWDBm): güzel şeyler bunlar\n\nzuhhahaha",
+				"added": 1473264549
+			}
+		]
+	},
+	"comment_vote": {
+		"1_1E7KDpwYBsHZMAPnVSV18vSQTwD6DFWDBm": 1
+	}
+}

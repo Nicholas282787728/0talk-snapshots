@@ -1,0 +1,36 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "Tutorial: Lantern + Tor + ZeroNet (Debian/Ubuntu)",
+			"body": "Step One: Install Lantern, Tor and ZeroNet\n---\n* Install Lantern\n    * Download Lantern from <https://getlantern.org>\n    * Install the downloaded deb file\n\n* Install Tor\n    <https://www.torproject.org/docs/debian.html.en>\n    <https://zeronet.readthedocs.org/en/latest/faq/#how-to-make-zeronet-work-with-tor-under-linux>\n\n    * Add torproject.org repository\n    **echo 'deb http://deb.torproject.org/torproject.org VERSIONNAME main'>> /etc/apt/sources.list.d/tor.list**\n> Replace VERSIONNAME as:\n>**VERSIONNAME**    ***Release***\n>squeeze *Debian 6.0*\n>wheezy *Debian 7*\n>jessie *Debian 8*\n>stretch *Debian 9*\n>sid *DebianUnstable*\n>lucid *Ubuntu 10.04*\n>precise *Ubuntu 12.04*\n>trusty *Ubuntu 14.04*\n>vivid *Ubuntu 15.04*\n>wily *Ubuntu 15.10*\n>Find more <http://deb.torproject.org/torproject.org/dists>\n\n    * Add gpg key\n    **gpg --keyserver keys.gnupg.net --recv 886DDD89**\n    **gpg --export A3C4F0F979CAA22CDBA8F512EE8CBC9E886DDD89 | sudo apt-key add -**\n\n    * Install\n    **sudo apt-get update**\n    **sudo apt-get install tor deb.torproject.org-keyring**\n\n* Install ZeroNet\n<https://github.com/hellozeronet/zeronet#how-to-join>\n\nStep Two: Configure Tor\n---\n<https://zeronet.readthedocs.org/en/latest/faq/#how-to-make-zeronet-work-with-tor-under-linux>\n\n* **sudo gedit /etc/tor/torrc**\n    * Remove the # character from lines **ControlPort 9051** and **CookieAuthentication 1** (line ~57)\n    * Add a newline in torrc: **HTTPSProxy 127.0.0.1:8787**\n\n* **sudo /etc/init.d/tor restart**\n\n* **sudo usermod -a -G debian-tor YOURLINUXUSER**\n> Replace YOURLINUXUSER as user name\n> Replace **debian-tor** with the right file's user group by running **ls -al /var/run/tor/control.authcookie**\n\n* Logout/Login with your user to apply group changes\n\nStep Three: Run Lantern, Tor and ZeroNet\n---\n* Lantern\n    * Run Lantern\n    **lantern** or **lantern -startup=true** to disabled auto open browser\n    * Test Connection\n    Set browser's proxy as **127.0.0.1:8787**\n        \n* Tor\n    * Run Tor\n    **sudo /etc/init.d/tor start**\n    * Test Connection\n    Set browser's proxy as **127.0.0.1:9050**\n\n* ZeroNet\n    <https://zeronet.readthedocs.org/en/latest/faq/#how-to-use-zeronet-with-tor>\n\n    * Run ZeroNet, you will see **TOR: OK** on the top right of Hello ZeroNet_ page\n    * Click it and choose **Enable Tor for every connection (slower)**\n    * Restart ZeroNet\n    * **Cheers!**\n\nAny question, [zeromail me](http://127.0.0.1:43110/Mail.ZeroNetwork.bit/?to=onet).\n---\n\n*This work is licensed under a [**Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License**](http://creativecommons.org/licenses/by-nc-sa/4.0).*",
+			"added": 1460874682
+		}
+	],
+	"topic_vote": {},
+	"next_comment_id": 11,
+	"comment": {
+		"2_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": [],
+		"1_1NvuCEiBua5qhzxkBcgP5rd6iUtZ8goVuJ": [
+			{
+				"comment_id": 6,
+				"body": "> [gsl123321](#comment_2_1jc2JUijhCn7BLf7Bf9mQa26a5wiT5S9N): 怎麼訂閱或者是互粉？\n\nClick **Follow in Newsfeed** on the top right; \nJust zeromail me, then your name will show in my contact.\n:)",
+				"added": 1460903721
+			},
+			{
+				"comment_id": 8,
+				"body": "> [vonnov](#comment_2_1DmGsXFPPexxcuTRgYZxDRHqGA7CbR3j14): 求中文翻译,win8.1坐等\n\nTry this: [教程: Lantern + Tor + ZeroNet (Debian/Ubuntu)](http://127.0.0.1:43110/1Nse6WcodQ5Mj6ZwvZvuyCVvQESwuxbCUy/?Topic:1_1NvuCEiBua5qhzxkBcgP5rd6iUtZ8goVuJ/+Lantern+Tor+ZeroNet+Debian+Ubuntu) Provided an untesed method in comments.",
+				"added": 1460904167
+			},
+			{
+				"comment_id": 9,
+				"body": "> [redacted](#comment_14_19qsuxKBkNZWYft3epWgn6u3gG82sQHs6n): Do NOT run Lantern. It turns you into the equivalent of a Tor exit node, and it's being used for spamming.\n\nIt's a free solution.\nYou can replace Lantern with Shadowsocks <https://shadowsocks.org/en/index.html>, \nand replace the newline in torrc **HTTPSProxy 127.0.0.1:8787** with **Socks5Proxy 127.0.0.1:PORT**",
+				"added": 1460979072
+			}
+		]
+	},
+	"comment_vote": {
+		"1_1NvuCEiBua5qhzxkBcgP5rd6iUtZ8goVuJ": 1
+	}
+}

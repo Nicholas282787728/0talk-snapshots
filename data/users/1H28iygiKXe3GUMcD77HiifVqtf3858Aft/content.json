@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HA2A+iKekECD3hasrsN8IrR86BnXQ63kPH+9A85JLO9hLUpRJTBn62UfnuuF92B9CIc6+EewAIqzIn9UoVq2LPA=",
+ "cert_user_id": "hellozeronet@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "9ec3b6ae67741456cbbb2533af220b0220383ddd78e26bdb0dacea814aa1f30e",
+   "size": 162
+  }
+ },
+ "inner_path": "data/users/1H28iygiKXe3GUMcD77HiifVqtf3858Aft/content.json",
+ "modified": 1458165749.402445,
+ "signs": {
+  "1H28iygiKXe3GUMcD77HiifVqtf3858Aft": "G+oUuNZvL9pa5/DrxTFYC1d0hjSyHEx44kwzJ6GHJftFtY/0U9c7K0c+V8Z3JOaRDPw4QSyHKDSR6JuKp/TsrJM="
+ }
+}

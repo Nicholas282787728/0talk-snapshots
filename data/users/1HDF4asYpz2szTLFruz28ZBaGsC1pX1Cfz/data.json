@@ -1,0 +1,16 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 2,
+	"comment": {
+		"1_1BE6FzLYWUhQWCnPNeedrDMQtsxidd2aqE": [
+			{
+				"comment_id": 1,
+				"body": "sıkıntıdan mirc kurdum #dalnet'e baglandım hatta abartıp #eskisozluk kanalini actim. düşün o kadar büyük sıkıntı var",
+				"added": 1457387234
+			}
+		]
+	},
+	"comment_vote": {}
+}

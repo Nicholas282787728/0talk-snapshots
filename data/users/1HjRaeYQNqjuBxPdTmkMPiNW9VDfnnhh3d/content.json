@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HM/aarOkZ7QHssvSTRFM7MFq2o/e1ElbRRfr+SxasHx6yOsD8Kt3twIKLTdkQmOfr15PObyOTowMQuErlmlKiLM=",
+ "cert_user_id": "berserker@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "17c42d53c7214fa3311b1bd90d7c163c9677c1083f8a223fce05b1ec0d1c9a38",
+   "size": 255
+  }
+ },
+ "inner_path": "data/users/1HjRaeYQNqjuBxPdTmkMPiNW9VDfnnhh3d/content.json",
+ "modified": 1459348976.634,
+ "signs": {
+  "1HjRaeYQNqjuBxPdTmkMPiNW9VDfnnhh3d": "GyqujAXFTPE+Nzjbfb4S3wY76qttzUEo9E/61ufGKTC6JuxGBzU6ilVmjiba8m4vru/fS35P3+ofPQUGDe8m9BA="
+ }
+}

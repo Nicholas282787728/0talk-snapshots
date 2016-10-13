@@ -1,0 +1,30 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "Are there any german speaking user?",
+			"body": "Yes?",
+			"added": 1470892454
+		}
+	],
+	"topic_vote": {},
+	"next_comment_id": 3,
+	"comment": {
+		"1_1LFxK1BSHEnkJcXXb4qGszVUxEwqLVSJU8": [
+			{
+				"comment_id": 1,
+				"body": "hallo... :-)",
+				"added": 1470934390
+			}
+		],
+		"1_15VM3jSV1UdibMyGs14pmG8RZ5pyXnoDX9": [
+			{
+				"comment_id": 2,
+				"body": "Oh hier rührt sich ja was. Schöööön  :-)",
+				"added": 1470980275
+			}
+		]
+	},
+	"comment_vote": {}
+}

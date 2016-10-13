@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HHJrmFelUvWTyywxWOrsXzrCOlJ2KNti0WBVT5X2Wa3ML40shPJEb1sxIlAaennJo79Hobd8NHAa0Tpg+hFewvM=",
+ "cert_user_id": "childeric@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "9d3b83dd2cd4e0ceae721174da2af621ef06c9fcc929925b8775395aea74bf8b",
+   "size": 346
+  }
+ },
+ "inner_path": "data/users/1Dz2YsM1ZvgnGVVB3rQqWTwh1K8CoLPzqh/content.json",
+ "modified": 1463140569.314,
+ "signs": {
+  "1Dz2YsM1ZvgnGVVB3rQqWTwh1K8CoLPzqh": "HOfeaFt1X4M2PwVm6GUn+cNX8tAcHQBDWJqKJ79AEY7EhIxGIgZVA6b7+LZsOQEIcjz2NLEmQnTda1mxJuCysAQ="
+ }
+}

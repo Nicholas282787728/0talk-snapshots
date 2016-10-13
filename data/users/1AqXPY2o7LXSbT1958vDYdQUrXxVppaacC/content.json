@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HOu/gPXcefS63w939EX0+j5IeMFdKJ5CxPo5T1v7e+uutXXOf2N7+AxGeixWFcmHayp+XFU12aovChnr2PbMeH4=",
+ "cert_user_id": "maltheistic@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "6dc6b76ce18589682ff77d5a1ea32092948f391d9f36ca45c108d572e8651b6e",
+   "size": 240
+  }
+ },
+ "inner_path": "data/users/1AqXPY2o7LXSbT1958vDYdQUrXxVppaacC/content.json",
+ "modified": 1458001623.786,
+ "signs": {
+  "1AqXPY2o7LXSbT1958vDYdQUrXxVppaacC": "Gy3atobKWSoW+L2Gac573tteQVWdAGsR+P02hd+q1tLhnpu5eWFjmJQYXxJK8okRYaTs+vsGx675AAFpYDSOa9s="
+ }
+}

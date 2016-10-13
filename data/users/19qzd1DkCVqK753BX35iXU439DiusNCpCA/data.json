@@ -1,0 +1,31 @@
+{
+	"next_topic_id": 3,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "Does ZeroNet seed all sites I visit?",
+			"body": "Does ZeroNet seed all sites I visit forever and ever?",
+			"added": 1456996293
+		},
+		{
+			"topic_id": 2,
+			"title": "How is ZeroNet on bandwidth caps?",
+			"body": "After about one day by ZeroNet usage is very high. \n\n\nWould zeronet be good or bad on people with limited internet",
+			"added": 1456996364
+		}
+	],
+	"topic_vote": {},
+	"next_comment_id": 2,
+	"comment": {
+		"1_1LcaN7rwjqypHivGDHqnX4FXtrG6RKBe7w": [
+			{
+				"comment_id": 1,
+				"body": "When you start it then it will always be running while your PC is on. Otherwise you can kill it in your OS's task manager",
+				"added": 1456996424
+			}
+		]
+	},
+	"comment_vote": {
+		"25_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1
+	}
+}

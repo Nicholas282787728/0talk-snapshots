@@ -1,0 +1,304 @@
+{
+  "comment": {
+    "2_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": [
+      {
+        "body": "news testing", 
+        "comment_id": 2, 
+        "added": 1436261968
+      }
+    ]
+  }, 
+  "next_topic_id": 8399, 
+  "topic": [
+    {
+      "body": "Articles about Bitcoin, Torrent and Peer To Peer networks", 
+      "added": 1436262090, 
+      "type": "group", 
+      "topic_id": 1, 
+      "title": "P2P news flow"
+    }, 
+    {
+      "body": "Down at the Mediterranean 'melting pot' on the Turkish Riviera this weekend, leading thinkers and shapers from the cryptocurrency fraternity came together to\u00a0...\n\nhttp://www.forbes.com/sites/rogeraitken/2016/10/10/is-coinsbank-the-new-bank-on-the-blockchain/", 
+      "parent_topic_uri": "1_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG", 
+      "title": "Is CoinsBank The 'New Bank' On The Blockchain?", 
+      "added": 1476184561, 
+      "topic_id": 8359
+    }, 
+    {
+      "body": "Bitcoin Press Release: Hashflare is pleased to announce a 10% discount on all ... they are currently offering the best value Bitcoin cloud mining available online.\n\nhttp://www.newsbtc.com/2016/10/11/cheapest-lifetime-bitcoin-cloud-mining-contracts-with-hashflare/", 
+      "parent_topic_uri": "1_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG", 
+      "title": "Cheapest Lifetime Bitcoin Cloud Mining Contracts With HashFlare ...", 
+      "added": 1476190935, 
+      "topic_id": 8360
+    }, 
+    {
+      "body": "The Yahoo! data breach saw 500 million accounts compromised back in 2014 with the data then posted for sale on a dark web site called The Real Deal.\n\nhttp://www.securitynewsdesk.com/yahoo-data-dump-indicates-need-web-monitoring-states-auriga/", 
+      "parent_topic_uri": "1_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG", 
+      "title": "Yahoo! data dump indicates need for web monitoring states Auriga", 
+      "added": 1476194731, 
+      "topic_id": 8361
+    }, 
+    {
+      "body": "\u201cThe move is a break with how some banks have approached the use of a bitcoin-style network, known generally as the Blockchain, to try to replace creaking old\u00a0...\n\nhttp://www.the-blockchain.com/2016/10/11/jp-morgan-to-build-blockchain-on-ethereum-called-quorum/", 
+      "parent_topic_uri": "1_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG", 
+      "title": "JP Morgan to Build Blockchain on Ethereum \u2013 Called Quorum", 
+      "added": 1476200170, 
+      "topic_id": 8362
+    }, 
+    {
+      "body": "The Scaling Bitcoin conference, held at the Politecnico Milan, returned for its third iteration ... The lightning network in particular claimed a significant chunk of\u00a0...\n\nhttps://bitcoinmagazine.com/articles/as-scaling-bitcoin-retargets-in-milan-focus-shifts-to-fungibility-1476193042", 
+      "parent_topic_uri": "1_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG", 
+      "title": "As Scaling Bitcoin Retargets in Milan, Focus Shifts to Fungibility", 
+      "added": 1476200234, 
+      "topic_id": 8363
+    }, 
+    {
+      "body": "It is Tuesday morning, and the European markets are about to kick off for the day. As usual, head of the markets, here is a look at how the bitcoin price is open,\u00a0...\n\nhttp://www.newsbtc.com/2016/10/11/bitcoin-price-watch-upside-volatility-control/", 
+      "parent_topic_uri": "1_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG", 
+      "title": "Bitcoin Price Watch; Upside Volatility In Control!", 
+      "added": 1476200421, 
+      "topic_id": 8364
+    }, 
+    {
+      "body": "WebTorrent, a streaming BitTorrent client for the browser, powered by WebRTC (web real-time communication), allows users to share files directly from their\u00a0...\n\nhttps://www.cryptocoinsnews.com/bittorrent-projects-tap-bitcoin-blockchain-evolving-content-delivery-networks/", 
+      "parent_topic_uri": "1_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG", 
+      "title": "BitTorrent Project WebTorrent Taps Bitcoin And Blockchain", 
+      "added": 1476205342, 
+      "topic_id": 8365
+    }, 
+    {
+      "body": "The end-to-end Lightning micropayment transaction test shows to the Bitcoin ... the team set up a web server to create invoices for test Bitcoin payments over the\u00a0...\n\nhttps://cointelegraph.com/news/why-end-to-end-micropayment-transaction-test-matters-to-bitcoin-community", 
+      "parent_topic_uri": "1_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG", 
+      "title": "Why End-to-end Micropayment Transaction Test Matters to Bitcoin ...", 
+      "added": 1476207717, 
+      "topic_id": 8366
+    }, 
+    {
+      "body": "However, Godwin noted, \u201cMost people purchase Bitcoin for payment of goods and services online and also for Forex Trading purposes.\u201d Arguably this is an\u00a0...\n\nhttps://cointelegraph.com/news/with-70-population-unbanked-future-of-bitcoin-in-ghana-is-bright", 
+      "parent_topic_uri": "1_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG", 
+      "title": "With 70% Population Unbanked, Future of Bitcoin in Ghana is Bright", 
+      "added": 1476208997, 
+      "topic_id": 8367
+    }, 
+    {
+      "body": "The price of Bitcoin seems to be climbing again. According to CoinMarketCap, the price of the top digital currency jumped from a rate of $618 earlier on Tuesday\u00a0...\n\nhttps://cointelegraph.com/news/china-yuans-depreciation-fuels-bitcoin-price", 
+      "parent_topic_uri": "1_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG", 
+      "title": "China Yuan's Depreciation Fuels Bitcoin Price", 
+      "added": 1476209421, 
+      "topic_id": 8368
+    }, 
+    {
+      "body": "Torekabu will be traded in Zaif, Counterparty, bitcoin, and XEM, the digital ... Asayama said that BitGirls is aiming to be the first to achieve the Web 2 TV 2 Web\u00a0...\n\nhttps://bitcoinmagazine.com/articles/japanese-tv-show-bitgirls-brings-bitcoin-and-digital-currencies-to-the-masses-1476209323", 
+      "parent_topic_uri": "1_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG", 
+      "title": "Japanese TV Show BitGirls Brings Bitcoin and Digital Currencies to ...", 
+      "added": 1476210097, 
+      "topic_id": 8369
+    }, 
+    {
+      "body": "LONDON, Oct 11 (Reuters) - The price of web-based digital currency bitcoin jumped to a 10-week high on Tuesday, as worries about a further weakening of the\u00a0...\n\nhttp://www.dailymail.co.uk/wires/reuters/article-3833113/Chinese-demand-drives-bitcoin-10-week-high-yuan-hits-six-year-low.html", 
+      "parent_topic_uri": "1_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG", 
+      "title": "Chinese demand drives bitcoin to 10-week high as yuan hits six ...", 
+      "added": 1476212046, 
+      "topic_id": 8370
+    }, 
+    {
+      "body": "The network also includes multiple provisions to help make it easier for the platform's users to be compliant with required standards of transparency, risk\u00a0...\n\nhttp://www.coindesk.com/digital-asset-holdings-blockchain-patent-blythe-masters/", 
+      "parent_topic_uri": "1_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG", 
+      "title": "Digital Asset Latest to File Blockchain Patent Application", 
+      "added": 1476213629, 
+      "topic_id": 8371
+    }, 
+    {
+      "body": "... and settlement of gold transactions, the partnership will see the two firms leveraging Paxos' blockchain-based network, Bankchain, as a basis for the services.\n\nhttp://www.coindesk.com/gold-trading-blockchain-big-four-partnership/", 
+      "parent_topic_uri": "1_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG", 
+      "title": "Momentum Grows for Blockchain Gold Markets with 'Big Four ...", 
+      "added": 1476214793, 
+      "topic_id": 8372
+    }, 
+    {
+      "body": "In conversation, Forsgren pointed to the example of a connected car \u2013 plugged into a broader Internet of Things network \u2013 as one that illustrates how the\u00a0...\n\nhttp://www.coindesk.com/tech-giant-ericsson-blockchain-fingerprints-cloud/", 
+      "parent_topic_uri": "1_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG", 
+      "title": "Why Tech Giant Ericsson Wants Blockchain 'Fingerprints' in the Cloud", 
+      "added": 1476215947, 
+      "topic_id": 8373
+    }, 
+    {
+      "body": "Each party in the network has its own copy of the blockchain attached to every asset. As long as the chains are in sync, all parties can be confident that the asset\u00a0...\n\nhttp://www.nextbigfuture.com/2016/10/bitcoin-like-security-will-soon-guard.html", 
+      "parent_topic_uri": "1_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG", 
+      "title": "Bitcoin like security will soon guard US nuclear weapons", 
+      "added": 1476226127, 
+      "topic_id": 8374
+    }, 
+    {
+      "body": "Second, when the network is decentralized and sufficiently open and for anyone to ... then it becomes a new public utility, like electricity, the internet, or the Web.\n\nhttp://bravenewcoin.com/news/three-blockchain-benefits-above-and-beyond-traditional-databases/", 
+      "parent_topic_uri": "1_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG", 
+      "title": "Three blockchain benefits, above and beyond traditional databases", 
+      "added": 1476229126, 
+      "topic_id": 8375
+    }, 
+    {
+      "body": "According to recent statistics, ViaBTC currently accounts for over 10% of the total hash rate on the Bitcoin Network. This puts the mining pool in 4th position\u00a0...\n\nhttp://www.newsbtc.com/2016/10/11/viabtc-bitcoin-unlimited-mining/", 
+      "parent_topic_uri": "1_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG", 
+      "title": "ViaBTC Announces Support for Bitcoin Unlimited", 
+      "added": 1476248612, 
+      "topic_id": 8376
+    }, 
+    {
+      "body": "In order to provide additional education in the sphere of bitcoin and its underlying technology blockchain, TechCrunch has started an exclusive web series on its\u00a0...\n\nhttp://www.coinspeaker.com/2016/10/11/techcrunch-launches-new-series-trust-disrupted-bitcoin-and-the-blockchain/", 
+      "parent_topic_uri": "1_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG", 
+      "title": "TechCrunch Launches New Series 'Trust Disrupted: Bitcoin and the ...", 
+      "added": 1476253656, 
+      "topic_id": 8377
+    }, 
+    {
+      "body": "\u201cA lot of attention is on the Dark Web \u2026 and even cryptocurrency. And it sounds really different and spooky and mysterious,\u201d said Frechtling. \u201cBut quite a bit goes\u00a0...\n\nhttp://www.pymnts.com/news/security-and-risk/2016/flushing-out-the-fraudsters/", 
+      "parent_topic_uri": "1_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG", 
+      "title": "Flushing Out The Fraudsters", 
+      "added": 1476259473, 
+      "topic_id": 8378
+    }, 
+    {
+      "body": "A resident of Connecticut has been arrested for stealing Bitcoins and phishing for deep web logins. By posting links to fake darknet marketplaces, Michael Richo\u00a0...\n\nhttp://www.newsbtc.com/2016/10/12/connecticut-hacker-created-darknet-phishing-sites-steal-bitcoins/", 
+      "parent_topic_uri": "1_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG", 
+      "title": "Connecticut Hacker Created Darknet Phishing Sites To Steal Bitcoins", 
+      "added": 1476267867, 
+      "topic_id": 8379
+    }, 
+    {
+      "body": "EU-based bitcoin advertising network BitMedia.IO announced in a press release CoinReport received that it has deployed upgraded fraud detection technology\u00a0...\n\nhttps://coinreport.net/bitmedia-io-ups-anti-fraud-abilities/", 
+      "parent_topic_uri": "1_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG", 
+      "title": "BitMedia.IO ups anti-fraud abilities, researching blockchain apps for ...", 
+      "added": 1476272698, 
+      "topic_id": 8380
+    }, 
+    {
+      "body": "We look forward to becoming the preferred online registrar worldwide for citizens of the world that have embraced Bitcoin as a method of payment and who also\u00a0...\n\nhttp://www.prnewswire.com/news-releases/epik-announces-support-for-bitcoin-transactions-300343262.html", 
+      "parent_topic_uri": "1_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG", 
+      "title": "Epik Announces Support for Bitcoin Transactions", 
+      "added": 1476275823, 
+      "topic_id": 8381
+    }, 
+    {
+      "body": "BALTIMORE, MD and PALO ALTO, CA - Dark web data intelligence provider Terbium Labs and Skry, a leading blockchain analytics and intelligence company,\u00a0...\n\nhttp://www.broadwayworld.com/bwwgeeks/article/Terbium-Labs-Partners-With-Skry-to-Improve-Security-of-Cryptocurrencies-20161012", 
+      "parent_topic_uri": "1_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG", 
+      "title": "Terbium Labs Partners With Skry to Improve Security of ...", 
+      "added": 1476277534, 
+      "topic_id": 8382
+    }, 
+    {
+      "body": "Specifically, Palo Alto, California-based Skry used Terbium's Matchlight system to identify the top three most popular dark web markets in the dataset: Dream\u00a0...\n\nhttp://www.coindesk.com/study-finds-bitcoin-has-a-new-top-dark-market/", 
+      "parent_topic_uri": "1_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG", 
+      "title": "Study Finds Bitcoin Has a New Top Dark Market", 
+      "added": 1476277656, 
+      "topic_id": 8383
+    }, 
+    {
+      "body": "As at the time of this publication, Blockchain.info has been down for more than four hours. The web server reports a bad gateway error, with a message on the\u00a0...\n\nhttps://cointelegraph.com/news/blockchaininfo-down-users-have-no-access-to-wallets", 
+      "parent_topic_uri": "1_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG", 
+      "title": "Blockchain.info Down, Users Have No Access to Wallets", 
+      "added": 1476284864, 
+      "topic_id": 8384
+    }, 
+    {
+      "body": "A US man has been arrested for allegedly stealing Bitcoins from the one user base that might like to see itself as immune from such crimes \u2013 other dark web\u00a0...\n\nhttps://nakedsecurity.sophos.com/2016/10/12/phisher-arrested-for-stealing-bitcoins-from-dark-web-users/", 
+      "parent_topic_uri": "1_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG", 
+      "title": "Phisher arrested for stealing Bitcoins from dark web users", 
+      "added": 1476285838, 
+      "topic_id": 8385
+    }, 
+    {
+      "body": "Specifically, the moderator inquired whether an embassy officer \"needs to be able to speak with fluency about bitcoin and dark web\". Kerry replied positively\u00a0...\n\nhttp://www.coindesk.com/john-kerry-embassy-bitcoin-trainings/", 
+      "parent_topic_uri": "1_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG", 
+      "title": "John Kerry Hints Bitcoin Training is Underway at US Embassies", 
+      "added": 1476286327, 
+      "topic_id": 8386
+    }, 
+    {
+      "body": "... the World Wide Web Consortium's workshops on blockchain and distributed ledgers; and the US-based Object Management Group's (OMG) Finance Domain\u00a0...\n\nhttp://www.coindesk.com/double-standards-the-push-for-blockchain-interoperability-could-get-messy/", 
+      "parent_topic_uri": "1_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG", 
+      "title": "Double Standards: The Coming Push for Blockchain Interoperability", 
+      "added": 1476289456, 
+      "topic_id": 8387
+    }, 
+    {
+      "body": "The team behind ViaBTC decided to move its entire mining pool to Bitcoin Unlimited due to their belief that the current capacity of the Bitcoin network\u00a0...\n\nhttps://cointelegraph.com/news/viabtc-sees-50-drop-in-hashpower-after-supporting-bitcoin-unlimited", 
+      "parent_topic_uri": "1_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG", 
+      "title": "ViaBTC Sees 50% Drop in Hashpower After Supporting Bitcoin ...", 
+      "added": 1476291293, 
+      "topic_id": 8388
+    }, 
+    {
+      "body": "The integration aims to minimize the damage of blockchain fraud by reducing ... Dark Web is a hidden layer of the Internet where criminals often conduct illegal\u00a0...\n\nhttp://www.financemagnates.com/cryptocurrency/innovation/terbium-labs-and-skry-team-up-to-enhance-detection-of-bitcoin-fraud/", 
+      "parent_topic_uri": "1_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG", 
+      "title": "Terbium Labs and Skry Team Up to Enhance Detection of Bitcoin ...", 
+      "added": 1476292271, 
+      "topic_id": 8389
+    }, 
+    {
+      "body": "Twelve of them access the internet for online collaborations using Tor software to mask their IP address, which means the location of their computer cannot be\u00a0...\n\nhttps://www.sciencedaily.com/releases/2016/10/161012132230.htm", 
+      "parent_topic_uri": "1_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG", 
+      "title": "Just give me some privacy", 
+      "added": 1476293754, 
+      "topic_id": 8390
+    }, 
+    {
+      "body": "If you're a user of Blockchain.info and saw something odd, keep reading, the popular web wallet was hit with a DNS hijack attack earlier this morning. In other\u00a0...\n\nhttp://siliconangle.com/blog/2016/10/12/bitcoin-weekly-blockchain-info-hit-with-dns-hijack-nyc-startups-focus-more-on-blockchain-than-bitcoin/", 
+      "parent_topic_uri": "1_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG", 
+      "title": "Bitcoin Weekly: Blockchain.info hit with DNS hijack, NYC startups ...", 
+      "added": 1476307872, 
+      "topic_id": 8391
+    }, 
+    {
+      "body": "A Lubbock County grand jury indicted a 26-year-old man police investigators believe used an online black market to buy cocaine, which he cut and sold in the\u00a0...\n\nhttp://lubbockonline.com/crime-and-courts/crime/2016-10-12/lubbock-man-accused-selling-cocaine-bought-through-dark-web", 
+      "parent_topic_uri": "1_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG", 
+      "title": "Lubbock man accused of selling cocaine bought through 'Dark Web'", 
+      "added": 1476319260, 
+      "topic_id": 8392
+    }, 
+    {
+      "body": "Aaron, whose real name he couldn't disclose for reasons that will become obvious, buys digital gift cards with stolen credit cards purchased on the deep web\u00a0...\n\nhttp://www.vice.com/en_au/read/meet-the-19-year-old-kiwi-that-makes-5000-a-week-from-the-deep-web", 
+      "parent_topic_uri": "1_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG", 
+      "title": "Meet New Zealand's 19-Year-Old Jordan Belfort Getting Rich ...", 
+      "added": 1476327611, 
+      "topic_id": 8393
+    }, 
+    {
+      "body": "The United States plans to train officers on digital currency such as bitcoin as well as the dark web and has put up a curriculum in this regard. This was revealed\u00a0...\n\nhttp://www.econotimes.com/United-States-to-train-foreign-service-officers-on-bitcoin-and-dark-web-346249", 
+      "parent_topic_uri": "1_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG", 
+      "title": "United States to train foreign service officers on bitcoin and dark web", 
+      "added": 1476335835, 
+      "topic_id": 8394
+    }, 
+    {
+      "body": "The report is one in a series on blockchain use cases produced by Deloitte Center for Financial Services. Ian Allison. By Ian Allison. October 13, 2016 00:44 BST.\n\nhttp://www.ibtimes.co.uk/deloitte-likes-blockchain-loyalty-rewards-programmes-1586083", 
+      "parent_topic_uri": "1_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG", 
+      "title": "Big Four consultancy Deloitte likes blockchain for loyalty rewards ...", 
+      "added": 1476340238, 
+      "topic_id": 8395
+    }, 
+    {
+      "body": "IPFS is ready to add a blockchain-based currency layer called Filecoin to incentivise data storage on the network. Ian Allison. By Ian Allison. October 13, 2016\u00a0...\n\nhttp://www.ibtimes.co.uk/juan-benet-ipfs-talks-about-filecoin-1586122", 
+      "parent_topic_uri": "1_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG", 
+      "title": "Juan Benet of IPFS talks about Filecoin", 
+      "added": 1476344475, 
+      "topic_id": 8396
+    }, 
+    {
+      "body": "\u201cThe Deep Web is a term used to describe the area of the internet that is not recognised by a standard search engine\u201d explained Dr Yunus Saatchi, Chief AI\u00a0...\n\nhttp://businessnewswales.com/cardiff-based-software-firm-amplyfi-leading-way-deep-web-ai-technology/", 
+      "parent_topic_uri": "1_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG", 
+      "title": "Cardiff-based Software Firm AMPLYFI Leading the Way in Deep ...", 
+      "added": 1476350093, 
+      "topic_id": 8397
+    }, 
+    {
+      "body": "BlockCypher, a blockchain web services company, has announced its partnership with digital identity card ShoCard to provide the first identity management\u00a0...\n\nhttp://www.econotimes.com/BlockCypher-and-ShoCard-join-to-offer-identity-management-solutions-for-blockchain-346735", 
+      "parent_topic_uri": "1_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG", 
+      "title": "BlockCypher and ShoCard join to offer identity management ...", 
+      "added": 1476356843, 
+      "topic_id": 8398
+    }
+  ], 
+  "topic_vote": {}, 
+  "next_comment_id": 3, 
+  "comment_vote": {}
+}

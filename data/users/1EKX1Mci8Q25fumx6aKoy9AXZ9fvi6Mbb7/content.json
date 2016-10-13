@@ -1,0 +1,15 @@
+{
+ "cert_auth_type": "web",
+ "cert_sign": "G0BbyZGpi8xqOz2X2N7xB5QADDGqjiXWKyGj4mtY+ZEd8GQ5OCdtktKeYD7ZdLrEqAL885qqDGadNfxDGbUlCeA=",
+ "cert_user_id": "stackoverload@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "8621d5f027c9c0b5f50dd8ff8473e95457e83df51b24f696b325037f2e482572",
+   "size": 915
+  }
+ },
+ "modified": 1456352261.901,
+ "signs": {
+  "1EKX1Mci8Q25fumx6aKoy9AXZ9fvi6Mbb7": "HMIDovM13tkGovdyyo5exUP81o1zOMZVsDUhxZ7oh+GKta1wZ9Ax+X7cib2SO7gdclF65SAzXze3bQJb6uORPqY="
+ }
+}

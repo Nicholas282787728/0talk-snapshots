@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HOloRmBwCpVfauFPH/KYnvSojQN+MkyRZ79242p3n+wXhN/AhjgVDG5DnN+Zx8AFqzGSVLfUcwJJzurZDTcJr84=",
+ "cert_user_id": "demerara@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "516a254e06d1bf5cbb113eb049922e90a80fb08ccec0e20b6b8dcd18f0390fd3",
+   "size": 457
+  }
+ },
+ "inner_path": "data/users/1LxvjVPdscqiSWJyuVXak4HtD9bwA67HBR/content.json",
+ "modified": 1457766472.038821,
+ "signs": {
+  "1LxvjVPdscqiSWJyuVXak4HtD9bwA67HBR": "G2HmIwlt/OiWaOBjjlov0vB3BkUDXzFGoJv+h9TJq8M6McYt8qY69AMuTdk05UWePC7Ji7tCLpVgkoOKYC4jDY8="
+ }
+}

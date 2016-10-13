@@ -1,0 +1,33 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 5,
+	"comment": {
+		"10_1MEWJRMLgvofqG9Mbsb2Rc4hFFyv7HeRx7": [
+			{
+				"comment_id": 1,
+				"body": "Hey, http://zerowrohotccypak.onion / https://zeroproxy.atomike.ninja operator here. \nThe proxies works well, but not through tor2web because they don't support websocket proxying. \nSee developer console \n\"Iceweasel can't establish a connection to the server at ws://zerowrohotccypak.onion.link/Websocket?wrapper_key=369e7809dfb1cf7919afe261108048e8db01474ca8afd644052caf9b990ed8a7.\"\nI'm sorry I can't do anything to change that.",
+				"added": 1458761109
+			},
+			{
+				"comment_id": 2,
+				"body": "Hey, \nIf you assume deep web = overlay network, then Zeronet is a deep web (like Bittorrent, I2P, Tor, RetroShare, whatever). \nA darknet is a network where you don't connect to unknown peers.\nFreenet, Retroshare and some other can be used as darknets but Zeronet can't.\n\nI personally think that there is no deep web. Why a part of the web would be more deeper than an other? It is mostly a word for people who don't really understand what is the web and what are theses network.",
+				"added": 1458761637
+			}
+		],
+		"3_1MCsyW6W243LY69ZYm99XbV3M8Gbbrp5hF": [
+			{
+				"comment_id": 3,
+				"body": "My spoon is brighter than my syster's horse. What do you guys think about this topic?",
+				"added": 1459451316
+			},
+			{
+				"comment_id": 4,
+				"body": "And btw, I2P isn't food. ;)",
+				"added": 1459452104
+			}
+		]
+	},
+	"comment_vote": {}
+}

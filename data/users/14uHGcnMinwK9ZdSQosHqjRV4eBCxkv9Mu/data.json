@@ -1,0 +1,15 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "The Possibility of Streaming Video Content via ZeroNet",
+			"body": "Same as the topic, could we stream on ZeroNet? Like a decentralized YouTube.",
+			"added": 1463490044
+		}
+	],
+	"topic_vote": {},
+	"next_comment_id": 1,
+	"comment": {},
+	"comment_vote": {}
+}

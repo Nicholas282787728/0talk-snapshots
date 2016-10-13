@@ -1,0 +1,15 @@
+{
+ "cert_auth_type": "web",
+ "cert_sign": "G39asi5IcKVlpu8f+eqpnEcKNLGJFfrDMH1H/W0R+nr9jEGlVwwyVkx0wuav/gzuEYencOVtFtxdx9Bw0LGa5ys=",
+ "cert_user_id": "drawde@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "82125202406fedb7cc73010ce29946d34d306ccf99885dcc4116747eba343ba1",
+   "size": 364
+  }
+ },
+ "modified": 1457145904.654363,
+ "signs": {
+  "179JZJFMjUKYjAy7rgXEAffVxJMMLzNyfs": "G2uU33/ilxqxcGQ4EcoiA8/PbywQ5hp0ABdu6XyTGAjbMgNFMMYQvOJa7LvpHMPhTjLO9OxgOioG/Ia2mwMZLAY="
+ }
+}

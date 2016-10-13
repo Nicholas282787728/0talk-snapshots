@@ -1,0 +1,23 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 3,
+	"comment": {
+		"2_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": [
+			{
+				"comment_id": 1,
+				"body": "checking out zeroid chat",
+				"added": 1467852595
+			}
+		],
+		"1_15SdNVb2FThBqUNnGB2o3nNwSotgssANJQ": [
+			{
+				"comment_id": 2,
+				"body": "more testing",
+				"added": 1467852719
+			}
+		]
+	},
+	"comment_vote": {}
+}

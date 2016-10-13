@@ -1,0 +1,15 @@
+{
+ "cert_auth_type": "web", 
+ "cert_sign": "HNull6ioZJZkM5zI5w5BZHZDRo8JokOLZrLP/s5TWb0lhebMlqo+kNhnHLucPIiQMXZVNIgo1aImyjhOMFGLrOA=", 
+ "cert_user_id": "luminarious@zeroid.bit", 
+ "files": {
+  "data.json": {
+   "sha512": "7949a7d2f4d23e184c5c75f7a74bdbf47bd8cd99ccda6e28818fa8846e103a52", 
+   "size": 162
+  }
+ }, 
+ "modified": 1449817940.213, 
+ "signs": {
+  "1G9Fi94fkhP97XNun5VS4vohM63pZj151y": "G0NA0cDuWfcZrrk+s1wo9b77ku5t7km4dCss2bt81WqPw8dtPVVi9mpNDRwCz97jfv9FptVxtioiziMDZx201sU="
+ }
+}

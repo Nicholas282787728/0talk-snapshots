@@ -1,0 +1,26 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 4,
+	"comment": {
+		"1_1UfvLnMuzShvi3phWGSqn79tio81Wn9Dt": [
+			{
+				"comment_id": 1,
+				"body": "这算是一个聊天室吗？",
+				"added": 1461063600
+			},
+			{
+				"comment_id": 2,
+				"body": "为什么不能连续发言？Message submit failed!\nundefined",
+				"added": 1461063614
+			},
+			{
+				"comment_id": 3,
+				"body": "去中心化的概念不错，就怕沦为一个deepweb。",
+				"added": 1461063702
+			}
+		]
+	},
+	"comment_vote": {}
+}

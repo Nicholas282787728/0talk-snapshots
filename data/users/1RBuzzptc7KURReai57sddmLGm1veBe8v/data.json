@@ -1,0 +1,63 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {
+		"1_1PRsmkcDcCnKbCfFTeQizKYcDpNn98iQcT": 1,
+		"3_1MxdAjWgnqwCaunGHmhY39tVR51qV3peJL": 1
+	},
+	"next_comment_id": 9,
+	"comment": {
+		"1_1PRsmkcDcCnKbCfFTeQizKYcDpNn98iQcT": [
+			{
+				"comment_id": 1,
+				"body": "やっほー",
+				"added": 1456925666
+			},
+			{
+				"comment_id": 2,
+				"body": "日本の会社は今は家電(home appliances)ではなくてインフラ(infrastructure)に集中しています。",
+				"added": 1456986345
+			},
+			{
+				"comment_id": 4,
+				"body": "ほんとに良く出来てるよね。",
+				"added": 1457006992
+			},
+			{
+				"comment_id": 5,
+				"body": "私も知りたいｗ",
+				"added": 1457114411
+			},
+			{
+				"comment_id": 7,
+				"body": "今の仕様じゃ無理じゃないかなあ。",
+				"added": 1457376274
+			},
+			{
+				"comment_id": 8,
+				"body": "GACKTいいよねｗ",
+				"added": 1457376300
+			}
+		],
+		"2_1GCsW9TFfjDsvcdmKPADq1n8Q3ha72UtDQ": [
+			{
+				"comment_id": 3,
+				"body": "Clojure + ClojureScript",
+				"added": 1456987345
+			}
+		],
+		"1_1LRrd96P7FiTcsyNXVzPM5jtpQoH1B4gYf": [
+			{
+				"comment_id": 6,
+				"body": "PHP is evil...",
+				"added": 1457114482
+			}
+		]
+	},
+	"comment_vote": {
+		"2_1EMpuiFM1NLZmAVyoAWnwi8VwiZVV4dcnN": 1,
+		"26_1ADB7TdX2fVbTsWBoMe9yBTmVXTbb33b4R": 1,
+		"7_1CL2jU9pTjtMasNihDK3JCofdPWq2ZVGuu": 1,
+		"3_1PRsmkcDcCnKbCfFTeQizKYcDpNn98iQcT": 1
+	}
+}

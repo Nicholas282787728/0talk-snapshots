@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "G8ufygvQrvPrFBo4otwSGHyFszjnFNrU5G/FJMaLZ5gRDmLG02Kcb4M1icy7xoc8A0GtdLJ9+WL4hlWSX8dT/94=",
+ "cert_user_id": "skaworld@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "b545ad91b0f8a4fdef1e719a9c3f1892a1d1c5dd914411d889accfe7e6921bce",
+   "size": 244
+  }
+ },
+ "inner_path": "data/users/1GuxZ4M3JRQbqn9MAEhJTM2KfMfHUqfMmV/content.json",
+ "modified": 1457560860.73936,
+ "signs": {
+  "1GuxZ4M3JRQbqn9MAEhJTM2KfMfHUqfMmV": "HIaN+P+w9hYvMu9JZLKvDePLNU2VWYDSAz9wMkkLCZelE553sj6Y1HP3ltme2/qDkHoJW4z+CwFNuFm+LXbDcpc="
+ }
+}

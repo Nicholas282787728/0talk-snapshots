@@ -1,0 +1,32 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {
+		"1_1LJLVfT9hKRuTHzBKTpse57PGfpwx82myR": 1
+	},
+	"next_comment_id": 4,
+	"comment": {
+		"2_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": [
+			{
+				"comment_id": 1,
+				"body": "if you're reading this it means i finally set this up properly",
+				"added": 1469886589
+			}
+		],
+		"2_1JXFzMzrQTJCiGw36YNQGg2Tmt1hTHy7ZT": [
+			{
+				"comment_id": 2,
+				"body": "ping",
+				"added": 1469963671
+			},
+			{
+				"comment_id": 3,
+				"body": "maybe some sort of \"I'm generally online {list of UTC time ranges}\"",
+				"added": 1469963893
+			}
+		]
+	},
+	"comment_vote": {
+		"6_18XR5C5AxGfD5s2DbCPGuXxVN5oscoLyD6": 1
+	}
+}

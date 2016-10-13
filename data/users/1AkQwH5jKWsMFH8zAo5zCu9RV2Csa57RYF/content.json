@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HNa5/OrOsEKDssaILkDYHR6IWX347H/ibsuQQXdBb6FcnyRHkaOvRAW7YRrJnFJbrBZEB80wyMoCCQaPB6+JSmE=",
+ "cert_user_id": "morro@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "fc1de8bfc95b15a5cc83e6a36cfba5de0b55c55f6a76134fdb6730ec848f4a68",
+   "size": 806
+  }
+ },
+ "inner_path": "data/users/1AkQwH5jKWsMFH8zAo5zCu9RV2Csa57RYF/content.json",
+ "modified": 1458052360.916174,
+ "signs": {
+  "1AkQwH5jKWsMFH8zAo5zCu9RV2Csa57RYF": "HMfLQzSkB2Eq/shscxchvwpTVFbhYZJxV/0iyKs25etu8/2jXkxw8lkmVa5xDYgRv7WG7zO4lourClYlotyMSUg="
+ }
+}

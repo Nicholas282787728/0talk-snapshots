@@ -1,0 +1,15 @@
+{
+ "cert_auth_type": "web", 
+ "cert_sign": "G06HR87AP5odGhkiluCHjCcyaARO0KITvryCLu/hj9LZdD7a31gymJt9BDTnAu+zraCU/f80+K0ne1A3PUn8A4I=", 
+ "cert_user_id": "pizzamerica@zeroid.bit", 
+ "files": {
+  "data.json": {
+   "sha512": "cb7750a1f607c1380da92b7cdbd71bc7c9d14f909f6d560f2d6343f167c4a502", 
+   "size": 404
+  }
+ }, 
+ "modified": 1449971508.424, 
+ "signs": {
+  "1F57NafkabWEsEe6kM8Ex1LvjSjrFBvwhR": "HPIcgQGOEZ5Xm797uMvpDAucDOMfHeL2bLyzPnt+F214q/7hbFYbwVhS+ZlJnl+o1xywLp7/FHYA7OVPEmJ+Mgw="
+ }
+}

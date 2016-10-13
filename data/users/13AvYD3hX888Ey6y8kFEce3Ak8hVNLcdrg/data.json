@@ -1,0 +1,51 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "content path",
+			"body": "Is there a way to change the path were all the content is being stored?\nI don't want it on my small root partition.",
+			"added": 1457276639
+		}
+	],
+	"topic_vote": {},
+	"next_comment_id": 6,
+	"comment": {
+		"14_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf": [
+			{
+				"comment_id": 1,
+				"body": "some chatter on twister",
+				"added": 1457170929
+			}
+		],
+		"1_13AvYD3hX888Ey6y8kFEce3Ak8hVNLcdrg": [
+			{
+				"comment_id": 2,
+				"body": "Ok, will use a link then. I thought there would be an option to set the path in a config or as a prefix.\nThanks",
+				"added": 1457278447
+			},
+			{
+				"comment_id": 3,
+				"body": "> [nofish](#comment_443_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): you can also set it using --data_dir /somewhere/another/place or zeronet.conf:\n> [global]\n> data_dir = /somewhere/another/place\n\nthat's what I was looking for, thanks a lot",
+				"added": 1457280574
+			}
+		],
+		"1_1BQg5MQZ63aEQZMzLEXP6yY3hsgznKpaps": [
+			{
+				"comment_id": 4,
+				"body": "Arch Linux here.",
+				"added": 1457447131
+			}
+		],
+		"2_1FEikAyxCNPJcW996B69r5UFg29yfq579m": [
+			{
+				"comment_id": 5,
+				"body": "Is there a way to disable Bluetooth and just use it over network?",
+				"added": 1474619989
+			}
+		]
+	},
+	"comment_vote": {
+		"443_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1
+	}
+}

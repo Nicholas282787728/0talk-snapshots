@@ -1,0 +1,15 @@
+{
+ "cert_auth_type": "web", 
+ "cert_sign": "HIViHIyiaVxr8TRQaehx344rDuSvYAog1Tmgwc2P45ZLldJj7XmRziQF14F3/VTHmp2PMMiEWR8rRgod2/B9fHU=", 
+ "cert_user_id": "inaltoasinistra@zeroid.bit", 
+ "files": {
+  "data.json": {
+   "sha512": "161fbfdaa791f356f8603d30ccf1440552a598c37bc53f7de705180484d9afee", 
+   "size": 321
+  }
+ }, 
+ "modified": 1451395731.654, 
+ "signs": {
+  "1JQmAwSmx4VFEbYchZGAwqC9QppdKBENsb": "HFJOo+lVLV7pPxfhHOJD/RDcZI7lAcEHFxcS7qoM0giFsx/Anj9i6FOVJH9/YwUydZUY6DP0EtZXV+H7hZvgTls="
+ }
+}

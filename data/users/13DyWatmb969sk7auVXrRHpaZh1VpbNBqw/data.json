@@ -1,0 +1,83 @@
+{
+	"next_topic_id": 4,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "So can I  \"farm\" in zeronet ?",
+			"body": "I am interested in \"farming\" on a distributed internet, so my simple question is whether it is possible on zeronet.",
+			"added": 1464553447
+		},
+		{
+			"topic_id": 2,
+			"title": "well some people do not get it.",
+			"body": "https://steemit.com/news/@tuck-fheman/the-blockchain-is-a-threat-to-the-distributed-future-of-the-internet \nhere are for instance one case of somebody who do not understand the nature of the blockchain.",
+			"added": 1464720104
+		},
+		{
+			"topic_id": 3,
+			"title": "Link Collection",
+			"body": "Lets create a link-collection for zites.",
+			"added": 1465038539
+		}
+	],
+	"topic_vote": {},
+	"next_comment_id": 10,
+	"comment": {
+		"1_1GV38NrtMvxkf2N8msQkkTnjz38ABfiaVE": [
+			{
+				"comment_id": 1,
+				"body": "Anybody realize that trying to use tor for torrents is really stupid ? Tor routes TCP traffic, and the bulk of what torrents use are UDP, which is not going through tor, so your connection to the tracker might be safe, but all your downloads from peers are on the plain net, at least a vpn haven't gotten that problem, but if they keep logs you might be getting screwed anyway.",
+				"added": 1464556351
+			}
+		],
+		"1_1Hv2JxSGfFyuP84fZLqjH853YM5oyQfrNK": [
+			{
+				"comment_id": 2,
+				"body": "did you actually read his request ?\nAnyway the actual question is whether zero will allow skype quality av communication.",
+				"added": 1464560487
+			}
+		],
+		"1_13DyWatmb969sk7auVXrRHpaZh1VpbNBqw": [
+			{
+				"comment_id": 3,
+				"body": "earn coins by offering harddisk.",
+				"added": 1464640764
+			},
+			{
+				"comment_id": 4,
+				"body": "> [zerobunker](#comment_124_168qV1Xxp2EyszrzdECLUwXrn9wGYjDdar): maybe he/she mean like data farming from folk in storj, you get pay to host zite data and redistribute it.\n\nbingo, so is this possible ?",
+				"added": 1464692325
+			}
+		],
+		"8_1FieP4c1gxFme5webFJB9x5ZPBXdR6p3Fs": [
+			{
+				"comment_id": 5,
+				"body": "well this do seem a losing battle, battling technology through the law is very much an uphill battle.",
+				"added": 1464700063
+			},
+			{
+				"comment_id": 6,
+				"body": "I wonder how long it takes for this industry to collapse in on itself, it is not sustainable. Then the question is how much damage in will do in the mean time.\n\nOn a seperate note I like to just play the videos in vlc since it is rare that a youtube video is something I want to keep, but in those cases I quiet like youtube-dl",
+				"added": 1464703932
+			}
+		],
+		"3_13DyWatmb969sk7auVXrRHpaZh1VpbNBqw": [
+			{
+				"comment_id": 7,
+				"body": "Neat, although a bit more description wouldn't be amiss.",
+				"added": 1465064976
+			},
+			{
+				"comment_id": 8,
+				"body": "http://localhost:43110/bcnews.bit",
+				"added": 1465151515
+			},
+			{
+				"comment_id": 9,
+				"body": "that last one is the blockchain news. Quiet a nice zite",
+				"added": 1465151555
+			}
+		]
+	},
+	"comment_vote": {}
+}

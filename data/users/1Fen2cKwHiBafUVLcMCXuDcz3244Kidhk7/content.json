@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "G4SH2tki08PO25epJt+crmukWsofDWoTSmVtoVv9coGVJlKtRbinc7FbQ6S0njzy7tB8uKCF/ldercCS6OEf5l4=",
+ "cert_user_id": "raspberryzeronet@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "c55084eaffbd04d55baed358b23fe8bc9769928915a740094ff04ccb2ba40224",
+   "size": 266
+  }
+ },
+ "inner_path": "data/users/1Fen2cKwHiBafUVLcMCXuDcz3244Kidhk7/content.json",
+ "modified": 1456682251.162279,
+ "signs": {
+  "1Fen2cKwHiBafUVLcMCXuDcz3244Kidhk7": "HALavSOmu96XwbYk+BOifJ07nOqDaikJiZhQG38l1W/NLVX2aOGbFDgxU52mDIFSIoXNiBdcS+BHOogTDAaZqxU="
+ }
+}

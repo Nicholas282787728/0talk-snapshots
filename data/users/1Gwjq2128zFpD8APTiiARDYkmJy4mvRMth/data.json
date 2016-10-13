@@ -1,0 +1,16 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 2,
+	"comment": {
+		"2_1JHQA9oFkFpFFRiscyT4N71AKLWg46pQ92": [
+			{
+				"comment_id": 1,
+				"body": "También puedes usar Tribler",
+				"added": 1457017770
+			}
+		]
+	},
+	"comment_vote": {}
+}

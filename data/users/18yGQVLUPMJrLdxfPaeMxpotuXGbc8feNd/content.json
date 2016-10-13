@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HGAletbk1YzlvgwyVjMNJiGgRDJIc+Q4cR4KDaeHTkjLW2f8giDfOoivykAO0BhWJdi1SJLk+GTcQmjx7uXdjX8=",
+ "cert_user_id": "woodkid@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "0a7f6e28332aa53d25368163ee0940f7e48e76a41f76b1fc7966bd55c63e3211",
+   "size": 162
+  }
+ },
+ "inner_path": "data/users/18yGQVLUPMJrLdxfPaeMxpotuXGbc8feNd/content.json",
+ "modified": 1456914292.1,
+ "signs": {
+  "18yGQVLUPMJrLdxfPaeMxpotuXGbc8feNd": "G057GdDaX4z30IWB7qdj4fQ6Esb4YPVn5rhImZBrZRvWXjlGKMpV9Q8bu6J9WpV6Wzj90vEJXHX9SMMMC311KUE="
+ }
+}

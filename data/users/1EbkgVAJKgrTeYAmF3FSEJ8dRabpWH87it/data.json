@@ -1,0 +1,60 @@
+{
+	"next_topic_id": 11,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "When the f**k can we get rid of the JS s**t so that we can really use 0net w/o being possibly exploited by the LEO?",
+			"body": "PLEASE",
+			"added": 1455278559
+		},
+		{
+			"topic_id": 3,
+			"title": "Why the fuck does ZN have to be bundled with Tor for Windows?",
+			"body": "because it just ain't gonna work in a country that bans Tor",
+			"added": 1458629647
+		}
+	],
+	"topic_vote": {},
+	"next_comment_id": 16,
+	"comment": {
+		"1_1EbkgVAJKgrTeYAmF3FSEJ8dRabpWH87it": [
+			{
+				"comment_id": 1,
+				"body": "> [ekaterina](#comment_18_1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD): In another topic nofish said you can run ZeroNet sites in a VM with disabled internet connection if you are afraid of JavaScript exploits, since ZeroNet sites work offline. Uploading/Downloading would then be done by the Python ZeroNet app in your host OS which is connected to the internet (I assume that's what he meant).\n\nThat really sucks, dude. Why can't we just have an option 2 disable the JS s**t?",
+				"added": 1455278834
+			},
+			{
+				"comment_id": 2,
+				"body": "Dude, trust me, I'm really a master of all tricks w/ VM like Whonix. JS can be very nasty so I oughta try my best 2 reduce my attack surface.",
+				"added": 1455279673
+			},
+			{
+				"comment_id": 3,
+				"body": "The only way I can do about it now is using Firejail w/ Tor Browser (No Proxy mode) inside a Whonix VM over Qubes.",
+				"added": 1455280847
+			}
+		],
+		"1_1FJFF8d4B5LQ9jJinqBRxqCR7RHbHPxBfv": [
+			{
+				"comment_id": 4,
+				"body": "> [nippletwister](#comment_101_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf): Yeah, echobot doesn't answer anymore)\n\nso is it still working or not?",
+				"added": 1455466526
+			}
+		],
+		"2_1EbkgVAJKgrTeYAmF3FSEJ8dRabpWH87it": [
+			{
+				"comment_id": 13,
+				"body": "PLZ",
+				"added": 1458637478
+			}
+		],
+		"7_1EbkgVAJKgrTeYAmF3FSEJ8dRabpWH87it": [
+			{
+				"comment_id": 14,
+				"body": "http://127.0.0.1:43110/Talk.ZeroNetwork.bit/?Topic:1_1BNnSNUfRvzpCFumrbg5tbiE9dT61CZP9h",
+				"added": 1458637625
+			}
+		]
+	},
+	"comment_vote": {}
+}

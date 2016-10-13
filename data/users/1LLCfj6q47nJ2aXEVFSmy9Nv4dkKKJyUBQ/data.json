@@ -1,0 +1,32 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 4,
+	"comment": {
+		"1_1BQg5MQZ63aEQZMzLEXP6yY3hsgznKpaps": [
+			{
+				"comment_id": 1,
+				"body": "Basically, what ha said. You do realise that telling such things is bad opsec?",
+				"added": 1457478454
+			}
+		],
+		"1_17ApQKugX1XH727gpAeD3mrRLjLxASdakd": [
+			{
+				"comment_id": 2,
+				"body": "To me, social networking and privacy-centric networks and darknets are mutually exclusive. What's the point of getting into zeronet if you're gonna do the same thing you can do on facebook?",
+				"added": 1457553726
+			}
+		],
+		"8_1LJMypJ67iEBwah82xwVVdB8SGZ1mwqgHQ": [
+			{
+				"comment_id": 3,
+				"body": "Works like a charm. You're doing something wrong.",
+				"added": 1462063343
+			}
+		]
+	},
+	"comment_vote": {
+		"11_1BDTDgpyizvUDsc1hcL1pjCvXCy4ozzSFN": 1
+	}
+}

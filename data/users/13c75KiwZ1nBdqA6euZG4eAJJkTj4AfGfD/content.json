@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "GyRu2so/HrNMj3/4P45+bK6Wsa0K78vD4yl+HfqabDLAwhIGPDttZ5iuPPUNTz4vr79rWRdUFcUZnrWRP0pbtxU=",
+ "cert_user_id": "shadowpriest@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "c3d56e4824f80637814db791d60fb1eb47c96230d20e29d87f0dbef9d6bf1334",
+   "size": 239
+  }
+ },
+ "inner_path": "data/users/13c75KiwZ1nBdqA6euZG4eAJJkTj4AfGfD/content.json",
+ "modified": 1462416090.991529,
+ "signs": {
+  "13c75KiwZ1nBdqA6euZG4eAJJkTj4AfGfD": "HK2DZYZW9Rp4CYL+5ye3Vlg4bu2h3KIdD8a37hWJ03vzW+lMjn2xi6v1bax1lk5urm8ugSqz+IAFhYQoVBrI3/w="
+ }
+}

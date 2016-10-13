@@ -1,0 +1,37 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 5,
+	"comment": {
+		"2_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": [
+			{
+				"comment_id": 1,
+				"body": "nice dude",
+				"added": 1457086584
+			},
+			{
+				"comment_id": 2,
+				"body": "> [dp](#comment_1_14g55bURX2a2oMcopHeEBHWZRgPGgnaLjp): nice dude\n\ni know",
+				"added": 1457086593
+			}
+		],
+		"2_1GCsW9TFfjDsvcdmKPADq1n8Q3ha72UtDQ": [
+			{
+				"comment_id": 3,
+				"body": "INTERCAL",
+				"added": 1457086880
+			}
+		],
+		"1_1Dg5EwremnCBAkBQSVoXcL4Mp2eSUuCRvn": [
+			{
+				"comment_id": 4,
+				"body": "¿Qué tal?",
+				"added": 1457086936
+			}
+		]
+	},
+	"comment_vote": {
+		"3_14g55bURX2a2oMcopHeEBHWZRgPGgnaLjp": 1
+	}
+}

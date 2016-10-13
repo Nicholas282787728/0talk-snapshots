@@ -1,0 +1,36 @@
+{
+	"next_topic_id": 3,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "HAckers",
+			"body": "I wanted some info regarding if hackers can hack banks accounts of corrupt politicians and bring the money back to their country accounts",
+			"added": 1462690460
+		},
+		{
+			"topic_id": 2,
+			"title": "Encrypted /anonymous email",
+			"body": "Is there any service i can use to send an anonymous email to yahoo/gmail/outlook or any other local email services??",
+			"added": 1463895043
+		}
+	],
+	"topic_vote": {},
+	"next_comment_id": 3,
+	"comment": {
+		"2_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": [
+			{
+				"comment_id": 1,
+				"body": "Hi i want to know if i can use zeronet email to send email on other servers like yahoo etc??",
+				"added": 1459361768
+			}
+		],
+		"1_1MxejC3wJ1PB6QbLwL7g3HzC4ZPojJogD3": [
+			{
+				"comment_id": 2,
+				"body": "ahan thanks :)",
+				"added": 1462694004
+			}
+		]
+	},
+	"comment_vote": {}
+}

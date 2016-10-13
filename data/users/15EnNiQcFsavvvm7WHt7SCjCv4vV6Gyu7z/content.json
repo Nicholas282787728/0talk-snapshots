@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HO0da1hwSC/1tljTCw1ftuzL/XpCAN9BVz1ACxjXPqrA4P81ndRZJ6jJxMNQn8VdPQKpGJmbuCUn2Dtwmrnfw4o=",
+ "cert_user_id": "drapslaget@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "0a8eda18046a3b59d674763535a69c6aa61e48b223751d680c8bbb29ed9e9163",
+   "size": 2936
+  }
+ },
+ "inner_path": "data/users/15EnNiQcFsavvvm7WHt7SCjCv4vV6Gyu7z/content.json",
+ "modified": 1456996788.935802,
+ "signs": {
+  "15EnNiQcFsavvvm7WHt7SCjCv4vV6Gyu7z": "G0PLpF18A6xtXbDJVeL9Jhy0SQHSonBsaEZmLzDeliD/nrPtOpKrhcW1QmqfH1fNUA8Iv2hLINQt3+oZzKXgjNY="
+ }
+}

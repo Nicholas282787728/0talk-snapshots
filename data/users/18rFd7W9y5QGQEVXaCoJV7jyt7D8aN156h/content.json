@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "GxQAgp7inqTaX+qE38MJGXhdw4muXJt3Xo4LB+Z9syl9xdZmvpqFSiDH9a3pT7oUSggFnaILf+hLyyLo56lADVE=",
+ "cert_user_id": "antifa@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "2c0751e925d9880e4597f2127e0bc02157df1eedd2fd70739b801a21d3e2b10c",
+   "size": 3129
+  }
+ },
+ "inner_path": "data/users/18rFd7W9y5QGQEVXaCoJV7jyt7D8aN156h/content.json",
+ "modified": 1468892090.49981,
+ "signs": {
+  "18rFd7W9y5QGQEVXaCoJV7jyt7D8aN156h": "G/z0W0W2VEC1Mmv48ktCbJdXqrklQcg9giX/9o1/YmuKrecycXwAS2DAZJ1cWFn78whakOPEIOUzmqbb+2DQEYQ="
+ }
+}

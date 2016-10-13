@@ -1,0 +1,25 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "Donate to Support Us! 1JSgRf6BTPTR7CCRyQUjRP5AYkxE9HB6cC",
+			"body": "We accept donation in the form of Bitcoin. Thank you for using the service and Enjoy!\n\nDonate via Bitcoin @: 1JSgRf6BTPTR7CCRyQUjRP5AYkxE9HB6cC",
+			"added": 1458572568
+		}
+	],
+	"topic_vote": {
+		"1_12YJpSQABsv4YyyiuVgBN8swbsuSKPPef6": 1
+	},
+	"next_comment_id": 2,
+	"comment": {
+		"1_12YJpSQABsv4YyyiuVgBN8swbsuSKPPef6": [
+			{
+				"comment_id": 1,
+				"body": "> [lukipuki](#comment_45_1CMYxdit4qq9QGk9DYRu2ruRPd2YDGckH8): lol :D\n> nice try.\n> btw the bitcoin adress from the Docs website is this one:\n> 1QDhxQ6PraUZa21ET5fYUCPgdrwBomnFgX\n> check it yourself. Don't trust me.\n\nbut this isn't for zeronet",
+				"added": 1458573121
+			}
+		]
+	},
+	"comment_vote": {}
+}

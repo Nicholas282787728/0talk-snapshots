@@ -1,0 +1,18 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 2,
+	"comment": {
+		"2_1NyFX6DUcyMs3S76Vz8X7ssDLC4uCCA1YM": [
+			{
+				"comment_id": 1,
+				"body": "цп здесь?",
+				"added": 1457865065
+			}
+		]
+	},
+	"comment_vote": {
+		"50_1LWuc6JBhUGrKEAh1aPrPU85dEMcKmg3pS": 1
+	}
+}

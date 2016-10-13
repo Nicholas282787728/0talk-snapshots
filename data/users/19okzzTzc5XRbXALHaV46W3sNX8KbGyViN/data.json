@@ -1,0 +1,16 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 2,
+	"comment": {
+		"1_1BLSfwetc4h7aeMefKcM4ahu8mK1LVNiqF": [
+			{
+				"comment_id": 1,
+				"body": "Kul",
+				"added": 1461757320
+			}
+		]
+	},
+	"comment_vote": {}
+}

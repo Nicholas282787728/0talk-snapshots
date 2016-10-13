@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "bitmsg",
+ "cert_sign": "HFnfPJI7/x2bsZahrP6bQJrsbZbTuxBfaaF0O5UlhS6NO3WXb/Wa4/BbpoyLE6oRWS5xAlp7jhVHygvlAEzbwR4=",
+ "cert_user_id": "occumatic@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "b1a4511d154557e7eca52f04cc94b7e9f7f9a4a8456533915490c9c3bd4aed2f",
+   "size": 333
+  }
+ },
+ "inner_path": "data/users/19CTaiAXoVwUuVznC4qnJ7FuK1CsaNHrSW/content.json",
+ "modified": 1461451512.704,
+ "signs": {
+  "19CTaiAXoVwUuVznC4qnJ7FuK1CsaNHrSW": "G23LyOm78O/FwP6ma0Bo7g3PLJoiKc3lBHCIejlvRF1zNlGtfIqM3emDS8sn5rYqdGwC9yClF4lldzvPb2QRtZQ="
+ }
+}

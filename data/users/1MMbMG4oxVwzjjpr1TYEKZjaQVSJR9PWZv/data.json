@@ -1,0 +1,16 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 2,
+	"comment": {
+		"1_1MDFGD6PJsZLnTg8Y9BcZKTPfKHMRrTL83": [
+			{
+				"comment_id": 1,
+				"body": "怎么浏览网页？",
+				"added": 1460870289
+			}
+		]
+	},
+	"comment_vote": {}
+}

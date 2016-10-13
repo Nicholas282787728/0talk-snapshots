@@ -1,0 +1,30 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 4,
+	"comment": {
+		"10_1MEWJRMLgvofqG9Mbsb2Rc4hFFyv7HeRx7": [
+			{
+				"comment_id": 1,
+				"body": "There is technically NO SUCH THING as Deep Web. It is a fictitious term started by either Main Stream Media or US Government to give anonymity and decentralization a dark and evil public perception when it is NOT.   TOR Project does not use the term \"deep web\" to describe anything because what they do saves lives, and defends freedom.",
+				"added": 1470201776
+			}
+		],
+		"1_1DZr3dWHcLESuHx7UeC23QSXfQFvBdFT9s": [
+			{
+				"comment_id": 2,
+				"body": "I would LOVE a German forum!",
+				"added": 1470202048
+			}
+		],
+		"4_1BFTNXtYQDMCurqyg45KLmsV6oJD7bQSsH": [
+			{
+				"comment_id": 3,
+				"body": "Decentralized and No Censorship means DECENTRALIZED, NO CENSORSHIP.\nHaving a so called “reputation” system is Centralising, creating a heirarchy which is the opposite of Decentralized. It ultimately leads to censorship!\nFuck Censorship!",
+				"added": 1470202489
+			}
+		]
+	},
+	"comment_vote": {}
+}

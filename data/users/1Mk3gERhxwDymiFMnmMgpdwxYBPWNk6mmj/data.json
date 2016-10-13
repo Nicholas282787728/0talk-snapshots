@@ -1,0 +1,68 @@
+{
+	"next_topic_id": 3,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "how to become a member of the illuminati in Vietnam?",
+			"body": "how to become a member of the illuminati in Vietnam?",
+			"added": 1460947495
+		},
+		{
+			"topic_id": 2,
+			"title": "How can one page at ZeroNet to Vietnam? Please guide helps. Special thanks",
+			"body": "How can one page at ZeroNet to Vietnam? Please guide helps. Special thanks",
+			"added": 1461205942
+		}
+	],
+	"topic_vote": {
+		"1_1Mk3gERhxwDymiFMnmMgpdwxYBPWNk6mmj": 1,
+		"2_1Mk3gERhxwDymiFMnmMgpdwxYBPWNk6mmj": 1
+	},
+	"next_comment_id": 8,
+	"comment": {
+		"1_18jipjDsfAxAuq4ixbi2w24xJrYVfTYFPn": [
+			{
+				"comment_id": 1,
+				"body": "VietNam",
+				"added": 1460947615
+			}
+		],
+		"2_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": [
+			{
+				"comment_id": 2,
+				"body": "Have a nice day!!",
+				"added": 1460947871
+			}
+		],
+		"1_1Mk3gERhxwDymiFMnmMgpdwxYBPWNk6mmj": [
+			{
+				"comment_id": 3,
+				"body": "> [erkan](#comment_133_1H8oKiRa7fGgUqS1hpUtaSYLvAqkaknbkf): first rule of the Illuminati: as member and non-member you deny our existence\n> your application just got disqualified (and can not be accepted anymore)\n\nI just want to know that there is the existence of the Assembly in VN or not?",
+				"added": 1460962714
+			},
+			{
+				"comment_id": 4,
+				"body": "> [yo](#comment_7_1GtJqyJRsuZhmxVtw5USgvqGbUmVH7EmBD): did you mean Vatican ?\n\nYes of course, and then...",
+				"added": 1460970126
+			},
+			{
+				"comment_id": 5,
+				"body": "> [yo](#comment_9_1GtJqyJRsuZhmxVtw5USgvqGbUmVH7EmBD): ask the spider\n\nWho is??",
+				"added": 1461029905
+			},
+			{
+				"comment_id": 6,
+				"body": "> [yo](#comment_11_1GtJqyJRsuZhmxVtw5USgvqGbUmVH7EmBD): oh u dint get that? https://en.wikipedia.org/wiki/Red_Hot_Catholic_Love\n\nohm, thanks",
+				"added": 1461116121
+			}
+		],
+		"2_1Mk3gERhxwDymiFMnmMgpdwxYBPWNk6mmj": [
+			{
+				"comment_id": 7,
+				"body": "> [erkan](#comment_141_1H8oKiRa7fGgUqS1hpUtaSYLvAqkaknbkf): I am not sure if I understand:\n> \n> you want to open a ZeroNet page from Vietnam? \n> \n> if so: install ZN or use a proxy\n> \n> or put  alin k on a ZN page to a page into the normal internet ?\n\noki, thanks all!",
+				"added": 1461219122
+			}
+		]
+	},
+	"comment_vote": {}
+}

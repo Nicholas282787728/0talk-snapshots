@@ -1,0 +1,28 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 4,
+	"comment": {
+		"19_19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ": [
+			{
+				"comment_id": 1,
+				"body": "so what is this and what does it do?",
+				"added": 1473218300
+			}
+		],
+		"1_1Eb3jLeJMFfN5z7oUhNbiLqYn24fTofzEJ": [
+			{
+				"comment_id": 2,
+				"body": "> [datasnail](#comment_3_1DKDu26AWoNcw8rArqYNg1XceXDgVJWi61): Secondly, the way I understand, the ZeroNet actually reveals user identities even, if tunneled through Tor, because if a page has an image from the open-web, then the image is downloaded directly. The recommendation to poke holes to routers to allow connections to be initiated from WAN to LAN does not seem encouraging either. To me it seems that the ZeroNet is a glorious open-web application that will be shut down the moment internet connections get shut down, unlikehttp://www.silktorrent.chwhich is still a work in progress, not ready for prime time, but has at least counter-measures designed in from the very start.\n\nwhat about places where the internet is stable and safe?",
+				"added": 1473218821
+			},
+			{
+				"comment_id": 3,
+				"body": "> [datasnail](#comment_5_1DKDu26AWoNcw8rArqYNg1XceXDgVJWi61): Thank U 4 Your answer. If by \"safe internet\" You mean something like \"safe road to travel\", assuming that \"the internet\" is just a global tool for transferring data from one computer to another, then the analogy might be that if You are a bear or a tiger, then You might try to imagine, how many \"safe roads\" do You have, where You can walk without being shot by police/hunters/community-guards/anybody-with-a-gun? You might argue that there are some rural roads that get crossed all the time by wild life, but I guess that the \"travel plans\" of the wild life, specially predators, is much more constrained than the \"blacks\" had during the height of the segregation period. \n> Technically speaking, anything that uses TCP/IP tends to use some public infrastructure and all public infrastructure is de facto owned by the party that has the greatest capability and will to inflict violence. That's the reason, why internet service providers (ISP-s) allow FBI/KGB/STASI/whatever-have-you-at-your-home-region wiretap, spy on their clients. If they did not act as a restaurant that poisons its own clients on the request of the mafia, in this case, the State, would shut them down. A historic example from the USA:\n> https://lavabit.com/https://www.theguardian.com/technology/2013/aug/08/lavabit-email-shut-down-edward-snowden\n> Another examples are the North-Korea and Cuba. Of course, the list is incomplete. I suggest that You look at the video that is referenced from:\n> https://theintercept.com/a-conversation-about-privacy/\n> The only good news is that it is possible to transfer data through censored channels by using steganography. The idea is that meaning depends on the context and if the censoring party does not have the context, they do not understand that the color sequence of cloths hanging outside to dry might be a huge sign in plain sight of everybody. That's what even the Edward Snowden used for communicating with his girlfriend:\n> https://jezebel.com/edward-snowdens-girlfriend-posts-two-mysterious-new-blo-1691034461\n> I suggest that You use TorBrowser to look at the awesome stories that the former Cold War spies tell at\n> https://www.youtube.com/user/IntlSpyMuseum\n\nI guess what I mean is, what about places like the US and Canada where public internet - google, news sites, youtube, twitch, netflix, online gaming, etc - is so ingrained in most people's day-to-day that a total shutdown of TCP/IP would result in (or be due to) riots in the streets and the collapse of civilized society.\n\nSo as long as we have TCP/IP doesn't that mean we can run Zeronet overtop of it? And paired with VPN and Tor, would that not cloak users from all but the most dedicated 3-letter agency investigations?",
+				"added": 1473281174
+			}
+		]
+	},
+	"comment_vote": {}
+}

@@ -1,0 +1,16 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 2,
+	"comment": {
+		"1_1Nhc87fApEuLfZev9tu5wFnVt2CLpPjB1W": [
+			{
+				"comment_id": 1,
+				"body": "不错哦",
+				"added": 1461651343
+			}
+		]
+	},
+	"comment_vote": {}
+}

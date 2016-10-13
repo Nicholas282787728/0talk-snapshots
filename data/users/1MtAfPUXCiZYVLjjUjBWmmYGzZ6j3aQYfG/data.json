@@ -1,0 +1,23 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "Anonymous Hosting",
+			"body": "How secure is it to start hosting a site on ZeroNet? What would be the best method to completely anonymise yourself and be a peer on the network?",
+			"added": 1457298317
+		}
+	],
+	"topic_vote": {},
+	"next_comment_id": 2,
+	"comment": {
+		"1_1MtAfPUXCiZYVLjjUjBWmmYGzZ6j3aQYfG": [
+			{
+				"comment_id": 1,
+				"body": "Yes but what about backdoors/trojans/BIOS hacks/hardware vulnerabilities",
+				"added": 1457298873
+			}
+		]
+	},
+	"comment_vote": {}
+}

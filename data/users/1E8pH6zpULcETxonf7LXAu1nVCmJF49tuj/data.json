@@ -1,0 +1,19 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {
+		"1_1LNrRb51Zm19z31UNLnuc1wD2Mr5PwYYRr": 1
+	},
+	"next_comment_id": 3,
+	"comment": {
+		"1_1LNrRb51Zm19z31UNLnuc1wD2Mr5PwYYRr": [],
+		"1_18jipjDsfAxAuq4ixbi2w24xJrYVfTYFPn": [
+			{
+				"comment_id": 2,
+				"body": "Mexico",
+				"added": 1459659246
+			}
+		]
+	},
+	"comment_vote": {}
+}

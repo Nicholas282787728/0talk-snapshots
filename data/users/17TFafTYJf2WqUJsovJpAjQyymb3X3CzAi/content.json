@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "G1oiFSajtkTcqa+yiVM0GltQ4nhWUs5GDQmddir8E7fs+rkLdXNlvw1zoMmPCoYHY1GEa/+0rE+O2/Cn1AMOCmY=",
+ "cert_user_id": "ucansisman@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "df12fa461571a26ae8cea5e6a6ef3477ab843db53f355530d07e16206436519d",
+   "size": 263
+  }
+ },
+ "inner_path": "data/users/17TFafTYJf2WqUJsovJpAjQyymb3X3CzAi/content.json",
+ "modified": 1473264248.724,
+ "signs": {
+  "17TFafTYJf2WqUJsovJpAjQyymb3X3CzAi": "G8G8U2kNjpBagBuCo81M2Q7UJ4rs3enjEq0bmy/FpOPF+xJ0LRXRi9eWNiYNNHu22ex30dMSsVKophltcrzpRBU="
+ }
+}

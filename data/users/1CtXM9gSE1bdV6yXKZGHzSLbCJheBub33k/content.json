@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "G2FihKoNZ1+jp8U85AJiBsYU+2OjwzIxsEKxfMeLDvH6NiUbWcuaZ6toC8bf5srUOeOOu8sIPj6S/XgIIkRnXBw=",
+ "cert_user_id": "espectalll@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "f59749313f4f56cdf6905aa74804e5d262cc4e7684b3e2e907f213ceeef65793",
+   "size": 1122
+  }
+ },
+ "inner_path": "data/users/1CtXM9gSE1bdV6yXKZGHzSLbCJheBub33k/content.json",
+ "modified": 1473960970.398201,
+ "signs": {
+  "1CtXM9gSE1bdV6yXKZGHzSLbCJheBub33k": "HJ/Hc9OhzDblE2mHlIjX9CryrslVE0etgTc/SZJ0UsdgsxMD27yJQAqhhEsIAEtg4SHLEeTZG9kD3Vg2seJ8btw="
+ }
+}

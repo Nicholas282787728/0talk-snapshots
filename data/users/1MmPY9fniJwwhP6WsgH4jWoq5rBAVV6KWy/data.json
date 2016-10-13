@@ -1,0 +1,206 @@
+{
+	"next_topic_id": 7,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "TUR: Herkese selam!",
+			"body": "Post in here if you are from Turkey so that we can think of things to do here.",
+			"added": 1451161274
+		},
+		{
+			"topic_id": 2,
+			"title": "Spreading the G0SPEL: How?",
+			"body": "So, do you/we have any plans to introduce more people to ZeroNet so that we can have more content? Or is this a kind of chicken-egg dilemma? \n\nAny ideas, sugesstions? Does ZeroNet have an official \"propaganda\" method for it?",
+			"added": 1454527013
+		},
+		{
+			"topic_id": 3,
+			"title": "zerøbox: an idea",
+			"body": "Odroid C1+ (preinstalled with lubuntu and zeronet. starting zeronet during boot automatically, with basic services coming pre-downloaded)\n\n- email\n- blogging platform\n- forum\n- social networking (FBlike thing based on zeroID and a twitter-like thing maybe?)\n\nAlternatively this might be used to set up \"nodes\"\n\nWhat do you think?",
+			"added": 1454743735
+		},
+		{
+			"topic_id": 4,
+			"title": "twister-zerønet integration?",
+			"body": "Is that possible, if so, that would be nice to have some sort of social networking here.\nhttp://twister.net.co/",
+			"added": 1454746016
+		},
+		{
+			"topic_id": 5,
+			"title": "ØNET on",
+			"body": "Can we suggest ØNET as an alternative to Decentralized Social Networks category on Privacy Tools?\nhttps://www.privacytools.io/#network\n\nSince we now have TOR implemented, it might be a good way to promote ØNET.",
+			"added": 1455253115
+		},
+		{
+			"topic_id": 6,
+			"title": "Indiegogo/Kickstarter campaign for ØNET development?",
+			"body": "Does ZeroNet development team have any plans for fundraising such as the Tox guy did with IndieGoGo: https://www.indiegogo.com/projects/toxcore-development#/\n\nI think implementations such as DHT or Private Sites might be facilitated more quickly and more importantly that would get the word out there.\n\nAny plans @nofish ?\n\nAnd what do you guys think?",
+			"added": 1455439856
+		}
+	],
+	"topic_vote": {
+		"1_1MmPY9fniJwwhP6WsgH4jWoq5rBAVV6KWy": 1,
+		"2_1MmPY9fniJwwhP6WsgH4jWoq5rBAVV6KWy": 1,
+		"10_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf": 1,
+		"3_1MmPY9fniJwwhP6WsgH4jWoq5rBAVV6KWy": 1,
+		"4_1MmPY9fniJwwhP6WsgH4jWoq5rBAVV6KWy": 1,
+		"17_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf": 1,
+		"6_1MmPY9fniJwwhP6WsgH4jWoq5rBAVV6KWy": 1,
+		"1_1MZ6f3V1cBuhNwzajMVPu8vb1wRt1p6dpt": 1
+	},
+	"next_comment_id": 24,
+	"comment": {
+		"3_168qV1Xxp2EyszrzdECLUwXrn9wGYjDdar": [
+			{
+				"comment_id": 1,
+				"body": "> http://127.0.0.1:43110/1JLxELZqQ8C9V7BJMxBczfQVh4TVehwobC\n> http://127.0.0.1:43110/thelast.bit\n\nWill try to write a scifi series on here based only on obituaries.\ngot a domain for it ;)",
+				"added": 1451206716
+			},
+			{
+				"comment_id": 13,
+				"body": "OpenD6 Roleplaying Ruleset:\nhttp://127.0.0.1:43110/1Phwu1QykbfH5kC5EfkPgdPqN4VKGqrBi3",
+				"added": 1454961365
+			},
+			{
+				"comment_id": 14,
+				"body": "> [nippletwister](#comment_64_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf): content.json download failedMaybe you need sign the site and publish it.\n\nI'm on it right now.",
+				"added": 1454992242
+			},
+			{
+				"comment_id": 15,
+				"body": "> [nippletwister](#comment_64_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf): content.json download failedMaybe you need sign the site and publish it.\n\nIt should be up now, no?",
+				"added": 1454992558
+			},
+			{
+				"comment_id": 17,
+				"body": "Just cloned a copy of *Cyphernomicon*\nhttp://127.0.0.1:43110/1FEyaWnhzsH7DFMB1nBJYqfPBBjcHnwLCR",
+				"added": 1455214654
+			}
+		],
+		"10_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf": [
+			{
+				"comment_id": 2,
+				"body": "A twitter/facebook like social media based on ZeroIDs, like official one  just like ZeroBoard and ZeroTalk so that it makes finding new websites MUCH easier?",
+				"added": 1454564594
+			},
+			{
+				"comment_id": 5,
+				"body": "apart from those below, a zerøwallet (BTC, of course) linked to your zeroID to spend on zerømarket, tip good content creators, and simply to buy/sell",
+				"added": 1454744183
+			},
+			{
+				"comment_id": 9,
+				"body": "> [nippletwister](#comment_49_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf): There is btc wallet here: http://127.0.0.1:43110/zerowallet.bit\n\nCool, so it's a clone of coinb.in. Nice work, though I'd really like it if it can be linked to the zerønetID, and with a closer design to zerø style.",
+				"added": 1454747985
+			}
+		],
+		"9_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf": [
+			{
+				"comment_id": 3,
+				"body": "That kind of kills the point of demail.",
+				"added": 1454564696
+			}
+		],
+		"2_1MmPY9fniJwwhP6WsgH4jWoq5rBAVV6KWy": [
+			{
+				"comment_id": 4,
+				"body": "I guess porn will penetrate (no pun intented) into any kind of network eventually. Let's just hope that it's the good kind of porn, we will end up finding on 0NET with.",
+				"added": 1454564771
+			}
+		],
+		"3_1MmPY9fniJwwhP6WsgH4jWoq5rBAVV6KWy": [
+			{
+				"comment_id": 6,
+				"body": "also a possible spv zerøwallet for BTC?",
+				"added": 1454744286
+			},
+			{
+				"comment_id": 7,
+				"body": "@pycole:\nanything debian-based is a go, I think. It was just an idea to provide example for the concept; not a suggestion. So sure, xubuntu too, why not? :)",
+				"added": 1454747004
+			},
+			{
+				"comment_id": 8,
+				"body": "> [pycole](#comment_10_1KwTTgPRSTHFmmJAFBt6kQfdyNeSM5KJuH): An installable iso for this would be nice. As for anonymous twitter, there is an existing version known as Twister.\n\nThat would be the best solution for the social networking need in zerønet. But I think it requires the implementation of DHT in zerønet first, am I right?",
+				"added": 1454747215
+			},
+			{
+				"comment_id": 10,
+				"body": "> [pycole](#comment_12_1KwTTgPRSTHFmmJAFBt6kQfdyNeSM5KJuH): But weirdly enough, so little of the project donations have gone to DHT support.\n\nWhich reminds me, I should chip in. :) doing it right now.",
+				"added": 1454748251
+			},
+			{
+				"comment_id": 11,
+				"body": "> [pycole](#comment_13_1KwTTgPRSTHFmmJAFBt6kQfdyNeSM5KJuH): For DHT I take it?\n\nYup, I just sent some to that DHT wallet.",
+				"added": 1454748371
+			},
+			{
+				"comment_id": 12,
+				"body": "> [pycole](#comment_14_1KwTTgPRSTHFmmJAFBt6kQfdyNeSM5KJuH): Now if only I could remember where the hell my wallet is. I have like $5 worth in there.\n\nEvery satoshi counts.  :) And I think it'd open up new opportunities to have social networking and DHT implementation.",
+				"added": 1454748653
+			}
+		],
+		"5_167eTX5f6jJt4HPvfQqf2QuwdTFCnxJCf2": [
+			{
+				"comment_id": 16,
+				"body": "My favorite ØNET website, by far.",
+				"added": 1455121336
+			}
+		],
+		"5_1MmPY9fniJwwhP6WsgH4jWoq5rBAVV6KWy": [
+			{
+				"comment_id": 18,
+				"body": "on Privacy Tools -_-",
+				"added": 1455253816
+			}
+		],
+		"15_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf": [
+			{
+				"comment_id": 19,
+				"body": "if I understand correctly Hyperboria is totally different alternative, trying to achieve just another internet on the long run, through a mesh. So that makes it different, no?",
+				"added": 1455427112
+			},
+			{
+				"comment_id": 20,
+				"body": "I'll give Maelstorm a try, downloading to see what kind of content is currently available there.",
+				"added": 1455434805
+			}
+		],
+		"1_1CMYxdit4qq9QGk9DYRu2ruRPd2YDGckH8": [
+			{
+				"comment_id": 21,
+				"body": ">2 cents\nyou meant your two satoshis. :P",
+				"added": 1455740524
+			}
+		],
+		"3_1NRTwjkXBxbeyrWhUvik7pLVoxWtsSjHQi": [
+			{
+				"comment_id": 22,
+				"body": "something like http://torrenttunes.ml/ ?",
+				"added": 1457068524
+			}
+		],
+		"1_1MahZJTzjoEMMCv2jBReDWhyNGRhN5tvDq": [
+			{
+				"comment_id": 23,
+				"body": "Fuck bitnation. They recently switched to ETH. They just follow the hype.",
+				"added": 1457802942
+			}
+		]
+	},
+	"comment_vote": {
+		"1_1MmPY9fniJwwhP6WsgH4jWoq5rBAVV6KWy": 1,
+		"19_1PNyuY1iZqXBpft4ArouqcnE4pNRGYij5i": 1,
+		"5_1MmPY9fniJwwhP6WsgH4jWoq5rBAVV6KWy": 1,
+		"6_1MmPY9fniJwwhP6WsgH4jWoq5rBAVV6KWy": 1,
+		"10_1KwTTgPRSTHFmmJAFBt6kQfdyNeSM5KJuH": 1,
+		"11_1KwTTgPRSTHFmmJAFBt6kQfdyNeSM5KJuH": 1,
+		"49_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf": 1,
+		"13_1KwTTgPRSTHFmmJAFBt6kQfdyNeSM5KJuH": 1,
+		"12_1KwTTgPRSTHFmmJAFBt6kQfdyNeSM5KJuH": 1,
+		"14_1KwTTgPRSTHFmmJAFBt6kQfdyNeSM5KJuH": 1,
+		"10_17i7Y7r8nTaCfLbCAuaKyc4R5BbKZYU2Hr": 1,
+		"236_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"22_1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD": 1
+	}
+}

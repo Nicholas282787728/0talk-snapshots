@@ -1,0 +1,36 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {
+		"1_1PtBsWdYdHUgzAcJhtAMzMbMYASxhFARgG": 1,
+		"24_1CMYxdit4qq9QGk9DYRu2ruRPd2YDGckH8": 1,
+		"4_19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ": 1,
+		"7_19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ": 1
+	},
+	"next_comment_id": 3,
+	"comment": {
+		"1_1GKVos5hEJ2zKjKfjXurFCfxwjtvT2CD28": [
+			{
+				"comment_id": 1,
+				"body": "I ❤ Cheesus crisp",
+				"added": 1468360597
+			}
+		],
+		"24_1CMYxdit4qq9QGk9DYRu2ruRPd2YDGckH8": [
+			{
+				"comment_id": 2,
+				"body": "It was a staged coup, right from Hitler's playbook if you ask me: http://www.historylearningsite.co.uk/nazi-germany/the-night-of-the-long-knives/\n\n\"Herr Adolf Hitler, the German Chancellor, has saved his country. Swiftly and with exorable severity, he has delivered Germany from men who had become a danger to the unity of the German people and to the order of the state. With lightening rapidity he has caused them to be removed from high office, to be arrested, and put to death.The names of the men who have been shot by his orders are already known. Hitler’s love of Germany has triumphed over private friendships and fidelity to comrades who had stood shoulder to shoulder with him in the fight for Germany’s future.\n\nDaily Mail, July 2nd 1934.\"",
+				"added": 1468966054
+			}
+		]
+	},
+	"comment_vote": {
+		"2_17XDNm3iVm67Re24bwsdYKQh6w9dUBzYoX": 1,
+		"9_1Gtj7AdXhzMFUVVvFm2ZGCbTFdgNwdtuMn": 1,
+		"3_13U9mRgV3bdkXiNXjMZeBWTcSHZjgNmk2z": 1,
+		"70_1CMYxdit4qq9QGk9DYRu2ruRPd2YDGckH8": 1,
+		"3_13hcYDp4XW3GQo4LMtmPf8qUZLZcxFSmVw": 1,
+		"1_15HtoZZhqyYzQRhCjNxRZoXyYmLu75oy8n": 1,
+		"21_1HrRNH7KbdxMjwLmwrHmZqJrzVZVDKc9bF": 1
+	}
+}

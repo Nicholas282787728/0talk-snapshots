@@ -1,0 +1,35 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 5,
+	"comment": {
+		"1_14yb6qdkbYmhqt6rVxUqXo65s4i63BffAr": [
+			{
+				"comment_id": 1,
+				"body": "cria um irc chat em PT pra galera assim fica mais pratico",
+				"added": 1457576984
+			}
+		],
+		"1_12ve3nmRvDkay7puHnhTT5pgqAo9Uo8ee6": [
+			{
+				"comment_id": 2,
+				"body": "alguem tem um irc chat da galera PT/BR ? so acho sala de argentino e a padrão em ingles",
+				"added": 1457577088
+			}
+		],
+		"10_1MaXyfVAZyyRfY2n8G81sVwRuUZhnzDLX": [
+			{
+				"comment_id": 3,
+				"body": "cria um chat em portugues que aparece mais gente",
+				"added": 1457747901
+			},
+			{
+				"comment_id": 4,
+				"body": "tipo esse http://127.0.0.1:43110/main.0rc.bit que é o original como tem um em frances e outro em ingles se tiver um em portuga fica mais facil",
+				"added": 1457753211
+			}
+		]
+	},
+	"comment_vote": {}
+}

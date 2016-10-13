@@ -1,0 +1,191 @@
+{
+	"next_topic_id": 6,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "Blocking users/hiding topics?",
+			"body": "Is it possible to block posts from specific users, or hide posts you're not interested in seeing? Looking for basic SPAM management.",
+			"added": 1457073090
+		},
+		{
+			"topic_id": 3,
+			"title": "Mirroring web sites",
+			"body": "In a comment thread someone posted a link to a page on an external web site. For one off pages you can mirror it in ZeroNet so others don't need to leave to the external web. I did it with `wget`:\n\n     wget --no-parent --timestamping --convert-links --page-requisites \\\n              --no-directories --no-host-directories --span-hosts \\\n             --adjust-extension --no-check-certificate -e robots=off \\\n              -U 'Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.8.1.6) Gecko/20070804' \\\n              http://example.com/some/page/\n\nThe results end up in the current directory. I created a ZeroNet site for my own shares and put it in there.  To give you an idea of what you get, the site I tried it on is [here](/14DsvqL8GRPQ63D87eVB2sWsppJNs3r4Ew/mirror/visa-looks-senior-blockchain-developer/index.html).\n\n(`wget` command shamelessly borrowed from how I've seen sites mirrored on Freenet)",
+			"added": 1457075761
+		},
+		{
+			"topic_id": 4,
+			"title": "Zero Bird Competition",
+			"body": "I'm addicted to [Zero Bird Competition](/16nsEmQ1ErcdNRpe7zmSg5eF2Y1zQpuURp) and it needs more players so I can start ignoring it. It's Zero Bird but with high scores stored by ZeroId.",
+			"added": 1457262081
+		},
+		{
+			"topic_id": 5,
+			"title": "What is the future of decentralized web publishing?",
+			"body": "An excuse to [link to a ZeroPoll](/ZeroPolls.bit/?Poll:2-1EMpuiFM1NLZmAVyoAWnwi8VwiZVV4dcnN). Which of the set of software in the poll do you think is likely to be the future of decentralized web publishing?",
+			"added": 1457438098
+		}
+	],
+	"topic_vote": {
+		"3_1MxdAjWgnqwCaunGHmhY39tVR51qV3peJL": 1,
+		"1_1EMpuiFM1NLZmAVyoAWnwi8VwiZVV4dcnN": 1,
+		"2_1MxdAjWgnqwCaunGHmhY39tVR51qV3peJL": 1,
+		"5_1KwTTgPRSTHFmmJAFBt6kQfdyNeSM5KJuH": 1
+	},
+	"next_comment_id": 27,
+	"comment": {
+		"2_1GCsW9TFfjDsvcdmKPADq1n8Q3ha72UtDQ": [],
+		"3_1MxdAjWgnqwCaunGHmhY39tVR51qV3peJL": [
+			{
+				"comment_id": 2,
+				"body": "Hope for donations? The address for each site is a valid bitcoin address and can receive coins. Site owners can import the private key for the site to access it. Do you have a site? I can send a small bitcoin amount if anyone wants to test.",
+				"added": 1457073204
+			},
+			{
+				"comment_id": 9,
+				"body": "> [freak](#comment_3_1N9vyd78w2N6174aLsw7FvCk5Lij3Bu33Y): how trustworthy are you odd?\n\nNot at all? Why would I need to be trustworthy if I was offering to send?",
+				"added": 1457075888
+			}
+		],
+		"2_1MxdAjWgnqwCaunGHmhY39tVR51qV3peJL": [
+			{
+				"comment_id": 3,
+				"body": "VISA probably wants their own blockchain like every other financial institution seems to desire.",
+				"added": 1457073347
+			},
+			{
+				"comment_id": 8,
+				"body": "The link didn't work for me but I found it. I [mirrored it on ZeroNet](/14DsvqL8GRPQ63D87eVB2sWsppJNs3r4Ew/mirror/visa-looks-senior-blockchain-developer/index.html) so you can read it without visiting the site.",
+				"added": 1457075481
+			}
+		],
+		"2_1EMpuiFM1NLZmAVyoAWnwi8VwiZVV4dcnN": [],
+		"7_1MxdAjWgnqwCaunGHmhY39tVR51qV3peJL": [
+			{
+				"comment_id": 5,
+				"body": "> [ripper234](#comment_14_1MxdAjWgnqwCaunGHmhY39tVR51qV3peJL): Allow me to delete my posts & comments from ZeroTalk.(Deletion doesn't prevent someone from caching the content themselves, just effectively hides them).\n> While we're at it, allow me to edit my posts.\n\nYou can delete and edit posts. Hover by the title and you'll see a little pencil icon.",
+				"added": 1457074753
+			}
+		],
+		"2_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": [],
+		"1_1A6hcWNpQ9SSLoTTpuT19VsVQ6WCVRkyen": [],
+		"2_17PhTjw3o2wPhxyKeM3Ss975eWZ1UMsjQC": [
+			{
+				"comment_id": 11,
+				"body": "This is a problem unfortunately. If you use tor you make it more difficult for the fact that you are sharing the image to be tracked to you. It's still on your computer unencrypted though so if your computer is seized or searched you'll be in trouble. This could happen if you take it in to be repaired or cross an international border.\n\nIdeally ZeroNet would encrypt the data files on disk. I hope that happens at some time. It'd be nice if image boards had their NSFW files set to 'optional' so users could choose to share them.",
+				"added": 1457135113
+			}
+		],
+		"8_1MxdAjWgnqwCaunGHmhY39tVR51qV3peJL": [
+			{
+				"comment_id": 12,
+				"body": "I've registered [0talk.bit](/0talk.bit) and directed that to the ZeroTalk site. That should be nice and short to type.",
+				"added": 1457135984
+			}
+		],
+		"1_16bxMyoL49mWYhcZKBYVBT5zEFW9SQpiao": [
+			{
+				"comment_id": 13,
+				"body": "You can just use the minimal JSON of:\n\n    {\"zeronet\":{\"\":\"...address...\"}}\n\nFrom the command line client I do:\n\n    namecoin-cli name_firstupdate d/myname '{\"zeronet\":{\"\":\"...address...\"}}'",
+				"added": 1457172693
+			}
+		],
+		"5_1Kg7CXZM5h3wTPENsTDwWUmRBf9VhYy2cW": [
+			{
+				"comment_id": 14,
+				"body": "You might want to change the title of your post since it's been noted that you're not exposing your identity to anyone on your network.",
+				"added": 1457306003
+			},
+			{
+				"comment_id": 16,
+				"body": "> [vermilllion](#comment_4_16k9pNCerEdsZvWU82HMesThKFo9fofRfz): Only works on LAN networks, but other than that this is ripe for abuse, I might just have fun with it myself.\n\nIt doesn't work on LAN networks either. The ZeroNet client binds to localhost meaning it's only accessible from the local machine. If it's accessible elsewhere it's a bug.",
+				"added": 1457326824
+			}
+		],
+		"1_1MtAfPUXCiZYVLjjUjBWmmYGzZ6j3aQYfG": [
+			{
+				"comment_id": 15,
+				"body": "> [zeromail](#comment_1_1MtAfPUXCiZYVLjjUjBWmmYGzZ6j3aQYfG): Yes but what about backdoors/trojans/BIOS hacks/hardware vulnerabilities\n\nIf you're having issues with backdoors, trojans, etc then nothing will keep you anonymous.",
+				"added": 1457306077
+			}
+		],
+		"1_17oYQdLkvyzEVPH3hXRtK3ru4FLNKZUD3b": [
+			{
+				"comment_id": 17,
+				"body": "> [cub3](#comment_22_1LRrd96P7FiTcsyNXVzPM5jtpQoH1B4gYf): \n> Then there's the problem of automatically seeding content. Someone posts a link, you click on it and boom! you're sharing something that may be ilegal in your country. \n\nA delay before seeding might be useful. When you visit a site it doesn't seed for X minutes with an option to \"Seed immediately\" in the sidebar.",
+				"added": 1457393941
+			}
+		],
+		"5_1KwTTgPRSTHFmmJAFBt6kQfdyNeSM5KJuH": [
+			{
+				"comment_id": 18,
+				"body": "Maybe they should just accept the address portion and generate the URL internally based on that. They can use a regex that allows any host/port and extract the first Address looking thing after it.",
+				"added": 1457490915
+			}
+		],
+		"1_19LkvdTE3CmnUApuSwY8KGbm7n7sWCNEPC": [
+			{
+				"comment_id": 19,
+				"body": "> [ekaterina](#comment_103_1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD): The domain pricing is a bit weird. The Namecoin docs say it costs 0.02 namecoin to fully register a domain. However, when I registered one for a ZeroNet site it emptied my whole 0.0248 stash (received from a faucet) of namecoins. So maybe there is no exact price and it is somewhere around 0.02 namecoin.\n\nYou probably got hit by a network transaction fee. This will be priced higher if your transaction is composed of many small inputs - like what you'd receive from a faucet.",
+				"added": 1457658334
+			}
+		],
+		"1_1GEfAcFWh3oXfFHzQeDdAmKtoJKmBtU4rz": [
+			{
+				"comment_id": 20,
+				"body": "WebRTC won't work for nodes that use Tor will it? That aside, getting the list of peers won't be much use since most of those peers won't be running a web browser and looking at the site. The IP address of the peer may not be the IP address of the web browser if they're using a VPN or a proxy. You want the IP address of the users viewing the site.",
+				"added": 1457658556
+			},
+			{
+				"comment_id": 21,
+				"body": "> [charles](#comment_3_1GEfAcFWh3oXfFHzQeDdAmKtoJKmBtU4rz): Ah yeah I just took a look. Sigh. I like the functionality of webrtc and thought it would be awesome. Oh well I wanna see at least if it is even possible.\n\nMost of the web torrent libraries use webrtc so it would be great for that. Also for voice/video calls. Torrent capability could be made part of ZeroNet as an extension probably. Think something like optional files but they're served by torrent instead.",
+				"added": 1457669362
+			}
+		],
+		"1_1KPRZRpbJtMeTWDQ2zFWoTTzuGRft39HfC": [
+			{
+				"comment_id": 22,
+				"body": "I've used reddit over tor for quite a while - no issues so far.",
+				"added": 1457955359
+			}
+		],
+		"6_1NzjwWNcVjsX1ndBgkgC1EM5EUzMACGm8L": [
+			{
+				"comment_id": 23,
+				"body": "I see what you are trying to do. Use a local IPFS instance if it's running otherwise fall back to the public IPFS proxies. It doesn't work for me - either the proxies are overloaded or possibly they download the entire file before starting the stream.\n\nIn the <video> element you have fallback code for the non-JavaScript case. You can remove this for ZeroNet since you must have JS.\n\nNote that IPFS doesn't hide the streamers IP. This means both the receiver of the stream and the streamer can be identified. The ZeroNet user would need to be running Tor not just for Zeronet but for the browser as well. If they're using a local IPFS instance then they are identifiable until IPFS gets a Tor transport. This may not matter if you're streaming content you own.",
+				"added": 1458188703
+			},
+			{
+				"comment_id": 24,
+				"body": "> [o4zw5vmpoz5hz78z](#comment_107_1KTjPe9MxoYkcXj78GuZgCcj3R3f3Twh7r): You hit the Play Button, right?\n\nYes, I hit the play button. Possibly the IPFS proxies don't like Tor?",
+				"added": 1458522695
+			}
+		],
+		"4_1EMpuiFM1NLZmAVyoAWnwi8VwiZVV4dcnN": [
+			{
+				"comment_id": 25,
+				"body": "The high score cheating really killed the popularity of this game.",
+				"added": 1459069700
+			}
+		],
+		"10_1LRrd96P7FiTcsyNXVzPM5jtpQoH1B4gYf": [
+			{
+				"comment_id": 26,
+				"body": "> [bukaking](#comment_43_17n5jg4bBEoWodXDf8L4Y2u88ShagS272Y): Sure but ZeroNet could also switch over to IPFS in such a time frame (if there is a benefit to) and ZeroNet works today! \n\nSwitching to IPFS would be a loss in privacy. IPFS doesn't run over Tor and reveals the IP address of all seeders.",
+				"added": 1460089033
+			}
+		]
+	},
+	"comment_vote": {
+		"415_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"7_1DcDDitsjFJohvwonPmpibRChmA7uGxqL7": 1,
+		"7_14XqxwpdedXGY2FiUhvV3KVPkKTsABqGcm": 1,
+		"450_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"91_1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD": 1,
+		"93_1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD": 1,
+		"59_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1,
+		"471_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"591_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"49_18rFd7W9y5QGQEVXaCoJV7jyt7D8aN156h": 1
+	}
+}

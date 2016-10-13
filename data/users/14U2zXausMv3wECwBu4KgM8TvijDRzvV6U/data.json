@@ -1,0 +1,23 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "ZeroNet Gaming Community.",
+			"body": "I'm creating this Gaming Community for fellow Gamers that want to share their PSN, XBL, STEAM, ORIGIN Account names to play with eacher other. Post your IGN's down below...",
+			"added": 1457612344
+		}
+	],
+	"topic_vote": {},
+	"next_comment_id": 2,
+	"comment": {
+		"2_1GCsW9TFfjDsvcdmKPADq1n8Q3ha72UtDQ": [
+			{
+				"comment_id": 1,
+				"body": "C++, Python.",
+				"added": 1457611990
+			}
+		]
+	},
+	"comment_vote": {}
+}

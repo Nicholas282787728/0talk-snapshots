@@ -1,0 +1,32 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "How can I create another zeroID?",
+			"body": "please help",
+			"added": 1459329814
+		}
+	],
+	"topic_vote": {},
+	"next_comment_id": 3,
+	"comment": {
+		"1_18jipjDsfAxAuq4ixbi2w24xJrYVfTYFPn": [
+			{
+				"comment_id": 1,
+				"body": "China, many more to come... lol",
+				"added": 1459328980
+			}
+		],
+		"2_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": [
+			{
+				"comment_id": 2,
+				"body": "what happen?",
+				"added": 1459329699
+			}
+		]
+	},
+	"comment_vote": {
+		"1_12xLFQDWGFGMnGKrKXApP3ttnvzhQW21sZ": 1
+	}
+}

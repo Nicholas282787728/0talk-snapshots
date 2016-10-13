@@ -1,0 +1,281 @@
+{
+	"next_topic_id": 5,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "Wanna bring down TPTB? Learn how they control you.",
+			"body": "[**Anatomy of the State**](magnet:?xt=urn:btih:BF152075EC0341DACC259471AF3D510FDFC036C5&dn=anatomy+of+the+state&tr=udp%3A%2F%2Ftracker.publicbt.com%2Fannounce&tr=udp%3A%2F%2Fglotorrents.pw%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce)",
+			"added": 1467850767
+		},
+		{
+			"topic_id": 2,
+			"title": "ROM Central borked?",
+			"body": "http://127.0.0.1:43110/1MQMC37hiMd27thStg2BhVH8XDhn5FQzbZ\n\ncontent.json states +roms http://127.0.0.1:43110/1MQMC37hiMd27thStg2BhVH8XDhn5FQzbZ/content.json\n\nHow2getRoms?",
+			"added": 1470842710
+		},
+		{
+			"topic_id": 3,
+			"title": "How to Bypass ZeroTorrent or ZeroTalk quotas by creating new user accounts",
+			"body": "The MultiUser plugin offers the function to create new user ID and ZeroID accounts and bypass the quota limit. To enable it, rename `ZeroNet/plugins/disabled-Multiuser` to `ZeroNet/plugins/Multiuser` then restart ZeroNet. And you can disable again renaming the folder to disabled-Multiuser and restarting ZN.\n\n&nbsp;\n\n##How to change users in Multiuser plugin\n\nYou can change your account by clicking in the `user ID` button, up in the [New ZeroHello home](http://127.0.0.1:43110/1HeLLo4uzjaLetFx6NH3PMwFP3qbRbTf3D/) on the top right (the fourth from the right). And you press `logout.`\n\nThen you can login by clicking again in that button and you must provide your `master seed`. Thats your new profile, which can be whatever you want.\n\n- Thanks to [Talnicron](http://127.0.0.1:43110/Me.ZeroNetwork.bit/?Profile/1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL/19M1DT5vruSATEcbEczYRwCk2uPuLcATBa/talnicrom@zeroid.bit) for bringing this up and [Riotpulv](http://127.0.0.1:43110/Me.ZeroNetwork.bit/?Profile/1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL/1EZG8eDkCFvNkYxpHmr2WbGWcSxAsRfqTT/riotpulv@zeroid.bit) for further info. \n\n\n***\n#Alternative #1\n\nYou can also change users manually without the plugin. Reference in [ZeroDocs](http://127.0.0.1:43110/17Kom2G5qNDc6NaQwv445h1gFzxkY3ZtZe/faq/?wrapper_nonce=702f77904c629c1e97ab52922bf7abc17e3c093a075fb9604735a06e8e1e5907#can-i-use-the-same-username-on-multiple-machine) (If you know the developers ask them for more details and to include instructions about the plugin).\n\nCopy the `ZeroBundle/ZeroNet/data/users.json` file in your ZN program folder to another folder. Erase the file and restart ZN. You can restore your first user by copying the new file to another folder and overwriting it by the first `users.json` file.\n\n***\n#Alternative #2\n\nUse these proxies, open them in your browser while ZN is running:\n\n1. https://proxy1.zn.kindlyfire.me\n\n2. http://wrewolf.com:43110\n\n3. https://bit.no.com:43110\n\n4. https://zero.acelewis.com/#ZeroNetwork.bit\n\n***\n#Alternative #3\n\nYou can edit `user.json` in your data folder and change the firsts lines:\n\n    \"certs\": {\n    \"zeroid.bit\": {\n    \"auth_address\": \"1...\",\n    \"auth_privatekey\": \"5...\",\n    \"auth_type\": \"web\",\n    \"auth_user_name\": \"username\",\n    \"cert_sign\": \"...\"\n    }\n    }\n\nPlease save you old `\"zeroid.bit\": { [...] }` in a safe place: it is your old identity. Also save the entry about ZeroID which contains the string `1iD5ZQJMNXu43w1qLB8sfdHVKppVMduGz`.\n\nYou need to delete this line `\"certs\": { [...] }` and replace with `\"certs\": {}`. You also need to delete the ZeroID entry. When you restart ZN then you can create a new ZeroID identity and switch between the multiple ones changing the `\"zeroid.bit\": { [...] }` on the `user.json` file.\n\n* Thanks [zeropunto](http://127.0.0.1:43110/Talk.ZeroNetwork.bit/?Topic:7_19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ#comment_6_1wnjTS6YRUp6Q6yjECuoh1o28TPkvrnq2) for this alternative method. And [kensan](#comment_47_1LUP6SN7WrXAH7e5bUFxdmrVsFr2m43XB4) for more details.\n\nPlease report if you try any of these methods so we can improve the guide.",
+			"added": 1471116199
+		},
+		{
+			"topic_id": 4,
+			"title": "Anonymous - The Time To Unplug Is Now - OperationMatrix",
+			"body": ">##Now it is time to unplug completely\n\n>##Truth is indisputable\n\n>##It is us versus a system that became corrupt.\n\n#Anonymous - The Time To Unplug Is Now - OperationMatrix\n\n[magnet link](magnet:?xt=urn:btih:52f0108c9fe7e11d0fca4e5dc37d1ba342e92117&dn=Anonymous%20-%20The%20Time%20To%20Unplug%20Is%20Now%20-%20OperationMatrix.mp4&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.piratepublic.com%3A1337%2Fannounce)\n\n**!!!tracked!!!** https://www.youtube.com/watch?v=pfpBuUd5kzs",
+			"added": 1471220200
+		}
+	],
+	"topic_vote": {
+		"10_1MEWJRMLgvofqG9Mbsb2Rc4hFFyv7HeRx7": 1,
+		"1_1AK1hfaXrnxZL8wPJ5x47HuGCM8BXRFUS4": 1,
+		"1_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG": 1,
+		"1_1ET7iT2Cot3uksKiR9TEvj5RSpqRUgJiso": 1,
+		"10_1KdnTJVBGzEZrJppFZtzfG9chukuMv8xSb": 1,
+		"1_1DjUq8hd2jYZgc5uNhQEtWUVZjMHkMQkpU": 1,
+		"7164_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG": 1,
+		"7163_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG": 1,
+		"7170_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG": 1,
+		"5_1LUP6SN7WrXAH7e5bUFxdmrVsFr2m43XB4": 1,
+		"1_16urzDUk5S1EYSaL8XGaJav7BicYSnsxe3": 1,
+		"2_1PCPuVtFv8apVpXYbc46wHugNhFUVQ6KCv": 1,
+		"9_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1,
+		"7212_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG": 1,
+		"1_1Dj5WCaPV2r18QcDQFHmyx2HnGmwMJce9b": 1,
+		"7_19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ": 1,
+		"8_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"3_1PVcdu7USZH2kHMETbqDYLPjJZKCDWM52k": 1,
+		"1_14x4EC7s5TqvtShMQy22xpj8ouVSmSNZY8": 1,
+		"8_19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ": 1,
+		"7319_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG": 1,
+		"1_1HvZzixBMnPehyouwx83zNYK3E97MrUVxS": 1,
+		"1_1P6rReMY7WD7qNmUXntLJoa1XptgiHkhz3": 1,
+		"1_13Cqt2MSFS6eu4cbVuByZBuULrEAcZAqFG": 1
+	},
+	"next_comment_id": 30,
+	"comment": {
+		"10_1MEWJRMLgvofqG9Mbsb2Rc4hFFyv7HeRx7": [
+			{
+				"comment_id": 1,
+				"body": "> [rainzee](#comment_1_1PyXTS95EekMJXmChDGxvLjjs1vn7Kmieh): this is a web without internet deepweb is bullshit. if u belive it u r stupid\n\nFound the second shill",
+				"added": 1467850407
+			}
+		],
+		"2_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": [
+			{
+				"comment_id": 2,
+				"body": "If you use asterisks [\\*], you can add *italics* and **bold** to your text, like this:\n\n    this is *italics*\n    this is **bold**\n    *this sentence is italics*\n    **this sentence is bold**\n\nResults:\nthis is *italics*\nthis is **bold**\n*this sentence is italics*\n**this sentence is bold**",
+				"added": 1467851108
+			}
+		],
+		"1_1AhXDbKvcLap7TcS2542J7bFYzKHM3xeRU": [
+			{
+				"comment_id": 3,
+				"body": "Anarchy is \"without rulers\", to live your life the way you want, without other people bossing you around, specially feminists, primitivists, anti-white, anti-religion haters like this fool, don't let him peddle fake liberty to you. [Read a book, or 10, about true anarchy and liberty that is **Anarcho-capitalism.**](https://www.lewrockwell.com/2001/12/hans-hermann-hoppe/anarcho-capitalism-2/)",
+				"added": 1467852559
+			},
+			{
+				"comment_id": 4,
+				"body": "> [o4zw5vmpoz5hz78z](#comment_118_1KTjPe9MxoYkcXj78GuZgCcj3R3f3Twh7r): as i see Anarchism will only work if we coach all people how to be responsibil for themself\n\nYes this is how you do it. Everyone has their own stuff and have to know how to be a proper responsible owner. It is [Anarcho-capitalism.](https://www.lewrockwell.com/2001/12/hans-hermann-hoppe/anarcho-capitalism-2/)",
+				"added": 1467852757
+			}
+		],
+		"1_1DjUq8hd2jYZgc5uNhQEtWUVZjMHkMQkpU": [
+			{
+				"comment_id": 5,
+				"body": "Lol read my mind",
+				"added": 1470464254
+			}
+		],
+		"2_1AZjDLkfYwSmjM7ZJUf7HHnrF778augRMa": [],
+		"7170_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG": [
+			{
+				"comment_id": 7,
+				"body": "Investors should have demanded insurance. The Chinese that lost money were too naive to think the good reputation of Bitcoin can guarantee good results when trusting such large sums.",
+				"added": 1470498407
+			}
+		],
+		"9_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": [
+			{
+				"comment_id": 8,
+				"body": "Everything media can be be done by BitTorrent. We need zites that integrate torrent content, a small html div element that is integrated on your bittorrent client, activates a download and displays content on the zite.",
+				"added": 1470659568
+			}
+		],
+		"1_1Dj5WCaPV2r18QcDQFHmyx2HnGmwMJce9b": [
+			{
+				"comment_id": 9,
+				"body": "People supporting these ideas are very naive concerning the individual human concern for life. Skillful workers and companies don't produce electricity out of sheer good intentions, they couldn't even if they wanted to. There must be appropriate compensations, material or otherwise. Your idea about basic human requirements doesn't solve that, it is just a way for you to make good wishes.\n\nBe sincere, how much of this is because you were raised by your family to feel entitled to modern conveniences such as electricity and water supply? Billions of people in the world don't have these conveniences because there are no trained and skillful workers and entrepreneurs to provide them. Either criminals or the government would take away their compensation, or there is just not enough compensation.\n\n[Look up Anarcho-capitalism](http://archive.lewrockwell.com/hoppe/hoppe5.html) to solve this challenge in a way that produces the most social peace, goods and services the most cheaply and most reliably.",
+				"added": 1470821544
+			},
+			{
+				"comment_id": 17,
+				"body": "> [kaffie](#comment_143_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh): nonsensical to me that we spend our taxes on anything, while there's still people starving\n\nProblem is, good intentions don't fix politics, no matter how much you wish it. Taxes and politics are tools of the state. The state is the socially sanctioned monopoly of violence. Asking them to play nice won't fix that. We need society organized on consent and production, like individual rights allow.",
+				"added": 1470995739
+			},
+			{
+				"comment_id": 24,
+				"body": "> [graveyardswatch](#comment_28_1HrRNH7KbdxMjwLmwrHmZqJrzVZVDKc9bF): Better seek professional help now\n\nYour previous argument about reliance on your own actions and not dependency on external agents and wishful thinking was much more constructive, even if stinging and hostile. Now your sarcasm is just vague insinuations. Even if starcodesys is wrong on a lot of things, it is most useful for you, everyone else, and even him, if you provide that sharp and clear confrontation.",
+				"added": 1471180831
+			},
+			{
+				"comment_id": 26,
+				"body": "> [starcodesys](#comment_7_1Dj5WCaPV2r18QcDQFHmyx2HnGmwMJce9b): The idea of free energy for all sounds foreign and infringing to commerce\n\nThat is a cheap straw man. It is not \"commerce\" to highlight that people have to think and act with limited information and specific goals on the world they live in. A group of politically (coercively) arranged people that attempts to control scarce resources that each individual produces will bring conflicts and expropriation. Read [**Anatomy of the State.**](https://mises.org/library/anatomy-state)",
+				"added": 1471187107
+			}
+		],
+		"7_19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ": [
+			{
+				"comment_id": 10,
+				"body": ">[genericusername: ](#comment_7_14ng1wByxwoNXAhihYbpgyarVJbFiqs8ny) as good as what KickAssTorrents\n\nNo need to worry so far ahead. Make it as good as ZeroTorrent.bit first. That would be amazing.",
+				"added": 1470825019
+			},
+			{
+				"comment_id": 11,
+				"body": "0list thread: http://127.0.0.1:43110/0list.bit/?Topic:23_19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ/KICKASS+TORRENTS",
+				"added": 1470825510
+			},
+			{
+				"comment_id": 19,
+				"body": "[How to Bypass ZeroTorrent or ZeroTalk quotas by creating new user accounts](http://127.0.0.1:43110/Talk.ZeroNetwork.bit/?Topic:3_164W1rFVD9Bm7poGJWvjVUjvkbhhFC5nnt/How+to+Bypass+ZeroTorrent+or+ZeroTalk+quotas+by+creating+new+user+accounts)",
+				"added": 1471117180
+			},
+			{
+				"comment_id": 20,
+				"body": "> [zeropunto](#comment_6_1wnjTS6YRUp6Q6yjECuoh1o28TPkvrnq2): Multiuser is different from new user account.\n\nWhat exactly is multiuser then? When I enable it, I get a new cert_sign. Can you please reply on the other thread?\n\n>[How to Bypass ZeroTorrent or ZeroTalk quotas by creating new user accounts](http://127.0.0.1:43110/Talk.ZeroNetwork.bit/?Topic:3_164W1rFVD9Bm7poGJWvjVUjvkbhhFC5nnt/How+to+Bypass+ZeroTorrent+or+ZeroTalk+quotas+by+creating+new+user+accounts)",
+				"added": 1471121805
+			}
+		],
+		"10_1KdnTJVBGzEZrJppFZtzfG9chukuMv8xSb": [
+			{
+				"comment_id": 12,
+				"body": "> [newuser123](#comment_43_1PCPuVtFv8apVpXYbc46wHugNhFUVQ6KCv): So it's war then, is it?\n\nAnd you lost.",
+				"added": 1470859974
+			},
+			{
+				"comment_id": 13,
+				"body": "> [quadrangle](#comment_25_1CTut2qbaj54ZjNoYeuWSGwV75iVieKY6N): if you [follow] a red it infects you\n\nThey are using biological weapons! Launch the nukes! Code Cerulean Blue!",
+				"added": 1470861545
+			},
+			{
+				"comment_id": 14,
+				"body": "> [quadrangle](#comment_26_1CTut2qbaj54ZjNoYeuWSGwV75iVieKY6N): the comments were sorted ~~oldest first~~ *oldnetily*\n\nFTFW dont b oldnetpleb. U r lettin Bluhub dwn",
+				"added": 1470862006
+			}
+		],
+		"3_164W1rFVD9Bm7poGJWvjVUjvkbhhFC5nnt": [
+			{
+				"comment_id": 22,
+				"body": "> [riotpulv](#comment_15_1EZG8eDkCFvNkYxpHmr2WbGWcSxAsRfqTT): You can change your account by clicking in the \"user ID\" button (up in the ZeroNet home), and then you press logout.\n\nI tried that earlier and didn't work for some reason. I will try again soon. Thank you riotpulv!",
+				"added": 1471122957
+			},
+			{
+				"comment_id": 27,
+				"body": "> [kensan](#comment_47_1LUP6SN7WrXAH7e5bUFxdmrVsFr2m43XB4): Alternative N°3: substitute \"certs\": { [...] }  with \"certs\": { } \n\nI updated and added all the information, thank you.",
+				"added": 1471213863
+			}
+		],
+		"1_1HvZzixBMnPehyouwx83zNYK3E97MrUVxS": [
+			{
+				"comment_id": 25,
+				"body": ">[cyberczar](#comment_1_1CZmWJcNTU9W3f8bKSkbFVzpX3puxL7kUR): don't speak for anyone [fuck] off and die.\n\nIt is because of **hatemongering histrionic drama queens** like you that OP used \"homo.\" You are the most manipulated people by TPTB and you attempt to shut people down and **ask for uniformed thugs to KILL people just for disagreeing.** You are the your narrow-minded self-absorbed useful idiot.",
+				"added": 1471186513
+			}
+		],
+		"4_164W1rFVD9Bm7poGJWvjVUjvkbhhFC5nnt": [
+			{
+				"comment_id": 28,
+				"body": "> [tkarita](#comment_94_1GervYZoP82e8X1Rgc4wyMkJY2zSsJuq8t): Operation Matrix III [link]\n\nI will stay out of cancer FB.",
+				"added": 1471246668
+			}
+		],
+		"1_1P6rReMY7WD7qNmUXntLJoa1XptgiHkhz3": [
+			{
+				"comment_id": 29,
+				"body": "Rescue the zombie princess! http://127.0.0.1:43110/1HjQ6RigqTp4wT3zbsXuLCXJMRPQRr3ei6/\n\nSire ten alley kittens! http://127.0.0.1:43110/1T9fgrEwujZf7ACT9G1q5UaGdd6LunDYs/\n\nBuild a virtual computer city! http://127.0.0.1:43110/13ozLST1c4rqUjCNLg1YFGWnYVVfPsVqnV/\n\nConquer all your friends! http://127.0.0.1:43110/Me.ZeroNetwork.bit/\n\nChill after All your base are belong to us (-_-)zzz http://127.0.0.1:43110/1PLAYgDQboKojowD3kwdb3CtWmWaokXvfp/\n\n30 days of fun! Post your adventures here.",
+				"added": 1471247020
+			}
+		]
+	},
+	"comment_vote": {
+		"18_15k25aCTwyHfXnqtqpRvBbkDz5ka7gFuuU": 1,
+		"1_1AwswnHJA15ishPWnjfnBKFd223m81Frwe": 1,
+		"28_1BLPKyrF2D4ertte6JnAa6oWAMYzZGwKQz": 1,
+		"1_1JEmH2pfXkpMMdzsJ256jzq2GTSxEacS2B": 1,
+		"23_1DWrKbEomgBLHjczm1HkP556Vg68ewDmyd": 1,
+		"41_1KdnTJVBGzEZrJppFZtzfG9chukuMv8xSb": 1,
+		"39_1KdnTJVBGzEZrJppFZtzfG9chukuMv8xSb": 1,
+		"118_1KTjPe9MxoYkcXj78GuZgCcj3R3f3Twh7r": 1,
+		"1_15PP551ddZo9KHDNfpE3YXkG7M7yZj5aTR": 1,
+		"6_15ATNsS6aHGvBg5xoMP94sXpNaLX4fSHjN": 1,
+		"55_1GervYZoP82e8X1Rgc4wyMkJY2zSsJuq8t": 1,
+		"56_1GervYZoP82e8X1Rgc4wyMkJY2zSsJuq8t": 1,
+		"58_1GervYZoP82e8X1Rgc4wyMkJY2zSsJuq8t": 1,
+		"28_1LfQ8dwqkqkGQNCg1kBevHPxjvTRJTQYBz": 1,
+		"85_1CMjV2r4EBpFt8VCcWWZKDysZXPcPExRNN": 1,
+		"3_12EgeG4vgNHzuPJYZqVJQwy2W9vkywbQQu": 1,
+		"10_1BFTNXtYQDMCurqyg45KLmsV6oJD7bQSsH": 1,
+		"6_18XR5C5AxGfD5s2DbCPGuXxVN5oscoLyD6": 1,
+		"76_1GervYZoP82e8X1Rgc4wyMkJY2zSsJuq8t": 1,
+		"22_1AdcxsExVKvxffQtEd72E5tckouzZHLEYC": 1,
+		"1_1M2gZSNe4Z28mxRsd8uvNVHT99xkZq4qwL": 1,
+		"151_14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx": 1,
+		"3_1wnjTS6YRUp6Q6yjECuoh1o28TPkvrnq2": 1,
+		"36_1MEWJRMLgvofqG9Mbsb2Rc4hFFyv7HeRx7": 1,
+		"48_1KwTTgPRSTHFmmJAFBt6kQfdyNeSM5KJuH": 1,
+		"133_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1,
+		"132_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1,
+		"4_1D6Pn4487L8QyFtVSU14nxxtnfEgEs2Ny1": 1,
+		"3_1D6Pn4487L8QyFtVSU14nxxtnfEgEs2Ny1": 1,
+		"2_1D6Pn4487L8QyFtVSU14nxxtnfEgEs2Ny1": 1,
+		"36_19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ": 1,
+		"35_19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ": 1,
+		"7_14ng1wByxwoNXAhihYbpgyarVJbFiqs8ny": 1,
+		"14_19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ": 1,
+		"120_1ADB7TdX2fVbTsWBoMe9yBTmVXTbb33b4R": 1,
+		"3_146VSeNSr14tHL7cWkBrbq2n1Ywr1j2kXL": 1,
+		"18_17fgJ3tZjhM7HCkTkd5TWf2BLLWmhRKcXB": 1,
+		"26_17VwZEfWSUWb5RHkK9m1odnDdBfvjTL6Cp": 1,
+		"152_14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx": 1,
+		"36_1PCPuVtFv8apVpXYbc46wHugNhFUVQ6KCv": 1,
+		"105_1CMjV2r4EBpFt8VCcWWZKDysZXPcPExRNN": 1,
+		"22_1CTut2qbaj54ZjNoYeuWSGwV75iVieKY6N": 1,
+		"719_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"714_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"25_1CTut2qbaj54ZjNoYeuWSGwV75iVieKY6N": 1,
+		"6_1JF3eQjW4voiKdcvCkMXvUx5bLmZAiVdyi": 1,
+		"37_19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ": 1,
+		"87_1GervYZoP82e8X1Rgc4wyMkJY2zSsJuq8t": 1,
+		"26_14ng1wByxwoNXAhihYbpgyarVJbFiqs8ny": 1,
+		"7_1JF3eQjW4voiKdcvCkMXvUx5bLmZAiVdyi": 1,
+		"86_1GervYZoP82e8X1Rgc4wyMkJY2zSsJuq8t": 1,
+		"141_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1,
+		"6_1BePwsiwFD8BjtYfB8tQegiKXDLnHWW1Um": 1,
+		"12_1D6Pn4487L8QyFtVSU14nxxtnfEgEs2Ny1": 1,
+		"10_17eKk6mdR7bth2Fi8f74P5JV8AfHsERT4F": 1,
+		"7_1bnmc9XsY2kyqwqjKmpWyBDbwyniqRzy1": 1,
+		"6_1wnjTS6YRUp6Q6yjECuoh1o28TPkvrnq2": 1,
+		"15_1EZG8eDkCFvNkYxpHmr2WbGWcSxAsRfqTT": 1,
+		"14_1EZG8eDkCFvNkYxpHmr2WbGWcSxAsRfqTT": 1,
+		"152_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1,
+		"56_19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ": 1,
+		"9_1LJLVfT9hKRuTHzBKTpse57PGfpwx82myR": 1,
+		"25_1HrRNH7KbdxMjwLmwrHmZqJrzVZVDKc9bF": 1,
+		"26_1HrRNH7KbdxMjwLmwrHmZqJrzVZVDKc9bF": 1,
+		"7_1Dj5WCaPV2r18QcDQFHmyx2HnGmwMJce9b": 1,
+		"52_1PCPuVtFv8apVpXYbc46wHugNhFUVQ6KCv": 1,
+		"47_1LUP6SN7WrXAH7e5bUFxdmrVsFr2m43XB4": 1,
+		"45_19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ": 1,
+		"50_19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ": 1,
+		"156_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1,
+		"44_17VwZEfWSUWb5RHkK9m1odnDdBfvjTL6Cp": 1,
+		"94_1GervYZoP82e8X1Rgc4wyMkJY2zSsJuq8t": 1,
+		"95_1GervYZoP82e8X1Rgc4wyMkJY2zSsJuq8t": 1,
+		"8_13WWWFi6iuSLazDcNvHgBEjjeAofAhAwtE": 1,
+		"3_13Cqt2MSFS6eu4cbVuByZBuULrEAcZAqFG": 1,
+		"68_19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ": 1,
+		"7_1AeoDwzudke45NR3b6LfU4LsmPFs8AXUvi": 1,
+		"1_13eTQePN4cvnxL9qFurmPFgHRTXMGNNbCy": 1,
+		"126_1GervYZoP82e8X1Rgc4wyMkJY2zSsJuq8t": 1
+	}
+}

@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "G3+Ora2BEzL5xTeFX8LvB194Jgy+EmjCnckiJEaN86MmqnKxt1D3Ahj6l9P/9aUD0Nu2bARXIKkFD9OjcdkQH1s=",
+ "cert_user_id": "majestic@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "088ab455b45aab2fa3b549a2fbbc0d28555e37ae794b25da0e5d2999bd2c7ed1",
+   "size": 5166
+  }
+ },
+ "inner_path": "data/users/1pxo5AKTZoxWBdvAZsC2dR7MFHe5bFXcr/content.json",
+ "modified": 1472328718.246548,
+ "signs": {
+  "1pxo5AKTZoxWBdvAZsC2dR7MFHe5bFXcr": "HFShEkTM/QN3WKrzE4WbkLSezEFOJK6WrK+qNbzH7ZpW9lDQ8LxgFWClOexW9uRPntv8TO8uthAm1NaoHOafydk="
+ }
+}

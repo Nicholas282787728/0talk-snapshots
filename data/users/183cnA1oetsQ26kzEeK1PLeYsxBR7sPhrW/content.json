@@ -1,0 +1,15 @@
+{
+ "cert_auth_type": "web", 
+ "cert_sign": "HM3Xy67J4zRop02ycQFcaMyvX1bdOJMX3r7zPEJQdCwaj7X6zfA9dixmh9VoxNBjiOuE04LPlDd9Czh+/fKUvbY=", 
+ "cert_user_id": "xenarch@zeroid.bit", 
+ "files": {
+  "data.json": {
+   "sha512": "9ec3b6ae67741456cbbb2533af220b0220383ddd78e26bdb0dacea814aa1f30e", 
+   "size": 162
+  }
+ }, 
+ "modified": 1452266978.217313, 
+ "signs": {
+  "183cnA1oetsQ26kzEeK1PLeYsxBR7sPhrW": "HL/upAgFYEmjopI1HKwzyjaRWkPmiZCn/p4YK8eNnsaiPQ3Tsv2xMpEH/QpXe/5V6Rd+UVHMQDN4SNn785B74Xk="
+ }
+}

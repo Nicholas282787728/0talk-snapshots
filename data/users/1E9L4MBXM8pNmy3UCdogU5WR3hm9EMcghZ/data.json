@@ -1,0 +1,23 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 3,
+	"comment": {
+		"1_1GHF28rHoAH3fBV1W9sHwWBxNAur9RGXD5": [
+			{
+				"comment_id": 1,
+				"body": "desde méxico, esto se parece a napster y winmx, por el p2p",
+				"added": 1456975359
+			}
+		],
+		"1_1Dg5EwremnCBAkBQSVoXcL4Mp2eSUuCRvn": [
+			{
+				"comment_id": 2,
+				"body": "hi",
+				"added": 1457580153
+			}
+		]
+	},
+	"comment_vote": {}
+}

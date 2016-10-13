@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "G7aoNx7/4qlpD1quD/CE/SRdObDxapSg+VPMgjzm5j8SCzJbGNsfdx6s548HVzRO0tNbZWaJTmnth8w3UfWPNOY=",
+ "cert_user_id": "slipthay@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "fe276ded236f3e2f3d8942e8e3ef092b55d6634289021a640d49927dab3570dc",
+   "size": 239
+  }
+ },
+ "inner_path": "data/users/17Y6RJVkZbQCTZTdd6onyAf1JqssH7rRZL/content.json",
+ "modified": 1457317239.938148,
+ "signs": {
+  "17Y6RJVkZbQCTZTdd6onyAf1JqssH7rRZL": "G1GmL1QZj4BbmTSzkMuRat+Y6+cuIZ1KbgshigiO05Gm8Z9LXpE+ouNsweTr05wDKzom0ktyvJeVVf0ZRmLzGW0="
+ }
+}

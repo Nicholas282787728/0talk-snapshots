@@ -1,0 +1,23 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 3,
+	"comment": {
+		"4_18sw1reMFB1fpxc4vjfjoCrLaFs8UbMeQH": [
+			{
+				"comment_id": 1,
+				"body": "1JKxWHjaaFm8WKWuNc378XbBGXsBaaMLFc\njust figuring this all out, really cool!!",
+				"added": 1459730476
+			}
+		],
+		"2_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": [
+			{
+				"comment_id": 2,
+				"body": "wasabi??",
+				"added": 1459730770
+			}
+		]
+	},
+	"comment_vote": {}
+}

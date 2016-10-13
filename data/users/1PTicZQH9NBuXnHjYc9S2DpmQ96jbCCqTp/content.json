@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "G8ZPumqD7SgwCWoY1fyud3rvGWdYmw8TMEA1RA21ig+WM0Z2JTX6cg0eIGC/6bW2nVwIB8ApbJcWZM+kWq9oxi4=",
+ "cert_user_id": "communist@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "b3e02ba3d21aaba64006eb6967da4774f1031e53773d42e9116639c67330d444",
+   "size": 791
+  }
+ },
+ "inner_path": "data/users/1PTicZQH9NBuXnHjYc9S2DpmQ96jbCCqTp/content.json",
+ "modified": 1470749894.791,
+ "signs": {
+  "1PTicZQH9NBuXnHjYc9S2DpmQ96jbCCqTp": "G8feetngpD+RFro8KpqZrpp1iGpqeQr7iDBct7O78ePPF86aSG+2kXr41YbkPB6hyJYk77Co8oIdmA+1nLATAYs="
+ }
+}

@@ -1,0 +1,34 @@
+{
+	"next_topic_id": 3,
+	"topic": [
+		{
+			"topic_id": 2,
+			"title": "Forum Français Disponible !",
+			"body": "Afin de regrouper les français, j'ai crée un cloné un forum que j'ai traduit...\nQue vous soyez débutant ou expérimenté, toutes vos questions et vos connaissances doivent être ici :\nhttp://127.0.0.1:43110/1PFNaeVmeVHRy7LECanJ5TmtpALSZXg4SJ",
+			"added": 1452385386
+		}
+	],
+	"topic_vote": {
+		"1_15nwgSbNNZcETMUnZpRFY1ouTsBM9LWA5m": 1,
+		"2_15nwgSbNNZcETMUnZpRFY1ouTsBM9LWA5m": 1,
+		"1_12trw1cEg68BLZfcWnidy8EHfKE9Xh3T42": 1,
+		"1_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG": 1,
+		"2_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1
+	},
+	"next_comment_id": 3,
+	"comment": {
+		"1_12trw1cEg68BLZfcWnidy8EHfKE9Xh3T42": [
+			{
+				"comment_id": 1,
+				"body": "Via korben :D Projet vraiment intéressant :)",
+				"added": 1452381240
+			},
+			{
+				"comment_id": 2,
+				"body": "> [shinra](#comment_6_12trw1cEg68BLZfcWnidy8EHfKE9Xh3T42): Salut spl0it et sbee , et bienvenue. ha ben oui, via Korben et vous ne devez pas être les seuls, on le trouve en effet dans quelques résultats de recherche ;)\n> @thekill38, merci pour la précision, je ne connaissais définitivement pas ^^.\n> Ha oui, d'ailleurs, tous/toutes , si vous avez des liens ZeroNet à partager faites le savoir hein, si vous voulez passer ZeroMail, vous m'y trouverez :p\n\nJe suis en train d'essayer d'herberger un site sur la plateforme, et vous connaissez vous des liens intéressant ?\nIls devrait faire un \"hidden wiki\" version ZeroNet, ZeroLinks ? :D\nEdit: Je travaille sur un forum francais et donc traduit",
+				"added": 1452384702
+			}
+		]
+	},
+	"comment_vote": {}
+}

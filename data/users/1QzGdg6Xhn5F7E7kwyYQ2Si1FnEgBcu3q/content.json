@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "GyybSEudVLaTG6OhqUFS6Vf3bBJOYsxCZqGRxej9qkuomgEW6UPcongV66fm1DdhbEHaj/dEhQmPEjl55RP+dMw=",
+ "cert_user_id": "kapotula@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "c99da1fb8e328b705ca608fdab129d1440370f0e3eb77856a0f7be0a72de5035",
+   "size": 477
+  }
+ },
+ "inner_path": "data/users/1QzGdg6Xhn5F7E7kwyYQ2Si1FnEgBcu3q/content.json",
+ "modified": 1462721924.599,
+ "signs": {
+  "1QzGdg6Xhn5F7E7kwyYQ2Si1FnEgBcu3q": "G53MMLvmXuMsk3elO3nWIHTXGel7PwKs7eYqjXs63BL5pCY2x91rwmDCnsGpApoGW4+ba91g482RtTDtSrr/yXA="
+ }
+}

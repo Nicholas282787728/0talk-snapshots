@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "GyDRprbnFyJyZZkXcDYfE8TUNyrdQnAiD2KHfGfLxr/T9j0dpN5pzmjITzR4jON45ucQ4Jl+SY879pDkL09mmtc=",
+ "cert_user_id": "sabotyuk@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "84b71172ddeea59e397cebcda24f755ec9e48132d4eaaf03c7503098e61e78c4",
+   "size": 249
+  }
+ },
+ "inner_path": "data/users/1Bcy8eGw8MUMZzNGFW7XKTANNtjpgRo9A/content.json",
+ "modified": 1458399780.077874,
+ "signs": {
+  "1Bcy8eGw8MUMZzNGFW7XKTANNtjpgRo9A": "HBaktFUslP93/PmUFR/PQPOHgAp8FD4bHwx4f0icd4g4PtuFndCMk5fWz6cetkkl9NUoMSufg7u66chlPPdRUpE="
+ }
+}

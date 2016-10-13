@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HDSt1CHdlTwlncdEF8wDvlQWbcjsq8GxsYEQAfdqGAZuv3GS6LueDwy5Z99i/rI29MAuxRQh4RSOaCIftABAzPU=",
+ "cert_user_id": "fuckboyputin@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "28fe3cbbde1b03b600deff7319fe8a6ed322f110237e37d8c9722c9e84c8deea",
+   "size": 632
+  }
+ },
+ "inner_path": "data/users/17XDNm3iVm67Re24bwsdYKQh6w9dUBzYoX/content.json",
+ "modified": 1468359502.426351,
+ "signs": {
+  "17XDNm3iVm67Re24bwsdYKQh6w9dUBzYoX": "G7To+mQ+vQB9y7fd9e5FE5K5ZDV16vPD88saHLYj/Goyxx5Kh3f3ZhzPxLJLmnOIIzA84c9A17RRCF36zuzyDhQ="
+ }
+}

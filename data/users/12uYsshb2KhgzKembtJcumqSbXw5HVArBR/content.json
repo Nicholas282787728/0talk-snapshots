@@ -1,0 +1,15 @@
+{
+ "cert_auth_type": "bitmsg", 
+ "cert_sign": "G453qv+Rs5LhfcRJ2nFSHPvQForbtmbPUmf/48eZsBlUF6m3pckyNhLnsknk74fzPzs3Rc8LB9GUv7S/Nl/Y3Q8=", 
+ "cert_user_id": "afkmember@zeroid.bit", 
+ "files": {
+  "data.json": {
+   "sha512": "16cf8a10ba15f570540f785378ecc2ffbfeb86000962d19854a82e33098d8bc4", 
+   "size": 648
+  }
+ }, 
+ "modified": 1450709560.376, 
+ "signs": {
+  "12uYsshb2KhgzKembtJcumqSbXw5HVArBR": "HPxinLGkVNgc1IpVjPYMFi6bD766NDfy1s7l2IJMISRV1eTQuZmIF+zKnZNgJpg3/XFOpBYTiOdHO768NKhVsC4="
+ }
+}

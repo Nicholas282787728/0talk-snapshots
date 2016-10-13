@@ -1,0 +1,30 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "Help with new site error: \"Message wrapper_nonce error, please report!\"",
+			"body": "Following the tutorial \"Getting Started\" at https://zeronet.readthedocs.org/en/latest/using_zeronet/create_new_site/ and it appears correctly in the browser, except I always get the error \"Message wrapper_nonce error, please report!\" in the top right corner before the \"0\" logo, with a \"!\" in a red box in front of it.\n\nThe error only shows up when I create the file \"js/MySite.coffee\" as per the tutorial instructions, so I'm assuming there's something wrong with it. The main issue seems to be the step in the tutorial where it says to \"Copy ZeroFrame.coffee to your site's js/lib/ directory\", but the link returns 404: https://github.com/HelloZeroNet/ZeroBoard/blob/master/js/lib/ZeroFrame.coffee\n\nSo instead of that I used another ZeroFrame.coffee file here: https://github.com/HelloZeroNet/ZeroBoard/blob/master/js/lib/ZeroFrame.coffee\n\nBut I get that error every time. I have the latest version of ZeroNet - \"Version 0.3.6 (rev914)\". I have tried running ZeroNet with and without \"--debug\". I also use Chrome and do a \"Empty Cache and Hard Reload\" every time to make sure I have the correct files.\n\nDoes anyone know how to fix this?",
+			"added": 1457183616
+		}
+	],
+	"topic_vote": {
+		"1_14Q3Go381PvQJ8GCUv74AE8bqXd8F9BoVC": 1
+	},
+	"next_comment_id": 2,
+	"comment": {
+		"1_1EywVvJxujocAAMuS1zMcRs4JQJktQbWa9": [
+			{
+				"comment_id": 1,
+				"body": "> [nofish](#comment_426_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): Please use this http://blog.zeronetwork.bit/data/files/ZeroFrame.coffee\n> http://127.0.0.1:43110/blog.zeronetwork.bit/?Post:43:ZeroNet+site+development+tutorial+1\n\nThanks. Did it all from scratch and now it works. I think the problem was I wasn't running it in debug mode for some reason.\n\nAlso they should really fix the online tutorial as well, or at least post a link to the correct one.",
+				"added": 1457185268
+			}
+		]
+	},
+	"comment_vote": {
+		"1_1E9uQVsfNme1Zot3ZaKYSd4VDagq4efSqt": 1,
+		"2_1D7uESYtAKV36MVPGJZXuE7LUKbLwfo4dX": 1,
+		"16_1GCMDNMgJHvZJfdbD9ygDmpBdnVAobdJYg": 1,
+		"426_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1
+	}
+}

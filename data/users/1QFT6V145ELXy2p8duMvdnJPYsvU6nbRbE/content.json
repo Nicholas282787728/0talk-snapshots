@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HCQRApe/1pauRe98Rn8sJFvTfVNm8iV/9nhCx4MYB/uq3Fk8O6vo4yT4BT+/Scq1frAV2qx8drWmkcCk5zXuAFo=",
+ "cert_user_id": "ctonykid@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "2695ab379e88b5138510ae1a43527f354a86cc2a39322bd9616a575cb02f9f18",
+   "size": 242
+  }
+ },
+ "inner_path": "data/users/1QFT6V145ELXy2p8duMvdnJPYsvU6nbRbE/content.json",
+ "modified": 1461740531.624,
+ "signs": {
+  "1QFT6V145ELXy2p8duMvdnJPYsvU6nbRbE": "G1jTqskx8kAZAxrB0sqSuIaws5Vf/ybP9hnGhYX2Un8Hh0c9JrsKMTy2o36+siYn3zT9rdURZIhv/J3kPqW+wYQ="
+ }
+}

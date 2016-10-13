@@ -1,0 +1,35 @@
+{
+	"next_topic_id": 3,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "How to make multiple accounts/IDs?",
+			"body": "",
+			"added": 1457458492
+		},
+		{
+			"topic_id": 2,
+			"title": "Is there a daemon version of zeronet which simply relays traffic?",
+			"body": "I.e. a zeronet seedbox?",
+			"added": 1457458556
+		}
+	],
+	"topic_vote": {
+		"4_1MEWJRMLgvofqG9Mbsb2Rc4hFFyv7HeRx7": 1,
+		"1_17oYQdLkvyzEVPH3hXRtK3ru4FLNKZUD3b": 1,
+		"1_1HHSJHKhrpXzsGmtHhJmkk7hp2DZ9CRSN6": 1
+	},
+	"next_comment_id": 2,
+	"comment": {
+		"2_1HHSJHKhrpXzsGmtHhJmkk7hp2DZ9CRSN6": [
+			{
+				"comment_id": 1,
+				"body": "> [angristan](#comment_57_1MEWJRMLgvofqG9Mbsb2Rc4hFFyv7HeRx7): Like this http://127.0.0.1:43110/Talk.ZeroNetwork.bit/?Topic:4_1MEWJRMLgvofqG9Mbsb2Rc4hFFyv7HeRx7\n\nNice!",
+				"added": 1457459821
+			}
+		]
+	},
+	"comment_vote": {
+		"56_1MEWJRMLgvofqG9Mbsb2Rc4hFFyv7HeRx7": 1
+	}
+}

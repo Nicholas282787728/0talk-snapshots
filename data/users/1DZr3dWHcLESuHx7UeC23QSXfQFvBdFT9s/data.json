@@ -1,0 +1,100 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "Can we get a German Forum?",
+			"body": "Hey, \n\nwe have Main - Espanol - French etc etc\n\nCan we get German too? Or should I just try to actually make my own, german forum?",
+			"added": 1470090000
+		}
+	],
+	"topic_vote": {
+		"2_1JXFzMzrQTJCiGw36YNQGg2Tmt1hTHy7ZT": 1,
+		"1_17Cs2auSHSVjKaYMXqbNMApRQrgXcwJUpL": 1,
+		"1_1NGtwPu16u2iVu35a6jwGF7ijxN6yUXaBA": 1
+	},
+	"next_comment_id": 13,
+	"comment": {
+		"2_1JXFzMzrQTJCiGw36YNQGg2Tmt1hTHy7ZT": [
+			{
+				"comment_id": 1,
+				"body": "Im online and im guessing znet will become more popular soon",
+				"added": 1470089507
+			},
+			{
+				"comment_id": 2,
+				"body": "> [tkarita](#comment_26_1GervYZoP82e8X1Rgc4wyMkJY2zSsJuq8t): It was mentioned again by TorrentFreak yesterday.\n\nNice, I just heard about znet like 30 mins ago on lewd.sx, instantly DLd",
+				"added": 1470089732
+			}
+		],
+		"1_19GDcmuGz3D2epgu9k65yMY9WMYDG8eZCP": [
+			{
+				"comment_id": 3,
+				"body": "Its already done, save the link :) sirenyc posted it",
+				"added": 1470089950
+			}
+		],
+		"1_1NGtwPu16u2iVu35a6jwGF7ijxN6yUXaBA": [
+			{
+				"comment_id": 4,
+				"body": "Hmmmh, you got a point there. They really need to think something up for that",
+				"added": 1470090181
+			}
+		],
+		"1_1DZr3dWHcLESuHx7UeC23QSXfQFvBdFT9s": [
+			{
+				"comment_id": 5,
+				"body": "> [tkarita](#comment_27_1GervYZoP82e8X1Rgc4wyMkJY2zSsJuq8t): You could clone ZeroTalk.  I think you have to contact nofish to get added to the list.\n\nThanks for you comment. Got any contact information from nofish? Would write him now then.",
+				"added": 1470090227
+			},
+			{
+				"comment_id": 6,
+				"body": "> [tkarita](#comment_28_1GervYZoP82e8X1Rgc4wyMkJY2zSsJuq8t): http://127.0.0.1:43110/Mail.ZeroNetwork.bit/?to=nofish\n\nThank you. \nFor Germans -> http://127.0.0.1:43110/17MGAfkzNGMn1ZY5V8yLqH4H4ngxaXAJY5/\n\nStill figuring out how to edit stuff and so on, so please bear that in mind",
+				"added": 1470090961
+			}
+		],
+		"4_1BFTNXtYQDMCurqyg45KLmsV6oJD7bQSsH": [
+			{
+				"comment_id": 7,
+				"body": "Yea thats good, but now imagine if theyre gang raping you with neg reputation for no reason at all, what then?",
+				"added": 1470091404
+			}
+		],
+		"1_1DSoqCXNkqv7yJNXiF6YoaeK2bW8BFt2gh": [
+			{
+				"comment_id": 8,
+				"body": "> [bot](#comment_80_1KdnTJVBGzEZrJppFZtzfG9chukuMv8xSb): see.. ZeroTalk/data/users/content.json\n> \"permissions\": {   \"bad@zeroid.bit\": false}\n\nVery interesting, thank you.",
+				"added": 1470091540
+			}
+		],
+		"1_17Cs2auSHSVjKaYMXqbNMApRQrgXcwJUpL": [
+			{
+				"comment_id": 9,
+				"body": "> [bot](#comment_84_1KdnTJVBGzEZrJppFZtzfG9chukuMv8xSb): Agree, but that's about 4 separate issues. \n> \n> Popular users who add good content get more allotment (reputation)\n> Decentralised ID which can still limit abuse. (quota)\n> Site ownership. (multiple or shared private keys, or opensource DAO)\n> Abuse. (see above)We should try to solve the first issue, while planning for the other 3.Atm, if the site owner is bad, people can easily clone the site and compete. (reputation)\n\nUnless you disable cloning, which you can do in the json file.",
+				"added": 1470091661
+			},
+			{
+				"comment_id": 10,
+				"body": "Also, I have to admit that I really like it. I hope that the retards wont take over :(",
+				"added": 1470091930
+			},
+			{
+				"comment_id": 11,
+				"body": "> [tkarita](#comment_29_1GervYZoP82e8X1Rgc4wyMkJY2zSsJuq8t): They could still copy everything manually.  Trying to block that from content.json seems like an oversight.\n\nBut that would be some boring ass work, I doubt that lots of people would do it.\n\nBtw /b/ on 0chan needs moar ppl, pls guys :<   http://127.0.0.1:43110/0chan.bit/?/b/",
+				"added": 1470093457
+			},
+			{
+				"comment_id": 12,
+				"body": "> [testset](#comment_16_17VwZEfWSUWb5RHkK9m1odnDdBfvjTL6Cp): 0chan is not the only place on ZeroNet that need more active people.  From the Church of Emacs through ZeroPolls to the several chatrooms, most of the Zites have the same issue with to few active people. \n> The best thing we can do is to\n> \n> be active \n> encourage other to do the same\n> hope this will work and the Zites of ZeroNet will prosper.\n\nI will do my best.",
+				"added": 1470131689
+			}
+		]
+	},
+	"comment_vote": {
+		"26_1GervYZoP82e8X1Rgc4wyMkJY2zSsJuq8t": 1,
+		"24_19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ": 1,
+		"27_1GervYZoP82e8X1Rgc4wyMkJY2zSsJuq8t": 1,
+		"2_1GzGCc4PYVgD3XqQV3tpT8ow6bWGySa25a": 1,
+		"80_1KdnTJVBGzEZrJppFZtzfG9chukuMv8xSb": 1
+	}
+}

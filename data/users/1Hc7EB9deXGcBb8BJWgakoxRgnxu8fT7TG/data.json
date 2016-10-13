@@ -1,0 +1,18 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {
+		"1_14u2rEK2mVdTrAzqvFBcH8pLuk7Mgjy1iw": 1
+	},
+	"next_comment_id": 2,
+	"comment": {
+		"1_14u2rEK2mVdTrAzqvFBcH8pLuk7Mgjy1iw": [
+			{
+				"comment_id": 1,
+				"body": "TUN TUN TUN TUN TUN TUN TUN TUN TUN TUN TUN TUN!",
+				"added": 1472255421
+			}
+		]
+	},
+	"comment_vote": {}
+}

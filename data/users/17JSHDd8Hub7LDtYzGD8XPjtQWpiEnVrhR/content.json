@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "G6eot0zgC4MttmGhugxiCj4MXDcnjNkFqYW3bA24p953c4P6e8RdINsFJk24YKhz1FwWPkxAScO3xSNZ9UxQRTc=",
+ "cert_user_id": "overflow@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "720a19c26071300a0ef185e1a20c40c831eb01e223a0900a3d3fc9dec6c6f9c7",
+   "size": 960
+  }
+ },
+ "inner_path": "data/users/17JSHDd8Hub7LDtYzGD8XPjtQWpiEnVrhR/content.json",
+ "modified": 1457616236.103177,
+ "signs": {
+  "17JSHDd8Hub7LDtYzGD8XPjtQWpiEnVrhR": "GyBRlJfu8GbanXOznUz/kxRMbW1w+U2yYUu0+Hb7NcGwmdC3B1RCKRDNXj26fsroB9oGJWOZx8UtKrMZem6PUnw="
+ }
+}

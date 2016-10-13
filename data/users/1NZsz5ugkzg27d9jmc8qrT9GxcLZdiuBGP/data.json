@@ -1,0 +1,23 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 3,
+	"comment": {
+		"1_1Fv1xGsCxVzHNkCyCMLkJsXaqHSqc5VS45": [
+			{
+				"comment_id": 1,
+				"body": "会有人建立的，这可是不受限制的地方。但是我不赞同有这些拿不到台面上的东西。",
+				"added": 1464763759
+			}
+		],
+		"1_1BG8WrV2VY1bNjQiKR4tcL52FAw6Y6BoJ8": [
+			{
+				"comment_id": 2,
+				"body": "互联网封锁厉害的地方还是用的着的。例如再来一次一年左右的封网。你试试？这玩意太有用了！互联网出口断了，我们也可以利用这个来交流。这玩意能不能火不好说但是有这个总比没有的好。",
+				"added": 1468167872
+			}
+		]
+	},
+	"comment_vote": {}
+}

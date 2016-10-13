@@ -1,0 +1,28 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 4,
+	"comment": {
+		"1_1LJP7tDoGnWNppUGJoNS8cJbmYTS1TecCC": [
+			{
+				"comment_id": 1,
+				"body": "You are right. I disabled it on mine. Thanks for pointing this out.",
+				"added": 1457885885
+			},
+			{
+				"comment_id": 2,
+				"body": "> [kostanew](#comment_9_1LJP7tDoGnWNppUGJoNS8cJbmYTS1TecCC): Where the source code of ZeroProxies? May be I can find more bugs.\n\nThere is no source code. I've just put nginx as a reverse proxy.",
+				"added": 1457891229
+			}
+		],
+		"1_1BidR2Pw65fTPeh1R3LbwCdfEJUPB6FLes": [
+			{
+				"comment_id": 3,
+				"body": "Hello, \n\nYou should give a look to the plugin \"DonationMessage\". It is disabled by default.",
+				"added": 1458165514
+			}
+		]
+	},
+	"comment_vote": {}
+}

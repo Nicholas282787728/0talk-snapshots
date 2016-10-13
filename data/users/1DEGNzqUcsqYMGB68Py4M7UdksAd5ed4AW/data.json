@@ -1,0 +1,35 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "Full tor mode?",
+			"body": "Hi!\nI am running tor and ZN and on ZN's start page it says \"Port: Closed\" and \"Tor: OK\"\nDoes that now mean I can connect to normal peers AND onions or that I connect ONLY to .onions? \nIn the stats sections it says I am connected to 4 peers.\nWhat if I want ONLY onion??",
+			"added": 1462297786
+		}
+	],
+	"topic_vote": {},
+	"next_comment_id": 4,
+	"comment": {
+		"1_17ApQKugX1XH727gpAeD3mrRLjLxASdakd": [
+			{
+				"comment_id": 1,
+				"body": "> [gabriel](#comment_2_1LLCfj6q47nJ2aXEVFSmy9Nv4dkKKJyUBQ): To me, social networking and privacy-centric networks and darknets are mutually exclusive. What's the point of getting into zeronet if you're gonna do the same thing you can do on facebook?\n\nExactly for that.\nI want to share my private ideas, events, photos, ... PRIVATELY with my friends. \nSo of course, some privacy-enhanced fb-lik thingy run on ZN would be perfect.\nprivacy enhanced means: end to end encrypted, authenticated, severless, hiding meta data (to whom I am connected), etc.",
+				"added": 1462288044
+			},
+			{
+				"comment_id": 2,
+				"body": "> [ripper234](#comment_3_1MxdAjWgnqwCaunGHmhY39tVR51qV3peJL): http://www.synereo.com/ should integrate with it.\n\nIs it open source??",
+				"added": 1462288934
+			}
+		],
+		"2_1P8VJL2iKWfUB4hqQkrFdXCbC8RrimAZoZ": [
+			{
+				"comment_id": 3,
+				"body": "lol. \nOr pay me only $100.\nYou don't even have to join any groups for that, just pay",
+				"added": 1462298083
+			}
+		]
+	},
+	"comment_vote": {}
+}

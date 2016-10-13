@@ -1,0 +1,16 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 2,
+	"comment": {
+		"1_1LY5srf6iJSafm2bZRvb9QdZdEEvC7kuUS": [
+			{
+				"comment_id": 1,
+				"body": "afrikaans",
+				"added": 1462801954
+			}
+		]
+	},
+	"comment_vote": {}
+}

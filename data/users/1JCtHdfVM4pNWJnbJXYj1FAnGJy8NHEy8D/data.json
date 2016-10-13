@@ -1,0 +1,31 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {
+		"4_1BFTNXtYQDMCurqyg45KLmsV6oJD7bQSsH": 1,
+		"7_19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ": 1
+	},
+	"next_comment_id": 4,
+	"comment": {
+		"2_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": [
+			{
+				"comment_id": 1,
+				"body": "Testing. Hi guys!",
+				"added": 1470501244
+			}
+		],
+		"4_1BFTNXtYQDMCurqyg45KLmsV6oJD7bQSsH": [
+			{
+				"comment_id": 2,
+				"body": "Some of you don't seem to get how rep works.\nSay there's a user, that user has an identity. I trust that identity, so I give him my trust \"points\". Above a certain threshold I begin to trust people that user trusts. A \"web of trust\" is created.\n\nSay there's an user I don't trust. I can subtract as many trust \"points\" as I see necessary, and below a certain threshold his content will become hidden. Same for identities that user trusted.\n\nNo censorship, no one is influencing what I see, but me myself. Same mechanism was used on freenet's forums.",
+				"added": 1470504265
+			},
+			{
+				"comment_id": 3,
+				"body": "> [newuser123](#comment_18_1PCPuVtFv8apVpXYbc46wHugNhFUVQ6KCv): Maybe that's how you think it's supposed to work, but if there was a down-vote button nothing's stopping me from down-voting you for no reason at all, is there?\n\nSay you do. You subtracted a point from my id. You trust me less now. What did that change? My id is now less trusted on your list, and on the lists of people that trusted you. No one else noticed a difference.\n\nYou wouldn't be able to downvote someone to hell. The most you could do is give me -100 rating (effectively hiding my content from your view) and by doing so you'd be warning your friends \"hey this guy is shady, don't trust him\". That wouldn't stop them from viewing anything I do.",
+				"added": 1470674244
+			}
+		]
+	},
+	"comment_vote": {}
+}

@@ -1,0 +1,21 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 2,
+	"comment": {
+		"2_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": [
+			{
+				"comment_id": 1,
+				"body": "> [kac](#comment_1_1Ldfrf9xkXhDjf4tFapGDwAdNkim6BLzUW): 4\n\nfoo",
+				"added": 1452188588
+			}
+		]
+	},
+	"comment_vote": {
+		"1_1934mSRy8XifB4pWFUVbq7hmJCuj4twb1H": 1,
+		"4_1Bvb6ELPrJixQPihQ6xTpAEvPetigknhDR": 1,
+		"1_1LWuc6JBhUGrKEAh1aPrPU85dEMcKmg3pS": 1,
+		"1_12trw1cEg68BLZfcWnidy8EHfKE9Xh3T42": 1
+	}
+}

@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HGZC8AJlGFFvNv7VQLToD+6Gon+3a+1gS4F+HftyzBJE6t7JI/zj1YcLgzd1irP1+POriAFwkdtwU+jTh/DTL9c=",
+ "cert_user_id": "tribalwar@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "7bda8397340f94597bf4e4de6490d51f7e570d0c85e54eeab42991475ba90797",
+   "size": 714
+  }
+ },
+ "inner_path": "data/users/12sJxAvkJAWCnMg1hZ5jmKDyNqp3B15qyj/content.json",
+ "modified": 1473205687.644,
+ "signs": {
+  "12sJxAvkJAWCnMg1hZ5jmKDyNqp3B15qyj": "HFHOqnjI97pszyBdjvKJ+ymGWcINcK+37i5Za5pIQCsYJ4jUEXYu/alF7eH/KG0AbAG5K8EUdaHpGHhdauiO3YM="
+ }
+}

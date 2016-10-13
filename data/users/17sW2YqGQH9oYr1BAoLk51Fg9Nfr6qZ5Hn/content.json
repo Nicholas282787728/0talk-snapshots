@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "G93ip7AVBvDfrZWWuAG3ODNCg1tLiQfruEKrEmICszfDs3VjRN/FF78LTrHTZbtmTLWUT/3ZSDBVsHoqyG8Vh9w=",
+ "cert_user_id": "darkskies666@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "412693710000385d0054e7f28e5864c5d03d48ac2de1b63312e1585710eaaefa",
+   "size": 224
+  }
+ },
+ "inner_path": "data/users/17sW2YqGQH9oYr1BAoLk51Fg9Nfr6qZ5Hn/content.json",
+ "modified": 1465516157.990425,
+ "signs": {
+  "17sW2YqGQH9oYr1BAoLk51Fg9Nfr6qZ5Hn": "HGsvGY8Ln1WEAdDbxLA2pD92KsxdxQ/a9SQnhK2kESPG9GKzwKdYWFGEqCtAlf5u3X0VT/5GFw59eO5mxBNi+O8="
+ }
+}

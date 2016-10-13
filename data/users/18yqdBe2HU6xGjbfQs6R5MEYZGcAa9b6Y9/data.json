@@ -1,0 +1,25 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 3,
+	"comment": {
+		"1_1BQg5MQZ63aEQZMzLEXP6yY3hsgznKpaps": [
+			{
+				"comment_id": 1,
+				"body": "Arch Linux",
+				"added": 1457862704
+			}
+		],
+		"2_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": [
+			{
+				"comment_id": 2,
+				"body": "yolo",
+				"added": 1457863112
+			}
+		]
+	},
+	"comment_vote": {
+		"2_18yqdBe2HU6xGjbfQs6R5MEYZGcAa9b6Y9": 1
+	}
+}

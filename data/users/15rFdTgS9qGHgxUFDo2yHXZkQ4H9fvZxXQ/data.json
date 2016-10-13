@@ -1,0 +1,36 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 6,
+	"comment": {
+		"2_12xwWp1qTmxEXMxVxrG3AQKPk6MUWjQjM7": [
+			{
+				"comment_id": 1,
+				"body": "It's fine, you can check the link before click, hover it and the browser will show you the address.\nWhen I hover the blue box (720p, 1080p etc) it's show as \"magnet:?xt=urn:btih.....\" and its show you \"SOURCE\" where that link came from. Or copy the link and paste to your notepad to check the link address ;)\n\nHappy hunt!",
+				"added": 1470446112
+			},
+			{
+				"comment_id": 2,
+				"body": "> [tkarita](#comment_56_1GervYZoP82e8X1Rgc4wyMkJY2zSsJuq8t): It's the front page that makes me uncomfortable.  The movie links there don't show their addresses.\n\nhttp://imgur.com/a/KHvPB",
+				"added": 1470489821
+			},
+			{
+				"comment_id": 3,
+				"body": "> [tkarita](#comment_65_1GervYZoP82e8X1Rgc4wyMkJY2zSsJuq8t): Thanks, but what I'm getting at is: you had to click something for those links to appear.\n\nI didn't click anything - just hover the blue box, the address will show up, that'll what show me.",
+				"added": 1470495540
+			},
+			{
+				"comment_id": 4,
+				"body": "> [tkarita](#comment_65_1GervYZoP82e8X1Rgc4wyMkJY2zSsJuq8t): Thanks, but what I'm getting at is: you had to click something for those links to appear.\n\nYou mean click the image to pop up, doesn't feel safe?",
+				"added": 1470495626
+			},
+			{
+				"comment_id": 5,
+				"body": "> [tkarita](#comment_65_1GervYZoP82e8X1Rgc4wyMkJY2zSsJuq8t): Thanks, but what I'm getting at is: you had to click something for those links to appear.\n\nI get it, you're right, nothing shows link. Yeah, javascript for a popup. hmm, if you want more safe do that on Linux or sandbox browser..",
+				"added": 1470495841
+			}
+		]
+	},
+	"comment_vote": {}
+}

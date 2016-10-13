@@ -1,0 +1,28 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 3,
+	"comment": {
+		"2_1AZjDLkfYwSmjM7ZJUf7HHnrF778augRMa": [
+			{
+				"comment_id": 1,
+				"body": "AFAIK when someone does ill deeds his account address can be banned from accessing those sites/forums.",
+				"added": 1471090738
+			}
+		],
+		"1_1Dj5WCaPV2r18QcDQFHmyx2HnGmwMJce9b": [
+			{
+				"comment_id": 2,
+				"body": "Meanwhile some countries ban collecting rainwater. Btw the internet is hardly one of 'basics of life'. It's a first world problem. It would really be nice if it happend but the life is pretty good even without it.",
+				"added": 1471122612
+			}
+		]
+	},
+	"comment_vote": {
+		"1_1EqT3ujyyX8n6yg3XNQCF2FmU2Nbgd8TQq": 1,
+		"128_1ADB7TdX2fVbTsWBoMe9yBTmVXTbb33b4R": 1,
+		"11_1LJLVfT9hKRuTHzBKTpse57PGfpwx82myR": 1,
+		"52_1PCPuVtFv8apVpXYbc46wHugNhFUVQ6KCv": 1
+	}
+}

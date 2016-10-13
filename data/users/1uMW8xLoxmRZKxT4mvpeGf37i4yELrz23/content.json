@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HExF9W2SrkdlFDNy8g6+4O+SOjgh8tcrSQRXdCPxF/MZ4YVMd1W5hlrtERB8D/ZfJMgowTwHYLq09XrwS2hLZek=",
+ "cert_user_id": "cham@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "a879f64ee773395211a269b71733b39630e2a3b9d4c0dcfe2918dbc4879e8cc0",
+   "size": 281
+  }
+ },
+ "inner_path": "data/users/1uMW8xLoxmRZKxT4mvpeGf37i4yELrz23/content.json",
+ "modified": 1459344937.821511,
+ "signs": {
+  "1uMW8xLoxmRZKxT4mvpeGf37i4yELrz23": "HFjOYsAp1s0g4/7mHJAs9mqxOMQiBCLd0wGOmNQAwmSAJUKI5vVferkDsKE0YkmER0/ld/1m5cSv9sg2k73w9O8="
+ }
+}

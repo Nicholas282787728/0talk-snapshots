@@ -1,0 +1,15 @@
+{
+ "cert_auth_type": "web", 
+ "cert_sign": "G1Nbpq4oXK9aODJNypAi7xAYNdxfUjaIBbosMN7V2XGK9K2I8OnrJ4YbxasAVjYMEdfSS7dXMzGK6S5Sg2ksgcM=", 
+ "cert_user_id": "srodriguez@zeroid.bit", 
+ "files": {
+  "data.json": {
+   "sha512": "f4268eb021907335c36f41d76fe594198a4fd276f25093265bf7a37d2658d446", 
+   "size": 686
+  }
+ }, 
+ "modified": 1452821839.34, 
+ "signs": {
+  "1QKaXNUnPQNTiUwFuqgR8VXY3E17Zf4Bkk": "G5uv7sQCbreXyT3ZC3/LLEIoZDROVp49YA+rhD7rYQC0jasFga0WrCKTELNYn7T3a/vCRMv6Bc0ZYPDzWgaadXQ="
+ }
+}

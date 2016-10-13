@@ -1,0 +1,47 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "I cant create my website",
+			"body": "When I put the command zeronet.py siteCreate i get the message:\n\n\n\n    Starting ZeroNet...\n    Traceback (most recent call last):\n    File \"./zeronet.py\", line 15, in main\n    import main\n    File \"./src/main.py\", line 75, in <module>\n\n    from Debug import DebugHook\n    File \"./src/Debug/DebugHook.py\", line 52, in <module>\n\n    gevent.hub.Hub._original_handle_error = gevent.hub.Hub.handle_error\n    AttributeError: type object 'Hub' has no attribute 'handle_error'\n\nI use Ubuntu 12.04 LTS",
+			"added": 1459603202
+		}
+	],
+	"topic_vote": {
+		"1_1mrFbgzkZRbkFemBU3ipHJdr27fJevfRQ": 1
+	},
+	"next_comment_id": 5,
+	"comment": {
+		"1_1mrFbgzkZRbkFemBU3ipHJdr27fJevfRQ": [
+			{
+				"comment_id": 1,
+				"body": "Some ideas?",
+				"added": 1459603240
+			},
+			{
+				"comment_id": 2,
+				"body": "When I put command ./ZeroNet.sh siteCreate of nofish i get this message:\n\n- Starting ZeroNet...\n- OpenSSL loaded, version: 01000207F\nusage: start.py [-h] [--verbose] [--debug] [--debug_socket] [--debug_gevent]\n                [--batch] [--config_file path] [--data_dir path]\n                [--log_dir path] [--ui_ip ip] [--ui_port port]\n                [--ui_restrict [ip [ip ...]]] [--open_browser [browser_name]]\n                [--homepage address] [--size_limit size]\n                [--connected_limit connected_limit] [--fileserver_ip ip]\n                [--fileserver_port port] [--disable_udp] [--proxy ip:port]\n                [--ip_external ip]\n                [--trackers [protocol://address [protocol://address ...]]]\n                [--trackers_file path] [--use_openssl {True,False}]\n                [--disable_db] [--disable_encryption]\n                [--disable_sslcompression {True,False}] [--keep_ssl_cert]\n                [--max_files_opened limit] [--use_tempfiles {True,False}]\n                [--stream_downloads {True,False}]\n                [--msgpack_purepython {True,False}]\n                [--coffeescript_compiler executable_path]\n                [--tor {disable,enable,always}] [--tor_controller ip:port]\n                [--tor_proxy ip:port] [--version] [--bit_resolver address]\n                {main,siteCreate,siteNeedFile,siteDownload,siteSign,sitePublish,siteVerify,dbRebuild,dbQuery,peerPing,peerGetFile,peerCmd,cryptSign}\n                ...\nstart.py: error: unrecognized arguments: --open_browser default_browser",
+				"added": 1459691299
+			},
+			{
+				"comment_id": 3,
+				"body": "It works thanks nofish",
+				"added": 1459691816
+			},
+			{
+				"comment_id": 4,
+				"body": "My web:\n\nhttp://127.0.0.1:43110/13j7PhXNNoGMi92QSr8KFb4ZXtJXePJb1d/",
+				"added": 1459693501
+			}
+		]
+	},
+	"comment_vote": {
+		"1_1mrFbgzkZRbkFemBU3ipHJdr27fJevfRQ": 1,
+		"2_1mrFbgzkZRbkFemBU3ipHJdr27fJevfRQ": 1,
+		"583_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"584_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"3_1mrFbgzkZRbkFemBU3ipHJdr27fJevfRQ": 1,
+		"4_1mrFbgzkZRbkFemBU3ipHJdr27fJevfRQ": 1
+	}
+}

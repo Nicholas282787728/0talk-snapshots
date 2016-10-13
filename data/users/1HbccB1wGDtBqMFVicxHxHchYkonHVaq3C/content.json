@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "GzAwmdk/3Q+0Hgy02Wu7jCUBUDw8dpn38CjU/R345lEKZLbt+IHhxUBGoqZDkY/DCzrdAdJ08ocCl9oZPrq8lLE=",
+ "cert_user_id": "markharding@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "19e9bce434174cdfe87aeea965a7511de82672640d93c45fbd1bd1de4df55d60",
+   "size": 481
+  }
+ },
+ "inner_path": "data/users/1HbccB1wGDtBqMFVicxHxHchYkonHVaq3C/content.json",
+ "modified": 1464296829.508715,
+ "signs": {
+  "1HbccB1wGDtBqMFVicxHxHchYkonHVaq3C": "G5SxrkEJ7+mTdcU6cMFjmGBiWcS5R3HCUV5btfnvlV71wpWONr4/J2IAIn2vxF2cG6JQANXVFLvWFXAwaX7+kJ0="
+ }
+}

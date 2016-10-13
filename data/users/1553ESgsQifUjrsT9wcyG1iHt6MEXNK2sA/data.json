@@ -1,0 +1,60 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "If you like cryptocurrency..",
+			"body": "I suggest you check out Vcash (XVC). It's a great alternative to Bitcoin because: instant transactions (ZeroTime) that are also near-instantly re-spendable, very fast built-in mixing, randomized ports, and end-to-end encryption to hide your traffic from ISP's. The dev is constantly bring out new features and improving things. \n\nIt's, imo, the most feasible option to replace fiat. And no blocksize or blockchain worries, with auto-scaling blocksize (3MB at the moment) & blockchain pruning (caps at 500 MB, currently ~300 MB).",
+			"added": 1459909982
+		}
+	],
+	"topic_vote": {
+		"1_1553ESgsQifUjrsT9wcyG1iHt6MEXNK2sA": 1
+	},
+	"next_comment_id": 7,
+	"comment": {
+		"2_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": [
+			{
+				"comment_id": 1,
+				"body": "ay lmao",
+				"added": 1459909100
+			}
+		],
+		"8_1H8oKiRa7fGgUqS1hpUtaSYLvAqkaknbkf": [
+			{
+				"comment_id": 2,
+				"body": "Is any of this relevant when running ZeroNet through Tor?",
+				"added": 1459909219
+			}
+		],
+		"1_1553ESgsQifUjrsT9wcyG1iHt6MEXNK2sA": [
+			{
+				"comment_id": 3,
+				"body": "> [pycole](#comment_127_1KwTTgPRSTHFmmJAFBt6kQfdyNeSM5KJuH): Here is the forgotten link. Apparently it also goes by 'vanillaCoin'.Quick question: In terms of security, what advantages does this altcoin has over, say, Monero or Shadow?\n\nIt was re-branded from Vanillacoin (VNL) to Vcash (XVC) a little bit ago. Anyways, here's an older post from the dev himself listing the main benefits:\n\n\"Vcash is trying to solve the problems that Bitcoin is instead of coming out with marketable gimmicks.\n\n-You can send unlimited coins over Zerotime, as opposed to Dash.\n\n-XVC network can process 100 transactions/second on-chain (15x BTC) and 15,000 tx/sec off-chain (3x Visa's daily peak tx rate)\n\n-Only coin other than Bitcoin that only requires 1 confirmation on Poloniex.  You can test this by going here: https://poloniex.com/public?command=returnCurrencies and searching for minconf\":1,\"\n\n-Only coin that has staking mobile wallets that allow you to move your wallet.dat to your PC from your Android and iOS wallets\n\n-Only coin with near-instant 0-confirmation transactions that doesn't use master nodes.  You can receive node incentives if you have 10,000 in collateral, but collateral is not necessary to be a super peer.  You just need an open XVC port, a certain amount of uptime, and possibly a certain amount of bandwidth.\n\n-Only coin that has encrypted connections and gives you a random port if you have no config.dat.  All your ISP will see is normal SSL traffic while monitoring your ports, which is unlike what happens with all other coins.  If you're using Bitcoin and your ISP monitors your ports, it will know you're using port 8333, which means it knows you're using Bitcoin.\n\n-Only coin that automatically burns all tx fees, and they're not sent to a burn address either\"\n\nPS: Sorry I didn't provide the link, was unsure if people were against clearnet links on ZeroNet or not (The main website is V.cash if anyone is wondering).",
+				"added": 1459974064
+			},
+			{
+				"comment_id": 4,
+				"body": "> [ks](#comment_68_14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx): You could easily have provided us with a link, rather than having each one of us look it up.\n\nSorry about that, the main site is V.cash",
+				"added": 1459974087
+			}
+		],
+		"1_1XGf6G78ZwZwz4FeZBtmzxtKAsTicgaBN": [
+			{
+				"comment_id": 5,
+				"body": "Besides wasting a ton of time on bitcoin faucets to get a few pennies worth, just getting a job & buying BTC is a lot easier. Alternatively, bitwage will auto-convert your pay into BTC, never used it though. I have used Purse.io & bought people stuff on amazon for BTC, but the USD-per-BTC is awful.\n\nMaybe try putting some ads online (Craigslist or any other site) saying you're willing to do odd jobs (or any skills you have) for BTC? There are a few sites where you can take jobs for BTC online too, things like being an anonymous shopper/programming/advertising.",
+				"added": 1460316348
+			}
+		],
+		"1_1KdVeashoiPjj79tVUmAy8cBYjwxfZNe1e": [
+			{
+				"comment_id": 6,
+				"body": "Used to be WoW, but Cataclysm ruined that. Then it was Smite, but its gone to shit as well. Now I don't have a favorite, and I'm just looking for something to even play these days. Played a few short indie games that were fun, but they usually end in less than a day. Shadow warrior was pretty fun, but I beat games I like too quickly, and have no desire to replay. /wrists",
+				"added": 1460316615
+			}
+		]
+	},
+	"comment_vote": {
+		"6_1AxJtqoxhNyjRjUptGgVoVHxgxtKRzUrpY": 1
+	}
+}

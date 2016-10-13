@@ -1,0 +1,33 @@
+{
+	"next_topic_id": 3,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "Just an idea",
+			"body": "I'm new here like I've only been here a hour. But I already have a recomendation. Like I said I'm new and not 100% sure how all this works, but it would be cool if we could put the websites that we have visited into folder. Then we could make folders like \"Zero Sites\" \"My Sites\" \"Blogs\" \"Research ;)\". This is just a thought I had. I look forward to using ZeroNet.",
+			"added": 1470428650
+		},
+		{
+			"topic_id": 2,
+			"title": "How does the movie torrent site play work?",
+			"body": "Are all the movies uploaded by trusted people or should I be careful of what i download?",
+			"added": 1470443344
+		}
+	],
+	"topic_vote": {
+		"1_12xwWp1qTmxEXMxVxrG3AQKPk6MUWjQjM7": 1,
+		"1_1MsUAPBMZkBpt4Z46849vSJQxRHbR7HyMt": 1,
+		"2_12xwWp1qTmxEXMxVxrG3AQKPk6MUWjQjM7": 1
+	},
+	"next_comment_id": 2,
+	"comment": {
+		"2_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": [
+			{
+				"comment_id": 1,
+				"body": "http://127.0.0.1:43110/179retE5ChFjCGnwNKpMaPwgE7mVU5Fxvq/",
+				"added": 1470443369
+			}
+		]
+	},
+	"comment_vote": {}
+}

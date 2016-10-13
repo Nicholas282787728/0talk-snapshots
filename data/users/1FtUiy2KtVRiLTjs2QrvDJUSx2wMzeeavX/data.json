@@ -1,0 +1,33 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {
+		"1_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG": 1,
+		"10_1KdnTJVBGzEZrJppFZtzfG9chukuMv8xSb": 1
+	},
+	"next_comment_id": 4,
+	"comment": {
+		"1_1GkoHb4XqFDbLnxzrZxSzJK7dqnxmGyBRP": [
+			{
+				"comment_id": 1,
+				"body": "use the mycelium app on android. for iphone people seem to like breadwallet.   but mycelium has lots of really cool features.\n\nit's pretty secure, but don't keep any more money on your phone than you would keep in your wallet. never heard of anyone getting their mycelium wallet on android hacked, but for sure your phone could get lost or stolen.  in that case, good to have a pin set so if someone got your phone they wouldn't be able to spend your coins. and when you set up mycelium on your phone, make sure you write down the seed phrase (and keep it in a safe place) so you can restore your wallet on a different phone if does get lost,broken,or stolen.\n\nif you want to keep savings in bitcoin, you can use a hardware wallet such as Trezor or Ledger. these are considered very secure for large amounts, and are also backed up with a seed phrase.\n\nfor day to day transactions, mycelium is secure enough and has cool features like a built-in p2p trading market for buying and selling coins locally, and a us dollar wallet that automatically locks your btc value to a us dollar value if you want to insulate yourself from price volatility.\n\nfor super hard-core offline cold-storage, a paper wallet is still a good option if done correctly. http://www.bitaddress.org",
+				"added": 1467993397
+			}
+		],
+		"10_1GervYZoP82e8X1Rgc4wyMkJY2zSsJuq8t": [
+			{
+				"comment_id": 2,
+				"body": "that's kind of nuts. why would a website ever need to be that huge? it's just text articles, no?",
+				"added": 1470672598
+			}
+		],
+		"1_1HvZzixBMnPehyouwx83zNYK3E97MrUVxS": [
+			{
+				"comment_id": 3,
+				"body": "but we still love you even though you poop in your pants.",
+				"added": 1470973375
+			}
+		]
+	},
+	"comment_vote": {}
+}

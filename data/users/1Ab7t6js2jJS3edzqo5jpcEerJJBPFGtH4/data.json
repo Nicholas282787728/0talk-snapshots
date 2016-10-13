@@ -1,0 +1,65 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {
+		"6_17VwZEfWSUWb5RHkK9m1odnDdBfvjTL6Cp": 1,
+		"1_13Cqt2MSFS6eu4cbVuByZBuULrEAcZAqFG": 1,
+		"2_1M3WXb3DtLL9zsRy4ECqemV7ZyA4u4FNFU": 1,
+		"1_1NqBBGk69vKmEpN4EHafCeUQh8veeyysTj": 1,
+		"11_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1,
+		"5_1LRrd96P7FiTcsyNXVzPM5jtpQoH1B4gYf": 1,
+		"1_19M1DT5vruSATEcbEczYRwCk2uPuLcATBa": 1
+	},
+	"next_comment_id": 7,
+	"comment": {
+		"1_1AjxW1N844WRpscEFSotfsqLXsQurz83xc": [
+			{
+				"comment_id": 1,
+				"body": "It works fine for me on my server when I hit ctrl+z followed by running the bg command. Somebody else mentioned using screen, which would also work.",
+				"added": 1471820755
+			}
+		],
+		"2_1M3WXb3DtLL9zsRy4ECqemV7ZyA4u4FNFU": [
+			{
+				"comment_id": 2,
+				"body": "There should be a way to connect to a pre-existing node on mobile and use an app to interpret the html or something to display ZeroNet sites, but running a node on a mobile device would probably kill the battery relatively quickly.",
+				"added": 1471829587
+			},
+			{
+				"comment_id": 5,
+				"body": "> [gerardmensoif](#comment_2_1G4nMD7txaYAvdpDeroZ9f67K3gtHsGn8H): I use Zeronet on my LG Nexus 5 which has Nethunter installed (Kali linux on android...). In this case, from a termianl window, I am able to download and launch Zeronet on the device. My Internet browser can connect to 127.0.0.1:43110 and I am able to create a Zeromail account... ;)\n\nDoesn't that kill your battery really quickly though?",
+				"added": 1471863020
+			}
+		],
+		"1_1Au1bha13X56pcSkZewm2EhMeYFJC1i8S2": [
+			{
+				"comment_id": 3,
+				"body": "Port 43110 is the port you have to type on your Web browser to access the node. This was done because many people have Web servers already running on port 80 so an alternate had to be used. \nPort 15441 is the port used to actually download and upload content that the ZeroNet application uses.",
+				"added": 1471862705
+			}
+		],
+		"1_1NqBBGk69vKmEpN4EHafCeUQh8veeyysTj": [
+			{
+				"comment_id": 4,
+				"body": "> [antonymic](#comment_2_1NqBBGk69vKmEpN4EHafCeUQh8veeyysTj): i already use windscribe as a vpn but i hear all vpns are slow for downloading!\n> so i wanted to brainstorm about the most secure torrent client .\n\nAs a VPN user, yeah, it sucks. However, for whatever reason I was able to increase the speeds tremendously by setting a proxy on my torrent client. I have no idea how that works, but it does. \nTorrent client usually doesn't matter much in how anonymous your downloads are though.",
+				"added": 1471862935
+			}
+		],
+		"11_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": [
+			{
+				"comment_id": 6,
+				"body": "> [beelzebub](#comment_4_13Cqt2MSFS6eu4cbVuByZBuULrEAcZAqFG): very interesting.....\n\nOh god no",
+				"added": 1471863476
+			}
+		]
+	},
+	"comment_vote": {
+		"1_13eTQePN4cvnxL9qFurmPFgHRTXMGNNbCy": 1,
+		"8_1FEikAyxCNPJcW996B69r5UFg29yfq579m": 1,
+		"2_1G4nMD7txaYAvdpDeroZ9f67K3gtHsGn8H": 1,
+		"4_13Cqt2MSFS6eu4cbVuByZBuULrEAcZAqFG": 1,
+		"165_14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx": 1,
+		"2_137rkKX9pJ4sdjoHtiEV9qtHWc7xVgNj5n": 1,
+		"742_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1
+	}
+}

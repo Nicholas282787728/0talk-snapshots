@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HERa6v65iQ9RelMM3LgWgcy1VSVE5zt+NeXKdvau/niDJCwbpR8kkoPuVd1aQp567swynXtjONP4FR1XDlGHuE8=",
+ "cert_user_id": "nguedes84@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "f6f6bfe4587dd571569ce6e4a12b9e885219c194340d9afc6f4418abcb32cc40",
+   "size": 238
+  }
+ },
+ "inner_path": "data/users/13Rt7AyjDq6hy1JuNm3AFCraE5EeX8BkSg/content.json",
+ "modified": 1460474299.935,
+ "signs": {
+  "13Rt7AyjDq6hy1JuNm3AFCraE5EeX8BkSg": "G0SgcRCQH6H2vxIUf9gB3h+Crwx7iPD8UVnMN86j+HiVN2hneoHSBti8UEYe5uTtzyxDauSOe6yOlg32RTxFuNM="
+ }
+}

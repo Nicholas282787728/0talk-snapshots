@@ -1,0 +1,16 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 2,
+	"comment": {
+		"1_12zyC2je1V8Sfq6C5d6CSzUkjYf4bEdva4": [
+			{
+				"comment_id": 1,
+				"body": "You just use Tor on top of it.",
+				"added": 1463381153
+			}
+		]
+	},
+	"comment_vote": {}
+}

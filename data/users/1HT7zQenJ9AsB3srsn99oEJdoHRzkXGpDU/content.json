@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HNbFxy5wCjR/srzEWw0YXVJgAvHTLVFaETYXwkUQVqF2fbu+VC4rIc0SU/te4vjzVP9jntf0O9aZBBLtvKrf9IU=",
+ "cert_user_id": "bloodgreen@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "c0f528b5dcd1043aae198faa2a65b2993756826cff566ccd18983b321df92fc1",
+   "size": 959
+  }
+ },
+ "inner_path": "data/users/1HT7zQenJ9AsB3srsn99oEJdoHRzkXGpDU/content.json",
+ "modified": 1462640749.907,
+ "signs": {
+  "1HT7zQenJ9AsB3srsn99oEJdoHRzkXGpDU": "G9Mj5JdAp04T/W6rke64iE1h9OVKeNMlQm6ZmQQLQ2Y7776n5WYKW9nUY/+KFjTSsqNajEhyk7d3zBqybvnIsRQ="
+ }
+}

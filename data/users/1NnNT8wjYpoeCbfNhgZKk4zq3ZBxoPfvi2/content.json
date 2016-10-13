@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HEvV4zB9N0zu2ScUDHvtuQJmGrPGDikEMhK84mncf+k8j8e6zUk8XLoobqcv6lBicn7Dv7QrXaZiAgIS+Gt2Z6Y=",
+ "cert_user_id": "drawkula@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "8727af12c4bd6c4b367673a003a8f1554dddb3099f33a3229f21f5df2bfc9c87",
+   "size": 752
+  }
+ },
+ "inner_path": "data/users/1NnNT8wjYpoeCbfNhgZKk4zq3ZBxoPfvi2/content.json",
+ "modified": 1457107191.62746,
+ "signs": {
+  "1NnNT8wjYpoeCbfNhgZKk4zq3ZBxoPfvi2": "G7uP8C0pwMLizo59Zof+vqprVfsJknzJi7JR4vihF+yus7/NSo0UHBdlhtbohwSYbwzWCIaXfn8c8NdghPRh9Xc="
+ }
+}

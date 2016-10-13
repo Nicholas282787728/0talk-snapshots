@@ -1,0 +1,72 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {
+		"1_1GtJqyJRsuZhmxVtw5USgvqGbUmVH7EmBD": 1,
+		"8_17fgJ3tZjhM7HCkTkd5TWf2BLLWmhRKcXB": 1,
+		"1_1PaX4LQSsjsJvTNqfZbAApgmgzBJjrkRqZ": 1,
+		"1_1PnCqnnZscQNPpRmHHZ7UfBpv2oZoqejMB": 1,
+		"1_1H1MoVnTYgxbiBp3B7hCequmDfdwKVs4f2": 1,
+		"4434_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG": 1,
+		"4432_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG": 1,
+		"4431_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG": 1,
+		"4430_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG": 1,
+		"4424_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG": 1,
+		"4420_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG": 1,
+		"4417_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG": 1,
+		"1_1NzjwWNcVjsX1ndBgkgC1EM5EUzMACGm8L": 1,
+		"1_15P5kZhBwmwiuBmSUBSkBsT2DLEUYvn24u": 1,
+		"4_1MEWJRMLgvofqG9Mbsb2Rc4hFFyv7HeRx7": 1,
+		"2_18rFd7W9y5QGQEVXaCoJV7jyt7D8aN156h": 1,
+		"9_1LRrd96P7FiTcsyNXVzPM5jtpQoH1B4gYf": 1,
+		"1_1LBz6orS5KPtvoS7BaTsgquYnMsystDNjE": 1,
+		"10_1LRrd96P7FiTcsyNXVzPM5jtpQoH1B4gYf": 1,
+		"8_1H8oKiRa7fGgUqS1hpUtaSYLvAqkaknbkf": 1,
+		"4952_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG": 1,
+		"1_18ZfPCaU1pYAeos3A7YhZVgtsmXqXeRRW7": 1,
+		"1_1MA9FAQkvuKGyyr29ecGJ3FtMjPKBtJhpU": 1,
+		"1_1Frg5nFndHFkmUaaGK7Qr46dRLX8a2BhBT": 1
+	},
+	"next_comment_id": 3,
+	"comment": {
+		"1_1PnCqnnZscQNPpRmHHZ7UfBpv2oZoqejMB": [
+			{
+				"comment_id": 1,
+				"body": "Cool thing is that Bitcoin can also work without any internet connections. This means possibilities for Zero Net are endless since it probably can too!",
+				"added": 1457535139
+			}
+		],
+		"8_17fgJ3tZjhM7HCkTkd5TWf2BLLWmhRKcXB": [
+			{
+				"comment_id": 2,
+				"body": "I think it would also be kind of nice if you were able to see all the blog-posts you've liked too.",
+				"added": 1457535931
+			}
+		]
+	},
+	"comment_vote": {
+		"4_15YUzYgogtiHYqXP5HXtdLS2dLZuxnvuRQ": 1,
+		"62_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1,
+		"156_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf": 1,
+		"26_1H8oKiRa7fGgUqS1hpUtaSYLvAqkaknbkf": 1,
+		"8_1JoKQwXPzK8uyvMCRcwvMSAJPD5S4aH5Vt": 1,
+		"3_1JoKQwXPzK8uyvMCRcwvMSAJPD5S4aH5Vt": 1,
+		"64_1KwTTgPRSTHFmmJAFBt6kQfdyNeSM5KJuH": 1,
+		"63_1KwTTgPRSTHFmmJAFBt6kQfdyNeSM5KJuH": 1,
+		"61_1MEWJRMLgvofqG9Mbsb2Rc4hFFyv7HeRx7": 1,
+		"1_1MBQiBmt9BfoPnhYWenuxW9p9FGC1okjPU": 1,
+		"58_1MEWJRMLgvofqG9Mbsb2Rc4hFFyv7HeRx7": 1,
+		"20_1xf9XC4Nsa7YfQWFiK6xGsNDJA3AaCTUa": 1,
+		"14_1GNdkBSxTw6SpRdGHxDCyfANXnwi7FG7rJ": 1,
+		"3_1DFDjUGJdSp1kMuFq1AtNS9ZWmkVtbp947": 1,
+		"36_1PX7VW6xfccTT2tNUTwrYKJpGsGfrnoJfP": 1,
+		"14_1xf9XC4Nsa7YfQWFiK6xGsNDJA3AaCTUa": 1,
+		"54_14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx": 1,
+		"1_14oc4TdKFZgv764PavBYPQc15qQgmd7jgL": 1,
+		"18_1xf9XC4Nsa7YfQWFiK6xGsNDJA3AaCTUa": 1,
+		"25_1DcDDitsjFJohvwonPmpibRChmA7uGxqL7": 1,
+		"14_1KGozab6jp6jA6zVM8cTFdzMmBasriNP4f": 1,
+		"6_1AxJtqoxhNyjRjUptGgVoVHxgxtKRzUrpY": 1,
+		"585_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1
+	}
+}

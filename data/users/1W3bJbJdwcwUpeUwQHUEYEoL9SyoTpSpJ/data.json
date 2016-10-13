@@ -1,0 +1,25 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "Thoughts on Rightscorp browser jacking?",
+			"body": "Having interacted directly with the head of Rightscorp in the past, I find this company to be incredibly myopic in their efforts, but now with some of the US courts consenting to Rightscorp's invasive requests to ISPs to hand over customer data, I find this new attack on users to be especially despicable. \n\nRightscorp is essentially running an extortion racket and now they're boasting the ability to hijack \"offenders'\" browsers until their fees are paid. \n\nhttps://torrentfreak.com/rightscorp-plans-to-hijack-pirates-browsers-until-a-fine-is-paid-160402/",
+			"added": 1459805544
+		}
+	],
+	"topic_vote": {
+		"1_1W3bJbJdwcwUpeUwQHUEYEoL9SyoTpSpJ": 1
+	},
+	"next_comment_id": 2,
+	"comment": {
+		"1_18jipjDsfAxAuq4ixbi2w24xJrYVfTYFPn": [
+			{
+				"comment_id": 1,
+				"body": "US",
+				"added": 1459813715
+			}
+		]
+	},
+	"comment_vote": {}
+}

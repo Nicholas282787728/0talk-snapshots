@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HEglw9YCsorzU067+gwP2eKkuODBDDU2H59AtC2LOsvkqmCz9WSGeDAoKVtbtko+VObzlWRiuFbbaDRzTc99GMg=",
+ "cert_user_id": "doctorwho@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "7827caeafc1d548af3d3aa5fbf037d4a30d9572be17795d9b32a6ad37c65a5f1",
+   "size": 162
+  }
+ },
+ "inner_path": "data/users/1AiXLKDDQP3hQ6HjdEVSmRQY1qDKSfWyST/content.json",
+ "modified": 1458575947.814426,
+ "signs": {
+  "1AiXLKDDQP3hQ6HjdEVSmRQY1qDKSfWyST": "HHaaT4BC1BXTxA056KaldQ/E3BXO5+EvVTCBhh/bBFHnyRt1gSn3NATZKO3DXXdWFgNXwF7qWcdQa3nUkuU98IQ="
+ }
+}

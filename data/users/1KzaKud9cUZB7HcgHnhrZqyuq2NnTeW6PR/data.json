@@ -1,0 +1,131 @@
+{
+	"next_topic_id": 8,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "Errno 61 TOR:ERROR on Macbook Pro - Can't fix.  Help?",
+			"body": "Recently downloaded Zeronet and TOR.   Got the TOR:ERROR (Errno 61).  However, inside TOR, I can still browse.  I followed the Help link to set 127.0.0.1 no proxy thing.  Didn't fix it.  Loosing the will to live.   Any help would be appreciated.",
+			"added": 1472288415
+		},
+		{
+			"topic_id": 2,
+			"title": "What's the best o/s for trouble free install & use for Zeronet?",
+			"body": "I am one of those people who just wants IT to work.  If my goal is the most trouble free (install and general usage) for Zeronet in combo with TOR, what is the o/s of choice?  Windows 10?  Linux (what flavour)?   I won't include Mac OS/x because that's what I have now and it's not been a happy journey.",
+			"added": 1472290529
+		},
+		{
+			"topic_id": 3,
+			"title": "What's the best site for movies of all kinds?",
+			"body": "What's the best site to safely and privately download a good range of movies?  Are they torrent and is a separate torrent client still required outside Zeronet?",
+			"added": 1472299019
+		},
+		{
+			"topic_id": 4,
+			"title": "Getting \"The address wasn't understood\" trying to download movie on Play",
+			"body": "Any suggestions how I can fix this issue?",
+			"added": 1472314680
+		},
+		{
+			"topic_id": 5,
+			"title": "A good torrent client for os x macbook in combo with zeronet & TOR?",
+			"body": "Any suggestions for a good torrent client for os x in combination with zeronet & TOR?\nNo  spyware and adware, clean install, etc.  I was recommend to use Tixati but that's only for Windows and Linux.",
+			"added": 1472380985
+		},
+		{
+			"topic_id": 6,
+			"title": "How to contribute most effectively to Zeronet's success?",
+			"body": "Just learning about Zeronet and trying it out.  Seems like a very good thing to use but I realize that people have to provide support in some way in order to make it grow and succeed.    What would be the most useful thing to contribute to add to the success of Zeronet?   In terms of what I can do,  I am quite technical due to my work but I am not a developer as such.  I'm a database specialist by the way but not open source solutions.  It would be within my scope to build and commission a hub for example but would be asking lots of questions from the experts.   \n\nMy interests are mainly in the area of keeping the Internet uncensored and uncontrolled by Governments and Corporates.  That battle may be lost - hence Zeronet.  Would love to see unmonitored equivalents of Facebook for example.   I'm also interested in the concept of Open Source Everything - Robert David Steele.",
+			"added": 1472393126
+		},
+		{
+			"topic_id": 7,
+			"title": "zeroTorrent.bit - click 'load more' to get more results - just hangs TOR",
+			"body": "If I go onto zeroTorrent.bit and click 'load more' to get more results, it just hangs TOR and I have to kill the TOR process as they only option.   I have plenty of system resources so it's not lack of memory of anything like that.  Any ideas?  \n\nAlso, in zeroTorrent, if I search for anything, I just get the message, 'initial synch in progress' and nothing happens.",
+			"added": 1472477877
+		}
+	],
+	"topic_vote": {},
+	"next_comment_id": 14,
+	"comment": {
+		"2_1KzaKud9cUZB7HcgHnhrZqyuq2NnTeW6PR": [
+			{
+				"comment_id": 1,
+				"body": "> [nofish](#comment_739_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): On windows the tor is bundled with ZeroNet, so you don't have to download anything.\n\nThanks.",
+				"added": 1472292391
+			},
+			{
+				"comment_id": 5,
+				"body": "> [mynameislegion](#comment_9_1NAaF8VitwKSPo79RzJFhqz14gndmdWcGV): For safety reasons I would install it on a virtual machine, especially when using Windows. If a site hosts malicious software, it'd be downloaded to your machine. Just get virtual box (it is free), install Windows (with activation hack) or Ubuntu on it and you're good to go.\n\nInteresting.  Can you tell me where to find free virtual boxes?  Sounds good to me!",
+				"added": 1472317324
+			},
+			{
+				"comment_id": 6,
+				"body": "> [mynameislegion](#comment_10_1NAaF8VitwKSPo79RzJFhqz14gndmdWcGV): There's a bit of a learning curve involved but it is doable with the right tutorials (That's how I learnt it).With virtualbox you can create a computer inside of your computer and install an OS in it. Now I could write a book but there's a lot of information out there on Google.\n> Looks like you have MacOS. You should have at least 2 GB RAM free for your virtual machine and a nice CPU as your hardware will be shared by two computers.\n> \n> First of all, you will need to download the virtualbox software on your computer. Get virtualbox from https://www.virtualbox.org/wiki/Downloads\n> \n> Get an ISO file for the OS you want to install - for Linux (for absolute beginners Mint Cinnamon would be a good choice as the UI is similar to Windows, simply head to https://www.linuxmint.com/edition.php?id=217).If you want to install Windows, you can get an iso (at best Win7 64bit) from a torrent website, e.g. pirate bay or maybe you have a physical disk at home. For Windows you would neen an activation crack as well of course. \n> \n> To create a virtual machine with virtualbox and the iso, you will find thousands of guides online, e.g. http://www.makeuseof.com/tag/how-to-use-virtualbox/ or https://www.youtube.com/watch?v=PL7Dh6drlBw\n> \n> You will have a computer inside a computer, on which you can install ZeroNet.\n\nThank you. Much appreciated.",
+				"added": 1472322563
+			}
+		],
+		"1_1KzaKud9cUZB7HcgHnhrZqyuq2NnTeW6PR": [
+			{
+				"comment_id": 2,
+				"body": "> [kaffie](#comment_176_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh): I wrote a guide on how to properly set up Tor on Mac.\n> It's just a matter of downloading and running the tor daemon, and configuring it in a particular way. ZeroNet then automatically detects it.\n\nThanks but your link doesn't work unfortunately.   I love that word, 'just'! I did the obvious but it doesn't work.",
+				"added": 1472298149
+			},
+			{
+				"comment_id": 3,
+				"body": "> [zarty](#comment_2_1KzaKud9cUZB7HcgHnhrZqyuq2NnTeW6PR): Thanks but your link doesn't work unfortunately.   I love that word, 'just'! I did the obvious but it doesn't work.\n\n> [zarty](#comment_2_1KzaKud9cUZB7HcgHnhrZqyuq2NnTeW6PR): Thanks but your link doesn't work unfortunately.   I love that word, 'just'! I did the obvious but it doesn't work.\n\nOk, I was able to open your guide thanks.  I got down to step 5... However, the two lines were already uncommented and the port number were different...  ControlPort 49051.  I continued without changing the file.   At step 7, 'tor start' just fails.  Tried SUDO tor start, same error:-\n\nClives-MBP:tor cliverichardson$ tor start\nAug 27 14:09:10.401 [notice] Tor v0.2.8.7 running on Darwin with Libevent 2.0.22-stable, OpenSSL 1.0.2h and Zlib 1.2.5.\nAug 27 14:09:10.402 [notice] Tor can't help you if you use it wrong! Learn how to be safe at https://www.torproject.org/download/download#warning\nAug 27 14:09:10.402 [warn] Command-line option 'start' with no value. Failing.\nAug 27 14:09:10.402 [err] Reading config failed--see warnings above.\n\nSo this is as far as I got.  Thanks for your help so far by the way.",
+				"added": 1472304074
+			},
+			{
+				"comment_id": 4,
+				"body": "> [kaffie](#comment_178_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh): Try changing it to the values in the guide.\n> \n> Yea, this is my bad. I should probably fix my guide. Just start tor with tor.\n\nHere's the torrc file.  I started Tor and restarted Zeronet.   Still not working.\n\n# Tor config for ZeroNet\n\nDataDirectory data\nDirReqStatistics 0\nGeoIPFile geoip\\geoip\nGeoIPv6File geoip\\geoip6\n\n# Log notice file data\\notice.log\n\nControlPort 9051\nSOCKSPort 9050\n\nCookieAuthentication 1",
+				"added": 1472310975
+			},
+			{
+				"comment_id": 7,
+				"body": "> [kaffie](#comment_179_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh): This is my torrc file. Literally the only two non-comment lines are:\n> ControlPort 9051\n> CookieAuthentication 1\n> That file should be in /usr/local/etc/tor/. I dunno what that other stuff you listed is. ZeroNet is uncompletely unmodified. I then start tor using just tor in a separate terminal window/tab. And then I start ZeroNet with sudo python zeronet.py. Did you install it through homebrew?\n\nThanks!  That gave me the clue.  I screwed up because I searched for the torrc file and ended up editing the copy in the download folder instead of /usr/local/etc/tor/    Doh!    It also helped that I realized that I had to kill the TOR process in order to be able to start it off the amended torrc file.  Thanks very much for your help!",
+				"added": 1472346587
+			}
+		],
+		"1_114c9kLxp6SPG4xhhHZEnoijFdYA8j23JE": [
+			{
+				"comment_id": 8,
+				"body": "For the uninitiated, what are unity assets?",
+				"added": 1472380343
+			}
+		],
+		"4_1KzaKud9cUZB7HcgHnhrZqyuq2NnTeW6PR": [
+			{
+				"comment_id": 9,
+				"body": "> [tkarita](#comment_118_1GervYZoP82e8X1Rgc4wyMkJY2zSsJuq8t): Those are magnet links.  You'll need to open them with a torrent client.  Tixati is good.\n\nThanks tkarita.",
+				"added": 1472380454
+			}
+		],
+		"5_1KzaKud9cUZB7HcgHnhrZqyuq2NnTeW6PR": [
+			{
+				"comment_id": 10,
+				"body": "> [kaffie](#comment_180_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh): I use transmission. It comes default on a lot of Linux distros, so if you ever use one, you can find your way around pretty quick. It's also relatively simple, no spyware/ads, etc.\n> Alternatively, if you want a streaming client, webtorrent is good (and promotes webtorrents as well). I also hear good things about bitx.\n\nThank you kaffie.   transmisson worked straight out of the box.",
+				"added": 1472391845
+			},
+			{
+				"comment_id": 12,
+				"body": "Ok, thanks everyone.  I think understand it now.  I decided to try out a seedhost in the cloud to handle the downloading. I just copy the magnet URL of the torrent from one of the zerotorrents, paste it via an https web page session onto the seed host and it handles the download.  I can then use sftp to get the downloads onto my client.  Sound secure?",
+				"added": 1472477514
+			}
+		],
+		"16_19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ": [
+			{
+				"comment_id": 11,
+				"body": "Well done for creating this.  Hope it builds up.   Hope also you can make the seeding more a one-click process because that will help get things moving along.",
+				"added": 1472462696
+			}
+		],
+		"7_1KzaKud9cUZB7HcgHnhrZqyuq2NnTeW6PR": [
+			{
+				"comment_id": 13,
+				"body": "> [tkarita](#comment_121_1GervYZoP82e8X1Rgc4wyMkJY2zSsJuq8t): The ZeroTorrent list is gigantic.  You're better off using the search box and hoping the thing you want exists.  \"Initial sync in progress\" is the default message used to indicate a ZeroTalk forum hasn't downloaded any posts yet.  When there are no posts simply because they've all been excluded by a search, it isn't accurate anymore.  Are you using the Tor browser, and that hangs?\n\nYes, using TOR browser and it hangs on 'load more'.   Search doesn't yield any results.",
+				"added": 1472481881
+			}
+		]
+	},
+	"comment_vote": {}
+}

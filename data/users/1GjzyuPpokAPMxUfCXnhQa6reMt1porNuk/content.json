@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "G1o6b2Y1hyfiab4gs5FKflK+FpFP810ckMmLK0IDQ4ZQtJFvGQTtFCE/9t2xRPVMjbSzIzGvLptjGtB0t2LJ6Lc=",
+ "cert_user_id": "skipperio@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "de2fc0f7b7d09116cdb44187c29b22eaed88eda2f27b2f653e47a4e5e01e26bb",
+   "size": 420
+  }
+ },
+ "inner_path": "data/users/1GjzyuPpokAPMxUfCXnhQa6reMt1porNuk/content.json",
+ "modified": 1457082718.819,
+ "signs": {
+  "1GjzyuPpokAPMxUfCXnhQa6reMt1porNuk": "G5ezyKkv4zOIPnIuDCn35awZQy8+jFQva22yW5h+fj+J+9I4kUsxM/pNQKkdVyt2wdYqmSVUdj5177X4+jHoBmU="
+ }
+}

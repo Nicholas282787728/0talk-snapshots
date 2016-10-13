@@ -1,0 +1,44 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "Can I save my zeroID and use in another instance?",
+			"body": "Asking if I can save my zeroID and use in another instance...",
+			"added": 1456936446
+		}
+	],
+	"topic_vote": {},
+	"next_comment_id": 5,
+	"comment": {
+		"1_1PRsmkcDcCnKbCfFTeQizKYcDpNn98iQcT": [
+			{
+				"comment_id": 1,
+				"body": "私は日本語を勉強しています！",
+				"added": 1456936280
+			}
+		],
+		"1_1C6JtzttTcB1nd8Q8JZYDHriciPz3kvLqV": [
+			{
+				"comment_id": 2,
+				"body": "> [nofish](#comment_380_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): your identity is stored in data/users.json file all you need to do is copy it to an another instance if you want to use it there.\n\nThank you. I created a Docker instance so I felt the need to save my ID. May should they make the data volume as a volume in the Docker Image.",
+				"added": 1456937458
+			}
+		],
+		"3_15EnNiQcFsavvvm7WHt7SCjCv4vV6Gyu7z": [
+			{
+				"comment_id": 3,
+				"body": "> [drapslaget](#comment_2_15EnNiQcFsavvvm7WHt7SCjCv4vV6Gyu7z): Thanks, any idea on how to do that in an already started docker container?\n\nI did running `docker exec -i zeronet_docker_name_here /bin/bash`\nand `tail -n 100 /root/data/users.json`\nso copied manualy...",
+				"added": 1456940559
+			},
+			{
+				"comment_id": 4,
+				"body": "> [garou](#comment_3_1C6JtzttTcB1nd8Q8JZYDHriciPz3kvLqV): I did running docker exec -i zeronet_docker_name_here /bin/bashand tail -n 100 /root/data/users.jsonso copied manualy...\n\nyeah... In the end you can just run `docker exec  zeronet_docker_name_here tail -n 100 /root/data/users.json`...",
+				"added": 1456940763
+			}
+		]
+	},
+	"comment_vote": {
+		"377_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1
+	}
+}

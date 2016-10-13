@@ -1,0 +1,16 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 2,
+	"comment": {
+		"2_1JHQA9oFkFpFFRiscyT4N71AKLWg46pQ92": [
+			{
+				"comment_id": 1,
+				"body": "> [zerofreaky](#comment_1_1JHJ1y35pZp959hdpqUyY2VtnTepskRwxF): Hay algún usuario que ha comentado en otro hilo que podría utilizarse la tecnología de https://webtorrent.io/ para reproducir torrents descargados desde aquí.\n> Esto acaba de salir del cascarón, esperad a que la gente vaya sacando aplicaciones nuevas ;)\n\nMe parece que sería una gran idea. Yo por ahora uso el sistema para ver torrents directamente en VLC, pues ahí además puedes descargarte subtítulos y añadirlos. De esta manera el sistema es muy funcional y práctico, pero complicado de instalar para la mayoría de usuarios. Espero que poco a poco vaya evolucionando y mejorándose la sencillez de acceso, que será una de las principales claves de éxito.",
+				"added": 1457121922
+			}
+		]
+	},
+	"comment_vote": {}
+}

@@ -1,0 +1,25 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "ZeroNet Forums Help - How to make a topic sticky?",
+			"body": "On this site, the top topic \"Test messages\" is stickied. How do I do this to my own topic on my own site?",
+			"added": 1458277013
+		}
+	],
+	"topic_vote": {},
+	"next_comment_id": 2,
+	"comment": {
+		"1_14Fk98LFCxHGnzEQDG3KiWqvYehNw6UaN2": [
+			{
+				"comment_id": 1,
+				"body": "> [nofish](#comment_538_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): in content.json there is settings part, you can put your topic id there (found in the url)\n\nThanks, that helped; but how can I do it via the web interface?",
+				"added": 1458319045
+			}
+		]
+	},
+	"comment_vote": {
+		"538_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1
+	}
+}

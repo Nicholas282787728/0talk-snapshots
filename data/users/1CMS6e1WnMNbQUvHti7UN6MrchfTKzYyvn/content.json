@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HGJ2sP3xo6X9pxH7ToA1oA38oDpp7rdahIleXjtAKIDQ9bqrJnxw1fdf03dEAo66bdHWZtDnulyaTLKB/C5OaCo=",
+ "cert_user_id": "bichomarcotas@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "4c4084ec506cd5ef8e1feb8ec90746c81453875e62d1791b4d3bf9a47ce6150e",
+   "size": 241
+  }
+ },
+ "inner_path": "data/users/1CMS6e1WnMNbQUvHti7UN6MrchfTKzYyvn/content.json",
+ "modified": 1470428893.814,
+ "signs": {
+  "1CMS6e1WnMNbQUvHti7UN6MrchfTKzYyvn": "HNiITHhcqGp6LAsvOm8O2ahB/3Kvcy3TWc1FzxrTtck+Kb0Dpw9AX0fbJFvMKSi1NX0rnea3MpJxZF9v/7jcf+A="
+ }
+}

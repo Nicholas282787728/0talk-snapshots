@@ -1,0 +1,35 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 5,
+	"comment": {
+		"1_1GKVos5hEJ2zKjKfjXurFCfxwjtvT2CD28": [
+			{
+				"comment_id": 1,
+				"body": "Good, that's halal.",
+				"added": 1468559010
+			}
+		],
+		"2_1LfQ8dwqkqkGQNCg1kBevHPxjvTRJTQYBz": [
+			{
+				"comment_id": 2,
+				"body": "We the Chinese people are the largest user group of anti-censorship software. Why do you ignore us?",
+				"added": 1468559446
+			},
+			{
+				"comment_id": 4,
+				"body": "> [xenith](#comment_14_1Buq4fyG8B3MxAvs7h4bASyWbrKFxmg4CJ): Because it is the only way the Chinese people have to communicate that cannot be silenced by the Great Firewall.\n\nYou must be kidding. VPN, Socks Proxy, Http Proxy and so many other \"wall-break\" technologies are worked so well in China these days.",
+				"added": 1468591981
+			}
+		],
+		"2_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": [
+			{
+				"comment_id": 3,
+				"body": "Alahu Akbar, for Paris!",
+				"added": 1468559506
+			}
+		]
+	},
+	"comment_vote": {}
+}

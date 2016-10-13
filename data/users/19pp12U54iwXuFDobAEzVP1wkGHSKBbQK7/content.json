@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HDaCwmSfOr8yaqunZoCVUDIPHolRitkNp9Z3Zro3xvT1dPxOZTm43XQa3wYN4ZAbv+QlslpnaIM3FVWkzS8qXfs=",
+ "cert_user_id": "cinturonorion@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "0a0265b47a0fdf3392b677ac5c6eb743aae962d1eb9c35d5c6cd3bde5540f315",
+   "size": 303
+  }
+ },
+ "inner_path": "data/users/19pp12U54iwXuFDobAEzVP1wkGHSKBbQK7/content.json",
+ "modified": 1457189162.502018,
+ "signs": {
+  "19pp12U54iwXuFDobAEzVP1wkGHSKBbQK7": "HKgn6TSl2CF2cRKHG6loxeIbFjwCP9eBRozWZ3lmSe/qlEqqRqr6S9TEnNkQao//0RHXrqhro8JbKjbFAwBL/H0="
+ }
+}

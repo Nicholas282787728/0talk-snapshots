@@ -1,0 +1,51 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {
+		"1_1BQg5MQZ63aEQZMzLEXP6yY3hsgznKpaps": 1,
+		"1_14tJBPnxcrF9kMK5v7DULWnaJx3JepirXb": 1,
+		"1_1LnyrYbdxDU1K78nEYVZkfJ1Q4SYP1ukFV": 1
+	},
+	"next_comment_id": 4,
+	"comment": {
+		"1_1BQg5MQZ63aEQZMzLEXP6yY3hsgznKpaps": [
+			{
+				"comment_id": 1,
+				"body": "Using BSD & Linux ... in ZeroNet currently only with Linux (Debian).",
+				"added": 1457443199
+			}
+		],
+		"1_1LnyrYbdxDU1K78nEYVZkfJ1Q4SYP1ukFV": [
+			{
+				"comment_id": 2,
+				"body": "[warning button] ++\n[downvote] +/- 0\n;-)",
+				"added": 1457444881
+			}
+		],
+		"2_1GCsW9TFfjDsvcdmKPADq1n8Q3ha72UtDQ": [
+			{
+				"comment_id": 3,
+				"body": "Use the right tool for the task...\nMy fab four are: AWK, C, Make, Python",
+				"added": 1457627392
+			}
+		]
+	},
+	"comment_vote": {
+		"1_18rwTQJ5QsASCHAguASWuN1uEZ3Fo9diyV": 1,
+		"16_14tJBPnxcrF9kMK5v7DULWnaJx3JepirXb": 1,
+		"5_146VSeNSr14tHL7cWkBrbq2n1Ywr1j2kXL": 1,
+		"17_14tJBPnxcrF9kMK5v7DULWnaJx3JepirXb": 1,
+		"1_1FbEENPR12D1yfqWWszQfNgb1Tu5TecMFV": 1,
+		"11_14tJBPnxcrF9kMK5v7DULWnaJx3JepirXb": 1,
+		"10_14tJBPnxcrF9kMK5v7DULWnaJx3JepirXb": 1,
+		"9_14tJBPnxcrF9kMK5v7DULWnaJx3JepirXb": 1,
+		"8_14tJBPnxcrF9kMK5v7DULWnaJx3JepirXb": 1,
+		"7_14tJBPnxcrF9kMK5v7DULWnaJx3JepirXb": 1,
+		"6_14tJBPnxcrF9kMK5v7DULWnaJx3JepirXb": 1,
+		"5_14tJBPnxcrF9kMK5v7DULWnaJx3JepirXb": 1,
+		"4_14tJBPnxcrF9kMK5v7DULWnaJx3JepirXb": 1,
+		"2_18rwTQJ5QsASCHAguASWuN1uEZ3Fo9diyV": 1,
+		"12_14tJBPnxcrF9kMK5v7DULWnaJx3JepirXb": 1,
+		"3_18rwTQJ5QsASCHAguASWuN1uEZ3Fo9diyV": 1
+	}
+}

@@ -1,0 +1,52 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "How do you create sticky posts and news flows?",
+			"body": "",
+			"added": 1454255998
+		}
+	],
+	"topic_vote": {
+		"1_18eNH913qX7e9vBExuMiv7qAMSRkJYNa21": 1
+	},
+	"next_comment_id": 6,
+	"comment": {
+		"2_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": [
+			{
+				"comment_id": 1,
+				"body": "Hello",
+				"added": 1453731543
+			}
+		],
+		"1_1L8UURA9tgSn2XcRxtpCRJYCQm5S9ELh2Y": [
+			{
+				"comment_id": 2,
+				"body": "> [nofish](#comment_223_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): To sticky a post currently you have to edit the source code: https://github.com/HelloZeroNet/ZeroTalk/blob/master/js/TopicList.coffee#L7The newsbot source code is here: https://gist.github.com/HelloZeroNet/006347ed183e7f3721ff\n\nThanks for the infos!",
+				"added": 1454269242
+			}
+		],
+		"2_167eTX5f6jJt4HPvfQqf2QuwdTFCnxJCf2": [
+			{
+				"comment_id": 3,
+				"body": "The space in the middle is used for the newsfeed, if you are using the new \"follow\" feature.",
+				"added": 1454945181
+			}
+		],
+		"2_15y72LFjQ4ymUTnkJP6CC7r73R5uoePgFW": [
+			{
+				"comment_id": 5,
+				"body": "Bratwurste",
+				"added": 1455101865
+			}
+		]
+	},
+	"comment_vote": {
+		"223_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"1_19A6hpNLaSguuDxa1tCXBBD2wB3oKtwhvu": 1,
+		"232_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"32_1QBLGLcgKfcpfLmiDYuDzUKVXFfmTAew55": 1,
+		"7_1BNmjz9tBLY3M1tq2z7DKvA1LjFXYsmLd9": 1
+	}
+}

@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "G5P9hVOGqiCn3KNKKe+GlDI6GE3Wx8zN1IzKnmL/63B5ftlUXB9Q91ey32xCtMVj3KLE/a53ldRxq3fTuSt+GqY=",
+ "cert_user_id": "moonmanmeme@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "0cd44bf70cf3fb2e8b1c24598b8dc69b6e767fb91dae8a725687d5a895ad6a6c",
+   "size": 1425
+  }
+ },
+ "inner_path": "data/users/13CnFMgi6N7KQkuomswsVwSU7bKfRC82KY/content.json",
+ "modified": 1472851659.838,
+ "signs": {
+  "13CnFMgi6N7KQkuomswsVwSU7bKfRC82KY": "HPa9mbwFQLlA+T7md94VkFUAkiKwy0ab3BvdDYf4YC6du5p/+KRZMiuBQXJiuPdqi/MSxGnWQR2v81jZE2S9msk="
+ }
+}

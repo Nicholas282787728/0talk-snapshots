@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HCtzKMJDPXYgkbFzc55e85ZvfEde8F0IyoJdSkqPCEmi4xDpNRxaCdvnT/bHaIm8dthJ9q3V399UoZsTmqQJ0PA=",
+ "cert_user_id": "freedomium@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "e90a16e689fa667e8abcba8682f016e5743b682308832534fe7698cbde52baf6",
+   "size": 1664
+  }
+ },
+ "inner_path": "data/users/1D1mHVvWghiztezcbXBmEufzYVaLdjG2pG/content.json",
+ "modified": 1457176222.995,
+ "signs": {
+  "1D1mHVvWghiztezcbXBmEufzYVaLdjG2pG": "G57zmrBqZ2T9lR65c55Txfg72v540TMc1H/9nKLJd7Mxv2Ff4Id206dmNlt9Ww0IiWW0XBkflqowvIqu5TFE71A="
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "GwftXf0x1MTtE8HTgAcdenZz6Wg8OQpwX/dZHCc3IA9pZLaUtUYhGACt9xtKAjBdw/Itp97hcUeRCQFUN04bpWI=",
+ "cert_user_id": "bullishonline@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "9b6201e62b7843bcee4de64a1835ad0c13900df6e9b495123c83e624aa48605d",
+   "size": 3788
+  }
+ },
+ "inner_path": "data/users/1Hw8MgzEGWsLfBRhKkCfah1SLqXoh2f64g/content.json",
+ "modified": 1465531111.716796,
+ "signs": {
+  "1Hw8MgzEGWsLfBRhKkCfah1SLqXoh2f64g": "G1FFeymEwALQ6zWCYzKQhxoyIJtZCO3UTuGxwb+Qrgdc24rLn9pBnZaTBVzxgL7M4SRzuUlj8d7BxC4Lm7goO0Y="
+ }
+}

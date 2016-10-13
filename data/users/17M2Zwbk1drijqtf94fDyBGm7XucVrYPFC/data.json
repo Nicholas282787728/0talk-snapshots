@@ -1,0 +1,113 @@
+{
+	"next_topic_id": 3,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "What happens if I modify my version of a zite?",
+			"body": "I hope there is a mechanism to prevent anybody from editing websites they are seeding in a way that'd influence the other versions of the zite, but I'd like to know for sure and also how it works.\n\nExample: Because I'm browsing 0talk, I have a local folder containing the files. When I click Add new topic, this local data is changed and the change is sent to all others, so that the zite contains my post, even if I'm offline. But what if I replaced the \"Add new topic\" Button functionality with malicious code? Would that be shared on to others?\n\nI know, the mentality should be the key to a working network like this, but just because we should and maybe can rely on peole's morals when everything is so easily hackable that nobody gets a sense of accomplishment of doing it, I find we should have at least some security measurements. Is there for example a way to define code that can never be changed when I create a zite?\n---------------------------------------------------------------------------------------------------------------------------------------\nAlso, as I'm kinda new here, how does publishing new stuff to a zite work? Maybe the answer is the same. Do changes have to be signed to be accepted or something like that?",
+			"added": 1466321477
+		},
+		{
+			"topic_id": 2,
+			"title": "ZeroBoard Bug report: Message submit failed. Parsing parameters",
+			"body": "\"Message submit failed. Parsing parameters... please try again later\"\nUpdating the zite didn't help. The problem happened already yesterday so a reboot of zeronet didn't fix it either. I don't really understand when it happens, but thought I'll still mention it.\n\nIf it's my bad, please tell me how to fix. If it isn't, I guess a bug report thread won't hurt, right?",
+			"added": 1466328036
+		}
+	],
+	"topic_vote": {
+		"1_1JWy7zt6aDhpnDQ7fmsKUqNu8LzeoT1VRa": 1
+	},
+	"next_comment_id": 14,
+	"comment": {
+		"1_1JWy7zt6aDhpnDQ7fmsKUqNu8LzeoT1VRa": [
+			{
+				"comment_id": 1,
+				"body": "Another newbie here. I'm not sure how I can regulate which sites I'm seeding (any that I didn't pause or delete?) and how to completely shutdown my zeronet client if I really need the bandwidth myself. Also, what exactly does the open port help?",
+				"added": 1466260508
+			},
+			{
+				"comment_id": 2,
+				"body": "> [fr33d0m](#comment_2_1JWy7zt6aDhpnDQ7fmsKUqNu8LzeoT1VRa): this is my ZeroBlog: http://127.0.0.1:43110/1CgeBQ7qTstV5iHMRyKpq8JvT8Qto1Gb1Y/\n\n*independent :P Always happy to help when I can be a grammar nazi doing it (correcting your spelling on the linked site)",
+				"added": 1466260580
+			},
+			{
+				"comment_id": 3,
+				"body": "Also, do I somehow get notified if somebody replies to a comment of mine (e.g a (+1) Icon on the mainpage of ZeroTalk) or do I have to check myself?",
+				"added": 1466260834
+			},
+			{
+				"comment_id": 5,
+				"body": "> [crq](#comment_1_17M2Zwbk1drijqtf94fDyBGm7XucVrYPFC): Another newbie here. I'm not sure how I can regulate which sites I'm seeding (any that I didn't pause or delete?) and how to completely shutdown my zeronet client if I really need the bandwidth myself. Also, what exactly does the open port help?\n\nfound out about shutting down. It is on the Hello Page on top left in the menu with the three dots",
+				"added": 1466264159
+			}
+		],
+		"4_1EMpuiFM1NLZmAVyoAWnwi8VwiZVV4dcnN": [
+			{
+				"comment_id": 4,
+				"body": "Maybe add a disclaimer \"Pls don't hack. We know it's easy.\" That might help ^^",
+				"added": 1466263831
+			}
+		],
+		"4_19R2USgb9vPyg1jPQEJkGVoBwDuDcEmHRF": [
+			{
+				"comment_id": 6,
+				"body": "you may also be interested in the normal website bookzz.org, it has pretty many books",
+				"added": 1466320687
+			}
+		],
+		"1_1LrJ9rZg2Mk2uK8MyPx42iWPEHTLKXzxVn": [
+			{
+				"comment_id": 7,
+				"body": "I'd like to also suggest a search engine here in 0Talk, to refind posts once they've become many\n\nhttp://127.0.0.1:43110/1Mr5rX9TauvaGReB4RjCaE6D37FJQaY5Ba in case this wasn't just about putting the search engine at the hello page but finding a search engine at all.",
+				"added": 1466320839
+			}
+		],
+		"1_17M2Zwbk1drijqtf94fDyBGm7XucVrYPFC": [
+			{
+				"comment_id": 8,
+				"body": "whoa how did this text become bold?",
+				"added": 1466321520
+			},
+			{
+				"comment_id": 10,
+				"body": "> [kindlyfire](#comment_21_1FTFKztuv4Z5uy6iS83k9hB2xtS6yFnDxx): If you modify a zite's code, you won't be able to seed the files you edited, because it doesn't match what the original author signed. The only way to modify a zite and send it to every peer is to sign it with the zite's private key.\n\nAlright, thanks :)\nHow does stuff like posting here work then? it also changes content.",
+				"added": 1466327249
+			},
+			{
+				"comment_id": 11,
+				"body": "> [kindlyfire](#comment_22_1FTFKztuv4Z5uy6iS83k9hB2xtS6yFnDxx): It doesn't actually change the site's source code itself. When this site's author made the zite, he specified that every user id (mine is kindlyfire@zeroid.bit per example) can have it's own directory. You and the admin are the only persons who can write in that directory. The admin can also specify a maximum size, which is 40K here.\n> When a users opens the zite, ZeroNet will build a database containing everything in every user's directory. That way, if you publish content in your directory, it will get published in everybody's local database. But: you can only edit your own directory, not the one of somebody else.\n> Hope that clears some things up :) docs need some clearing up on that too.\n\nthanks :)",
+				"added": 1466332892
+			}
+		],
+		"2_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": [
+			{
+				"comment_id": 9,
+				"body": "<h2><a href=\"http://127.0.0.1:43110/1Mr5rX9TauvaGReB4RjCaE6D37FJQaY5Ba> Test about html support or nah </a></h2>",
+				"added": 1466321614
+			}
+		],
+		"1_12r7XN7Dq1gML4ECgrcJsf1uCQWXcD7mSe": [
+			{
+				"comment_id": 12,
+				"body": "Those might help you make it work\nhttp://127.0.0.1:43110/Blog.ZeroNetwork.bit/?Post:43:ZeroNet+site+development+tutorial+1\nhttp://zeronet.readthedocs.io/en/latest/using_zeronet/create_new_site/ (same link as yee posted)\nOnce it works, I guess you'll have to get some visitors so that you aren't the only seeder anymore.",
+				"added": 1466434770
+			}
+		],
+		"1_14PXH1VLXEseL1h6gLpHqi3bXEAdamDwgg": [
+			{
+				"comment_id": 13,
+				"body": "(Have not read through the whole thread, sue me)\nJust dropping in my tiny bit of experience from the clearweb: Usually Access-Control-Allow-Origin problems happened to me, when I was trying to POST/GET-Request some data. The Server where the data comes from does often not allow giving it away unless to itself - this is why it might work on localhost debugging.",
+				"added": 1466435339
+			}
+		]
+	},
+	"comment_vote": {
+		"29_1CMYxdit4qq9QGk9DYRu2ruRPd2YDGckH8": 1,
+		"17_1FTFKztuv4Z5uy6iS83k9hB2xtS6yFnDxx": 1,
+		"28_1BLPKyrF2D4ertte6JnAa6oWAMYzZGwKQz": 1,
+		"21_1FTFKztuv4Z5uy6iS83k9hB2xtS6yFnDxx": 1,
+		"114_1ADB7TdX2fVbTsWBoMe9yBTmVXTbb33b4R": 1,
+		"22_1FTFKztuv4Z5uy6iS83k9hB2xtS6yFnDxx": 1,
+		"80_14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx": 1
+	}
+}

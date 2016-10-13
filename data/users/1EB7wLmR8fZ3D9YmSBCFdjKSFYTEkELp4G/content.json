@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "Gz/ksd5L/hTAj2Iw9xyxUQNELwDSLjig3yrFM4+yAtZd+4K4PIrnY6aMV+Tfc3cRBknCavFWCNa96BcpCKupF+s=",
+ "cert_user_id": "installgentoo@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "c11c829906d1c071ffc98149d30f7911f0840e3fde72047f7762d49b3bce9fc5",
+   "size": 430
+  }
+ },
+ "inner_path": "data/users/1EB7wLmR8fZ3D9YmSBCFdjKSFYTEkELp4G/content.json",
+ "modified": 1467826181.57131,
+ "signs": {
+  "1EB7wLmR8fZ3D9YmSBCFdjKSFYTEkELp4G": "HAZ/xOy5Ls2NPzeGauc+QBsQljRYzq1+HojCi0sg/oeG3Nd6KaNAivoLqmuiDvIrd6eyshyMk6Up6lUBPyV8uk0="
+ }
+}

@@ -1,0 +1,47 @@
+{
+	"next_topic_id": 3,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "Proxies get an outdated version of my page. Why?",
+			"body": "Folks,\n\nI created a test page a few days ago and updated and resigned it a two hours later. ZeroHello shows it is currently shared by 13 users. Today I was testing a few proxies and noticed all them display the older version, just before the update.\n\nI think people are having some problem in downloading my updated version.  How can I fix it?",
+			"added": 1457194122
+		},
+		{
+			"topic_id": 2,
+			"title": "How to make a site load content from another site?",
+			"body": "Folks,\n\nI was trying to write a video on-demand site which store videos splitted in segments (a few MB each), every one hosted in a different site, while a \"master site\" would load and play them in sequence. Idea is users do not need to download the entire video to start playing and it would be possible to jump to a given segment, even before downloading the other ones.\n\nTo my surprise, I could not make ZeroNet to load them (eg. a video element with src=\"/skajskasjkasjsjsalkjsakjsakjdjaks/videopart.mp4\"), which causes a 403. Is there a way to do this?",
+			"added": 1457204794
+		}
+	],
+	"topic_vote": {
+		"1_154jAWx5PDRmvF4txGHo4Edw1BpduhDyvw": 1,
+		"2_1DcDDitsjFJohvwonPmpibRChmA7uGxqL7": 1,
+		"2_1BY3fbfkw2w8oDtpbjbEQQbpmNzrWL4BqN": 1
+	},
+	"next_comment_id": 4,
+	"comment": {
+		"2_1BY3fbfkw2w8oDtpbjbEQQbpmNzrWL4BqN": [
+			{
+				"comment_id": 1,
+				"body": "> [notthatone](#comment_1_1DGWebRNqHrqWFrDaZc93M2ygcPpS9sQhs): Doesn't this create a vulnerability?\n\nI do not see one here...",
+				"added": 1457206561
+			},
+			{
+				"comment_id": 2,
+				"body": "> [antiphase](#comment_27_1NoRNknY1JbJ8nMdn88LwczyMDFnR1GtNw): Have you seen how this site handles large videos? http://127.0.0.1:43110/zerovid.bit\n\nNice, the protocol behind zeronet allow large sites upon user authorization. It works but I would love to have selective/partial downloads...",
+				"added": 1457213351
+			},
+			{
+				"comment_id": 3,
+				"body": "> [nofish](#comment_435_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): It's supported: check the Gif time site. It has 1000+ videos, but they only downloaded if your client requests.\n\nThanks! Just noticed the sum of the sizes of all gifs currently available is more than 300 MB and they load on demand.  That's exactly what I need.",
+				"added": 1457214405
+			}
+		]
+	},
+	"comment_vote": {
+		"34_1MEWJRMLgvofqG9Mbsb2Rc4hFFyv7HeRx7": 1,
+		"435_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"27_1NoRNknY1JbJ8nMdn88LwczyMDFnR1GtNw": 1
+	}
+}

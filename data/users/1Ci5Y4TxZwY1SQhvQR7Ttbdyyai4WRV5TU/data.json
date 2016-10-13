@@ -1,0 +1,53 @@
+{
+	"next_topic_id": 5,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "How do i add zeronet to startup in systemd?",
+			"body": "Creating a service doesn't works. I get:\n Jul 05 14:07:21 PyLaptop zeronet.py[8943]: Traceback (most recent call last):\nJul 05 14:07:21 PyLaptop zeronet.py[8943]:   File \"/opt/zeronet/zeronet.py\", line 15, in main\nJul 05 14:07:21 PyLaptop zeronet.py[8943]:     import main\nJul 05 14:07:21 PyLaptop zeronet.py[8943]:   File \"/opt/zeronet/src/main.py\", line 86, in <module>\nJul 05 14:07:21 PyLaptop zeronet.py[8943]:     PluginManager.plugin_manager.loadPlugins()\nJul 05 14:07:21 PyLaptop zeronet.py[8943]:   File \"/opt/zeronet/src/Plugin/PluginManager.py\", line 27, in loadPlugins\nJul 05 14:07:21 PyLaptop zeronet.py[8943]:     for dir_name in os.listdir(self.plugin_path):\nJul 05 14:07:21 PyLaptop zeronet.py[8943]: OSError: [Errno 2] No such file or directory: 'plugins'\nJul 05 14:07:21 PyLaptop zeronet.py[8943]: - Starting ZeroNet...",
+			"added": 1467716962
+		},
+		{
+			"topic_id": 2,
+			"title": "Is there a limit on the number of gists on github?",
+			"body": "",
+			"added": 1467727353
+		},
+		{
+			"topic_id": 3,
+			"title": "Is there any way to make zeronet, ipfs, and software alike private?",
+			"body": "What I mean by this question is if we can make the technology behind `zeronet` to be used for an internal website. \nCompanies use VPN's in order to connect their users to their internal site that they don't want to be available on the WWW, could the technology behind zeronet be used to change this?",
+			"added": 1467737547
+		},
+		{
+			"topic_id": 4,
+			"title": "Gentoo or ArchLinux?",
+			"body": "Hello, so I want to start a debate, who do you think is better, archlinux or gentoo, and why do you think so. \n\nJust by looking on distrowatch we can see a difference in the description, for once Arch: \"Arch Linux is an independently developed, i686- and x86_64-optimised Linux distribution targeted at competent Linux users ...\" and Gentoo: \"Gentoo Linux is a versatile and fast, completely free Linux distribution geared towards developers and network professionals...\"\n\nThe description makes it look like, arch wold be more for hobbyists while gentoo is more for profesionals. Do you think this is true, motivate your opinion. \n\nAlso who do you think to be more complex, from installation to day to day use?",
+			"added": 1467810040
+		}
+	],
+	"topic_vote": {
+		"1_15ATNsS6aHGvBg5xoMP94sXpNaLX4fSHjN": 1
+	},
+	"next_comment_id": 3,
+	"comment": {
+		"1_1Ci5Y4TxZwY1SQhvQR7Ttbdyyai4WRV5TU": [
+			{
+				"comment_id": 1,
+				"body": "Thanks",
+				"added": 1467719444
+			}
+		],
+		"3_1Ci5Y4TxZwY1SQhvQR7Ttbdyyai4WRV5TU": [
+			{
+				"comment_id": 2,
+				"body": "> [ks](#comment_104_14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx): If the trackers mentioned in src/Config.py were all changed to internal trackers, my best guess is that you could use Zeronet internally only.\n\nhmm, yeah but that would mean that still you wold have to connect thru a VPN. But how secure would be using a private tracker?",
+				"added": 1467743300
+			}
+		]
+	},
+	"comment_vote": {
+		"103_14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx": 1,
+		"699_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1
+	}
+}

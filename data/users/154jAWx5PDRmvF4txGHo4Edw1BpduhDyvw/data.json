@@ -1,0 +1,63 @@
+{
+	"next_topic_id": 3,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "Bridge for \"normals\"",
+			"body": "I would love to see ZeroNet more widely used. Sadly non-techies are unlikely to install Python and then figure out how to run and use it as it is. Unless they can access it just like any other online service things are unlikely to ever become popular.\n\nSo, would it be at all possible to run a \"bridge\"? Run ZeroNet on a server, and then allow access to anyone. We could then strongly encourage running your own node, but to those not capable of doing so access is still possible.",
+			"added": 1457033575
+		},
+		{
+			"topic_id": 2,
+			"title": "Transfer ZeroID account",
+			"body": "I just setup ZeroNet on my server to run a constant node, and also for access when I can't run a client.\n\nI was wondering, what files would I need to transfer to access my account from here too?",
+			"added": 1457815912
+		}
+	],
+	"topic_vote": {
+		"2_1GCsW9TFfjDsvcdmKPADq1n8Q3ha72UtDQ": 1,
+		"2_154jAWx5PDRmvF4txGHo4Edw1BpduhDyvw": 1,
+		"1_1LoyRxaxKN6jn6urKfUeqPFuV37BNJFDc5": 1
+	},
+	"next_comment_id": 6,
+	"comment": {
+		"1_154jAWx5PDRmvF4txGHo4Edw1BpduhDyvw": [
+			{
+				"comment_id": 1,
+				"body": "> [erkan](#comment_3_1H8oKiRa7fGgUqS1hpUtaSYLvAqkaknbkf): here are some mentioned: http://127.0.0.1:43110/Talk.ZeroNetwork.bit/?Topic:2_15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ/ZeroNet+proxy\n\nOh that looks great, thank you!",
+				"added": 1457033848
+			},
+			{
+				"comment_id": 3,
+				"body": "> [pyschopomp](#comment_2_1D7uESYtAKV36MVPGJZXuE7LUKbLwfo4dX): No offense, but \"normals\" is the reason the web sucks and is being pushed for stronger censorship.For those who have been around long enough all technologies begin like this. BBS, ant then Web 1.0.I think ZeroNet has a lot of potential but it's too early to start bridging with the regular joe. ZeroNet is for a censorship free internet, and allowing people with sensibilities in now could actually hinder that goal.\n\nNow that you bring that up... I totally agree! Thank you for pointing it out.",
+				"added": 1457037733
+			}
+		],
+		"2_1GCsW9TFfjDsvcdmKPADq1n8Q3ha72UtDQ": [
+			{
+				"comment_id": 2,
+				"body": "C and C++. I like the look of Rust but it as of yet hasn't tempted me away from C++ just yet.",
+				"added": 1457036521
+			}
+		],
+		"2_154jAWx5PDRmvF4txGHo4Edw1BpduhDyvw": [
+			{
+				"comment_id": 4,
+				"body": "> [nofish](#comment_494_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): data/users.json\n\nthank you!",
+				"added": 1457815983
+			}
+		],
+		"1_1GUEjoXBHc2Mxi1w3sozizBdJDNXCX2G2o": [
+			{
+				"comment_id": 5,
+				"body": "> [nofish](#comment_503_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): Currently only local -> multiuser implemented: You can log in to your identity on proxy using the master_seed value in your data/users.json file\n\nAhh, thanks for letting me know.",
+				"added": 1457900350
+			}
+		]
+	},
+	"comment_vote": {
+		"11_1An7ATsNMMNqRgSgB2upWwbpXgFXQ9E2XD": 1,
+		"2_1D7uESYtAKV36MVPGJZXuE7LUKbLwfo4dX": 1,
+		"503_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1
+	}
+}

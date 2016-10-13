@@ -1,0 +1,28 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 4,
+	"comment": {
+		"1_122KPetK2KEaUbmsuB5GTgSJWfs6DqYY22": [
+			{
+				"comment_id": 1,
+				"body": "creo que esta seria la url http://127.0.0.1:43110/1PLAYgDQboKojowD3kwdb3CtWmWaokXvfp/",
+				"added": 1460621669
+			},
+			{
+				"comment_id": 2,
+				"body": "Si pero les pones los subs y listo, esta buena esta red de donde son?",
+				"added": 1460621729
+			}
+		],
+		"1_18jipjDsfAxAuq4ixbi2w24xJrYVfTYFPn": [
+			{
+				"comment_id": 3,
+				"body": "Paraguay",
+				"added": 1460621763
+			}
+		]
+	},
+	"comment_vote": {}
+}

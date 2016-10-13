@@ -1,0 +1,25 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "Zero-Net Discussion Thread",
+			"body": "What do you think is the pourpose of the ZN? The substitution of the common net (something at this point impossible), or an alternative? If is an alternative; what space is trying to fill?",
+			"added": 1458425927
+		}
+	],
+	"topic_vote": {
+		"1_17d8biWB6b4QwDQ4zRHPRtZjcToMCyvjQD": 1
+	},
+	"next_comment_id": 2,
+	"comment": {
+		"1_17d8biWB6b4QwDQ4zRHPRtZjcToMCyvjQD": [
+			{
+				"comment_id": 1,
+				"body": "I think this as a new kind of database, like an open net of torrenting.A new babylon library .Btw does anyone knows any place i can upload torrents ?",
+				"added": 1458578930
+			}
+		]
+	},
+	"comment_vote": {}
+}

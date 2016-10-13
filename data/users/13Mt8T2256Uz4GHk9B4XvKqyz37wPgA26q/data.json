@@ -1,0 +1,69 @@
+{
+	"next_topic_id": 4,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "chrome works, firefox not",
+			"body": "http://127.0.0.1:43110/1GKFwRvtkY1gcbMxm9vuZnz3THfnUP9zz/\n\nAny idea why firefox doesnt load the audiofile?",
+			"added": 1470437177
+		},
+		{
+			"topic_id": 2,
+			"title": "\"Optional\" files question",
+			"body": "If files in a folder are set to \"optional\", do they count towards the site limit?\nE.g. if some zite loads or displays an optional file from another original zite, does one need to visit that zite and set the limit of that zite where the optionla file is to be within the sum of all optional files?",
+			"added": 1470823779
+		},
+		{
+			"topic_id": 3,
+			"title": "Number of Peers/seeds per file",
+			"body": "Since optional files are not generally seeded with the rest of a zite but only loaded on-demand, it would be good if one can determine how many users or peers could be found for each file to know popularity. Any method or idea?",
+			"added": 1470828487
+		}
+	],
+	"topic_vote": {},
+	"next_comment_id": 8,
+	"comment": {
+		"1_13Mt8T2256Uz4GHk9B4XvKqyz37wPgA26q": [
+			{
+				"comment_id": 1,
+				"body": "The zerosite loads a simple javascript music player, as can be seen on proxy:\nhttps://bit.no.com:43110/1GKFwRvtkY1gcbMxm9vuZnz3THfnUP9zz\n\nThe question is:\nWhy does the musicplayer load and play the song \"Bubble\" in chrome just fine, but does not load the song in firefox giving a 403?\n\nInteresting is:\nThe player loads the ogg file \"Bubble\" which is available on another zeronet site under Chrome, but refuses under Firefox.\nBut one can access the song directly also in firefox and it plays just fine:\nhttps://bit.no.com:43110/1MRvVVGxFsC4kZQvvVw41ykmbQfYCBRvYg/data/Miaow-07-Bubble.ogg\n\nSo files loaded from other zeronet sites inside the musicplayer work fine on Chrome, but not on Firefox.\nThere seems to be a logic flaw here or why is Chrome special in circumventing whatever keeps Firefox from loading the ogg file?",
+				"added": 1470472822
+			}
+		],
+		"10_1KdnTJVBGzEZrJppFZtzfG9chukuMv8xSb": [
+			{
+				"comment_id": 2,
+				"body": "can one change the hub after choosing?\nare all users and contributions combined, regardless if Red or Blue?",
+				"added": 1470855495
+			},
+			{
+				"comment_id": 3,
+				"body": "i have created own hub, how can I use it?\nhttp://127.0.0.1:43110/1ARSTRDgMSH2E81pcZCbaEq28TZ72Levxh",
+				"added": 1470855554
+			},
+			{
+				"comment_id": 4,
+				"body": "So the hierachy order is this(?):\nZerome\n| | |\nHub1 Hub2...\n|   |    |   |   |\nUserpages\n\nSo Hubs are tied to a \"Motherpage\"?\nThen userpages need to select a Hub and then are tied to that Hub for the content they choose to merge/share with the Hub?",
+				"added": 1470857488
+			},
+			{
+				"comment_id": 5,
+				"body": "Some questions:\n\n1. When cloning a hub (Blue or Red) does one also get the content submitted so far to the cloned hub?\n2. Only ZeroMe owner has the power to allow a new hub being part of ZeroMe?\n3. When a Hub is deleted by its owner, what happens to the usercontent submitted to that hub?\n4. When ZeroMe site is deleted by its owner, what happens to the Hubs and the usercontent attached to the hubs?\n\nThanks for helping understand ZeroMe!",
+				"added": 1470858604
+			},
+			{
+				"comment_id": 6,
+				"body": "> [nofish](#comment_719_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): No, it will be in clean state (no user content)\n> \n> There is no interaction required from ZeroMe page owner, it will list all hubs you currently serving.\n\nhttp://127.0.0.1:43110/1ARSTRDgMSH2E81pcZCbaEq28TZ72Levxh\nI cloned BlueHub, but my cloned \"Orange...Hub\" doesnt appear as choice on ZeroMe?\nSo the owner of \"Zerome\" decides if a new cloned hub gets to be part of ZeroMe?\n\n\n\n> If you choose delete command from your client, then nothing happens to the content, but the hub owner able to ban individual users from the hub.\n\nLet me specify:\nThe owner of a hub (Red or Blue) deletes the hub in the backend (folder in filesystem), then what happens to the usercontent of that hub?",
+				"added": 1470859885
+			}
+		],
+		"1_12ammmMtU2utLCtNGwLwrh3K8LsmzR4k8T": [
+			{
+				"comment_id": 7,
+				"body": "Thanks for the help, will try that now :)",
+				"added": 1471091190
+			}
+		]
+	},
+	"comment_vote": {}
+}

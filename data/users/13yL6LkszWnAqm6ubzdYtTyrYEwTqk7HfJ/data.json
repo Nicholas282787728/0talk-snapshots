@@ -1,0 +1,16 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 2,
+	"comment": {
+		"1_1FKNdvxJJGCu1KupdqZtSPEe2uCjqZs45s": [
+			{
+				"comment_id": 1,
+				"body": "Alors c'est qui?",
+				"added": 1463702353
+			}
+		]
+	},
+	"comment_vote": {}
+}

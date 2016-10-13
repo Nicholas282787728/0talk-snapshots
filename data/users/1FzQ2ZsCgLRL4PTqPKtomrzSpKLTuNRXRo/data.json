@@ -1,0 +1,112 @@
+{
+	"next_topic_id": 6,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "Could not reach published site",
+			"body": "Hi,  last night about 22 O'clock.  I published a new site. it said published successfully. both manual and per button publish. but on another machine I could not reach my site.   then I clone again another site. not working either... but now both works fine.... what happened?",
+			"added": 1455787120
+		},
+		{
+			"topic_id": 3,
+			"title": "How to make angularjs work on site",
+			"body": "does angularjs also work on Zeronet?",
+			"added": 1456317092
+		},
+		{
+			"topic_id": 4,
+			"title": "Favorite Button not show up on Linux OS after update",
+			"body": "with the same Version  rev909 on Mac I can see the button.  but linux not.",
+			"added": 1456740026
+		},
+		{
+			"topic_id": 5,
+			"title": "Why is the peer number so different on the same site between http://bit.no.com:43110/ and 127.0.0.1:43110",
+			"body": "number of peers",
+			"added": 1456929552
+		}
+	],
+	"topic_vote": {},
+	"next_comment_id": 16,
+	"comment": {
+		"2_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": [
+			{
+				"comment_id": 1,
+				"body": "test",
+				"added": 1455751042
+			}
+		],
+		"1_1FzQ2ZsCgLRL4PTqPKtomrzSpKLTuNRXRo": [
+			{
+				"comment_id": 3,
+				"body": "> [nofish](#comment_330_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): Hard to tell without more details, do you have opened port? Whats your Tor status at ZeroHello?\n\ndon't know anymore. but thanks! I will note it next time.",
+				"added": 1455796139
+			},
+			{
+				"comment_id": 9,
+				"body": "> [p2p](#comment_55_13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ): you could see:http://127.0.0.1:43110/Talk.ZeroNetwork.bit/?Topic:2_1L4fuhUB75eAdVbDY9AJ4z2i2dwMho7MV8you could follow the steps mentioned in that post.\n\nThank you! it helps.",
+				"added": 1456749980
+			},
+			{
+				"comment_id": 10,
+				"body": "> [p2p](#comment_55_13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ): you could see:http://127.0.0.1:43110/Talk.ZeroNetwork.bit/?Topic:2_1L4fuhUB75eAdVbDY9AJ4z2i2dwMho7MV8you could follow the steps mentioned in that post.\n\n刚发现是中国人哦，你好！ :)",
+				"added": 1456751021
+			},
+			{
+				"comment_id": 11,
+				"body": "> [p2p](#comment_57_13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ): 你好，你的是什么网站啊？你怎么看出我是中国人的？呵呵\n\n嗨，我看到有个帖子你写了中文。:)",
+				"added": 1456820595
+			}
+		],
+		"4_1FzQ2ZsCgLRL4PTqPKtomrzSpKLTuNRXRo": [
+			{
+				"comment_id": 4,
+				"body": "> [nofish](#comment_358_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): It's not depends on ZeroNet version, probably your browser caches the javascript file, try ctrl+f5 or similar.\n\nThx.. Tried clear cache  and Ctrl F5.  actually I dont use cache at all.. hmmm... still not showing.. \n\nsimilar problem. mein blog http://127.0.0.1:43110/15LS6faxCHDd45FW8Cy6jCqWHVpYjUAJj1\nI open it on another machine. it doenst show any cotent.  but one of mein friend can see the content. \n\nthe other problem. http://127.0.0.1:43110/16yppFb5mFpvynYXrGHVVxSLUkQePX556z\nmy test chat program... i post on one machine.  but on the other machine the data is not up-to-date.  \n\n I have a feeling it needs time x to update other peers.... and I dont know how long it needs. \nmaybe my network is too slow? I dont know. just feel somthing wrong with the update.",
+				"added": 1456741938
+			},
+			{
+				"comment_id": 5,
+				"body": "> [nofish](#comment_359_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): You can try the update all site button on ZeroHello (right to Hello ZeroNet text)\n> Your client only check every site for modification if you start it or when it detect wakeup from sleep, so if you have a longer internet outage you could miss some updates.\n\nThank you very much for your reply...\nI press both button already couple of times. update all sites and update single site.  but it did not help. \n\nbut, but ,  the chat Program works fine now .   I guess because that many peers open it now so rapid it ? ?   another thing wondering me is that on one machine shows my chat has 15peers. the other machine 7peers. why is the diff?",
+				"added": 1456742887
+			},
+			{
+				"comment_id": 6,
+				"body": "> [nofish](#comment_360_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): 1AvF5TpcaamRNtqvN1cnDEWzNmUtD47Npg shows me 44 peers. The new ZeroHello site should display updated 22 hours ago.Please try restart your client and if it's still not update sites, then please paste your log/debug.log file to https://0bin.net/ and send me the link on zeromail.\n\n1AvF5TpcaamRNtqvN1cnDEWzNmUtD47Npg shows me on one Machine 13peers. the other one 14peers.\nI have restarted both client already.",
+				"added": 1456744356
+			},
+			{
+				"comment_id": 7,
+				"body": "> [nofish](#comment_360_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): 1AvF5TpcaamRNtqvN1cnDEWzNmUtD47Npg shows me 44 peers. The new ZeroHello site should display updated 22 hours ago.Please try restart your client and if it's still not update sites, then please paste your log/debug.log file to https://0bin.net/ and send me the link on zeromail.\n\nbtw, favorite btn is there just now,   I cannt undertand how / Why it works now.",
+				"added": 1456744545
+			},
+			{
+				"comment_id": 8,
+				"body": "> [nofish](#comment_360_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): 1AvF5TpcaamRNtqvN1cnDEWzNmUtD47Npg shows me 44 peers. The new ZeroHello site should display updated 22 hours ago.Please try restart your client and if it's still not update sites, then please paste your log/debug.log file to https://0bin.net/ and send me the link on zeromail.\n\nI see your post on other's Blog. \nWhen creating site:\n\n    Have opened port: Best case, anyone able to contact you immediately\n    Don't have opened port, but Tor is running fine (Tor: OK or ALWAYS in ZeroHello): The peers, who also have Tor running able to contact you immediately (after 1-2 minute of .onion address warmup), others have to wait 1-10 minutes if they have opened port, otherwise they not able to contact you.\n    Don't have opened port and Tor mode is not running (Tor: Error in ZeroHello): Only peers with opened port able to contact you and they are have to wait 1-10 minutes.\n\n\nit may be the reason why my sites strange behavior?\nI don't have opened port and Tor mode is not running.\n\nBTW, my blog content showed up too after chatting with you. :). I have try to open it since last week. ;)",
+				"added": 1456749403
+			}
+		],
+		"4_1EMpuiFM1NLZmAVyoAWnwi8VwiZVV4dcnN": [
+			{
+				"comment_id": 12,
+				"body": ":)",
+				"added": 1457965569
+			},
+			{
+				"comment_id": 13,
+				"body": "> [eibriel](#comment_2_1BYU9zV786auJ29dF3HMAQYhxA2WgN4ofi): Hi, please raise the space limit per user (10k), because after about 50 replays the game responds \"Content sign failed: invalid private key.\" and the scores are not saved anymore.\n\nincreased... thx.",
+				"added": 1458047486
+			},
+			{
+				"comment_id": 14,
+				"body": "> [zmccorkle](#comment_13_1BidR2Pw65fTPeh1R3LbwCdfEJUPB6FLes): Open JS console, switch to iframe, document.getElementById(\"message\").value = score, Page.sendMessage()\n\n;)",
+				"added": 1458588343
+			},
+			{
+				"comment_id": 15,
+				"body": "> [basxto](#comment_65_1PVcdu7USZH2kHMETbqDYLPjJZKCDWM52k): I just modified my data/users/1PVcdu7USZH2kHMETbqDYLPjJZKCDWM52k/data.json … and you can't fix this. This folder is completely under users control.\n\nActually I tried to change from database as a different user from a different pc,  but was not working. I could not see the change from other peer. \nhmmm... so u change your data.json and it update other peers too?",
+				"added": 1458588614
+			}
+		]
+	},
+	"comment_vote": {}
+}

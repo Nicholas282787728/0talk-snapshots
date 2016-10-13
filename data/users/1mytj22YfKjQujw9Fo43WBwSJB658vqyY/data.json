@@ -1,0 +1,108 @@
+{
+	"next_topic_id": 3,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "Optional Files",
+			"body": "I can not figure out optional files.\n\nI have 10 webm files I wish to make optional\n\nI keep on trying to add\n\n    \"optional\": \"/.*\"\n\nto content.json but when I sign it it just gets overwritten and the files still aren't optional.\n\nPlease help.",
+			"added": 1470680577
+		},
+		{
+			"topic_id": 2,
+			"title": "Who What Were",
+			"body": "Hey. I thought I should post this here. If you aren't interested just move on.\n\nSo there is a YouTube channel called [Who What Were](https://www.youtube.com/channel/UCAPR27YUyxmgwm3Wc2WSHLw) (pronounced 'Who What Where') and it produces some really great content on tech, GNU/Linux and free software.\n\nMyself and some other people from the channel's IRC\n\n    irc.geekshed.net\n    #whowhatwere\n\ndecided to make a website for the channel. We spent the last couple days casually making it together, and hosted it on ZeroNet. We are using bit.no.com as a clear web proxy so we can link to it for people who don't have ZeroNet installed. Soon the domain whowhatwere.download will direct to it too.\n\nAnyway, point being, freely licensed tech content, freely licensed site containing it, hosted on ZeroNet and accessible via the clearnet. If it sounds like your thing, check it out.\n\nTo view the site without downloading it (its just under 500mb) you can view it on bit.no.com who have cached the entire site on their servers (free hosting, booya!). You can access that [here](https://bit.no.com:43110/1PRY8bJF8kos6B91XLbAGRN99EuLVSZcXY).\n\nAs for the actual site, we tried optional files but they are bugged so we couldn't. Its just under 500mb in size and contains 11 videos from Who What Were's last month in the free webm format. If you do like the content found on the YouTube channel or the Site's proxy, please consider seeding it :)\n\nhttp://127.0.0.1:43110/1PRY8bJF8kos6B91XLbAGRN99EuLVSZcXY/\n\nLike I said, this project was taken on independent of the owner though we did get their permission to host the content. This isn't advertising, it is just a project some fans put together. I hope you like it too :)",
+			"added": 1470846865
+		}
+	],
+	"topic_vote": {
+		"2_1mytj22YfKjQujw9Fo43WBwSJB658vqyY": 1
+	},
+	"next_comment_id": 15,
+	"comment": {
+		"1_1mytj22YfKjQujw9Fo43WBwSJB658vqyY": [
+			{
+				"comment_id": 1,
+				"body": "> [genericusername](#comment_14_14ng1wByxwoNXAhihYbpgyarVJbFiqs8ny): Have you tried \".webm\" or \"./dir/to/webms/.webm\"?\n\nyes. Is there a specific way I am supposed to write it to content.json?",
+				"added": 1470681511
+			},
+			{
+				"comment_id": 2,
+				"body": "> [genericusername](#comment_14_14ng1wByxwoNXAhihYbpgyarVJbFiqs8ny): Have you tried \".webm\" or \"./dir/to/webms/.webm\"?\n\nIt just keeps over-writing it.",
+				"added": 1470681667
+			},
+			{
+				"comment_id": 3,
+				"body": "> [genericusername](#comment_15_14ng1wByxwoNXAhihYbpgyarVJbFiqs8ny): How are you signing it? Via the web interface? If so it might be worth stopping ZeroNet and trying using the cli:\n> cd /path/to/zeronet\n> ./zeronet.py siteSign SITE_ID\n\nI've done that. It just over writes",
+				"added": 1470682063
+			},
+			{
+				"comment_id": 4,
+				"body": "> [genericusername](#comment_16_14ng1wByxwoNXAhihYbpgyarVJbFiqs8ny): Hmm. If ZeroNet is definitely shut down then I can't think why anything would be overriding it unless you have a newer signed copy somewhere that's replacing it (this is unlikely). I'd say it's a bug but it's hard to tell. If your positive everyting is setup correctly and you're signing it correctly (it sounds to me like you are) then I'd post an issue on Github\n\nI just tried rebooting my pc and before anything else doing it. No other application was open. Still didn't work. I'm so confused. Is there a specific line of content.json I am supposed to add it to?",
+				"added": 1470683157
+			},
+			{
+				"comment_id": 5,
+				"body": "> [genericusername](#comment_17_14ng1wByxwoNXAhihYbpgyarVJbFiqs8ny): The example given in the ZeroNet Docs is as follows:\n> \"optional\": \"(data/mp4/.*|updater/.*)\" - (everything in data/mp4 and updater directory is optional)\n> You could also try specifying each file individually using files_optional if that's not too much trouble.\n\nthanks for the help but neither of those worked either. Again, it keeps over writing.",
+				"added": 1470684181
+			},
+			{
+				"comment_id": 6,
+				"body": "> [genericusername](#comment_17_14ng1wByxwoNXAhihYbpgyarVJbFiqs8ny): The example given in the ZeroNet Docs is as follows:\n> \"optional\": \"(data/mp4/.*|updater/.*)\" - (everything in data/mp4 and updater directory is optional)\n> You could also try specifying each file individually using files_optional if that's not too much trouble.\n\nfound my problem, when I sign it it says this\n\n    Site:1PRY8b..ZcXY File content.json not exist yet, loading default values...\n\nNow just got to fix it recognising content.json. It isn't re writting, it's re creating content.json each time.",
+				"added": 1470684322
+			},
+			{
+				"comment_id": 7,
+				"body": "Update: If I sign it twice in a row, it doesn't recreate. Only once I've edited it does it not see the content.json file and recreate it.\n\nGoing to try a different text editor\n\nEdit: Different text editor did not help. Out of ideas.\n\nUpdate: Found a hidden file called 'content.json~' which throws an error, going to try removing it.\n\nEdit: 'conten.json~' was a red herring, once deleted nothing changed and it didn't come back. Still not able to edit content.json without it being recreated upon being signed.\n\nNo leads. Case closed unless new evidence is provided by the public.",
+				"added": 1470684639
+			}
+		],
+		"2_1mytj22YfKjQujw9Fo43WBwSJB658vqyY": [
+			{
+				"comment_id": 8,
+				"body": "> [testset](#comment_39_17VwZEfWSUWb5RHkK9m1odnDdBfvjTL6Cp): I have just joined the seeders.Go GNU/Linux! Go free software!\n\nGreatly appreciated :)",
+				"added": 1470855816
+			},
+			{
+				"comment_id": 9,
+				"body": "> [er](#comment_1_1DpVnMYc5eSJKieqdQojUjovaHohQTCTTX): This is cool. :)\n\nAs are you. :)",
+				"added": 1470856227
+			},
+			{
+				"comment_id": 10,
+				"body": "Just updated the site with the latest video.\n\n    Manjaro 16.06 i3 Edition | Linux Distribution, First Impressions Review",
+				"added": 1470857338
+			},
+			{
+				"comment_id": 11,
+				"body": "> [seedyd](#comment_1_1aWgZ7CZ2QnGnoqvHBeri53mXnJEB6Ef2): looks good.seeding.\n\nThank you :)",
+				"added": 1470865372
+			},
+			{
+				"comment_id": 12,
+				"body": "> [testset](#comment_40_17VwZEfWSUWb5RHkK9m1odnDdBfvjTL6Cp): Why don't you use optional files?\n\nBecause they are bugged. I spent 4 hours trying to get them working with no success. It turned out I was not the only person with the problem: http://127.0.0.1:43110/Talk.ZeroNetwork.bit/?Topic:1_1mytj22YfKjQujw9Fo43WBwSJB658vqyY/Optional+Files",
+				"added": 1470916583
+			},
+			{
+				"comment_id": 13,
+				"body": "site.whowhatwere.download now redirects to the site :)",
+				"added": 1470925990
+			},
+			{
+				"comment_id": 14,
+				"body": "Video added: GhostBSD 10.3-RC1 | BSD Distribution, First Impressions Review",
+				"added": 1471002768
+			}
+		]
+	},
+	"comment_vote": {
+		"39_17VwZEfWSUWb5RHkK9m1odnDdBfvjTL6Cp": 1,
+		"8_1mytj22YfKjQujw9Fo43WBwSJB658vqyY": 1,
+		"1_1DpVnMYc5eSJKieqdQojUjovaHohQTCTTX": 1,
+		"9_1mytj22YfKjQujw9Fo43WBwSJB658vqyY": 1,
+		"10_1mytj22YfKjQujw9Fo43WBwSJB658vqyY": 1,
+		"1_1aWgZ7CZ2QnGnoqvHBeri53mXnJEB6Ef2": 1,
+		"11_1mytj22YfKjQujw9Fo43WBwSJB658vqyY": 1,
+		"13_1mytj22YfKjQujw9Fo43WBwSJB658vqyY": 1,
+		"12_1mytj22YfKjQujw9Fo43WBwSJB658vqyY": 1
+	}
+}

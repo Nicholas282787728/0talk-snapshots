@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "G2c7kCaXmPwAPnLrAYjnYKTY3eTX0M5uSF/w6e47X0b/BVGXq3Hmx/H30IHben3VDJQeZvU11KX3zP25T/j3gr0=",
+ "cert_user_id": "wildtruc@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "e56e0d12ef163ee3ffdd4ffa82fd80fd121abda401f9a57d07d16a351475abcb",
+   "size": 2521
+  }
+ },
+ "inner_path": "data/users/1BUg3Eu6SdBrVKNtVJJgQptFas5XCYqEUF/content.json",
+ "modified": 1459010124.480614,
+ "signs": {
+  "1BUg3Eu6SdBrVKNtVJJgQptFas5XCYqEUF": "G4PIQSDUMh3LO7MJ2w9RkIS/DUqfc35UpApgjnmoDTpgjI8W6g3Odb+zcZpO+YW+73VBn2bjKWp3jj+bd+J2GEE="
+ }
+}

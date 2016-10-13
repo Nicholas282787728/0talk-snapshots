@@ -1,0 +1,16 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 2,
+	"comment": {
+		"8_1CMjV2r4EBpFt8VCcWWZKDysZXPcPExRNN": [
+			{
+				"comment_id": 1,
+				"body": "Thanks for this great template. You talk about a ZeroTube, where censoring videos will be impossible. The time for something like this has come and it would be greate project to do on ZeroNet. Would certainly be willing to join.",
+				"added": 1465997401
+			}
+		]
+	},
+	"comment_vote": {}
+}

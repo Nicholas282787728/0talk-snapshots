@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HNNGrdCkCYshICtIJE+KcqHoGkwRvp2EcaWCuAPPkxbMbiM4A+DnYUSXS13cirO0VYu9xzD1E79BsYWiLBS4ubk=",
+ "cert_user_id": "agams@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "2605edc3afda3e6c56650af8aaa42080b35a155fc7d2f43278aca43383788a2b",
+   "size": 953
+  }
+ },
+ "inner_path": "data/users/12kcwMT4H66ZuzXXo7QPKhRcJGTT4KbhaZ/content.json",
+ "modified": 1460264297.616208,
+ "signs": {
+  "12kcwMT4H66ZuzXXo7QPKhRcJGTT4KbhaZ": "HNr8Pm2qn35SuIlmmHlc+US7p5wCgo279xVN/DJOakyXsXT1/XgqrUkRyYB4LM91/ekQkC7QniCiTWfdTqy/JMg="
+ }
+}

@@ -1,0 +1,85 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "Why are file updates fail?",
+			"body": "There are so many \"file update failed\" messages. \nWhat causes them? What can be done to prevent them and/or fix them?",
+			"added": 1464341723
+		}
+	],
+	"topic_vote": {
+		"2_1Frg5nFndHFkmUaaGK7Qr46dRLX8a2BhBT": 1,
+		"2_1HtGfHk2MuqcB5nYXZ6b2NajXJLoxfq7XS": 1,
+		"1_1JwPBvZYXLJzrA6YisjpsyTuuieFLCARS6": 1,
+		"1_12xXVxkjN2oM6hwtzaSSJxAaiT7VW51VHQ": 1,
+		"9_1CMjV2r4EBpFt8VCcWWZKDysZXPcPExRNN": 1,
+		"4_15ATNsS6aHGvBg5xoMP94sXpNaLX4fSHjN": 1,
+		"5_15ATNsS6aHGvBg5xoMP94sXpNaLX4fSHjN": 1
+	},
+	"next_comment_id": 9,
+	"comment": {
+		"2_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": [
+			{
+				"comment_id": 1,
+				"body": "> [redrobinhood](#comment_1_1MxejC3wJ1PB6QbLwL7g3HzC4ZPojJogD3): Hi i want to know if i can use zeronet email to send email on other servers like yahoo etc??\n\nNo. \nAs far as, I understand it is a messaging system of ZeroNet based on an entirely different protocol than usual emails.",
+				"added": 1459375942
+			},
+			{
+				"comment_id": 2,
+				"body": "MarkDown Test\n===\nbased on the [MarkDown](http://127.0.0.1:43110/138R53t3ZW7KDfSfxVpWUsMXgwUnsDNXLP/?Page:markdown) page of [ZeroWiki](http://127.0.0.1:43110/138R53t3ZW7KDfSfxVpWUsMXgwUnsDNXLP/?Page:home)\n\nwith *-s\n---\n\n1. *italic*\n2. **bold**\n3. ***both***\n5. `code` \n---\n### with _-s and +-s\n\n+ _italic_\n+ __bold__\n+ ___both___",
+				"added": 1459376922
+			},
+			{
+				"comment_id": 3,
+				"body": "> [tomi](#comment_2_1EhWbjvpxhf2mVkgCqGwT2tqYJBApt2KGz): Sziasztok :)\n\nSziasz!",
+				"added": 1459377079
+			}
+		],
+		"1_12xXVxkjN2oM6hwtzaSSJxAaiT7VW51VHQ": [
+			{
+				"comment_id": 4,
+				"body": "If security and privacy is top priority for you, I recommend [Conversation](https://f-droid.org/repository/browse/?fdfilter=conversation&fdid=eu.siacs.conversations). It is also listed as a recommended alternative of whatsapp on [prism-break.org](https://prism-break.org/en/all/#instant-messaging).\n\n[Telegram](https://f-droid.org/repository/browse/?fdfilter=telegram&fdid=org.telegram.messenger) is a good and easy-to-use alternative, but its servers run proprietary software...",
+				"added": 1467142013
+			}
+		],
+		"14_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf": [
+			{
+				"comment_id": 5,
+				"body": "Diaspora*",
+				"added": 1467317896
+			}
+		],
+		"1_1EnWNsQYovZrxBjDiDHtP1TT7BsJ1Dd6md": [
+			{
+				"comment_id": 6,
+				"body": "In theory, it can live forever. \n\nThat how long it _will_ is a different question. \nThat only depends on us. It will live while there is at least one peer.",
+				"added": 1467924080
+			}
+		],
+		"1_1M4Q5nX7hVdm46GdfiCSLaKG2NuY52tcLy": [
+			{
+				"comment_id": 7,
+				"body": "> [ks](#comment_111_14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx): Interesting. How come the number for 0chan on my node is lower?\n\nI don't know the explanation, but I think it is normal. I run ZeroNet on two computes and they see significantly different number of peers. On the one I use (way) more often the number of visible peers are 2 or 3 times higher.",
+				"added": 1468070431
+			}
+		],
+		"1_1FkHAWYYdURFGyXt3cZTs3neGVYumEpjsF": [
+			{
+				"comment_id": 8,
+				"body": "> [xivap](#comment_1_1EtRNxxZF7PdRNU5ka1yiAbAL9mbzKWnaE): 0chan is certainly the most attractive, but it might use some redesign (I don't mean it in the HTML5 sense, just that users should be able to create a threads on their own, and reply slightly quicker). \n> ..But then, how will people take care of the spammers? This is puzzling.\n\nYes, it still has plenty of flaws :-(  \nbut currently it is one of the best Zites on ZeroNet. \nIt's a pity that currently there is no real competition for being one of the best Zites here.",
+				"added": 1468885596
+			}
+		]
+	},
+	"comment_vote": {
+		"22_1CMjV2r4EBpFt8VCcWWZKDysZXPcPExRNN": 1,
+		"26_1CMjV2r4EBpFt8VCcWWZKDysZXPcPExRNN": 1,
+		"9_1FTFKztuv4Z5uy6iS83k9hB2xtS6yFnDxx": 1,
+		"7_1DyHtc8AMKrqjEja7Bi8rQ1hfcc3fTwsSw": 1,
+		"4_1KkMG9dp4HYwhmjGZJYgUcKS3aV1AmfxYq": 1,
+		"1_1NmzR8zVrREdwoKizjkHfka1n9TLQxooxx": 1,
+		"27_15QGRquMETTn5LnCHjTm1qa9eaXGtq7gpT": 1,
+		"1_1AwswnHJA15ishPWnjfnBKFd223m81Frwe": 1
+	}
+}

@@ -1,0 +1,16 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 2,
+	"comment": {
+		"14_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf": [
+			{
+				"comment_id": 1,
+				"body": "I read about it in [Kevin Marks' notes from Decentralized Web Summit](http://www.kevinmarks.com/decentralweb2016-06-07.html).",
+				"added": 1466183556
+			}
+		]
+	},
+	"comment_vote": {}
+}

@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "G2jMfc/xSkHJjO4puhjqSxu5uEHtq97rIaTxsU+w6kBoGFdrk4gklpJag/DBseoZtKvvNfXCNtq5jegYcWtB4mc=",
+ "cert_user_id": "trivita@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "b49f5b10b4d819733c82534979ed9d1dea0ec3c606e5dd65318ff3202a4e4f5f",
+   "size": 437
+  }
+ },
+ "inner_path": "data/users/15HQFahW4SfTjGcP4kg3JqH6kMRTrmFd6q/content.json",
+ "modified": 1461554041.961177,
+ "signs": {
+  "15HQFahW4SfTjGcP4kg3JqH6kMRTrmFd6q": "HOE3dlorzQCreEpvviL/xwf3SlBHvd3AWSqirRpL29+A+0dqdWw88LcsgfG170vSDJ6gde94fjH1xHj7f1LNrxI="
+ }
+}

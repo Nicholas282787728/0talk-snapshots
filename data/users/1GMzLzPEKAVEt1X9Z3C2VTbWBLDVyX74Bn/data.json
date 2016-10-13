@@ -1,0 +1,30 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 4,
+	"comment": {
+		"4_1ADB7TdX2fVbTsWBoMe9yBTmVXTbb33b4R": [
+			{
+				"comment_id": 1,
+				"body": "Want to learn Data Analysis ?\nGo to https://www.springboard.com/learning-paths/data-analysis/#\nAll Free, 26 resources, 310+ Hours. Very very useful.\nOne of my favourite",
+				"added": 1457369225
+			}
+		],
+		"1_1MdNLKFDGufjyYSkH2vb4dnPHsao3ZoQJ5": [
+			{
+				"comment_id": 2,
+				"body": "Thanks Kaffie.\nAnybody knows where to post to ask to Play maintainer its admin code to create its databases ?",
+				"added": 1457369412
+			}
+		],
+		"1_1EqRTFLe3aeLBGPMMqW7r8mFxLXuEhsCMm": [
+			{
+				"comment_id": 3,
+				"body": "Make ZeroTalk searchable",
+				"added": 1457369982
+			}
+		]
+	},
+	"comment_vote": {}
+}

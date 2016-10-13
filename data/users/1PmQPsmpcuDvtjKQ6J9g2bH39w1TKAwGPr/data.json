@@ -1,0 +1,87 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 13,
+	"comment": {
+		"1_1HRgRrQ2AwD7qBQkDYrGr7w7Z15o52yiVJ": [
+			{
+				"comment_id": 1,
+				"body": "=P",
+				"added": 1456947940
+			}
+		],
+		"2_15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ": [
+			{
+				"comment_id": 2,
+				"body": "so far i've only gotten tor and PIA to work with ZN.",
+				"added": 1456956997
+			},
+			{
+				"comment_id": 3,
+				"body": "privateinternetaccess.com",
+				"added": 1456960405
+			}
+		],
+		"1_1EodDJ57gSDT7FB1VmxRWecRfytuxRicPA": [
+			{
+				"comment_id": 4,
+				"body": "Just says scam all over it!",
+				"added": 1457061389
+			}
+		],
+		"10_1PX7VW6xfccTT2tNUTwrYKJpGsGfrnoJfP": [
+			{
+				"comment_id": 5,
+				"body": "then use a VPN and route all ZN traffic through it. That way its just some random user name and thats all they have.",
+				"added": 1457066400
+			},
+			{
+				"comment_id": 6,
+				"body": "with normal bittorrent you can see all ip's in the swarm, but that doesnt really stop people from sharing does it?",
+				"added": 1457066475
+			},
+			{
+				"comment_id": 9,
+				"body": "> [effekt](#comment_23_1PX7VW6xfccTT2tNUTwrYKJpGsGfrnoJfP): No, you're wrong. When you post, you sign it with your ZeroNet ID, has nothing to do with using a VPN. I didn't say your IP is leaked, just you ZeroNet ID.\n\nYeah zeronet ID is just a randomly generated encrypted key pair. You can easily delete it and make another.",
+				"added": 1457067360
+			},
+			{
+				"comment_id": 10,
+				"body": "yeah that request guy needs to be banned lol.",
+				"added": 1457067391
+			}
+		],
+		"2_1KJFB4SEHaHCY11HMKsMGyth1mXKb3R5oY": [
+			{
+				"comment_id": 7,
+				"body": "looks nice. =)))",
+				"added": 1457066774
+			}
+		],
+		"1_1BGaNcH1UBqAdatPbT3YssmPRVdhepMNPW": [
+			{
+				"comment_id": 8,
+				"body": "Im using a VPN right now, and it works good. Ports says closed but i am sharing sites so fuck their port checker.",
+				"added": 1457066867
+			}
+		],
+		"1_1N9vyd78w2N6174aLsw7FvCk5Lij3Bu33Y": [
+			{
+				"comment_id": 11,
+				"body": "would be nice!",
+				"added": 1457080459
+			}
+		],
+		"4893_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG": [
+			{
+				"comment_id": 12,
+				"body": "I think it'll cripple the current fiat currencies, and then there will be no doubt is it a safe asset. Its already more valuable any any fiat currency.  Just wait till it topples it them all by millions!",
+				"added": 1459580284
+			}
+		]
+	},
+	"comment_vote": {
+		"44_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1
+	}
+}

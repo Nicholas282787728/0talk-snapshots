@@ -1,0 +1,75 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 11,
+	"comment": {
+		"1_1EUyJtat7mbu5wMcR6nrJTPBBRons1mtMA": [
+			{
+				"comment_id": 1,
+				"body": "I saw an article about Play on Torrentfreak and decided to test it out on my Linux rig. I'm impressed and I hope more people create websites using it.",
+				"added": 1456915749
+			}
+		],
+		"3_1MxdAjWgnqwCaunGHmhY39tVR51qV3peJL": [
+			{
+				"comment_id": 2,
+				"body": "Donations and crowd-funding seem to be your best bet ATM. Maybe a web store for selling physical goods, but I've yet to see anybody make one.",
+				"added": 1457077355
+			}
+		],
+		"1_17ApQKugX1XH727gpAeD3mrRLjLxASdakd": [
+			{
+				"comment_id": 3,
+				"body": "> [ekaterina](#comment_74_1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD): ZeroMe is coming soon, a Twitter clone. If I understand it correctly (see ZeroBlog) at the end of this month. To make this scalable a feature called \"merger sites\" needs to be implemented first, basically every profile becomes it's own ZeroNet site so you only download and seed the content from people you follow.\n> You can find a bit of discussion and info on the blog post and on Github.\n\nFuck yeah!",
+				"added": 1457082979
+			}
+		],
+		"1_18NAazqd14AcVXdCqN29NTUrxSLGyPy5gB": [
+			{
+				"comment_id": 4,
+				"body": "> [ekaterina](#comment_78_1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD): It's the last I saw nofish, the ZeroNet dev, say somewhere here on ZeroTalk about it. There is a technical reason too, I think files are shared as a whole right now, not broken into small chunks like they usually are with Bittorrent (but don't quote me on that). Something like that. But that will change later on in a future version of ZeroNet as I understand it, the Tor thing seems to be the main reason.\n\nWhat about embedding web players from 3rd parties such as YouTube,  SoundCloud, etc.? Are those affected by Tor as well?",
+				"added": 1457087210
+			},
+			{
+				"comment_id": 5,
+				"body": "> [ekaterina](#comment_79_1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD): Only if you use TorBrowser, which you should if you want to be anonymous (unless you use a VPN then you are already anonymous of course).\n\nCool. I was curious because I plan on making my own site from scratch and may upload content elsewhere until ZN can handle larger files.",
+				"added": 1457087547
+			}
+		],
+		"1_154jAWx5PDRmvF4txGHo4Edw1BpduhDyvw": [
+			{
+				"comment_id": 6,
+				"body": "That would be nice, but I suggest we focus on creating alternatives to what's already out there. Otherwise, the non-techies will bail and bitch about how they can't find shit that's worth connecting to.",
+				"added": 1457165376
+			},
+			{
+				"comment_id": 7,
+				"body": "> [kaffie](#comment_45_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh): While I personally think it's easy enough to start a site here, I think you're right. At the moment there's an absurd amount of 'personal blog's that have nothing but the basic design, and maybe a single post or two.\n\nThe amount of clones is what encouraged me to start creating my own from scratch lol. I do agree with oracle on the CMS. That would make it easier to update mine in the future. Until then, I'll just make a simple one that I can update easily.",
+				"added": 1457166590
+			}
+		],
+		"1_1N9vyd78w2N6174aLsw7FvCk5Lij3Bu33Y": [
+			{
+				"comment_id": 8,
+				"body": "Not yet, but once the ZN devs add support for merger sites it will be possible. That way you can just download what you want to subscribe to instead of the whole damn site. Same goes for clones of Twitter, Facebook, Instagram, ect.",
+				"added": 1457245806
+			}
+		],
+		"1_1BQg5MQZ63aEQZMzLEXP6yY3hsgznKpaps": [
+			{
+				"comment_id": 9,
+				"body": "Ubuntu Gnome",
+				"added": 1457517481
+			}
+		],
+		"4_1NzjwWNcVjsX1ndBgkgC1EM5EUzMACGm8L": [
+			{
+				"comment_id": 10,
+				"body": "It worked, but I couldn't see the subtitles after right-clicking into full screen mode on Firefox. It may just be a glitch in the web player. Beyond that, I'd call it a success :)",
+				"added": 1457859243
+			}
+		]
+	},
+	"comment_vote": {}
+}

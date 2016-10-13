@@ -1,0 +1,49 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 7,
+	"comment": {
+		"3_168qV1Xxp2EyszrzdECLUwXrn9wGYjDdar": [
+			{
+				"comment_id": 1,
+				"body": "> [cub3](#comment_16_1LRrd96P7FiTcsyNXVzPM5jtpQoH1B4gYf): HTML5 Games http://127.0.0.1:43110/14zQjCbU2BAy3uAUAXN5UJhq8YdAHyzUqK\n\nhmm, what if my zeronet server is not on local host (links to games on your page don't work for me ;) )",
+				"added": 1457218490
+			},
+			{
+				"comment_id": 5,
+				"body": "> [cub3](#comment_17_1LRrd96P7FiTcsyNXVzPM5jtpQoH1B4gYf): You're right, I've updated the site and it should be better now. :)\n\nThanx!",
+				"added": 1457223467
+			}
+		],
+		"1_1EiP55LCzwSpCgde2oQfnR52LunWcBDiB4": [
+			{
+				"comment_id": 2,
+				"body": "Беззаботно зарабатывай деньги.",
+				"added": 1457219285
+			}
+		],
+		"3_17tRugXJrS18zKWVEYqZCPisSTk43hqUzx": [
+			{
+				"comment_id": 3,
+				"body": "It looks the same as the https://github.com/HelloZeroNet/ZeroNet/issues/320",
+				"added": 1457222044
+			},
+			{
+				"comment_id": 4,
+				"body": "ok then :)",
+				"added": 1457222312
+			}
+		],
+		"1_1BQg5MQZ63aEQZMzLEXP6yY3hsgznKpaps": [
+			{
+				"comment_id": 6,
+				"body": "I run it under Linux and I use it under Windows.",
+				"added": 1457478904
+			}
+		]
+	},
+	"comment_vote": {
+		"50_15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ": 1
+	}
+}

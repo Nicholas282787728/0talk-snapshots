@@ -1,0 +1,15 @@
+{
+ "cert_auth_type": "web",
+ "cert_sign": "GzZ8qWhfnrJXJXkO0CdjzMcLWnrw8IErt29vuMNYDemoOB1EKbSKwLwe35TrFoxR8EbW5KAgBwdgU26Hmt8hC34=",
+ "cert_user_id": "foshu@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "512e39215eb898ecb9a135a0a0631ecb5455a3737daf868713b019ef8c5f0387",
+   "size": 12921
+  }
+ },
+ "modified": 1455145680.575,
+ "signs": {
+  "1KLafGGRHDuijHzTX6w9KAdGiSwbBhuJar": "HA6wy44wMckOhFCYeP9YX9FHa9QMxjefRF5BvIG+9mlUcK7ZBqflBHGvXXXHGZjOw0Qisb76MjBIHImrkZqyLQo="
+ }
+}

@@ -1,0 +1,54 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "Decentralized Networks , Privacy enhancing and Anonymity",
+			"body": "Discussion about how private and protected is the network traffic, through services like Zeronet. How well privacy is maintained combined with the Onion Routing. Vulnerabilities , attacks on privacy and other Research questions. Any Ideas for searching?",
+			"added": 1472059971
+		}
+	],
+	"topic_vote": {
+		"2_1BDTDgpyizvUDsc1hcL1pjCvXCy4ozzSFN": 1
+	},
+	"next_comment_id": 6,
+	"comment": {
+		"3_1AZjDLkfYwSmjM7ZJUf7HHnrF778augRMa": [
+			{
+				"comment_id": 1,
+				"body": "Arcane Maelstrom sounds good to me. I am very happy to listen to indie game developers. Hard work. Wish you best luck!",
+				"added": 1472057378
+			}
+		],
+		"1_1HJnF1xNKtUDP33AtynJaH9UDmd8FTv27H": [
+			{
+				"comment_id": 2,
+				"body": "For example there is Riffle from MIT , still in develop. Any news from the research or anything?",
+				"added": 1472060034
+			},
+			{
+				"comment_id": 3,
+				"body": "A nice link i found that has a lot of services : \nhttp://127.0.0.1:43110/1JRzcmmm7X4iLsSLRDK7DT6EP2uPMnuLhP/",
+				"added": 1472080645
+			},
+			{
+				"comment_id": 4,
+				"body": "> [tkarita](#comment_113_1GervYZoP82e8X1Rgc4wyMkJY2zSsJuq8t): Kaffie has a ZeroNet site search called Kaffiene.\n\nThank you tkarita , i have used Kaffiene, i also know the other search engines.",
+				"added": 1472082876
+			}
+		],
+		"2_1BDTDgpyizvUDsc1hcL1pjCvXCy4ozzSFN": [
+			{
+				"comment_id": 5,
+				"body": "This paper describes how the dc-nets enhance traffic resistance. I would like your opinion on Mix-nets through various papers i have found across. Riffle from MIT promises traffic resistance using mix-nets, shuffling the network traffic. \n\nDifferences and drawbacks of each technology?Any news about this proposal , from 2013? \n\nI will also try to post something about this, when i read some more.",
+				"added": 1472085721
+			}
+		]
+	},
+	"comment_vote": {
+		"1_1MjiKrfs8SX59Qv2gwk5hooPAnBCjQhzW": 1,
+		"1_16uu2dHvKHusjRjkjn4a5xbxzXTijo6ixA": 1,
+		"7_1H1SHzxnPJS3hBbKvfXLqf4QJnXEUgaVe9": 1,
+		"46_19qsuxKBkNZWYft3epWgn6u3gG82sQHs6n": 1
+	}
+}

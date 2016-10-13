@@ -1,0 +1,23 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "Hacking ZeroNet POC (Are you sure there are not more ;))",
+			"body": "https://screencast-o-matic.com/watch/cDeeqi1lyh",
+			"added": 1457032565
+		}
+	],
+	"topic_vote": {},
+	"next_comment_id": 2,
+	"comment": {
+		"1_1HcCbQWH3xuquT5Z2S4nTk7fqAyoM2AWpi": [
+			{
+				"comment_id": 1,
+				"body": "See :D http://bit.no.com:43110/1HeLLo4uzjaLetFx6NH3PMwFP3qbRbTf3D\n\nyep, it affect proxies, which are peers also :D so have a nice play :D see ya soon on other hack, and watch you machines for processes ;) love zeronet, so we can get more ips :D",
+				"added": 1457033910
+			}
+		]
+	},
+	"comment_vote": {}
+}

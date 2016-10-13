@@ -1,0 +1,18 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 2,
+	"comment": {
+		"1_1N48vLbHxHJ94R317NGsBFM1X3871iEM8q": [
+			{
+				"comment_id": 1,
+				"body": "Are there really still people who get fooled by that?",
+				"added": 1463355403
+			}
+		]
+	},
+	"comment_vote": {
+		"7_167eTX5f6jJt4HPvfQqf2QuwdTFCnxJCf2": 1
+	}
+}

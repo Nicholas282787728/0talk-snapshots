@@ -1,0 +1,64 @@
+{
+	"next_topic_id": 3,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "I need somebody for my blog on ZeroNet!",
+			"body": "I have a blog on ZeroNet i need somebody for make articles on ZeroNet and On my forum someone iterested?",
+			"added": 1458752283
+		},
+		{
+			"topic_id": 2,
+			"title": "On zeronet is possible clone a website?",
+			"body": "if i make a blog somebody can clone my site?",
+			"added": 1458820206
+		}
+	],
+	"topic_vote": {
+		"1_13BepSu3vkeSQB3ZWkCDg7Lu5w64tfpeTa": 1,
+		"6_1LJMypJ67iEBwah82xwVVdB8SGZ1mwqgHQ": 1
+	},
+	"next_comment_id": 5,
+	"comment": {
+		"2_13BepSu3vkeSQB3ZWkCDg7Lu5w64tfpeTa": [
+			{
+				"comment_id": 1,
+				"body": "> [ks](#comment_45_14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx): Only if you set {\"cloneable\": true} in the site's content.json file.\n\nthank you!",
+				"added": 1458820517
+			},
+			{
+				"comment_id": 2,
+				"body": "> [ks](#comment_45_14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx): Only if you set {\"cloneable\": true} in the site's content.json file.\n\nAnd what happen if i clone the folder?",
+				"added": 1458820577
+			},
+			{
+				"comment_id": 3,
+				"body": "> [ks](#comment_46_14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx): If you set “{\"cloneable\": false}” there will be no “clone” item for your site in ZeroHello. If said option is set to true, obviously people can clone the site in ZeroHello.\n> I don't understand what you mean by “cloning the folder”.\n\nif you go on the folder datas of zeronet there are a lot of website is it possible to clone from here",
+				"added": 1458820950
+			},
+			{
+				"comment_id": 4,
+				"body": "> [pycole](#comment_100_1KwTTgPRSTHFmmJAFBt6kQfdyNeSM5KJuH): Pretending to be another website (phishing) is possible on the normal internet too; there are tools available for downloading sites. The best way to deal with the problem either way is by bookmarking urls.\n> On ZN, we have a slight advantage, though. If you've already visited a site, you can browse it easily. If a new 'fake' site is made and you are lead there by a link, It'll need to find peers and download. Hopefully, You'll be thinking 'wait a sec, I already downloaded this site!' and be suspicious.\n\ni now but in ZeroNet is more simple",
+				"added": 1458831139
+			}
+		]
+	},
+	"comment_vote": {
+		"98_1KwTTgPRSTHFmmJAFBt6kQfdyNeSM5KJuH": 1,
+		"95_1KwTTgPRSTHFmmJAFBt6kQfdyNeSM5KJuH": 1,
+		"45_14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx": 1,
+		"26_16bxMyoL49mWYhcZKBYVBT5zEFW9SQpiao": 1,
+		"100_1KwTTgPRSTHFmmJAFBt6kQfdyNeSM5KJuH": 1,
+		"89_1PVcdu7USZH2kHMETbqDYLPjJZKCDWM52k": 1,
+		"3_12ktWhf6gHFhVvqHxE8CMRHD5Zqdfm9b4g": 1,
+		"89_1H8oKiRa7fGgUqS1hpUtaSYLvAqkaknbkf": 1,
+		"2_12ktWhf6gHFhVvqHxE8CMRHD5Zqdfm9b4g": 1,
+		"88_1H8oKiRa7fGgUqS1hpUtaSYLvAqkaknbkf": 1,
+		"1_12ktWhf6gHFhVvqHxE8CMRHD5Zqdfm9b4g": 1,
+		"47_14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx": 1,
+		"3_13BepSu3vkeSQB3ZWkCDg7Lu5w64tfpeTa": 1,
+		"46_14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx": 1,
+		"2_13BepSu3vkeSQB3ZWkCDg7Lu5w64tfpeTa": 1,
+		"1_13BepSu3vkeSQB3ZWkCDg7Lu5w64tfpeTa": 1
+	}
+}

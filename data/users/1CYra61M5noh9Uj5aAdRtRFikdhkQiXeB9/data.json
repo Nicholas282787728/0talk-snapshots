@@ -1,0 +1,15 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "ZeroNet compatibility with PirateBox and FreedomBox",
+			"body": "Thank you @nofish and everyone for your work. I'm in love with ZeroNet.\n\nI was wondering if anyone has attempted to use ZeroNet with a PirateBox, FreedomBox or device such as Raspberry Pi or Beaglebone Black.\n\nPirateBox is a DIY anonymous offline file-sharing and communications system built with free software and inexpensive off-the-shelf hardware.\n\nWhat is FreedomBox?\n\nEmail and telecommunications that protects privacy and resists eavesdropping\nA publishing platform that resists oppression and censorship.\nAn organizing tool for democratic activists in hostile regimes.\nAn emergency communication network in times of crisis.\nFreedomBox will put in people's own hands and under their own control encrypted voice and text communication, anonymous publishing, social networking, media sharing, and (micro)blogging.\n\nhttps://en.wikipedia.org/wiki/PirateBox\nhttps://en.wikipedia.org/wiki/FreedomBox\n\nWith PirateBox you use a pre-existing router flashed with OpenWRT and run the custom PirateBox. Then you have  a portable 3D router you can connect to and chat with everyone.\n\nFor FreedomBox install debian on on any computer and has an open source software stack.",
+			"added": 1465469650
+		}
+	],
+	"topic_vote": {},
+	"next_comment_id": 1,
+	"comment": {},
+	"comment_vote": {}
+}

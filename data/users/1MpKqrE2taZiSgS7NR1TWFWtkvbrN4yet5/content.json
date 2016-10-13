@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HIELwcNTLmCNrmsk2G5UWmQOR8PbGxOu2NrcHmnt3nzYvm4RuzaTxNM2Nd5rbPPuxoXxWGrI96+PBXk+YXJzxTM=",
+ "cert_user_id": "freethelight@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "00368e29c6e15d1fae2d1df75947121d071f34d2ec1f44d8eec8af930ae5af9e",
+   "size": 476
+  }
+ },
+ "inner_path": "data/users/1MpKqrE2taZiSgS7NR1TWFWtkvbrN4yet5/content.json",
+ "modified": 1473010985.377,
+ "signs": {
+  "1MpKqrE2taZiSgS7NR1TWFWtkvbrN4yet5": "G7t2xrkUY3qJurQDc2EFmA9pipGDQLxC+KJXFOxfyB0RCgjvLjxALXZvGRN26dOok/e52pBmIF1lLLDH5BiXoHQ="
+ }
+}

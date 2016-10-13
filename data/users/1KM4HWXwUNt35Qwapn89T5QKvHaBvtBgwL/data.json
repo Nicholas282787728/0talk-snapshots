@@ -1,0 +1,16 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 2,
+	"comment": {
+		"1_1PSaHi14Xh4Kjo3yyjDgbRtj4YLQgWV4QJ": [
+			{
+				"comment_id": 1,
+				"body": "RSS is dead? Man, someone should tell feedly about this. http://www.alexa.com/siteinfo/feedly.com",
+				"added": 1464883101
+			}
+		]
+	},
+	"comment_vote": {}
+}

@@ -1,0 +1,16 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 2,
+	"comment": {
+		"1_1eZj5FBTjyDsmhJReNQUkdxftWSbapzge": [
+			{
+				"comment_id": 1,
+				"body": "usate tor fisso o il browser con sta merda?",
+				"added": 1457636899
+			}
+		]
+	},
+	"comment_vote": {}
+}

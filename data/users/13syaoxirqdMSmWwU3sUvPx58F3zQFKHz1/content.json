@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HBFBTdz6NIEi8UIPgQoeGmgNgXhNLhc5bvD4WhSTyDoaou7vdWD1GSnnkF8T95uRWgDV5C0CqRyzgZGeG/lMFhc=",
+ "cert_user_id": "logicalorange@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "8f704b7dcc2f01ede3abecb21c35e5b6104e5072d968f211b889eb9426c152ed",
+   "size": 411
+  }
+ },
+ "inner_path": "data/users/13syaoxirqdMSmWwU3sUvPx58F3zQFKHz1/content.json",
+ "modified": 1457004176.259,
+ "signs": {
+  "13syaoxirqdMSmWwU3sUvPx58F3zQFKHz1": "HP0k8/W0cNphd6AO7nOhslOC+yjCZkmc3SeKJ3PFusUovushsO37WHkttJpYaQfHnCDVrQrJ/nDDiDiRmCsSGM8="
+ }
+}

@@ -1,0 +1,184 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {
+		"2_12Ex3Mrd75wY2r5rB21jBcmgj9hxwUK1w2": 1,
+		"2_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"3_168qV1Xxp2EyszrzdECLUwXrn9wGYjDdar": 1,
+		"2_1M5ztUWkCMP5Pv7MjwApWT7CNvWimGFaFa": 1,
+		"1_1GtJqyJRsuZhmxVtw5USgvqGbUmVH7EmBD": 1
+	},
+	"next_comment_id": 23,
+	"comment": {
+		"1_198jKSKMzpRxH5C81bXojho2xGcTxXXcqc": [
+			{
+				"comment_id": 1,
+				"body": "I also can't wait to see what people will build",
+				"added": 1454370385
+			}
+		],
+		"2_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": [
+			{
+				"comment_id": 2,
+				"body": "> [loot](#comment_19_17vE6u5SLLQ3eLazQDWXxM25663bbjPjBt): *number\n\nYou can edit posts",
+				"added": 1454370571
+			}
+		],
+		"2_1MmPY9fniJwwhP6WsgH4jWoq5rBAVV6KWy": [
+			{
+				"comment_id": 3,
+				"body": "For the people not on IRC I am going to make a few videos on the weekend (hopeful)",
+				"added": 1454534321
+			}
+		],
+		"4_13KqD3BoaRMudEG5QU2fnGLkSVx8qDXKof": [
+			{
+				"comment_id": 4,
+				"body": "What you are looking for is a program like https://en.bitcoin.it/wiki/Vanitygen\n\nDon't use third party services to generate a vanity address as they are inherently insecure. You can make a websote the usual way and then change the keys to your vanity keys.\n\nIf you are going to use .bit it might just be better to use a brain wallet with a secure passphrase (use warpwallet as it is not viable to bruteforce) as then you can recover the keys if your harddrive fails/is stolen ect. Although the keys should be in a cryptographically secure place e.g. Encrypted harddrive, Truecrypt.",
+				"added": 1454789805
+			}
+		],
+		"6_13KqD3BoaRMudEG5QU2fnGLkSVx8qDXKof": [
+			{
+				"comment_id": 5,
+				"body": "> [nofish](#comment_262_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): When 80% of limit reached you will be asked to increase. If you don't increase it you will keep seeding what you have, but your client won't accept any new update. Optional files is supported, eg.: http://127.0.0.1:43110/1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h has 1000+ videos, they only download if your client requests it.\n\nIs there a limit to optional files?",
+				"added": 1454878493
+			}
+		],
+		"26_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf": [
+			{
+				"comment_id": 6,
+				"body": "To limit spam we may want to look into having a report spam button, like the \"Upvote\" button but Mods can filter the content for posts that have been flagged, also flags can be ignored from ZeroID's that spam them/did them wrong before. VIP is also a good idea however the amount of money to charge would have to be decided on.",
+				"added": 1456351831
+			}
+		],
+		"4173_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG": [
+			{
+				"comment_id": 7,
+				"body": "I am guessing that zeronews is a bot... either that or TOR has gotten into the oil business",
+				"added": 1456443900
+			}
+		],
+		"21_1ED3Ho3kmzaKiECtyuqSjDpoE47rKuXeP": [
+			{
+				"comment_id": 8,
+				"body": "That is linking to a website that links to Vodlocker piracy, change it to the other site",
+				"added": 1456604758
+			}
+		],
+		"1_1EUyJtat7mbu5wMcR6nrJTPBBRons1mtMA": [
+			{
+				"comment_id": 9,
+				"body": "I found it a while ago whilst looking for an open source alternative to Maelstrom, have been using it for a while however it is in its early stages at the moment and I am very interested in seeing it's growth through time and what ZeroNet will become.",
+				"added": 1456872363
+			}
+		],
+		"2_1GCsW9TFfjDsvcdmKPADq1n8Q3ha72UtDQ": [
+			{
+				"comment_id": 10,
+				"body": "Python is probably my favorite however I do also like node.js.",
+				"added": 1457021205
+			}
+		],
+		"1_154jAWx5PDRmvF4txGHo4Edw1BpduhDyvw": [
+			{
+				"comment_id": 11,
+				"body": "Yeah bridges already exist you can also read the docs to set one up. The proxies use multi user login so you can also log in and browse ZeroNet, running a node is better but proxies can be used.",
+				"added": 1457033842
+			}
+		],
+		"2_1LRrd96P7FiTcsyNXVzPM5jtpQoH1B4gYf": [
+			{
+				"comment_id": 12,
+				"body": "I can't beat 150, that is a good game though :)",
+				"added": 1457126538
+			}
+		],
+		"4_1EMpuiFM1NLZmAVyoAWnwi8VwiZVV4dcnN": [
+			{
+				"comment_id": 13,
+				"body": "5 is my top score :( I am not that good at it",
+				"added": 1457285098
+			}
+		],
+		"1_1GtJqyJRsuZhmxVtw5USgvqGbUmVH7EmBD": [
+			{
+				"comment_id": 14,
+				"body": "Thanks for sharing the playlist, if anyone wants to suggest a video for me to make I will add it to the playlist. Also if you credit me you can embed these videos within ZeroNet",
+				"added": 1457560471
+			}
+		],
+		"2_1DFDjUGJdSp1kMuFq1AtNS9ZWmkVtbp947": [
+			{
+				"comment_id": 15,
+				"body": "When you link to stuff on ZeroNet please use the http://127.0.0.1:43110/TheExhi.bit as many people don't use the extension for chrome.",
+				"added": 1457560611
+			}
+		],
+		"1_14dNVE624kRnYCiLWcZmaeJCteW6txn7wA": [
+			{
+				"comment_id": 16,
+				"body": "To register a domain you need 0.02 NMC, currently 1.00 BTC = 791.0714 NMC so 0.00002528 BTC aka 2528 Satoshi or  0.0103 USD. I showed in one of my videos how to get this amount of satoshi for free: [HERE!](https://www.youtube.com/watch?v=CnlpTZUOOj0&index=7&list=PLgFqcJDOq2q5orC1U4IvDBMpjezKt-X4E)",
+				"added": 1457808912
+			}
+		],
+		"1_19oxC2p6nBedwyFoRGpcvupvrTiFwQyCdu": [
+			{
+				"comment_id": 17,
+				"body": "Just notify the site admin, don't be a douche. Plus if the faucet is using any form of faucet provider e.g FaucetBox or manually sends the bitcoins you will not have access to the private key.",
+				"added": 1460487322
+			}
+		],
+		"9_1DcDDitsjFJohvwonPmpibRChmA7uGxqL7": [
+			{
+				"comment_id": 18,
+				"body": "> [bot](#comment_23_1KdnTJVBGzEZrJppFZtzfG9chukuMv8xSb): The minimum you can withdraw is 100000000 Satoshi. (1 BTC)That's 10,000 x 10,000. :P\n\nYeah something tells me when you reach 1 BTC you will not be paid",
+				"added": 1461419675
+			}
+		],
+		"4_1LRrd96P7FiTcsyNXVzPM5jtpQoH1B4gYf": [
+			{
+				"comment_id": 19,
+				"body": "> [p2p](#comment_156_13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ): i wrote an Automated rsync snapshot scrip here, when used by many people it'll help preventing site deletion/takedown:http://127.0.0.1:43110/Talk.ZeroNetwork.bit/?Topic:4_13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ/Automated+rsync+snapshot+script+to+make+it+truly+impossible+to+takedown+a+ZeroNet+site\n\nThat is a pretty good idea, for HTML and CSS contents wouldn't something like Git or other versioning software be useful?",
+				"added": 1462226496
+			}
+		],
+		"1_19arYgVKguUamTqtYGu6T9FSUsr19CyEcG": [
+			{
+				"comment_id": 20,
+				"body": "Webrtc would allow real time communication however it would be difficult to stop cheaters and such e.g. the flappy bird clone didn't have obvious cheaters for a few weeks then someone cheated by faking the scores. I am not sure how you can implement an anti-cheat in a decentralised system, maybe hope people will not and be lucky.",
+				"added": 1462403509
+			}
+		],
+		"1_1EV44RW7vgpgpoxceDpqP4WfBmnTzJUjNV": [
+			{
+				"comment_id": 21,
+				"body": "That is true, if the site is still relevant so people still seed it it will be still online. You can create a site and destroy the private key to make sure your ZeroNet site will stay the same forever too.",
+				"added": 1462403646
+			}
+		],
+		"6_1P8VJL2iKWfUB4hqQkrFdXCbC8RrimAZoZ": [
+			{
+				"comment_id": 22,
+				"body": "I doubt it is the best thing about Tor however it is interesting to see the recommendations that you get due to your country.",
+				"added": 1462747689
+			}
+		]
+	},
+	"comment_vote": {
+		"204_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"21_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf": 1,
+		"3_1An7ATsNMMNqRgSgB2upWwbpXgFXQ9E2XD": 1,
+		"233_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"39_1QBLGLcgKfcpfLmiDYuDzUKVXFfmTAew55": 1,
+		"268_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"41_1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD": 1,
+		"361_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"365_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"1_1HSBkju9y9tQrpph3yKgcdzxM6pnkvgmNy": 1,
+		"4_1HSBkju9y9tQrpph3yKgcdzxM6pnkvgmNy": 1,
+		"386_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"440_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"156_13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ": 1
+	}
+}

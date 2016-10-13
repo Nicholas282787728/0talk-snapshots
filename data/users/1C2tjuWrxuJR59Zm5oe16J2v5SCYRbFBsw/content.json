@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "G+8jmQ8kwLs5txP5k/wY1Axbh66LARtTZdTOq/w/JBBDaotyV3HYrculUItJ3zDERcSSmbYuoxM8JaFkizdE7k8=",
+ "cert_user_id": "automata@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "669a004848f51ad907198ad89b82f278b6ca4535b78982656047863219ce5cb6",
+   "size": 247
+  }
+ },
+ "inner_path": "data/users/1C2tjuWrxuJR59Zm5oe16J2v5SCYRbFBsw/content.json",
+ "modified": 1459706510.26,
+ "signs": {
+  "1C2tjuWrxuJR59Zm5oe16J2v5SCYRbFBsw": "G4ymnMbfGyA+yNAbgJhDbn+DMVwqFucruWSJwkVU6spC4BDwFQAsy1VF0NHXRkK5lGi5qu0rTPF9FDnfDRKordA="
+ }
+}

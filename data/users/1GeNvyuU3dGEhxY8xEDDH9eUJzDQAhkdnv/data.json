@@ -1,0 +1,16 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 2,
+	"comment": {
+		"1_1MDFGD6PJsZLnTg8Y9BcZKTPfKHMRrTL83": [
+			{
+				"comment_id": 1,
+				"body": "如果换了电脑，还能用注册的ID发言吗？",
+				"added": 1461504298
+			}
+		]
+	},
+	"comment_vote": {}
+}

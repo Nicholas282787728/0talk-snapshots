@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "GzR5E4faSBATFQ4Qf8CmfIkA7TJCgiulgO1d8CR+Ajkh1yAFIHauR+BgVrBxBq73Ugm2lIzdjbOd4tuu5WBdWSo=",
+ "cert_user_id": "karllebowski@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "0960103f1387fab44698f090bdd8fed5ea46b3908c7d6c4f6ad175b00a6d443b",
+   "size": 162
+  }
+ },
+ "inner_path": "data/users/1cutoiF4HHpes64N7TUYDXB58dUsiCpGT/content.json",
+ "modified": 1473171611.111011,
+ "signs": {
+  "1cutoiF4HHpes64N7TUYDXB58dUsiCpGT": "G4BGmRXbpSN9mcX2gEnbFerrfsTZrnEjNqgJ6lJZ9fIEq/srR/WMujixL0MPOWHtm6aZ76epz+zq3C1GcvUbBwI="
+ }
+}

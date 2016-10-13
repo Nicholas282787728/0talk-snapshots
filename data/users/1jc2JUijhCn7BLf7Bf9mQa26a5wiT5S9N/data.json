@@ -1,0 +1,23 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 3,
+	"comment": {
+		"2_15RzGDnzJD4sUKbL4FgiMG8ULi69qGbyvh": [
+			{
+				"comment_id": 1,
+				"body": "這個磁力怎麼樣？",
+				"added": 1460893340
+			}
+		],
+		"1_1NvuCEiBua5qhzxkBcgP5rd6iUtZ8goVuJ": [
+			{
+				"comment_id": 2,
+				"body": "怎麼訂閱或者是互粉？",
+				"added": 1460903336
+			}
+		]
+	},
+	"comment_vote": {}
+}

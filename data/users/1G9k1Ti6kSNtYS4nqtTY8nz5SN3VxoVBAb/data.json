@@ -1,0 +1,53 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "How do I see my previous posts and replies to my posts on zerotalk?",
+			"body": "Unless I revisit each thread I've commented on I can't see replies to my posts. Am I missing something? Something like the reddit /user/throwaway or /message/inbox links?",
+			"added": 1456155684
+		}
+	],
+	"topic_vote": {
+		"1_12SuCFUNDaMYRHG9DsWCyCN1NgHGjddwSJ": 1
+	},
+	"next_comment_id": 6,
+	"comment": {
+		"1_1PGFKCfMSL1QdudndfYCo4mGM8E8XKzMMG": [
+			{
+				"comment_id": 1,
+				"body": "Your site was stored in data/19KdvvYVFWuNPHQ2t8KVPtyS4jDUn19QKo in the folder you deleted I believe.",
+				"added": 1455086973
+			}
+		],
+		"13_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf": [
+			{
+				"comment_id": 2,
+				"body": "I think you would have to run a node that updated the static content as each block was found. Zeronet apps could then use a common javascript library that compared several such sites that were reputable to each other and used the current blockchain data to craft user transactions. These transactions could then be crafted in the client's browser at the site using the library and left as user data on one or more of the underlying sites and they could read them and post them to the network. The lag would be more than a regular, dynamic site.\n\nI think this is possible, though I'm new to zeronet tech. Perhaps a reference blockchain source site and the javascript library would make a cool project for someone (I have a big list already). It could do multiple blockchains. Not sure yet if a zeronet site can make ajax calls to a clearnet site, that would mean you could use regular block explorers and other clearnet tools.",
+				"added": 1455360085
+			}
+		],
+		"1_1HN54tqPZqnHs5SpJVFVsMhRH1nUSt3iQF": [
+			{
+				"comment_id": 3,
+				"body": "A marketplace implemented on zeronet has little advantage over a clearnet or tor hidden service marketplace. It is still a centrally managed site. Hence OpenBazaar. ZeroNet seems to me to solve a separate class of problems, though I could see URIs between the two being useful.",
+				"added": 1456055608
+			},
+			{
+				"comment_id": 4,
+				"body": "> [nofish](#comment_348_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): Does not need to be central site, every merchant can create a separate site via cloning (like ZeroBlog).\n\nGood point, though I see a few drawbacks, maybe you can counter me on these:\n\n**Standardisation**\n\nThere would need to be standards for contract capabilities for automatic engagement and every clone runs the risk of not getting it right as both their fork of the portal and the standards evolve. The lack of standardisation of user experience including ease of searching and difficulty of self-hosting is why small merchants tend to use centralised solutions.\n\n**Multi-tier merchants**\n\nThose merchants that can invest more in their site, pay more SEO, affiliates etc. get more traffic and sales. In the OB model everyone is a more equal peer, guaranteed a minimal level of professionalism in the portal without the need to retain a web developer. Sure, ads and affiliates will exist outside of OB, but the product page may be of the same quality whether the merchant is Intel or Jo's junkshop.\n\n**Centralised listings**\n\nThere would still need to be centralised moderator listings so they can be found by users, allowing for corruption by censoring or promoting certain moderators in favour of others. There's no guarantee a Moderator would be able to inter-operate with the store you find. Searching zeronet for a product would yield a familiarly annoying mix of articles and shopping portals. This would lead to aggregation portals that acted as an agent, undoing efforts at dis-intermediation.\n\n**Still requires a node with a permanent connection**\n\nExtensive product listings will presumably be optional files and you're not going to want to rely on viewers of your niche products being on zeronet in order for those products to be visible. So one advantage of a zeronet site (hosted by its users) does not add benefit over OB for a common class of use cases (people with attics full of esoteric junk to sell).\n\nThere may be more but I'm still new to zeronet and haven't got more than 10 minutes to think about it right now.",
+				"added": 1456140573
+			}
+		],
+		"1_16k9pNCerEdsZvWU82HMesThKFo9fofRfz": [
+			{
+				"comment_id": 5,
+				"body": "That escalated quickly...",
+				"added": 1456155235
+			}
+		]
+	},
+	"comment_vote": {
+		"13_13KqD3BoaRMudEG5QU2fnGLkSVx8qDXKof": 1
+	}
+}

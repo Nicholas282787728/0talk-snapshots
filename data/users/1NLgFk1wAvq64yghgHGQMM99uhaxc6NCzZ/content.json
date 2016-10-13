@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HGJIJGGUGTduBCZr+Cbl9BqTO0+U4JLjDClgQ4Tu2esBgx/sUiqTItcbFmbl2gi+TC/90y1W8BjlEwkxLBWQ2FI=",
+ "cert_user_id": "trumforjanitor@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "6ccd251b83030ab3ee7354c0b1518bf8c6b073b451dcf665cc20c55041bdf185",
+   "size": 1249
+  }
+ },
+ "inner_path": "data/users/1NLgFk1wAvq64yghgHGQMM99uhaxc6NCzZ/content.json",
+ "modified": 1458768852.43678,
+ "signs": {
+  "1NLgFk1wAvq64yghgHGQMM99uhaxc6NCzZ": "G8dkHWlk5aFZjASpc/NcMj2xsgMpnoHO7lfZ1GOggrEeoeIj+Xeum16EvhEbraoAGSB5MsbRDifuetnOYKhxiqM="
+ }
+}

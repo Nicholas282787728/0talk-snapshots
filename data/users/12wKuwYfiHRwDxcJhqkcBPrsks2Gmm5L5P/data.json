@@ -1,0 +1,28 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 4,
+	"comment": {
+		"1_1UfvLnMuzShvi3phWGSqn79tio81Wn9Dt": [
+			{
+				"comment_id": 1,
+				"body": "你好 ，想請教一下有關用tor browser 使用zerobit 的問題。\n\n\n\n    Start the Tor Browser\n    Go to address about:preferences#advanced\n    Click Settings...\n    Enter 127.0.0.1 to field No proxy for\n\n\n我已經按上述官方的做法設定TOR browser ，可是開啟zeronet的時候仍然自動跳出firefox 連結 zeronet ，\n請問如何解決這問題?",
+				"added": 1460265596
+			},
+			{
+				"comment_id": 2,
+				"body": "> [p2p](#comment_123_13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ): 你设定完成后，在Tor Browser地址栏里输入127.0.0.1:43110回车即可。那个自动打开的firefox不用管它，直接关掉即可。或者你把Tor Browser设置成默认浏览器，那么就会自动打开Tor Browser了。\n\n謝謝解答 我會注意了",
+				"added": 1460268461
+			}
+		],
+		"1_1PRsmkcDcCnKbCfFTeQizKYcDpNn98iQcT": [
+			{
+				"comment_id": 3,
+				"body": "宜しく　日本の皆さん",
+				"added": 1464365660
+			}
+		]
+	},
+	"comment_vote": {}
+}

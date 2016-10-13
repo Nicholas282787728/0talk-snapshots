@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HLmrQPE1BY2Nw7mMY1ks8eIHrV705G9mA/I3YCNWYAaDDh7o7Renf8Gj3IihuDzeRnH2k7A7XEuQySGk1GKEnig=",
+ "cert_user_id": "stigmamatesgroup@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "5e981433ca3a0c12e0c503850c3bc2b723277bb63c408d2821c2d33861cb3b18",
+   "size": 653
+  }
+ },
+ "inner_path": "data/users/1NNECDmooAnYQUPpAwiqVmzmsbAELYhQTN/content.json",
+ "modified": 1464298126.119,
+ "signs": {
+  "1NNECDmooAnYQUPpAwiqVmzmsbAELYhQTN": "HLLV6hvVsgQAMGICNPBNXyHDvh2UansvcMNTjpJ+qoiUUfCzV4o9VXgK8CPip3FmxhAO5ds1ZBKlYR8XPUzhw9g="
+ }
+}

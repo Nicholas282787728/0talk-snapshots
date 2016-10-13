@@ -1,0 +1,15 @@
+{
+ "cert_auth_type": "web", 
+ "cert_sign": "HPu8unmKHj1StPfko8nfuXFK70gAw7uDj8J9z8KkMCkcqLMuiUGmEeOYchZleJbWMbkj/+ZnUpaBv0f8G7oTGVI=", 
+ "cert_user_id": "italcoin@zeroid.bit", 
+ "files": {
+  "data.json": {
+   "sha512": "879dc90625cc185ef2f02524fe2302b06808254b9a27d5e06cb78fd774364009", 
+   "size": 490
+  }
+ }, 
+ "modified": 1450433331.215, 
+ "signs": {
+  "16JwmmKbuwEJwQ83q4eaSqkHj47R4rZdtu": "GxTrSjRdF3MKsKrPERBqUiIq7NBxNmulGBroHS26gZDMD23HPTEFfcLR+Lw+QYJU2p64ZpFgTYy2siYTH3d+4+s="
+ }
+}

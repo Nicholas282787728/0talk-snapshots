@@ -1,0 +1,35 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 5,
+	"comment": {
+		"2_1MCsyW6W243LY69ZYm99XbV3M8Gbbrp5hF": [
+			{
+				"comment_id": 1,
+				"body": "this tool is also of value to kill programs in case a vpn connection drops, never hurts to have secondary measures if you're using a client that has similar functionality.",
+				"added": 1457837555
+			},
+			{
+				"comment_id": 2,
+				"body": "> [low](#comment_1_16Wbf1q3ffLLNpzvyrrGczQK1ZRBJAwMro): this tool is also of value to kill programs in case a vpn connection drops, never hurts to have secondary measures if you're using a client that has similar functionality.\n\nProbably best to include the link :P\n\nhttps://github.com/primaryobjects/vpndemon",
+				"added": 1457837571
+			}
+		],
+		"10_14XxpXNGMLsyeQxikacrbQnAFXVyhN5Ngx": [
+			{
+				"comment_id": 3,
+				"body": "> [ks](#comment_29_14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx): And/or refer to a FAQ section in the ZeroWiki.\n\nThis is awesome. Definitely should make sure this project continues to grow. Many great things can be covered here",
+				"added": 1458077900
+			}
+		],
+		"10_17i7Y7r8nTaCfLbCAuaKyc4R5BbKZYU2Hr": [
+			{
+				"comment_id": 4,
+				"body": "protonmail.com is one to watch, it's definitely better than using something like gmail.com... if you're talking about an everyday mailer. if not, then definitely research your decentralized options :)",
+				"added": 1458710449
+			}
+		]
+	},
+	"comment_vote": {}
+}

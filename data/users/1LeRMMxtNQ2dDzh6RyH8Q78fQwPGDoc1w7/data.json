@@ -1,0 +1,23 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {
+		"5_1LRrd96P7FiTcsyNXVzPM5jtpQoH1B4gYf": 1
+	},
+	"next_comment_id": 3,
+	"comment": {
+		"2_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf": [
+			{
+				"comment_id": 1,
+				"body": "> [balmung83](#comment_1_1NiUW4YCNDYTij7D8TfFJHK4zNYc3LKxKg): It would be nice, if the guy (or girl) who made this site would enable the cloning-feature.\n\nSorry, my bad.  Unfortunately I lost the private key for that site.  However, you can still clone the site manually.  \nIn your zeronet folder go to data/1C2JhCunGLtvyX56nQ88tcb87WnXspjWN and copy the contents into a new (empty) site.  Delete the data folder (data/1C2JhCunGLtvyX56nQ88tcb87WnXspjWN/data/), then edit content-default.json in data/1C2JhCunGLtvyX56nQ88tcb87WnXspjWN/data-default/users/ to change the \"signs\" var for your site address and sig, and also increase the max_size of the permission_rules for \".*\" to something like 1000000.  Don't touch the cert_signers thing.  You might need to run zeronet with the --debug option the first time to get it to create the new database.\n\nI hope I haven't missed anything out here.  Note, the code for this is a bit hacky, if you want to play around with the code and improve the way files are handled, have a look at the sourcecode for zerotorrent.bit",
+				"added": 1452901288
+			},
+			{
+				"comment_id": 2,
+				"body": "> [balmung83](#comment_3_1NiUW4YCNDYTij7D8TfFJHK4zNYc3LKxKg): when logging inInternal error: TypeError: 'NoneType' object does not support item assignmentUiWebsocket.py line 96 > UiWebsocket.py line 176 > UiWebsocket.py line 435\n> andwhen postingInternal error: TypeError: 'bool' object has no attribute 'getitem'UiWebsocket.py line 96 > UiWebsocket.py line 172 > UiWebsocket.py line 309 > UiWebsocket.py line 275\n> i think i give up for now\n\nSorry about that i think I missed out a step.  I managed to find the private key for the site.  Cloning is enabled now (tested it out quickly and it works ok).  Post back if you have any problems.",
+				"added": 1452909676
+			}
+		]
+	},
+	"comment_vote": {}
+}

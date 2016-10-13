@@ -1,0 +1,23 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "ZeroNet and Tor error",
+			"body": "Tor is running but when I start ZeroNet it gives an error  TorManager Tor controller connect error: [Errno 111] Connection refused",
+			"added": 1453852405
+		}
+	],
+	"topic_vote": {},
+	"next_comment_id": 2,
+	"comment": {
+		"1_1LzsciERL8X7jsmkd8LXVWqGjTaApyyB3y": [
+			{
+				"comment_id": 1,
+				"body": "Kako podesiti ZeroNet da radi preko Tor-a,  Tor deamon radi ali kad pokrenem zeroNet u terminalu javlja grešku.    TorManager Tor controller connect error: [Errno 111] Connection refused",
+				"added": 1453852296
+			}
+		]
+	},
+	"comment_vote": {}
+}

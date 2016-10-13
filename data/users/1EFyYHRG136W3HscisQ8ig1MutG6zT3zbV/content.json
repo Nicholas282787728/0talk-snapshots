@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "Gz+W5sdHEkyqzLJ7GtUH1pee6xOTiJEMH3vgfcGkqLQR+FpkDIR2hxl/cHQd82+f3tlaKKhtLl/Sw+aJbz6ORo4=",
+ "cert_user_id": "patatita@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "bcc41da990ef4a84cc6ac0abbcd316722b6eded0f19e9f0128c32b400177bbff",
+   "size": 277
+  }
+ },
+ "inner_path": "data/users/1EFyYHRG136W3HscisQ8ig1MutG6zT3zbV/content.json",
+ "modified": 1456943450.927972,
+ "signs": {
+  "1EFyYHRG136W3HscisQ8ig1MutG6zT3zbV": "G7q4w0y8FSb8f1v52sRxJK3vTz7aKbPxpUBq9NthHg6J4salLGjmL1bnJfEBl6Rf0QMaWEsx4AAqceKUiOTcgKc="
+ }
+}

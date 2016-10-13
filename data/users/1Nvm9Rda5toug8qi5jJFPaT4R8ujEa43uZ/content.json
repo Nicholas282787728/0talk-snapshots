@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HNpscJVY5YnLSder5VKiupdTdXVQGjR+iIPaCSEYc+LAF4pQyPts4ydniJfvLCtPOAd/vjQoIS4i6Mm6NBP8WoU=",
+ "cert_user_id": "datasupernova@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "003b08b67d7c4457271f2f411cdfcae189240df2334cf57682c2c9f9f1aa8375",
+   "size": 162
+  }
+ },
+ "inner_path": "data/users/1Nvm9Rda5toug8qi5jJFPaT4R8ujEa43uZ/content.json",
+ "modified": 1473176619.946613,
+ "signs": {
+  "1Nvm9Rda5toug8qi5jJFPaT4R8ujEa43uZ": "HN3q83+S2eoK5UMhggm5HGCjAc9cAStFJ1bzZZFvNNnQxT+aCAXGYIM6ApykRqGSxRyCVYZJajcklX09xYxJEU8="
+ }
+}

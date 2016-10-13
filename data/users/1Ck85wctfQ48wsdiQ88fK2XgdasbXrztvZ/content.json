@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HMFqIvOT9BFHLlvUb+vwxzK4Su6R8InFkfvetzQb+nn+ByLxsjePbxte7CrShp1Ju3pIGniv8xyei3p2IhRYsRM=",
+ "cert_user_id": "drwinston@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "f6e6347efd43064fc8c82c801a46b9f0263c3d6b0cc5a51a7083935e28139db8",
+   "size": 496
+  }
+ },
+ "inner_path": "data/users/1Ck85wctfQ48wsdiQ88fK2XgdasbXrztvZ/content.json",
+ "modified": 1466380665.452621,
+ "signs": {
+  "1Ck85wctfQ48wsdiQ88fK2XgdasbXrztvZ": "HKSc8UItvF7s5yY3NVRwCpcGYkIn4oZ2DYJXVQiTZuQ05pl5KL6SLazMta4CgIwTItY6bbC/MsoAaRh/FxLFDEU="
+ }
+}

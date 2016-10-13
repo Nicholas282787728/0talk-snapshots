@@ -1,0 +1,183 @@
+{
+	"next_topic_id": 4,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "New proxy set up by Ace.",
+			"body": "https://zero.acelewis.com/\n\nOriginal post:\nhttps://www.reddit.com/r/zeronet/comments/4wmc4f/i_created_a_zeronet_meta_proxy_so_if_you_want_to/",
+			"added": 1470600488
+		},
+		{
+			"topic_id": 2,
+			"title": "Zeronet English Youtube Playlist",
+			"body": "https://www.youtube.com/playlist?list=PL63I75jQtFL-2SRMNBcPAoO_l3STUsOJ1\n\nmail or msg me if I am missing a video to the playlist.",
+			"added": 1470611537
+		},
+		{
+			"topic_id": 3,
+			"title": "Can a 0netizen host a local torrent index. The code is on github.",
+			"body": "If if you got a high-speed connection and a few gigs to spare, please give this lovely thing a whirl, save it on a zeronet site, and tell us the address:\n\nhttps://github.com/sergiotapia/magnetissimo\n\nit speedily saves torrent indexes offline. like really fast. i'd do it myself, but my isp watches my ass like a hawk.",
+			"added": 1471236615
+		}
+	],
+	"topic_vote": {
+		"1_1y3Aju6k4jeBfXRUec23QDX5crf4qAAWW": 1,
+		"1_19XWHYGRPvDkBYu6RePhg8vixH61dqitAy": 1,
+		"1_15zYrGJKfXo6XXU6rBUsuU3cTgpJkDuQYA": 1,
+		"5_1LUP6SN7WrXAH7e5bUFxdmrVsFr2m43XB4": 1,
+		"10_1KdnTJVBGzEZrJppFZtzfG9chukuMv8xSb": 1,
+		"1_19GDcmuGz3D2epgu9k65yMY9WMYDG8eZCP": 1,
+		"1_15mpAxi3wJYGmAMgjjHoX9o32CsHt7xUMd": 1,
+		"1_1M4Ab8CUu3byziHVvNXLHmPezC4Lg9hvNJ": 1,
+		"1_17Cs2auSHSVjKaYMXqbNMApRQrgXcwJUpL": 1,
+		"1_1KCg4tQ1dBRfMWZ8ptrqXSSUKKR11rYb6P": 1,
+		"7195_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG": 1,
+		"7_19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ": 1,
+		"1_1JHrskNwA3oo9gxvCbo3Q1RZTUuKCDdfUa": 1,
+		"7293_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG": 1,
+		"1_1APbko6uK9fwwZoqB5LKgFeqWdF3SDLw4k": 1,
+		"12_19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ": 1,
+		"1_1M3WXb3DtLL9zsRy4ECqemV7ZyA4u4FNFU": 1,
+		"1_13WWWFi6iuSLazDcNvHgBEjjeAofAhAwtE": 1,
+		"7331_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG": 1,
+		"2_14dWJrtWbw6sQKHgfeukbzBDJvBSnfRnTw": 1,
+		"3_1M4Ab8CUu3byziHVvNXLHmPezC4Lg9hvNJ": 1,
+		"2_14ng1wByxwoNXAhihYbpgyarVJbFiqs8ny": 1,
+		"17_1CMjV2r4EBpFt8VCcWWZKDysZXPcPExRNN": 1,
+		"6_1GervYZoP82e8X1Rgc4wyMkJY2zSsJuq8t": 1,
+		"11_1FTFKztuv4Z5uy6iS83k9hB2xtS6yFnDxx": 1,
+		"3_18XR5C5AxGfD5s2DbCPGuXxVN5oscoLyD6": 1,
+		"7_13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ": 1
+	},
+	"next_comment_id": 16,
+	"comment": {
+		"7186_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG": [
+			{
+				"comment_id": 1,
+				"body": "Bullocks, if they had access they wouldn't let it leak to the media.\n\nNo additional meta data, this is just a ruse to get ISIS to get to shutdown Telegram channels, that are hard to infiltrate.",
+				"added": 1470586387
+			}
+		],
+		"1_1y3Aju6k4jeBfXRUec23QDX5crf4qAAWW": [
+			{
+				"comment_id": 2,
+				"body": "Grogo no point in downloading RHEL 7 the only difference is the Red Hat Repo that you don't have access too.\n\nGet CentOS, Here is a video series and manual to get you started. Great material. Good luck\n\n>\nmagnet:?xt=urn:btih:ddcf37c499848be4abf3f1726ab8f851708be986&dn=RHEL+7+RHCE+RHCSA+Complete+Videos%26amp%3BDocs+%7C+Red+Hat+Linux&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fzer0day.ch%3A1337&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969\n\nSource https://thepiratebay.org/search/RHEL/0/99/0",
+				"added": 1470586750
+			}
+		],
+		"1_15mpAxi3wJYGmAMgjjHoX9o32CsHt7xUMd": [
+			{
+				"comment_id": 4,
+				"body": "AceLewis made some really great videos. \n\nhttps://www.youtube.com/playlist?list=PLgFqcJDOq2q5orC1U4IvDBMpjezKt-X4E\n\nThanks Ace!",
+				"added": 1470596696
+			},
+			{
+				"comment_id": 5,
+				"body": "crazyclanboys: http://127.0.0.1:43110/Blog.ZeroNetwork.bit/?Post:43:ZeroNet+site+development+tutorial+1\nhttps://github.com/HelloZeroNet/ZeroNet\nhttps://zeronet.readthedocs.io/en/latest/\n> [crazyclanboys](#comment_1_15mpAxi3wJYGmAMgjjHoX9o32CsHt7xUMd): i am not saying about zeronet tutorial .i am saying about programming tutorials",
+				"added": 1470597840
+			}
+		],
+		"1_1M4Ab8CUu3byziHVvNXLHmPezC4Lg9hvNJ": [
+			{
+				"comment_id": 6,
+				"body": "Original Post.\nhttps://zero.acelewis.com/\n\nI had a problem when making a blog post about ZeroNet when I wanted to link to a proxy. I was worried that the proxy I link to will go down and I will have to update all of the links when I find out, e.g http://zero.pags.to:43110/, http://zeropro.xyz and https://zeroproxy.atomike.ninja/ all have gone down.\n\nSo I decided to make a \"meta proxy\" basically you can create a link on the site, when someone clicks that link the site will take them to a working proxy so they can browse ZeroNet. The benefit of this is you don't have to update links when/if a proxy goes down. Currently it is only using one proxy http://bit.no.com because that is the only publicly running proxy I know of so running one would be helpful, the website is set up so it will randomly pick a proxy for the user from a list of working proxies I will maintain.\n\nThe conversion of links is simple, you just need to replace the \"127.0.0.1:43110/\" with \"zero.acelewis.com#\" so: http://127.0.0.1:43110/1HeLLo4uzjaLetFx6NH3PMwFP3qbRbTf3D/ becomes https://zero.acelewis.com/#1HeLLo4uzjaLetFx6NH3PMwFP3qbRbTf3D/\n\nAs I am running this on GitHub pages https://github.com/AceLewis/AceZeroProxy the hosting costs are free (so the site will not randomly shut down due to me not paying hosting) and you can contribute to make the site better. I don't like the name that much but could not think of a better one.\n\nAlso I don't recommend browsing on proxies whilst logged in they should be used to show people ZeroNet or allow people to view content that was published anonymously and decentralized on ZeroNet (where ZeroNet benefits the publisher and not the viewer).\n\nI would like to thank /u/SummonWho (@gabriicom) who made it look nice by giving me the HTML, CSS and JS for the front end.\n\nhttps://zero.acelewis.com/",
+				"added": 1470600680
+			}
+		],
+		"1_17Cs2auSHSVjKaYMXqbNMApRQrgXcwJUpL": [
+			{
+				"comment_id": 7,
+				"body": "Great, thus far. It needs alot of work, but, quite polished for such a young product.",
+				"added": 1470603634
+			}
+		],
+		"1_1KCg4tQ1dBRfMWZ8ptrqXSSUKKR11rYb6P": [
+			{
+				"comment_id": 8,
+				"body": "You need to build it from scratch the languages behind KAT need a central server. You can only use JS,HTML,CSS and SQLITE on 0net.",
+				"added": 1470604239
+			}
+		],
+		"7236_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG": [
+			{
+				"comment_id": 9,
+				"body": "It should be a crime to reference studies without linking to them or naming them by unique identifiers. I did some digging and  the Rand Study does not even link to the full research paper. http://www.rand.org/pubs/research_briefs/RB9925.html\n\nOne of the lead researchers on the project has a full page of his publications here, which are a lot more useful.\nhttp://www.daviddh.com/en/publications/",
+				"added": 1470769070
+			}
+		],
+		"1_1JHrskNwA3oo9gxvCbo3Q1RZTUuKCDdfUa": [
+			{
+				"comment_id": 10,
+				"body": "> [revolutionary](#comment_2_1JHrskNwA3oo9gxvCbo3Q1RZTUuKCDdfUa): 18 peers now. I've updated. Please share with your friends. Please suggest me good sites for snapshot.\n\nDo you mean archive services?\n\nhttps://archive.is/\nhttps://archive.org/web/\nhttp://megalodon.jp/",
+				"added": 1470954121
+			}
+		],
+		"1_1EBRsDJo4qKthFXgCDGnGEXZxdwhGrtLp2": [
+			{
+				"comment_id": 11,
+				"body": "More like Globalists vs Nationalists.",
+				"added": 1471037000
+			}
+		],
+		"1_1LkRBTdWeynXXmUhb5DXxesygs2aKaUnXx": [
+			{
+				"comment_id": 12,
+				"body": "\nZeroNet domain name registry\nhttp://127.0.0.1:43110/1Name2NXVi1RDPDgf5617UoW7xA6YrhM9F/",
+				"added": 1471226423
+			}
+		],
+		"1_1M3WXb3DtLL9zsRy4ECqemV7ZyA4u4FNFU": [
+			{
+				"comment_id": 13,
+				"body": "Yes absolutely, just like if you use a vpn with a torrent properly you can't be uniquely identified easily. 0net is alot safer because you have alot less backend server requests. It's clean and simple.",
+				"added": 1471226610
+			},
+			{
+				"comment_id": 15,
+				"body": "Also just going to post bitmessage. It is better than 0net for anonymous communication.\n\nIt is the best way to communicate and stay anon.\n\nBitmessage Links\nhttps://bitmessage.org/wiki/Main_Page\nhttps://bitmessage.org/forum/index.php\nhttps://www.reddit.com/r/bitmessage/\nBitmessage How-to for Debian and Ubuntu Linux - https://archive.is/tPC1D",
+				"added": 1471232861
+			}
+		],
+		"12_19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ": []
+	},
+	"comment_vote": {
+		"9_1FYXQGLBeNabf5jZHgP4CwzbmJSKaK4oMz": 1,
+		"693_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"116_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1,
+		"119_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1,
+		"69_1GervYZoP82e8X1Rgc4wyMkJY2zSsJuq8t": 1,
+		"15_1GervYZoP82e8X1Rgc4wyMkJY2zSsJuq8t": 1,
+		"6_1CFhytwoGGPNqmueehPqotaf2iG9uxD98e": 1,
+		"1_15mpAxi3wJYGmAMgjjHoX9o32CsHt7xUMd": 1,
+		"19_1PCPuVtFv8apVpXYbc46wHugNhFUVQ6KCv": 1,
+		"43_1LUP6SN7WrXAH7e5bUFxdmrVsFr2m43XB4": 1,
+		"8_1M4Ab8CUu3byziHVvNXLHmPezC4Lg9hvNJ": 1,
+		"20_1GervYZoP82e8X1Rgc4wyMkJY2zSsJuq8t": 1,
+		"84_1KdnTJVBGzEZrJppFZtzfG9chukuMv8xSb": 1,
+		"83_1KdnTJVBGzEZrJppFZtzfG9chukuMv8xSb": 1,
+		"19_1GervYZoP82e8X1Rgc4wyMkJY2zSsJuq8t": 1,
+		"18_1GervYZoP82e8X1Rgc4wyMkJY2zSsJuq8t": 1,
+		"81_1KdnTJVBGzEZrJppFZtzfG9chukuMv8xSb": 1,
+		"17_1GervYZoP82e8X1Rgc4wyMkJY2zSsJuq8t": 1,
+		"28_14Ph48APoNHojAArCqa6FAwXiobE9JByCy": 1,
+		"150_14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx": 1,
+		"9_1DZr3dWHcLESuHx7UeC23QSXfQFvBdFT9s": 1,
+		"10_1DZr3dWHcLESuHx7UeC23QSXfQFvBdFT9s": 1,
+		"29_1GervYZoP82e8X1Rgc4wyMkJY2zSsJuq8t": 1,
+		"11_1DZr3dWHcLESuHx7UeC23QSXfQFvBdFT9s": 1,
+		"86_1KdnTJVBGzEZrJppFZtzfG9chukuMv8xSb": 1,
+		"16_17VwZEfWSUWb5RHkK9m1odnDdBfvjTL6Cp": 1,
+		"12_1DZr3dWHcLESuHx7UeC23QSXfQFvBdFT9s": 1,
+		"7_1M4Ab8CUu3byziHVvNXLHmPezC4Lg9hvNJ": 1,
+		"122_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1,
+		"129_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1,
+		"1_1JHrskNwA3oo9gxvCbo3Q1RZTUuKCDdfUa": 1,
+		"28_1AdcxsExVKvxffQtEd72E5tckouzZHLEYC": 1,
+		"29_1FTFKztuv4Z5uy6iS83k9hB2xtS6yFnDxx": 1,
+		"13_1JF3eQjW4voiKdcvCkMXvUx5bLmZAiVdyi": 1,
+		"8_12iiajZz3dGdYuEyqTR5hvGECWmGh748HL": 1,
+		"730_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"14_1GnJD7CXskmG8GywMbTvbP12wneCFW9XzR": 1,
+		"15_1GnJD7CXskmG8GywMbTvbP12wneCFW9XzR": 1
+	}
+}

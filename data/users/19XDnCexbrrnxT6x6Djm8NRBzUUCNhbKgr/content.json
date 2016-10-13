@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "G/uaRIVUU9aWabpmyr5SG/cTFfe4/MiICWfpZmVQ8M56ch5DTcp6yNFFPg0Zl+fgG6SZ6dlq23ArALNklMd7mQI=",
+ "cert_user_id": "bagbobilgins@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "bb459599f06e402776b89f2afe98b30385439f87aa0dcf6114ea3d1af06bfd45",
+   "size": 560
+  }
+ },
+ "inner_path": "data/users/19XDnCexbrrnxT6x6Djm8NRBzUUCNhbKgr/content.json",
+ "modified": 1456984428.262033,
+ "signs": {
+  "19XDnCexbrrnxT6x6Djm8NRBzUUCNhbKgr": "HMw2I7n1Qaxj4vEK5P8iWRuJdUIABPiSJwsh+FV34XEBKIJIWHPAxA6Dy4s/tzs2ncN4lpCpQe163UNU/cACh3Q="
+ }
+}

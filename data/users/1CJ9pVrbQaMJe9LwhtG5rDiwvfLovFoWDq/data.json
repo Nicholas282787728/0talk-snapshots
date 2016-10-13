@@ -1,0 +1,42 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 6,
+	"comment": {
+		"2_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": [
+			{
+				"comment_id": 1,
+				"body": "t\ne\ns\nt",
+				"added": 1457617724
+			},
+			{
+				"comment_id": 5,
+				"body": ">is there a way to shut this guy down ?\nNo way, his mad.",
+				"added": 1457623912
+			}
+		],
+		"2_1DFDjUGJdSp1kMuFq1AtNS9ZWmkVtbp947": [
+			{
+				"comment_id": 2,
+				"body": "Are you sick?",
+				"added": 1457618540
+			}
+		],
+		"1_1AEFexfsUfegWprdXJ7b6xXmMt5P3m9EUv": [
+			{
+				"comment_id": 3,
+				"body": "dead site",
+				"added": 1457618622
+			}
+		],
+		"1_17ApQKugX1XH727gpAeD3mrRLjLxASdakd": [
+			{
+				"comment_id": 4,
+				"body": "Bad idea, only AIB chan, more hardcore.",
+				"added": 1457618763
+			}
+		]
+	},
+	"comment_vote": {}
+}

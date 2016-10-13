@@ -1,0 +1,24 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 3,
+	"comment": {
+		"9_19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ": [
+			{
+				"comment_id": 1,
+				"body": "So how does this work",
+				"added": 1460464142
+			},
+			{
+				"comment_id": 2,
+				"body": "Anyone around?",
+				"added": 1460464177
+			}
+		]
+	},
+	"comment_vote": {
+		"2_1L9z8ohWHjrNzEmZKeVZdhd5o2HJRgb3Ni": 1,
+		"1_1L9z8ohWHjrNzEmZKeVZdhd5o2HJRgb3Ni": 1
+	}
+}

@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "G9UkeTW3YxZxQJmJU4yHcR4yJ0zh52BJT72YBOXykvFGUKmt3wqRG1WMaq9LOINicU6f6tpsK1Q+iGEKs+5QnqA=",
+ "cert_user_id": "nomansbuy@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "148037c1e0a7a900b4242c99413123714bc56ef8535f144dcf702e943465bc59",
+   "size": 387
+  }
+ },
+ "inner_path": "data/users/16eyo97AVX9rVqautGDo31HoYaLmEw17iv/content.json",
+ "modified": 1471987161.233,
+ "signs": {
+  "16eyo97AVX9rVqautGDo31HoYaLmEw17iv": "G6jBFbCUcPvsWVlkRwhMx3fPasi4O+epqyFMpYlt20dRYsMxLZ3279vuxrZubMAD3nuPLiTiw9OoSxUpQAKfMh4="
+ }
+}

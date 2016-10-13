@@ -1,0 +1,15 @@
+{
+ "cert_auth_type": "web", 
+ "cert_sign": "G2+3lEqQgKQ2Rlh0tJJrcveFNGUk35yHLumtiYD/tmw78eHacjCwTUvMhzvrwUJG6suaYxTJLIAsq5b/C5CQ1Vw=", 
+ "cert_user_id": "argentum@zeroid.bit", 
+ "files": {
+  "data.json": {
+   "sha512": "e71487ea6262b4c4d088a04b3091344a9e89a0fd5ef5a6145134bea82320e106", 
+   "size": 1112
+  }
+ }, 
+ "modified": 1455443210.175, 
+ "signs": {
+  "1Q2ioVKj67AbofttLyMavMiq6mK21Qd3GA": "HAxzXUdeEVu577ZZrjUnMlePqJWI/Gb2pplPTKdGitupwFvO+AyLc+nvxwjAw9RUc4xtWSXDlKvVMI70C8L1dmY="
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "G0rBcaci7EkC4T+xCKNELvnzOWzl6zbH/PaiePr86MqZsyuJhQ3ehSSyPua5S8qI6T6jI6t6aSFSyV+CRIAogVQ=",
+ "cert_user_id": "cubarco@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "159cfe566f6cd78f8b2a6ff7d368ea56aaad45e1d92b4fa1274006fffa5adb4f",
+   "size": 584
+  }
+ },
+ "inner_path": "data/users/1PaNruTHEkkv54U1HabrjsdZviRFMdgt4x/content.json",
+ "modified": 1459000615.00534,
+ "signs": {
+  "1PaNruTHEkkv54U1HabrjsdZviRFMdgt4x": "Gxe4AcGHofg8PuZVsZduTzgkb/iLsBDpC5MhcQM2bL7vh5CMFyJ8TvwVMG0f7IDUE69LxirbRPS0mkUirgFk0Bk="
+ }
+}

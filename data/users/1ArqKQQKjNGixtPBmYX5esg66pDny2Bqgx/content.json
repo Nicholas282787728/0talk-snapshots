@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "G5v9tyDSyZKoSbXVQ7U3lMP4LGbsrrjTgDrgGzipJ0FH6AGeP8NP0Bg0seMKml/o30D9lejS2tr+BmHFYVe9T/E=",
+ "cert_user_id": "elohimseeker@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "568040a8c7b8f7c37bf34cbeeaeb205b083db766d7a948b3c68a250c00a4c1e2",
+   "size": 163
+  }
+ },
+ "inner_path": "data/users/1ArqKQQKjNGixtPBmYX5esg66pDny2Bqgx/content.json",
+ "modified": 1470112041.415,
+ "signs": {
+  "1ArqKQQKjNGixtPBmYX5esg66pDny2Bqgx": "G3nlIRgDGAobw2n3q9j3JZAZD+TEvRb/nyM2KjS4ZvkGzXC+k3+NNAqXZcZMcXY7tICi0Npj9Gwk7c/uKrXJJgU="
+ }
+}

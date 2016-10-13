@@ -1,0 +1,30 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "help zeronet go mainstream",
+			"body": "we have to do something to make sure it doesn't slip into obscurity. tor, i2p, and freenet have came and went. they are used by us alone, the darknet people. Zeronet is the most valuable tool I've seen for fighting the the powers that be. if we want to win though it has to go mainstream. it has to be easier to use for the sheeple. my first suggestion is a custom browser that masks the local host portion of the URL. of course this wouldn't work for the sites without a registered domains. Any other thoughts?",
+			"added": 1457026588
+		}
+	],
+	"topic_vote": {},
+	"next_comment_id": 3,
+	"comment": {
+		"1_1EUyJtat7mbu5wMcR6nrJTPBBRons1mtMA": [
+			{
+				"comment_id": 1,
+				"body": "i was reinstalling bit message and found a link in abitmessage forum discussing it. that was about 2 weeks ago. just got on last night and wow.",
+				"added": 1457027770
+			}
+		],
+		"1_1Ao1FGCWvNNwf4Y4KMKJp9HgPbseU7gE31": [
+			{
+				"comment_id": 2,
+				"body": "doesnt tox support voip?",
+				"added": 1457141547
+			}
+		]
+	},
+	"comment_vote": {}
+}

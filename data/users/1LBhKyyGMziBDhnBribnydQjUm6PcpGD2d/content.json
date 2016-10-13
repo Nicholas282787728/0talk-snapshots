@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "G2jTGPAoIKkRvXaM6kJIBRpoZembAhQD/8S2KhyHDysg5sNEo7gMK0nQHeiCXm/gqzxYvP7HWKKvIMVSVyFb5JI=",
+ "cert_user_id": "aesalonperegrin@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "cd16187a4c7219a6d110b0f0998f97dfd998c5c0da51878a36051741389a2aef",
+   "size": 461
+  }
+ },
+ "inner_path": "data/users/1LBhKyyGMziBDhnBribnydQjUm6PcpGD2d/content.json",
+ "modified": 1459166729.85202,
+ "signs": {
+  "1LBhKyyGMziBDhnBribnydQjUm6PcpGD2d": "HJ9saOV623HTTq6AVBU9okTQfU/PgaxqIgzHET2nGhHEmMQzZCC7BCNb8vqjyOw8aEBcUVuZcETra1jH1uDousI="
+ }
+}

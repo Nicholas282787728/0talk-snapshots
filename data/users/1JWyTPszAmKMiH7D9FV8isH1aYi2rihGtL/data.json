@@ -1,0 +1,32 @@
+{
+	"next_topic_id": 3,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "Bitcoin cash deposit",
+			"body": "How anonymous will my bitcoins be if I buy using cash deposit?",
+			"added": 1457986656
+		},
+		{
+			"topic_id": 2,
+			"title": "Can I have multiple zeroid users on a single computer?",
+			"body": "Can I have multiple zeroid users on a single computer?  If so, how?",
+			"added": 1458073194
+		}
+	],
+	"topic_vote": {},
+	"next_comment_id": 2,
+	"comment": {
+		"1_1JWyTPszAmKMiH7D9FV8isH1aYi2rihGtL": [
+			{
+				"comment_id": 1,
+				"body": "> [hotdog](#comment_19_18eNH913qX7e9vBExuMiv7qAMSRkJYNa21): like, paying someone with cash? sending cash? bank deposit?\n\nAs in, get the sellers bank details from localbitcoin, go to a local bank, and ask to deposit physical bank notes into the sellers bank account.",
+				"added": 1458074241
+			}
+		]
+	},
+	"comment_vote": {
+		"98_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1,
+		"25_16bxMyoL49mWYhcZKBYVBT5zEFW9SQpiao": 1
+	}
+}

@@ -1,0 +1,43 @@
+{
+	"next_topic_id": 3,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "Can you use ZeroNet as a proxy",
+			"body": "for torrenting and stuff etc",
+			"added": 1471152822
+		},
+		{
+			"topic_id": 2,
+			"title": "Anybody made anything dedicated to anime torrents yet",
+			"body": "",
+			"added": 1471153194
+		}
+	],
+	"topic_vote": {},
+	"next_comment_id": 4,
+	"comment": {
+		"1_1EBRsDJo4qKthFXgCDGnGEXZxdwhGrtLp2": [
+			{
+				"comment_id": 1,
+				"body": "sounds spooky",
+				"added": 1471152951
+			}
+		],
+		"1_14dWJrtWbw6sQKHgfeukbzBDJvBSnfRnTw": [
+			{
+				"comment_id": 2,
+				"body": "> [kaffie](#comment_154_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh): No. ZeroNet does not route network traffic. Instead, it uses torrents to distribute decentralized websites. You can use ZeroNet to find torrents, that you then download using your regular setup. And ZeroNet also has support for Tor, if you wish to use that.\n\nalright, makes sense thanks dude",
+				"added": 1471153240
+			}
+		],
+		"2_14dWJrtWbw6sQKHgfeukbzBDJvBSnfRnTw": [
+			{
+				"comment_id": 3,
+				"body": "> [edantes](#comment_13_1JF3eQjW4voiKdcvCkMXvUx5bLmZAiVdyi): There is a major torrent indexing project underway, stay tuned.\n\nsicc",
+				"added": 1471237127
+			}
+		]
+	},
+	"comment_vote": {}
+}

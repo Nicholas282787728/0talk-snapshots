@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "G2JUKBzp4M5x8fpAVS/36Zh1o4sMm2PbbDHyOqPva/ONvzV8ULwyTWe6Z4cKIRbGKobsA2u1qKF6NNajoXT2HHI=",
+ "cert_user_id": "lukipuki@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "ac7daa472626067cec940eb5aea67da727f0519ab1e69145ecece4695f6b86d3",
+   "size": 51777
+  }
+ },
+ "inner_path": "data/users/1CMYxdit4qq9QGk9DYRu2ruRPd2YDGckH8/content.json",
+ "modified": 1468683989.49317,
+ "signs": {
+  "1CMYxdit4qq9QGk9DYRu2ruRPd2YDGckH8": "G4vphfhZ566/axuPSqxtOSRbFxY56SAL0MYB9eYXQ+M4ELdIFmdJM0PRQpmSL6HQnQokoQOqcXqSEtQ9xV0N1Uw="
+ }
+}

@@ -1,0 +1,16 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 2,
+	"comment": {
+		"2_1M3WXb3DtLL9zsRy4ECqemV7ZyA4u4FNFU": [
+			{
+				"comment_id": 1,
+				"body": "This is a similar problem to what the BTC community went through. They ended up with lite wallets that don't have to dl the whole blockchain or stay on all the time using up network. It's a tradeoff. There might be a similar one for zeronet.",
+				"added": 1471932272
+			}
+		]
+	},
+	"comment_vote": {}
+}

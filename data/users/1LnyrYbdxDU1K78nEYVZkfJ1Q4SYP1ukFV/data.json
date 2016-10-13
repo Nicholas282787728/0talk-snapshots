@@ -1,0 +1,53 @@
+{
+	"next_topic_id": 3,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "Where is the downvote button?",
+			"body": "Please..",
+			"added": 1457035309
+		},
+		{
+			"topic_id": 2,
+			"title": "Unofficial Discord Server for ZeroNet",
+			"body": "Come and join us at https://discord.gg/0rhRPIb1OHtvxujO\nDiscord is a free voice and chat software, fully encrypted.",
+			"added": 1457040795
+		}
+	],
+	"topic_vote": {
+		"1_1C3v8nTmMJReshHQxX1Di6D8nmMYfdpspA": 1,
+		"2_1KJFB4SEHaHCY11HMKsMGyth1mXKb3R5oY": 1,
+		"1_18SnQz5JhcaeKfh5XL2vUqM44F5ffueVYq": 1,
+		"1_1LnyrYbdxDU1K78nEYVZkfJ1Q4SYP1ukFV": 1,
+		"2_1LnyrYbdxDU1K78nEYVZkfJ1Q4SYP1ukFV": 1
+	},
+	"next_comment_id": 4,
+	"comment": {
+		"1_1EUyJtat7mbu5wMcR6nrJTPBBRons1mtMA": [
+			{
+				"comment_id": 1,
+				"body": "Reddit :)",
+				"added": 1457027857
+			}
+		],
+		"1_1C3v8nTmMJReshHQxX1Di6D8nmMYfdpspA": [
+			{
+				"comment_id": 2,
+				"body": "Português de certeza :)",
+				"added": 1457029060
+			}
+		],
+		"1_154jAWx5PDRmvF4txGHo4Edw1BpduhDyvw": [
+			{
+				"comment_id": 3,
+				"body": "> [pyschopomp](#comment_2_1D7uESYtAKV36MVPGJZXuE7LUKbLwfo4dX): No offense, but \"normals\" is the reason the web sucks and is being pushed for stronger censorship.For those who have been around long enough all technologies begin like this. BBS, ant then Web 1.0.I think ZeroNet has a lot of potential but it's too early to start bridging with the regular joe. ZeroNet is for a censorship free internet, and allowing people with sensibilities in now could actually hinder that goal.\n\n+1",
+				"added": 1457034983
+			}
+		]
+	},
+	"comment_vote": {
+		"2_1D7uESYtAKV36MVPGJZXuE7LUKbLwfo4dX": 1,
+		"1_1gxnMbioXRbkebgK9JSmqkPhXRH97a6Jn": 1,
+		"12_14tJBPnxcrF9kMK5v7DULWnaJx3JepirXb": 1
+	}
+}

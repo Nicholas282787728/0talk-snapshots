@@ -1,0 +1,30 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 4,
+	"comment": {
+		"1_14139fxEEc7VuHVxvK2UqYSeX3rJqiADVY": [
+			{
+				"comment_id": 1,
+				"body": "Don't believe it's a good Idea.\n If your plan of cyber-attack worked, you, and many others would have to pay a price much higher than it is now to have access to the zeronet. Censorship and many other stuff may come.",
+				"added": 1466553116
+			}
+		],
+		"1_1MRtwGn7hTgkPNffU2Xm3cPCtc718wuuUE": [
+			{
+				"comment_id": 2,
+				"body": "You are already using it. What help would a tutorial be to you?",
+				"added": 1466553279
+			}
+		],
+		"1_1L9PoCssFWU3Zpyyh9JrLvpYfS165CsZmU": [
+			{
+				"comment_id": 3,
+				"body": "Do as instructed and its really simple\n\nHow to install Mac on PC with VirtualBox:\nhttp://techsviewer.com/how-to-install-mac-os-x-el-capitan-on-pc-on-virtualbox/\nHow to install Mac on PC with Vmware:\nhttp://techsviewer.com/how-to-install-mac-os-x-el-capitan-on-vmware-on-pc/\n\nNote that the Mac VMDK files are exactly the same, there's no need to download twice even if you would like to try both ways.",
+				"added": 1466553647
+			}
+		]
+	},
+	"comment_vote": {}
+}

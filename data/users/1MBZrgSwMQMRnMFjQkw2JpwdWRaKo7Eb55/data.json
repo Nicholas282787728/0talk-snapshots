@@ -1,0 +1,54 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "A list of availables public proxies",
+			"body": "If I am not wrong there aren't ways to find public proxys so why don't make a list?\nI know: \nhttp://zero.pags.to:43110\nhttp://bit.no.com:43110\nhttps://zeronet.classcoder.com/",
+			"added": 1450289951
+		}
+	],
+	"topic_vote": {
+		"1_1FHS5V4FmPFyJQspXVNB3gDVPd3JyjHCv7": 1
+	},
+	"next_comment_id": 7,
+	"comment": {
+		"1_1FHS5V4FmPFyJQspXVNB3gDVPd3JyjHCv7": [
+			{
+				"comment_id": 1,
+				"body": "> [avatarx](#comment_4_1BGaNcH1UBqAdatPbT3YssmPRVdhepMNPW): Cual video ahorita es mejor que sea .mp4 para que firefox, edge, safari y IE no tengan problemas.\n\nQuiza hable de más, todavía no se bien cómo funciona esto... Pero subir videos a una página la va hacer pesar mucho ¿no? Sería mejor subirla en torrent e incrustarla en un reproductor si se pudiera. ¿Me explico?",
+				"added": 1450281440
+			},
+			{
+				"comment_id": 3,
+				"body": "> [rcastano](#comment_1_1254yKPQxGEL7qEkTgig8dGZAhbW6TyQ4f): Hola a todos uno mas por acá, paso para aprender sobre el funcionamiento en general de ZeroNet. Por cierto dejo el link de mi Blog:\n> http://127.0.0.1:43110/1w6GQ9UNZZiF9hcWZgcgpAZUuUy7DtviZ\n> ¡Saludos!\n\nNo peers XD, prueba a entrar desde algun proxy y así te siembra.... o.O",
+				"added": 1450900499
+			},
+			{
+				"comment_id": 4,
+				"body": "> [avatarx](#comment_7_1BGaNcH1UBqAdatPbT3YssmPRVdhepMNPW): Si, se a que refieres. Lo que digo es que cuando cargue el reproductor local cualquiera que sea el método en que se este distribuyendo el video. El formato de video mas compatible y versátil sigue siendo .mp4. \n> Ahora, con lo de que la pagina se volvería muy pesada. Pues afortunadamente nofish ya esta probando lo de archivos opcionales. Que permitirían el que los archivos embebidos en una pagina de ZeroNet solo se descarguen bajo demanda.  También es posible crear una pagina que funcione con torrents pero que se reproduzcan en una pagina de zeronet, por lo que he estado viendo.\n\nEstoy bastante interesado en cómo evoluciona esto...",
+				"added": 1450900578
+			},
+			{
+				"comment_id": 6,
+				"body": "Bueno, yo también tengo un blog http://127.0.0.1:43110/1B2poWMT76gwgSnNiHSL1RNe8Mn1bvH5rN\nno hay muchas cosas útiles por ahora, lo que llevo publicado es más bien \"delirios\" mios, de todas formas lo escribo para que si alguien quiere lo lea.",
+				"added": 1452009115
+			}
+		],
+		"2_1KMxiVcvnJ2vFFGWNYhujgFNWYvNrxdVmo": [
+			{
+				"comment_id": 2,
+				"body": "They are working on it https://www.reddit.com/r/PopCornTime/comments/3sbsz6/download_working_installers_or_fix_your_current/",
+				"added": 1450281930
+			}
+		],
+		"1_1MBZrgSwMQMRnMFjQkw2JpwdWRaKo7Eb55": [
+			{
+				"comment_id": 5,
+				"body": "> [icouldntcareless](#comment_5_1C7rjaNpWFAtWbQgSxbGaPzBdgCA47VYc6): zeronet.classcoder.com is now HTTPS. Might want to replace the link in the OP.\n\ndone",
+				"added": 1451608999
+			}
+		]
+	},
+	"comment_vote": {}
+}

@@ -1,0 +1,106 @@
+{
+	"next_topic_id": 3,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "Format of configuration file",
+			"body": "The option `--config_file`  allows to input running parameters through a file. But It is not documented the format of such file.\n\nWhich is this format? TIA!",
+			"added": 1452037046
+		},
+		{
+			"topic_id": 2,
+			"title": "Can't delete sites",
+			"body": "When I try to delete a site from ZeroHello sidebar I receive an error: \"This function is disabled on this proxy\" (this comes after the confirm banner).\n\nWhat am I making wrong? TIA",
+			"added": 1457105060
+		}
+	],
+	"topic_vote": {},
+	"next_comment_id": 15,
+	"comment": {
+		"6_1KTjPe9MxoYkcXj78GuZgCcj3R3f3Twh7r": [
+			{
+				"comment_id": 1,
+				"body": "...kaj prosperan novan jaron!",
+				"added": 1451948241
+			}
+		],
+		"1_1FKv8ekYrPvVxZASX4Rk6EYQYpASnHaiXn": [
+			{
+				"comment_id": 2,
+				"body": "Thanks a lot!\n\nAt first time I thought about JSON format, like the one transmission-daemon uses.",
+				"added": 1452072236
+			}
+		],
+		"2_1JHQA9oFkFpFFRiscyT4N71AKLWg46pQ92": [
+			{
+				"comment_id": 3,
+				"body": "Mi táctica es hacer circular el tráfico por una VPN. Estás menos expuesto. Con I2P no sólo ves \"peers\" I2P.",
+				"added": 1457004737
+			},
+			{
+				"comment_id": 4,
+				"body": "> [cer](#comment_4_1JHQA9oFkFpFFRiscyT4N71AKLWg46pQ92): Ni tribler, ni Deluge, ni una VPN te salvaran si descargas Torrents usando Trackers Abiertos (como PLAY o TPB)... solo usando trackers dentro de Tor (p.e. trackers.onion) o en I2P se puede ser anonimo.\n\nPero... ¿la tecnología magnet no se supone que es independiente de los trackers? Yo sólo uso enlaces magnet.",
+				"added": 1457090922
+			},
+			{
+				"comment_id": 5,
+				"body": "> [cer](#comment_4_1JHQA9oFkFpFFRiscyT4N71AKLWg46pQ92): Ni tribler, ni Deluge, ni una VPN te salvaran si descargas Torrents usando Trackers Abiertos (como PLAY o TPB).\n\nPor cierto... ¿¡PLAY está en abierto!? PLAY está en ZeroNet.",
+				"added": 1457090980
+			},
+			{
+				"comment_id": 6,
+				"body": "> [lao](#comment_4_12gppTfEoyX6PuQV1bZqoseLmk2Sn4eMtJ): ¿Lo de usar tor para torrents no es un poco dinamitar esa red? Pregunto desde la ignorancia..\n\nNo debes usar tor para el tráfico de BT. Pero no hay inconveniente tener sitios ONION que distribuyan enlaces magnet.",
+				"added": 1457091053
+			}
+		],
+		"1_1BGaNcH1UBqAdatPbT3YssmPRVdhepMNPW": [
+			{
+				"comment_id": 7,
+				"body": "What do you mean by \"ZeroNet on VPN? There are 2 options:\n\n1) Your node is connected to VPN and the ZeroNet traffic is passing through it.\n2) The computer where your browser works is connected to a VPN and you can see your node or a public proxy without problems.\n\nIMHO 2) is trivial to guess it works. But 1) is more defying. I'd like to know how to route my node's ZeroNet traffic through a VPN.",
+				"added": 1457098453
+			},
+			{
+				"comment_id": 11,
+				"body": "> [freedomium](#comment_5_1D1mHVvWghiztezcbXBmEufzYVaLdjG2pG): PIA (private internet access) vpn is working 100% with zeronet\n\nHow do you route the traffic through it?",
+				"added": 1457180778
+			},
+			{
+				"comment_id": 12,
+				"body": "> [war59312](#comment_12_1PXHuyMr4g7zLeVr6yAgfDQJBkFsUqL1V1): shevek, use OpenVPN client.\n> Assuming, you are on Windows:\n> First do this: http://practicalrambler.blogspot.com/2011/01/windows-7-firewall-how-to-always-use.html\n> Do that for zeronet\\ZeroNet\\tools\\tor\\tor.exe and zeronet\\Python\\python.exe. This will insure all traffic is routed via PIA. Will protect you in the event VPN drops. All traffic to zeronet will stop in that case.\n> Once that is done. Run OpenVPN client and connect to PIA. Then start ZeroNet.\n> Verify on http://127.0.0.1:43110/Stats that IP Address listed is that of PIA.\n\nI'm running ZeroNet in a Raspberry Pi (so, my system is Raspbian). In this same equipment I'm running OpenVPN against PIA servers.\n\nBut my traffic is routing through the normal interface (eth0) instead of the virtual interface created by OpenVPN (tun). I don't know how to achive this.",
+				"added": 1457197962
+			},
+			{
+				"comment_id": 13,
+				"body": "> [war59312](#comment_14_1PXHuyMr4g7zLeVr6yAgfDQJBkFsUqL1V1): In that case, I believe you can use iptables to route the traffic correctly.\n> See step 4: https://www.raspberrypi.org/forums/viewtopic.php?f=36&t=81657\n\nThanks! In fact, I've just remembered that my transmission-daemon launch script also touches iptables...\n\nI think these recipes are devoted to convert RasPi into a VPN server, but they can guide to the solution.",
+				"added": 1457200226
+			}
+		],
+		"2_1FKv8ekYrPvVxZASX4Rk6EYQYpASnHaiXn": [
+			{
+				"comment_id": 8,
+				"body": "> [erkan](#comment_5_1H8oKiRa7fGgUqS1hpUtaSYLvAqkaknbkf): what happens when you try this on your local zeronet ?\n\nWhat do you mean? I'm trying it in my own node.",
+				"added": 1457107418
+			},
+			{
+				"comment_id": 9,
+				"body": "> [erkan](#comment_5_1H8oKiRa7fGgUqS1hpUtaSYLvAqkaknbkf): It seems it is not allowed when you use a proxy. What happens when you try this on your local zeronet instance?\n\nMy local instance is placed on headless Raspberry Pi. So I can't access ZeroNet through \"localhost\"; then I opened it via \"ui_ip = *\" with password.\n\nIs this a problem!?",
+				"added": 1457172431
+			},
+			{
+				"comment_id": 14,
+				"body": "I've just [seen the answer](/159bRwxjgvNGfhvXw1qzXsTPjenMzy2P4n/?Post:3:Using+the+Multiuser+plugin)\n\nSo, multiuser plugin is not compatible with delete sites feature.\n\nI wonder if there will be a CLI option for this. I.e.:\n\n`python zeronet.py deleteSite 1ncstE9VqyEpCUGxjBnr1q4SWxMA1fnBz`",
+				"added": 1457294419
+			}
+		],
+		"1_1E1PGsCSCNzkP8xmx8awJ2hho3cPdsN4FF": [
+			{
+				"comment_id": 10,
+				"body": "> [guryushika](#comment_1_19yMrWm3whKF3s5vkcJT5vGJPFUAX3EPou): mia Dio, esperantuloj !!! ĉie ili estas !!!\n\nEsperantistoj estas kvazaŭ biblia plago :-)",
+				"added": 1457172756
+			}
+		]
+	},
+	"comment_vote": {
+		"5_1H8oKiRa7fGgUqS1hpUtaSYLvAqkaknbkf": 1
+	}
+}

@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HBnRakzhJG6sJ5y8ZLew8/TocE+7C8HBNbRD5o1xsdSR2VpFDdhCg7wNNVa9S3ZMqYXI59x8rTEk6XDDkDpLudE=",
+ "cert_user_id": "realtryanddoxme@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "2fca96c0ba892de7472e4101eb60119872f64133f2f2cf4e28798e80e07900d1",
+   "size": 317
+  }
+ },
+ "inner_path": "data/users/1KXzch3zUkyQ43btkfjHEeZKhBrTkUSRor/content.json",
+ "modified": 1464039002.023,
+ "signs": {
+  "1KXzch3zUkyQ43btkfjHEeZKhBrTkUSRor": "HIB3dwUb/FUArtCGYL/cfDVXpcFJhwqtsA3A2Nq2fdlxOwL5VLgo5r2EdkcZ6YsEQ7gGFc66TjK0FEMwzW9eQyE="
+ }
+}

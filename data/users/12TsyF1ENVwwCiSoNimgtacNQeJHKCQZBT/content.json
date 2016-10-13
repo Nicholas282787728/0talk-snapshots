@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "G+p/9OjsBSf/kmkfn2KeuDDtIFVLk01fRlOJHJ1U7f9Uhb7z7en6C+gBYKEpPNPkEJfMP8B0HUzRZijlAokY5gk=",
+ "cert_user_id": "bitcoinembassy@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "7d6cebf14aac87615edee1f9d5b8b4e8139a0f1eafcb847a459f4deb1cfc39ef",
+   "size": 287
+  }
+ },
+ "inner_path": "data/users/12TsyF1ENVwwCiSoNimgtacNQeJHKCQZBT/content.json",
+ "modified": 1458782293.023138,
+ "signs": {
+  "12TsyF1ENVwwCiSoNimgtacNQeJHKCQZBT": "G/MpbXF2NdoXO6AMlkirSQnMYOEeM8io4Gil3/HgaAauI7t3Y8maXNeIQaLC+2VAZGtovamIzhC5FWIOjveh8N0="
+ }
+}

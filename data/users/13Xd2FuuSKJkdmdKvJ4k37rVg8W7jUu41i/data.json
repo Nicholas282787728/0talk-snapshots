@@ -1,0 +1,16 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 2,
+	"comment": {
+		"1_1BG8WrV2VY1bNjQiKR4tcL52FAw6Y6BoJ8": [
+			{
+				"comment_id": 1,
+				"body": "我不是来反对或者赞同观点的，我只提出一个错误，“去中心话”不是“分布式”的流行词，“分布式计算“（Distributed computing）”和“去中心化”（decentralization）是不同的。",
+				"added": 1467886525
+			}
+		]
+	},
+	"comment_vote": {}
+}

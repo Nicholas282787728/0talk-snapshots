@@ -1,0 +1,46 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "1MB filesize limit",
+			"body": "Is the 1MB filesize limit still active or has it been fixed/improved already?\nDoes it apply to optional content?",
+			"added": 1455464897
+		}
+	],
+	"topic_vote": {},
+	"next_comment_id": 5,
+	"comment": {
+		"6_1QBLGLcgKfcpfLmiDYuDzUKVXFfmTAew55": [
+			{
+				"comment_id": 1,
+				"body": "I haven't done this myself but:\n\nMaybe you could get yourself a cheap VPS (torrenting allowed) or portforward your home-machine and use those instructions: http://zeronet.readthedocs.org/en/latest/faq/\n\nScroll down to \"Is it possible to install ZeroNet to a remote machine?\" to get some more info and how to password-protect this service.\n\nOh forgot:\nThere are public gateways such as the other people here mentioned:\n\n    http://bit.no.com:43110/Talk.ZeroNetwork.bit\n    http://zero.pags.to:43110/Talk.ZeroNetwork.bit\n\nThanks to nofishme on reddit (who posted those)",
+				"added": 1455403045
+			}
+		],
+		"1_1FJFF8d4B5LQ9jJinqBRxqCR7RHbHPxBfv": [
+			{
+				"comment_id": 2,
+				"body": "echobot doesn't respond",
+				"added": 1455466691
+			}
+		],
+		"1_13pAK1jj4Qwt56ytnn5BorrMfHA7J3Nc8C": [
+			{
+				"comment_id": 3,
+				"body": "> [nofish](#comment_304_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): Large files still not supported. Around 40% of peers are using Tor and it's not a good idea to send big files over it, so better use Torrent or similar to distribute large files.\n\nWhat about 2~3MB files?",
+				"added": 1455469169
+			},
+			{
+				"comment_id": 4,
+				"body": "Thanks!",
+				"added": 1455542218
+			}
+		]
+	},
+	"comment_vote": {
+		"304_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"311_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"2_12iiajZz3dGdYuEyqTR5hvGECWmGh748HL": 1
+	}
+}

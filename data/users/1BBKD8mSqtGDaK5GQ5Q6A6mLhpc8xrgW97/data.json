@@ -1,0 +1,114 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {
+		"14_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf": 1
+	},
+	"next_comment_id": 20,
+	"comment": {
+		"2_1M5ztUWkCMP5Pv7MjwApWT7CNvWimGFaFa": [
+			{
+				"comment_id": 1,
+				"body": "hi \nhow can i see the websites through zeronet",
+				"added": 1454825726
+			}
+		],
+		"2_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": [
+			{
+				"comment_id": 2,
+				"body": "hi",
+				"added": 1454828862
+			},
+			{
+				"comment_id": 3,
+				"body": "anyone here can u tell how to use zeronet",
+				"added": 1454828879
+			},
+			{
+				"comment_id": 4,
+				"body": "on how to use websites in it",
+				"added": 1454828893
+			},
+			{
+				"comment_id": 5,
+				"body": "like in google will ask our doubt right similarly can we search the things !! m new to zeronet ...cant understand on how to use it ..",
+				"added": 1454836338
+			},
+			{
+				"comment_id": 6,
+				"body": "> [20160207](#comment_1_14BXZxtn5HB8TFobZkBxfgFXb6B7ugFvT3): Testing at 0357\n\nwhat does it mean",
+				"added": 1454836388
+			},
+			{
+				"comment_id": 7,
+				"body": "okay thank u!!",
+				"added": 1454838802
+			},
+			{
+				"comment_id": 8,
+				"body": "what is the main purpose of zeronet ?",
+				"added": 1454838952
+			},
+			{
+				"comment_id": 9,
+				"body": "so the things are posted by the public only we can access...?\nthere is no common search box to search things which i want know",
+				"added": 1454842948
+			},
+			{
+				"comment_id": 10,
+				"body": "as my knowledge i m using internet to know the unknown things and to clarify the doubts and all ,,,\nin zero net we dont have such options since it is decentralized ...then what is the use of it ...",
+				"added": 1454862645
+			},
+			{
+				"comment_id": 11,
+				"body": "hi ...how to create newsite in zeronet ..i searched some website ..as per their instruction i just entered into zerobundle/zeronet afterthat there is zeronet.py  if i click this i will get the info in the docx format..",
+				"added": 1455634141
+			},
+			{
+				"comment_id": 14,
+				"body": "thank u ...",
+				"added": 1455789922
+			},
+			{
+				"comment_id": 15,
+				"body": "as u said i cloned in zerotalk and zero blog...so is this the site creation??",
+				"added": 1455818808
+			},
+			{
+				"comment_id": 16,
+				"body": "and i copy the address in the search box and copied it into the address in zero search to publish the content...it accepted..then i ll search the content topic which i added ,,but it shows \"result not found\"",
+				"added": 1455818927
+			},
+			{
+				"comment_id": 17,
+				"body": "i added one site in zero search \nif i search it shows \"result not found",
+				"added": 1455890652
+			},
+			{
+				"comment_id": 18,
+				"body": "ohhh okay okay thank u",
+				"added": 1455892057
+			},
+			{
+				"comment_id": 19,
+				"body": "which is my private key..actually i thought  to host an site in zero search which is posted in zeroblog,for that i just enter the site address which is shown in search box at  my blog",
+				"added": 1457354818
+			}
+		],
+		"14_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf": [
+			{
+				"comment_id": 12,
+				"body": "hiii what is the difference between zeronet and freenet",
+				"added": 1455634745
+			},
+			{
+				"comment_id": 13,
+				"body": "how to create the new site in zeronet ...actually m using windows 8",
+				"added": 1455634799
+			}
+		]
+	},
+	"comment_vote": {
+		"1_1HN54tqPZqnHs5SpJVFVsMhRH1nUSt3iQF": 1
+	}
+}

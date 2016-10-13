@@ -1,0 +1,19 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 2,
+	"comment": {
+		"2_15ymkjUYJS6tjUC35AekGMExZMN6iks8ma": [
+			{
+				"comment_id": 1,
+				"body": "It would be nice if somebody could create a Formula for Homebrew that installs all dependencies and ZeroNet as a service, so it will start with OS X.",
+				"added": 1457208568
+			}
+		]
+	},
+	"comment_vote": {
+		"13_1LRrd96P7FiTcsyNXVzPM5jtpQoH1B4gYf": 1,
+		"1_1NtMR2eQkx4QQ52tgkswjmG3j8R97RpfEQ": 1
+	}
+}

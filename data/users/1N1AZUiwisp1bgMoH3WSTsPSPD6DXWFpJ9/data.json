@@ -1,0 +1,16 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 2,
+	"comment": {
+		"14_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf": [
+			{
+				"comment_id": 1,
+				"body": "I was reading the Wikipedia article on decentralization, and found ZeroNet in the Information Technology section: https://en.wikipedia.org/wiki/Decentralization#Information_technology",
+				"added": 1468666352
+			}
+		]
+	},
+	"comment_vote": {}
+}

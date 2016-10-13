@@ -1,0 +1,30 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 4,
+	"comment": {
+		"1_1NNECDmooAnYQUPpAwiqVmzmsbAELYhQTN": [
+			{
+				"comment_id": 1,
+				"body": "Google Chrome didn't liked the links, curiosity killed the cat!\nI'll not put my computer at risk downloading that.",
+				"added": 1464306460
+			}
+		],
+		"1_1GvhgDijRmr2GEbyAXkpSyQmiRY9Wyibpc": [
+			{
+				"comment_id": 2,
+				"body": "Your photo can't be considered porn since you are using underwear...\nMaximum erotic photo...",
+				"added": 1464306681
+			}
+		],
+		"2_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": [
+			{
+				"comment_id": 3,
+				"body": "Será que encontramos o trapézio descendente na ZeroNet? :O",
+				"added": 1464306736
+			}
+		]
+	},
+	"comment_vote": {}
+}

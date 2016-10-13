@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "G4rsENPiBlFjssqFOfkGqW8DlYbVPRVKuPK8hOifQFb+kbi8vE6FJiVzYLkAAc1fS7Qef9km5HO9a+n86zuJ8TQ=",
+ "cert_user_id": "enilats@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "66ef9f12ee13433e3d48993b7265bdb8d25afe5752be682fb17dd62ab343194a",
+   "size": 162
+  }
+ },
+ "inner_path": "data/users/1HSvZ9wTnhLaWvQ841m28RfUaRK1HEJead/content.json",
+ "modified": 1457003781.547224,
+ "signs": {
+  "1HSvZ9wTnhLaWvQ841m28RfUaRK1HEJead": "HJ+IqO7GYIkjGVRArfdZPVUkOmVMaShItoTX7QSdFh4SDZMwK4FKd9A3yv3e8xPnVKHewazaZdGfwN+FUamofiI="
+ }
+}

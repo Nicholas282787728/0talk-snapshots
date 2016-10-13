@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "G+BMsv1ecYA3mLdPXjsamsmyvjcvK0zHITIDTt//7kXQtyx9wziJBneI5Hc+2hnNcR150rUXe2c+etuZFKnn2Qg=",
+ "cert_user_id": "ploca@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "4f6527168d103af4d75bb93ee1e456f0e8ae72a865be12b0639a46c871effea9",
+   "size": 240
+  }
+ },
+ "inner_path": "data/users/19okzzTzc5XRbXALHaV46W3sNX8KbGyViN/content.json",
+ "modified": 1461757212.899063,
+ "signs": {
+  "19okzzTzc5XRbXALHaV46W3sNX8KbGyViN": "GyAL46Tn96O/hNGcwfHrRuwc6+1Psjtp/pkqhIgFfXazAzKRyCheLhIpBq2zgtt8Xl5jTH8GcFlHt/R1la+3DZ8="
+ }
+}

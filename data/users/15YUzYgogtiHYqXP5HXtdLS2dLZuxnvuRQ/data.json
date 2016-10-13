@@ -1,0 +1,62 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {
+		"2_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"1_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1
+	},
+	"next_comment_id": 8,
+	"comment": {
+		"1_1A6hcWNpQ9SSLoTTpuT19VsVQ6WCVRkyen": [
+			{
+				"comment_id": 1,
+				"body": "It's works for me\n\nedit: it looks like it does not works for new users, probably it's a bug in zeromail source code and will be fixed soon",
+				"added": 1457016729
+			},
+			{
+				"comment_id": 2,
+				"body": "It does not work currently for new users: https://github.com/HelloZeroNet/ZeroMail/issues/3",
+				"added": 1457019879
+			}
+		],
+		"1_1GG2zSSdoGqykuSqXrsnSo6JSgZ2UqMahu": [
+			{
+				"comment_id": 3,
+				"body": "I think two problem with streaming from browser:\n - Can't connect to Torrent network (Webtorrent is different network, you only able to connect another webtorrent clients)\n - Can't play mkv",
+				"added": 1457054965
+			}
+		],
+		"1_1PnCqnnZscQNPpRmHHZ7UfBpv2oZoqejMB": [
+			{
+				"comment_id": 4,
+				"body": "Yeah, all site can work even without Internet using alternative communication: Wifi direct (wifi without router), Bluetooth, Meshnet, Radio communication, etc.\nIt requires to add peer discover over these networks, but nothing major changes.",
+				"added": 1457525962
+			}
+		],
+		"2_16odYTnUpF26qivssGsSuwpLgdMQkvK8qh": [
+			{
+				"comment_id": 5,
+				"body": "Can you please explain why do you think the EU needs to be bombed? What problem does it solve?",
+				"added": 1458646151
+			}
+		],
+		"8_1DcDDitsjFJohvwonPmpibRChmA7uGxqL7": [
+			{
+				"comment_id": 6,
+				"body": "not visible here, have you signed/published your changes?",
+				"added": 1459009032
+			}
+		],
+		"18_1P8VJL2iKWfUB4hqQkrFdXCbC8RrimAZoZ": [
+			{
+				"comment_id": 7,
+				"body": "Not found, please sign+publish",
+				"added": 1464116219
+			}
+		]
+	},
+	"comment_vote": {
+		"29_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"1_13pAK1jj4Qwt56ytnn5BorrMfHA7J3Nc8C": 1
+	}
+}

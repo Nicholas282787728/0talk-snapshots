@@ -1,0 +1,16 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 2,
+	"comment": {
+		"1_1FoCQCBaoX3Fi85goewPLRLr1mxFqmCKNU": [
+			{
+				"comment_id": 1,
+				"body": "Hello from Bulgaria",
+				"added": 1457412046
+			}
+		]
+	},
+	"comment_vote": {}
+}

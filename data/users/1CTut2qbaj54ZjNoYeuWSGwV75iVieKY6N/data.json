@@ -1,0 +1,256 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {
+		"5_17VwZEfWSUWb5RHkK9m1odnDdBfvjTL6Cp": 1,
+		"4_1BFTNXtYQDMCurqyg45KLmsV6oJD7bQSsH": 1,
+		"7_19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ": 1,
+		"1_1M3WXb3DtLL9zsRy4ECqemV7ZyA4u4FNFU": 1
+	},
+	"next_comment_id": 41,
+	"comment": {
+		"1_1DjUq8hd2jYZgc5uNhQEtWUVZjMHkMQkpU": [
+			{
+				"comment_id": 1,
+				"body": "I already had it downloaded but I decided to come on since there would be people",
+				"added": 1470407335
+			},
+			{
+				"comment_id": 3,
+				"body": "> [kallukalia](#comment_1_1GCkz1DwRMJBjoGbXeGwqeyFjbEbXzdfm7): and just how can we torrent, there isn't any torrent site with a decent UI like KAT or TPB\n\nZeroTorrent isn't bad",
+				"added": 1470428112
+			}
+		],
+		"1_1MsUAPBMZkBpt4Z46849vSJQxRHbR7HyMt": [
+			{
+				"comment_id": 2,
+				"body": "http://127.0.0.1:43110/1PLAYgDQboKojowD3kwdb3CtWmWaokXvfp/",
+				"added": 1470427740
+			}
+		],
+		"8_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": [
+			{
+				"comment_id": 4,
+				"body": "> [kensan](#comment_38_1LUP6SN7WrXAH7e5bUFxdmrVsFr2m43XB4): Diaspora*?\n\nWhat do you do on that?",
+				"added": 1470429855
+			}
+		],
+		"1_16urzDUk5S1EYSaL8XGaJav7BicYSnsxe3": [
+			{
+				"comment_id": 5,
+				"body": "No, it's pretty much an exact clone but worse",
+				"added": 1470500081
+			},
+			{
+				"comment_id": 10,
+				"body": "> [shellbound](#comment_2_1H1SHzxnPJS3hBbKvfXLqf4QJnXEUgaVe9): Seems like the author say it is LGPL and that they intend to release the sources of the code. They will however copyright some of the textures. I am alright with that. \n> The saddest part (like always) is how many idiots there are in the comments section. Are people just unaware of Minetest. Do they not know what Open Source is? Calling it Minecraft and a clone is just making a fool of themselves.\n\nWhat are you talking about? The entire thing is just an exact clone. Can you really not see how identical they are?",
+				"added": 1470519789
+			},
+			{
+				"comment_id": 11,
+				"body": "> [shellbound](#comment_3_1H1SHzxnPJS3hBbKvfXLqf4QJnXEUgaVe9): Minecraft is a so called voxel-based sandbox mining game. Kinda like how RPG is describing another type of games. You wouldn't call one RPG game a clone of another RPG game just because they have the same basics. Minetest is only inspired by Minecraft. They still have their differences. Minetest is also open-source which means everyone can improve upon it and that it is free to play. Look up Infiniminer which inspired Notch to make Minecraft. Minecraft was not first in this genre.\n\nIt's identical, you look at a screenshot of it and it's exactly the same as minecraft just with different textures for the blocks.",
+				"added": 1470527245
+			}
+		],
+		"1_1GSAvtxj9NRVFghnTFv8SdMxyUeMHhhxA7": [
+			{
+				"comment_id": 6,
+				"body": "What do you mean a banned file?",
+				"added": 1470500094
+			}
+		],
+		"2_1AZjDLkfYwSmjM7ZJUf7HHnrF778augRMa": [
+			{
+				"comment_id": 7,
+				"body": "> [testingzeronet12](#comment_85_1CMjV2r4EBpFt8VCcWWZKDysZXPcPExRNN): Thats the first step to censorship, ie a voluntary system of flagging content. Once this keyword blacklist becomes part of ZeroNet, it won't be long before it's capabilities evolve into a content blacklist which prevents the content from even loading. We are currently seeing this with IPFS which actually prevents nodes from sharing certain proscribed content.\n> Basically we will end up with a politically-correct \"decentralized uncensored internet\", with actual restrictions for certain arbitrarily-defined content.\n\nGood, I don't want child porn on my computer.",
+				"added": 1470500212
+			}
+		],
+		"10_1KdnTJVBGzEZrJppFZtzfG9chukuMv8xSb": [
+			{
+				"comment_id": 8,
+				"body": "What is it?",
+				"added": 1470500572
+			},
+			{
+				"comment_id": 9,
+				"body": "I know it says social network but that's not very in depth",
+				"added": 1470500594
+			},
+			{
+				"comment_id": 20,
+				"body": "You can't get rid of the \"random zeronet user\", it just puts it back when you do.",
+				"added": 1470858073
+			},
+			{
+				"comment_id": 21,
+				"body": "Well actually you can as long as you never get rid of all the letters",
+				"added": 1470858522
+			},
+			{
+				"comment_id": 22,
+				"body": "Anybody who is anybody is part of the blue hub, don't let those filthy reds persuade you otherwise.",
+				"added": 1470859231
+			},
+			{
+				"comment_id": 25,
+				"body": "> [newuser123](#comment_41_1PCPuVtFv8apVpXYbc46wHugNhFUVQ6KCv): To clarify, I can see/communicate with users of both hubs or just the one I selected?\n\nThe list of users seems to include all the hubs and then if you accidentally follow a red it infects your client and forces you to become a host for the red army so you can then see all of their posts and talk to them.",
+				"added": 1470861062
+			},
+			{
+				"comment_id": 26,
+				"body": "I think it would be better if the comments were sorted oldest first in the comments and maybe everywhere on zeronet because it would be much easier to read.\n\nAlso, how do I start a new hub and make my page be on that hub? I have an address I want to use for it too potentially.",
+				"added": 1470861673
+			}
+		],
+		"1_19GDcmuGz3D2epgu9k65yMY9WMYDG8eZCP": [
+			{
+				"comment_id": 12,
+				"body": "> [tkarita](#comment_15_1GervYZoP82e8X1Rgc4wyMkJY2zSsJuq8t): A site can be too GUI.  Play makes me think it's a trap, although I'm sure it isn't.  Obvious text links and magnet links would help a lot.\n\nIt's literally just a site with magnet links",
+				"added": 1470595957
+			},
+			{
+				"comment_id": 14,
+				"body": "> [saya53](#comment_2_1HeiZ9FHQ2zRNnyuyCpvXZcGBzeC58Lptf): i messed up on an upload is there a way to delete a post?\n\nYes",
+				"added": 1470596159
+			}
+		],
+		"4_17VwZEfWSUWb5RHkK9m1odnDdBfvjTL6Cp": [
+			{
+				"comment_id": 13,
+				"body": "ZeroTorrent has comments and ratings",
+				"added": 1470596004
+			}
+		],
+		"7_19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ": [
+			{
+				"comment_id": 15,
+				"body": "I don't really like the idea of stealing someone else's site and pretending it's yours.\n\nI prefer ZeroTorrent because it does the job in a simple way even if it does need more categories and a system for ranking and sorting.",
+				"added": 1470692826
+			},
+			{
+				"comment_id": 16,
+				"body": "We could just clone it and change it, that's the beauty of 0net.",
+				"added": 1470693675
+			},
+			{
+				"comment_id": 17,
+				"body": "I really fell for that trap there. What I mean is, it's bad to take someone else's site and pretend it's the same site when it isn't because you've just stolen the CSS so you can use their good reputation as your own. Taking an open source site and improving it is different because you aren't pretending it's yours.",
+				"added": 1470697433
+			}
+		],
+		"2_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": [
+			{
+				"comment_id": 18,
+				"body": "Has it suddenly exploded or something? I'm seeing 2300 peers for Play which is 10x what they normally have\n\nEDIT: Maybe it broke, it only says 200 now",
+				"added": 1470700483
+			}
+		],
+		"1_1Hrxe8am5by9G5k4MeQDHVLepsJJ9yX5Fg": [
+			{
+				"comment_id": 19,
+				"body": "Just wait until the release",
+				"added": 1470856648
+			}
+		],
+		"8_19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ": [
+			{
+				"comment_id": 27,
+				"body": "Cool kids join blue, the others join red.",
+				"added": 1470911114
+			}
+		],
+		"4_1BFTNXtYQDMCurqyg45KLmsV6oJD7bQSsH": [
+			{
+				"comment_id": 28,
+				"body": "> [rkshow](#comment_4_1HvZzixBMnPehyouwx83zNYK3E97MrUVxS): to all the homos, that want reputation system, please open you butt hole and slid in your finger inside while you exit ZeroNET.  the developers already said NO to reputation systems.\n\nI think the only reason you don't want it is everyone would immediately ignore you",
+				"added": 1470953300
+			}
+		],
+		"1_1HvZzixBMnPehyouwx83zNYK3E97MrUVxS": [
+			{
+				"comment_id": 29,
+				"body": "sage",
+				"added": 1470953439
+			}
+		],
+		"1_1JHrskNwA3oo9gxvCbo3Q1RZTUuKCDdfUa": [
+			{
+				"comment_id": 30,
+				"body": "I've got a much better address that you could use\n\n1ARK1VER6eZvBiCrfQJnfQZJfroZx2ycnb",
+				"added": 1470954755
+			},
+			{
+				"comment_id": 31,
+				"body": "> [revolutionary](#comment_4_1JHrskNwA3oo9gxvCbo3Q1RZTUuKCDdfUa): How can I use it?\n\nI emailed you the keys. I'm not exactly sure since I'm terrible at this webdev stuff but I think you have to switch out the address with the new one and the old private key with the new one.\n\nI don't know if this is bad security wise and if it is you should probably just generate your own custom address but it just seemed like the perfect address.",
+				"added": 1471014486
+			},
+			{
+				"comment_id": 32,
+				"body": "> [revolutionary](#comment_12_1JHrskNwA3oo9gxvCbo3Q1RZTUuKCDdfUa): Thanks :)To increase security, how can I change the private key?\n\nYou can't, they are linked. You have to use vanitygen to generate a new address and private key together.",
+				"added": 1471015965
+			},
+			{
+				"comment_id": 33,
+				"body": "> [revolutionary](#comment_13_1JHrskNwA3oo9gxvCbo3Q1RZTUuKCDdfUa): How can I use vanitygen to generate a custom address?\n\nhttps://en.bitcoin.it/wiki/Vanitygen\n\nYou download it, then assuming it's the windows version you cd into the folder and type oclvanitygen 1<YOURSTRINGHERE> to use your GPU or vanitygen 1<YOURSTRINGHERE> to use your CPU, GPU is way faster\n\nThe longer the string, the harder it is to find the address so the longer it is. I got lucky with that address since it was 6 characters entered but it just happened to get that R as well which would add something like 10 hours to the generation time normally at full GPU usage. 6 characters only takes around 5 minutes and anything shorter is almost instant.",
+				"added": 1471016589
+			}
+		],
+		"1_1M3WXb3DtLL9zsRy4ECqemV7ZyA4u4FNFU": [
+			{
+				"comment_id": 34,
+				"body": "Yes but if you're doing anything sketchy then it has to be a host that won't immediately hand you over to the police",
+				"added": 1471275938
+			}
+		],
+		"1_1N5Rs6CHsGPdDB1y3JqjYm9SLSWUTkjwEF": [
+			{
+				"comment_id": 35,
+				"body": "Why did you bump a year old thread about a site that doesn't work?",
+				"added": 1471298636
+			}
+		],
+		"4_17Cs2auSHSVjKaYMXqbNMApRQrgXcwJUpL": [
+			{
+				"comment_id": 36,
+				"body": "I found [this](https://github.com/nneonneo/eqgrp-free-file), which is apparently the right thing",
+				"added": 1471435308
+			}
+		],
+		"1_1L56HBBtEbSL8aHaL5DcjSgrpsoVmZen5B": [
+			{
+				"comment_id": 37,
+				"body": "See you next year",
+				"added": 1471469550
+			}
+		],
+		"1_1HUrhTUZFB2KKsXLUv1vugPH358iB6zsiY": [
+			{
+				"comment_id": 38,
+				"body": "Oh great, the vermin are breeding. Now we have to deal with you too?",
+				"added": 1471470986
+			},
+			{
+				"comment_id": 39,
+				"body": "> [kaffie](#comment_161_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh): Am I a vermin? I'm probably one of the most followed users on ZeroMe.\n\nYou're either with blue or against blue",
+				"added": 1471475717
+			}
+		],
+		"1_1LPyB18qg6mGFb1v8zMYd6TBCXK2c7BmRm": []
+	},
+	"comment_vote": {
+		"22_1CTut2qbaj54ZjNoYeuWSGwV75iVieKY6N": 1,
+		"41_1PCPuVtFv8apVpXYbc46wHugNhFUVQ6KCv": 1,
+		"5_1BePwsiwFD8BjtYfB8tQegiKXDLnHWW1Um": 1,
+		"13_1BFTNXtYQDMCurqyg45KLmsV6oJD7bQSsH": 1,
+		"12_1BFTNXtYQDMCurqyg45KLmsV6oJD7bQSsH": 1,
+		"32_1xf9XC4Nsa7YfQWFiK6xGsNDJA3AaCTUa": 1,
+		"12_1C6qdRAX8iYqSB7TfUxk91yW8Y2SBKNgfA": 1,
+		"14_1BFTNXtYQDMCurqyg45KLmsV6oJD7bQSsH": 1,
+		"23_1HrRNH7KbdxMjwLmwrHmZqJrzVZVDKc9bF": 1,
+		"29_1AdcxsExVKvxffQtEd72E5tckouzZHLEYC": 1,
+		"3_1K6HCsJskZENYG42GR7ocJXg9WjFbEq9hc": 1,
+		"1_1BDYfZ8f8ebBjCwwaNU9KPHi6b3oXYcP3T": 1,
+		"37_1CTut2qbaj54ZjNoYeuWSGwV75iVieKY6N": 1
+	}
+}

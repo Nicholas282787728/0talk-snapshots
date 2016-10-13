@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HGhKcmdkFZjUj11yiN8nqWB9HImDbV98L/zi8bSGf0shzFUJcysMTk38I7aUSDJLkA+FSRZZFF4F9UYaBH+Sbyo=",
+ "cert_user_id": "burgerturd@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "ff8e4d437b0902cc6dc08c6b23b9e0abce10c357fc2bc158c56fa0d4f13a7f1c",
+   "size": 162
+  }
+ },
+ "inner_path": "data/users/1Pjy8xtNnLR1ZeWycNkqCAyjZQHuYWLLGe/content.json",
+ "modified": 1469960839.772066,
+ "signs": {
+  "1Pjy8xtNnLR1ZeWycNkqCAyjZQHuYWLLGe": "HK9EpHUsINUU9eLuuoH+4w4CdnfAcHMhdGP9qZziB4kS6wPxpWBMo7ZtOVHSOKn8GrkOWavBvpyDXyZ6beiy7D8="
+ }
+}

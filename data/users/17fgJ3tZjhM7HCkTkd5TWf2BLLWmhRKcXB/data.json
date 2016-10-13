@@ -1,0 +1,541 @@
+{
+	"next_topic_id": 12,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "Some of the requests for types of sites to be on Zeronet",
+			"body": "Makes me think that some people don't quite understand how Zeronet works and the fact that when you are actually visiting a site you are being served the site by your own localhost.  (hence \"zeronet\" and the idea that after you visit a site you don't even have to be online to visit again)",
+			"added": 1457067410
+		},
+		{
+			"topic_id": 2,
+			"title": "Are you still trying to figure out what Zeronet actually does?",
+			"body": "I wrote an article that (hopefully) can provide some insight and help people understand the importance of 'localhost' in the framework of what Zeronet is doing.\nhttp://127.0.0.1:43110/1C5P1EcTZA6FDEg4w6SacfPjvSDCWmzeyt/?Post:3:Are+you+still+trying+to+figure+out+Zeronet+",
+			"added": 1457096565
+		},
+		{
+			"topic_id": 3,
+			"title": "I started seeing an increase in people asking about how to setup a .bit domain",
+			"body": "So I wrote this post in an attempt to help people out.  http://127.0.0.1:43110/1C5P1EcTZA6FDEg4w6SacfPjvSDCWmzeyt/?Post:4:How+to+connect+your+.bit+domain+with+your+Zeronet+site",
+			"added": 1457125858
+		},
+		{
+			"topic_id": 5,
+			"title": "Everyone who creates a Zeronet site has a Bitcoin Wallet",
+			"body": "So if you want to give back to some of the community members who are building sites on Zeronet you don't even have to ask.  You can send them Bitcoins to their site address.  http://127.0.0.1:43110/1C5P1EcTZA6FDEg4w6SacfPjvSDCWmzeyt/?Post:5:Your+Zeronet+Site+is+a+Bitcoin+Wallet  (It might help to LET the site owners know that you sent them money so they don't just leave them sitting around and not even knowing that someone donated Bitcoins to them.)  \n\n*I have another post about this but it seemed the intertubes blackhole sucked that post away before I could hit publish*",
+			"added": 1457189142
+		},
+		{
+			"topic_id": 6,
+			"title": "For those needing Markdown help on Zeronet",
+			"body": "http://127.0.0.1:43110/cryptonbits.bit/?Post:6:Zeronet+Markdown+Cheatsheet\nI put together a Markdown cheatsheet to hopefully help people know how to add images, links, and more to their sites.  Yes there are other markdown guides OFF of Zeronet, but for those that want to stay within Zeronet... here you go.",
+			"added": 1457291308
+		},
+		{
+			"topic_id": 7,
+			"title": "Probably not a topic people want to discuss in a decentralized arena",
+			"body": "First off, I'm someone who is strongly opposed to any governmental censorship. Secondly, I'm actually a believer in self-censorship and encouraging people to recognize and respect the voices of those who can't speak for themselves.\n\nSo my question or rather discussion starter revolves around the problems of a non-censorship decentralized (no outside controller) community (like Zeronet).  It is even harder to have this discussion when most of us in the community value our freedom and anonymous nature that comes with participating in Zeronet.  I for one am fine if people know who I am, but i respect the rights and desires of other individuals who wish to remain anonymous and therefore I will go to bat for those that wish to remain anonymous.\n\nBut this leads me to my question I was talking with some friends about in a pub last night.  What do we do about violence and abuse (porn and otherwise) that is perpetrated upon children who have no voice to stand up against such stuff.  If we truly desire to be anonymous and decentralized, are we stating that we don't care if this stuff occurs on Zeronet?  I'm not talking about how different countries and cultures view certain crimes/activities.  Any time where there is cross-border disagreements on \"the right and wrong\" of an action should be allowed to flourish and discussions should take place freely.  But I don't know of any culture, race, country, that says that child pornography/violence is an acceptable practice.  So, I leave this question to people....\n\nHow do we or how should we, as users of Zeronet approach this issue of child violence/pornography?  Or is this an impossible issue to solve within a decentralized anonymous community?",
+			"added": 1457296148
+		},
+		{
+			"topic_id": 8,
+			"title": "I wish there was a way for me to see all the votes I've done on ZeroTalk",
+			"body": "Would be a good next step for this site so that \"upvotes\" actually provide some usefulness for the person upvoting.  If I could be able to get a list of all the things I upvoted it would serve two purposes.  It would be a bookmarking tool AND be a tool to attribute a quality value to a post or comment.",
+			"added": 1457529828
+		},
+		{
+			"topic_id": 9,
+			"title": "One feature I think is missing from the Zeronet \"blog\" system",
+			"body": "The ability for the author to remove other people's comments that are either spam or simple reproductions of a post that the person leaving a comment is simply trying to get people to visit their own site.\n\nIt right now is WAY to easy to spam other people's blog posts with ZERO way to kick the posts off a person's site.",
+			"added": 1457736935
+		},
+		{
+			"topic_id": 10,
+			"title": "I don't care",
+			"body": "/*Sorry for the rant*/\n\nI don't care whether you believe that...\n- blacks are better than whites or \n- whites are better than donkeys or \n- that Hitler was great or gay or \n- that 9/11 was an inside job or\n- Mohammed raped little girls and stole parts of the Koran from Jewish wives tales or\n- Christians are killing babies or\n- Muslims are killing Christians or\n- Iraq hid weapons of mass destruction or gassed millions of their own people or\n- Aliens are real (which would be really cool by the way) or\n- This or that was a hoax or not or\n- The rational behind when its okay to assault someone else or\n.... whatever\n\nEveryone has an opinion just like everyone has an asshole and in the same manner both normally stink!!!\n\n\nZeronet SHOULD be about inclusion.  If you truly want to BUILD something great and contribute to the idea of a decentralized and censorship-free environment you might find people more willing to contribute their time, money, and energy to further developing out the infrastructure and capabilities of Zeronet if you kept your hatred of some group or person out of the \"town square\".  \n\n\nIf all you can do is act like a 12 year old that is experiencing his first night staying up after curfew and spewing whatever the hell you think people might find funny you will kill whatever hope Zeronet has of gaining traction.  Why do you think ALL social networks, dating sites, and other sites that are trying to encourage new users to join DO NOT show any of the hate speech or idiotic \"opinion\" on their frontpage... even though if you look you can find it all over \"on the inside or side areas\".  It's because the VAST majority of people don't care about fringe opinions.  If you find people that appreciate your own personal opinions then build out your own section and ask people to join to further your exciting and intellectual communication.\n\n\nAsking people to be aware that derogatory (towards ANY direction) is a deterrent to new people getting involved in a community is NOT censorship.  It's asking people to actually grow up and realize you can do whatever you want ON YOUR OWN TIME and with YOUR OWN FRIENDS.  Forcing everyone participate in your own personal derogatory rants is not just rude but just plain destructive to the community as a whole.  (I personally don't think that ZeroTalk should be about linking to the latest and greatest porn either... but I'm pretty sure I'm a minority on that issue.)\n\n\nWhen I want people to understand the passion I have for Bach or that I think Beagles are the best dog or that the best way to travel is by sailboat or that I disagree with the current hagiography of Nelson Mandela due to my being in South Africa and seeing first hand what he did... I'll do it on my time and on my own sites because I believe that's where it belongs.\n\n\nWhat is ZeroTalk:\n- A conversation place about Zeronet\n- A \"getting started\" area\n- A place to share about new sites that have been built (not for repeat spamming every hour a new thread about \"Come see my awesome site!!!\")\n- A place people can ask questions and get answers\n- A place to enhance Zeronet\n\n\nBut hey, you can disagree with me and I'm fine with that.  But I'll ask you a two part question... If you want to spam your derogatory crap (regardless of what side or about what topic) are you 1) okay with destroying whatever hope Zeronet has of becoming a useful tool and 2) if you decide to post derogatory crap, will you agree to let anyone else post opposing derogatory crap and you will be happy when someone insults you because you believe in \"free speech\" are are just so delighted when people/things/places that you hate are using this free speech and censorship-free opportunity YOU \"cherish\" to insult you.\n\n\nTo be a true free speech/censorship-free community you have to agree that everyone has opinions BUT also understand that everyone needs to be an adult and realize there are times and places for opinions.  And if you don't understand this distinction than all you are is a drain on society. \n\n\nIf you made it to the end... thanks for ready this brain dump.  I do hope that the awesome opportunity that Zeronet provides for users won't be squandered by the \"vocal minority\" who haven't learned how to properly act in public and social settings.",
+			"added": 1458561381
+		},
+		{
+			"topic_id": 11,
+			"title": "Creating an \"evernote\" on Zeronet",
+			"body": "http://127.0.0.1:43110/cryptonbits.bit/?Post:9:Unique+Usage+for+a+ZeroTalk+Fork\n\nSo I'm in the early stages, but I think in my desire to provide a solution for something I wanted out of Zeronet (a way for me to privately share and sync notes between my own different computers) has also opened the door to possibly solve a basic site search functionality.  Anyway... thought I would share the post about what I was messing with and how fun it is to fork something and run with an idea.",
+			"added": 1458682992,
+			"parent_topic_uri": "3_1PVcdu7USZH2kHMETbqDYLPjJZKCDWM52k"
+		}
+	],
+	"topic_vote": {
+		"1_1CcJZEvu57ZqSDjWDEJCAGEWzHQ7uXKKNR": 1,
+		"3_1EMpuiFM1NLZmAVyoAWnwi8VwiZVV4dcnN": 1,
+		"2_17fgJ3tZjhM7HCkTkd5TWf2BLLWmhRKcXB": 1,
+		"3_17fgJ3tZjhM7HCkTkd5TWf2BLLWmhRKcXB": 1,
+		"6_17fgJ3tZjhM7HCkTkd5TWf2BLLWmhRKcXB": 1,
+		"7_17fgJ3tZjhM7HCkTkd5TWf2BLLWmhRKcXB": 1,
+		"15_1CMYxdit4qq9QGk9DYRu2ruRPd2YDGckH8": 1,
+		"10_17fgJ3tZjhM7HCkTkd5TWf2BLLWmhRKcXB": 1,
+		"1_1B1KzuAuS2KYZ57Zg6VGoYrFpBKDpqRjdg": 1
+	},
+	"next_comment_id": 64,
+	"comment": {
+		"2_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": [
+			{
+				"comment_id": 1,
+				"body": "Lots of testing going on.",
+				"added": 1457012624
+			},
+			{
+				"comment_id": 23,
+				"body": "> [scrub](#comment_52_1ADB7TdX2fVbTsWBoMe9yBTmVXTbb33b4R): <img src=\"https://www.imageurl.com/pic.png\"></img> ? Something like that.\n\nYou need to use Markdown.",
+				"added": 1457189278
+			}
+		],
+		"1_1EodDJ57gSDT7FB1VmxRWecRfytuxRicPA": [
+			{
+				"comment_id": 2,
+				"body": "> [juanje](#comment_4_1HSBkju9y9tQrpph3yKgcdzxM6pnkvgmNy): A \"downvote\" button... please... My knigndom for a downvote button\n\nNot just a downvote button, but a \"Blow this Crap off Zeronet with Extreme Prejudice\" button",
+				"added": 1457021045
+			}
+		],
+		"1_1CcJZEvu57ZqSDjWDEJCAGEWzHQ7uXKKNR": [
+			{
+				"comment_id": 3,
+				"body": "Putting together a step-by-step getting started process for onboarding new users would be an important tool.  Something that instructs them how to go to ZeroID and set that up, then visit Zeromail and send their first message, then visit ZeroTalk... etc etc.  If the onboarding process makes it easier for people to see that REAL people exist in the ecosystem and to connect people then it has a chance for success.",
+				"added": 1457027014
+			}
+		],
+		"1_1CL2jU9pTjtMasNihDK3JCofdPWq2ZVGuu": [
+			{
+				"comment_id": 4,
+				"body": "As long as ONE peer with the content is up and connected to the zeronet, then it can't be \"censored\".  This is one of the great things about zeronet.  It doesn't matter WHAT side of an issue you come down on or agree or disagree about, all you can do is participate in the discussion.  Nobody can \"censor\" anyone.  Zeronet is freedom for all without any \"authority board\" declaring who or what has access.\n\nFocus on CREATING things, content, usefulness around Zeronet RATHER than focusing your energy on who you can keep out and how you can create censorship... which is the exact opposite of what Zeronet is here for.\n\n(just an opinion)",
+				"added": 1457031371
+			}
+		],
+		"1_1GCsW9TFfjDsvcdmKPADq1n8Q3ha72UtDQ": [
+			{
+				"comment_id": 5,
+				"body": "Not sure why zeronet needs to be the end all solution for everything.  It is brilliantly positioned for communication avenues...  But why not focus support on other groups that are putting all their energy behind anonymous p2p shopping emporiums like Shadow, or BitBay, or OpenBazaar.",
+				"added": 1457031552
+			}
+		],
+		"1_1N1WCav1oetiu7QpKNXmsfxpeGrEtZ3gCe": [
+			{
+				"comment_id": 6,
+				"body": "> [nodauf](#comment_2_1N1WCav1oetiu7QpKNXmsfxpeGrEtZ3gCe): Thank you.It will be great if they are something like a search engine. ^^ I know I ask many questions :)\n\nYou mean like: http://127.0.0.1:43110/zerosearch.bit",
+				"added": 1457031885
+			}
+		],
+		"1_1HcCbQWH3xuquT5Z2S4nTk7fqAyoM2AWpi": [
+			{
+				"comment_id": 7,
+				"body": "So you modified your localhost files that exist on your own machine (or that of the proxy)?  Is that what you are telling us you hacked?  Because if you actually hacked something  EVERYONE would be seeing what you are seeing.  Or did I misunderstand what you are trying to provide a proof for?\n\nYou can't actually TAKE ownership from the original content creator in the same manner you can take ownership of someone else's Bitcoin wallet.  But then again if you REALLY cracked the cryptography of bitcoin... why are you wasting your time on zeronet... go grab Satoshi's wallet.  :)",
+				"added": 1457033061
+			},
+			{
+				"comment_id": 8,
+				"body": "> [a1r2t](#comment_1_1HcCbQWH3xuquT5Z2S4nTk7fqAyoM2AWpi): See :D http://bit.no.com:43110/1HeLLo4uzjaLetFx6NH3PMwFP3qbRbTf3D\n> yep, it affect proxies, which are peers also :D so have a nice play :D see ya soon on other hack, and watch you machines for processes ;) love zeronet, so we can get more ips :D\n\nSo essentially you are telling us you did absolutely nothing to anyone who is running a real node.  Congrats.",
+				"added": 1457034154
+			},
+			{
+				"comment_id": 9,
+				"body": "It might also help to learn more about the handshakes and confirmations that happen during a crypto currency blockchain confirmation process and who controls public and private keys.  I'm all for people hacking away to find vulnerabilities to make for a more secure environment for everyone.  So don't take this as a discouragement for you to stop looking for vulnerabilities.  Every community, like zeronet, needs people who are constantly pushing the envelope to find security risks.",
+				"added": 1457034522
+			}
+		],
+		"2_13vL6ARzDm7215jaRjFvAATfkxBriSnGmb": [
+			{
+				"comment_id": 10,
+				"body": "Did anyone else read that last bit as TiddlyWink... or am I just that old that I remember playing tiddlywinks.",
+				"added": 1457034592
+			}
+		],
+		"1_12fNTMaQH1mN5bPehdvkNgTAVxzQXop87e": [
+			{
+				"comment_id": 11,
+				"body": "When people want to visit a zeronet site, that site requests the IP address from the bittorrent network of the visitor.  Your computer now downloads the content.json file which contains all other pieces of the site, hashes, and the site owners cryptographic signature.  Your local zeronet system verifies the downloaded content.json file using the site's address and the site owner's signature on the file.  If those match then the other files are downloaded and verified using SHA512.  At this point your \"visited\" sites are now served by your own localhost. If and when the site owner (in possession of the private key for that site address... think bitcoin public and private keys) modifies that site, the new content.json file is published to the peers and it goes through the whole process again, verifying the keys and downloading (updating) to your localhost.\n\nThis essentially makes the sites you visit accessible EVEN without access to the internet, because once they are on your localhost you are visiting your localhost (until which time the original site creator issues a NEW content.json file).\n\nThat's the high level view of what's going on.",
+				"added": 1457036038
+			}
+		],
+		"2_1GCsW9TFfjDsvcdmKPADq1n8Q3ha72UtDQ": [
+			{
+				"comment_id": 12,
+				"body": "I'm a firm believer in learning and using WHATEVER language is needed to get a project done!  Use the best language for specific situations AND your skill level.  In the end... a completed project is a successful project.",
+				"added": 1457036554
+			}
+		],
+		"3_1CMYxdit4qq9QGk9DYRu2ruRPd2YDGckH8": [
+			{
+				"comment_id": 13,
+				"body": "Actually they are base58. A set of 58 alphanumeric symbols consisting of easily distinguished uppercase and lowercase letters (0OIl are not used)  It's using the same public and private key system that bitcoin and crypto currencies use.\n\nYou can already convert your \"site address\" into a QRcode, but not sure what type of \"picture\" you are wanting to create.",
+				"added": 1457036878
+			},
+			{
+				"comment_id": 14,
+				"body": "> [lukipuki](#comment_8_1CMYxdit4qq9QGk9DYRu2ruRPd2YDGckH8): maybe it's stupid, but i was wondering If sites could be made recognizable. So that i could create an image where people could remember the image and therefor remember the adress. The namecoin thing is not really straightforward for me.\n\njust grab a .bit address through the Namecoin blockchain and then you'll have an easier to remember DOMAIN.bit address.",
+				"added": 1457037700
+			}
+		],
+		"1_1A6hcWNpQ9SSLoTTpuT19VsVQ6WCVRkyen": [
+			{
+				"comment_id": 15,
+				"body": "So is there another way for people to \"test\" their ZeroMail to make sure there isn't a port issue or something else?  Or is it just a wait till the echobot gets fixed?",
+				"added": 1457041200
+			},
+			{
+				"comment_id": 16,
+				"body": "> [nofish](#comment_398_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): It's not an echobot issue, but Zeromail, if you have contacted someone before you able to send message to him/her, but you can't create new contact.\n\nAhh okay... so basically new users are SOL until there's a fix for Zeromail.  Then I'm wondering if there might be a way of putting a little \"note\" on the zeromail page letting people know that new users need to just hold off for a bit while a patch is being released and to go find people to communicate here on ZeroTalk or something.  I'd hate for new users to give up so quickly because email doesn't work.  (Probably one of the first things many users go to setup.  Just my guess.)",
+				"added": 1457042412
+			}
+		],
+		"14_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf": [
+			{
+				"comment_id": 17,
+				"body": "> [request](#comment_19_137djEARJUyNEcwPXwXR7F7nwMAw8un5tJ): WE PROTEIN INSIDERSМЫ ПРОТЕИН ИНСАЙДЕРЫ█████████████████████\n> PLEASE DECIDE FUNDAMENTAL PROBLEMS OF PEACE AND HEALTHПРОСИМ ВАС РЕШАТЬ ФУНДАМЕНТАЛЬНЫЕ ПРОБЛЕМЫ МИРА И ЗДОРОВЬЯ\n> BOINC \\ ROSETTA HOME\n> https://2ch.pm/8/src/191/14570522502920.jpg\n\nAnd THIS is why we can't have nice things!",
+				"added": 1457067604
+			}
+		],
+		"1_11pADbvn3XmFZ5sbM9ZANRb5Gv9igHLCF": [
+			{
+				"comment_id": 18,
+				"body": "It might help to know WHAT you want to do. Do you understand what Zeronet actually is and what it isn't? Have you explored through the ZeroTalk threads? Have you read some of the developer Blogs? Have you looked through the ZeroSearch results to see what sites are available?  You might want to check out my article on a basic understanding of how things work on Zeronet.  http://127.0.0.1:43110/cryptonbits.bit  \n\nExplore, learn, don't just expect people to hand you everything.  Tell us what you know and then maybe some others can fill in the gaps for you.",
+				"added": 1457111761
+			}
+		],
+		"2_17PhTjw3o2wPhxyKeM3Ss975eWZ1UMsjQC": [
+			{
+				"comment_id": 19,
+				"body": "If you visit a site that has illegal (for your location) content, then you can simply delete that site's information from your data/ folder.  (if that's what you want.)  But if there is \"safe\" content on the same site as \"illegal\" content you should be fine (depending on your country/jurisdiction) otherwise everyone who visited yahoo (that owns tumblr) would be in trouble :)",
+				"added": 1457111943
+			}
+		],
+		"10_1MxdAjWgnqwCaunGHmhY39tVR51qV3peJL": [
+			{
+				"comment_id": 20,
+				"body": "> [pycole](#comment_48_1KwTTgPRSTHFmmJAFBt6kQfdyNeSM5KJuH): Have you even tried Freenet?\n\nI can't upvote this statement enough :)",
+				"added": 1457116280
+			}
+		],
+		"1_1GUNVidAg2VxSfgcbmmFtUvqiBobmxDeUw": [
+			{
+				"comment_id": 21,
+				"body": "You make a post (like you just did) and then you can reply and participate in discussions with other users.",
+				"added": 1457131006
+			}
+		],
+		"2_11pADbvn3XmFZ5sbM9ZANRb5Gv9igHLCF": [
+			{
+				"comment_id": 22,
+				"body": "You forgot a huge aspect.  http://127.0.0.1:43110/cryptonbits.bit/?Post:5:Your+Zeronet+Site+is+a+Bitcoin+Wallet",
+				"added": 1457188171
+			}
+		],
+		"1_14WuynvAFSGKrHExccPBC2BiLdh2DF35Ut": [
+			{
+				"comment_id": 24,
+				"body": "Yes you can use .bit domains http://127.0.0.1:43110/cryptonbits.bit/?Post:4:How+to+connect+your+.bit+domain+with+your+Zeronet+site\n\nOops, saw that cub3 beat me to it.",
+				"added": 1457190367
+			}
+		],
+		"1_1Kg7CXZM5h3wTPENsTDwWUmRBf9VhYy2cW": [
+			{
+				"comment_id": 25,
+				"body": "My take on this is probably a little different.  I think people should promote Zeronet for what it IS... and not what it will be or could be.  I would venture so far as to say we shouldn't be promoting this as a replacement for systems that already work.  But we should highlight the BENEFITS that Zeronet currently brings to the table.\n\n1. A Unique and Easy to Use Decentralized (P2P) Communication Platform.\n2. Censorship-free arenas in which to share and discuss ideas.\n3. The ability to work online AND offline so that you can write and share when you are offline and when you finally have a connection your content will be passed to all the peers listening for changes.\n\nAnd such... Our focus (while people are building out functionality) should be to extol the virtues of Zeronet and not just try and copy systems.  I personally value the idea that everything is served to me off of my own localhost and therefore don't really want a YouTube since that essentially means I have to download everything to my machine before I play the video and at that point it defeats the purpose.\n\nStay focused on the benefits of a decentralized communication platform and I think amazing things will grow out of this foundation.\n\n(just my 2 cents)",
+				"added": 1457210902
+			}
+		],
+		"4_15ymkjUYJS6tjUC35AekGMExZMN6iks8ma": [
+			{
+				"comment_id": 26,
+				"body": "Use Markdown to place images on your blog posts.  So yes, you'll need the image to be available on the web first and then use markdown to display it.",
+				"added": 1457279920
+			}
+		],
+		"1_17oYQdLkvyzEVPH3hXRtK3ru4FLNKZUD3b": [
+			{
+				"comment_id": 27,
+				"body": "> [angristan](#comment_48_1MEWJRMLgvofqG9Mbsb2Rc4hFFyv7HeRx7): To sum up : we need a tool to censor things  only for ourselves not for everyone else like in a centralized system.\n\nThis is key.  A \"hide\" function that only hides or doesn't sync with peers on our own localhosts.  Since Zeronet serves our individual viewing experience from our own localhost, having the ability to \"hide\" or \"unsync\" specific user contributions from our own localhost simply allows us to control which pieces of content we share and sync with other Zeronet peers.  This does NOTHING to censor anyone, it just allows individuals to set their OWN boundaries and to control their OWN experience on zeronet.",
+				"added": 1457287088
+			}
+		],
+		"8_1MEWJRMLgvofqG9Mbsb2Rc4hFFyv7HeRx7": [
+			{
+				"comment_id": 28,
+				"body": "If they give you the private key for the site, then you can make the changes with `zeronet.py sitePublish SITE_KEY` it will then prompt you for the private key.",
+				"added": 1457287420
+			}
+		],
+		"1_16KXPTbZn8PHFDcyeRaeQuKmNNFk55nrzP": [
+			{
+				"comment_id": 29,
+				"body": "Actually I'm close to a beta version of a WordPress plugin that will spit out static HTML pages from a WordPress site that you can then bring over to your Zeronet site.  Got a few bugs to fix and then I'll let people know where they can try it out if they want.",
+				"added": 1457291475
+			},
+			{
+				"comment_id": 30,
+				"body": "> [noise](#comment_1_16KXPTbZn8PHFDcyeRaeQuKmNNFk55nrzP): wow! that sounds cool indeed! am kind of new here, how might i know when its ready to be tested?\n\nFollow one of my sites and I'll make the updates there http://127.0.0.1:43110/cryptonbits.bit (and probably also here on ZeroTalk)",
+				"added": 1457291681
+			}
+		],
+		"1_1MtAfPUXCiZYVLjjUjBWmmYGzZ6j3aQYfG": [
+			{
+				"comment_id": 31,
+				"body": "Your \"hosting\" is your localhost.  So think how would you protect your IP/access to current internet access... and that's how you'd go about providing the necessary protection to truly make your connection to the network as a peer?  Using a VPN is a great start and Zeronet also allows you to access the network through Tor.   (Side note... interesting how you got the username zeromail considering there already was a zeromail, or I thought there already was one.)",
+				"added": 1457298663
+			}
+		],
+		"5_1Kg7CXZM5h3wTPENsTDwWUmRBf9VhYy2cW": [
+			{
+				"comment_id": 32,
+				"body": "Yeah, that can't happen due to Zeronet being 127.0.0.1 - which is my MACHINE localhost not my network.  \n\nUpdate: Dang it... nofish beat me to it. :)",
+				"added": 1457299123
+			}
+		],
+		"3_1HcK5Hw1rPZeYdgTmqJGrVG2tSyR9Ke2Gt": [
+			{
+				"comment_id": 33,
+				"body": "Do not click on that link!",
+				"added": 1457384577
+			}
+		],
+		"1_15E7PoTSNAcDNcdHMxhi331RaZhmez2YAx": [
+			{
+				"comment_id": 34,
+				"body": "Hmmm... seems people might not understand that many developers escape their input fields.",
+				"added": 1457384677
+			}
+		],
+		"1_1GHc6LYWz1tnBvsyX6Zren6cbhukdi2qFb": [
+			{
+				"comment_id": 35,
+				"body": "You mean like http://127.0.0.1:43110/cryptonbits.bit/?Post:3:Are+you+still+trying+to+figure+out+Zeronet+",
+				"added": 1457529278
+			}
+		],
+		"1_1PnCqnnZscQNPpRmHHZ7UfBpv2oZoqejMB": [
+			{
+				"comment_id": 36,
+				"body": "Why stop at just those \"land based\" options.  Why not also SSB (single sideband radio)?  We could convert the data stream to a GRIB file (Gridded Binary).  Bounce the network off of LEOS (low earth orbit satellites).  And then we can take over the entire maritime communication network. :)",
+				"added": 1457529492
+			}
+		],
+		"1_1ASQXi7waaCUePWHbbsM2LSPVZ8dHGm7LQ": [
+			{
+				"comment_id": 37,
+				"body": "This was a pure and simple money grab.. that's really all ransomeware is the current culture.",
+				"added": 1457529877
+			}
+		],
+		"1_1PaX4LQSsjsJvTNqfZbAApgmgzBJjrkRqZ": [
+			{
+				"comment_id": 38,
+				"body": "The rise of the zombie posts?????",
+				"added": 1457529973
+			}
+		],
+		"1_1DHp9XeGd9EU3nm7h3Uf7BvxxiQsRUjmdJ": [
+			{
+				"comment_id": 39,
+				"body": "This is a case for TL:SC;\n\n(Too Little: Still Confused)  :)",
+				"added": 1457576859
+			}
+		],
+		"1_1A2Enr1q8vQEuZdJjGDiENzmYb3cypxjAN": [
+			{
+				"comment_id": 40,
+				"body": "https://www.f2pool.com (a pretty massive pool) does merge mined payouts.  So while you mine Bitcoin you'll also receive Namecoin and Huntercoin.",
+				"added": 1457700139
+			}
+		],
+		"9_17fgJ3tZjhM7HCkTkd5TWf2BLLWmhRKcXB": [
+			{
+				"comment_id": 41,
+				"body": "I can find spam comment in the /data/users/ folder of the site and even if I were to remove that user's folder, it doesn't seem to propagate out to the full network.",
+				"added": 1457737403
+			},
+			{
+				"comment_id": 42,
+				"body": "> [nofish](#comment_483_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): It should propagate over the network, try sign/publish it again.\n\nTried it multiple times using the sidebar, but no luck... let me try from the command line.",
+				"added": 1457738242
+			}
+		],
+		"1_1Ax5yj36bQDizcaeCMn9upKzVVyQ4wsm48": [
+			{
+				"comment_id": 43,
+				"body": "This is just stupid. In a free and open \"community\" all are welcome.  And anyone who tries to \"ban\" or get rid of someone else is just WRONG for an open community.",
+				"added": 1458520467
+			}
+		],
+		"15_1CMYxdit4qq9QGk9DYRu2ruRPd2YDGckH8": [
+			{
+				"comment_id": 44,
+				"body": "To be honest we should have a system where no racism, sexism, religious hate, political hate occurs on main sites.  If you want to go off on some rant, clone a site and start your own site. It's a free ecosystem here on Zeronet.  You can do whatever you want. Then invite all your \"supporters\" to join you there.  It's a waste to clog up general communication areas (or even introductory areas for new users) with hate and trolling vomit.  (my 2 cents)\n\nOh and it baffles me that those who want to silence other people's right to have a conversation are the same ones demanding that everyone listen to them.",
+				"added": 1458520782
+			}
+		],
+		"10_17fgJ3tZjhM7HCkTkd5TWf2BLLWmhRKcXB": [
+			{
+				"comment_id": 45,
+				"body": "And just so I'm following my own \"opinion rant\" idea... I've posted this on one of my own sites if you think this type of rant is better served OFF the main talk thread - [CryptonBits.bit](http://127.0.0.1:43110/cryptonbits.bit/?Post:8:Opinions+are+like+assholes...)",
+				"added": 1458561764
+			},
+			{
+				"comment_id": 52,
+				"body": "I now realize that the influx of \"young contributors\" have failed in one main area of schooling.  They seemed to have failed in basic reading and comprehension.  Thus there is little hope for the future generations if people cannot learn to read and have ACTUAL conversation and debate.  A person doesn't have to agree with the person they are having a conversation/debate... but they also don't have to insult and throw derogatory slurs around either.   I feel we need a button on ZeroTalk, not a downvote button but a #growup button.  I'm not sure some of the people ranting and raving and throwing slurs left and right realize how childish they look to people watching.",
+				"added": 1458649191
+			}
+		],
+		"1_12YJpSQABsv4YyyiuVgBN8swbsuSKPPef6": [
+			{
+				"comment_id": 46,
+				"body": "Ummmm... who are you and what are you asking donations for?",
+				"added": 1458572614
+			},
+			{
+				"comment_id": 47,
+				"body": "> [donate](#comment_1_12YJpSQABsv4YyyiuVgBN8swbsuSKPPef6): but this isn't for zeronet\n\nSo... then tell us what you are doing and why people should support you.",
+				"added": 1458573260
+			}
+		],
+		"1_1D1n7qdeV3LL3BxKuPGxcfMGa2WENHNgNp": [
+			{
+				"comment_id": 48,
+				"body": "And I bet you EACH and every one of those countries would immediately make bitcoin legal if they could find a way to tax it.",
+				"added": 1458599201
+			}
+		],
+		"8_1LRrd96P7FiTcsyNXVzPM5jtpQoH1B4gYf": [
+			{
+				"comment_id": 49,
+				"body": "It all depends on what country you are from, how safe you want to be, how traceable the transaction will be, and whether or not you have a bank account.\n\n[Coinbase](https://coinbase.com) has been my go to way of purchasing bitcoins for a while now because of good market price and instant transactions. (Requires bank accounts and verification of who you are)\n\nIf you don't mind waiting and paying a higher price you can go to [Purse](https://purse.io) and purchase people's Amazon wish lists and receive bitcoin for your order.\n\n[LocalBitcoins](https://localbitcoins.com/) is sort of like a craigslist for Bitcoin buying and you normally have to meet the person you are buying/selling with in person.  \n\nLots of Europeans like using [Kraken](https://www.kraken.com/) to buy bitcoins.\n\n[Circle](https://www.circle.com/en) is also a newer option.\n\nHope that helps.",
+				"added": 1458599891
+			}
+		],
+		"3_1EbkgVAJKgrTeYAmF3FSEJ8dRabpWH87it": [
+			{
+				"comment_id": 50,
+				"body": "you don't have to use the \"bundled version\" you can just compile or build your own version.",
+				"added": 1458642604
+			}
+		],
+		"2_16odYTnUpF26qivssGsSuwpLgdMQkvK8qh": [
+			{
+				"comment_id": 51,
+				"body": "Not sure why any rational human is happy about the destruction of another human.  Just shows the level of depravity some have sunk.",
+				"added": 1458648496
+			}
+		],
+		"1_15kuNrNeQtVRmDqENgbCqw6s3mG9noQ7zA": [
+			{
+				"comment_id": 53,
+				"body": "I think the reason they probably dropped the case (postponed it) was that the FBI actually found a different security hole in which to exploit the iPhone and now don't need any help from Apple.  And by dropping the case they won't have to share the security exploit with Apple and so it won't get patched.",
+				"added": 1458650509
+			}
+		],
+		"4684_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG": [
+			{
+				"comment_id": 54,
+				"body": "Wouldn't this be entrapment?  Or do they justify this situation like a \"sting\" operation as with fake prostitutes?",
+				"added": 1458663960
+			}
+		],
+		"1_1BQg5MQZ63aEQZMzLEXP6yY3hsgznKpaps": [
+			{
+				"comment_id": 55,
+				"body": "I'd be curious to know for those of you who say you use Linux... how many of you are comfortable/prefer to work in a headless or non-GUI environment?",
+				"added": 1458668500
+			}
+		],
+		"4698_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG": [
+			{
+				"comment_id": 56,
+				"body": "Ha... did you notice that their main argument for WHY they deserved the patent.  \" ‘claims’ of Bitcoin developed in 2009 or invented by Satoshi Nakamoto and Gavin Anderson stem from unconfirmed reports on the internet.\"  And since the \"inventor\" is unconfirmed they deserve the patent.  LOL",
+				"added": 1458691026
+			}
+		],
+		"10_17i7Y7r8nTaCfLbCAuaKyc4R5BbKZYU2Hr": [
+			{
+				"comment_id": 57,
+				"body": "If you need to use webmail (for whatever reason) and encryption is important to you.  You can use a browser extension like [Mailvelope](https://www.mailvelope.com/) that uses OpenPGP.js (based on OpenPGP standards)",
+				"added": 1458729796
+			}
+		],
+		"1_13BepSu3vkeSQB3ZWkCDg7Lu5w64tfpeTa": [
+			{
+				"comment_id": 58,
+				"body": "You can hire me at 1 BTC per article. :)  Payment due prior to deliverables.",
+				"added": 1458758805
+			},
+			{
+				"comment_id": 60,
+				"body": "> [pycole](#comment_98_1KwTTgPRSTHFmmJAFBt6kQfdyNeSM5KJuH): > find guide on suggested freelance writing commissions\n> > go to Google\n> > 1 btc to usd\n> > 416.75 US Dollar\n> Fucking hell, are you some kind of journalist wizard?\n\nIf you ask not... you receive not.  :)",
+				"added": 1458832080
+			}
+		],
+		"1_1KRDb5SVJe8Gjy9eYEQz62tJv73vavZdUn": [
+			{
+				"comment_id": 59,
+				"body": "> [mutant](#comment_1_1KRDb5SVJe8Gjy9eYEQz62tJv73vavZdUn): but how does 0net work? does everything have to be client side since there is no servers?\n\nhttp://127.0.0.1:43110/cryptonbits.bit/?Post:3:Are+you+still+trying+to+figure+out+Zeronet+",
+				"added": 1458758852
+			}
+		],
+		"4734_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG": [
+			{
+				"comment_id": 61,
+				"body": "CryptoCoinsNews doesn't have the best \"reputation\" when it comes to solid reporting.  Plus that \"article\" is mainly just a pitch to get people to pay $29/month for \"market reports\".",
+				"added": 1458856547
+			}
+		],
+		"6_1MahZJTzjoEMMCv2jBReDWhyNGRhN5tvDq": [
+			{
+				"comment_id": 62,
+				"body": "> [jza](#comment_11_1MahZJTzjoEMMCv2jBReDWhyNGRhN5tvDq): Interesting, however I wanted more like to migrate my blogposts into the cryptoverse. Given that there is already a Blogging app created (althought still crude). I wanted to port my wiki to this. I think I did a good job, althought it took me a bit of json encoding knowledge and some manual edits to get it right. Fortunately is working now. Maybe a plugin to export a wp blog into JSON format.\n\nYou don't need a \"plugin\" to export a WordPress blog (.org NOT .com) as a JSON file because we've already got a fairly robust REST API that can be used completely in Javascript (or whatever language you want to pull a JSON file).  http://v2.wp-api.org/",
+				"added": 1459163972
+			}
+		],
+		"1_1Fq3t6PHAb11a4DHQavbevpx8v8BAEsxi8": [
+			{
+				"comment_id": 63,
+				"body": "Like most \"documentaries\" (and I don't care which side you come down on in any issue) it is heavily slanted toward one viewpoint and the promoters enters the conversation arena with a single viewpoint and exits the arena with the same viewpoint.  If a documentary doesn't even attempt to show that there are other viewpoints it shows me that its a hack of a piece that is only out to promote one side and isn't really there to find the \"truth\".",
+				"added": 1459428950
+			}
+		]
+	},
+	"comment_vote": {
+		"4_1HSBkju9y9tQrpph3yKgcdzxM6pnkvgmNy": 1,
+		"68_1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD": 1,
+		"3_1N1WCav1oetiu7QpKNXmsfxpeGrEtZ3gCe": 1,
+		"3_1LRrd96P7FiTcsyNXVzPM5jtpQoH1B4gYf": 1,
+		"69_1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD": 1,
+		"3_1KJFB4SEHaHCY11HMKsMGyth1mXKb3R5oY": 1,
+		"70_1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD": 1,
+		"71_1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD": 1,
+		"4_14dWxHG5gnTSjVM8Pf2MxJn9ruWgZp868A": 1,
+		"394_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"400_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"48_1KwTTgPRSTHFmmJAFBt6kQfdyNeSM5KJuH": 1,
+		"40_1MEWJRMLgvofqG9Mbsb2Rc4hFFyv7HeRx7": 1,
+		"6_17tRugXJrS18zKWVEYqZCPisSTk43hqUzx": 1,
+		"25_17fgJ3tZjhM7HCkTkd5TWf2BLLWmhRKcXB": 1,
+		"60_17i7Y7r8nTaCfLbCAuaKyc4R5BbKZYU2Hr": 1,
+		"27_17fgJ3tZjhM7HCkTkd5TWf2BLLWmhRKcXB": 1,
+		"444_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"68_1ADB7TdX2fVbTsWBoMe9yBTmVXTbb33b4R": 1,
+		"21_1Q8iqH31cKCqynoJRxR2PfJhzQr8wHdiHr": 1,
+		"17_1GCMDNMgJHvZJfdbD9ygDmpBdnVAobdJYg": 1,
+		"22_1Q8iqH31cKCqynoJRxR2PfJhzQr8wHdiHr": 1,
+		"451_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"18_1CMYxdit4qq9QGk9DYRu2ruRPd2YDGckH8": 1,
+		"62_1KwTTgPRSTHFmmJAFBt6kQfdyNeSM5KJuH": 1,
+		"61_1KwTTgPRSTHFmmJAFBt6kQfdyNeSM5KJuH": 1,
+		"482_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"95_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1,
+		"86_1KwTTgPRSTHFmmJAFBt6kQfdyNeSM5KJuH": 1,
+		"15_17n5jg4bBEoWodXDf8L4Y2u88ShagS272Y": 1,
+		"2_1B1KzuAuS2KYZ57Zg6VGoYrFpBKDpqRjdg": 1,
+		"5_1JK8eXdGCob1BynTtAaoVNcMVT95aMAqVz": 1,
+		"2_158KZsYQsNp4j4kiPrkqXvTPRewEXeP24W": 1,
+		"20_16bxMyoL49mWYhcZKBYVBT5zEFW9SQpiao": 1,
+		"21_16bxMyoL49mWYhcZKBYVBT5zEFW9SQpiao": 1,
+		"5_1B1KzuAuS2KYZ57Zg6VGoYrFpBKDpqRjdg": 1,
+		"6_1B1KzuAuS2KYZ57Zg6VGoYrFpBKDpqRjdg": 1,
+		"4_15kuNrNeQtVRmDqENgbCqw6s3mG9noQ7zA": 1
+	}
+}

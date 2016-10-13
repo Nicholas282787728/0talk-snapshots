@@ -1,0 +1,83 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "[Poll] Pokemon GO - Which team are YOU on?",
+			"body": "[ZeroPolls: Instinct, Valor, Mystic, or etc?](/ZeroPolls.bit/?Poll:1-1Gtj7AdXhzMFUVVvFm2ZGCbTFdgNwdtuMn)\n\nPokemon GO has made its way into about every social media network, industry and conversation, so why should ZeroNet miss out? :)",
+			"added": 1468549424
+		}
+	],
+	"topic_vote": {
+		"2_1J7dTw3ZsXUsXzpBqVWVj5aXRUMsMC6Nfc": 1,
+		"1_1Gtj7AdXhzMFUVVvFm2ZGCbTFdgNwdtuMn": 1,
+		"24_1CMYxdit4qq9QGk9DYRu2ruRPd2YDGckH8": 1
+	},
+	"next_comment_id": 10,
+	"comment": {
+		"2_1J7dTw3ZsXUsXzpBqVWVj5aXRUMsMC6Nfc": [
+			{
+				"comment_id": 1,
+				"body": "Signal is so far the best messaging app I've come across in terms of security mixed with enjoyable UI and smooth functionality.",
+				"added": 1468527179
+			}
+		],
+		"1_1Gtj7AdXhzMFUVVvFm2ZGCbTFdgNwdtuMn": [
+			{
+				"comment_id": 2,
+				"body": "Team Valor here!",
+				"added": 1468549492
+			},
+			{
+				"comment_id": 4,
+				"body": "> [smiba](#comment_3_1FuufvPjG7U2JYz8GKyJthajxLXGELqccQ): Team Valor represent!\n\n:D",
+				"added": 1468550730
+			},
+			{
+				"comment_id": 5,
+				"body": "> [ks](#comment_116_14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx): Why not make a real poll?\n\nI'm brand new to ZeroNet so at the time of making this thread, I wasn't aware of polls. \nBut perhaps for the better, since an poll-less thread may spark more conversation between the teams.\n\nCould be a good social experiment anyhow :P \n\nThanks for showing me the poll site!",
+				"added": 1468556775
+			},
+			{
+				"comment_id": 6,
+				"body": "> [ks](#comment_117_14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx): Sure, but if the thread gets long it will be difficult to get a feeling for how many people are supporting which team.\n> Anyway, there's no harm done. :)\n\nYou raise an excellent point....\nPerhaps I'll make a poll and then link to it here.\n\nYou rock!",
+				"added": 1468557614
+			},
+			{
+				"comment_id": 7,
+				"body": "> [ks](#comment_118_14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx): That's a damn jolly good idea! :)\nAnd Viola! We has poll~",
+				"added": 1468563964
+			},
+			{
+				"comment_id": 8,
+				"body": "> [xenith](#comment_15_1Buq4fyG8B3MxAvs7h4bASyWbrKFxmg4CJ): Harmony\n\nI like your style :)",
+				"added": 1468650873
+			}
+		],
+		"14_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf": [
+			{
+				"comment_id": 3,
+				"body": "A cyberpunk reddit :)",
+				"added": 1468549824
+			}
+		],
+		"24_1CMYxdit4qq9QGk9DYRu2ruRPd2YDGckH8": [
+			{
+				"comment_id": 9,
+				"body": "> [decentralizedid](#comment_3_13hcYDp4XW3GQo4LMtmPf8qUZLZcxFSmVw): I feel the same way... it's mostly because most people nowadays lack critical thought, live in a filter bubble, and only care about entertainment.\n\nEver read Brave New World? Cause we've really done a number at bringing an Orwellian / Brave New World reality into existence.",
+				"added": 1468651234
+			}
+		]
+	},
+	"comment_vote": {
+		"1_1Gtj7AdXhzMFUVVvFm2ZGCbTFdgNwdtuMn": 1,
+		"2_1LfQ8dwqkqkGQNCg1kBevHPxjvTRJTQYBz": 1,
+		"3_1FuufvPjG7U2JYz8GKyJthajxLXGELqccQ": 1,
+		"3_1LfQ8dwqkqkGQNCg1kBevHPxjvTRJTQYBz": 1,
+		"116_14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx": 1,
+		"2_1Gtj7AdXhzMFUVVvFm2ZGCbTFdgNwdtuMn": 1,
+		"117_14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx": 1,
+		"118_14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx": 1,
+		"15_1Buq4fyG8B3MxAvs7h4bASyWbrKFxmg4CJ": 1
+	}
+}

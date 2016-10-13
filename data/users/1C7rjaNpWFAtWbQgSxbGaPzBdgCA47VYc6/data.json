@@ -1,0 +1,52 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "Should I put the ClassCoder ZeroProxy on HTTPS?",
+			"body": "Since Let's Encrypt came out recently, should I put my ZeroProxy on HTTPS?",
+			"added": 1450923523
+		}
+	],
+	"topic_vote": {
+		"1_1C7rjaNpWFAtWbQgSxbGaPzBdgCA47VYc6": 1
+	},
+	"next_comment_id": 6,
+	"comment": {
+		"1_1C7rjaNpWFAtWbQgSxbGaPzBdgCA47VYc6": [
+			{
+				"comment_id": 1,
+				"body": "Just so you know, I'm working on this right now, so I'm going to default to yes ;)",
+				"added": 1450923606
+			},
+			{
+				"comment_id": 2,
+				"body": "Well, I got a yes so I did it!",
+				"added": 1450924541
+			},
+			{
+				"comment_id": 3,
+				"body": "> [dividedby0](#comment_13_16iYwD5U2fNoS22p6447J7992iL3DHjSHY): Yes! Was looking forward to one of the ZeroNet proxies getting HTTPS. Is there any way HTTPS could be implemented for ZeroNet itself?\n\n@nofish?",
+				"added": 1451076293
+			}
+		],
+		"3_168qV1Xxp2EyszrzdECLUwXrn9wGYjDdar": [
+			{
+				"comment_id": 4,
+				"body": "FYI if you want a free peer, go to your site over my proxy and it'll seed. That should prevent \"no peer found\" errors.",
+				"added": 1451076403
+			}
+		],
+		"1_1MBZrgSwMQMRnMFjQkw2JpwdWRaKo7Eb55": [
+			{
+				"comment_id": 5,
+				"body": "zeronet.classcoder.com is now HTTPS. Might want to replace the link in the OP.",
+				"added": 1451076659
+			}
+		]
+	},
+	"comment_vote": {
+		"145_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"20_1LUP6SN7WrXAH7e5bUFxdmrVsFr2m43XB4": 1
+	}
+}

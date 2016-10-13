@@ -1,0 +1,18 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {
+		"2_1GCsW9TFfjDsvcdmKPADq1n8Q3ha72UtDQ": 1
+	},
+	"next_comment_id": 2,
+	"comment": {
+		"2_1GCsW9TFfjDsvcdmKPADq1n8Q3ha72UtDQ": [
+			{
+				"comment_id": 1,
+				"body": "UNIX isnt a programming language, OP. I think you mean Bash",
+				"added": 1464640164
+			}
+		]
+	},
+	"comment_vote": {}
+}

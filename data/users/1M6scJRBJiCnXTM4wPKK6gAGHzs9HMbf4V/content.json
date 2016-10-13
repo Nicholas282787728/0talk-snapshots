@@ -1,0 +1,15 @@
+{
+ "cert_auth_type": "web",
+ "cert_sign": "HPa23UQmj2aKKcikxsL9OYEoCyebp+gBUEitG6YZ5IvyPaYY8S0RJ2dzx4SH9Tfb1BrKhRJslgrdShhzNm5a+lw=",
+ "cert_user_id": "bentheman96@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "8463ff7e1b23e19c99b648d6eb545228e2d64f86c63a8f0c4072aedff14128e8",
+   "size": 1483
+  }
+ },
+ "modified": 1455224013.273,
+ "signs": {
+  "1M6scJRBJiCnXTM4wPKK6gAGHzs9HMbf4V": "G57nEPXuI3cfyJgAR3Fjb/u3fWESIkKao7+ITT4VN5tmXzfWCuoW3ajgdCm9x2ETmiDUtEeAmQvjGpIBqQtdZV0="
+ }
+}

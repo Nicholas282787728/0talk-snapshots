@@ -1,0 +1,19 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 2,
+	"comment": {
+		"1_1Kw542ksma7AFT9pCssiwDthvVjywu52NU": [
+			{
+				"comment_id": 1,
+				"body": "You need to flesh out the projects section. You also shouldn't use a mailto link, as your system will consume that link, not zeronet.",
+				"added": 1456973314
+			}
+		]
+	},
+	"comment_vote": {
+		"1_1AQLPLp3jur76cHZhkicmMoAqg6mqyTsTv": 1,
+		"1_1FHHMQmWb6jH7qwHzURh31iSVGuqAqGwGN": 1
+	}
+}

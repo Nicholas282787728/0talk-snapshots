@@ -1,0 +1,115 @@
+{
+	"next_topic_id": 4,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "classcoder.com is about to expire!",
+			"body": "So, my domain classcoder.com, which hosts the ClassCoder ZeroProxy, is about to expire, and I need the help of the ZeroNet community to keep it online! I've created a Patreon for the proxy (I'm looking into creating an Ethereum smart contract), so please contribute something to the proxy if you can: https://patreon.com/user?u=3027012\n\nYes, I know the proxy is currently down. This is completely unrelated and I'm solving it right now (rebooting the VM will hopefully help).",
+			"added": 1458157626
+		},
+		{
+			"topic_id": 2,
+			"title": "Thanks to the donor!",
+			"body": "Someone donated about $50 worth of Bitcoin to my ZeroProxy, which will help keep it online for a good while. Big thanks to the anonymous donor!\n\nTransaction: https://btc.blockr.io/tx/info/4f230258c62981ae0e7bb2307ed86b66df1d20b959bab84b1953574ab3dbdccd",
+			"added": 1458227900
+		},
+		{
+			"topic_id": 3,
+			"title": "Would anyone be interested in an IDE?",
+			"body": "I'm thinking of making a simple website IDE (not necessarily Zite*, just regular web development, though that could be added later) on ZeroNet using [Ace](https://ace.c9.io/). Would anyone be interested in that?\n\n*I guess that's what we're calling them now?",
+			"added": 1458258420
+		}
+	],
+	"topic_vote": {
+		"8_1CMYxdit4qq9QGk9DYRu2ruRPd2YDGckH8": 1
+	},
+	"next_comment_id": 15,
+	"comment": {
+		"1_1BidR2Pw65fTPeh1R3LbwCdfEJUPB6FLes": [
+			{
+				"comment_id": 1,
+				"body": "Proxy's back up (and with the latest version)!",
+				"added": 1458160005
+			},
+			{
+				"comment_id": 3,
+				"body": "> [zeronetuser0](#comment_3_1GuSHjNUV97h7BimaK7e32y6q2F91FHJjq): Hello, \n> You should give a look to the plugin \"DonationMessage\". It is disabled by default.\n\nOh my gosh. I was JUST looking at the `plugins` folder when I was updating, and I seem to have missed that. Will do!",
+				"added": 1458165809
+			},
+			{
+				"comment_id": 4,
+				"body": "> [zmccorkle](#comment_3_1BidR2Pw65fTPeh1R3LbwCdfEJUPB6FLes): Oh my gosh. I was JUST looking at the plugins folder when I was updating, and I seem to have missed that. Will do!\n\nUPDATE: it broke everything, I'll just add it to the homepage",
+				"added": 1458165846
+			},
+			{
+				"comment_id": 5,
+				"body": "> [nofish](#comment_524_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): Fixed the plugin in latest revision.\n\nUpdated, working!",
+				"added": 1458169825
+			},
+			{
+				"comment_id": 6,
+				"body": "Even if the domain expires, I've now got an onion version running at [epdb6k6hj4rttycg.onion](http://epdb6k6hj4rttycg.onion). It's the exact same ZeroNet instance.",
+				"added": 1458170829
+			}
+		],
+		"1_1ArMJqDaBJqeJ4MX3VqSnkfwkHe23PtLrW": [
+			{
+				"comment_id": 2,
+				"body": "> [nippletwister](#comment_46_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf): Hello, I've spotted that New ZeroHello site doesn't work via this proxy and ZeroTalk has old interface - without 'Newsfeed' button.\n\nFixed ZeroTalk, it is intended that ZeroHello doesn't work.\n\n> [ks](#comment_5_14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx): I tried to put ZeroNet behind a proxy but have problems with the websocket. How do I set up a reverse proxy? TIA!\n\nI'm... not completely sure, actually. I forget how I got it set up, it just kinda \"works.\"",
+				"added": 1458161680
+			}
+		],
+		"4_1EMpuiFM1NLZmAVyoAWnwi8VwiZVV4dcnN": [
+			{
+				"comment_id": 7,
+				"body": "> [technoturnovers](#comment_2_18KKJyAi6DfN6QG2qs3cSCMQwxpGe3xgvJ): Someone managed to hack the scoring system, it needs to be fixed\n\nYep.",
+				"added": 1458173904
+			},
+			{
+				"comment_id": 13,
+				"body": "> [technoturnovers](#comment_3_18KKJyAi6DfN6QG2qs3cSCMQwxpGe3xgvJ): How did you do it?\n\nOpen JS console, switch to iframe, `document.getElementById(\"message\").value = score`, `Page.sendMessage()`",
+				"added": 1458248569
+			}
+		],
+		"2_1BidR2Pw65fTPeh1R3LbwCdfEJUPB6FLes": [
+			{
+				"comment_id": 8,
+				"body": "Just purchased zeropro.xyz, will be switching (and setting up a redirect from zeronet.classcoder.com) within the next few hours.",
+				"added": 1458228494
+			},
+			{
+				"comment_id": 9,
+				"body": "Proxy is now moved to http://zeropro.xyz!",
+				"added": 1458230186
+			},
+			{
+				"comment_id": 10,
+				"body": "> [zmccorkle](#comment_9_1BidR2Pw65fTPeh1R3LbwCdfEJUPB6FLes): Proxy is now moved to http://zeropro.xyz!\n\nThe apex is still propagating, you can go to https://www.zeropro.xyz if you want it now. https://zeronet.classcoder.com also redirects there.",
+				"added": 1458230226
+			},
+			{
+				"comment_id": 11,
+				"body": "> [basxto](#comment_61_1PVcdu7USZH2kHMETbqDYLPjJZKCDWM52k): Might be more effective to also ban the used zeronet identity … if that is somehow possible. But that would need to log which ip belongs to which identity. Not sure if that's a good idea.\n> Do you block 0chan and porn0chan on your node?\n\nI do not, and will not, block anything unless there is a complaint from someone upstream (whether it be a host, in which case I might switch hosts, or a copyright holder, in which case I will symlink the folder in `data/` to `/dev/null`.",
+				"added": 1458232451
+			},
+			{
+				"comment_id": 12,
+				"body": "> [zmccorkle](#comment_11_1BidR2Pw65fTPeh1R3LbwCdfEJUPB6FLes): I do not, and will not, block anything unless there is a complaint from someone upstream (whether it be a host, in which case I might switch hosts, or a copyright holder, in which case I will symlink the folder in data/ to /dev/null.\n\nIn other words, rules are in for a large change with the large changes I'm making to the proxy today (new domain, switching to modified ZeroHello)",
+				"added": 1458232584
+			}
+		],
+		"3_1BidR2Pw65fTPeh1R3LbwCdfEJUPB6FLes": [
+			{
+				"comment_id": 14,
+				"body": "> [pycole](#comment_79_1KwTTgPRSTHFmmJAFBt6kQfdyNeSM5KJuH): Definitely would be neat. On the same-ish topic, you might also want to look into electron.\n\nAtom's my favorite editor, and I have done some small things with Electron ;)",
+				"added": 1458260234
+			}
+		]
+	},
+	"comment_vote": {
+		"13_1NzjwWNcVjsX1ndBgkgC1EM5EUzMACGm8L": 1,
+		"32_1CMYxdit4qq9QGk9DYRu2ruRPd2YDGckH8": 1,
+		"23_1EMpuiFM1NLZmAVyoAWnwi8VwiZVV4dcnN": 1,
+		"65_1PVcdu7USZH2kHMETbqDYLPjJZKCDWM52k": 1
+	}
+}

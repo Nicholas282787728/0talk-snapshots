@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HLT3F/5kro10OROtVW/zT+O9/n4uIzhbMwf1f+Y5kRU1vIYEOevJwxh5Vk1h5u1pUo9uHDa1dgyt1caUmdh1pcM=",
+ "cert_user_id": "microsoftwindows@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "f8c7d7d1ba7d0d83c11d4bcf75c1c415a0625612804357f8069cae1a45999628",
+   "size": 306
+  }
+ },
+ "inner_path": "data/users/1KqgCtWGZSW3ZSer36ZnAuXQXxGawZRG5V/content.json",
+ "modified": 1462924691.849,
+ "signs": {
+  "1KqgCtWGZSW3ZSer36ZnAuXQXxGawZRG5V": "HAYeroDNJcNZrMQrVzsd79rYr26C8Ytrobzp/gWXJEnalD1NA25NcUaJWblPnSotvbrDzypd6VspWlf98tzx6vM="
+ }
+}

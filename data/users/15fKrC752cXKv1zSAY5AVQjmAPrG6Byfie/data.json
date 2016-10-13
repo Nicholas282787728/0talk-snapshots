@@ -1,0 +1,16 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 2,
+	"comment": {
+		"1_16k9pNCerEdsZvWU82HMesThKFo9fofRfz": [
+			{
+				"comment_id": 1,
+				"body": "If Hitler did nothing wrong, I don't want to be right.",
+				"added": 1456864604
+			}
+		]
+	},
+	"comment_vote": {}
+}

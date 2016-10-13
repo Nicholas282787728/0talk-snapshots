@@ -1,0 +1,16 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 2,
+	"comment": {
+		"4_1QH84f44yLPvMjMua9s7iM7c4RoJNZ2nTp": [
+			{
+				"comment_id": 1,
+				"body": "I wonder, does the ZeroMail is only usable inside ZeroNet or there are/there will be an outside link with the web?",
+				"added": 1454429226
+			}
+		]
+	},
+	"comment_vote": {}
+}

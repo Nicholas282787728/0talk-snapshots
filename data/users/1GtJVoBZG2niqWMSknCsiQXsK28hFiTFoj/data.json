@@ -1,0 +1,23 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 3,
+	"comment": {
+		"1_1K7fPamTWE8J9ogsdFoyjmtjq1FjBeRQGW": [
+			{
+				"comment_id": 1,
+				"body": "\"IT\" and coding is pure freedom,yes,  the power to create something beautiful out of almost nothing. Like a super power.",
+				"added": 1460319941
+			}
+		],
+		"1_1BP665SKKnWqqDNG4yF2DpFJYPS4hbThnk": [
+			{
+				"comment_id": 2,
+				"body": "test 5",
+				"added": 1460319955
+			}
+		]
+	},
+	"comment_vote": {}
+}

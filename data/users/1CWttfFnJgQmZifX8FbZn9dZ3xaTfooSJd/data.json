@@ -1,0 +1,81 @@
+{
+	"next_topic_id": 3,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "ZeroBoard error",
+			"body": "\"Message submit failed! Parsing parameters... Please try again later.\"\n\nWhy I have this error when I try to send my second message? \n\nthanks",
+			"added": 1458146967
+		},
+		{
+			"topic_id": 2,
+			"title": "Docs about \"site cloneable\" in ZeroNet",
+			"body": "Hello, where are the docs explaining this feature? I'm making a clonable site, and I would love to know how it works, thanks!",
+			"added": 1458834001
+		}
+	],
+	"topic_vote": {
+		"4_19R2USgb9vPyg1jPQEJkGVoBwDuDcEmHRF": 1
+	},
+	"next_comment_id": 10,
+	"comment": {
+		"4_1MahZJTzjoEMMCv2jBReDWhyNGRhN5tvDq": [
+			{
+				"comment_id": 1,
+				"body": "the ZeroWiki:  http://127.0.0.1:43110/138R53t3ZW7KDfSfxVpWUsMXgwUnsDNXLP",
+				"added": 1458052955
+			}
+		],
+		"2_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": [
+			{
+				"comment_id": 2,
+				"body": "holaaa",
+				"added": 1458120352
+			},
+			{
+				"comment_id": 3,
+				"body": "jajaja",
+				"added": 1458124356
+			}
+		],
+		"6_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": [
+			{
+				"comment_id": 4,
+				"body": "So right now, if the ZeroNet servers goes offline, the ZeroNet dies?",
+				"added": 1458137764
+			},
+			{
+				"comment_id": 5,
+				"body": "does the ZeroNet uses the same trackers as the bittorrent network?",
+				"added": 1458141658
+			}
+		],
+		"1_1CWttfFnJgQmZifX8FbZn9dZ3xaTfooSJd": [
+			{
+				"comment_id": 6,
+				"body": "not here, but here: 127.0.0.1:43110/board.zeronetwork.bit/",
+				"added": 1458148531
+			},
+			{
+				"comment_id": 7,
+				"body": "I have the error only when I try to add two messages, one after the another.",
+				"added": 1458148588
+			},
+			{
+				"comment_id": 8,
+				"body": "POST https://demo.zeronet.io/ZeroBoard/add.php 403 (Forbidden)k.cors.a.crossDomain.send @ all.js:9n.extend.ajax @ all.js:9n.(anonymous function) @ all.js:9ZeroBoard.submitMessage @ all.js:592(anonymous function) @ all.js:541n.event.dispatch @ all.js:8r.handle @ all.js:8\nall.js:107 [ZeroFrame] Message submitted Object {readyState: 4, responseText: \" Parsing parameters...↵Please try again later.\", status: 403, statusText: \"Forbidden\"} error Forbidden",
+				"added": 1458148726
+			}
+		],
+		"2_1BidR2Pw65fTPeh1R3LbwCdfEJUPB6FLes": [
+			{
+				"comment_id": 9,
+				"body": "hello, I don't know if it's a bug with the js of ZeroNet or the problem comes from the proxy. But when I'm using my phone (Nexus 5X), the links doesn't work really good in this forum ( Talk.ZeroNetwork.bit ). I need to \"click\" multiples times in the links to make it work. Is anybody else having this issue?",
+				"added": 1458307084
+			}
+		]
+	},
+	"comment_vote": {
+		"27_16bxMyoL49mWYhcZKBYVBT5zEFW9SQpiao": 1
+	}
+}

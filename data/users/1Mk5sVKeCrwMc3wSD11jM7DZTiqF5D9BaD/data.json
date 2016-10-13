@@ -1,0 +1,1017 @@
+{
+	"next_topic_id": 4,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "ZeroNet CryptMessage plugin",
+			"body": "Am I right to assume that I can safely store private data I don't want other users to be able to read in a user's data.json file by simply doing this:\n\n    @cmd \"eciesEncrypt\", \"My super secret string of text\", (encrypted) ->\n        # save value of encrypted in user's data.json file\n\nOr is there something else that needs to be done to make it secure?",
+			"added": 1455869629
+		},
+		{
+			"topic_id": 2,
+			"title": "How to get rid of \"Please, confirm if you want to load this site\" message?",
+			"body": "If you go to http://127.0.0.1:43110/ZeroPolls.bit and click on the \"development blog\" link at the very top, it opens the link but shows this warning message (twice).\n\n    You have opened this page by clicking on a link. Please, confirm if you want to load this site.\n\nLinks on ZeroTalk and ZeroBlog don't do that. What did I do wrong here? I tried a few different methods of linking but either nothing changes or the warning message gets displayed in an infinite loop rather than just twice.",
+			"added": 1457461006
+		},
+		{
+			"topic_id": 3,
+			"title": "How does blocking work exactly on ZeroBlogs?",
+			"body": "I want to block a spam account, I added the person's ZeroID to data/users/content.json like the bad@zeroid.bit example shows, and signed the /content.json file, but that didn't remove his messages, I guess it only prevents him from posting more messages?\n\nSo I deleted the data/users/useraddress/data.json file and signed data/users/content.json but ZeroNet tells me it skipped signing the data/users/useraddress/content.json file. So I tried signing that but then ZeroNet says \"Sign failed: Invalid content\"\n\nA step by step would be much appreciated :)",
+			"added": 1457560400
+		}
+	],
+	"topic_vote": {
+		"2_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"2_14yb6qdkbYmhqt6rVxUqXo65s4i63BffAr": 1,
+		"4_1QH84f44yLPvMjMua9s7iM7c4RoJNZ2nTp": 1,
+		"1_1L4fuhUB75eAdVbDY9AJ4z2i2dwMho7MV8": 1,
+		"1_198jKSKMzpRxH5C81bXojho2xGcTxXXcqc": 1,
+		"1_15QGRquMETTn5LnCHjTm1qa9eaXGtq7gpT": 1,
+		"1_1M5ztUWkCMP5Pv7MjwApWT7CNvWimGFaFa": 1,
+		"2_1M5ztUWkCMP5Pv7MjwApWT7CNvWimGFaFa": 1,
+		"3_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf": 1,
+		"5_167eTX5f6jJt4HPvfQqf2QuwdTFCnxJCf2": 1,
+		"15_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf": 1,
+		"1_1M6scJRBJiCnXTM4wPKK6gAGHzs9HMbf4V": 1,
+		"1_14tJBPnxcrF9kMK5v7DULWnaJx3JepirXb": 1,
+		"1_1Fa8QonaFFGcNx3YKiohCoAAhcFaVjkCyM": 1,
+		"1_1EUyJtat7mbu5wMcR6nrJTPBBRons1mtMA": 1,
+		"1_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1,
+		"1_1DfkDpkeDXGbHJ2ZT31DPvYr5xR59Jr8BA": 1,
+		"5_1MxdAjWgnqwCaunGHmhY39tVR51qV3peJL": 1,
+		"1_17ApQKugX1XH727gpAeD3mrRLjLxASdakd": 1,
+		"3_15ymkjUYJS6tjUC35AekGMExZMN6iks8ma": 1,
+		"2_1Kg7CXZM5h3wTPENsTDwWUmRBf9VhYy2cW": 1,
+		"5_1EMpuiFM1NLZmAVyoAWnwi8VwiZVV4dcnN": 1,
+		"8_17fgJ3tZjhM7HCkTkd5TWf2BLLWmhRKcXB": 1,
+		"10_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf": 1,
+		"1_13dUD5qbY6LaXH9pfh5iDgXHgKjCZPxvZV": 1,
+		"1_15SARKNuSBuSxuKe1xqevx3H3pSEep5TgR": 1,
+		"5_1LRrd96P7FiTcsyNXVzPM5jtpQoH1B4gYf": 1,
+		"8_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"9_1LRrd96P7FiTcsyNXVzPM5jtpQoH1B4gYf": 1,
+		"7_1H8oKiRa7fGgUqS1hpUtaSYLvAqkaknbkf": 1
+	},
+	"next_comment_id": 138,
+	"comment": {
+		"2_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": [
+			{
+				"comment_id": 1,
+				"body": "I came here to see a bunch of test messages. I was not disappointed.",
+				"added": 1442912932
+			}
+		],
+		"8_1PNyuY1iZqXBpft4ArouqcnE4pNRGYij5i": [
+			{
+				"comment_id": 2,
+				"body": "I saw ZeroNet and Morphis mentioned in a Hacker News comment as being similar to IPFS. Checked out Morphis, but the creator's extreme enthusiasm for his project made him sound a wee bit insane, so I came here instead.",
+				"added": 1442913651
+			}
+		],
+		"4_1QGWjfYfANXvVDaHaH8n5w86KWkKcjiAoE": [
+			{
+				"comment_id": 3,
+				"body": "Check out http://www.atom.io\n\nCreated by Github and written in CoffeeScript, so it has very good CoffeeScript support out of the box and there are tons of plugins you can install to make it even better. It runs on Windows, Mac and Linux and is heavily inspired by SublimeText, but is free and open source. Best thing is, since it's written in CoffeeScript and you want to use it for CoffeeScript editing anyhow, you will have no problem writing plugins of your own to turn it into the perfect editor for your workflow.",
+				"added": 1444391216
+			}
+		],
+		"4_1QH84f44yLPvMjMua9s7iM7c4RoJNZ2nTp": [
+			{
+				"comment_id": 4,
+				"body": "Wow, this is seriously cool! Everything worked like a charm for me, including sending and receiving a mail from echobot.",
+				"added": 1451913344
+			}
+		],
+		"1_198jKSKMzpRxH5C81bXojho2xGcTxXXcqc": [
+			{
+				"comment_id": 5,
+				"body": "I wholeheartedly agree. It's fast, supports dynamic content, supports anonymity through Tor, and already has lots of great sample apps. This is exactly what I always wanted a decentralized platform to be. It's even better because I never even thought about the idea of being able to clone a site you like with two clicks and make it your own, which makes \"installing\" a blog or forum software trivially easy. That's a killer feature.\n\nAnd last but not least, you also don't run into the issue that older decentralized platforms have, where you can't control what content you store and serve to other peers, which used to be among the biggest critiques of decentralized networks. You only serve the sites you visit, so with ZeroNet there are no moral issues in using this software, you don't help distribute illegal content if you don't want to.\n\nI could really see this taking off and becoming huge over the next few years. I'm honestly surprised that it hasn't already gotten much more people interested. Sure, there are still rough edges, but it's already so usable and easy to set up.",
+				"added": 1454417203
+			},
+			{
+				"comment_id": 6,
+				"body": "> [hotdog](#comment_8_18eNH913qX7e9vBExuMiv7qAMSRkJYNa21): I think it'll get a lot more popular with Tor support\n\nTor has been supported for months though, ZeroNet already supported Tor when I checked it out for the first time which was late September of last year (just checked my first post here, didn't know I've been using it for so long already). So by now, the people who were waiting for Tor support would have caught up :)\n\nAlthough the improved Tor support is more recent, as far as I understand it, the only difference is that you can now also publish your own sites via Tor, which you weren't able to do before (I think).",
+				"added": 1454456332
+			},
+			{
+				"comment_id": 8,
+				"body": "> [nofish](#comment_229_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): Similar: Before full Tor support two Tor peers was unable to communicate to each other, so you was only able to view pages that has non-Tor peers serving the site. It's also faster, more secure (MITM proof) and eliminates NAT drawbacks.\n\nThanks for the explanation! I didn't notice it being faster, because it was already so fast ;) Even the initial download of sites was really quick for me over Tor, after that it's of course fast because everything is saved locally and only updates are downloaded. But it also feels fast I believe because of all of the nice little animations, distracting from the waiting time :) Really well done.",
+				"added": 1454457512
+			}
+		],
+		"1_1HssfkW9ci8VxnF6va1x6qJRyYu7DoNq5N": [
+			{
+				"comment_id": 7,
+				"body": "Hi and welcome :)",
+				"added": 1454456458
+			}
+		],
+		"8_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf": [
+			{
+				"comment_id": 9,
+				"body": "> [p2p](#comment_37_13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ): great! but i think it would be better if while the mouse hovers the \"Follow in Newsfeed\" button the menu popups, instead of first click to follow & second click to open the menu & third click to check follow comments.\n\nOr/and open the menu the first time after you click to follow, so that new users know that there are options if you click on it.",
+				"added": 1454460464
+			}
+		],
+		"2_1MmPY9fniJwwhP6WsgH4jWoq5rBAVV6KWy": [
+			{
+				"comment_id": 10,
+				"body": "It is a chicken and egg dilemma in my opinion. Getting people to try out something is relatively easy, especially today where everyone can upload a video explaining a product to the internet and spread it on social media. Getting people to stay however is way harder. The problem is, a really big chunk of people do not come back if they check something out and it isn't working for them yet, if it's boring to them. And on social media, a bad experience can spread fast and wide.\n\nRight now there is very little content, things you can actually spend a lot of time on. I think if people regularly talked here about all kinds of things not just ZeroNet, it would help a lot with this when new people come to check ZeroNet out. The news feeds are a great conversation starter. While this forum specifically might want to stay about ZeroNet only (easier to deal with support that way), another official forum should be made where there are areas for all kind of different topics, gaming, sports, books, movies and TV, etc. And then pull in news feeds from these topics to start conversations, get people to comment on articles.\n\nI think this would help a lot to get things started. And yeah, then get the community together to make a great video that has potential to become viral and post that on Twitter & co (easier said than done of course). Although the right timing is important here. Is ZeroNet already easy enough to install and use for the average joe on Windows right now? I know it isn't on Linux, it was easy for me but I wouldn't trust my parents to be able to do it ;)",
+				"added": 1454589079
+			}
+		],
+		"10_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf": [
+			{
+				"comment_id": 11,
+				"body": "> [muja](#comment_10_17i7Y7r8nTaCfLbCAuaKyc4R5BbKZYU2Hr): Can't wait for the \"Github-like project hosting\" that was announced here.\n\nMe too, especially since all of the popular Git hosting sites started to censor repositories for very dubious reasons. Github especially had the most censorship scandals lately, although that might be because they are also the biggest by far.",
+				"added": 1454778530
+			}
+		],
+		"1_167eTX5f6jJt4HPvfQqf2QuwdTFCnxJCf2": [
+			{
+				"comment_id": 12,
+				"body": "> [nofish](#comment_253_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): Yes, it's possible. You should use ZeroNet with Tor browser if you care about your privacy.\n\nCan ZeroNet use Tor from the TorBrowser or does Tor have to be running basically twice if you want to use --tor always? Or maybe TorBrowser even uses the already running Tor if there is one? Not sure how this works.",
+				"added": 1454791157
+			},
+			{
+				"comment_id": 13,
+				"body": "> [nofish](#comment_255_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): It's better use separate service for ZeroNet, so it will still works after you close your browser.\n\nThanks! As long as the two Tor instances don't interfere with each other that's fine with me, so I'll use both then :)",
+				"added": 1454792107
+			}
+		],
+		"3_168qV1Xxp2EyszrzdECLUwXrn9wGYjDdar": [
+			{
+				"comment_id": 14,
+				"body": "I worked through the tutorial on ZeroBlog to learn how to create sites for ZeroNet, and instead of creating yet another chat I slightly changed the code from the tutorial and created the site ZeroQuotes, which lets you submit quotes from famous (or fictional) people and browse quotes submitted by other users: http://127.0.0.1:43110/1NJyPoPpL8At17T6G7A1qHVQdqZDBmXcLT\n\nI've also started a blog where I'll update my progress on developing sites for ZeroNet: http://127.0.0.1:43110/1Kp5xdjQyrPth5mEJsn6NDBKZxcaeYz86N",
+				"added": 1454793040
+			},
+			{
+				"comment_id": 38,
+				"body": "Just created my second ZeroNet site, ZeroTodos, a simple todo list app. You can read more about it on my [blog](http://127.0.0.1:43110/1Kp5xdjQyrPth5mEJsn6NDBKZxcaeYz86N/?Post:7:ZeroTodos) or check out the site [here](http://127.0.0.1:43110/1B8LmXYHzMGZzcRWoidAQb5SmKSyfjN63f). It saves todos encrypted using ZeroNet's encryption API so that other users can't read them. Have fun!",
+				"added": 1455926937
+			},
+			{
+				"comment_id": 90,
+				"body": "My third ZeroNet site, [ZeroPolls](http://127.0.0.1:43110/1K28kQFMquNzto2iQf4GGjr6oFUbC1NddE) is ready. You can read more about it on my [blog](http://127.0.0.1:43110/1Kp5xdjQyrPth5mEJsn6NDBKZxcaeYz86N/?Post:10:ZeroPolls).\n\nBasically, it let's you create and vote on small polls, you might know the idea from StrawPolls or Twitter who recently added that feature.\n\nIf something doesn't work (and that might very well be the case, this was complicated) just comment on my blog and I'll figure it out. Linkable pages for polls and comments are coming soon so you can share them on ZeroTalk or elsewhere.",
+				"added": 1457383411
+			},
+			{
+				"comment_id": 92,
+				"body": "> [dan](#comment_5_1MyH4f3ULCxmuCD8C2juAfjMn9j4xhdm44): Cool idea, but anyone that plans on using this should keep in mind that ZeroNet's identities are revealed to all users in \"zeronet/ZeroNet-master/data/1K28kQFMquNzto2iQf4GGjr6oFUbC1NddE/data/users\" You can easily see who voted for what. The thing about decentralized systems they are often very public, as everyone has to have the details for the system to work. Only share what you are willing to be publicly associated with your identity. If you are not using Tor or another way to make your location (IP address) peers will also, in some cases, be able to figure out where you are.\n\nYeah that's why I have that as a warning at the very top of the site ;) Maybe I need to make it even more visible, if you overlooked it someone else will too. It isn't that much of a problem since it's just a pseudonym, but yeah it would be better if one could easily switch between different ZeroIDs in the \"select user\" menu. There is the multi-user plugin but from what I heard that is inconvenient to use.",
+				"added": 1457403194
+			}
+		],
+		"14_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf": [
+			{
+				"comment_id": 15,
+				"body": "Hacker News",
+				"added": 1455136323
+			},
+			{
+				"comment_id": 60,
+				"body": "> [charles](#comment_1_1GEfAcFWh3oXfFHzQeDdAmKtoJKmBtU4rz): Found out about this while trying to make a decentralized chan. IPFS was where I began\n\nYou wanted to create a chan on IPFS? Wow, I would have loved to see that, many jimmies would have been rustled: https://github.com/ipfs/community/blob/master/code-of-conduct.md :)",
+				"added": 1456955504
+			}
+		],
+		"3_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf": [
+			{
+				"comment_id": 16,
+				"body": "> [nofish](#comment_217_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): It can be internet connection problem, try \"Update\" in site menu. If the problem still occurs then the site probably contain files that has no peers at the current moment. \n> If you give me site address i can check the specific problem.\n\nI have the same problem with my ZeroQuotes site: http://127.0.0.1:43110/1NJyPoPpL8At17T6G7A1qHVQdqZDBmXcLT\n\nHas shown \"1 file update failed\" for a couple of days now. I went through the user data folders and there is one that only has the content.json file which points to the data.json file, but that file doesn't exist, so I'm guessing that is the reason. Is there anything I as the site owner can do about that?",
+				"added": 1455222596
+			},
+			{
+				"comment_id": 17,
+				"body": "> [nofish](#comment_285_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): You can sign+publish the user's content.json file with your site's private key and the error will gone. (using the sidebar or zeronet.py siteSign [siteaddress] --inner_path data/users/[useraddress]/content.json --publish)\n\nYay, it worked! Thanks :)",
+				"added": 1455223467
+			}
+		],
+		"1_1EbkgVAJKgrTeYAmF3FSEJ8dRabpWH87it": [
+			{
+				"comment_id": 18,
+				"body": "In another topic nofish said you can run ZeroNet sites in a VM with disabled internet connection if you are afraid of JavaScript exploits, since ZeroNet sites work offline. Uploading/Downloading would then be done by the Python ZeroNet app in your host OS which is connected to the internet (I assume that's what he meant).",
+				"added": 1455278726
+			},
+			{
+				"comment_id": 19,
+				"body": "> [xp](#comment_1_1EbkgVAJKgrTeYAmF3FSEJ8dRabpWH87it): That really sucks, dude. Why can't we just have an option 2 disable the JS s**t?\n\nThe ZeroNet sites are written entirely in JS, if you turned JS off, you would see nothing at all. You need JS for dynamic websites, otherwise you would have to reload the whole page every time something changes. So no chat rooms or anything like that. I guess you could create desktop applications that use ZeroNet instead of going through the browser. Maybe that will be an option in the future? I prefer the browser though. Much easier, and installing a bunch of desktop apps from an untrusted source sounds much more dangerous to me than JS exploits.",
+				"added": 1455279261
+			},
+			{
+				"comment_id": 20,
+				"body": "> [xp](#comment_2_1EbkgVAJKgrTeYAmF3FSEJ8dRabpWH87it): Dude, trust me, I'm really a master of all tricks w/ VM like Whonix. JS can be very nasty so I oughta try my best 2 reduce my attack surface.\n\nSure. But if you use VMs anyhow, why not use the trick with disabling the internet in the VM? Sounds like the perfect solution for you then. I don't know anything about Whonix, me personally I'd just use VirtualBox with a trimmed down Linux with just the bare essentials to get a browser running, maybe something like TinyCore Linux, so the VM starts in seconds whenever I want to access a ZeroNet site and it doesn't use up much resources on my Computer.",
+				"added": 1455280308
+			},
+			{
+				"comment_id": 21,
+				"body": "> [nofish](#comment_294_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): The ZeroNet API is available for every application (not just for javascript), so anyone can choose to write his/her own client and not using javascript (or the browser) at all.\n\nOh that is neat, didn't know that. Sadly I just know a bit web dev stuff right now but I want to get into desktop programming some time, I'll have to play around with ZeroNet integration then.",
+				"added": 1455280508
+			}
+		],
+		"1_1PPqTMbH8Uwrk496grUVuBk57dSoeU9hig": [
+			{
+				"comment_id": 22,
+				"body": "Also worth noting, unlike the official IPFS gateways, the ZeroNet gateways don't seem to be censored. So if you want free speech, ZeroNet is the way to go. The IPFS gateways enforce very strict political correctness (covered by a code of conduct), which some people might even prefer, to each his own.",
+				"added": 1455480036
+			}
+		],
+		"1_16irrH5hRDUX3nrY71JFrRChNEr5p9b6jS": [
+			{
+				"comment_id": 23,
+				"body": "> [nippletwister](#comment_114_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf): Check out this\n> Yes, you can also use it in Tor browser, to make it work you need to go to about:preferences#advanced > Settings... > And add 127.0.0.1 to No Proxy for field\n\nI've started doing this now too, just for the added bit of security. Sadly, now I can't browse ReactionGIFs anymore :) Looks like the Tor Browser only supports OGG Video and WebM, but not MP4 since enabling that has huge privacy issues according to a moderator on the Tor forums. Probably better though, shouldn't use up too much Tor bandwidth with funny nonsense while the Tor bandwidth is still such a big issue.",
+				"added": 1455557276
+			},
+			{
+				"comment_id": 24,
+				"body": "> [nippletwister](#comment_115_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf): Can you watch this video?\n\nI can't see it either, only index2.html and above that it says Not found.\n\nEdit: No wait, I can see it, had to raise the limit for your site from 10 to 20 mb, was too big for the default size. Video plays fine.",
+				"added": 1455570045
+			}
+		],
+		"15_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf": [
+			{
+				"comment_id": 25,
+				"body": "> [nippletwister](#comment_124_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf): Found this project:http://mirror.qora.co.in:9090/index/blogdirectory.htmlhttp://mirror.qora.co.in:9090/index/blog.htmlhttp://mirror.qora.co.in:9090/index/blog.html?blogname=qora.teamWhat are the differences between it and ZeroNet? I've already found that it is based on blockchain, and you have to run wallet and spend some coins in order to upload content inside it.\n\nLooks like all data is stored on the blockchain, including html, css, images, everything and you can only upload static websites. The dynamic websites (like the blog) are only from the Qora creators,  not created by users, but everyone can make his own blog, just not anything else other than a blog. At least I think that is the case, the documentation is all over the place and hard to find all of it. It seems they are working on an \"Asset API\" which I guess could be used to make websites dynamic, although someone has to pay for uploading these assets to the blockchain, so either you or your website's users would have to pay money to use your site.\n\nSo, I'd say it's an interesting project but not nearly as interesting as ZeroNet.",
+				"added": 1455654741
+			},
+			{
+				"comment_id": 26,
+				"body": "> [p2p](#comment_52_13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ): it's really bad idea to store all things in blockchain.\n\nThat was my first thought too, because every other decentralized project says that. Still interesting that someone tried it despite that. Sometimes, everyone else is wrong :) I don't think that's the case here, but still.\n\nLately I'm not a big fan of blockchain based projects anymore though. Tried installing namecoin and ethereum couple of days ago. The blockchains are taking so long to sync and use up so much resources... It just doesn't scale. And when you let only companies and organizations host the full blockchain and you use a \"light wallet\" or some web service instead, it's no longer fully decentralized, it's basically federated, and much less interesting.\n\nThat's what happened to email. It used to be decentralized, everyone could run his own mail server on his computer, now it's federated (from what I've read, running your own email server today is asking for lots of trouble because the big email providers just auto flag your mail as spam if it's from an unknown server) and really it's getting close to centralized since so many people use GMail.",
+				"added": 1455706405
+			},
+			{
+				"comment_id": 27,
+				"body": "> [nippletwister](#comment_129_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf): What about storing blockchain files in IPFS of Sia?\n\nOr Storj, Sia I didn't know. Those are much better options than storing files on the blockchain directly. With Sia and Storj you still have a blockchain to deal with though, so the problem of the blockchain getting too big to deal with for private users is still an issue.\n\nIPFS is much better there from what I've seen, awesome technology, like ZeroNet you decide what you download and upload, but they put the community and the IPFS gateways under a code of conduct so it's not everyone's cup of tea, makes me very wary of it. It's interesting that it's so popular, I would have thought those most interested in decentralized technology would be those who do not want yet more censorship. You would have to change your username there I think, the terms are very strict and cover not just speech but usernames too. Nothing rude, offensive, sexually inappropriate, and so on and so on. It's a long list.",
+				"added": 1455710468
+			},
+			{
+				"comment_id": 28,
+				"body": "> [nofish](#comment_325_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): The point of blockchain is one thing: create a database that does not allow to modify earlier records.\n> This makes much sense in payment technology, but it's not optimal (and does not provide real benefit) to store web data.\n\nThe only upside I could think of for web data is automatic versioning, so that the history of files/sites is preserved, but I'm sure that can be achieved through other means.",
+				"added": 1455710558
+			},
+			{
+				"comment_id": 29,
+				"body": "> [nippletwister](#comment_132_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf): Sorry, what I meant was storing blockchain itself as a file in the Storj, IPFS or Sia, not ordinary files. So, big size of blockchain isn't an issue here (those system probably would have a deduplication feature). You don't have to put ordinary files into blockchain as in Qora, only very important and tiny info.\n\nHmm, interesting idea. You can download snapshots of a blockchain so this should be possible. But then you have to trust the source that the blockchain hasn't been tampered with. But maybe the creation of those snapshots could be decentralized too, so that there is a consensus if a snapshot is trustworthy.",
+				"added": 1455711791
+			},
+			{
+				"comment_id": 31,
+				"body": "> [harry2](#comment_16_167eTX5f6jJt4HPvfQqf2QuwdTFCnxJCf2): That snapshot idea is what could be the key missing from current zeronet. It may solve the whole trustworthiness issue and also versioning history if some established site goes haywire?\n\nTrue, could work I think (although I'm just a hobby web dev, so no idea if this is feasible). The client would just create a tarball of a site in a backup folder before a site is updated (excluding user files so that things like voting and commenting don't create a new site version), then check with other peers who have also done this, they would sign the tarball saying yup I've created the same tarball here. Then this could be integrated in the ZeroNet sidebar, one click to go back to the previous version (or select from a list of all versions). Binary diffing could also be used to only save the differences between the last time the site was backed up, so that the size of the site history doesn't get too big. Going back to a different version would then create a clone of the site at a different address which you then could share with other people on ZeroTalk and co, because nobody should be able to take someones site over, even if the site owner does something nefarious, and even if there was a consensus to go back to the old version (IMHO). And I guess these history/backup files should be optional files to download, so if you want a site's history you would just check it in the ZeroNet sidebar like you can do with optional files.",
+				"added": 1455715830
+			},
+			{
+				"comment_id": 32,
+				"body": "> [harry2](#comment_18_167eTX5f6jJt4HPvfQqf2QuwdTFCnxJCf2): I dont understand this, isnt IPFS supposed to be like zeronet, in the sense that anyone can setup IPFS on a home-server and operate it freely? Or if the IPFS puts restrictions on it, use the technology and clone it into another network free of those limitations? How does IPFS monitors this anyway, is it setup like a cnetralized overload/guard system, so its federated, but not decentralized?\n\nThe community (their forums, conferences, IRC chat rooms, bug tracker, etc.) are covered and their http gateways which let you use IPFS files/sites without having to install IPFS. So yeah you could use the IPFS software yourself, even create your own IPFS gateway and just ignore the community, but if you have a problem you have to solve it on your own, you are not welcome there if you do not agree to their terms.",
+				"added": 1455716486
+			},
+			{
+				"comment_id": 33,
+				"body": "> [harry2](#comment_17_167eTX5f6jJt4HPvfQqf2QuwdTFCnxJCf2): Nice, like a built-in archive.is/org :)But whos the first to test and see if the site update is okay? Wouldnt all people voting on the update need to safe-test itself?\n\nYeah that is the only complicated part I think and I know too little about how p2p and cryptography works to say anything of substance here. I have a few ideas but nothing really efficient.",
+				"added": 1455718238
+			},
+			{
+				"comment_id": 35,
+				"body": "> [pycole](#comment_27_1KwTTgPRSTHFmmJAFBt6kQfdyNeSM5KJuH): Here is one blockchain that is lightweight and may scale smoothly. It's not been released yet, but it looks promising. Not sure if it can store data like namecoin, but it can interface with Namecoin and Etherum. Give the whitepaper a read if it sounds interesting.\n\nSounds interesting, I'll check it out, thanks! Although quantum secure sounds like a fantastical idea, I thought quantum computing means all encryption is broken. Not that I understand anything about quantum computing at all... :)",
+				"added": 1455754427
+			},
+			{
+				"comment_id": 44,
+				"body": "> [klauszimmermann](#comment_28_15QGRquMETTn5LnCHjTm1qa9eaXGtq7gpT): You could mention IPFS and it's similarly structured P2P nature for datastore, but ZeroNet is also dynamic, whereas IPFS is almost static.\n\nIPFS does plan to support dynamic websites through IPNS, their nameservice. Basically (as I understand it, so I might be incorrect), you can create a name that points to a resource, lets say the JSON file data.json which is used as a database in ZeroNet. This name (data.json) points to a hash of the data.json file, a version of that file at a specific point in time. This hash will always point to the same file, if it's changed, the hash still points to the old version and a new hash points to the new version, which is why sites in IPFS are static.\n\nTo make it dynamic, this same name using IPNS can be used to point to the hash of the new, changed data.json file, so when I request the resource behind the name data.json I will always receive the newest version of the data.json file, with new comments added, new votes, whatever it is that is stored in there.\n\nBut I still agree with you that ZeroNet is the most interesting of all of these projects. Like I said earlier in this thread, since IPFS's creators are pro-censorship, it's not everyone's cup of tea. To me it seems like it is mainly targeted at companies who want to save money distributing content rather than creating an internet free of censorship.\n\nZeroNet is the only option (I know of) if you want both a modern take on decentralization and the freedom to share and debate ideas, and it's IMHO a great option. Really have to applaud ZeroNet's developer here, he is so active. Truly inspiring what he has been able to do in such a relatively short period of time and how much work he puts into both the project itself and answering questions from the community.\n\n> [dividedby0](#comment_28_16iYwD5U2fNoS22p6447J7992iL3DHjSHY): No, not all encryption will be broken, just a lot of it. For example NTRU encryption is resistant to quantum computing attacks, and so are One Time Pads. NSA is planning on transitioning to using encryption that will work in a post-quantum computing world, but others say that a quantum computer with that kind of ability will not become available any time soon. Though, it isn't a bad idea to switch to better encryption anyways, whether or not we see the rise of quantum computing any time soon or not.\n\nInteresting, thanks for pointing that out! :)",
+				"added": 1456683599
+			},
+			{
+				"comment_id": 126,
+				"body": "> [hotdog](#comment_20_18eNH913qX7e9vBExuMiv7qAMSRkJYNa21): How are they pro-censorship? i haven't heard of it\n\n[This](https://github.com/ipfs/community/blob/master/code-of-conduct.md). Enforces an extreme version of political correctness in both off and online communication, username choice, and the use of IPFS gateways, never saw a CoC get applied to a whole network before, just communities usually. (I'm hitting my data limit here can't write more)",
+				"added": 1458034950
+			},
+			{
+				"comment_id": 131,
+				"body": "> [jdoig](#comment_7_1D33SjywZjLd2QdRgzYMprcxZPva9FGZ3h): I think if they are providing infrastructure I don't see a problem with them setting what are reasonable ground rules.\n> \"Be respectful\" & \"Abusive behavior is never tolerated.\" Are good things, if you don't like them then is there anything stopping you from taking their open source software and building your own disrespectful & abusive version of what they are providing?\n\nDisrespectful is a nice example, much better than \"abusive\" because insinuating that I want to abuse people is a bit rude, good thing we don't have a Code of Conduct here banning you for that rude and disrespectful behavior ;) (And please note the smiley, you did not \"offend\" me, I used humor to make a point). But back to your example. What if I make a disrespectful joke? A rude joke? An offensive joke? Maybe even, I hesitate to say it, a sexually inappropriate joke (sharp intake of breaths everywhere)? This Code of Conduct forbids that because it makes no distinction there, it says don't be \"offensive\" or else, no matter your intention, no matter if you were attacking someone or he just felt attacked. Basically, 99.99% of all comedy is forbidden. I don't find that reasonable at all. I like comedy, I enjoy laughing.\n\nBut that is besides the point, I am not going to discuss here if Code of Conducts are a good idea. Some people like them, they are free to use them, I have said twice in this thread they are not everyone's cup of tea, my exact words, not that they are devil spawn. I however will not use them, I don't exclude people on such a grand scale. I, and I hope and believe most people, at the very least in western societies, are more tolerant than that.\n\nI will however call it what it is when it's applied to a whole network: Censorship. When you apply this Code of Conduct to a network, a purpose that such a document was never meant for, it is applied to all content shared over that network. We aren't just talking about jokes here anymore, now we are talking about \"offensive\" pictures, music, movies, books, just everything. Again, this is censorship. And I do not support censorship. Censorship leads to terrible things, it leads to great suffering. I grew up in a country with a long history of censorship that continues to this day and is even getting worse. Censorship is anti intellectual. One of the reasons I am using decentralized networks is to get away from censorship. You might be using decentralized networks for a different purpose and that is totally fine, to each his own, I have no problem with that.\n\nAs for their IPFS gateways, yes, they should have rules for that in place, if I was in their shoes I would not want to host content that is illegal in my or the server's country for example or could disrupt the service, like tons of spam or maliciously wasting resources. Usually, and this is standard practice, that's what you use a Terms of Service agreement for, an actual legal document. Not a Code of Conduct that is too ambiguous to ever hold up in court, so is effectively useless for that purpose.",
+				"added": 1458121141
+			}
+		],
+		"9_167eTX5f6jJt4HPvfQqf2QuwdTFCnxJCf2": [
+			{
+				"comment_id": 30,
+				"body": "> [nofish](#comment_324_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj)\n\nInteresting that cloning even works, I haven't enabled it (not that I have anything against it, I just haven't gotten around to prepare the site for easy cloning yet). Is the \"cloneable\" property of content.json not used right now? The docs say it has to be set to true for a site to be cloneable.",
+				"added": 1455712351
+			}
+		],
+		"1_1CMYxdit4qq9QGk9DYRu2ruRPd2YDGckH8": [
+			{
+				"comment_id": 34,
+				"body": "Weird. I use a year old $160 netbook and I have no issues at all, no crashes, CPU usage is also \"okay\" (goes up to 30% then down to basically nothing for ZeroID and goes up to 40% for the sidebar, then stays at about 25% until swiped to the right again).",
+				"added": 1455742661
+			}
+		],
+		"1_1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD": [
+			{
+				"comment_id": 36,
+				"body": "> [nofish](#comment_338_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): should work that way (but only you will be able to read it)\n\nThanks :) With \"you\", do you mean me as the site owner is the only one who can read it, or the currently logged in user who encrypted and wrote the data to his data/users/xyz.../data.json file (which is what I want)?",
+				"added": 1455873283
+			},
+			{
+				"comment_id": 37,
+				"body": "> [nofish](#comment_340_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): Only the currently logged in user.\n\nAwesome, thanks, then I did everything right it seems :) Really cool that encryption is so simple in ZeroNet, less room for mistakes that lead to data getting leaked.",
+				"added": 1455873501
+			}
+		],
+		"25_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf": [
+			{
+				"comment_id": 39,
+				"body": "I only know of Flattr, there you can set a monthly amount you want to donate and then you just \"like\" projects you come across. At the end of the month, your monthly donation amount is split among all the projects you liked. They removed Bitcoin support however, citing technical issues. There were a few clones using Bitcoin but those I found through Google don't seem to exist anymore. There was also a kickstarter for a new one but not enough people were interested.",
+				"added": 1456002300
+			}
+		],
+		"1_1G9k1Ti6kSNtYS4nqtTY8nz5SN3VxoVBAb": [
+			{
+				"comment_id": 40,
+				"body": "Click on \"Follow in Newsfeed\" at the top of the ZeroTalk site, the main site listing all posts, not a specific thread. A menu should pop up (if not, click it again). There, make sure that \"username mentions\" is checked. That should show you any replies in ZeroHome. You can also subscribe to specific threads this way by using the button on the page of a thread, if you want to get notified of all replies in a thread for example.",
+				"added": 1456161008
+			}
+		],
+		"1_1EKX1Mci8Q25fumx6aKoy9AXZ9fvi6Mbb7": [
+			{
+				"comment_id": 41,
+				"body": "Did you check out the two tutorials? The second one deals with the database. You can find them in the sidebar of ZeroBlog.\n\nIt basically works like o4zw5vmpoz5hz78z says, but the json file every user has is the content.json file. That file tells ZeroNet about all of the user's files, it doesn't hold the actual data from users that gets put into the database, it links to such a data file instead. It's basically the same as the root level content.json file of a ZeroNet site. That file is what gets downloaded by other peers to find out what other files need to be downloaded.\n\nAnd it also includes information about the user, like his ZeroID. So you don't actually need to save into the database \"this post was created by ekaterina@zeroid.bit\" because that can just be reconstructed based on the user's content.json file. The second tutorial shows how. The SQL for that looks very complex, that put me off at first, but it's actually easy once you understand all the SQL commands used in the tutorial.\n\nAnd how the database is constructed from the json data file is something you tell ZeroNet through the use of a dbschema.json file. You tell it how to map nodes in the json to tables in the database. That part is really easy. And ZeroNet then merges all the data from all the users into one database. So if I have a user profile in my json, to use your example, ZeroNet converts this into a single row in the Profiles table (or however you want to call it). Every user's profile becomes a row. That also solves by design the two problems you mentioned, having database entries that anyone can write in and only a certain user can write in.\n\nBut yeah since this is decentralized, you need to think a bit differently about things and might have to come up with tricks to solve a problem. You often need a unique ID for table rows for example, like a unique post id so that you can link other table's rows (like comments or votes) to posts, but you can't just create a number on the server that is increased by one every time a new post is created because there is no server, every user is a server. So instead each user gets his own number that is increased by one every time and then you combine that with the user's identity address (which is also the name of the user's data folder) to make that id unique. For example, let's say my identity address is md393939dmmf39. If I create a new post, it's unique ID would become 1-md393939dmmf39. My second post would be 2-md393939dmmf39, and so on. Other users will use the same numbers starting from one, but there identity address will be different, that one is unique. Check out the source of ZeroTalk, ZeroBlog and so on on Github, it's quite easy to follow and it'll teach you all of that.",
+				"added": 1456213619
+			}
+		],
+		"1_1BDTDgpyizvUDsc1hcL1pjCvXCy4ozzSFN": [
+			{
+				"comment_id": 42,
+				"body": "Everyone who uses ZeroMail gets a copy, encrypted of course so only you and the mail's recipient can read it. It uses ECIES (Elliptic Curve Integrated Encryption Scheme) and AES encryption. You send the mail by creating a file (a JSON file with the encrypted data) on your harddrive, and then telling other ZeroMail users \"hey, here's a new file, download it\". In the case that nobody else who uses ZeroMail should be online at the moment (which never happens, has lots of users), the mail would be sent to other peers as soon as you and someone else is online, until then it stays on your harddrive until you delete ZeroMail, so it will never get lost unless you delete it and nobody else already downloaded it from you. And the recipient can then download the mail from any ZeroMail user who is online when he is.",
+				"added": 1456270043
+			}
+		],
+		"3_1FzQ2ZsCgLRL4PTqPKtomrzSpKLTuNRXRo": [
+			{
+				"comment_id": 43,
+				"body": "> [zozon](#comment_109_1QBLGLcgKfcpfLmiDYuDzUKVXFfmTAew55): and I was curious to try it already ;) Angular or similar would greatly aid app dev (react? knockout? frameworks...)i hope that is in serious consideration\n\nI'm using Vue.js with no problems for [ZeroTodos](http://127.0.0.1:43110/1B8LmXYHzMGZzcRWoidAQb5SmKSyfjN63f), it's quite similar to Angular but much, much faster, smaller, easier to use and has some neat modern features from React (and optionally Redux). The website has a guide that you can go through to learn it in an evening, or here's a free screencast series: https://laracasts.com/series/learning-vue-step-by-step",
+				"added": 1456352353
+			}
+		],
+		"1_1FLf4EythVqZASkMdARs4DXdHeugh3USYq": [
+			{
+				"comment_id": 45,
+				"body": "> [noiamo](#comment_16_14XxpXNGMLsyeQxikacrbQnAFXVyhN5Ngx): Yes but chat with no functionality. It gets hard to built zeroapps you need to study and learn a lot to make something new or you have to be a very experienced web dev. Either way i keep reading and learning and maybe someday i ll make my own or someone can save me and get a framework working :)\n\nYou really don't need to learn a lot to start developing sites for ZeroNet, I would be surprised if any web dev needs more than a few hours to get started. Reading and writing files in ZeroNet is literally one line of code each, then another for publishing the file to other peers. User login is also one line of code and ZeroNet takes care of the rest, that is usually quite hard in web development IMHO (oAuth, it's like magnets, how do they work???) and in ZeroNet it's trivially easy.\n\nI am not that experienced at web dev (only been doing it as a hobby for a few years) and I made these two ZeroNet sites just fine: [ZeroTodos](http://127.0.0.1:43110/1B8LmXYHzMGZzcRWoidAQb5SmKSyfjN63f) and [ZeroQuotes](http://127.0.0.1:43110/1NJyPoPpL8At17T6G7A1qHVQdqZDBmXcLT). The latter is basically 90% what you learn in the tutorial, I made it while following the tutorial closely and just changed a few small things to turn the chat into something else.\n\nBut you do of course need to know how to develop websites, you can't expect to be able to program without learning how to program first. A framework won't help you there, it makes some tasks easier (and some harder) but it's still programming, it just makes programming more convenient, less tedious. When you have learned web development and want to check out a framework, I'm using Vue.js for ZeroTodos, works fine with ZeroNet and is easy enough to learn in an evening (but again, only if you already know how to develop websites).",
+				"added": 1456863388
+			}
+		],
+		"1_1EUyJtat7mbu5wMcR6nrJTPBBRons1mtMA": [
+			{
+				"comment_id": 46,
+				"body": "September last year, saw it in a comment on Hacker News together with a bunch of other decentralized networks and ZeroNet was the coolest by far. I've only really started using it daily a few weeks ago though because it wasn't that active before. But now there are a lot more people and even more after today's Torrentfreak article.\n\nIf some of the people who came here today to check out ZeroNet decide to stay, there will finally be something to actually do on ZeroNet :) It's always the chicken and egg problem, you only get new users if there is content for them to enjoy but you need users who create content in the first place, new ZeroNet sites, posting in the forum, etc. I really do hope people give it a chance, it is such a great project, it's really easy to create ZeroNet sites, the potential is huge. There is also going to be a fully decentralized Twitter clone \"ZeroMe\" coming soon.",
+				"added": 1456903364
+			},
+			{
+				"comment_id": 53,
+				"body": "> [b3nis](#comment_12_1HwYER58xAxchBDL6WKRqKuPZzmwSvMwjY): there's a HN article now?\n\nLooks like it, oh boy, more users incoming I guess :)\n\nhttps://news.ycombinator.com/item?id=11210590",
+				"added": 1456942187
+			},
+			{
+				"comment_id": 61,
+				"body": "> [v64](#comment_2_1PJVSC1FHaZpkkbZqVGJcMrKrYTGmYN6rM): This is how I found it. Quite a cool technical feat and very polished UI :)\n\nYeah it works so well, even the huge influx of new users these past two days didn't make it slower (even over Tor), it just works, and this is a one year old (since first release no idea how long he worked on it before it) one dev project which makes it even more awesome, what a single person can achieve. It's a very simple idea at it's core, combining existing technologies (Bitcoin crypto + Bittorrent + Tor) to create something new instead of creating something from scratch with a big team of developers and many years of work. And the result, since the technologies used are already mature, is just really great to use, this is by far the fastest and most useable decentralized network I've seen. Sometimes, a simple design can be very powerful indeed. The dev seems to have a knack for these simple yet powerful ideas I wouldn't even have thought of but when you see it, it makes perfect sense.",
+				"added": 1457002227
+			}
+		],
+		"1_15zfQw1PPLNRYGUtuzTj1LN5hX6K24rUnY": [
+			{
+				"comment_id": 47,
+				"body": "One thing worth knowing: If you install Namecoin and register your domain yourself it only costs a few cents per domain. You do have to download the Namecoin blockchain though which takes many hours (having an SSD helps a lot). There are namecoin faucets you can use to get enough Namecoin to register the domain for free. If you go through a registrar instead they take care of all that for you but you will have to pay a few dollars from what I've seen, so it's really worth it to use Namecoin yourself, if you have the patience to do so.\n\nI'm not sure if domains are such a good idea though (just my opinion, to each his own, and I'm not fully decided on this yet). You only own them for a year, if you don't renew it (because you forgot to or abandon ZeroNet) the link to your site will stop working. The long hash you get as an address from ZeroNet by default might not be as nice and short as a domain, but it will work forever, so there will never be dead links. That is a neat feature that you get from a decentralized network for free. One option to get around this might be to tell people to bookmark the hash link and use the domain name only if they enter it by hand.",
+				"added": 1456904380
+			},
+			{
+				"comment_id": 48,
+				"body": "> [kaffie](#comment_12_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh): There really needs to be a built-in solution to cleaner domain names. NameCoin isn't really a good solution, since it relies too much outside the ZeroNet network. NameCoin dies for whatever reason? No more domain names.\n\nThat's a pretty low risk though since Namecoin is decentralized too and it has been one of the most popular crypto currency coins for many years. If there are only 10 people left using it, Namecoin will still work. If ZeroNet were to integrate domain registration, it would need a transaction history so it would need it's own blockchain and I'm not a fan of that. Blockchains get way too big too fast, in a year it would already take hours to install ZeroNet and then days, which would seriously hinder adoption. The other option would be a central server for domains which is of course not a good solution since then you are beholden to a central authority. I believe (and I might be totally wrong) that's how ZeroID works, with the idea that at some point anyone can make his own ZeroID service that other people can use so that there are at least a few different choices, still a tradeoff from full decentralization though.",
+				"added": 1456905871
+			}
+		],
+		"1_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": [
+			{
+				"comment_id": 49,
+				"body": "You can ask the site administrator to raise your limit when you get near it (it will even tell you once it's about 80% full), in this case that would be nofish. But yeah the limit is quite low for a forum where you write a lot of text, I'm at 42.8kb right now, nofish raised my limit to 100kb. But I think I will reach that limit again in another month or so :)",
+				"added": 1456906382
+			}
+		],
+		"2_1PX7VW6xfccTT2tNUTwrYKJpGsGfrnoJfP": [
+			{
+				"comment_id": 50,
+				"body": "> [kaffie](#comment_16_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh): I don't really follow that kind of stuff. I just figured that there'd be a lot of astronauts in space doing space stuff for whatever reason. I was expecting like 20-30 or somewhere around there.\n\nIf only it were that many, but no, space agencies have a tiny budget, NASA's budget was cut so much they had to pay Russia to get astronauts into space. And even that small budget (half a billion right now IIRC) gets people up in arms, crying it's a waste of tax money, as if wasting trillions on wars is somehow better.",
+				"added": 1456907390
+			}
+		],
+		"1_14TaqTfnP3spTKup7oay3T6EnKArDnijDG": [
+			{
+				"comment_id": 51,
+				"body": "If you mean ZeroNet, click on the ZeroNet icon in the top right corner to get back to ZeroHome. There, in the top left next to Hello ZeroNet_ click on the 3 vertical dots, then Shut down ZeroNet. Or if you started ZeroNet from the command line just press Ctrl + C in the terminal window.",
+				"added": 1456929617
+			},
+			{
+				"comment_id": 81,
+				"body": "> [tamparada](#comment_1_14TaqTfnP3spTKup7oay3T6EnKArDnijDG): There is no command prompt (no-one on windows uses command prompts since windows 95)\n\nProgrammers still use command prompts, yes even on Windows as recent as Windows 10. Never heard of Microsoft's Powershell? Quite popular.\n\nAs for Tor, does it say \"Tor: OK\" or \"Tor: Always\" on ZeroHome? You need the latter if you want everything to go through Tor, the former just means that your ZeroNet can talk to Tor peers. You can click on it to change it.",
+				"added": 1457094350
+			}
+		],
+		"1_1BdMXBp831M7V2CRJ6CwQGRuLA6PPpcxK8": [
+			{
+				"comment_id": 52,
+				"body": "Since it's decentralized they can't dismantle it, would have to be a world wide coordination to get every single user of a ZeroNet site to shut it down. You can even host your git repository on ZeroNet so that nobody can shut the source code repository down (a Github like site to view repositories is also planned I've heard).\n\nAs for illegal content, you only share the sites you visit, so they can go after these people specifically, they don't have any reasonable excuse for shutting the whole system down, nobody who doesn't visit ZeroNet sites with illegal content helps distributing it. It's not like Freenet or I2P where you can't control what gets uploaded/downloaded from/to your computer.",
+				"added": 1456941535
+			},
+			{
+				"comment_id": 54,
+				"body": "> [zerobunker](#comment_97_168qV1Xxp2EyszrzdECLUwXrn9wGYjDdar): its simple if the website host childporn,delete them.less seeder is better.media can get angry to us just like they get angry at TOR.i think there is a way to limit some user by their ID but maybe we need dev to explain that,and also you can limit what type of file user can post.\n\nYes a site owner can ban users by adding their ZeroID to a site's content.json file. That does mean the site owner can censor things, he can even assign moderators who also can censor things, but you can clone a site to get rid of the site owner if he misbehaves and starts to censor for political reasons for example. And nofish also mentioned some further ideas to combat censorship for a future version of ZeroNet.",
+				"added": 1456945200
+			}
+		],
+		"1_18C3QMMDj9vRcw6j6bNwb77cX4unMBq6QF": [
+			{
+				"comment_id": 55,
+				"body": "If you just want a blog you can click on the 3 vertical dots next to ZeroBlog in the list of ZeroNet sites, then click on \"Clone\". If you want to develop your own sites (which is really easy if you're a web dev), there is a two part tutorial in the sidebar of ZeroBlog which teaches you how to create a chat website and everything you need to know for your own ideas.",
+				"added": 1456946301
+			},
+			{
+				"comment_id": 56,
+				"body": "> [mod](#comment_6_1GCsW9TFfjDsvcdmKPADq1n8Q3ha72UtDQ): When I try to clone the blog, I get this error: \"This function is disabled on this proxy\"\n\nYou have to actually install ZeroNet on your computer first if you want to create a site. The proxies like http://bit.no.com:43110 are more useful for just trying ZeroNet out. Or did you somehow turn your ZeroNet installation into a proxy? If so, no idea how that works.",
+				"added": 1456949916
+			},
+			{
+				"comment_id": 59,
+				"body": "> [mod](#comment_7_1GCsW9TFfjDsvcdmKPADq1n8Q3ha72UtDQ): I'm using the ZeroBundle. Is there an installer?\n\nNo installer you just download it and put the folder somewhere. No idea why cloning doesn't work for you. When nofish sees this thread I'm sure he'll be able to figure it out.",
+				"added": 1456952263
+			}
+		],
+		"1_1yq6ABe15TborB8sGQb1pGcZgUd6eu3WJ": [
+			{
+				"comment_id": 57,
+				"body": "You don't need to use a domain, you can just use the hash of a site to link to it. Might not be as pretty, but has a number of advantages.",
+				"added": 1456950156
+			}
+		],
+		"1_1BzUT9qFow1JG6GGk1cHiBHPq4qTyXwys4": [
+			{
+				"comment_id": 58,
+				"body": "There is a new feature in ZeroNet called optional files, only files your browser actually requests get downloaded, here is an example site using it for GIFs: http://127.0.0.1:43110/1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h\n\nAnd people who want to can use the ZeroNet sidebar to tell ZeroNet to download and seed all optional files, to help seed the whole site.\n\nHowever, large files (> ~1mb) aren't supported yet, so no ZeroTube for now.",
+				"added": 1456951657
+			}
+		],
+		"1_1LcaN7rwjqypHivGDHqnX4FXtrG6RKBe7w": [
+			{
+				"comment_id": 62,
+				"body": "Also worth noting, I haven't noticed any downsides to just turning ZeroNet on when I want to use it and turning it off afterwards, the startup until new files get downloaded is so short (just a few seconds) there would be no advantage to having it run 24/7 other than helping to seed sites of course. I'm using it on a laptop right now and hibernation also works well with ZeroNet. If you close the lid of your laptop while ZeroNet is running and open it a few hours later, ZeroNet notices that (can be seen in the console), reconnects to peers and everything works after again just a few seconds.",
+				"added": 1457002596
+			}
+		],
+		"1_1Ch2Q1jPeM6pspyNZ28AA73v51wjYLSd3q": [
+			{
+				"comment_id": 63,
+				"body": "> [pycole](#comment_45_1KwTTgPRSTHFmmJAFBt6kQfdyNeSM5KJuH): Two posts, one in Hackernews and one on TorrentFreak seems to be the sources.\n> This is a good thing. More peers = more redundancy--even if it does mean more noobs asking questions that have already been answered.\n\nI've heard it was also Slashdotted, haven't checked myself though, never saw the appeal in Slashdot.\n\nI've been answering so many questions here and in ZeroBoard and the Tutorial chat yesterday :) Insane how many new users are here now. I can only imagine what a crazy (but hopefully joyful) day it must have been for nofish :)\n\nI encourage everyone who is already a bit experienced to help people out as best you can, even if it should get annoying (IMHO it's fun though, finally lots of things to talk about and do on ZeroNet), it'll be really worth it when ZeroNet keeps growing thanks to this. This was just the first wave, when people have a good experience and tell all their friends about it and mention it in comments on other websites, the next wave can quickly get even bigger.",
+				"added": 1457003438
+			}
+		],
+		"5_1PX7VW6xfccTT2tNUTwrYKJpGsGfrnoJfP": [
+			{
+				"comment_id": 64,
+				"body": "ZeroNet lets you create and host dynamic websites, Ethereum lets you write smart contracts, it's basically server side programming. You could use it to create a decentralized list of usernames and let people create new usernames while making it impossible to create a username that already exists. Stuff that's usually done on a server for a website, but thanks to Ethereum fully decentralized without a server. It doesn't host files/websites or allow you to do any client side JavaScript programming. So Ethereum is only useful if you use it in combination with other technologies, I'm sure it will come in handy for some types of ZeroNet sites as well.",
+				"added": 1457003932
+			}
+		],
+		"2_1GCsW9TFfjDsvcdmKPADq1n8Q3ha72UtDQ": [
+			{
+				"comment_id": 65,
+				"body": "CoffeeScript. To be fair, other than JavaScript I'm not experienced with any other :) Just dabbled a tiny bit with Python and Go tutorials. And I'm checking out Nim. Nim seems to be as easy as Python (syntax is very similar) but as powerful as Rust judging by my very unscientific method of looking at tutorials and articles. Which is great because Rust is probably not meant to be used by humans. More like huge brains with feet attached somewhere I guess.",
+				"added": 1457008349
+			}
+		],
+		"1_1PeCNnnCzJoLGn8bfcAUsWydeiERdHwdLu": [
+			{
+				"comment_id": 66,
+				"body": "> [antiphase](#comment_19_1NoRNknY1JbJ8nMdn88LwczyMDFnR1GtNw): Reporting time does open a new possibility for peer fingerprinting however.\n\nHmm it could randomly add a few milliseconds, it doesn't have to be THAT exact, right? It just needs to prevent people from having their clock set wrong by hours.",
+				"added": 1457008562
+			}
+		],
+		"1_15ymkjUYJS6tjUC35AekGMExZMN6iks8ma": [
+			{
+				"comment_id": 67,
+				"body": "> [dirtydem](#comment_4_19gFBQKVBoGDvewv8JLmYDa8ZQGvVTUhhL): You could save the main menu of ZeroNet as a favourite site and open it up only In Tor, use the regular browser for everything else\n> Personally I'm using Chrome here, I would only change if I'd see it as a very recommend step for privacy, but for the moment...\n\nIt **is** recommended to use the ZeroNet client through Tor and the ZeroNet sites through TorBrowser if you want privacy, so in effect you will be running Tor twice, once for ZeroNet and once for the browser. This way, if a ZeroNet site you visit requests a resource from the normal internet outside of ZeroNet (because the site creator didn't know any better or is malicious), your IP isn't leaked. Unless you use a VPN that masks your whole internet traffic, then of course your VPN provider's IP would be leaked, not your own.\n\nIt is also possible to run your browser in a virtual machine without internet access while you have the ZeroNet client running on your host OS with internet access. That is probably the most secure, even potential security exploits can't cause any harm then since there is no internet, only the ZeroNet API that can talk to the Host OS to download/upload using ZeroNet only. It's always a tradeoff between convenience and security, you need to decide for yourself how big your threat model is so how elaborate your security needs to be, I'm sure there are even more insane lengths you can go to to make it even more secure :)\n\nIf you do decide to use Tor Browser (I started out using Chrome and then switched myself), you need to configure it once to allow direct access to your local host to make it work with ZeroNet. Preferences/Advanced/Network/Connection/Settings/No Proxy for -> enter 127.0.0.1",
+				"added": 1457030704
+			},
+			{
+				"comment_id": 72,
+				"body": "> [dirtydem](#comment_6_19gFBQKVBoGDvewv8JLmYDa8ZQGvVTUhhL)\n\nThat is the big question :) In theory Safe Harbor (and similar laws outside the US) should protect you from being liable for hosting illegal content posted by other people you had no control over. Lawyers can give you an opinion on that, a supreme court would have to decide for sure.\n\nDecentralization is only now getting really popular, so there haven't been many court cases yet. I do know a German lawyer looked at I2P for example and said it's fine legally but there were one or two concerning related court cases where the judge has (in the lawyer's opinion) ruled wrongly.\n\nAnd of course decentralized networks in General and ZeroNet in particular are tiny, begs the question if there is even any real interest to go after people on these when there are tons of much bigger and easier targets.\n\nBut that's why you have to decide for yourself, nobody can really tell you for sure. There is always a risk and if you can't live with that risk, take more security measures to lower the risk. ZeroNet's dev said about 40% of peers use Tor at the moment (that was before the Torrentfreak article and the huge amount of new users), which means that 60% of people don't use any security measures at all, to them the risk is too low to care. If they are right about that is another question.",
+				"added": 1457041969
+			}
+		],
+		"2_1CGidpguPpSkqbX3c19P5NUtipRzLJenX": [
+			{
+				"comment_id": 68,
+				"body": "Cloning is not enabled by default. The site creator has to make his site cloneable by providing some default data the newly cloned site would start with and then editing a config file to allow cloning, if he wants to allow cloning that is.",
+				"added": 1457031615
+			}
+		],
+		"1_1HcCbQWH3xuquT5Z2S4nTk7fqAyoM2AWpi": [
+			{
+				"comment_id": 69,
+				"body": "> [crypton](#comment_7_17fgJ3tZjhM7HCkTkd5TWf2BLLWmhRKcXB): So you modified your localhost files that exist on your own machine?  Is that what you are telling us you hacked?  Because if you actually hacked something  EVERYONE would be seeing what you are seeing.  Or did I misunderstand what you are trying to provide a proof for?\n\nWell, the proxy should not have allowed him to do that, that feature should be disabled, but yeah it only affects that particular proxy, not a single other ZeroNet user, he hasn't hacked anything :)\n\nZeroNet does use cryptography to check if a site was modified by the person who is allowed to do it (meaning who has the private key for the particular site), other peers will not download these changes.",
+				"added": 1457033483
+			},
+			{
+				"comment_id": 70,
+				"body": "> [cub3](#comment_3_1LRrd96P7FiTcsyNXVzPM5jtpQoH1B4gYf): Even though crypton is right I find the UI to be confusing, what are those options supposed to do?\n\nJust like the option says, it tells ZeroNet that you own the site so that the sidebar shows you additional options to conveniently change some settings without having to edit the config files. But you do need the private key for the site to publish any changes you make.",
+				"added": 1457033695
+			},
+			{
+				"comment_id": 71,
+				"body": "> [a1r2t](#comment_1_1HcCbQWH3xuquT5Z2S4nTk7fqAyoM2AWpi): See :D http://bit.no.com:43110/1HeLLo4uzjaLetFx6NH3PMwFP3qbRbTf3D\n> yep, it affect proxies, which are peers also :D so have a nice play :D see ya soon on other hack, and watch you machines for processes ;) love zeronet, so we can get more ips :D\n\nYes but you do realize that you basically went into an IRC chat, told people \"I'm a great 1337 hacker\" and someone told you \"Oh yeah, show me, hack me, my IP is 127.0.0.1\" and after a few hours you came back and said \"Shit, I just formatted my own harddrive!\" :P Like crypton said you changed the local files of the proxy, you did not get another peer to accept the changes.\n\nSorry, that is of course a bit exaggerated, no offense meant, just joking around :) It is good that you found this problem so whoever owns that proxy can fix it. It's just not a problem for anyone who actually uses ZeroNet.\n\nAnd really calling this hacking is like calling microwaving food cooking.",
+				"added": 1457034289
+			}
+		],
+		"1_1LnyrYbdxDU1K78nEYVZkfJ1Q4SYP1ukFV": [
+			{
+				"comment_id": 73,
+				"body": "> [b3nis](#comment_13_1HwYER58xAxchBDL6WKRqKuPZzmwSvMwjY): it's called \"not upvoting\"\n\nI prefer that. Downvotes are always abused to censor opinions (see Reddit). There does have to be something for spam at some point though and I'm not sure if there is an alternative to a downvote button that works decentralized/democratically.",
+				"added": 1457043294
+			}
+		],
+		"1_17ApQKugX1XH727gpAeD3mrRLjLxASdakd": [
+			{
+				"comment_id": 74,
+				"body": "ZeroMe is coming soon, a Twitter clone. If I understand it correctly (see ZeroBlog) at the end of this month. To make this scalable a feature called \"merger sites\" needs to be implemented first, basically every profile becomes it's own ZeroNet site so you only download and seed the content from people you follow.\n\nYou can find a bit of discussion and info on the [blog post](http://127.0.0.1:43110/Blog.ZeroNetwork.bit/?Post:73:Changelog,+February+24,+2016) and on [Github](https://github.com/HelloZeroNet/ZeroNet/issues/232).",
+				"added": 1457080870
+			},
+			{
+				"comment_id": 77,
+				"body": "> [perception](#comment_10_1CL2jU9pTjtMasNihDK3JCofdPWq2ZVGuu): This is pure genius.\n\nYeah, it's a simple but powerful idea, nofish has a knack for coming up with those :) Not only does this mean ZeroNet sites can scale infinitely and work no matter how many people use them (without needing a data center full of harddrives in your house), it also means you again get to decide which content you share. Don't want to share illegal content? Don't follow people who share illegal content.",
+				"added": 1457083604
+			}
+		],
+		"1_1MhL8nWAcuB5YxbhyYgEHNvsToUtQutRVs": [
+			{
+				"comment_id": 75,
+				"body": "> [nightenticer](#comment_7_1MhL8nWAcuB5YxbhyYgEHNvsToUtQutRVs):\n> But, I guess all I'm wondering now is who to contact if/when you run out? \n\nnofish, he is the owner of this site and the creator of ZeroNet. There will also be a message next to the display of the limit telling you to contact him when you reach 80% or so of the limit. So when the time comes you can just write him a quick ZeroMail, I did that a couple of days ago and got my limit raised.",
+				"added": 1457081827
+			}
+		],
+		"1_18NAazqd14AcVXdCqN29NTUrxSLGyPy5gB": [
+			{
+				"comment_id": 76,
+				"body": "No, ZeroNet doesn't support big files right now (only about 1 Mb, but the actual limit is a timeout for downloads, if a download takes longer it's canceled) and it's unclear if it ever will since so many people use Tor with ZeroNet and that would waste Tor's already small amount of bandwidth. Might have to integrate with an additional decentralized network focusing on file storage, like IPFS or Storj (and I'm sure there are more, lots of interest in this tech now) for streaming and downloading bigger files.",
+				"added": 1457082271
+			},
+			{
+				"comment_id": 78,
+				"body": "> [cub3](#comment_4_1LRrd96P7FiTcsyNXVzPM5jtpQoH1B4gYf): Is the tor bandwidth the only reason we can't stream big files over ZeroNet?\n\nIt's the last I saw nofish, the ZeroNet dev, say somewhere here on ZeroTalk about it. There is a technical reason too, I think files are shared as a whole right now, not broken into small chunks like they usually are with Bittorrent (but don't quote me on that). Something like that. But that will change later on in a future version of ZeroNet as I understand it, the Tor thing seems to be the main reason.\n\nYeah it's unfortunate, but ZeroNet is young, decentralization is young, someone will figure something out eventually and then ZeroNet can implement that idea. As for IPFS, you could always use a VPN instead of Tor, so it would work fine, I'm more concerned about IPFS pro-censorship stance. They have a code of conduct covering usernames, on and offline behavior and the use of their http gateways and plan to create a (for now) optional blacklist of files.",
+				"added": 1457086939
+			},
+			{
+				"comment_id": 79,
+				"body": "> [h3ndr1x](#comment_4_1Pfbvp2DhbVrjAYSPaUaucJc6nZsxMpeK9): What about embedding web players from 3rd parties such as YouTube,  SoundCloud, etc.? Are those affected by Tor as well?\n\nOnly if you use TorBrowser, which you should if you want to be anonymous (unless you use a VPN then you are already anonymous of course).",
+				"added": 1457087344
+			},
+			{
+				"comment_id": 80,
+				"body": "> [h3ndr1x](#comment_5_1Pfbvp2DhbVrjAYSPaUaucJc6nZsxMpeK9): Cool. I was curious because I plan on making my own site from scratch and may upload content elsewhere until ZN can handle larger files.\n\nThere is one caveat, I think embeds like the things you mentioned should work (haven't tried it though), but anything that uses Ajax requests to load data doesn't work right now, that's disabled for security reasons, only loading data through the ZeroNet API is allowed. Cookies also don't work for security reasons. Other than that anything that works on normal websites should work on ZeroNet sites I believe. But it's easiest to just try it out, creating a ZeroNet site is very easy, easier than a normal website IMHO, no need to deal with FTP/SSH or any of that, just one simple command to create a new site, one command to update it after you made changes.",
+				"added": 1457088276
+			}
+		],
+		"2_17PhTjw3o2wPhxyKeM3Ss975eWZ1UMsjQC": [
+			{
+				"comment_id": 82,
+				"body": "> [odd](#comment_11_1EMpuiFM1NLZmAVyoAWnwi8VwiZVV4dcnN):\n> Ideally ZeroNet would encrypt the data files on disk.\n\nYou could always encrypt the ZeroNet folder yourself and unlock it before you start it, doesn't need to be built in to ZeroNet, you can do this right now using VeraCrypt or something your operating system provides.",
+				"added": 1457180001
+			}
+		],
+		"3_1LRrd96P7FiTcsyNXVzPM5jtpQoH1B4gYf": [
+			{
+				"comment_id": 83,
+				"body": "Takes half an hour to learn enough CoffeeScript to get by, it's just a different syntax, not a different language. What you can also do is go to http://coffeescript.org/ and click on \"TRY COFFEESCRIPT\" in the menu at the top. Any code you type or paste in the left will be translated live to the corresponding JavaScript on the right, so you could paste examples in there to see how you'd do it in JavaScript.",
+				"added": 1457182598
+			}
+		],
+		"2_1PtoWgfjhzMK8qz1eTVG3QsawNQ4DL8c8Y": [
+			{
+				"comment_id": 84,
+				"body": "When you write a comment or vote on something, that information is written to a text file called data.json by the website. Every user of a ZeroNet site has a content.json file which other peers download, in that content.json is a link to all files a user created including that data.json file with your comments (and for other sites there might also be pictures, or additional JSON files, etc). Other peers then download this data.json file they found in content.json to get your comments and votes. ZeroNet can automatically create an SQLite database from all those different users' data.json files to turn everything into one big SQL database with all comments from all users, for display on the site.\n\nYou can also listen for certain events, like when your ZeroNet client just downloaded a new data.json file you can make your site update in real time with the new content, without the user having to reload. It's all extremely easy for the programmer, ZeroNet takes care of the actual work.\n\nTry opening this folder: YourZeroNetFolder/data/1BLogC9LN4oPDcruNz3qo1ysa133E9AGg8/data/users/ and go into one of the folders there and open a data.json file with a text editor to see how this looks for ZeroBlog.\n\nFor more technical details, check out the two part site development tutorial on ZeroBlog which teaches you to create a chat application, works the same as comments and votes do.",
+				"added": 1457209522
+			}
+		],
+		"1_1PtoWgfjhzMK8qz1eTVG3QsawNQ4DL8c8Y": [
+			{
+				"comment_id": 85,
+				"body": "As I understand it from looking through the source code: Your mail is encrypted and written to a text file, which is then downloaded by all other ZeroMail users, so everyone has everyone's mails but can't read them since they are encrypted. The recipient is the only one who knows how to decrypt the mail addressed to him (a public key used for encryption is shared the same way, before your first mail to that person is sent).\n\nIt makes use of both ECIES (Elliptic Curve Integrated Encryption Scheme) and AES encryption, I believe one is used for sharing the public key to use and the other for actually encrypting the mail, not sure why two different systems are used here, I'm not that experienced with cryptography.\n\nZeroMail's encryption functionality is built into the ZeroNet API so you can easily use it for your own sites, I used it for one of mine. Encrypting for just the current user, without the public key exchange part which I don't fully understand, is just one line of code, couldn't be any easier.",
+				"added": 1457211948
+			},
+			{
+				"comment_id": 86,
+				"body": "> [nofish](#comment_433_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj)\n\nAh good to know, thanks for the link! For my site ECIES seems fast enough on my netbook, feels instant. But it's a lot less involved than ZeroMail :)",
+				"added": 1457213244
+			}
+		],
+		"4_1LRrd96P7FiTcsyNXVzPM5jtpQoH1B4gYf": [
+			{
+				"comment_id": 87,
+				"body": "Deleting the private key and loosing the ability to update the site sounds extremely inconvenient, that's more of a last resort. I guess ideally, nobody would ever find out who is the owner of the site, so can't be asked to delete it in the first place, which in theory is the case if you use Tor (bugs are always a possibility of course). However, it is a problem if you don't want to be anonymous, if you want people to know your identity for political or other reasons. In that case, maybe a system where you hold onto a friend's private key and he to yours could work, so you always let your friend sign your updates and deny that such a deal with a friend exists if asked.",
+				"added": 1457257198
+			}
+		],
+		"1_17oYQdLkvyzEVPH3hXRtK3ru4FLNKZUD3b": [
+			{
+				"comment_id": 88,
+				"body": "Some great ideas here, but please be careful about any ideas where the majority of people decides for everyone else, things like downvotes. Anyone who used Reddit for some time knows downvotes get abused. And the majority of people are sometimes idiots. Look back at history to see some of the majority decisions/beliefs that were terrible in hindsight. Slavery, genocides, killing all heathens, homophobia (which is still the majority in some countries), etc. We are not different today and we won't be any different tomorrow, we will always fuck up and hopefully learn from our mistakes. There always needs to be a place for the truth, for ideas that challenge the status quo, even if it is unpopular at the moment. If even a decentralized system starts censoring, we are well and truly fucked as a society. \n\nThere are things I want to censor for myself, illegal porn comes to mind, yes we need better tools for that eventually, I don't want to seed that stuff, but do you really want yet another tool where someone can censor things for everyone else? We already have that, it's called the (centralized) internet. Empower the user to choose what he wants to censor, don't take away his freedom by imposing censorship on him.",
+				"added": 1457285203
+			}
+		],
+		"8_1MEWJRMLgvofqG9Mbsb2Rc4hFFyv7HeRx7": [
+			{
+				"comment_id": 89,
+				"body": "The site owner is whoever has the private key for the site. You can open the ZeroNet sidebar on a site (drag the 0 in the top right corner to the left) and toggle \"This is my site\" to get all the additional options the site owner usually has, and then just enter the private key whenever you make any changes, either like crypton said from the command line or in the sidebar by clicking on the Sign and Publish buttons.",
+				"added": 1457287573
+			}
+		],
+		"3_1HcK5Hw1rPZeYdgTmqJGrVG2tSyR9Ke2Gt": [
+			{
+				"comment_id": 91,
+				"body": "If this is about tracking people by putting resources from the clearnet (normal internet) onto a ZeroNet site, it is recommended to use TorBrowser when visiting ZeroNet sites in addition to running the ZeroNet client through Tor (or use a VPN) if you want to be anonymous, so that this doesn't leak your IP.",
+				"added": 1457390265
+			}
+		],
+		"5_1EMpuiFM1NLZmAVyoAWnwi8VwiZVV4dcnN": [
+			{
+				"comment_id": 93,
+				"body": "And that's the cool thing about direct links to polls, now I get free advertising for my site ;)\n\nI would say definitely ZeroNet at this point. IPFS has a lot of momentum behind it and will support dynamic sites at some point in the future (using IPNS), but since they [censor](https://github.com/ipfs/community/blob/master/code-of-conduct.md) I don't think it will go anywhere in the long term. I assume most people who want to use a decentralized network do so because they want to get rid of censorship. I hope they change their stance at some point, but for now it's uninteresting to me.\n\nThe first public test version of MaidSafe comes out this month I think, we'll have to see if it is better than ZeroNet, it's been in development for a decade and was often decried as vaporware because of that, but I will try it out for sure, I crowdfunded it. Freenet I don't like, you can't choose what content you seed, could be all kinds of illegal data going through your internet connection. Morphis hasn't been updated in a while (half a year I believe), never tried it out because it's website is so overly enthusiastic about Morphis that it made me wary of it.",
+				"added": 1457439261
+			}
+		],
+		"2_1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD": [
+			{
+				"comment_id": 94,
+				"body": "> [cub3](#comment_24_1LRrd96P7FiTcsyNXVzPM5jtpQoH1B4gYf): I don't see that message, the link works as expected on my side.\n\nNow that is weird! :) Maybe it only happens in Tor Browser.",
+				"added": 1457461455
+			},
+			{
+				"comment_id": 95,
+				"body": "> [nofish](#comment_457_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): works for me too, it usually happens when open links to new tab (by target=_blank), it's not supported currently\n\nWeird. I'm on the newest ZeroNet version too. It does seem to only happen in Tor Browser, just tested it in Chrome and there it doesn't happen.",
+				"added": 1457461584
+			},
+			{
+				"comment_id": 96,
+				"body": "> [nofish](#comment_458_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj):\n> or add target=\"_top\" to the link\n\nAwesome, `target=\"_top\"` works, thanks! :)",
+				"added": 1457462104
+			},
+			{
+				"comment_id": 97,
+				"body": "> [nofish](#comment_459_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): Nice, please also add body {backface-visibility: hidden; } to your css (the scrolling is choppy without it on chrome for me)\n\nIt is already added, the user hello told me about it yesterday while linking to your post about it, scrolling is perfectly smooth on Chrome (Linux, Beta channel) for me :)",
+				"added": 1457466442
+			}
+		],
+		"1_1E5qiz3ku3EzkMaUSj7mSSVJGtecNTGtBj": [
+			{
+				"comment_id": 98,
+				"body": "As long as the site is client side only (pure JavaScript, no PHP server side stuff since there is no server) and doesn't use cookies or AJAX it should work fine on ZeroNet. The server side stuff gets replaced by using ZeroNet's API from JavaScript, which lets you read and write files and publish them to other peers, or query the database for example. ZeroBlog has a two part tutorial in it's sidebar with details.",
+				"added": 1457496792
+			}
+		],
+		"1_1LJoVy98WbuHAVPb9nqKDLz4AWEiLqmvqh": [
+			{
+				"comment_id": 99,
+				"body": "Just like any other ZeroNet site (https://zeronet.readthedocs.org/en/latest/using_zeronet/create_new_site/) as far as I know, haven't tried it yet but I can't think of a reason why it shouldn't work.\n\nYou can't view it as a website with code browser in ZeroNet yet, but that is coming from what I heard. If it's source code for your ZeroNet site, you could just upload the git repository with it so that every user has a copy.\n\nOtherwise, if you just want to work with a specific set of other people on a project, you would give the link to these people directly. They would then clone the repository from their local ZeroNet folder to work on it and push changes when they are ready. You would also need to add them as additional signers in the site's content.json file, so  that after pushing changes they can sign the site to upload the changes to everyone else.\n\nAgain, in theory, haven't tried it but that's how I believe it could work.",
+				"added": 1457548340
+			}
+		],
+		"3_1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD": [
+			{
+				"comment_id": 100,
+				"body": "> [nofish](#comment_467_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): Remove user's posts from data/users/useraddress/data.json\n> Sign & publish data/users/useraddress/content.json\n> Ban user at data/users/content.json\n> Sign & Publish data/users/content.json\n\nAh, now it worked, thanks! So I did it in the wrong order. You need to remove the comments first and THEN add the person's ID to the content.json.",
+				"added": 1457561400
+			}
+		],
+		"2_1GtJqyJRsuZhmxVtw5USgvqGbUmVH7EmBD": [
+			{
+				"comment_id": 101,
+				"body": "> [superunderscore](#comment_1_177G8DJ9ertUrjbPe2qyMCt6F7jBwrDuWx): unfortunately ZeroPolls never works for me, it just stays blank.\n\nHuh that's weird, haven't heard of any problem like that yet. The only reason I can think of why it would stay blank only for you is that maybe you have a browser plugin that blocks some kinds of JavaScript. I use a framework for the site (Vue.js) which blanks the site until all HTML templates were processed with JavaScript.",
+				"added": 1457602198
+			},
+			{
+				"comment_id": 104,
+				"body": "> [superunderscore](#comment_2_177G8DJ9ertUrjbPe2qyMCt6F7jBwrDuWx): I've just tried another browser and noticed the problem only occurs on Microsoft Edge (I know). Guess I'll just also use FireFox on Windows now.\n\nOh then it might be tons of reasons, I don't support Microsoft browsers at all, sorry. I do test my ZeroNet sites in Chrome and Firefox / Tor Browser. Other than that it might or might not work. Apple's Safari has some issues too that I haven't worked out yet, since it's not cross platform I can't install it to try it out, I'm on Linux.",
+				"added": 1457605570
+			},
+			{
+				"comment_id": 105,
+				"body": "> [superunderscore](#comment_3_177G8DJ9ertUrjbPe2qyMCt6F7jBwrDuWx):  If Chromium has the same startup-speed on Windows as it has on Linux I might use that.\n\nUnless that has changed (and it might, has been years since I used Windows), Chrome loads in the background right after booting Windows, so if everything is working fine it should open instantly whenever you click on it.",
+				"added": 1457606183
+			}
+		],
+		"1_13dUD5qbY6LaXH9pfh5iDgXHgKjCZPxvZV": [
+			{
+				"comment_id": 102,
+				"body": "Nice, haven't seen that article yet, has an interview with ZeroNet's creator too :) Thanks for sharing!",
+				"added": 1457602620
+			}
+		],
+		"1_19LkvdTE3CmnUApuSwY8KGbm7n7sWCNEPC": [
+			{
+				"comment_id": 103,
+				"body": "> [pycole](#comment_67_1KwTTgPRSTHFmmJAFBt6kQfdyNeSM5KJuH)\n\nThe domain pricing is a bit weird. The Namecoin docs say it costs 0.02 namecoin to fully register a domain. However, when I registered one for a ZeroNet site it emptied my whole 0.0248 stash (received from a faucet) of namecoins. So maybe there is no exact price and it is somewhere around 0.02 namecoin.",
+				"added": 1457603013
+			}
+		],
+		"1_15SARKNuSBuSxuKe1xqevx3H3pSEep5TgR": [
+			{
+				"comment_id": 106,
+				"body": "No idea how to use it but as I understand it yes that is the feature you are looking for. Optional files only get downloaded and seeded by peers once their browser requests them, they are not downloaded by everyone. So if you display 20 pictures or so at a time with links to see more images, users would only download 20 pictures at a time, not every single one.",
+				"added": 1457612355
+			}
+		],
+		"2_1MCsyW6W243LY69ZYm99XbV3M8Gbbrp5hF": [
+			{
+				"comment_id": 107,
+				"body": "I haven't used a VPN for years but I've read up on it a bit a couple of days ago, compared a lot I found in the latest compilation from Torrentfreak, and AirVPN seemed the best option to me right now. They sound like they actually know what they are doing, have been in the business not that long but still for a few years, responded fast to emerging security issues in the past, support reviews sounded great, there is real detailed technical information on their website (and a lot of it), not marketing speak, have a cross platform client software that protects you from IP leaks if your VPN connection goes down, and maybe most importantly they are privacy activists, so I'm more inclined to trust them than other services with fancy websites and cheap prices that they don't log anything and protect your privacy.",
+				"added": 1457744986
+			}
+		],
+		"1_1AFL4FFT3BuEDwTwVqychMq4LbxjuEY5Ss": [
+			{
+				"comment_id": 108,
+				"body": "The [screenshots](http://blog.maidsafe.net/2016/02/04/maidsafe-development-update-2/) of apps they have shown look really awesome. But we'll have to see how well it actually works once they release the first version, right now there is only a development build, the first actual version should have been release already, it's a bit late it seems (blog post a month ago said in a few weeks), hopefully it will be available soon. It's really weird though that MaidSafe has been in development for a whole whopping 10 years. Why did it take that extremely long?",
+				"added": 1457746109
+			}
+		],
+		"1_14dNVE624kRnYCiLWcZmaeJCteW6txn7wA": [
+			{
+				"comment_id": 109,
+				"body": "I paid 0.0248 NMC a couple of days ago for ZeroPolls.bit, that was all I had in that wallet and everything worked fine.",
+				"added": 1457777569
+			}
+		],
+		"1_1MahZJTzjoEMMCv2jBReDWhyNGRhN5tvDq": [
+			{
+				"comment_id": 110,
+				"body": "> [piotr](#comment_8_19nb7BmBbBv1gMVrzMyL3fTkd3HaoteYF8): I dont think its competing not too many sites right now\n\nThere are hundreds of sites here already ;) Sure, most are probably of low quality or just cloned blogs and ZeroTalk forums, but there are dozens of high quality sites already. Never heard of Bitnation either, although that might just be me of course.\n\nWhat I'd much rather like to see than any additional sites, is ZeroBoard on that list either getting updated or replaced by a different chat, so people new to ZeroNet don't go there and keep finding out that that particular chat isn't fully decentralized, think this is all a scam, and then someone has to tell them it's an old and outdated demo back from when ZeroNet didn't have all the needed features yet but there are other chats that work fully decentralized.\n\nIt's also extremely wasteful when it comes to bandwidth, ZeroBoard has downloaded 3.2 Gb and uploaded 1 Gb for me, since every chat message sent means you have to download/upload all messages ever sent from everyone, not just your own chat messages like it is in more recent ZeroNet chat sites. It really shouldn't be in use anymore, although I do get the historic value since it was the very first ZeroNet site.",
+				"added": 1457778969
+			}
+		],
+		"4_1GtJqyJRsuZhmxVtw5USgvqGbUmVH7EmBD": [
+			{
+				"comment_id": 111,
+				"body": "> [nofish](#comment_486_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): Fixed!If anyone know other, active ZeroTalk clones i can add them.\n\nDo you want only ZeroTalk clones in different languages on that list, or also different kinds of ZeroTalk forums? [0List](http://127.0.0.1:43110/0list.bit) is quite active, but it's not a general forum like ZeroTalk, it's meant for submitting links to new ZeroNet sites and talking about these sites. Extremely useful to discover new ZeroNet sites, but might not fit in with the other ZeroTalk clones.",
+				"added": 1457779363
+			},
+			{
+				"comment_id": 112,
+				"body": "> [nofish](#comment_487_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj)\n\nCool, didn't see that!",
+				"added": 1457779590
+			}
+		],
+		"1_18fC8bhLr1t8PFe2PGe5JJfvYsqxWD898W": [
+			{
+				"comment_id": 113,
+				"body": "Like Kaffie said, optional files. You can declare big assets like images as optional files, these are only downloaded by the user's web browser if they are actually requested. So he won't download any pictures he doesn't look at right now. The rest of a site is just text, text is tiny, you can download a whole giant site full of text and it won't take up much space or take much time to download.\n\nEven with this however you do have the option in the ZeroNet sidebar to download all optional files. This has two advantages, first of all it lets you help seed the whole site not just a part of it (although if a site has many users that shouldn't be necessary since then a whole copy of the site would be distributed naturally among users) and it allows you to use the site fully offline. And I mean really use it, not just having a static copy of it. Comments you make on a site or other data you enter while offline would get uploaded to other peers as soon as you go online again.",
+				"added": 1457949463
+			}
+		],
+		"5_1LRrd96P7FiTcsyNXVzPM5jtpQoH1B4gYf": [
+			{
+				"comment_id": 114,
+				"body": "One word, TotallyAbsolutelyAwesome! :) Looks great, too, really nice and clean design.\n\nOne thing, when I just opened the site for the first time it showed me a dozen or so quickly vanishing messages from ZeroFrame (those that pop up in the top right corner), telling me there were changes to the site, asking me to press \"Yes\" if I want to load them. I just reloaded the site instead and then everything was fine.",
+				"added": 1457954780
+			},
+			{
+				"comment_id": 115,
+				"body": "> [kaffie](#comment_73_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh): I can't seem to connect. Can't connect with the bit.no.com:43110 proxy either.\n\nWorked for me. Do you have Tor working? Maybe it has only Tor: Always peers right now. bit.no.com doesn't have a working Tor, so it can only download from peers who have Tor but don't use the Tor: Always setting (Tor: OK instead), those peers work as a bridge between full Tor users and normal users as I understand it.",
+				"added": 1457955737
+			},
+			{
+				"comment_id": 116,
+				"body": "> [basxto](#comment_32_1PVcdu7USZH2kHMETbqDYLPjJZKCDWM52k): Please support [[wikisite|alternative naming]] and #tags / categories\n> \n> Proposal: use [☇]() to link also to the real address if you use a .bit-address\n> \n> made ZeroPolls\n\nThe ☇ doesn't show up in my Tor Browser on Linux, shows the missing Unicode symbol instead, so I'd be for a different symbol that is supported by more browsers / operating systems.",
+				"added": 1457957243
+			},
+			{
+				"comment_id": 117,
+				"body": "> [basxto](#comment_34_1PVcdu7USZH2kHMETbqDYLPjJZKCDWM52k): Do some of those 9 work? ⭸ 🡖 ⭝ ⮩ 🞆 ┇ ▚ 🖰 📎\n> Preferebly an arrow to the bottom right as oppossed to the arrow to the upper right wikipedia uses for external links.\n\n┇ ▚  📎 These three work, the others don't. From left to right I see a vertical dashed line, a checkerboard pattern and a paperclip.",
+				"added": 1457958744
+			},
+			{
+				"comment_id": 118,
+				"body": "Being able to add a short message explaining an edit that shows up on the history page would be nice. And a talk page so people can coordinate edits / fight about edits there instead of the article directly.",
+				"added": 1457961905
+			},
+			{
+				"comment_id": 119,
+				"body": "> [kaffie](#comment_76_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh): \n\nUntil there is a talk page on the wiki itself,\n\nGreat content you have added so far, but I think this line and probably the next needs to be changed, but wanted your input and okay on this first: \"Zites are designed to be entirely open source and freely cloneable\" from the article on zite(s).\n\nI'm afraid that line will confuse and misinform new ZeroNet users. Sites are not cloneable by default, it is completely optional for a site creator to allow cloning, and there is no such license in place that forces people to make their ZeroNet sites or \"zites\" open source as far as I'm aware, but to me that line implies both of these things (not a native speaker though).\n\nI'd prefer a formulation like this \"Zite owners can optionally allow cloning of their Zites\", maybe with one or two examples, and then just link the word cloning to the cloning article which explains the concept in-depth.",
+				"added": 1457964319
+			},
+			{
+				"comment_id": 120,
+				"body": "> [kaffie](#comment_77_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh):\n\nThanks for your open mind! :)\n\nYeah manual cloning is always possible, it's also copyright infringement without a license, although if Tor was used nothing could be done against that since you could never find out who exactly copied a site.\n\nI'm not a 100% on these things either, but as far as I know: The term Open Source commonly refers to a specific type and set of licenses, that is actually regulated by a foundation, it doesn't mean merely that a site's code can be read. Every website has it's source available, that's just how websites work (right click, view page source), that doesn't mean the Google website or the Microsoft website for example is open source and can be freely shared and modified by everyone.\n\nAnd don't get me wrong, of course it would be better if everything was open source and freely cloneable (where it makes sense), but open source is a niche, forcing it on people would hinder ZeroNet's mainstream adoption.",
+				"added": 1457965111
+			},
+			{
+				"comment_id": 121,
+				"body": "> [kaffie](#comment_78_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh): \n\nThat is true :) Although even ZeroNet sites can have hidden server side code. ZeroName, ZeroID, GIF Time, ZeroBoard all use Python or PHP server side code on a central node (these sites include the server side source code in the download though, so in these cases, while there is server side code, you can also read it, but that is optional, could be completely hidden from users).",
+				"added": 1457965818
+			},
+			{
+				"comment_id": 122,
+				"body": "> [kaffie](#comment_80_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh): But are they actually a part of the site?\n\nFor some of these sites you are correct, ZeroBoard however actually sends posts through a PHP script on a normal web server. Only receiving the messages is decentralized through ZeroNet. It was the first ZeroNet site and apparently ZeroNet didn't support all the necessary features back then to really create a fully decentralized chat, which ZeroNet now can easily do.",
+				"added": 1457966307
+			},
+			{
+				"comment_id": 123,
+				"body": "> [erkan](#comment_57_1H8oKiRa7fGgUqS1hpUtaSYLvAqkaknbkf): @basxto CC: yeah, not giving a licence FORCES people to ask, because it's then under normal copyright. By giving a licence one explicitly helps people reusing it faster\n\nOn the other hand, one also shouldn't force people to add an open source license if they don't want that for whatever reason. Free Software is a political ideology that most people and especially companies don't share. It's the MIT/BSD/Apache Vs GPL debate. Allow people the freedom to decide for themselves (MIT/BSD/Apache), or force everyone to make everything freely available (GPL).",
+				"added": 1457968073
+			},
+			{
+				"comment_id": 124,
+				"body": "> [erkan](#comment_58_1H8oKiRa7fGgUqS1hpUtaSYLvAqkaknbkf): @ekaterina of course, people must decide themselves. What I or others say is our opinion (only)\n\nOf course, I was just speaking in general terms , didn't mean you or anyone here directly, I just generally prefer freedom over excluding people for political reasons. If ZeroNet is to actually replace the internet / become a serious alternative, it must also be a place for companies for example, even if some people don't like companies, and that also means closed source in most cases.",
+				"added": 1457970078
+			}
+		],
+		"2_17n5jg4bBEoWodXDf8L4Y2u88ShagS272Y": [
+			{
+				"comment_id": 125,
+				"body": "Messaging works by sharing files, here on ZeroTalk the order of the messages is determined by the creation date of a post/comment written to a json file by the user which gets distributed to other peers who then combine all of these JSON files from all users into one big SQL database, which means the order of messages is determined by the time the user has set on his computer, which has lead to problems before when users haven't set their computer's clock correctly. I think for the stuff you want to do you might need to use ZeroNet in combination with something like Ethereum.",
+				"added": 1458007292
+			}
+		],
+		"1_18DiismNW8f4E4SfzTQSjni3BZu2F7drs3": [
+			{
+				"comment_id": 127,
+				"body": "You get a notification if there is a new version, it lets you click on a button and then it will automatically update. You can also manually update to the newest development version by going to ZeroHome (the site where you see the list of all the ZeroNet sites you are seeding) and in the top left, next to \"Hello ZeroNet_\" click on the 3 vertical dots. There is a button that tells you the version number (0.3.6) and the revision (the development version will have the same version number but a higher revision). Clicking that version button will update ZeroNet to the latest development version, if there is a newer version available. To see what changed you can check ZeroBlog, it lists both dev version updates and the much less frequent normal updates.",
+				"added": 1458070505
+			}
+		],
+		"8_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": [
+			{
+				"comment_id": 128,
+				"body": "Cool, could we get a link to ZeroWiki in here too? Since it is used to describe everything about ZeroNet? If there is a stickied link to it I'm sure much more people will start adding content there too to help new users out. Maybe with (Beta, Unofficial) behind the link as a disclaimer if you prefer?\n\nhttp://127.0.0.1:43110/138R53t3ZW7KDfSfxVpWUsMXgwUnsDNXLP",
+				"added": 1458070996
+			},
+			{
+				"comment_id": 129,
+				"body": "> [nofish](#comment_515_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): Sure, it's a nice site, but there is some issues for me:\n> \n> When you open it for first time it displays around 100 notification of \"This page has been updated. Do you want to load the changes?\"\n> None of the icons visible for me (win8.1 + chrome)\n\nAh yes I had that first problem too, already told cub3 about it. I might take a look at the source myself to see if I can find the issue and help. The icons issue I haven't heard yet, I'll add it to the bugs section on the wiki so cub3 can look at it.",
+				"added": 1458072626
+			}
+		],
+		"5_1NzjwWNcVjsX1ndBgkgC1EM5EUzMACGm8L": [
+			{
+				"comment_id": 130,
+				"body": "> [erkan](#comment_64_1H8oKiRa7fGgUqS1hpUtaSYLvAqkaknbkf)\n\nLOL :)\n\nFor a real answer, I would just take a look on Github at the code for ZeroBlog and ZeroTalk. It's very clean and easy to understand, it's what I did to figure this stuff out. You can find all the code for the different \"official\" sites here: https://github.com/HelloZeroNet?tab=repositories\n\nAnd also, if you haven't already, check out the two part tutorial on ZeroBlog, in the sidebar on the left. Which nofish just linked the second part of (yay, real time updates!)",
+				"added": 1458073542
+			}
+		],
+		"1_13jLz92kNNVJPG2AgUr83SzTwfsS8RUrcG": [
+			{
+				"comment_id": 132,
+				"body": "http://127.0.0.1:43110/kaffiene.bit\n\nIt shows you search results ranked by the number of peers which is very handy to find the most popular sites. It also allows you to open sites in a proxy first, so you can look at a site before seeding it yourself in case you want to be careful about seeding illegal content.\n\nThere is also a ZeroTalk clone with links to sites: http://127.0.0.1:43110/186THqMWuptrZxq1rxzpguAivK3Bs6z84o\n\nAnd the ZeroWiki also has a list of sites grouped by category here: http://127.0.0.1:43110/138R53t3ZW7KDfSfxVpWUsMXgwUnsDNXLP/?Page:list-of-zites",
+				"added": 1458957876
+			}
+		],
+		"9_1LRrd96P7FiTcsyNXVzPM5jtpQoH1B4gYf": [
+			{
+				"comment_id": 133,
+				"body": "> [eventi](#comment_25_1DcDDitsjFJohvwonPmpibRChmA7uGxqL7): We need to get ekaterina involved - she's done some cool stuff\n\ncub3 already sent me a ZeroMail about it some time ago but the link didn't work for me back then, looks really nice, it's an awesome idea!",
+				"added": 1459024551
+			}
+		],
+		"6_1H8oKiRa7fGgUqS1hpUtaSYLvAqkaknbkf": [
+			{
+				"comment_id": 134,
+				"body": "> [ax](#comment_6_1LnYjFf7ZGJGmyUhd6pyG5GQYDrPBNVkCX): I really would like to know the answers to these questions that still haven't been answered so I'll repost in the hope erkan, nofish or someone else of equal skill level can answer.\n> How exactly does ZeroID go 'outside', what ip addresses, services etc does it force users to connect to? Exactly what info are users forced to leak?\n> Precisely which sql commands can be be used to create a profile of users and exactly what info can be extrapolated?\n> 'Powerful admins' could potentially be a problem, therefore designing a 'trustless' system should be the priority rather than just reinventing the wheel and creating even more all powerful admins that may not be entirely trustworthy.\n\nA ZeroNet site cannot be censored by a third party, you can create a blog and write whatever you please, no company and no government can bring your blog down. However, the owner of a site can do whatever he wants. That means the owner of a site can censor. That means the owner can send information outside of ZeroNet to the clearnet, and yes ZeroID right now doesn't work without doing that, the Source Code for all official ZeroNet sites is open source, including ZeroID, take a look to see exactly what it does: https://github.com/HelloZeroNet/ZeroID\n\nTo find out more how ZeroNet sites in general work I'd also recommend going through the ZeroNet site development tutorial part 1 and 2 that are linked on the official ZeroBlog in the sidebar. Then you understand why things work the way they do. If you are not a developer and can't go through the source yourself, I can only say there is nothing nefarious going on as far as I can see, there are technical reasons behind this.\n\nUsername registration (ZeroID), domain registration (ZeroName) and things like it where you need some kind of ledger were traditionally something where you needed a central service, otherwise everyone could register the same username or steal someone's username. ZeroID connects to an open source PHP script on a server to handle this if I am not mistaken (while I've read a lot of the official ZeroNet sites' source code, ZeroID I have looked at the least).\n\nThere are now decentralized alternatives to deal with this issue, some already usable others still in development, you can use the Bitcoin blockchain technology for example, that's what Namecoin does for domain registration, you can use Ethereum which is being specifically created to add this (and other types of smart contracts as they are called) functionality on top of other decentralized networks like ZeroNet.\n\nHowever, blockchain systems have a huge drawback. Blockchains don't scale. They just don't. Ethereum's takes a day to download already and it's not even released yet, it's still in development, it's all in a beta/alpha state. Namecoin also takes 20 hours or so depending on the speed of your harddrive among others. If ZeroNet were to use a blockchain, surely nobody would use it but for a very small niche of people, it would never grow, you can't make the mainstream wait a day (and as time passes days, then weeks and so on) before they can ever open and use their first website. But if you still want to, you can use blockchains with ZeroNet. ZeroName for example, that is also a centralized service by default (doesn't connect to the clearnet though I believe). But there is a plugin you can enable for ZeroNet (look in your ZeroNet Plugins folder) to use your own Namecoin node which has downloaded the huge Namecoin blockchain so you don't need to rely on / trust the ZeroName site, it's just the default because blockchains are huge and it makes everything so much harder. Maybe something like that will be possible for ZeroID too. If not, you have the option to use a different ID provider like ZeroVerse and hopefully soon even more as more people create their own to make this less centralized.\n\nAs for the censorship, yes, that is not optimal, that is something I still don't like 100% either. But there is no right answer here, there are always up and downsides to every solution. ZeroNet's idea of stopping censorship by site owners is giving people the ability to clone sites if a site admin misbehaves. Not all sites are cloneable, the site owner decides if you can clone it, but users should therefore prefer to use sites that are cloneable if they don't want to get locked in to a site that could end up censoring.\n\nAlso please keep in mind ZeroNet is version 0.36. The project is only a little over a year old and made by one person. Don't expect a perfect system this early in the life of the project. It is improving all the time and I'm sure these things will also be improved if they can be improved without sacrificing too much (like a blockchain would).\n\nOh and about the ZeroPolls SQL query, since I created ZeroPolls, just look at the ZeroPolls.coffee source code in your ZeroNet folder, I distribute it with all my sites. The SQL query I use actually does fetch the usernames, it just doesn't display them. There is nothing that can be done about this, this is just how ZeroNet sites work since they are decentralized, every user has all the data, there is no hidden data. So Erkan's ZeroVerse and making a throwaway account solves this issue, votes are tied to your id and someone could find out what that ID voted on, but if you use ZeroVerse as a throwaway id you don't need to care about that.",
+				"added": 1459521178
+			}
+		],
+		"5_15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ": [
+			{
+				"comment_id": 135,
+				"body": "> [musickiller](#comment_99_15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ): thanks!\n> But it only allow simple one line notes. I hope to find something to replace Google Keep (at least, at best - to replace Evernote).\n> I guess someone will make it sooner or later =)\n\nI'm working on that :) I actually created something that looks a lot like Google Keep not related to ZeroNet some time ago, but never released it. When I find the time I will modify it to run on ZeroNet, could take a month or two though, I've already got too much work on my hands with my current ZeroNet sites :)",
+				"added": 1460190010
+			},
+			{
+				"comment_id": 136,
+				"body": "> [musickiller](#comment_101_15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ): is there a list with your ZN sites?)\n\nThey are all in the sidebar of my ZeroNet development blog in the \"My projects\" section: http://127.0.0.1:43110/1Kp5xdjQyrPth5mEJsn6NDBKZxcaeYz86N/\n\nAnd there are already five more sites planned, including the notes app :) I need to do some more work on ZeroQuotes and ZeroTodos, ZeroPolls is already in a really good state, then I'll start work on the next site.",
+				"added": 1460202309
+			},
+			{
+				"comment_id": 137,
+				"body": "> [musickiller](#comment_109_15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ): By the way, you should add .bit name from your site. Currently to share your site to other devices I have to copy the link to some place like google keep and then open it on other machines through the same g.keep, but if there was some blog.ekaterina.bit, I would just enter the address =) very comfortable!\n\nI generally prefer the hash links, I only use a .bit domain for ZeroPolls because it makes the URL shorter and the links to polls are sharable so this makes it look nicer. The long hash links however are better because they will work forever, whereas a .bit domain is only registered for about 6 months (depends on block creation speed so it's not a precise amount of time). If the owner of the domain forgets to renew it (or doesn't use ZeroNet anymore) all links would stop working and might even direct to a malicious site instead if someone else grabs the domain.\n\nThere are other reasons why hash links are better but this is the big one. But the domains only cost 2 cent, so I'll buy some when I get the chance to make it easier for people who really want that, but my harrdrive is dying right now so I'd better not play around with the huge namecoin blockchain before I fixed that :) Sadly someone already owns the ekaterina.bit domain, that would have been nice :) Then I could just use subdomains like blog.ekaterina.bit instead of buying a bunch of domains for every site.",
+				"added": 1461013174
+			}
+		]
+	},
+	"comment_vote": {
+		"229_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"232_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"2_1MmPY9fniJwwhP6WsgH4jWoq5rBAVV6KWy": 1,
+		"28_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf": 1,
+		"235_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"10_17i7Y7r8nTaCfLbCAuaKyc4R5BbKZYU2Hr": 1,
+		"250_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"252_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"10_1MmPY9fniJwwhP6WsgH4jWoq5rBAVV6KWy": 1,
+		"237_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"255_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"16_13KqD3BoaRMudEG5QU2fnGLkSVx8qDXKof": 1,
+		"54_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf": 1,
+		"55_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf": 1,
+		"11_17i7Y7r8nTaCfLbCAuaKyc4R5BbKZYU2Hr": 1,
+		"14_13KqD3BoaRMudEG5QU2fnGLkSVx8qDXKof": 1,
+		"1_1GVhveySTTQXFTX2B5375BrSGLFdbF75Bg": 1,
+		"1_1L8g4aCkau2mQopHjDQejcyy3Wka2BUJu9": 1,
+		"1_1BNmjz9tBLY3M1tq2z7DKvA1LjFXYsmLd9": 1,
+		"42_13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ": 1,
+		"27_15QGRquMETTn5LnCHjTm1qa9eaXGtq7gpT": 1,
+		"285_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"287_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"284_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"294_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"300_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"309_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"308_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"315_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"52_13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ": 1,
+		"327_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"27_1KwTTgPRSTHFmmJAFBt6kQfdyNeSM5KJuH": 1,
+		"331_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"336_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"338_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"340_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"34_17i7Y7r8nTaCfLbCAuaKyc4R5BbKZYU2Hr": 1,
+		"348_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"1_1Kv7bsswidoQSSoYacL59ZAvb7c8aY7rm6": 1,
+		"114_1QBLGLcgKfcpfLmiDYuDzUKVXFfmTAew55": 1,
+		"113_1QBLGLcgKfcpfLmiDYuDzUKVXFfmTAew55": 1,
+		"28_16iYwD5U2fNoS22p6447J7992iL3DHjSHY": 1,
+		"28_15QGRquMETTn5LnCHjTm1qa9eaXGtq7gpT": 1,
+		"363_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"362_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"9_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1,
+		"11_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1,
+		"374_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"376_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"1_1GmZJxRakRMJiJBLBXTy4YyDuA33UJUBoM": 1,
+		"1_18NAazqd14AcVXdCqN29NTUrxSLGyPy5gB": 1,
+		"1_1PBXqFewt3Y4KxdCKBbH3XUydM9BNMHLNW": 1,
+		"1_1Mb1PcSLWrT16TB58NEwNqFugrud1jLYRE": 1,
+		"2_1PJVSC1FHaZpkkbZqVGJcMrKrYTGmYN6rM": 1,
+		"9_17fgJ3tZjhM7HCkTkd5TWf2BLLWmhRKcXB": 1,
+		"7_17fgJ3tZjhM7HCkTkd5TWf2BLLWmhRKcXB": 1,
+		"4_1KJFB4SEHaHCY11HMKsMGyth1mXKb3R5oY": 1,
+		"2_15YUzYgogtiHYqXP5HXtdLS2dLZuxnvuRQ": 1,
+		"8_1MEWJRMLgvofqG9Mbsb2Rc4hFFyv7HeRx7": 1,
+		"394_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"4_1EPfU5BJ9VLBdWxrprrqFhTGfXMHy3z9HB": 1,
+		"12_17fgJ3tZjhM7HCkTkd5TWf2BLLWmhRKcXB": 1,
+		"16_17fgJ3tZjhM7HCkTkd5TWf2BLLWmhRKcXB": 1,
+		"13_1HwYER58xAxchBDL6WKRqKuPZzmwSvMwjY": 1,
+		"400_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"10_1CL2jU9pTjtMasNihDK3JCofdPWq2ZVGuu": 1,
+		"3_1Pfbvp2DhbVrjAYSPaUaucJc6nZsxMpeK9": 1,
+		"4_1Vji3iRgeuJRJQiy3jXqwm7rQctpKtkbU": 1,
+		"415_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"12_1MhL8nWAcuB5YxbhyYgEHNvsToUtQutRVs": 1,
+		"6_16bxMyoL49mWYhcZKBYVBT5zEFW9SQpiao": 1,
+		"433_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"434_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"2_1Kg7CXZM5h3wTPENsTDwWUmRBf9VhYy2cW": 1,
+		"48_1MEWJRMLgvofqG9Mbsb2Rc4hFFyv7HeRx7": 1,
+		"28_17fgJ3tZjhM7HCkTkd5TWf2BLLWmhRKcXB": 1,
+		"444_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"1_1PtoWgfjhzMK8qz1eTVG3QsawNQ4DL8c8Y": 1,
+		"17_1EMpuiFM1NLZmAVyoAWnwi8VwiZVV4dcnN": 1,
+		"6_1KVbKJBqXdkUr4ogZGJEjDFsm2y9vtX8Bj": 1,
+		"454_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"17_16Szsy1UtjiXpEevWVdUDrNfNTAZ9PLbcY": 1,
+		"458_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"8_1JoKQwXPzK8uyvMCRcwvMSAJPD5S4aH5Vt": 1,
+		"65_1MEWJRMLgvofqG9Mbsb2Rc4hFFyv7HeRx7": 1,
+		"467_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"12_14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx": 1,
+		"1_1GtJqyJRsuZhmxVtw5USgvqGbUmVH7EmBD": 1,
+		"471_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"466_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"474_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"482_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"484_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"12_1DfkDpkeDXGbHJ2ZT31DPvYr5xR59Jr8BA": 1,
+		"487_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"488_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"1_1LxvjVPdscqiSWJyuVXak4HtD9bwA67HBR": 1,
+		"1_1MCsyW6W243LY69ZYm99XbV3M8Gbbrp5hF": 1,
+		"495_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"5_1GEfAcFWh3oXfFHzQeDdAmKtoJKmBtU4rz": 1,
+		"28_1LRrd96P7FiTcsyNXVzPM5jtpQoH1B4gYf": 1,
+		"51_1LWuc6JBhUGrKEAh1aPrPU85dEMcKmg3pS": 1,
+		"35_1PVcdu7USZH2kHMETbqDYLPjJZKCDWM52k": 1,
+		"57_1H8oKiRa7fGgUqS1hpUtaSYLvAqkaknbkf": 1,
+		"36_1LRrd96P7FiTcsyNXVzPM5jtpQoH1B4gYf": 1,
+		"76_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1,
+		"4_1FjXt18Hp1boVSpHrxwwYzpWxbNdukf1hF": 1,
+		"58_1H8oKiRa7fGgUqS1hpUtaSYLvAqkaknbkf": 1,
+		"31_15QGRquMETTn5LnCHjTm1qa9eaXGtq7gpT": 1,
+		"30_15QGRquMETTn5LnCHjTm1qa9eaXGtq7gpT": 1,
+		"514_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"19_1DcDDitsjFJohvwonPmpibRChmA7uGxqL7": 1,
+		"98_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1,
+		"59_14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx": 1
+	}
+}

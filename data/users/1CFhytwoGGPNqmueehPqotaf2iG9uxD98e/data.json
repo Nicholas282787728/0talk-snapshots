@@ -1,0 +1,144 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {
+		"4_1KdnTJVBGzEZrJppFZtzfG9chukuMv8xSb": 1,
+		"2_14PXH1VLXEseL1h6gLpHqi3bXEAdamDwgg": 1,
+		"1_12QRosf2mPWtPPaBCw7YWkiN1MHDEzUSRp": 1,
+		"17_1CMYxdit4qq9QGk9DYRu2ruRPd2YDGckH8": 1,
+		"1_1Kjepw43UHGMp1idvDZtuvxyEWVHNBZKdy": 1,
+		"1_13t2ME4cTtkxrwPeugeZgdJF5Kg7C5CSEy": 1,
+		"1_12GC9MQGPcN7PiMoRYVyZX66PnQjZKUpf2": 1,
+		"2_1J7dTw3ZsXUsXzpBqVWVj5aXRUMsMC6Nfc": 1,
+		"1_1FWsCi4sgjq9PyF3fdirysiehYVn162NGW": 1,
+		"1_1CoVAt2jBzV4Na6nX3VG1JSfjS8fwse1Z9": 1,
+		"4_1BFTNXtYQDMCurqyg45KLmsV6oJD7bQSsH": 1,
+		"1_1Lx7fktXnfMGnTcCRP8HeQsc1xsrJvRiMN": 1,
+		"1_1CrZ12amN7v2uTf7p2E2ZSMDxLUdrmW1hy": 1,
+		"1_1JXFzMzrQTJCiGw36YNQGg2Tmt1hTHy7ZT": 1,
+		"1_1LJLVfT9hKRuTHzBKTpse57PGfpwx82myR": 1,
+		"1_1CJoRKtTrkCDDExSc2YDyJew3SNm943rK": 1,
+		"1_19RagxAc2n7zYdfbfda2Zc4dRoHRJzyAxo": 1,
+		"2_1HMgJTFYY57XoH9wpBJHQZsWPvwsRp1WHX": 1,
+		"1_19GDcmuGz3D2epgu9k65yMY9WMYDG8eZCP": 1,
+		"1_17Cs2auSHSVjKaYMXqbNMApRQrgXcwJUpL": 1,
+		"4_19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ": 1,
+		"1_1NGtwPu16u2iVu35a6jwGF7ijxN6yUXaBA": 1,
+		"9_1LRrd96P7FiTcsyNXVzPM5jtpQoH1B4gYf": 1,
+		"7_19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ": 1,
+		"1_1B6K3CdEdkDqn2vbe4sURDAGMV1xeFpf3t": 1,
+		"1_1M3WXb3DtLL9zsRy4ECqemV7ZyA4u4FNFU": 1,
+		"3_1PVcdu7USZH2kHMETbqDYLPjJZKCDWM52k": 1,
+		"1_1AjxW1N844WRpscEFSotfsqLXsQurz83xc": 1,
+		"2_14ng1wByxwoNXAhihYbpgyarVJbFiqs8ny": 1,
+		"3_17Cs2auSHSVjKaYMXqbNMApRQrgXcwJUpL": 1,
+		"1_19M1DT5vruSATEcbEczYRwCk2uPuLcATBa": 1,
+		"2_19M1DT5vruSATEcbEczYRwCk2uPuLcATBa": 1
+	},
+	"next_comment_id": 11,
+	"comment": {
+		"1_13t2ME4cTtkxrwPeugeZgdJF5Kg7C5CSEy": [
+			{
+				"comment_id": 1,
+				"body": "I support freeing this man but let's be honest... these petitions mean nothing.",
+				"added": 1469304129
+			}
+		],
+		"5_1CoVAt2jBzV4Na6nX3VG1JSfjS8fwse1Z9": [
+			{
+				"comment_id": 2,
+				"body": "> [ks](#comment_134_14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx): I'm sorry, I don't buy your premises. My online habits have changed drastically post-Snowden, and I'm pretty sure the same goes for a huge number of people. So basically a lot changed.\n\nJust for the geeks which make up 0.001% of the population. For the other 99.99%, nothing has changed.",
+				"added": 1469304667
+			}
+		],
+		"4_1HDGK4rrMzuouF8hNnxfMNpWyR8qAtP4HR": [
+			{
+				"comment_id": 3,
+				"body": "> [fav](#comment_2_17gEFavobc7RsKNGbSzZwoSZ6jNB7hT2KN): If they decide to hardfork it's the end for ethereum.\n> No serious company can offer their tokens since it's not trustable\n\nCool seeing you here fav!",
+				"added": 1469305009
+			}
+		],
+		"4_1BFTNXtYQDMCurqyg45KLmsV6oJD7bQSsH": [
+			{
+				"comment_id": 4,
+				"body": "Reputation done right is a difficult problem to solve. Much more difficult than you probably think it is.",
+				"added": 1469475229
+			}
+		],
+		"3_12GC9MQGPcN7PiMoRYVyZX66PnQjZKUpf2": [
+			{
+				"comment_id": 5,
+				"body": "You can clone any site on ZeroNet manually if you copy the source code in your /data/ folder.",
+				"added": 1469475359
+			}
+		],
+		"1_19GDcmuGz3D2epgu9k65yMY9WMYDG8eZCP": [
+			{
+				"comment_id": 6,
+				"body": "ZeroTorrent is just a clone of ZeroTalk. I'm sure we all appreciate the efforts of the curator, but it's not a native torrenting site. ZeroNet needs a Kickass Torrents clone or at least something with a decent UI. PLAY is a good start.",
+				"added": 1469916201
+			}
+		],
+		"1_1BN8WpGJNnYExwy7PwasLhP3iAjmXJjB6g": [
+			{
+				"comment_id": 7,
+				"body": "Videos of people being killed by terrorists. Disgusting.",
+				"added": 1470251710
+			}
+		],
+		"8_13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ": [
+			{
+				"comment_id": 8,
+				"body": "ZeroNet is being developed for free mainly by one person. It's also in its ***ALPHA*** phase of development. I just want to say THANK YOU to @nofish for all his hard work. It is noticed and appreciated.",
+				"added": 1471321272
+			}
+		],
+		"1_1B6K3CdEdkDqn2vbe4sURDAGMV1xeFpf3t": [
+			{
+				"comment_id": 9,
+				"body": "Maelstrom doesn't even work on a mac or on linux; I've been waiting for over a year for an OSX release and nothing. Also, it's not dynamic... Meaning you can't have a site like ZeroTalk or ZeroMe. Anything with content that updates.",
+				"added": 1471322475
+			}
+		],
+		"2_19M1DT5vruSATEcbEczYRwCk2uPuLcATBa": [
+			{
+				"comment_id": 10,
+				"body": "> [waterrabbit](#comment_18_1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC): Nofish, the ZeroNet developer, is working on it.\n\nNice!",
+				"added": 1473301420
+			}
+		]
+	},
+	"comment_vote": {
+		"16_1KdnTJVBGzEZrJppFZtzfG9chukuMv8xSb": 1,
+		"79_1PVcdu7USZH2kHMETbqDYLPjJZKCDWM52k": 1,
+		"13_17n5jg4bBEoWodXDf8L4Y2u88ShagS272Y": 1,
+		"2_13WnNjGWpKx29MGErCCpUAnP772R3fYyMk": 1,
+		"46_19qsuxKBkNZWYft3epWgn6u3gG82sQHs6n": 1,
+		"1_1QBCnf1V9r6VF1FjGZXpUUqVQh5aaDymVa": 1,
+		"2_1B9b51MZbZnY19GMprWGuA9sH8EY1R4sxY": 1,
+		"2_1EEe4wU3pC7c5aLr6mRm1aoaWhvMjiEUZ9": 1,
+		"2_1CFhytwoGGPNqmueehPqotaf2iG9uxD98e": 1,
+		"5_1LJLVfT9hKRuTHzBKTpse57PGfpwx82myR": 1,
+		"2_17gEFavobc7RsKNGbSzZwoSZ6jNB7hT2KN": 1,
+		"692_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"2_1MVn3Y79sstGEdUDk1SmJSTfsUoaDNvSso": 1,
+		"2_1PouruhPSxN4ZmrxcqFFPusLc8X8cArSv3": 1,
+		"1_1NbAcCeNzA2GJnM1J5UnBDV5KrUdJeTrdi": 1,
+		"5_1KnFgYp6rbz2VLe4H7RW36J8ChSqHSbxLn": 1,
+		"5_1CFhytwoGGPNqmueehPqotaf2iG9uxD98e": 1,
+		"65_1CMjV2r4EBpFt8VCcWWZKDysZXPcPExRNN": 1,
+		"4_1CFhytwoGGPNqmueehPqotaf2iG9uxD98e": 1,
+		"1_1Kjepw43UHGMp1idvDZtuvxyEWVHNBZKdy": 1,
+		"1_1MtibQv1YURWa3sE2n1ipLcMLSKfni3czA": 1,
+		"1_17bo4yV2YQ8qERFytHMogwancQzQmzzaDM": 1,
+		"15_15JNF8bdyG4zEWVASsgbkFirzM6gyYpSBA": 1,
+		"38_1CoVAt2jBzV4Na6nX3VG1JSfjS8fwse1Z9": 1,
+		"2_1KpxvLkiFHNd2NpkH6T4ms2RVbpVTi9Fh1": 1,
+		"6_18XR5C5AxGfD5s2DbCPGuXxVN5oscoLyD6": 1,
+		"7_14ng1wByxwoNXAhihYbpgyarVJbFiqs8ny": 1,
+		"73_1GervYZoP82e8X1Rgc4wyMkJY2zSsJuq8t": 1,
+		"34_1CTut2qbaj54ZjNoYeuWSGwV75iVieKY6N": 1,
+		"8_1JF3eQjW4voiKdcvCkMXvUx5bLmZAiVdyi": 1,
+		"18_1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC": 1
+	}
+}

@@ -1,0 +1,55 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 9,
+	"comment": {
+		"1_19ayk8E29EihqeEqZCXFpanBQm9Z63USEB": [
+			{
+				"comment_id": 1,
+				"body": "大家好。这个东西今天刚接触，配置了半天总算上来了。里面很多东西不是很懂，还不知道怎么玩。",
+				"added": 1459005967
+			}
+		],
+		"1_1UfvLnMuzShvi3phWGSqn79tio81Wn9Dt": [
+			{
+				"comment_id": 2,
+				"body": "这个结点真热闹，原来早就有人在里面了",
+				"added": 1459006779
+			},
+			{
+				"comment_id": 3,
+				"body": "> [chinanet](#comment_15_1MZ6f3V1cBuhNwzajMVPu8vb1wRt1p6dpt): 后来发现用zeromail收邮件前需要点Create my mailbox才行，否则别人不能给你发信现在你试试，应该能给我发信了。好像xiaolan也没有点Create my mailbox\n\n昨天我也发现了，要先开通邮箱才能收发信件的",
+				"added": 1459061791
+			},
+			{
+				"comment_id": 6,
+				"body": "> [mika](#comment_1_13ekTsAhJWThzVaGpFYSvkowuiJkdBsMK8): 有多少是看了潇蓝的文章才知道 ZeroNet 的-\n\n反正我是一个。",
+				"added": 1459484677
+			},
+			{
+				"comment_id": 7,
+				"body": "发现上面人真少啊，一天来一趟都没发现没多少更新信息。",
+				"added": 1459503413
+			},
+			{
+				"comment_id": 8,
+				"body": "> [p2p](#comment_108_13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ): 你来过中文论坛吗？http://127.0.0.1:43110/1Nse6WcodQ5Mj6ZwvZvuyCVvQESwuxbCUy/大家都在那啊\n我在啊，不过还是没有多少人",
+				"added": 1459528419
+			}
+		],
+		"1_1BNnSNUfRvzpCFumrbg5tbiE9dT61CZP9h": [
+			{
+				"comment_id": 4,
+				"body": "> [rokai](#comment_2_1Fu4wBqn3GzzsF1DikSDiwZ2PvUBeyvigP): 从Twitter上看到的\n\n　> [p2p](#comment_62_13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ): 大家好，你们是从哪里知道ZeroNet的？怎么变成骂战了？\n\n我从xiaolan网站上看到的，花了一下午时间搭建，设置。成功注册帐号，运行Tor环境\n至今感觉还不错，只是人还是有点少，中国人更少。",
+				"added": 1459062639
+			},
+			{
+				"comment_id": 5,
+				"body": "> [p2p](#comment_100_13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ): 没有那么复杂吧，搞一下午？\n\n主要是折腾多帐号的事情",
+				"added": 1459067431
+			}
+		]
+	},
+	"comment_vote": {}
+}

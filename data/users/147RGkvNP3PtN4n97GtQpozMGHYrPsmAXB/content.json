@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "bitmsg",
+ "cert_sign": "G7IRKisoTx1gTJLr9MaJo0QK3ieBhP0n7ehzU2ZNHWt12gfy9M9rfrGfqyt2A8yBEOgdebTJHplTn7crCXmg9fg=",
+ "cert_user_id": "kingx2000@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "f282d75fa2418c648ee94168e4f405c56fc5404349ad093c144061bb049eea48",
+   "size": 251
+  }
+ },
+ "inner_path": "data/users/147RGkvNP3PtN4n97GtQpozMGHYrPsmAXB/content.json",
+ "modified": 1476131070.313,
+ "signs": {
+  "147RGkvNP3PtN4n97GtQpozMGHYrPsmAXB": "GyVPsGxxRx0bVYKbtRTPvJN9lLl6A9eZPB275EFf7PCmTjaoZni3eORz5e2Hk6zMKHCGVOWzIuNSFhvPwMii2uI="
+ }
+}

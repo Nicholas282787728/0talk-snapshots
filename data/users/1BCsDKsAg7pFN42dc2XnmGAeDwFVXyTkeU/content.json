@@ -1,0 +1,15 @@
+{
+ "cert_auth_type": "web", 
+ "cert_sign": "HA2rpXVVD4wcl1v4BR97s7Qt2tPC2+G1gQCjnXe+etLV/Eq5dLeV1YOfbO2q8QsqdlgjnQ8XF9R0jiBithdZ6Gc=", 
+ "cert_user_id": "furgas@zeroid.bit", 
+ "files": {
+  "data.json": {
+   "sha512": "0946c81535d29bbd42b0ab3e2a74b453c9b3aa966f953cfcc8ffabc4e61bbe6c", 
+   "size": 547
+  }
+ }, 
+ "modified": 1450429746.301, 
+ "signs": {
+  "1BCsDKsAg7pFN42dc2XnmGAeDwFVXyTkeU": "HFjp193KnM7xwYnY70z9FdvTTIhWjzlQOneYikkf/PKcTfUxx9EAp6RYaYp0j+fxm4BCic0UNN+GaASkQqYWCH4="
+ }
+}

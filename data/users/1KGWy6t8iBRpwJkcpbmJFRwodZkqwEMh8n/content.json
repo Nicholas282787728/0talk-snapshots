@@ -1,0 +1,15 @@
+{
+ "cert_auth_type": "web",
+ "cert_sign": "G+CH06WkqzSl5+B5VmkZAjoMNKJ5UjAYGG2EQojQVUxWzD6LZKZapVVUYf7Q3zjtVgCwNH5eEQZJQbMvlTdiQgk=",
+ "cert_user_id": "maggiedong@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "79a2d5b931185cf8b974ce339e3955af0a86d94b9f37c44098574862e2b20f95",
+   "size": 209
+  }
+ },
+ "modified": 1455210247.603422,
+ "signs": {
+  "1KGWy6t8iBRpwJkcpbmJFRwodZkqwEMh8n": "HM/zEzGFaM6EP55uB7Z5/GXgL0EgAJgQ7JmiOeaxFu4H6iw/sSWF+zJCvHRWurf9BS88MB/Z+vVHcGs15Z+oz7Y="
+ }
+}

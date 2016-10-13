@@ -1,0 +1,77 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {
+		"1_1FkHAWYYdURFGyXt3cZTs3neGVYumEpjsF": 1,
+		"6_13hcYDp4XW3GQo4LMtmPf8qUZLZcxFSmVw": 1,
+		"2_1J7dTw3ZsXUsXzpBqVWVj5aXRUMsMC6Nfc": 1,
+		"6833_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG": 1,
+		"6825_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG": 1,
+		"6830_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG": 1,
+		"6807_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG": 1
+	},
+	"next_comment_id": 9,
+	"comment": {
+		"1_1GPrcAqJHUmfQmbBpMW8Br4tGZCCXA5NeZ": [
+			{
+				"comment_id": 1,
+				"body": "Lol bullshit, don't watch",
+				"added": 1468267892
+			}
+		],
+		"11_1CMjV2r4EBpFt8VCcWWZKDysZXPcPExRNN": [
+			{
+				"comment_id": 2,
+				"body": "> [ks](#comment_113_14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx): I “never” use Telegram on the desktop, but I frequently find it useful on my mobile. Retroshare doesn't even have a mobile client, AFAIK, so comparing Telegram and Retroshare might be like comparing apples and bananas. That said, Retroshare does look interesting.\n\nyou should never use telegram at all",
+				"added": 1468267956
+			}
+		],
+		"1_15JNF8bdyG4zEWVASsgbkFirzM6gyYpSBA": [
+			{
+				"comment_id": 3,
+				"body": "> [chinabiz](#comment_25_1DWrKbEomgBLHjczm1HkP556Vg68ewDmyd): Signal is good, very good, but it relies on GCM (Google Cloud Messaging network) for push delivery, which is mostly blocked in China, although you do receive messages via Signal, you don't usually receive the new message notifications, and that goes for any messaging app that relies on GCM, such as Surepsot.\n> Whatsapp at the least use their own push network, as far as I can tell, my push notifications have never failed while in China. You don't have to get family to migrate, just use whatsapp as an alternative for more private stuff if you need to along side wechat, you can download the APK directly and sideload it onto an Android device, whatsapp will then update itself when needed.\n> You can contact me on zeromail at chinabiz, or on bitmessage at BM-NBEzNpescY4BCsqpB9T8E8xsVLiw6zDq\n\nF-Droid has a libre version with all the crap removed",
+				"added": 1468267994
+			}
+		],
+		"1_1FkHAWYYdURFGyXt3cZTs3neGVYumEpjsF": [
+			{
+				"comment_id": 4,
+				"body": "It works pretty well",
+				"added": 1468891257
+			}
+		],
+		"6807_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG": [
+			{
+				"comment_id": 5,
+				"body": "It's the right-wing racists favorite boogieman. A hashtag is a terrorist group! LOL!",
+				"added": 1468891726
+			}
+		],
+		"2_1J7dTw3ZsXUsXzpBqVWVj5aXRUMsMC6Nfc": [
+			{
+				"comment_id": 6,
+				"body": "They use some weird homebaked encryption. We really need a slick, modern communication client",
+				"added": 1468891773
+			}
+		],
+		"1_1BtftbazUXD1kMZAnbK21SMFz6BfZwWbaB": [
+			{
+				"comment_id": 7,
+				"body": "ZeroTalk need a lot more features and moderation tools first",
+				"added": 1468891938
+			}
+		],
+		"6830_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG": [
+			{
+				"comment_id": 8,
+				"body": "no link in article",
+				"added": 1468892090
+			}
+		]
+	},
+	"comment_vote": {
+		"25_1DWrKbEomgBLHjczm1HkP556Vg68ewDmyd": 1,
+		"1_14Ztiu3VJBAAdbNr6EwDtKS6Xg7JTCFxtp": 1,
+		"1_1FDhCAP9pqKaonKkhAibsYCjRwwtbr3GYD": 1
+	}
+}

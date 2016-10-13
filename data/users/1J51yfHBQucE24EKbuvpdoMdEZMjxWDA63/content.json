@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "G7Kc+b1BJZPXyGg03SIx1Y28YQfBKTngR9E2vr9PjWT9KhJH5hDHW0tJ92bfh4qvHPht/1AIAa860BZnadyXyXU=",
+ "cert_user_id": "jesusofnazerus@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "3645e486d80d597b07068e8960beb0142d093aee475cc6ca3d84c13202dcf458",
+   "size": 286
+  }
+ },
+ "inner_path": "data/users/1J51yfHBQucE24EKbuvpdoMdEZMjxWDA63/content.json",
+ "modified": 1458437165.213,
+ "signs": {
+  "1J51yfHBQucE24EKbuvpdoMdEZMjxWDA63": "HAYjO5QDfvnYz8u/je/XuRnNqxutIplMano7x1wrB7hUlLzeraHtXaqydPnj9aI0AXo6SY82KuczCdVnwYkI074="
+ }
+}

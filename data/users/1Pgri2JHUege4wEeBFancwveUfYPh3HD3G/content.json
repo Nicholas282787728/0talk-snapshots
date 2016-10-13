@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HOjatDejP5ZyThD4BI0JcqNzbBBtNKbDlLXUUgZddUL3WJEiBz16ruYQeItXRDNNmPVaW7b/LSe9bgB7zqAMXkE=",
+ "cert_user_id": "frituurpanda@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "e6e2bfc0430bb84899f4827ef70d972b6dbaa220ea984b105f9ea5ce005c9e11",
+   "size": 492
+  }
+ },
+ "inner_path": "data/users/1Pgri2JHUege4wEeBFancwveUfYPh3HD3G/content.json",
+ "modified": 1470757687.745683,
+ "signs": {
+  "1Pgri2JHUege4wEeBFancwveUfYPh3HD3G": "HOBGQVlLwW08Ui1AEzOWyPMkaOiX6y14Y0Sns4eZXIXxsvSFCP7IFUSgXp3NjgNQ0OGBS97kVyJUOcTxAv9Ml9A="
+ }
+}

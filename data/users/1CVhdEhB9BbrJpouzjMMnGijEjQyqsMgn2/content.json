@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "G0u0E0LeMk+rgjcm9TKzlk3kpfVq02b5OsAkTjwqgeUE71OSm3iDWbBz5Kdy+I1sON2yOU8nmM+IBmn6uoqiacI=",
+ "cert_user_id": "pablocerdeira@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "b2454b6e5fe8b9eff7f1c8efc8482ba161a29867d722bc8364a76978eba859d2",
+   "size": 251
+  }
+ },
+ "inner_path": "data/users/1CVhdEhB9BbrJpouzjMMnGijEjQyqsMgn2/content.json",
+ "modified": 1457638881.726096,
+ "signs": {
+  "1CVhdEhB9BbrJpouzjMMnGijEjQyqsMgn2": "HMJwGuMRCci//JcIDWXwtCa3R9aos0FvpP842NRBeM6WZKiPI1oDexgDhKkJU1IsPBWRzLq1W2ty81VVeiKvmWs="
+ }
+}

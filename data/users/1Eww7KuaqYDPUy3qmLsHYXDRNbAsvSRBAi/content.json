@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "G3D/Cc6O4rHPZo7wJIibBGPZkiixWuIYan7Kmkb1LBXC9zARgJUC5V6rzl9I110VsZDvdryrc0Ip7odQh7rLeZQ=",
+ "cert_user_id": "driedupfruit@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "41aa19c0ec40e38bdaeb93fdb5ee7789118912afa0beea036816f1ffa4d69ce9",
+   "size": 244
+  }
+ },
+ "inner_path": "data/users/1Eww7KuaqYDPUy3qmLsHYXDRNbAsvSRBAi/content.json",
+ "modified": 1472019991.92865,
+ "signs": {
+  "1Eww7KuaqYDPUy3qmLsHYXDRNbAsvSRBAi": "HPH0XqZxwE3Pp3giT87ZcyBLyUv6uAxWhdX1NK/jmzuEezJFgYuIMFvsIrk3nnsHVW+3qZcWaizhOQHTTc5KT4Y="
+ }
+}

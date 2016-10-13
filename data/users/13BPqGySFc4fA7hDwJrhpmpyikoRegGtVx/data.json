@@ -1,0 +1,33 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 4,
+	"comment": {
+		"10_1MEWJRMLgvofqG9Mbsb2Rc4hFFyv7HeRx7": [
+			{
+				"comment_id": 1,
+				"body": "No. Deep web simply means that site wasn't being indexed by search engines but still can be opened through regular web browsers without the use of external tools. ZeroNet is hugely different to that as you need to use some external software just to access it. ZeroNet is much more akin to a Decentralized DarkNet which is really, really great.",
+				"added": 1470282028
+			},
+			{
+				"comment_id": 2,
+				"body": "> [scringerworth](#comment_1_1CrZ12amN7v2uTf7p2E2ZSMDxLUdrmW1hy): I would like to know the degree of anonymity we have here in Zero.\n\nIt's kinda alright but it's not truly anonymous. An article here talks about how ZeroIDs are pseudo anonymous and can be traced back to you.\n\nhttp://127.0.0.1:43110/hackertalk.bit/?Topic:2_1HK5C3Uf8zvbbSb92ZP6EsfHKC59MXDcK9/Methodology+Find+someone+s+trace+in+ZeroNet\n\nIf you truly want to be anonymous, what you can do is to create a new ZeroID every now and then. Though I think, there's a limit to the amount of ZeroIDs you can create per IP (per hour?)",
+				"added": 1470282286
+			}
+		],
+		"2_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": [
+			{
+				"comment_id": 3,
+				"body": "hello world",
+				"added": 1470285560
+			}
+		]
+	},
+	"comment_vote": {
+		"1_1Mvr3ANwnqHXJer4J2ZDdUtGeiufAuiSVE": 1,
+		"14_13t2ME4cTtkxrwPeugeZgdJF5Kg7C5CSEy": 1,
+		"3_12MydFwy7wYEPvxC5j3oQnp2zoqkdxLJzj": 1,
+		"7_1DZr3dWHcLESuHx7UeC23QSXfQFvBdFT9s": 1
+	}
+}

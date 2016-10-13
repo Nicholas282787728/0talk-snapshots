@@ -1,0 +1,21 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {
+		"2_1Frg5nFndHFkmUaaGK7Qr46dRLX8a2BhBT": 1
+	},
+	"next_comment_id": 2,
+	"comment": {
+		"1_18jipjDsfAxAuq4ixbi2w24xJrYVfTYFPn": [
+			{
+				"comment_id": 1,
+				"body": "> [pekz](#comment_1_14n9DwjAy8KGybHfQcm8E6BEJHWm113LtQ): \n\n> [darkstratus](#comment_11_1FieP4c1gxFme5webFJB9x5ZPBXdR6p3Fs): Brazil",
+				"added": 1460339433
+			}
+		]
+	},
+	"comment_vote": {
+		"599_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"51_14XxpXNGMLsyeQxikacrbQnAFXVyhN5Ngx": 1
+	}
+}

@@ -1,0 +1,25 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {
+		"1_1CcJZEvu57ZqSDjWDEJCAGEWzHQ7uXKKNR": 1
+	},
+	"next_comment_id": 3,
+	"comment": {
+		"13_1PNyuY1iZqXBpft4ArouqcnE4pNRGYij5i": [
+			{
+				"comment_id": 1,
+				"body": "It just gave me \"Button not currently working\" on submit. To that end, here's a new site:\nKJV Bible: 17EuTH18EjkPSa2XgT9azjZGqATA6pd4c2",
+				"added": 1457045505
+			}
+		],
+		"1_1CcJZEvu57ZqSDjWDEJCAGEWzHQ7uXKKNR": [
+			{
+				"comment_id": 2,
+				"body": "Well, I found out about this cool program from Reddit. However...\n\n1) There appears to be a limitation on how much data can be uploaded into a ZeroNet site. This is the biggest limitation I have experienced so far. (10MB > gives an error and won't sitePublish). Other than torrents it will be difficult to share files over the network, which may be a downer to some users.\n\n2) Setting up a ZeroID was super confusing at first since the ZeroID website wasn't working properly until I let it reload 4 times.\n\n3) It's not possible to delete an ID and/or scrub old posts, this is a privacy concern.",
+				"added": 1457052017
+			}
+		]
+	},
+	"comment_vote": {}
+}

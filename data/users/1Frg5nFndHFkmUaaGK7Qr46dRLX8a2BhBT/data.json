@@ -1,0 +1,38 @@
+{
+	"next_topic_id": 4,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "Creation of secure, free and unbiased news platform",
+			"body": "Hello all,\n\nI have been interested for a while in using the equivalent of the p2p internet architecture (like zeronet, initially I thought about Maelstrom but this seems better so hey) to mount an open, free and unbiased new outlet which is accessible and uncensored for people in (principally) authoritarian states, a kind of 'Radio Free Europe' for the 21st Century (I know as well that Radio Free Europe was funded mostly by the Americans, but remained journalistically neutral to this fact) . An initial thought was maybe to relay BBC World Service reporting onto a zeronet platform somehow. I was looking for input on any further ideas, or proposals for cooperation with this service; which would aim ultimately to provide clarity and transparency for all.  \n\nTHANKS!!!",
+			"added": 1459933322
+		},
+		{
+			"topic_id": 2,
+			"title": "Multiple ZeroID accounts?",
+			"body": "I am probably missing something, but could anyone be so kind as to tell me if there is a way of having multiple ZeroID accounts? There doesn't seem to be an intuitive way to do this. Thank you!",
+			"added": 1460320721
+		},
+		{
+			"topic_id": 3,
+			"title": "Seeders disappearing?",
+			"body": "Hello all,\n\nHaving logged into zeronet this morning, I have the impression that loads of seeders have disappeared for every site... it seems unusual, is is just me who is seeing this or is there an underlying network problem which is being exposed?",
+			"added": 1461489776
+		}
+	],
+	"topic_vote": {
+		"3_1Frg5nFndHFkmUaaGK7Qr46dRLX8a2BhBT": 1,
+		"3_18rFd7W9y5QGQEVXaCoJV7jyt7D8aN156h": 1
+	},
+	"next_comment_id": 2,
+	"comment": {
+		"1_1LY5srf6iJSafm2bZRvb9QdZdEEvC7kuUS": [
+			{
+				"comment_id": 1,
+				"body": "shqiptar/ srpski/ cestina",
+				"added": 1462823352
+			}
+		]
+	},
+	"comment_vote": {}
+}

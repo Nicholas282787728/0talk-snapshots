@@ -1,0 +1,30 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "Rojava, the revolution in Syria based off anarchist ideas",
+			"body": "It is a revolution based around getting people to be self managed and creating federations of these communities based off the ideas of the Kurdish struggle in Turkey. They want to secede from the state not through a direct fight but through social transformation and local protection groups that defend the declared autonomy of these areas... then these areas link up to form confederations.",
+			"added": 1457112869
+		}
+	],
+	"topic_vote": {},
+	"next_comment_id": 3,
+	"comment": {
+		"2_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": [
+			{
+				"comment_id": 1,
+				"body": "amazing wow",
+				"added": 1457114057
+			},
+			{
+				"comment_id": 2,
+				"body": "> [demok](#comment_1_16SHqxwSkfr3HFnhAq4AxsZ9TaoLzpPmGu): amazing\n\nfoo",
+				"added": 1457114074
+			}
+		]
+	},
+	"comment_vote": {
+		"22_1NoRNknY1JbJ8nMdn88LwczyMDFnR1GtNw": 1
+	}
+}

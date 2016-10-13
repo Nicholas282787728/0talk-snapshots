@@ -1,0 +1,20 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "Is there a way to have git repos on ZeroNet?",
+			"body": "Would love for there to be a way to have git repos on ZeroNet. Have not looked into how this would or even could work but if you have ideas on how it could be done please share.",
+			"added": 1470404374
+		}
+	],
+	"topic_vote": {
+		"1_17VwZEfWSUWb5RHkK9m1odnDdBfvjTL6Cp": 1,
+		"1_16xztKVKJWMBZzTe77QSzLajE9JPxZvG5E": 1
+	},
+	"next_comment_id": 1,
+	"comment": {},
+	"comment_vote": {
+		"18_13k6itGVhzLTZUZKiqWWJ5KdvVUEMqDWDv": 1
+	}
+}

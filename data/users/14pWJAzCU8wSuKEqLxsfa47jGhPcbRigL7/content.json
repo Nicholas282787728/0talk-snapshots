@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HPAGGuOR/U6vFjF2+dJEEYzbTZj/faMvJgdbpuPWBS0qGPsVR1lcZv5hBCEech4twchbtbLQ9Z2tTm3548uR3oU=",
+ "cert_user_id": "fatstig@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "8d6f1b7d968c96b9fee49aca2d41c8c504a83d5e2a5d0ba487dc956b1980668c",
+   "size": 375
+  }
+ },
+ "inner_path": "data/users/14pWJAzCU8wSuKEqLxsfa47jGhPcbRigL7/content.json",
+ "modified": 1465752523.965133,
+ "signs": {
+  "14pWJAzCU8wSuKEqLxsfa47jGhPcbRigL7": "HDa7WhuooRy7ljhJWukAZ5P09hH2ceMA/Ii/YIbXRAKy6u+jIpI/CjORKEynrVad8NpJOYhO6eFr+ITSat6g+I8="
+ }
+}

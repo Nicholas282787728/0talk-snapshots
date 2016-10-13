@@ -1,0 +1,18 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "How to insert/get a local html page using the zeroframe api?",
+			"body": "Hi there!\nHow can I use fileGet to load a local html page using coffee script?\n\nThere's an example on the api documentation but it's for a json file: http://zeronet.readthedocs.org/en/latest/site_development/zeroframe_api_reference/#fileget-inner_path-required\n\nI need a simple example from where to start. Thanx!",
+			"added": 1458724684,
+			"parent_topic_uri": "3_1PVcdu7USZH2kHMETbqDYLPjJZKCDWM52k"
+		}
+	],
+	"topic_vote": {
+		"9_1LRrd96P7FiTcsyNXVzPM5jtpQoH1B4gYf": 1
+	},
+	"next_comment_id": 1,
+	"comment": {},
+	"comment_vote": {}
+}

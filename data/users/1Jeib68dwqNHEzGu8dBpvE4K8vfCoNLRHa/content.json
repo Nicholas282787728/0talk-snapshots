@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "G28QiFCh1m1ClH/loKxKdhawfT/WFomzaytJ1+a4H3LNjkgrUkle3moOo7pkCrq6lNmnldNfvyce7G1pQoLwrQI=",
+ "cert_user_id": "voltyum@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "21bb29e1ed0ea2c1369b4c3547fd014954ddaaf736313c48cbd3379472b3e3b7",
+   "size": 708
+  }
+ },
+ "inner_path": "data/users/1Jeib68dwqNHEzGu8dBpvE4K8vfCoNLRHa/content.json",
+ "modified": 1457189395.768,
+ "signs": {
+  "1Jeib68dwqNHEzGu8dBpvE4K8vfCoNLRHa": "G6tel4M6NWOeSstq54p3Xbz3YU7jpYzuhTMThTTyNtobayffhXPGwnKflqR1KdCWg9djnXNvi7NVquQMVgtXU00="
+ }
+}

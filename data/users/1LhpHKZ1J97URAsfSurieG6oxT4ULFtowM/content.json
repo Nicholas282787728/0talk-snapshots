@@ -1,0 +1,15 @@
+{
+ "cert_auth_type": "web", 
+ "cert_sign": "GycfE2IPAgipcBtHVd1yzDdZru+i7DRLOXdSghRacpO1uj3ACTP8XMZHEMa/0iQ9zK4DQhvZtB2/HTaFrVx5KAk=", 
+ "cert_user_id": "ercolinux@zeroid.bit", 
+ "files": {
+  "data.json": {
+   "sha512": "90eeacfc016eb6bdec928658f4ee6b044cb1ee5a785ecda9a74f497f6e19e62e", 
+   "size": 241
+  }
+ }, 
+ "modified": 1451784755.364128, 
+ "signs": {
+  "1LhpHKZ1J97URAsfSurieG6oxT4ULFtowM": "Gzj0CMpNiNZi9NvhXwVOjZk13O9E9TjPhVOxYboi+LdJE45nF1EB66Vsh+wSi5hWRpF6UQhWxgkPMOFUmG9ScIE="
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "G+Lou7/rDwmto1NMNjmcDE7wBps+h21iRNlmKAyZJn9Mfy8qc6E97wzm4WCy/RWD4SN7JT6Gfu91pMNO2xtrqAo=",
+ "cert_user_id": "chinabiz@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "bf21b37882c7429a1e6622577b65656e51391878a94a253ceabdb08c8f93c274",
+   "size": 16428
+  }
+ },
+ "inner_path": "data/users/1DWrKbEomgBLHjczm1HkP556Vg68ewDmyd/content.json",
+ "modified": 1468822612.062037,
+ "signs": {
+  "1DWrKbEomgBLHjczm1HkP556Vg68ewDmyd": "GwjxUPXHuqtTMyOz7JPVB7GnN1alukCgRsRp+GJ8omH8Re3SgZcvcTuzMtgihpExXLBsjkB7v2+iE70k3K6c1WU="
+ }
+}

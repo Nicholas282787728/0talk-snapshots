@@ -1,0 +1,425 @@
+{
+	"next_topic_id": 7,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "Want to make a .bit domain? Need some NameCoin? Use ShapeShift",
+			"body": "If you have some BTC and you have your Namecoin wallet set up, there is a site that lets you convert BTC to NMC on the fly without registration or sign-ups.  https://www.shapeshift.io/",
+			"added": 1457147181
+		},
+		{
+			"topic_id": 3,
+			"title": "Censored Search.bit",
+			"body": "Search for delisted clearweb censored websites.\nhttp://127.0.0.1:43110/censoredsearch.bit",
+			"added": 1457585813
+		},
+		{
+			"topic_id": 4,
+			"title": "(politics) The Young Turks hosting Project Wolf-PAC",
+			"body": "Our Ultimate Goal:\n\n\nTo restore true, representative democracy in the United States by pressuring our State Legislators to pass a much needed Free and Fair Elections Amendment to our Constitution. There are only 2 ways to amend the Constitution: (1) Go through our Federal Government  (2) Go through our State Legislators via a national convention. \n\nWolf PAC believes that we can no longer count on our Federal Government to do what is in the best interest of the American people due to the unfettered amount of money they receive from outside organizations to fund their campaigns. We point to the failure of the Disclose Act as rock solid evidence that this would be a total waste of our time, effort, and money. We also point to the recent decision by the US Supreme Court to not even hear a case filed by Montana claiming it did not have to abide by Citizens United, as proof that state legislation is not a sufficient measure to solve this problem.  We believe that we have no choice but to put an amendment in the hands of our State Legislators, who are not, at this moment in time, completely blinded by the influence of money, and might actually do what 96% of the country wants - take away the massive influence that money has over our political process.  \n\n(Join the fight to get money out of politics)\n\n- Project Wolf-PAC: http://www.wolf-pac.com/\n- TYT Network Homepage: https://www.tytnetwork.com/\n- The Young Turks - Live Main Show: https://youtu.be/8uVpG3frhJ8",
+			"added": 1458772156
+		}
+	],
+	"topic_vote": {
+		"1_1D7uESYtAKV36MVPGJZXuE7LUKbLwfo4dX": 1,
+		"1_1JJcAjWkLz8CNDjL4J35wDz65Ky7QjLd4Q": 1,
+		"1_1FbEENPR12D1yfqWWszQfNgb1Tu5TecMFV": 1,
+		"1_1PRsmkcDcCnKbCfFTeQizKYcDpNn98iQcT": 1,
+		"2_1JJcAjWkLz8CNDjL4J35wDz65Ky7QjLd4Q": 1,
+		"2_11pADbvn3XmFZ5sbM9ZANRb5Gv9igHLCF": 1,
+		"2_1H8oKiRa7fGgUqS1hpUtaSYLvAqkaknbkf": 1,
+		"1_13qeq1z87R1kQWDZUQYm3y7tDCLimnhfvS": 1,
+		"2_13qeq1z87R1kQWDZUQYm3y7tDCLimnhfvS": 1,
+		"2_13JhM5L4pzMvS3TSwfNRgE65ne8GT7EHR9": 1,
+		"1_1Kg7CXZM5h3wTPENsTDwWUmRBf9VhYy2cW": 1,
+		"4_1MEWJRMLgvofqG9Mbsb2Rc4hFFyv7HeRx7": 1,
+		"1_19hZjnvGuFY2sB3nDpX6869nJgkXURTvxX": 1,
+		"2_1HcK5Hw1rPZeYdgTmqJGrVG2tSyR9Ke2Gt": 1,
+		"1_1NMerKYwUayNpEZ35FxkzZch6kgoeFTWk": 1,
+		"1_1674XymFPbmAXh78xEpt3Pehtko6i2kvtA": 1,
+		"6_17fgJ3tZjhM7HCkTkd5TWf2BLLWmhRKcXB": 1,
+		"3_1Kg7CXZM5h3wTPENsTDwWUmRBf9VhYy2cW": 1,
+		"4_1KcPohxmuqiNShTaAzJZLndm5aWtBZLuJn": 1,
+		"4_1ADB7TdX2fVbTsWBoMe9yBTmVXTbb33b4R": 1,
+		"1_1MdNLKFDGufjyYSkH2vb4dnPHsao3ZoQJ5": 1,
+		"3_1H8oKiRa7fGgUqS1hpUtaSYLvAqkaknbkf": 1,
+		"5_1KwTTgPRSTHFmmJAFBt6kQfdyNeSM5KJuH": 1,
+		"5_1MaXyfVAZyyRfY2n8G81sVwRuUZhnzDLX": 1,
+		"1_19oTjiELVv5NKUxcchx4F7vyoznBfgodur": 1,
+		"2_13dUD5qbY6LaXH9pfh5iDgXHgKjCZPxvZV": 1,
+		"2_154jAWx5PDRmvF4txGHo4Edw1BpduhDyvw": 1,
+		"1_1DpjGe8YZWP3idvaNTbBbHzuda341g4W2k": 1,
+		"15_1CMYxdit4qq9QGk9DYRu2ruRPd2YDGckH8": 1,
+		"5_1LRrd96P7FiTcsyNXVzPM5jtpQoH1B4gYf": 1,
+		"14_1CMYxdit4qq9QGk9DYRu2ruRPd2YDGckH8": 1,
+		"11_17fgJ3tZjhM7HCkTkd5TWf2BLLWmhRKcXB": 1,
+		"1_15xGHQtKiSwCco4ubtz9JD1XYH6eVb842G": 1,
+		"7_17n5jg4bBEoWodXDf8L4Y2u88ShagS272Y": 1,
+		"1_14PXH1VLXEseL1h6gLpHqi3bXEAdamDwgg": 1,
+		"9_1LRrd96P7FiTcsyNXVzPM5jtpQoH1B4gYf": 1,
+		"8_17n5jg4bBEoWodXDf8L4Y2u88ShagS272Y": 1,
+		"7_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1,
+		"1_1Hz5zjZ6UfmEckdzBWxMFyYWMvBix3ABTZ": 1,
+		"1_13jLz92kNNVJPG2AgUr83SzTwfsS8RUrcG": 1,
+		"4_19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ": 1,
+		"4_1GCMDNMgJHvZJfdbD9ygDmpBdnVAobdJYg": 1,
+		"24_1ED3Ho3kmzaKiECtyuqSjDpoE47rKuXeP": 1,
+		"1_1AkE5mjeYRiQLGF8Q6NmGvpkm1kk1R6zMe": 1,
+		"1_1W3bJbJdwcwUpeUwQHUEYEoL9SyoTpSpJ": 1,
+		"1_1Frg5nFndHFkmUaaGK7Qr46dRLX8a2BhBT": 1,
+		"1_1MA9FAQkvuKGyyr29ecGJ3FtMjPKBtJhpU": 1,
+		"1_1EV44RW7vgpgpoxceDpqP4WfBmnTzJUjNV": 1,
+		"2_1KXzch3zUkyQ43btkfjHEeZKhBrTkUSRor": 1,
+		"1_1MEFyQ6EisGzSQ8VL8ZwQ7aug4x1iVvv9L": 1,
+		"4_17VwZEfWSUWb5RHkK9m1odnDdBfvjTL6Cp": 1,
+		"8_1GervYZoP82e8X1Rgc4wyMkJY2zSsJuq8t": 1
+	},
+	"next_comment_id": 41,
+	"comment": {
+		"1_16bxMyoL49mWYhcZKBYVBT5zEFW9SQpiao": [
+			{
+				"comment_id": 1,
+				"body": "And for those who are totally clueless, when the Update Name dialog appears, click the [Custom Configuration] tab and use this template JSON sting to get your site on ZeroName.\n\nExample: registering domain: mysitename       (NameCoin will auto-add the .bit for you)\n{\n    \"name\": {\"formatted\": \"MySiteName.bit\"},\n    \"bitcoin\": {\"address\": \"\"},\n    \"zeronet\": {\"\": \"YourSiteStringGoesHere..EXample..1MgHVPCE1ve6QfKrgsqCURzRj72HrRWioz\"},\n    \"ns\": [\"ns1.domaincoin.net\", \"ns2.domaincoin.net\"]\n}\n\nIf you fill the name, and zeronet address with your values, you can copy / paste it into the JSON string text box and it should be green and say valid.  Happy Sharing!\n\nEdit: There is also a great guide here:\nhttp://127.0.0.1:43110/1C5P1EcTZA6FDEg4w6SacfPjvSDCWmzeyt/?Home",
+				"added": 1457147739
+			}
+		],
+		"1_154jAWx5PDRmvF4txGHo4Edw1BpduhDyvw": [
+			{
+				"comment_id": 2,
+				"body": "Windows Bundle package (all included)\n    1. Download ZeroBundle package (Python 2.7.9 and all other requirements included) - https://github.com/HelloZeroNet/ZeroBundle/releases/download/0.1.0/ZeroBundle-v0.1.0.zip\n    2. Unpack to any directory\n    3. Run zeronet.cmd\n\nI'm sure eventually it will just be thrown behind a setup.exe with a desktop icon but I can see them focusing on the development aspect of it at the time being.",
+				"added": 1457157930
+			}
+		],
+		"11_1MxdAjWgnqwCaunGHmhY39tVR51qV3peJL": [
+			{
+				"comment_id": 3,
+				"body": "I would like to see a music discovery site where viewers can share links from youtube / vimeo with genre, descriptions, band's website, etc and viewers can rate each video. Can make perks like winning video gets banner placement on top of page for a month or something. Similar but cleaner to http://promobay.org/   , which seems dead now...  And Youtube is pretty oppressive...",
+				"added": 1457159948
+			}
+		],
+		"2_11pADbvn3XmFZ5sbM9ZANRb5Gv9igHLCF": [
+			{
+				"comment_id": 4,
+				"body": "Watch films: http://127.0.0.1:43110/playmovies.bit\nSend some Mail: http://127.0.0.1:43110/Mail.ZeroNetwork.bit\nGo give some support & explore http://127.0.0.1:43110/0list.bit\nSee what the latest TV is http://127.0.0.1:43110/tvepisodes.bit\nPaste Some code: http://127.0.0.1:43110/1MgHVPCE1ve6QfKrgsqCURzRj72HrRWioz\nRead Some News: http://127.0.0.1:43110/newsriver.bit\nChat in IRC: http://127.0.0.1:43110/1CjR14fofbRJ54oj8A7rAfWpzpLawdP5uc\nCheck out the censored website list: http://127.0.0.1:43110/12Bnx1UpXv7NYxsPUsCBc5gaAeCgBfvE8A\nCheck out some Anime: http://127.0.0.1:43110/1LHt9Ry3aoH7tBmbbKyquu7wEK2EE7yzcs\nDo a few random searches:  http://127.0.0.1:43110/search.kaffie.bit\n\nJust to name a few things I enjoy doing in my time here.\nNew stuff is being added every day.",
+				"added": 1457186467
+			}
+		],
+		"1_1BhtLu1iKdZ2HaBNUrDdmwqF11ZC4y3zL": [
+			{
+				"comment_id": 5,
+				"body": "This has happened to me now and then, it doesn't seem to effect anything with functionality and will even eventually resolve itself. It's been happening to me off n on all night, Nullpaste has that problem sometimes too. Creators are likely working on updates n fixes and it's live, so.. unexpected quirks",
+				"added": 1457196264
+			}
+		],
+		"1_1Kg7CXZM5h3wTPENsTDwWUmRBf9VhYy2cW": [
+			{
+				"comment_id": 6,
+				"body": "Let's keep ZeroNet Alive!\nhttps://zeronet.readthedocs.org/en/latest/help_zeronet/donate/",
+				"added": 1457200157
+			}
+		],
+		"1_1EiP55LCzwSpCgde2oQfnR52LunWcBDiB4": [
+			{
+				"comment_id": 7,
+				"body": "You can do both, find something you love to do as a hobby and turn it into a (maybe) profitable work from home business.  The only powerless human are those who believe they are powerless. :)",
+				"added": 1457215615
+			}
+		],
+		"1_19hZjnvGuFY2sB3nDpX6869nJgkXURTvxX": [
+			{
+				"comment_id": 8,
+				"body": "Maybe someone will make a Hebrew speaking ZeroTalk much like ruTalk.bit.\nI think the ability to network like that regardless of the language is really cool, and can make zeroNet a global project / community.",
+				"added": 1457216403
+			}
+		],
+		"4_1LRrd96P7FiTcsyNXVzPM5jtpQoH1B4gYf": [
+			{
+				"comment_id": 9,
+				"body": "Considering that no one would want to willingly demolish their own popular site. (popular enough to attract a takedown order) Let's remember that American law is not world law. And if the zeroNet site creator lives in an area outside of the reach of the mafIAA arm, well then that's just tough luck. And as already mentioned, that's not even considering the other obstacle of finding out who the creator even is.",
+				"added": 1457276890
+			}
+		],
+		"1_13AvYD3hX888Ey6y8kFEce3Ak8hVNLcdrg": [
+			{
+				"comment_id": 10,
+				"body": "As muja stated, just move the folders to wherever you would like.\nAnd I know it may go without saying for many, but just in case, don't forget to shut down ZeroNet before you move the folders lol.",
+				"added": 1457277194
+			}
+		],
+		"1_1NMerKYwUayNpEZ35FxkzZch6kgoeFTWk": [
+			{
+				"comment_id": 11,
+				"body": "http://127.0.0.1:43110/rutalk.bit",
+				"added": 1457286801
+			}
+		],
+		"4_1ADB7TdX2fVbTsWBoMe9yBTmVXTbb33b4R": [
+			{
+				"comment_id": 12,
+				"body": "I used Home & Learn as my starting place for C#. Prepared me well for Java =)\nhttp://www.homeandlearn.co.uk/csharp/csharp.html",
+				"added": 1457310163
+			}
+		],
+		"3_168qV1Xxp2EyszrzdECLUwXrn9wGYjDdar": [
+			{
+				"comment_id": 13,
+				"body": "Nothing to toot a horn about but turned that blocklist into a searchable database  http://127.0.0.1:43110/censoredsearch.bit   Thanks Kaffie",
+				"added": 1457423798
+			}
+		],
+		"1_12KoVZK2h9knDcYPzwY4ZKuvLz69hVqy7E": [
+			{
+				"comment_id": 14,
+				"body": "'Play' offers magnet links. You will need a torrent client to download these magnet links. Be aware that getting movies from 'Play' is just as visible on the bittorrent swarm as using Kickass or PirateBay",
+				"added": 1457475620
+			}
+		],
+		"1_1CaCDfE8iWtcfbiNs9DxSQkGkFJDpihyw": [
+			{
+				"comment_id": 15,
+				"body": "For anyone else who's a Trump supporter should watch this.\nLast Week Tonight with John Oliver: Donald Trump (HBO)  - https://youtu.be/DnpO_RTSNmQ",
+				"added": 1457475831
+			},
+			{
+				"comment_id": 16,
+				"body": "> [realdonaldtrump](#comment_3_1CaCDfE8iWtcfbiNs9DxSQkGkFJDpihyw): Sure, click a link for  ✡ HBO✡\nSomeone's not a Game of Thrones fan",
+				"added": 1457476071
+			}
+		],
+		"3_16bxMyoL49mWYhcZKBYVBT5zEFW9SQpiao": [
+			{
+				"comment_id": 17,
+				"body": "Latest Change: Enhanced with alphabetized search results & cleaner site descriptions. Also implemented Kaffiene's improved search code.",
+				"added": 1457638346
+			}
+		],
+		"2_18sw1reMFB1fpxc4vjfjoCrLaFs8UbMeQH": [
+			{
+				"comment_id": 18,
+				"body": "lol, they already walk among us...",
+				"added": 1458407648
+			}
+		],
+		"1_1L6xF49cuRomTe1Dae675yqRHgH8JsFsZf": [
+			{
+				"comment_id": 19,
+				"body": "Your IP (site)\nhttp://127.0.0.1:43110/1Ey8WR7e3quTdPTMZZKDdqw2U6JG3zvkHe/",
+				"added": 1458419711
+			}
+		],
+		"1_1Ax5yj36bQDizcaeCMn9upKzVVyQ4wsm48": [
+			{
+				"comment_id": 20,
+				"body": "/clap /clap Good job at making yourselves look like clowns. Puppets who's words are more of a show of display and nothing to be taken seriously, much like a Hollywood movie that is only believed by the village idiot.\n\nIf Zeronet is controlled by Jews, but yet here you are in this world??? Are you enjoying your time here? Seems like you are with your big mouth. Enjoy your stay, when I need a cheap show, I know where to go.",
+				"added": 1458674557
+			}
+		],
+		"2_16odYTnUpF26qivssGsSuwpLgdMQkvK8qh": [
+			{
+				"comment_id": 21,
+				"body": "~Parents Beware~\nBe sure to show your kids love and give them plenty of hugs.  Otherwise we run the chance of children making a failed attempt at expressing themselves like the one seen here.",
+				"added": 1458674964
+			}
+		],
+		"5_1LRrd96P7FiTcsyNXVzPM5jtpQoH1B4gYf": [
+			{
+				"comment_id": 22,
+				"body": "ZeroGit, where?",
+				"added": 1458677058
+			}
+		],
+		"2_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": [
+			{
+				"comment_id": 23,
+				"body": "<strike>Strike Text</strike>\n<s>strike</s>\n[s]strike[/s]",
+				"added": 1458755201
+			}
+		],
+		"6_18rFd7W9y5QGQEVXaCoJV7jyt7D8aN156h": [
+			{
+				"comment_id": 24,
+				"body": "I have my browser set to use a proxy + protected with a master password.\nIf I don't authenticate myself by entering the password, all traffic to the clearweb is blocked while zeronet remains unaffected because it's local.\n\nIt comes in quite handy.",
+				"added": 1458768503
+			}
+		],
+		"6_1LJMypJ67iEBwah82xwVVdB8SGZ1mwqgHQ": [
+			{
+				"comment_id": 25,
+				"body": "> [kaffie](#comment_98_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh): ...If you own the site, you can push out an update with 'nothing' in the folder... That obviously doesn't protect against people backing up the site and cloning it though.\n> If you simply delete zeronet off your computer, or delete the site folder from your HDD, the site will remain seeded as it was when you last published.\n\nPerfection by design! =)",
+				"added": 1458831458
+			}
+		],
+		"2_13BepSu3vkeSQB3ZWkCDg7Lu5w64tfpeTa": [
+			{
+				"comment_id": 26,
+				"body": "IMO it's not that big of a deal. Most users of Zeronet have a bit of common internet understandings and a phishing site likely won't get past many. And like pycole said, your site isn't shit without a .bit domain.",
+				"added": 1458831927
+			}
+		],
+		"4_18sw1reMFB1fpxc4vjfjoCrLaFs8UbMeQH": [
+			{
+				"comment_id": 27,
+				"body": "Why not donate it to Zeronet...\nhttp://zeronet.readthedocs.org/en/latest/help_zeronet/donate/",
+				"added": 1458913939
+			}
+		],
+		"5_16bxMyoL49mWYhcZKBYVBT5zEFW9SQpiao": [
+			{
+				"comment_id": 29,
+				"body": "> [antifa](#comment_35_18rFd7W9y5QGQEVXaCoJV7jyt7D8aN156h): It's just like Bitcoin. Use Vanitygen to find an address\n\nBut I know the addresses just fine, my problem arises on trying to visit different sites from the zeronet landing page.\n\nCtrl+F is great but when a site you want has a listing name of 82yu5h2uk3n4kuh2, Find doesn't help one bit... So I got pretty excited that I found a easy way to assign custom site names for my Ctrl+F",
+				"added": 1458951625
+			}
+		],
+		"1_13jLz92kNNVJPG2AgUr83SzTwfsS8RUrcG": [
+			{
+				"comment_id": 30,
+				"body": "ZeroWiki has a few listed\nhttp://127.0.0.1:43110/138R53t3ZW7KDfSfxVpWUsMXgwUnsDNXLP/?Page:list-of-zites\n\n0List has site discussions & links\nhttp://127.0.0.1:43110/0list.bit/\n\nPlus if your really dig, you can find sites like ZeroCentral\nhttp://127.0.0.1:43110/1Dt7FR5aNLkqAjmosWh8cMWzJu633GYN6u/",
+				"added": 1458958025
+			}
+		],
+		"1_18jipjDsfAxAuq4ixbi2w24xJrYVfTYFPn": [
+			{
+				"comment_id": 31,
+				"body": "Zeroland here =)",
+				"added": 1458960499
+			}
+		],
+		"1_17rxDp8LuLJo3TrKqC19FE41D98sDriyMQ": [
+			{
+				"comment_id": 32,
+				"body": "I'm not sure what you're meaning but on the top right there is a Follow in NewsFeed option that allows you to follow discussions, topics, subtopics, blogs, and comments.\n\nUpdates to followed items will appear on the right side of your main Zeronet page: http://127.0.0.1:43110/1HeLLo4uzjaLetFx6NH3PMwFP3qbRbTf3D/",
+				"added": 1459118479
+			}
+		],
+		"1_19Q1vr2EtHe6525gmrD3E7jpvZVBq8YAFP": [
+			{
+				"comment_id": 33,
+				"body": "There is the ZeroNet Docs which has quite a large learning curve, but is helpful if you know HTML & CSS  \nhttp://127.0.0.1:43110/17Kom2G5qNDc6NaQwv445h1gFzxkY3ZtZe/site_development/getting_started/\n\nThere's also a few video's on youtube videos about the 'clone' feature.  \nhttps://youtu.be/D-x9Ob7kktE",
+				"added": 1459127328
+			}
+		],
+		"2_19Q1vr2EtHe6525gmrD3E7jpvZVBq8YAFP": [
+			{
+				"comment_id": 34,
+				"body": "  - There is a Zeronet Icon next to your system time.  Right click it and select, Quit.  \nor\n  - Go to your ZeroNet main page, click the three verticle dots that is to the right of the 'Hello ZeroNet_' logo, select [Shut Down ZeroNet]",
+				"added": 1459131368
+			}
+		],
+		"1_14sp9mavsToNK8hAZxsoDQfYxbyFFsgVoV": [
+			{
+				"comment_id": 35,
+				"body": "sección de música  \nhttp://127.0.0.1:43110/ZeroTorrent.bit/",
+				"added": 1459481069
+			}
+		],
+		"6_16bxMyoL49mWYhcZKBYVBT5zEFW9SQpiao": [
+			{
+				"comment_id": 36,
+				"body": "from what I've looked at it looks like it scrapes the namecoin network.  \nPlacing all of the entries into an index.txt and parsing that wasn't my intention.\nIf this is how in fact it works, I missed it, my knowledge of js is minimal and I've jumped head first into it. Kinda learning as I go.",
+				"added": 1459532947
+			}
+		],
+		"1_1KdnTJVBGzEZrJppFZtzfG9chukuMv8xSb": [
+			{
+				"comment_id": 37,
+				"body": "Pretty cool, and best of all, it works.\nI get an error (1) on first visiting the 0site but everything seems to work fine and the error doesn't repeat when revisiting the page.  \n\n(1) Internal error: TypeError: 'NoneType' object does not support item assignment\nUiWebsocket.py line 98 > UiWebsocket.py line 178 > UiWebsocket.py line 454  \n\nmaybe the error is just me, although it's the first time seeing it.",
+				"added": 1459707379
+			}
+		],
+		"3_1FieP4c1gxFme5webFJB9x5ZPBXdR6p3Fs": [
+			{
+				"comment_id": 38,
+				"body": "followed =)",
+				"added": 1461012691
+			}
+		],
+		"1_1PjeSCAGvzNm4UxEqydwzCgQwCXEKc8ikf": [
+			{
+				"comment_id": 39,
+				"body": "Looks like it's due to the tethering of your mobile device.  They make for poor routers  \n\nHave you tried something like:  \nhttps://play.google.com/store/apps/details?id=at.bherbst.net&hl=en  \n\nAndroid Debug Bridge  \nhttp://developer.android.com/tools/help/adb.html#forwardports",
+				"added": 1462069377
+			}
+		],
+		"1_1MEFyQ6EisGzSQ8VL8ZwQ7aug4x1iVvv9L": [
+			{
+				"comment_id": 40,
+				"body": "Very cool!",
+				"added": 1464228732
+			}
+		]
+	},
+	"comment_vote": {
+		"12_1xf9XC4Nsa7YfQWFiK6xGsNDJA3AaCTUa": 1,
+		"4_146VSeNSr14tHL7cWkBrbq2n1Ywr1j2kXL": 1,
+		"48_1ADB7TdX2fVbTsWBoMe9yBTmVXTbb33b4R": 1,
+		"4_1DcDDitsjFJohvwonPmpibRChmA7uGxqL7": 1,
+		"14_14tJBPnxcrF9kMK5v7DULWnaJx3JepirXb": 1,
+		"1_13tcdDYq9M2m3SGarHeBmeGxhjgtQ2Tg5J": 1,
+		"22_17fgJ3tZjhM7HCkTkd5TWf2BLLWmhRKcXB": 1,
+		"59_1ADB7TdX2fVbTsWBoMe9yBTmVXTbb33b4R": 1,
+		"1_19hZjnvGuFY2sB3nDpX6869nJgkXURTvxX": 1,
+		"58_1ADB7TdX2fVbTsWBoMe9yBTmVXTbb33b4R": 1,
+		"45_1ADB7TdX2fVbTsWBoMe9yBTmVXTbb33b4R": 1,
+		"61_13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ": 1,
+		"87_1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD": 1,
+		"2_13qeq1z87R1kQWDZUQYm3y7tDCLimnhfvS": 1,
+		"440_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"51_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1,
+		"58_17i7Y7r8nTaCfLbCAuaKyc4R5BbKZYU2Hr": 1,
+		"29_17fgJ3tZjhM7HCkTkd5TWf2BLLWmhRKcXB": 1,
+		"30_17fgJ3tZjhM7HCkTkd5TWf2BLLWmhRKcXB": 1,
+		"1_16KXPTbZn8PHFDcyeRaeQuKmNNFk55nrzP": 1,
+		"15_1EMpuiFM1NLZmAVyoAWnwi8VwiZVV4dcnN": 1,
+		"6_1Pfbvp2DhbVrjAYSPaUaucJc6nZsxMpeK9": 1,
+		"437_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"54_17i7Y7r8nTaCfLbCAuaKyc4R5BbKZYU2Hr": 1,
+		"53_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1,
+		"12_1LPrQCYEyVA3Pz3gEVEf7Qc2z12QGNCSbd": 1,
+		"54_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1,
+		"1_1Kw542ksma7AFT9pCssiwDthvVjywu52NU": 1,
+		"57_1KwTTgPRSTHFmmJAFBt6kQfdyNeSM5KJuH": 1,
+		"19_13vL6ARzDm7215jaRjFvAATfkxBriSnGmb": 1,
+		"63_1MEWJRMLgvofqG9Mbsb2Rc4hFFyv7HeRx7": 1,
+		"18_1DcDDitsjFJohvwonPmpibRChmA7uGxqL7": 1,
+		"65_1KwTTgPRSTHFmmJAFBt6kQfdyNeSM5KJuH": 1,
+		"466_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"467_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"52_16AFTG7vdicwJbRQpWc2F9BRHTE5MTftE7": 1,
+		"85_1KwTTgPRSTHFmmJAFBt6kQfdyNeSM5KJuH": 1,
+		"44_17fgJ3tZjhM7HCkTkd5TWf2BLLWmhRKcXB": 1,
+		"95_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1,
+		"86_1KwTTgPRSTHFmmJAFBt6kQfdyNeSM5KJuH": 1,
+		"96_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1,
+		"14_1JoKQwXPzK8uyvMCRcwvMSAJPD5S4aH5Vt": 1,
+		"87_1KwTTgPRSTHFmmJAFBt6kQfdyNeSM5KJuH": 1,
+		"97_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1,
+		"51_1CMYxdit4qq9QGk9DYRu2ruRPd2YDGckH8": 1,
+		"21_18rFd7W9y5QGQEVXaCoJV7jyt7D8aN156h": 1,
+		"82_1H8oKiRa7fGgUqS1hpUtaSYLvAqkaknbkf": 1,
+		"567_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"2_1LeqWgNKQHKdYdy8AREoHprsCEU6cPrTTC": 1,
+		"98_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1,
+		"47_14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx": 1,
+		"100_1KwTTgPRSTHFmmJAFBt6kQfdyNeSM5KJuH": 1,
+		"1_1KdnTJVBGzEZrJppFZtzfG9chukuMv8xSb": 1,
+		"1_17Z53DkgKr1XVEkcrAqi4WFu1SkmAyo3GX": 1,
+		"96_1KwTTgPRSTHFmmJAFBt6kQfdyNeSM5KJuH": 1,
+		"84_1PVcdu7USZH2kHMETbqDYLPjJZKCDWM52k": 1,
+		"8_14PXH1VLXEseL1h6gLpHqi3bXEAdamDwgg": 1,
+		"100_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1,
+		"101_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1,
+		"10_1NV87VmSkezRyz8NbFpdkYJsJUSfXx7LJa": 1,
+		"7_13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ": 1,
+		"132_1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD": 1,
+		"3_17GoSBQa419SCrJkj4djvTAgRFCDWHKuM3": 1,
+		"6_17rxDp8LuLJo3TrKqC19FE41D98sDriyMQ": 1,
+		"2_19Q1vr2EtHe6525gmrD3E7jpvZVBq8YAFP": 1,
+		"58_14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx": 1,
+		"60_14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx": 1,
+		"4_1mrFbgzkZRbkFemBU3ipHJdr27fJevfRQ": 1,
+		"64_14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx": 1,
+		"67_14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx": 1,
+		"1_1GtJVoBZG2niqWMSknCsiQXsK28hFiTFoj": 1,
+		"7_15YUzYgogtiHYqXP5HXtdLS2dLZuxnvuRQ": 1
+	}
+}

@@ -1,0 +1,16 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 2,
+	"comment": {
+		"4_1Ci5Y4TxZwY1SQhvQR7Ttbdyyai4WRV5TU": [
+			{
+				"comment_id": 1,
+				"body": "Gentoo if you wanna do a lot of work. Arch has AUR and Pacman which I really liked using. Arch + i3 is comfy",
+				"added": 1468381571
+			}
+		]
+	},
+	"comment_vote": {}
+}

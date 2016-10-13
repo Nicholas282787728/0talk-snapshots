@@ -1,0 +1,61 @@
+{
+	"next_topic_id": 4,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "Test Download",
+			"body": "http://127.0.0.1:43110/1Cn1Zi8ywj5AXCExJc8DqhmRn98kSzTrBH\n\nwork it?",
+			"added": 1454936636
+		},
+		{
+			"topic_id": 2,
+			"title": "German User",
+			"body": "Hallo, sind einige deutsche hier? Mein Englisch ist leider nicht so gut. \nWie kann ich eine eigene Seite erstellen? Einfach Clonen und in dem Ordner HTML Dateien ablegen?\n\ngrüße",
+			"added": 1454938484
+		},
+		{
+			"topic_id": 3,
+			"title": "Video Download",
+			"body": "http://127.0.0.1:43110/1FTr5BWAihc1yb7HDmmUMtr1BB6h65CPJv/video.mp4\ndoes the link?",
+			"added": 1455460151
+		}
+	],
+	"topic_vote": {
+		"1_15y72LFjQ4ymUTnkJP6CC7r73R5uoePgFW": 1
+	},
+	"next_comment_id": 6,
+	"comment": {
+		"2_15y72LFjQ4ymUTnkJP6CC7r73R5uoePgFW": [
+			{
+				"comment_id": 1,
+				"body": "Und wie bekomme ich eine URL? \n\nWie wird eine Seite abgesichert?",
+				"added": 1454940558
+			},
+			{
+				"comment_id": 2,
+				"body": "Ok das mit dem Clonen habe ich verstanden.\n\nGibt es ein Tool mit dem ich bequem eine Webseite erstellen kann? \n\nVielleicht unter Windows, irgendein Tool bei dem ich Unterseiten, Bilder+Videos einbauen kann.",
+				"added": 1454941376
+			},
+			{
+				"comment_id": 3,
+				"body": "....muss man da echt in der Konsole ständig Befehle eingeben?\nzeronet.py siteSign [yoursiteaddress] --publish\n\ndachte das geht automatisch alles... doof....",
+				"added": 1454941623
+			},
+			{
+				"comment_id": 5,
+				"body": "Ah, es gibt ein Seitenmenü, dass muss man erstmal finden:) Werde ich mir mal genauer anschauen alles.",
+				"added": 1455096545
+			}
+		],
+		"1_15y72LFjQ4ymUTnkJP6CC7r73R5uoePgFW": [
+			{
+				"comment_id": 4,
+				"body": "ach ist doch kacke... viel zu kompliziert.....",
+				"added": 1454941893
+			}
+		]
+	},
+	"comment_vote": {
+		"92_1KTjPe9MxoYkcXj78GuZgCcj3R3f3Twh7r": 1
+	}
+}

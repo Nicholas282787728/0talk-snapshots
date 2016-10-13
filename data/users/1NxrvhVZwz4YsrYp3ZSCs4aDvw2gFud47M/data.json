@@ -1,0 +1,29 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 3,
+	"comment": {
+		"2_1FKv8ekYrPvVxZASX4Rk6EYQYpASnHaiXn": [
+			{
+				"comment_id": 1,
+				"body": "> [nofish](#comment_447_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): Admin account feature for Multiuser plugin is planned.\nFYI: When I'm trying to \"enable tor for every connection\" with multiuser - I'm also getting the same error.",
+				"added": 1457295551
+			}
+		],
+		"4_1LRrd96P7FiTcsyNXVzPM5jtpQoH1B4gYf": [
+			{
+				"comment_id": 2,
+				"body": "I think versioning is better, than \"friend's key\" for digital- and physical- security reasons.\nBut it has defferent purposes. Versioning is for saving information. Friend's key - for continuing working on site. But if the info was not permanently deleted - your friend can still clone the site. \nAlso - he could just have your private key (what's the difference?) and restore information from his cache.",
+				"added": 1457296408
+			}
+		]
+	},
+	"comment_vote": {
+		"3_1K1pq5seXVvcwGGVLRdCFiF2J1QoFdNCJg": 1,
+		"2_13qeq1z87R1kQWDZUQYm3y7tDCLimnhfvS": 1,
+		"19_1LRrd96P7FiTcsyNXVzPM5jtpQoH1B4gYf": 1,
+		"61_13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ": 1,
+		"87_1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD": 1
+	}
+}

@@ -1,0 +1,99 @@
+{
+	"next_topic_id": 3,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "Ham radio operators",
+			"body": "Are there any ham radio operators here?Or freebanders,anything :D",
+			"added": 1475001629
+		},
+		{
+			"topic_id": 2,
+			"title": "Speedtest on Zer0Net",
+			"body": "Hi guys,I was thinking about how could we measure speed on Zeronet.First I tried the javascript method using a picture file,but that doesn't worked as all files are being downloaded only once(and the script gives error on zeronet also)\nIt would be great to know how much bandwidth can we get from zeronet.As many users have broadband internet (I have 500mbps also) it would be fun to test download speed on site hosted by 100peers for example.\nAny ideas how could we do this?",
+			"added": 1475589259
+		}
+	],
+	"topic_vote": {
+		"3_1L4dZcDF2maSKHDy788yhxpYnBWnXadUtS": 1,
+		"1_14UupgrdnT7Y8vMES7aqUFgD1fC5RYNrh8": 1
+	},
+	"next_comment_id": 10,
+	"comment": {
+		"1_14UupgrdnT7Y8vMES7aqUFgD1fC5RYNrh8": [
+			{
+				"comment_id": 1,
+				"body": "> [ulrichard](#comment_17_1PSaHi14Xh4Kjo3yyjDgbRtj4YLQgWV4QJ): I wanted to get into ham radio for years. But so far, I didn't have the time.\n\nSorry to hear that.I got my licence a year ago,but I did a lot of contact on freeband before that",
+				"added": 1475067700
+			},
+			{
+				"comment_id": 4,
+				"body": "> [phr34kz](#comment_26_1NGTMtN8816KeCtNqy6W4fCQduU4P8iwty): Lol. Go get hackrf. For 6ghz max, you can do so much. $1000 to get your own cube satellite\n\nThat's only a receiver,I have my RTL-SDR also.But I'm more interested in HF and DX :D",
+				"added": 1475151070
+			}
+		],
+		"3_1L4dZcDF2maSKHDy788yhxpYnBWnXadUtS": [
+			{
+				"comment_id": 2,
+				"body": "I thinked about this also.\nIt would be much better to use DHT.If we could use that,than zeronet would be really unkillable.",
+				"added": 1475092431
+			},
+			{
+				"comment_id": 3,
+				"body": "As I understand it works just the same as Bittorrent,even using the same trackers.That's why DHT would be a better solution for decentralization.\n\"trackers\": [\n            \"zero://boot3rdez4rzn36x.onion:15441\", \n            \"zero://boot.zeronet.io#f36ca555bee6ba216b14d10f38c16f7769ff064e0e37d887603548cc2e64191d:15441\", \n            \"udp://tracker.coppersurfer.tk:6969\", \n            \"udp://tracker.leechers-paradise.org:6969\", \n            \"udp://9.rarbg.com:2710\", \n            \"http://tracker.aletorrenty.pl:2710/announce\", \n            \"http://explodie.org:6969/announce\", \n            \"http://torrent.gresille.org/announce\"\n        ],",
+				"added": 1475092856
+			},
+			{
+				"comment_id": 5,
+				"body": "> [nofish](#comment_777_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): The problem is DHT does not works well on Tor (btw. it's also requires bootstrap node: torrent clients usually uses router.bittorrent.com:6881)\n\nWell,lol.I didn't think about enough yet another time.Yup,Tor could be a problem.And I didn't even know that DHT requires a node also.\nI think we (I mean whole Zeronet) need to find a way to make it really decentralized.Okay,the content is distributed,but you can still shut down the tracker so peers won't find each other...",
+				"added": 1475151379
+			}
+		],
+		"1_1JgHfDK4eojCkVZHKey9hiMAcAc9mxMUK2": [
+			{
+				"comment_id": 6,
+				"body": "Really,a more forum-like site would be great.This is pretty much like reddit.",
+				"added": 1475151594
+			}
+		],
+		"1_1HRrLnTaJwRCA24L45Sr3cYJ3nDmJmPabf": [
+			{
+				"comment_id": 7,
+				"body": "onionland.\nHungary btw",
+				"added": 1475159686
+			}
+		],
+		"1_1KB1HSgPHzySR5nXVWFEc9v2TBhoYFtKbC": [
+			{
+				"comment_id": 8,
+				"body": "heyyo",
+				"added": 1475177917
+			}
+		],
+		"1_1CHcEy3SYsQvrW9uskKTZxUWj97BmZmvfa": [
+			{
+				"comment_id": 9,
+				"body": "> [thebitbrine](#comment_2_1CHcEy3SYsQvrW9uskKTZxUWj97BmZmvfa): Yeah right, unfortunately Firefox dosen't support Remote XUL anymore,if you wanna do a quick fix just copy its link address and simply paste it into your BitTorrentclient. But if you wanna be able to click-and-download have a look at this forum page:https://support.mozilla.org/en-US/questions/988346\n\nI downloaded every torrent like this since day 0 :D",
+				"added": 1475696075
+			}
+		]
+	},
+	"comment_vote": {
+		"28_16w7UuJAHbt8YBa8zxHS7UFk9mq8Q5DpE4": 1,
+		"17_1PSaHi14Xh4Kjo3yyjDgbRtj4YLQgWV4QJ": 1,
+		"3_17tpqoZw9eG2MQq6C3CVZ9MVxJxLTtCPZC": 1,
+		"777_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"3_1NbaJh8RrnVZU4VDBxoyUUkDcWHTM6SH7h": 1,
+		"25_1GNdkBSxTw6SpRdGHxDCyfANXnwi7FG7rJ": 1,
+		"1_1L6AzNZhaGYwQcDWNffD1najBfyvzeKhsG": 1,
+		"27_1AvkR7PmGFLZL9drPpqCaBPEdcVipv2Ajs": 1,
+		"1_14dhXLR6HYKWnhz4tkJpiX1Btp3tteyamH": 1,
+		"2_1NgVFPgMEmfd6Swo8n5BUddvGB81vvNh4V": 1,
+		"1_1HmXVAe5ZjwQeKWLw7PLGcS27DNZLdSRBu": 1,
+		"1_1qPYxaAMLgLjBWaDAP5p6yT5aPeBccEe8": 1,
+		"124_1KdnTJVBGzEZrJppFZtzfG9chukuMv8xSb": 1,
+		"789_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"209_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1,
+		"793_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1
+	}
+}

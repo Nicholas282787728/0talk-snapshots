@@ -1,0 +1,18 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {
+		"2_1MahZJTzjoEMMCv2jBReDWhyNGRhN5tvDq": 1
+	},
+	"next_comment_id": 2,
+	"comment": {
+		"2_1MahZJTzjoEMMCv2jBReDWhyNGRhN5tvDq": [
+			{
+				"comment_id": 1,
+				"body": "Hola, muy buena idea.",
+				"added": 1457790796
+			}
+		]
+	},
+	"comment_vote": {}
+}

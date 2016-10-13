@@ -1,0 +1,61 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "10mb size limit and custom user content",
+			"body": "Belongs the user content (e.g. topics, comments..) to the general size limit of 10mb? Or is every data/users/* folder a custom site?",
+			"added": 1455365830
+		}
+	],
+	"topic_vote": {},
+	"next_comment_id": 7,
+	"comment": {
+		"2_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": [
+			{
+				"comment_id": 1,
+				"body": "Love it!",
+				"added": 1455052825
+			},
+			{
+				"comment_id": 2,
+				"body": "Trolll lololol",
+				"added": 1455361736
+			}
+		],
+		"6_1QBLGLcgKfcpfLmiDYuDzUKVXFfmTAew55": [
+			{
+				"comment_id": 3,
+				"body": "I did it yesterday with a gateway on iOS. But e.g. ZeroTalk is not responsive and did non work very well :/",
+				"added": 1455456465
+			}
+		],
+		"2_16iYwD5U2fNoS22p6447J7992iL3DHjSHY": [
+			{
+				"comment_id": 4,
+				"body": "It is possible to publish new content over tor? (--tor enable/always) Or does it only work with my clear net ip?",
+				"added": 1455476542
+			}
+		],
+		"21_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf": [
+			{
+				"comment_id": 5,
+				"body": "**Does all connections go through Tor? (zeronet.py --tor enable|always)**\nYes, all traffic go through Tor. If you have a open port (15441), ZeroNet will create a tor hidden service for you.",
+				"added": 1455743120
+			}
+		],
+		"3_1FzQ2ZsCgLRL4PTqPKtomrzSpKLTuNRXRo": [
+			{
+				"comment_id": 6,
+				"body": "It should work. Currently i use Handlebars.js with jQuery and it works very good! Every client-site Framework should work without a problem.",
+				"added": 1456342631
+			}
+		]
+	},
+	"comment_vote": {
+		"2_1L8g4aCkau2mQopHjDQejcyy3Wka2BUJu9": 1,
+		"1_1GFA9WKyB9QKCcWWyD3Zkcs7E1HonYwLLE": 1,
+		"1_1Bxe7uRvf4AyU1GvnAp35tye9vg9mxCtB8": 1,
+		"95_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf": 1
+	}
+}

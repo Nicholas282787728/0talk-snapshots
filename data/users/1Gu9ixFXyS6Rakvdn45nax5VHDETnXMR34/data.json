@@ -1,0 +1,56 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 8,
+	"comment": {
+		"1_1Ax5yj36bQDizcaeCMn9upKzVVyQ4wsm48": [
+			{
+				"comment_id": 1,
+				"body": "(((( They )))) could probably use the same tactic as the various agencies do against Tor and just saturate the network with their own connections/servers but I quite frankly don't know shit about ZeroNet so this is entirely conjecture.",
+				"added": 1458499756
+			},
+			{
+				"comment_id": 3,
+				"body": "> [stanker](#comment_2_1BgK63VCWh2GWjKMDkBsnEZCMLBffr39fH): you're an idiot and probably a drumpf voter\n\nDoes it sting that Hillary is going to beat Bernie to the nomination or are you still in denial?",
+				"added": 1458512239
+			}
+		],
+		"6_17n5jg4bBEoWodXDf8L4Y2u88ShagS272Y": [
+			{
+				"comment_id": 2,
+				"body": "> [nofish](#comment_556_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): More sites: Social site, Github-like site, Marketplace\n\nFor a github-like site for sharing, would it be worth it to use something like GOGS? It's a pretty good alternative to Github or Gitlab but is missing some features.",
+				"added": 1458512083
+			}
+		],
+		"3_18sw1reMFB1fpxc4vjfjoCrLaFs8UbMeQH": [
+			{
+				"comment_id": 4,
+				"body": "> [rumham](#comment_6_1MuqWEiJ8VCCZMHZ6hcJW35RMEgm7VVED5): He's pretty good for a politician, more free market than any of the Republicans\n\n> A good politician \nDebatable but he's consistent and predicable. \n\n> More free market than any of the Republicans\nTha fug?",
+				"added": 1458512470
+			}
+		],
+		"5_1LRrd96P7FiTcsyNXVzPM5jtpQoH1B4gYf": [
+			{
+				"comment_id": 5,
+				"body": "> [stanker](#comment_3_1BgK63VCWh2GWjKMDkBsnEZCMLBffr39fH): fuck off nazi\n\nAre you ten years old or are words so upsetting to you that you never managed to become an adult?",
+				"added": 1458512600
+			}
+		],
+		"4_1Ci5Y4TxZwY1SQhvQR7Ttbdyyai4WRV5TU": [
+			{
+				"comment_id": 6,
+				"body": "Well, Gentoo has the ability to be much more \"pure\" though requires a bit more manual intervention for things to run smoothly. Arch is only \"good\" because aside from the 15 - 30 minute install (if done manually and not scripted) it requires very little manual intervention. Both are comfy as fuck, it just depends on how much granular control you desire.",
+				"added": 1467838933
+			}
+		],
+		"2_1Ci5Y4TxZwY1SQhvQR7Ttbdyyai4WRV5TU": [
+			{
+				"comment_id": 7,
+				"body": "I don't think there is, though you might want to take a peek at teknik.io if you're trying to move away from SJWHub (at least until a suitable alternative is written for ZeroNet)",
+				"added": 1467839060
+			}
+		]
+	},
+	"comment_vote": {}
+}

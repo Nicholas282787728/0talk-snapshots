@@ -1,0 +1,15 @@
+{
+ "cert_auth_type": "web", 
+ "cert_sign": "HOSJTIraCSTxP1yWBEMHrx0z5oGCaQwyz3y+M+mXzfEBc4MginOB9DPbtsgY7CsS4CuPsAzOXXU/Vv4WIJxeRqM=", 
+ "cert_user_id": "ericblank@zeroid.bit", 
+ "files": {
+  "data.json": {
+   "sha512": "6b3e08aa9cbe532a8fde910d540a9f1561b62d58ac78c10fa1d6a56289896fa3", 
+   "size": 1929
+  }
+ }, 
+ "modified": 1453868796.840633, 
+ "signs": {
+  "12Ex3Mrd75wY2r5rB21jBcmgj9hxwUK1w2": "G9kH6MWznWvkOSVCUHDzt5TK3dYpbpn9PtoZ/7xJ1a4hlSNrKYAOALWBFCrNnvtNRLzSOFPTJU/3rq42UlwJhWs="
+ }
+}

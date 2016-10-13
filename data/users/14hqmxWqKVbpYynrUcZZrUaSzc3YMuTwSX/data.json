@@ -1,0 +1,21 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 3,
+	"comment": {
+		"1_19hZjnvGuFY2sB3nDpX6869nJgkXURTvxX": [
+			{
+				"comment_id": 1,
+				"body": "yas hello from TLV",
+				"added": 1457369732
+			},
+			{
+				"comment_id": 2,
+				"body": "נמצא האתר טורנטים של zeronet בשם play \"\nLink: http://127.0.0.1:43110/1PLAYgDQboKojowD3kwdb3CtWmWaokXvfp",
+				"added": 1457447684
+			}
+		]
+	},
+	"comment_vote": {}
+}

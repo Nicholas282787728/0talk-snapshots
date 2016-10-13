@@ -1,0 +1,15 @@
+{
+ "cert_auth_type": "web",
+ "cert_sign": "HHQLD7TD4SS6JdP/tDDWad6yI4Qa4GTCUEcmW+ebRLYMrxtNTXKEyFXTizJLZS6tv2XyGhzHDhqpVN+ILL1cwV8=",
+ "cert_user_id": "archtech@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "dbfd3f13190f1f69fa2edfa0291a235504a3ec0e75bc64c7cdade342e4c2ec2f",
+   "size": 825
+  }
+ },
+ "modified": 1455597502.17,
+ "signs": {
+  "1FqvJqX8FrbhkgGX6ag8azqZSye7SqfAm1": "G2kFabLRrsoPk187D9FSNW++Y4zuQGQu78Imu11DWIX7wUmRfqwkJuO7I9HxY6vDO4Ym8s+LQ81fou6HrC4+Oms="
+ }
+}

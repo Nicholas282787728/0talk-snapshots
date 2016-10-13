@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "Gz4Ls10Z5310KnVKTSe87BMIqxiR6Tp2NEcGh5XWyrOdDU12rYriaif1VSJ8kaNmqLlq0OAI/Bdn50RUjZ04b3w=",
+ "cert_user_id": "tamparada@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "30bd1fc00a4a13a158d41f1f3d9d9e285512948374c6e2197e13b1e6cf9d8c73",
+   "size": 988
+  }
+ },
+ "inner_path": "data/users/14TaqTfnP3spTKup7oay3T6EnKArDnijDG/content.json",
+ "modified": 1457091994.669,
+ "signs": {
+  "14TaqTfnP3spTKup7oay3T6EnKArDnijDG": "HIoLWZwUZYazap84X8RQ5av5vp449s4TpI6EdLq4EwxbOyfoAjd06+EXEQ4aGDs16Sa5JR8sLnBooESWrv/TrG8="
+ }
+}

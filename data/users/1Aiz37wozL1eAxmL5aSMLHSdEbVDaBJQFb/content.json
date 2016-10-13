@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "G2bSMT4ASLzZSakOJc8d4Bt+FoUTfTxvib6othRPQRWBtVCa5x30mW+MSWNbxg22TRI9vTBEVMoudkBhBUroAaw=",
+ "cert_user_id": "pizza395@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "7d980dbed160be38416bf44aa1be49c0d44666030fde6719651a660f57cc95d8",
+   "size": 241
+  }
+ },
+ "inner_path": "data/users/1Aiz37wozL1eAxmL5aSMLHSdEbVDaBJQFb/content.json",
+ "modified": 1457539439.877,
+ "signs": {
+  "1Aiz37wozL1eAxmL5aSMLHSdEbVDaBJQFb": "HNjYx97W/k8xRs8gmWc/U31BLE13/EUaCydOrPnlpnTZsQjRHPQg8LQHbcHPHFNMNNsYWQPpS9v3WiIbldkvCBY="
+ }
+}

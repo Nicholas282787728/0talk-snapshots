@@ -1,0 +1,15 @@
+{
+ "cert_auth_type": "web",
+ "cert_sign": "HJTYJQ2MYWFlpm8keIfDoSyP6a9saNcz/tbORkjcD2j+VAF9SVHKULW2GmEZJkvqUG82LbMCWpD4wti387g2DRk=",
+ "cert_user_id": "gyn@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "61c1abe48cb6fb7c5504fac94ac56ce5f99438fd0e9bdfef58e7c45acf714821",
+   "size": 162
+  }
+ },
+ "modified": 1455219759.219,
+ "signs": {
+  "1Kaaqx3xNPzKqhPQtScyPjDotYcBQwsy1M": "G6WbslfbGyxHcO8bswV8PPlrnUkL4dAvLXNY6++Uj9Fp7rHLBWEG2EGHBlK8F4JaJA73MgCKmd9RxBkg4ygeNmM="
+ }
+}

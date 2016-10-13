@@ -1,0 +1,81 @@
+{
+	"next_topic_id": 4,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "I want to block all non-zero URL request from a zero website",
+			"body": "When I open some websites - I see some XHR request being sent facebook and other websites.\nI strictly want to browse zeronet websites. Is there a flag to enable this?",
+			"added": 1472539518
+		},
+		{
+			"topic_id": 2,
+			"title": "Looking for imgur like zeronet website?",
+			"body": "Looking for imgur like zeronet website. Is there any?",
+			"added": 1472539578
+		},
+		{
+			"topic_id": 3,
+			"title": "Crunchyroll 48Hours Premium+ Pass - Giveaway",
+			"body": "Crunchyroll 48Hours Premium+ Pass - Giveaway\nMore info here:\nhttp://127.0.0.1:43110/1FvGJW3THi9FD2v8JQeuaCiG5W5yvPUDWA/?Post:10:Crunchyroll+48Hours+Premium+Pass+-+Giveaway",
+			"added": 1472971088
+		}
+	],
+	"topic_vote": {
+		"1_1JecQYorYpL9F9vArLj13LKvc3v3iSdDHA": 1,
+		"2_1JecQYorYpL9F9vArLj13LKvc3v3iSdDHA": 1,
+		"20_19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ": 1,
+		"3_1JecQYorYpL9F9vArLj13LKvc3v3iSdDHA": 1
+	},
+	"next_comment_id": 7,
+	"comment": {
+		"1_1JecQYorYpL9F9vArLj13LKvc3v3iSdDHA": [
+			{
+				"comment_id": 1,
+				"body": "> [tkarita](#comment_124_1GervYZoP82e8X1Rgc4wyMkJY2zSsJuq8t): The recommendation is to set a non-working proxy.  http://127.0.0.1:43110/zerosecurity.bit/ has some other notes.\n\nThanks. \nBut it will also block my access to regular internet, right?",
+				"added": 1472540508
+			},
+			{
+				"comment_id": 2,
+				"body": "Seems it possible to block 3rd party requests using uBlock origin..  \nFound it from comments http://127.0.0.1:43110/zeroblog.bit/?Post:60:protect+yourselves:+set+a+non-working+proxy\n\n---------------------\n\nYou can also fix this issue with uBlock Origin:\n1. Install uBlock Origin\n2. Click the uBlock Origin icon, and got to the dashboard (click the grey bar in the opened panel)\n3. Enable \"I am an advanced user\" in the uBlock Origin dashboard.\n4. Click the uBlock Origin icon in your browser\n5. Make the right column of the \"3rd-party\" row red so that 3rd-party party requests are blocked for say \"127.0.0.1\"",
+				"added": 1472576849
+			}
+		],
+		"2_1JecQYorYpL9F9vArLj13LKvc3v3iSdDHA": [
+			{
+				"comment_id": 3,
+				"body": "Found this \"ZeroTalk with images\" http://127.0.0.1:43110/1C2JhCunGLtvyX56nQ88tcb87WnXspjWN/",
+				"added": 1472580399
+			}
+		],
+		"20_19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ": [
+			{
+				"comment_id": 4,
+				"body": "I little excited about this.\nReally doubt if people will donate! Probably only tech savvy will donate.",
+				"added": 1472930899
+			},
+			{
+				"comment_id": 5,
+				"body": "> [antyhrabia](#comment_17_1L5rGDgTs4W2V7gekSvJNhKa7XaHkVwotD): No linux version?\n\nhttps://brave.com/downloads.html",
+				"added": 1472982743
+			}
+		],
+		"1_16RxPB8u2PPvMvASMreEvH3q7S5xm2LzjP": [
+			{
+				"comment_id": 6,
+				"body": "dumbass!",
+				"added": 1472994285
+			}
+		]
+	},
+	"comment_vote": {
+		"739_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"181_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1,
+		"743_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"124_1GervYZoP82e8X1Rgc4wyMkJY2zSsJuq8t": 1,
+		"14_1NAaF8VitwKSPo79RzJFhqz14gndmdWcGV": 1,
+		"746_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"1_16kuWjNSpKBw5QVp7bt9rTQXuXXi2PwVsv": 1,
+		"7_16Szsy1UtjiXpEevWVdUDrNfNTAZ9PLbcY": 1,
+		"4_1DKDu26AWoNcw8rArqYNg1XceXDgVJWi61": 1
+	}
+}

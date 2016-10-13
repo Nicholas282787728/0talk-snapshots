@@ -1,0 +1,16 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 2,
+	"comment": {
+		"10_1MEWJRMLgvofqG9Mbsb2Rc4hFFyv7HeRx7": [
+			{
+				"comment_id": 1,
+				"body": "I believe that Deep Web or Dark Web is only network that can not be indexed by any other computer system, due to security issues, for instance , cryptography. Than is easy to assume that ZeroNet is part of DarkWeb.",
+				"added": 1458743966
+			}
+		]
+	},
+	"comment_vote": {}
+}

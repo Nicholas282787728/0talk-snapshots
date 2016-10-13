@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "G43FPMJO8FPxi1TV7oLzFWv3OzrkdH5mkT3rbrYC0h/U5wOtIDlC5MT659ayYDAeDv007oknhZE8z1D79RRO2Fg=",
+ "cert_user_id": "maxramp@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "b6ff6352938a675db165a54b6214693919ee76193f8d0e84af64b9344d41602c",
+   "size": 207
+  }
+ },
+ "inner_path": "data/users/1E4SkYzovKF7LpHZPh584CYpEttmH9JgYD/content.json",
+ "modified": 1470623539.277431,
+ "signs": {
+  "1E4SkYzovKF7LpHZPh584CYpEttmH9JgYD": "G/Ec266IuM5a8JVWlX6TQXhAlBAcIuw1ReP5u1HuzY5zfZVQy8EjS+NQj/A1UbNzKBvaPpZ/Ar8KzHRWP+yyR9I="
+ }
+}

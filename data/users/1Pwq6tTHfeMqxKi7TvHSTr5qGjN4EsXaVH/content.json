@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HIBXlgYMHDu76ZAW/Nz/5AN+5tOy+wghfCjkChSJ8oxfTFHw9U8t3rleMQp9AmgJJDg8Q2f1mxrFJ9EHuXU6NOk=",
+ "cert_user_id": "pythousiast@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "9ec3b6ae67741456cbbb2533af220b0220383ddd78e26bdb0dacea814aa1f30e",
+   "size": 162
+  }
+ },
+ "inner_path": "data/users/1Pwq6tTHfeMqxKi7TvHSTr5qGjN4EsXaVH/content.json",
+ "modified": 1459279546.382766,
+ "signs": {
+  "1Pwq6tTHfeMqxKi7TvHSTr5qGjN4EsXaVH": "G6sUqhBmoNfe1vcobQE6WeXzxLJ7tUVVgnVPU0fwoIxrPfc0rHJ3P7fvQzORnpnFq21Ymc4r5ITpqg4DS9wUBNc="
+ }
+}

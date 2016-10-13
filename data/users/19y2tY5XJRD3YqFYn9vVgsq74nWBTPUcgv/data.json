@@ -1,0 +1,25 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "How can I make a new ZeroID ?",
+			"body": "OR can I have multiple accounts?",
+			"added": 1457204855
+		}
+	],
+	"topic_vote": {
+		"1_16SHqxwSkfr3HFnhAq4AxsZ9TaoLzpPmGu": 1
+	},
+	"next_comment_id": 2,
+	"comment": {
+		"1_19y2tY5XJRD3YqFYn9vVgsq74nWBTPUcgv": [
+			{
+				"comment_id": 1,
+				"body": "I know its en ~/data. I think we can shtdown zeronet, rename, and restart... then we can make a new ID. But thats not actually what I'm looking for.",
+				"added": 1457205200
+			}
+		]
+	},
+	"comment_vote": {}
+}

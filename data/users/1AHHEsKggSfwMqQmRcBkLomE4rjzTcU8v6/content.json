@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "G9dkRIIV1Lg+LkeHdc0m7zGjd6qpYxGAP2UwVCDX5NGHu3oFsNolzfl/iJxW778FZ1Zz19mx7Ptk0gF4o8jRO0U=",
+ "cert_user_id": "reworld@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "05196274210c2ffbae567188f53e74e6b0fb016846e074b631a7c8214a087c19",
+   "size": 363
+  }
+ },
+ "inner_path": "data/users/1AHHEsKggSfwMqQmRcBkLomE4rjzTcU8v6/content.json",
+ "modified": 1468404495.115,
+ "signs": {
+  "1AHHEsKggSfwMqQmRcBkLomE4rjzTcU8v6": "HKeTIVOZgpR9qgizvs6fEP1c9PJQfz7/I87j9Ki8aBJfbttVQHwHzt/b2b/Znswl6b5B6IYvPpvzKQIHR6p4V7o="
+ }
+}

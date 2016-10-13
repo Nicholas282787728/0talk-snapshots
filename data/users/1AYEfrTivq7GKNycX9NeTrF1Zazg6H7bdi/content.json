@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "G06x41xEk2en1yzOxEHqHxaYL7vbcxRYw4lhRbgFB1nfxCgBYVAgzpi3Y1Bjr09O7uEcQIXcKUwrj96zHA89rCc=",
+ "cert_user_id": "lordgault@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "ae82ee8ad7947d64d022d8d399d8983aadf974dfb30646b402931f21b1b0fc63",
+   "size": 367
+  }
+ },
+ "inner_path": "data/users/1AYEfrTivq7GKNycX9NeTrF1Zazg6H7bdi/content.json",
+ "modified": 1457535869.194,
+ "signs": {
+  "1AYEfrTivq7GKNycX9NeTrF1Zazg6H7bdi": "G2FRsu/bJNr94+Jn28DgaD4U/cfEVeNlsb2kGMuM6ZIjrIi2TkY4YcYUW060o/DsHUZnjM7ZjA6kqXrm3mPdWc8="
+ }
+}

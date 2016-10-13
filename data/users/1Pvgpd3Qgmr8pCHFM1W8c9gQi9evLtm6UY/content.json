@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "GwskvLI+xrXwsGddB+BYWTt4kFD34PkcPJf6os0MYlYhX9X8cZaN2FeK5frxIPnqeKoIn9aFUBKHQvJEMawNN5Q=",
+ "cert_user_id": "pornpostr@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "4c24e2c365ca02a62e0edf693019208a18d7ba16b769e595ae6fbacda4db83aa",
+   "size": 1322
+  }
+ },
+ "inner_path": "data/users/1Pvgpd3Qgmr8pCHFM1W8c9gQi9evLtm6UY/content.json",
+ "modified": 1461251490.418781,
+ "signs": {
+  "1Pvgpd3Qgmr8pCHFM1W8c9gQi9evLtm6UY": "HMIPoA3QmxZiNebl7V4vpJ74FDMdKnkdPNR13pr12xNwJj8N1CzAFmt17KmnkutjCK4ap5ATk3VIJPui+9jCWQA="
+ }
+}

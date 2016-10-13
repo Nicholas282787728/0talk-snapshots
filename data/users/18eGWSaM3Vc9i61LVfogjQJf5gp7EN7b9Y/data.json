@@ -1,0 +1,59 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {
+		"2_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"1_1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC": 1
+	},
+	"next_comment_id": 8,
+	"comment": {
+		"1_1CoVAt2jBzV4Na6nX3VG1JSfjS8fwse1Z9": [
+			{
+				"comment_id": 1,
+				"body": "I typically use:\nudp://tracker.coppersurfer.tk:6969\nudp://pow7.com:80/announce",
+				"added": 1469069363
+			},
+			{
+				"comment_id": 3,
+				"body": "> [astzor](#comment_6_1LfQ8dwqkqkGQNCg1kBevHPxjvTRJTQYBz): Check out Play, it hosted on Zeronet\n\nWhile Play exists, and indeed performs admirably on the UI front with its search engine correlating many, many torrents into one entry, it is currently limited to movies. ZeroTorrent.bit has applications, games, TV shows and music in addition to movies. Thus, depending on what you are wanting to torrent, ZeroTorrent might be a better choice.\n\nProps to Play, however, for sourcing its content from the clearnet, and providing source links. Depends on how used you are to trawling through torrents.",
+				"added": 1469075441
+			}
+		],
+		"2_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": [
+			{
+				"comment_id": 2,
+				"body": "A gate opened to Another Dimension in Independence Square.",
+				"added": 1469069429
+			}
+		],
+		"14_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf": [
+			{
+				"comment_id": 4,
+				"body": "Also TorrentFreak.",
+				"added": 1469148206
+			}
+		],
+		"2_1JXFzMzrQTJCiGw36YNQGg2Tmt1hTHy7ZT": [
+			{
+				"comment_id": 5,
+				"body": "Pong.",
+				"added": 1469938869
+			}
+		],
+		"1_1HRrLnTaJwRCA24L45Sr3cYJ3nDmJmPabf": [
+			{
+				"comment_id": 6,
+				"body": "West Coast, USA.",
+				"added": 1473469182
+			}
+		],
+		"1_1F2PXhSgvJJvhpJzVmE2eEpgoUbDt4k1gk": [
+			{
+				"comment_id": 7,
+				"body": "For ZeroTorrent, please embed site's banner logo in the zite's Zeronet content, not request from clearnet, even over HTTPS. It generates metadata that can be tracked, which is always a bad thing.",
+				"added": 1474759625
+			}
+		]
+	},
+	"comment_vote": {}
+}

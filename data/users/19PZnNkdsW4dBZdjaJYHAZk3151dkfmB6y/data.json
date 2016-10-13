@@ -1,0 +1,16 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 2,
+	"comment": {
+		"1_1NLgFk1wAvq64yghgHGQMM99uhaxc6NCzZ": [
+			{
+				"comment_id": 1,
+				"body": "try to reload page with this message and message will disappear",
+				"added": 1458674973
+			}
+		]
+	},
+	"comment_vote": {}
+}

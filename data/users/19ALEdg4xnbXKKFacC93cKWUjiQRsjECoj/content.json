@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "G+aB6hcRZxNc9rDBMfN+DGCm/gwyO9ilI1BliCqtjDOs9XsgFXV5funt5KYCU3t4OfFX88gQ63GGdMx2LOSTguw=",
+ "cert_user_id": "insomniacity@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "3288560ffcf5dac08e20df1b3f7f310bad3fa10822a0d90e1386b0d9da2fe4c4",
+   "size": 298
+  }
+ },
+ "inner_path": "data/users/19ALEdg4xnbXKKFacC93cKWUjiQRsjECoj/content.json",
+ "modified": 1457118254.492,
+ "signs": {
+  "19ALEdg4xnbXKKFacC93cKWUjiQRsjECoj": "G1Ss1aRAa1FP0ulGo5EWquraQcqzGxdNp6RobLHAWS7QXd8ksun/O7xcJe16HF5SRIF6tOJW3GgQF8U1c6nPivM="
+ }
+}

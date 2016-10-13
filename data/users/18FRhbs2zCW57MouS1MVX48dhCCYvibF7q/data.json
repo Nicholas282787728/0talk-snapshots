@@ -1,0 +1,16 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 2,
+	"comment": {
+		"1_1BG8WrV2VY1bNjQiKR4tcL52FAw6Y6BoJ8": [
+			{
+				"comment_id": 1,
+				"body": "不是备份ZeroNet\\data\\users.json就行么。",
+				"added": 1465442667
+			}
+		]
+	},
+	"comment_vote": {}
+}

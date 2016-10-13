@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HNbKU+WkDkm91LAASvKuxENgGw2vDhE6F8P15zf7PekS3BW/aa6DeFk+xAQJesr1Jkuc+QHQ4onYiQBWQgTy7so=",
+ "cert_user_id": "raccooncity@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "62701791538bf1e26e52502e23081cd7a9f268bb3be03600b59aa6b183cb4d66",
+   "size": 364
+  }
+ },
+ "inner_path": "data/users/15E7PoTSNAcDNcdHMxhi331RaZhmez2YAx/content.json",
+ "modified": 1457373577.669109,
+ "signs": {
+  "15E7PoTSNAcDNcdHMxhi331RaZhmez2YAx": "G1MQPiRdc8jfLA7duGpj/qefylyX1Mv8TTOwVNOZ2rMaXNXFpxtTPckcn8VkQ6ruLj0D1377pYZtjRVv82OaOwQ="
+ }
+}

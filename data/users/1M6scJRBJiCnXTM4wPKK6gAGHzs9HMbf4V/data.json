@@ -1,0 +1,44 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "How do I make more than one zeroID?",
+			"body": "I go to Zeroid, but it says I already have one... but how do I create more than one? For obvious reasons.",
+			"added": 1455221300
+		}
+	],
+	"topic_vote": {
+		"1_1M6scJRBJiCnXTM4wPKK6gAGHzs9HMbf4V": 1
+	},
+	"next_comment_id": 5,
+	"comment": {
+		"14_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf": [
+			{
+				"comment_id": 1,
+				"body": "Found it from i2p reddit post",
+				"added": 1455221125
+			}
+		],
+		"1_1M6scJRBJiCnXTM4wPKK6gAGHzs9HMbf4V": [
+			{
+				"comment_id": 2,
+				"body": "It didn't work. As far as the one @nofish suggested. I did enable multiuser, and it did show ZeroProxy activated. But ZeroID would only ask to make a new Cert, and it wouldn't even let me do that.\n\nWhere in the user.json do I put the master seed? Also how do I paste two Certs in the json?",
+				"added": 1455222868
+			},
+			{
+				"comment_id": 3,
+				"body": "My isp doesn't block requests, more than likely I'm doing something wrong :P \n\nCould you do screenshots or something to explain it in more details how to do the master_seed and how to have more than one cert in the json file?",
+				"added": 1455223304
+			},
+			{
+				"comment_id": 4,
+				"body": "There we go! \n\nbut.. How can I get it to remember my other master_seed? It doesn't remember the second one, does it?",
+				"added": 1455223995
+			}
+		]
+	},
+	"comment_vote": {
+		"287_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1
+	}
+}

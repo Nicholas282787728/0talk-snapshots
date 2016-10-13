@@ -1,0 +1,55 @@
+{
+	"next_topic_id": 3,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "topic test",
+			"body": "test",
+			"added": 1457954830
+		},
+		{
+			"topic_id": 2,
+			"title": "How to keep a site as small as possible?",
+			"body": "Hello, I wan't to make a \"forum\" style site; but I don't want it to becomes too big... so my idea is automatically remove all the old topics / messages (1 month old topics, for example). \n\nIs it possible to achieve this witouth a PHP/Python cron, using only the ZeroNet functionalities? or I'll need to make a cron? \n\nThanks",
+			"added": 1457970434
+		}
+	],
+	"topic_vote": {
+		"1_1E1PGsCSCNzkP8xmx8awJ2hho3cPdsN4FF": 1,
+		"1_19R2USgb9vPyg1jPQEJkGVoBwDuDcEmHRF": 1,
+		"3_1MahZJTzjoEMMCv2jBReDWhyNGRhN5tvDq": 1,
+		"2_17n5jg4bBEoWodXDf8L4Y2u88ShagS272Y": 1,
+		"2_19R2USgb9vPyg1jPQEJkGVoBwDuDcEmHRF": 1
+	},
+	"next_comment_id": 4,
+	"comment": {
+		"1_1E1PGsCSCNzkP8xmx8awJ2hho3cPdsN4FF": [
+			{
+				"comment_id": 1,
+				"body": "Saluton karaj ! Cxu vi konas retpagxojn en EO? Dankon :)",
+				"added": 1457602824
+			}
+		],
+		"2_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": [
+			{
+				"comment_id": 2,
+				"body": "test",
+				"added": 1457954568
+			}
+		],
+		"1_1FGs1Gjnx5nQnfR8X1jXdS1fUyy46iWht4": [
+			{
+				"comment_id": 3,
+				"body": "hola como estas?",
+				"added": 1457972039
+			}
+		]
+	},
+	"comment_vote": {
+		"40_1ADB7TdX2fVbTsWBoMe9yBTmVXTbb33b4R": 1,
+		"3_1D33SjywZjLd2QdRgzYMprcxZPva9FGZ3h": 1,
+		"4_1D33SjywZjLd2QdRgzYMprcxZPva9FGZ3h": 1,
+		"508_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"510_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1
+	}
+}

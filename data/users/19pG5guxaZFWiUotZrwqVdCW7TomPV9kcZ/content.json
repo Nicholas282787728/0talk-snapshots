@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "G5eA9FGcPOuK6oLUbZ1ZBdNPk4O73wy9nPavj88EtfIgJ0cFLbfokjUXyIU+c8wm+Oe5DO2h+BTIqgwbCY7KBCc=",
+ "cert_user_id": "stillwarter@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "6e575c12fc77ddf0275d6ff90cb8fa2918508fb5d66c3c669b3a0e12d6505075",
+   "size": 567
+  }
+ },
+ "inner_path": "data/users/19pG5guxaZFWiUotZrwqVdCW7TomPV9kcZ/content.json",
+ "modified": 1472291185.824,
+ "signs": {
+  "19pG5guxaZFWiUotZrwqVdCW7TomPV9kcZ": "HIrOVdmmBgUEguPwdBzPypFgFI/EeNwQGdHG4PY+dN5Fj1gHc5jK2/tTG90yw0+ez6S9t/SEd8cAZamyFMCShac="
+ }
+}

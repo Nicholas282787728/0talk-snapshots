@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "GwS9AO4dEu6Y7WPEun9T7jOIfyMen1rWVBCTGlc2HURO3d3PE7haNg/keFhanIFCpD9KJhlcp8x7kAXowDN9z0A=",
+ "cert_user_id": "cultofemacs@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "60534f4b8f67a193202851778be531a799ca5a8c78136249e7d2bbcbfb00dae9",
+   "size": 241
+  }
+ },
+ "inner_path": "data/users/1EqB7ZTHbzGdSPzFfQWnVag7oPitCBJw9b/content.json",
+ "modified": 1471188650.331062,
+ "signs": {
+  "1EqB7ZTHbzGdSPzFfQWnVag7oPitCBJw9b": "HFyf9ke9sQUsfn0L5J5YIxXx3fodFmIKq6B6BNlc3oqlwT6SoljYAKULVocMua04+G9AwuOBvZKeLurD093Fmkc="
+ }
+}

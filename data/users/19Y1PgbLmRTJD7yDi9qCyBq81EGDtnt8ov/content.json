@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HPcEJJHcDNV8l479xGhm8gCSdyGLZFWjNoahKIO6n+XTOE9gEbu08sVbjHhokVznlnU+VCPgaDG62iAP64WcFDI=",
+ "cert_user_id": "vashtanerada@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "965908dd1d0c97b1d0ccfae4e6ddbf2bcc24aa817b986f67c66341f46a13ffe5",
+   "size": 652
+  }
+ },
+ "inner_path": "data/users/19Y1PgbLmRTJD7yDi9qCyBq81EGDtnt8ov/content.json",
+ "modified": 1460623653.269,
+ "signs": {
+  "19Y1PgbLmRTJD7yDi9qCyBq81EGDtnt8ov": "G9k68nNf0xBDTWO3ulsqhVQ9HaBb7SOyXESZXdCt3mfaUgZZEpWH4sczWssgP1PLF0PgaC8rLB5c4S29wAzM9XQ="
+ }
+}

@@ -1,0 +1,44 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 6,
+	"comment": {
+		"1_1JxycrsLzVrPA247VxtPuwfdQBA6BJrSQ3": [
+			{
+				"comment_id": 1,
+				"body": "Good to hear your thoughts Max...I hope this new and improved tech tool(Zeronet) will be a contributor to a more just and caring world...I reserve the rights as always(I can sometimes be longwinded) to add more later as the thoughts occur to me and I get to know the ins and out of this platform better...more people add, improve, diversify,\nand we all have our needs met.",
+				"added": 1457154180
+			}
+		],
+		"1_154jAWx5PDRmvF4txGHo4Edw1BpduhDyvw": [
+			{
+				"comment_id": 2,
+				"body": "Kinda goes against the p2p decentralized idea putting zeronet back onto servers in the cloud out there...I like the idea of being able to get a full update let's say on my laptop and then being able to go somewhere(my choice) and peruse the content any way I want.  Please feel free to respond and update/help me further these incomplete semi- formed ideas some other persuasion might formalize differently.",
+				"added": 1457220138
+			}
+		],
+		"2_1Hcc6FX8CaRnXcGC4EYZ4NjrR2yfxuUHW8": [
+			{
+				"comment_id": 3,
+				"body": "Retarded possibly is a shared state of mind with this new and fun p2p platform.  I checked out Play when I first got on here a couple of days ago and when using the Maelstrom browser  which is known to have built in torrent capability depending on which magnet link I click on like SD only gives me a magnet link while the 720 link finds the swarm/seeds for that torrent then starts to download and stream/starts the video directly in the browser so I can watch it.  I have yet to click on the full blue-ray density file as my internet bandwidth won't support it.  I will eventually try another browser to see what it does but hey other places in Zeronet right now have my attention.",
+				"added": 1457252452
+			}
+		],
+		"3_1HcK5Hw1rPZeYdgTmqJGrVG2tSyR9Ke2Gt": [
+			{
+				"comment_id": 4,
+				"body": "What's with the brevity on the comments?  With more than just a few words can someone explain why not to click on the link...WTF! I don't care if the joke's on me...One of the reasons I am on Zeronet is cause I am tired of living in a  bubble caused, created, and perpetrated by the mass media and some ass clown isps...",
+				"added": 1457388522
+			},
+			{
+				"comment_id": 5,
+				"body": "er: large file limitation????",
+				"added": 1457389220
+			}
+		]
+	},
+	"comment_vote": {
+		"91_1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD": 1
+	}
+}

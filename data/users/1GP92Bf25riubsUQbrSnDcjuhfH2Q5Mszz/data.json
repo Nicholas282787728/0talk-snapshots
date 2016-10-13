@@ -1,0 +1,22 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 4,
+	"comment": {
+		"1_17oYQdLkvyzEVPH3hXRtK3ru4FLNKZUD3b": [],
+		"1_1FEwrHgDUC1ziFNjfPWxLsVmxsLUYEkPn6": [
+			{
+				"comment_id": 2,
+				"body": "> [saitama](#comment_1_1ATu1DyVH63v9TKZ8MGCQ61dLYpEVgBy9X): Eai? português que você quer então em português irei escrever. Se você quiser ver um site em português eu acabei de criar um \"explicando\"(não tem quase nada ainda) como a ZeroNet funciona.http://127.0.0.1:43110/16kjT7s5mUM83uJ6cUKmkEAswJye1tEd3CPs.: irei adicionar mais informação com o tempo. ; - )\n\nNot found :(",
+				"added": 1457373267
+			},
+			{
+				"comment_id": 3,
+				"body": "> [makewebfree4all](#comment_8_1KgQL2XWR5VjHFgBQMM7BcD2S43m2v7qK6): Brasileiros que por aqui passam, digam-me, que acham do acordo ortográfico entre portugal e brasil? (P.S. Eu sou de portugal)\n\nNa verdade não sentimos muitas diferenças. O que mudou mais no dia a dia foram algumas palavras que eram acentuadas e deixaram de ser.\n\nE aí como sentirão esta mudança?",
+				"added": 1457811675
+			}
+		]
+	},
+	"comment_vote": {}
+}

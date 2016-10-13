@@ -1,0 +1,16 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 2,
+	"comment": {
+		"1_1Gb4DzrdjGBCiTnVyZRB2CHfdSnBfb4FY1": [
+			{
+				"comment_id": 1,
+				"body": "I think another solution to this is to look for sites that have legitimacy and a number of people peering them. One such site could be zerotorrent.bit",
+				"added": 1471987161
+			}
+		]
+	},
+	"comment_vote": {}
+}

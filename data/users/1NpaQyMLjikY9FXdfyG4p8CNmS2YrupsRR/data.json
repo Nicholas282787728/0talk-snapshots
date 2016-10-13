@@ -1,0 +1,61 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "Any filesharing zero sites?",
+			"body": "I've been looking for a torrent or something of the new Inside game for days but have been unsuccessful since kat.ph went down (kickasstorrents), anyone able to share a source for a cracked version or anything?\n\nAlso general filesharing zero site thread",
+			"added": 1470014534
+		}
+	],
+	"topic_vote": {
+		"1_1NpaQyMLjikY9FXdfyG4p8CNmS2YrupsRR": 1,
+		"1_19GDcmuGz3D2epgu9k65yMY9WMYDG8eZCP": 1,
+		"1_1NGtwPu16u2iVu35a6jwGF7ijxN6yUXaBA": 1,
+		"1_1MZ697S3uwCpZD4zSq51NHJDrj7CWxsmd3": 1
+	},
+	"next_comment_id": 7,
+	"comment": {
+		"2_1JXFzMzrQTJCiGw36YNQGg2Tmt1hTHy7ZT": [
+			{
+				"comment_id": 1,
+				"body": "Just found Zeronet looking for Inside torrents... doesn't look like it's much help but, the concept looks cool I guess.",
+				"added": 1470013734
+			}
+		],
+		"2_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": [
+			{
+				"comment_id": 2,
+				"body": "test",
+				"added": 1470013775
+			}
+		],
+		"1_1NpaQyMLjikY9FXdfyG4p8CNmS2YrupsRR": [
+			{
+				"comment_id": 3,
+				"body": "127.0.0.1:43110/ZeroTorrent.bit/?Page:zite-list-blogs",
+				"added": 1470014739
+			},
+			{
+				"comment_id": 4,
+				"body": "> [set](#comment_3_1NpaQyMLjikY9FXdfyG4p8CNmS2YrupsRR): 127.0.0.1:43110/ZeroTorrent.bit/?Page:zite-list-blogs\n\nAlso unfortunately Inside is not on the torrent database there yet...",
+				"added": 1470015270
+			}
+		],
+		"1_19GDcmuGz3D2epgu9k65yMY9WMYDG8eZCP": [
+			{
+				"comment_id": 5,
+				"body": "> [methodx](#comment_6_1CFhytwoGGPNqmueehPqotaf2iG9uxD98e): ZeroTorrent is just a clone of ZeroTalk. I'm sure we all appreciate the efforts of the curator, but it's not a native torrenting site. ZeroNet needs a Kickass Torrents clone or at least something with a decent UI. PLAY is a good start.\n\n?\n\nHave you looked at ZeroTorrents? It's literally a torrent website for everything. ZeroPlay is also extremely good for movies, just finished watching a 720p quality version of The Angry Birds movie off of it. There are comment sections on torrents, all we need is a rating system on them and we're set to be like kickasstorrents.",
+				"added": 1470021535
+			}
+		],
+		"1_1MZ697S3uwCpZD4zSq51NHJDrj7CWxsmd3": [
+			{
+				"comment_id": 6,
+				"body": "There is an extremely large comic reading community on the internet. I have no idea how to do any of this but I SUPPORT IT",
+				"added": 1470105414
+			}
+		]
+	},
+	"comment_vote": {}
+}

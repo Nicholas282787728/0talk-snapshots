@@ -1,0 +1,25 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {
+		"1_1Dme3quDw9tNTjMSk6RWcBJqHchi96vi6S": 1
+	},
+	"next_comment_id": 3,
+	"comment": {
+		"1_1Dme3quDw9tNTjMSk6RWcBJqHchi96vi6S": [
+			{
+				"comment_id": 1,
+				"body": "Ciao ragazzi, conoscete altri punti di riferimento italiani?",
+				"added": 1461023822
+			}
+		],
+		"1_1AkQwH5jKWsMFH8zAo5zCu9RV2Csa57RYF": [
+			{
+				"comment_id": 2,
+				"body": "> [feliks](#comment_2_1DB5KjAyCHXNctExmP6BA3gWdwHUi7atF7): Qualcuno che confermi ?\nPosso confermare io :D",
+				"added": 1461024843
+			}
+		]
+	},
+	"comment_vote": {}
+}

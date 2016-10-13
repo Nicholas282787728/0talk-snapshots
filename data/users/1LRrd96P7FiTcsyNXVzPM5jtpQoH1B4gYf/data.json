@@ -1,0 +1,469 @@
+{
+	"next_topic_id": 11,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "Is ZeroBoard really decentralized?",
+			"body": "I was looking at the ZeroBoard source code and it seems like new messages are added through a PHP file hosted at the zeronet.io site, doesn't seem to be really decentralized.\n\nI guess it works like that because it doesn't require the users to have a ZeroId and the PHP is kind of a proxy, but I couldn't tell.",
+			"added": 1457112578
+		},
+		{
+			"topic_id": 2,
+			"title": "The Robbery - small game",
+			"body": "I built this game a few years ago, it's kind of old but still fun to play. My record is at 150 coins, how many can you get?\n\nhttp://127.0.0.1:43110/14zQjCbU2BAy3uAUAXN5UJhq8YdAHyzUqK/the-robbery/index.html",
+			"added": 1457115540
+		},
+		{
+			"topic_id": 3,
+			"title": "ZeroFrame plain JavaScript examples",
+			"body": "Are there any ZeroFrame plain javascript examples? The documentation only includes the examples in CoffeeScript.\n\nI think it's easier to get started with plain javascript as not all of us know CoffeScript or have the time to learn it.",
+			"added": 1457182208
+		},
+		{
+			"topic_id": 4,
+			"title": "ZeroNet sites takedown",
+			"body": "ZeroNet sites are harder to take down than regular web sites, but couldn't a ZeroNet site be taken down if the author is forced to remove the contents?\n\nThe author could be forced to just replace the contents of his site with an empty file and that would be pushed to everyone hosting it, so the site would still exist but the contents wouldn't. Is that what would happen or am I wrong?",
+			"added": 1457254702
+		},
+		{
+			"topic_id": 5,
+			"title": "ZeroWiki: a wiki for ZeroNet?",
+			"body": "Ok, so this is my first ZeroNet project and it's bit of an experiment, let me know if it works for you.\n\nhttp://127.0.0.1:43110/138R53t3ZW7KDfSfxVpWUsMXgwUnsDNXLP",
+			"added": 1457952607
+		},
+		{
+			"topic_id": 6,
+			"title": "ZeroNet: @keyframes breaks CSS compilation?",
+			"body": "I'm trying to add some animations to a ZeroNet website but I'm having some issues with the automatic compilation/merge ZeroNet does to the CSS files.\n\nIt seems like when I'm adding a @keyframes rule without prefixes, ZeroNet compiles it and automatically adds browser prefixes, however, it's producing broken CSS with missing closing brackets which breaks the whole CSS.\n\nHas anyone else experienced this? I'm on ZeroNet 0.3.6.",
+			"added": 1458132258
+		},
+		{
+			"topic_id": 7,
+			"title": "Development workflow for ZeroNet sites",
+			"body": "What's the recommended workflow to develop ZeroNet sites? I'm wondering if it's a good idea to have a \"development\" site and a \"production\" site, or if just makes sense to keep developing new features on the \"production\" version of the site.\n\nHow do you manage git repos in your the ZeroNet projects? do you publish them with the site or do you include them in the ignored files of content.json? I'm still trying to figure out a workflow that makes sense.",
+			"added": 1458552305,
+			"parent_topic_uri": "3_1PVcdu7USZH2kHMETbqDYLPjJZKCDWM52k"
+		},
+		{
+			"topic_id": 8,
+			"title": "Where to buy bitcoins?",
+			"body": "Where do you buy your bitcoins? can you guys recommend some sites?",
+			"added": 1458590953
+		},
+		{
+			"topic_id": 9,
+			"title": "Kopi: Boilerplate for ZeroNet web applications",
+			"body": "This is an early version, help to improve it is appreciated.\n\nhttp://127.0.0.1:43110/1KtzUsnmwc1Wr7KWWEGnWzmBSQoyH917Pz/\n\nThe idea is to have a site we can clone to start new ZeroNet projects with default settings, usual methods, documentation and examples to make ZeroNet sites development easier and faster.\n\nIt is based in the ZeroChat tutorial and right now is very basic. Feel free to make suggestions and push improvements, the source code is available in this repo:\n\nhttps://github.com/ZeroNetLabs/kopi",
+			"added": 1458725757,
+			"parent_topic_uri": "3_1PVcdu7USZH2kHMETbqDYLPjJZKCDWM52k"
+		},
+		{
+			"topic_id": 10,
+			"title": "OpenBazaar is Open for Business",
+			"body": "Any thoughs on OpenBazaar?\n\nhttps://blog.openbazaar.org/openbazaar-is-open-for-business/",
+			"added": 1459806262
+		}
+	],
+	"topic_vote": {
+		"1_12fNTMaQH1mN5bPehdvkNgTAVxzQXop87e": 1,
+		"2_17fgJ3tZjhM7HCkTkd5TWf2BLLWmhRKcXB": 1,
+		"1_1LRrd96P7FiTcsyNXVzPM5jtpQoH1B4gYf": 1,
+		"2_1LRrd96P7FiTcsyNXVzPM5jtpQoH1B4gYf": 1,
+		"3_1JHQA9oFkFpFFRiscyT4N71AKLWg46pQ92": 1,
+		"1_1Kg7CXZM5h3wTPENsTDwWUmRBf9VhYy2cW": 1,
+		"2_15ymkjUYJS6tjUC35AekGMExZMN6iks8ma": 1,
+		"2_1PtoWgfjhzMK8qz1eTVG3QsawNQ4DL8c8Y": 1,
+		"1_1Dg5EwremnCBAkBQSVoXcL4Mp2eSUuCRvn": 1,
+		"4_1LRrd96P7FiTcsyNXVzPM5jtpQoH1B4gYf": 1,
+		"5_1MEWJRMLgvofqG9Mbsb2Rc4hFFyv7HeRx7": 1,
+		"1_17oYQdLkvyzEVPH3hXRtK3ru4FLNKZUD3b": 1,
+		"1_1GtJqyJRsuZhmxVtw5USgvqGbUmVH7EmBD": 1,
+		"1_1LJoVy98WbuHAVPb9nqKDLz4AWEiLqmvqh": 1,
+		"4_1DcDDitsjFJohvwonPmpibRChmA7uGxqL7": 1,
+		"5_1LRrd96P7FiTcsyNXVzPM5jtpQoH1B4gYf": 1,
+		"6_1LRrd96P7FiTcsyNXVzPM5jtpQoH1B4gYf": 1,
+		"7_1LRrd96P7FiTcsyNXVzPM5jtpQoH1B4gYf": 1,
+		"16_1CMYxdit4qq9QGk9DYRu2ruRPd2YDGckH8": 1,
+		"8_1LRrd96P7FiTcsyNXVzPM5jtpQoH1B4gYf": 1,
+		"2_15QGRquMETTn5LnCHjTm1qa9eaXGtq7gpT": 1,
+		"9_1LRrd96P7FiTcsyNXVzPM5jtpQoH1B4gYf": 1,
+		"10_1LRrd96P7FiTcsyNXVzPM5jtpQoH1B4gYf": 1
+	},
+	"next_comment_id": 52,
+	"comment": {
+		"2_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": [
+			{
+				"comment_id": 1,
+				"body": "Test",
+				"added": 1457032179
+			}
+		],
+		"1_1CcJZEvu57ZqSDjWDEJCAGEWzHQ7uXKKNR": [
+			{
+				"comment_id": 2,
+				"body": "We should make it easier to set up, with a step-by-step guide like crypton said, also more information for developers or anyone who wants to publish new stuff in ZeroNet.\n\nThe only resource I could find is the official documentation http://zeronet.readthedocs.org which is still pretty basic.",
+				"added": 1457032650
+			}
+		],
+		"1_1HcCbQWH3xuquT5Z2S4nTk7fqAyoM2AWpi": [
+			{
+				"comment_id": 3,
+				"body": "Even though crypton is right I find the UI to be confusing, what are those options supposed to do?",
+				"added": 1457033482
+			}
+		],
+		"1_18NAazqd14AcVXdCqN29NTUrxSLGyPy5gB": [
+			{
+				"comment_id": 4,
+				"body": "> [ekaterina](#comment_76_1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD): No, ZeroNet doesn't support big files right now (only about 1 Mb, but the actual limit is a timeout for downloads, if a download takes longer it's canceled) and it's unclear if it ever will since so many people use Tor with ZeroNet and that would waste Tor's already small amount of bandwidth. Might have to integrate with an additional decentralized network focusing on file storage, like IPFS or Storj (and I'm sure there are more, lots of interest in this tech now) for streaming and downloading bigger files.\n\nIs the tor bandwidth the only reason we can't stream big files over ZeroNet? I guess if we were to use IPFS over tor we would have the same issue then.\n\nVideo and audio streaming is quite popular on the regular web, and being able to have it decentralized with ZeroNet would be great. In fact, not supporting big files is quite limiting, even some images can easily take more than 1Mb.",
+				"added": 1457086238
+			}
+		],
+		"1_1LRrd96P7FiTcsyNXVzPM5jtpQoH1B4gYf": [
+			{
+				"comment_id": 5,
+				"body": "Right, the source code is on github though https://github.com/HelloZeroNet/ZeroBoard",
+				"added": 1457113753
+			}
+		],
+		"1_1Dg5EwremnCBAkBQSVoXcL4Mp2eSUuCRvn": [
+			{
+				"comment_id": 6,
+				"body": "> [zadquiel09](#comment_1_1Fux9pt9Bzf51VMhBiHXPDsLbBGUGVxMGC): Hola. Dónde esta la página Play?\nhttp://127.0.0.1:43110/1PLAYgDQboKojowD3kwdb3CtWmWaokXvfp",
+				"added": 1457136845
+			},
+			{
+				"comment_id": 15,
+				"body": "> [raito](#comment_10_12uS7AbHMQEc4YKxoPpASsmDSy6fRtEhrw): Foro en español: http://127.0.0.1/165eqHdoQfyf7CVGqtVCGNDvMBZhwVSJBL\n\nhttp://127.0.0.1:43110/165eqHdoQfyf7CVGqtVCGNDvMBZhwVSJBL",
+				"added": 1457210403
+			}
+		],
+		"2_15ymkjUYJS6tjUC35AekGMExZMN6iks8ma": [
+			{
+				"comment_id": 7,
+				"body": "> [nofish](#comment_422_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): I think I was able to create a bundle for mac (no need to install anything, just unpack and run). Please help me verify it's working:\n\nIt's working for me. Thanks!",
+				"added": 1457170547
+			},
+			{
+				"comment_id": 8,
+				"body": "> [nofish](#comment_423_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): Nice, thanks for testing! Whats your OSX version?\n\n10.11.3 El Capitan.",
+				"added": 1457170687
+			},
+			{
+				"comment_id": 12,
+				"body": "> [nofish](#comment_430_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): I will try that when I get OSX access again, but how can I define whats happens when someone executes name.app? Also unsure if the updates via the GUI will work that way, so maybe I will leave it as it is...\n\nI managed to create a shell script to create the app bundle from your package, I uploaded it here:\n\n127.0.0.1:43110/14zQjCbU2BAy3uAUAXN5UJhq8YdAHyzUqK/ZeroNetBundle.zip\n\nIt seems to work for me, give it a try if you like.",
+				"added": 1457206785
+			},
+			{
+				"comment_id": 13,
+				"body": "> [cub3](#comment_12_1LRrd96P7FiTcsyNXVzPM5jtpQoH1B4gYf): \n> 127.0.0.1:43110/14zQjCbU2BAy3uAUAXN5UJhq8YdAHyzUqK/ZeroNetBundle.zip\n\nJust adding the link...\n\nhttp://127.0.0.1:43110/14zQjCbU2BAy3uAUAXN5UJhq8YdAHyzUqK/ZeroNetBundle.zip",
+				"added": 1457206843
+			},
+			{
+				"comment_id": 14,
+				"body": "> [nofish](#comment_431_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): Thanks! I will try it when I have OSX access again.\n\nCould you get the file? It worked before signing and publishing the site, but now I get a \"Media referrer error\" when I try to download it.",
+				"added": 1457207882
+			}
+		],
+		"1_1DcDDitsjFJohvwonPmpibRChmA7uGxqL7": [
+			{
+				"comment_id": 9,
+				"body": "I've sent you a ZeroMail just now.",
+				"added": 1457182415
+			}
+		],
+		"1_14WuynvAFSGKrHExccPBC2BiLdh2DF35Ut": [
+			{
+				"comment_id": 10,
+				"body": "It supports .bit domains which are easier to remember.\n\nhttp://zeronet.readthedocs.org/en/latest/faq/#how-can-i-register-a-bit-domain",
+				"added": 1457189806
+			}
+		],
+		"3_1LRrd96P7FiTcsyNXVzPM5jtpQoH1B4gYf": [
+			{
+				"comment_id": 11,
+				"body": "Thanks @ekaterina, I'll give it a try. I still find it easier to start with plain javascript though, at least I don't have to install the coffee compiler or anything else.",
+				"added": 1457189923
+			}
+		],
+		"3_168qV1Xxp2EyszrzdECLUwXrn9wGYjDdar": [
+			{
+				"comment_id": 16,
+				"body": "HTML5 Games http://127.0.0.1:43110/14zQjCbU2BAy3uAUAXN5UJhq8YdAHyzUqK",
+				"added": 1457212562
+			},
+			{
+				"comment_id": 17,
+				"body": "> [krlf](#comment_1_18RfVGME7R14BmGRcbVbZ1RaHoaeBEKtZ3): hmm, what if my zeronet server is not on local host (links to games on your page don't work for me ;) )\n\nYou're right, I've updated the site and it should be better now. :)",
+				"added": 1457219200
+			}
+		],
+		"4_1LRrd96P7FiTcsyNXVzPM5jtpQoH1B4gYf": [
+			{
+				"comment_id": 18,
+				"body": "> [nofish](#comment_440_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): If you want persistent content you can delete the site's privatekey, so you then noone able to force you to change it. :)\n\nRight, that would work :)",
+				"added": 1457255964
+			},
+			{
+				"comment_id": 19,
+				"body": "> [p2p](#comment_61_13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ): add versioning feature of site's data. any reader of the site can restore it.\n\nYeah, versioning would be really cool, I think IPFS has something like that. What I like about versioning is that you can link to a resource and be sure it will remain the same even if the author updates it in the future.\n\nAnyway, deleting the private key is good enough to prevent a site takedown, just as a last resort as ekaterina pointed out, because you wouldn't be able to update the site any more.",
+				"added": 1457285346
+			}
+		],
+		"8_1MEWJRMLgvofqG9Mbsb2Rc4hFFyv7HeRx7": [
+			{
+				"comment_id": 20,
+				"body": "> [angristan](#comment_49_1MEWJRMLgvofqG9Mbsb2Rc4hFFyv7HeRx7): Thx, where do we get the private key ?\n\nZeroNet will give you the private key when you create the site.",
+				"added": 1457289940
+			}
+		],
+		"1_1M6YbE2LjabKRd7R6v2wuM1bFQnjPZy34A": [
+			{
+				"comment_id": 21,
+				"body": "This is also useful:\nhttp://127.0.0.1:43110/1Mr5rX9TauvaGReB4RjCaE6D37FJQaY5Ba",
+				"added": 1457297804
+			}
+		],
+		"1_17oYQdLkvyzEVPH3hXRtK3ru4FLNKZUD3b": [
+			{
+				"comment_id": 22,
+				"body": "> [lukipuki](#comment_17_1CMYxdit4qq9QGk9DYRu2ruRPd2YDGckH8): I fully agree.I want to be able to censor things for me...\n\nYou made a great summary with some cool ideas in this post http://127.0.0.1:43110/Talk.ZeroNetwork.bit/?Topic:7_17fgJ3tZjhM7HCkTkd5TWf2BLLWmhRKcXB/Probably+not+a+topic+people+want+to+discuss+in+a+decentralized+arena\n\nHowever, the upvote/downvote thing with automatic blocking depending on the peers you trust sounds overcomplicated to me. I would be more than fine having an option to block certain users. Once a user got blocked my local copy of ZeroNet should ignore any content coming from him, be it new sites, comments or anything he published in ZeroNet.\n\nThen there's the problem of automatically seeding content. Someone posts a link, you click on it and boom! you're sharing something that may be ilegal in your country. Yeah, sure you can go to your HelloZeroNet page and remove the site, but I'd rather have a new button on every page, similar to the '0' one we have in the top right corner, that allows me to seed/unseed the site I'm currently visiting. This would also allow me to visit sites which I don't necessarily want to seed.\n\nJust my two cents, I know having ideas is easy, executing them is much harder. Nofish has done an impressive work so far and I'm sure he'll come up with better solutions to all this \"undesirable content\" thing.",
+				"added": 1457371694
+			}
+		],
+		"14_1PNyuY1iZqXBpft4ArouqcnE4pNRGYij5i": [
+			{
+				"comment_id": 23,
+				"body": "Are all sites added manually or do you have some kind of spider adding sites automatically?",
+				"added": 1457378022
+			}
+		],
+		"2_1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD": [
+			{
+				"comment_id": 24,
+				"body": "I don't see that message, the link works as expected on my side.",
+				"added": 1457461383
+			}
+		],
+		"1_1Nr6aSDEanA6buYXN65BsGraN4m5QnncVY": [
+			{
+				"comment_id": 25,
+				"body": "La documentación oficial está solo en inglés. Pero puedes preguntar en ZeroTalk Español, seguro que alguien te puede echar una mano.\n\nhttp://127.0.0.1:43110/165eqHdoQfyf7CVGqtVCGNDvMBZhwVSJBL",
+				"added": 1457509755
+			}
+		],
+		"2_1DFDjUGJdSp1kMuFq1AtNS9ZWmkVtbp947": [
+			{
+				"comment_id": 26,
+				"body": "This is something that's going to happen as ZeroNet becomes more popular, someone's going to want to know who their users are and how they use the site.\n\nI guess the solution would be to block all the tracking scripts with browser plugins, as we do now in the clear net, or to simply block anything that doesn't come from ZeroNet.",
+				"added": 1457592949
+			}
+		],
+		"5_1LRrd96P7FiTcsyNXVzPM5jtpQoH1B4gYf": [
+			{
+				"comment_id": 27,
+				"body": "> [zalex](#comment_51_1LWuc6JBhUGrKEAh1aPrPU85dEMcKmg3pS): Wonderful!\n\nThanks! :)",
+				"added": 1457955286
+			},
+			{
+				"comment_id": 28,
+				"body": "> [ekaterina](#comment_114_1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD): One word, TotallyAbsolutelyAwesome! :) Looks great, too, really nice and clean design.\n> One thing, when I just opened the site for the first time it showed me a dozen or so quickly vanishing messages from ZeroFrame (those that pop up in the top right corner), telling me there were changes to the site, asking me to press \"Yes\" if I want to load them. I just reloaded the site instead and then everything was fine.\n\nI'm not sure were did they come from, I had some issues with ZeroFrame notifications during development, they seemed to pop-up from nowhere. I'll check it out and see if I find anything that could be causing this. Thank you!",
+				"added": 1457955403
+			},
+			{
+				"comment_id": 29,
+				"body": "> [basxto](#comment_31_1PVcdu7USZH2kHMETbqDYLPjJZKCDWM52k): Looks great\n\nThank you!\n\n> I think NullPaste and ZeroTodo are more suitable for that\n\nSure! use the right tool for the job.\n\n> Let the edit wars begin\n\nLet's do it! :)",
+				"added": 1457955594
+			},
+			{
+				"comment_id": 30,
+				"body": "> [kaffie](#comment_73_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh): I can't seem to connect. Can't connect with the bit.no.com:43110 proxy either. Content.json failed to download.\n\nNot sure why that happens, maybe not enough seeders?",
+				"added": 1457955686
+			},
+			{
+				"comment_id": 31,
+				"body": "> [erkan](#comment_54_1H8oKiRa7fGgUqS1hpUtaSYLvAqkaknbkf): a question: http://127.0.0.1:43110/138R53t3ZW7KDfSfxVpWUsMXgwUnsDNXLP/?Page:erkan\n\nI don't have it in a git repo yet, you will need to check the local folder for now, coffee files are included.",
+				"added": 1457956078
+			},
+			{
+				"comment_id": 32,
+				"body": "> [ekaterina](#comment_115_1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD): Worked for me. Do you have Tor working? Maybe it has only Tor: Always peers right now. bit.no.com doesn't have a working Tor, so it can only download from peers who have Tor but don't use the Tor: Always setting (Tor: OK instead), those peers work as a bridge between full Tor users and normal users as I understand it.\n\nYes, maybe it was that, I'm using Tor: Always.",
+				"added": 1457956181
+			},
+			{
+				"comment_id": 33,
+				"body": "> [zalex](#comment_52_1LWuc6JBhUGrKEAh1aPrPU85dEMcKmg3pS): @cub3, what about protection of home page?\n\nThere's no page protection yet, but the \"history\" feature can be used to recover older versions of the page.",
+				"added": 1457956581
+			},
+			{
+				"comment_id": 34,
+				"body": "> [kaffie](#comment_74_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh): I got it working. No tor for me. I'm guessing that was probably the issue. Either way, I've started contributing to the site. I already made a page for Kaffiene.\n\nCool, thank you!",
+				"added": 1457956605
+			},
+			{
+				"comment_id": 35,
+				"body": "> [basxto](#comment_32_1PVcdu7USZH2kHMETbqDYLPjJZKCDWM52k): Please support [[wikisite|alternative naming]] and #tags / categories\n> \n> Proposal: use [☇]() to link also to the real address if you use a .bit-address\n> \n> made ZeroPolls\n\nI'll check this out, thanks for the suggestions :)",
+				"added": 1457956839
+			},
+			{
+				"comment_id": 36,
+				"body": "> [basxto](#comment_35_1PVcdu7USZH2kHMETbqDYLPjJZKCDWM52k): Then I guess using the paper clip (📎) as a permalink symbol would be the most intuitive solution. The other two symbols look too weird in an article.\n\nI'm using fontawesome, it probably makes sense to use one of the icons it includes.",
+				"added": 1457961862
+			},
+			{
+				"comment_id": 37,
+				"body": "> [kaffie](#comment_75_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh): Just an FYI, the capital urls lead back to the homepage. I copied the content and put it into the proper zeropolls page. Should probably rollback the homepage.\n\nThanks kaffie, I already caught a few errors, I'll add this one to the list.",
+				"added": 1457961978
+			},
+			{
+				"comment_id": 41,
+				"body": "> [rumham](#comment_8_1MuqWEiJ8VCCZMHZ6hcJW35RMEgm7VVED5): Does it support anchor links or having different names for links, like [[Zites|List of zites]]\n\nIt's not supported yet.",
+				"added": 1458461047
+			},
+			{
+				"comment_id": 42,
+				"body": "> [jza](#comment_10_1MahZJTzjoEMMCv2jBReDWhyNGRhN5tvDq): Is there a github to the ZeroWiki project?\n\nI've just created the repo.\n\nhttps://github.com/ZeroNetLabs/ZeroWiki",
+				"added": 1458551701
+			}
+		],
+		"6_1LRrd96P7FiTcsyNXVzPM5jtpQoH1B4gYf": [
+			{
+				"comment_id": 38,
+				"body": "Ok, I think I tracked down the issue. This works:\n\n'''\n@keyframes slideDown {\n\t0% { transform: translateY(-100%); }\n\t100% { transform: translateY(0%); }\n}\n'''\n\nBut, removing the space between the ; and } makes it fail. In fact, if I replace that space with a tab it also fails. Can you confirm that?",
+				"added": 1458133589
+			},
+			{
+				"comment_id": 39,
+				"body": "> [nofish](#comment_521_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): Zeroblog has keyframes, so it should work \n\n@nofish it seems like there's an issue with the regular expression in the cssvendor.py file. I could fix it by replacing the first regular expression \"@keyframes (.*? {.*?[^ ]})\" With this one \"@keyframes (.*? {.*})\"\n\nIt seems to work, however, I don't know python and you may want to review it.",
+				"added": 1458147768
+			}
+		],
+		"7_1NzjwWNcVjsX1ndBgkgC1EM5EUzMACGm8L": [
+			{
+				"comment_id": 40,
+				"body": "This tutorial may help:\n\nhttp://127.0.0.1:43110/Blog.ZeroNetwork.bit/?Post:46:ZeroNet+site+development+tutorial+2",
+				"added": 1458294257
+			}
+		],
+		"6_17n5jg4bBEoWodXDf8L4Y2u88ShagS272Y": [
+			{
+				"comment_id": 43,
+				"body": "> [nofish](#comment_556_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): More sites: Social site, Github-like site, Marketplace\n\nDo you know what features or changes are needed in the ZeroNet core to implement this sites? It would be great to know what's coming, other developers would have an idea of what they will be able to build.",
+				"added": 1458551929
+			}
+		],
+		"16_1CMYxdit4qq9QGk9DYRu2ruRPd2YDGckH8": [
+			{
+				"comment_id": 44,
+				"body": "> [nofish](#comment_559_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): If you are the site owner you can delete the user's comments and topics by removing them from user's data.json.\n\nDoes the owner need to sign/publish the site after removing the user's content? and what about modifying the it, can the owner modify the user's content?",
+				"added": 1458568363
+			}
+		],
+		"9_1LRrd96P7FiTcsyNXVzPM5jtpQoH1B4gYf": [
+			{
+				"comment_id": 45,
+				"body": "> [ks](#comment_40_14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx):  will the Kopi site on Zeronet always reflect the latest Github release so that cloning the zite will give you the most up-to-date features?\n\nYes, Kopi should always reflect the code in Github.\n\nThanks for seeding.",
+				"added": 1458727925
+			},
+			{
+				"comment_id": 47,
+				"body": "> [eventi](#comment_23_1DcDDitsjFJohvwonPmpibRChmA7uGxqL7): This is a great idea - Is your intention to illustrate how to do things like Notifications and tricks people have figured out elsewhere?\n\nYes! I'd like to do that as I learn the tricks myself.",
+				"added": 1459016503
+			},
+			{
+				"comment_id": 48,
+				"body": "> [eventi](#comment_24_1DcDDitsjFJohvwonPmpibRChmA7uGxqL7): also it would be cool if you had some of the functionality implemented in sample HTMLs, like login and user saves\n\nYou're right, some sample HTMLs would be helpful.",
+				"added": 1459016565
+			},
+			{
+				"comment_id": 49,
+				"body": "> [rinodrummer](#comment_5_17rxDp8LuLJo3TrKqC19FE41D98sDriyMQ): Hey man, nice start! If you need a hand, 0Mail me at rinodrummer\n\nSure! help is appreciated. Check out the Github repo and feel free to make new pull requests.\n\nThanks.",
+				"added": 1459244349
+			}
+		],
+		"10_17i7Y7r8nTaCfLbCAuaKyc4R5BbKZYU2Hr": [
+			{
+				"comment_id": 46,
+				"body": "> [low](#comment_4_16Wbf1q3ffLLNpzvyrrGczQK1ZRBJAwMro): protonmail.com is one to watch, it's definitely better than using something like gmail.com... if you're talking about an everyday mailer. if not, then definitely research your decentralized options :)\n\nThanks for sharing this one, it looks really cool.",
+				"added": 1458728041
+			}
+		],
+		"1_122KPetK2KEaUbmsuB5GTgSJWfs6DqYY22": [
+			{
+				"comment_id": 50,
+				"body": "/1PLAYgDQboKojowD3kwdb3CtWmWaokXvfp/",
+				"added": 1459347810
+			}
+		],
+		"10_1LRrd96P7FiTcsyNXVzPM5jtpQoH1B4gYf": [
+			{
+				"comment_id": 51,
+				"body": "> [noiamo](#comment_45_14XxpXNGMLsyeQxikacrbQnAFXVyhN5Ngx): Not decentralized not anonymous\n\nI thought it was kind of decentralized. Let's see if they can fix the anonymity part in future versions.",
+				"added": 1459956009
+			}
+		]
+	},
+	"comment_vote": {
+		"7_17fgJ3tZjhM7HCkTkd5TWf2BLLWmhRKcXB": 1,
+		"69_1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD": 1,
+		"70_1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD": 1,
+		"394_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"12_17fgJ3tZjhM7HCkTkd5TWf2BLLWmhRKcXB": 1,
+		"76_1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD": 1,
+		"408_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"77_1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD": 1,
+		"407_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"1_1PBXqFewt3Y4KxdCKBbH3XUydM9BNMHLNW": 1,
+		"78_1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD": 1,
+		"4_13vL6ARzDm7215jaRjFvAATfkxBriSnGmb": 1,
+		"415_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"2_1EJuJnEXcKXLQTk6jR81onMJ4duKnV9id7": 1,
+		"4_16vVtTfGVoabS72uSNMQK8iDiWkQTUdp89": 1,
+		"426_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"10_1AFL4FFT3BuEDwTwVqychMq4LbxjuEY5Ss": 1,
+		"24_17fgJ3tZjhM7HCkTkd5TWf2BLLWmhRKcXB": 1,
+		"6_1JHQA9oFkFpFFRiscyT4N71AKLWg46pQ92": 1,
+		"84_1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD": 1,
+		"10_12uS7AbHMQEc4YKxoPpASsmDSy6fRtEhrw": 1,
+		"25_17fgJ3tZjhM7HCkTkd5TWf2BLLWmhRKcXB": 1,
+		"85_1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD": 1,
+		"440_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"2_13qeq1z87R1kQWDZUQYm3y7tDCLimnhfvS": 1,
+		"9_1DcDDitsjFJohvwonPmpibRChmA7uGxqL7": 1,
+		"61_13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ": 1,
+		"87_1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD": 1,
+		"88_1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD": 1,
+		"27_17fgJ3tZjhM7HCkTkd5TWf2BLLWmhRKcXB": 1,
+		"89_1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD": 1,
+		"13_1xf9XC4Nsa7YfQWFiK6xGsNDJA3AaCTUa": 1,
+		"82_1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD": 1,
+		"18_1CMYxdit4qq9QGk9DYRu2ruRPd2YDGckH8": 1,
+		"91_1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD": 1,
+		"48_1PNyuY1iZqXBpft4ArouqcnE4pNRGYij5i": 1,
+		"93_1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD": 1,
+		"99_1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD": 1,
+		"12_14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx": 1,
+		"1_15SARKNuSBuSxuKe1xqevx3H3pSEep5TgR": 1,
+		"504_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"51_1LWuc6JBhUGrKEAh1aPrPU85dEMcKmg3pS": 1,
+		"114_1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD": 1,
+		"31_1PVcdu7USZH2kHMETbqDYLPjJZKCDWM52k": 1,
+		"73_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1,
+		"54_1H8oKiRa7fGgUqS1hpUtaSYLvAqkaknbkf": 1,
+		"115_1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD": 1,
+		"52_1LWuc6JBhUGrKEAh1aPrPU85dEMcKmg3pS": 1,
+		"74_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1,
+		"75_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1,
+		"55_1H8oKiRa7fGgUqS1hpUtaSYLvAqkaknbkf": 1,
+		"76_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1,
+		"556_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"44_17fgJ3tZjhM7HCkTkd5TWf2BLLWmhRKcXB": 1,
+		"86_1KwTTgPRSTHFmmJAFBt6kQfdyNeSM5KJuH": 1,
+		"559_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"564_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"49_17fgJ3tZjhM7HCkTkd5TWf2BLLWmhRKcXB": 1,
+		"52_17fgJ3tZjhM7HCkTkd5TWf2BLLWmhRKcXB": 1,
+		"4_16Wbf1q3ffLLNpzvyrrGczQK1ZRBJAwMro": 1,
+		"35_16iYwD5U2fNoS22p6447J7992iL3DHjSHY": 1
+	}
+}

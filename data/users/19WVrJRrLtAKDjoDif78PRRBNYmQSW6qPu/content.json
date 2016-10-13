@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HB0BEuot0Axc6K3WC6s3LcPSSCsDZPBiWzkrZ0ZAfiRiVMRWKitv2CZOW6unhGywhRpLJ3WH8xxO7FR3YeGYqNo=",
+ "cert_user_id": "shackleton@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "05111199267b1c805ac71e9f8793084e81b92700beb07225f8ec48b74b53d2fd",
+   "size": 243
+  }
+ },
+ "inner_path": "data/users/19WVrJRrLtAKDjoDif78PRRBNYmQSW6qPu/content.json",
+ "modified": 1459186560.975,
+ "signs": {
+  "19WVrJRrLtAKDjoDif78PRRBNYmQSW6qPu": "G9FO8d2+F9cytc5yH9DH9OiksgrStssDBUDwhtHG2+sheuFmCc2a0vj+0auXuhWAwxcUZM+Z+l6XNibpxYOtTIY="
+ }
+}

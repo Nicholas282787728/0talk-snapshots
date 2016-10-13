@@ -1,0 +1,41 @@
+{
+	"next_topic_id": 3,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "ZeroUpload - Broken and abandoned",
+			"body": "This is probably a long shot, but does anyone know who made ZeroUpload?\n(stuff/ZeroUpload.bit)\nIs it likely that someone will make a functioning replacement?\n\nI've done some snooping around, and it seems that the person that made it uploaded three files and then gave up shortly afterwards leaving it in a nonfunctioning state.\n\nSuch a site is probably fairly simple to develop, and a great service to provide to ZeroNet (i've already seen pdfs linked from ipfs on danknet which could more easily be posted onto a zeronet service). I would imagine that for feasibility reasons it would probably be best to limit it to two or three megabyte uploads.\n\nIf I knew how to javascript, I'd do it myself, but unfortunately I can't. I am willing to help in non-technical ways though if anyone does decide to give it a go.\n\nOr of course, if the ZeroUpload creator manages to be found it would be even easier still if they upped their (close to working already) source to something like GitHub for others to fix, but I don't hold high hopes of that happening.",
+			"added": 1457191102
+		},
+		{
+			"topic_id": 2,
+			"title": "Small File Hosting",
+			"body": "Considering that ZeroUpload is dead, is there a chance that someone will develop a file hosting service for small files (for example less than three megabytes)?\n\nI imagine that once it's in a working state, it would not need much more attention than that, and that of all the types of interactive sites that can be developed, it would probably be one of the easier ones (if it was modeled on a site like pomf.se, it would not even need to have an user facing index of uploaded files)\n\nI'd develop one now, but I lack the skills to do a competent job.",
+			"added": 1457191630
+		}
+	],
+	"topic_vote": {},
+	"next_comment_id": 4,
+	"comment": {
+		"1_13qeq1z87R1kQWDZUQYm3y7tDCLimnhfvS": [
+			{
+				"comment_id": 1,
+				"body": "> [effekt](#comment_31_1PX7VW6xfccTT2tNUTwrYKJpGsGfrnoJfP): The code is in your system if you've been on the site, look here: path/to/ZeroNet-master/data/1Q7dKG1kLuGfUwKdwbVfC7sKo7hEF5nbEr\n\nThe only problem that exists there is the potential licence.\nIt was never stated, so using it to start another site might be illegal.\n\nYou'd need to contact the uploader for permission (and if you can contact them, they might as well hand over the keys to someone else or continue development anyway).",
+				"added": 1457252353
+			},
+			{
+				"comment_id": 3,
+				"body": "> [basxto](#comment_9_1PVcdu7USZH2kHMETbqDYLPjJZKCDWM52k): And that's why we should use https://www.gnu.org/software/librejs/free-your-javascript#magnet-link-license\nIt would've been a lot easier if there was a \"licence of your site\" setting when you are making a site, which automatically defaults at a Creative Commons or GPL licence. Sites with a copyleft or permissive licence could also have a \"download source as zip\" button next to the clone button.\n\nActually, it's not too late for this to be implemented on ZeroNet, it just won't be retroactive on existing websites. The best thing about it is that it is something that the author of a website would *need* to be confronted with, so it isn't as optional (and likely to be ignored by site developers) as something like an additional tag.",
+				"added": 1457269020
+			}
+		],
+		"4_1LRrd96P7FiTcsyNXVzPM5jtpQoH1B4gYf": [
+			{
+				"comment_id": 2,
+				"body": "Potentially, but if your site is the type to be forced down, it's unlikely that the author would allow for that to happen (as it would require the author to actually empty the site). If the content is static, it's also possible for the author to delete/forget their passwords, making it impossible for even them to remove the site.\n\nEven then, ZeroNet sites are self contained (like you can access them completely offline), so someone who had not connected to the network after it was blanked (or knowingly archived the site) would be able to reupload the site from the files cached on their machine.",
+				"added": 1457255204
+			}
+		]
+	},
+	"comment_vote": {}
+}

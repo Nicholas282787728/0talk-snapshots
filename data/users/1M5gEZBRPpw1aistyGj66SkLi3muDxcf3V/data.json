@@ -1,0 +1,38 @@
+{
+	"next_topic_id": 4,
+	"topic": [
+		{
+			"topic_id": 2,
+			"title": "music??",
+			"body": "i need the complete discography of John Williams",
+			"added": 1462387951
+		},
+		{
+			"topic_id": 3,
+			"title": "kaffiene?",
+			"body": "",
+			"added": 1464751018
+		}
+	],
+	"topic_vote": {
+		"3_1M5gEZBRPpw1aistyGj66SkLi3muDxcf3V": 1
+	},
+	"next_comment_id": 3,
+	"comment": {
+		"1_187cAJeVzcheVP5rTwX5LfcCfr2YBVus8w": [
+			{
+				"comment_id": 1,
+				"body": "hey , de donde  eres? jaja",
+				"added": 1459308138
+			}
+		],
+		"1_18jipjDsfAxAuq4ixbi2w24xJrYVfTYFPn": [
+			{
+				"comment_id": 2,
+				"body": "México",
+				"added": 1459308282
+			}
+		]
+	},
+	"comment_vote": {}
+}

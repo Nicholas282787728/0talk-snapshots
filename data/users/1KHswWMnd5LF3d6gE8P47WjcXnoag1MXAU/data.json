@@ -1,0 +1,24 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {
+		"3_14PXH1VLXEseL1h6gLpHqi3bXEAdamDwgg": 1,
+		"4_1P8VJL2iKWfUB4hqQkrFdXCbC8RrimAZoZ": 1,
+		"1_1DXR2Di8Ks9JijfNycWErpenoxxchrdWBB": 1,
+		"2_1FYXQGLBeNabf5jZHgP4CwzbmJSKaK4oMz": 1,
+		"4_13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ": 1
+	},
+	"next_comment_id": 2,
+	"comment": {
+		"4_1P8VJL2iKWfUB4hqQkrFdXCbC8RrimAZoZ": [
+			{
+				"comment_id": 1,
+				"body": "Whats the source of the code that gets the ip? is this a bug in zeronet?\n\nEDIT:\nWow forget what I said, I hadn't realize my browser wasn't blocking clearnet connections. \n\nIf you want to allow only exclusive access to 0net, look at http://127.0.0.1:43110/zeroblog.bit/?Post:60:protect+yourselves:+set+a+non-working+proxy",
+				"added": 1462848635
+			}
+		]
+	},
+	"comment_vote": {
+		"1_1KHswWMnd5LF3d6gE8P47WjcXnoag1MXAU": 1
+	}
+}

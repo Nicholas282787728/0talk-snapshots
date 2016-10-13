@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HMkpehqMbxbRvC8xxMF64czH9MmRzoSmvrAQYiWpQaifJ0tZclhSrhETj2cDTGV2c34C7e5RuWa/TlJXbKZTA/Q=",
+ "cert_user_id": "osomax@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "fb182f3b040aa0c70f63050eaed98d28edab5c3096f47889b4cd9f6d33f65c36",
+   "size": 265
+  }
+ },
+ "inner_path": "data/users/1Gwjq2128zFpD8APTiiARDYkmJy4mvRMth/content.json",
+ "modified": 1457017770.596,
+ "signs": {
+  "1Gwjq2128zFpD8APTiiARDYkmJy4mvRMth": "GyKmsBA2JTWDCRjgHPz8uwedjHWsrhNfQdShGZJIuVFuo11dPBN188YhRiFkoQmfDsM1+N2WPA8fnyS2gXYWQms="
+ }
+}

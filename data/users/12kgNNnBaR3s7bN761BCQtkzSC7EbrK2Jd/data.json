@@ -1,0 +1,16 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 2,
+	"comment": {
+		"1_1UfvLnMuzShvi3phWGSqn79tio81Wn9Dt": [
+			{
+				"comment_id": 1,
+				"body": "好吧，菜鸟请教如何吧zeronet数据流定向到ss之类的翻墙客户端上去？\n\nss都是 我自己配置的",
+				"added": 1460280889
+			}
+		]
+	},
+	"comment_vote": {}
+}

@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HOLDGBGGp7uIUBh/slmpGSqmhOmucUGNO4etEPY6p77PQ2njBB2+q3OjZOyKNnp72ldyzDPJ0lRqhunx0xpG/NQ=",
+ "cert_user_id": "zenon@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "66ab9e67c15e62e074797be9af4d8e31a0c22b270c7b66711d1ba2df2740dddd",
+   "size": 251
+  }
+ },
+ "inner_path": "data/users/1HfDqoFFAr26Xitu5WS23482dxRbGkuQcs/content.json",
+ "modified": 1463119346.903,
+ "signs": {
+  "1HfDqoFFAr26Xitu5WS23482dxRbGkuQcs": "Gwwn+WfslEg/5UPcNgh+TZcwT39MUhUM3pkDwcEjWvmgX8KCQ2uI920Nyyfc93MRktvLb13/5YPTohNGxK7K1+s="
+ }
+}

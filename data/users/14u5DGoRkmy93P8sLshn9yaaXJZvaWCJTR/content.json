@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "G9dtNYnpohY/ZjFPP0XDbrLfDIke6M84YjiAfyM1JwaPIS9sdFdG6M2APGZUKYo8xnce/65LvD4EVJCh3V9IsJY=",
+ "cert_user_id": "sidaphextwin@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "9233c6faf4b333d5a48e92cbd9b94f357a65cafd5bea852581f328aedb708f0e",
+   "size": 207
+  }
+ },
+ "inner_path": "data/users/14u5DGoRkmy93P8sLshn9yaaXJZvaWCJTR/content.json",
+ "modified": 1457069549.535,
+ "signs": {
+  "14u5DGoRkmy93P8sLshn9yaaXJZvaWCJTR": "G9jN28fs21N7BJDDekVr1OfXFczb8hJDXcN82UZNAXQ1gZItuz9B6NAHQ/ZCqrCYUnewaw+NvSXltb1yA+iNhoI="
+ }
+}

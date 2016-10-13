@@ -1,0 +1,16 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 2,
+	"comment": {
+		"1_1E3v8KeMYkrG9sKnbeaEufooqNcicW6N27": [
+			{
+				"comment_id": 1,
+				"body": "amazingly extensive and polished for such a young project.\nGreat potential, I can think of a number of web services that would benefit greatly from what this makes possible, I can't wait to see what services others will think of for it.\nThe hard part as always will be explaining to people why it is so important.",
+				"added": 1467121626
+			}
+		]
+	},
+	"comment_vote": {}
+}

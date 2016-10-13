@@ -1,0 +1,83 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {
+		"1_1FY2Aej66JkkqSGGHq39nwW9JzcGoAzuhc": 1,
+		"2_1BLPKyrF2D4ertte6JnAa6oWAMYzZGwKQz": 1,
+		"1_14VgzghZFKQt28FF1Ye322pxkxZDpisekU": 1
+	},
+	"next_comment_id": 11,
+	"comment": {
+		"1_1ARmoCDkmZkYWAMCipxPqbUoT4akypoPoE": [
+			{
+				"comment_id": 1,
+				"body": "Just wait some time. Life is short.",
+				"added": 1461554702
+			}
+		],
+		"1_1K7fPamTWE8J9ogsdFoyjmtjq1FjBeRQGW": [
+			{
+				"comment_id": 2,
+				"body": "freedom is slavery",
+				"added": 1461605741
+			}
+		],
+		"54_1GtJqyJRsuZhmxVtw5USgvqGbUmVH7EmBD": [
+			{
+				"comment_id": 3,
+				"body": "Need to implement a feature: downloading random optional files, and not all. And settings like \n\n>Download and help distribute all files\n\nbut \n\n>Download and help distribute _______ MB of the optional files:",
+				"added": 1461733724
+			}
+		],
+		"1_1NhzhmkUZMUAYqNj2YsiC9pW97cqZGmPYB": [
+			{
+				"comment_id": 4,
+				"body": "i am your father",
+				"added": 1463348731
+			}
+		],
+		"5805_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG": [
+			{
+				"comment_id": 5,
+				"body": "Active developed alcoins with the big communities are good. There is no wealth in unmaintained altcoins. If even client source code is not updated for years.",
+				"added": 1463778369
+			}
+		],
+		"18_1P8VJL2iKWfUB4hqQkrFdXCbC8RrimAZoZ": [
+			{
+				"comment_id": 6,
+				"body": "Are there any kind of smart-contracts or consensus in ZeroNet? ZeroNet and Ethereum are very different platforms.",
+				"added": 1464138215
+			},
+			{
+				"comment_id": 8,
+				"body": "Just read the docs.",
+				"added": 1464148021
+			}
+		],
+		"1_153e5GErvi2VZiV4pKiPwsWUAXYkS7Mznz": [
+			{
+				"comment_id": 7,
+				"body": "Sad but there are no memes in ZeroNet.",
+				"added": 1464138331
+			}
+		],
+		"4_1HDGK4rrMzuouF8hNnxfMNpWyR8qAtP4HR": [
+			{
+				"comment_id": 9,
+				"body": "Hard fork means that the investors and the Ether holders is prefer for Ethereum Foundation than the users and the developers of a contracts. Now Ethereum seems to me like a ponzi scheme.",
+				"added": 1466221213
+			}
+		],
+		"2_1AZjDLkfYwSmjM7ZJUf7HHnrF778augRMa": [
+			{
+				"comment_id": 10,
+				"body": "Censorship is a criminal too.",
+				"added": 1470970164
+			}
+		]
+	},
+	"comment_vote": {
+		"1_14hmooEwrfUnqe9nDhZAG1wMNdW7qR8SME": 1
+	}
+}

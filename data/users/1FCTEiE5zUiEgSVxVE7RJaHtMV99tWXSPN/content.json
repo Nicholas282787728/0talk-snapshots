@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HLb//OLkiCes3Bog/tibfg1CaSF/+rA0QWUXttSMPWrS+3PuGdgtByfoNEa6K1q7T9bh5EaXilzB3ryVgMaYMVw=",
+ "cert_user_id": "matteotaiko@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "c82775a1f860ac9119966a7676bbbb30ab1f97cdef6a324d074282a18863bf04",
+   "size": 377
+  }
+ },
+ "inner_path": "data/users/1FCTEiE5zUiEgSVxVE7RJaHtMV99tWXSPN/content.json",
+ "modified": 1457687521.533,
+ "signs": {
+  "1FCTEiE5zUiEgSVxVE7RJaHtMV99tWXSPN": "HPhKxtaBc/klcLsgmdNxtFzC+DjfCaAA8Die7hZ/5Sn4JChxM8yfsPqFPl10/SjFQoGFq4CYP4h4Q/LIqLFaYAA="
+ }
+}

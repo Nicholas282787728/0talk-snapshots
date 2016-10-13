@@ -1,0 +1,56 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "Public preDB (Release DB)",
+			"body": "http://127.0.0.1:43110/15WzFc5vFZqz4kdbHKnay8AaLWHzFsDLMH",
+			"added": 1456909235
+		}
+	],
+	"topic_vote": {
+		"1_138GzoNVM8xyv3ZfVTsfAz5dr5gUV7yAV7": 1
+	},
+	"next_comment_id": 7,
+	"comment": {
+		"1_138GzoNVM8xyv3ZfVTsfAz5dr5gUV7yAV7": [
+			{
+				"comment_id": 1,
+				"body": "@nofish thx done :)",
+				"added": 1456909767
+			},
+			{
+				"comment_id": 2,
+				"body": "> [nofish](#comment_368_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): Kind of minimal, but working now! :)\n\ni will add more features just learning zeronet ;) i already have the knownledge of python,html,css,php etc ... how i push updates on zeronet ?",
+				"added": 1456910292
+			},
+			{
+				"comment_id": 3,
+				"body": "Okay found it :D isnt really there a way to paste a private key into command, since i want automate it via for example shell script ...\n\n\nHow can I modify a ZeroNet site?\n\n    Modify files located in data/13DNDkMUExRf9Xa9ogwPKqp7zyHFEqbhC2 directory. After you’re finished:\n\n$ zeronet.py siteSign 13DNDkMUExRf9Xa9ogwPKqp7zyHFEqbhC2\n- Signing site: 13DNDkMUExRf9Xa9ogwPKqp7zyHFEqbhC2...\nPrivate key (input hidden):\n\n    Enter the private key you got when created the site, then:\n\n$ zeronet.py sitePublish 13DNDkMUExRf9Xa9ogwPKqp7zyHFEqbhC2\n...\nSite:13DNDk..bhC2 Publishing to 3/10 peers...\nSite:13DNDk..bhC2 Successfuly published to 3 peers\n- Serving files....\n\n    That’s it! You’ve successfully signed and published your modifications.",
+				"added": 1456911779
+			},
+			{
+				"comment_id": 4,
+				"body": "> [nofish](#comment_370_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): Sure, pass it as the second parameter after your sites address: zeronet.py siteSign 15WzFc5vFZqz4kdbHKnay8AaLWHzFsDLMH yourprivatekey --publish\n\nsimple as hell thx :D now just add into crontab and i am fine :D",
+				"added": 1456912034
+			},
+			{
+				"comment_id": 6,
+				"body": "Just added \"Updated : date_blahtime\"",
+				"added": 1456924319
+			}
+		],
+		"1_16Hg8ux8t4gqZjGgiEUWQ8xAsqJrtJv7MC": [
+			{
+				"comment_id": 5,
+				"body": "i",
+				"added": 1456913435
+			}
+		]
+	},
+	"comment_vote": {
+		"368_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"370_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"369_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1
+	}
+}

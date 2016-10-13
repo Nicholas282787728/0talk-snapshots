@@ -1,0 +1,12 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HJc1Nh6QaWq4vFY/oIOS67NLP6zbU8/VufNEKuH60RvY8jc3CUUaHKq/FwHdHDbSJrU5WtzQ9vvsdCYqRI4j4Pw=",
+ "cert_user_id": "linuxawi@zeroid.bit",
+ "files": {},
+ "inner_path": "data/users/1L6DBGszznotkrAUQo4pdyCCJfH7sh8gdY/content.json",
+ "modified": 1462752246.001,
+ "signs": {
+  "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT": "HGDzEm7oX/uXSycKPpuvRv++1GHfVxspBYui2ECEXcVIm+2QqqZi09O5a7hLzJS5DYGGk8LgWIWQJJIKrBvPShc="
+ }
+}

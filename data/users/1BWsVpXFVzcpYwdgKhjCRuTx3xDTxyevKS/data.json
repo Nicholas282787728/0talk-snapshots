@@ -1,0 +1,128 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {
+		"4_13KqD3BoaRMudEG5QU2fnGLkSVx8qDXKof": 1,
+		"1_167eTX5f6jJt4HPvfQqf2QuwdTFCnxJCf2": 1,
+		"3834_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG": 1,
+		"3849_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG": 1,
+		"1_12SuCFUNDaMYRHG9DsWCyCN1NgHGjddwSJ": 1,
+		"3_1NibKcCcidCHue94Rhr7F4Gvu3Lg6FAESp": 1,
+		"1_1NHZ2FfVkeCBzr2iS1cVnzf5xZfN4ZWEik": 1,
+		"3921_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG": 1,
+		"17_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf": 1,
+		"1_1M6scJRBJiCnXTM4wPKK6gAGHzs9HMbf4V": 1,
+		"3950_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG": 1,
+		"3951_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG": 1,
+		"1_1L8g4aCkau2mQopHjDQejcyy3Wka2BUJu9": 1,
+		"3959_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG": 1,
+		"3954_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG": 1,
+		"2_1PPqTMbH8Uwrk496grUVuBk57dSoeU9hig": 1,
+		"1_1LxrhkW4oNs2psLiQNm1Ppk2YbCLyJbC62": 1,
+		"3_15y72LFjQ4ymUTnkJP6CC7r73R5uoePgFW": 1,
+		"1_1FLf4EythVqZASkMdARs4DXdHeugh3USYq": 1,
+		"4283_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG": 1,
+		"4279_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG": 1,
+		"4278_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG": 1,
+		"2_14CxrQGKkqTPKda94c9j1z7zBX3q53dPfr": 1,
+		"3_15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ": 1
+	},
+	"next_comment_id": 5,
+	"comment": {
+		"10_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf": [
+			{
+				"comment_id": 1,
+				"body": "I think Zeronet just needs a working decentralized search engine, installers for different operating systems, some basic video tutorials, a little bit of volunteer marketing, and more good content for mainstream ordinary people to start using it daily since it's already so much easier to use than many other alternative internet projects that it will probably start selling itself when enough individuals catch on.",
+				"added": 1454588054
+			}
+		],
+		"1_167eTX5f6jJt4HPvfQqf2QuwdTFCnxJCf2": [
+			{
+				"comment_id": 2,
+				"body": "They should probably start hosting images in the _img_ folder of their website to stay more anonymous or _Zerbundle > Zeronet > data > yourwebsite > img_. I've also linked images from other Zeronet sites which allow image hosting [here](http://127.0.0.1:43110/0chan.bit) and [here](http://127.0.0.1:43110/1C2JhCunGLtvyX56nQ88tcb87WnXspjWN). Of course, like stated earlier, the only thing needed now is a site which has more anonymity so images aren't always posted publicly whenever they're uploaded.",
+				"added": 1454796723
+			}
+		],
+		"3_168qV1Xxp2EyszrzdECLUwXrn9wGYjDdar": [
+			{
+				"comment_id": 3,
+				"body": "> [harry2](#comment_7_167eTX5f6jJt4HPvfQqf2QuwdTFCnxJCf2): SimCity Javascript: http://127.0.0.1:43110/13ozLST1c4rqUjCNLg1YFGWnYVVfPsVqnV\n\nWow. All I can say is Wow even though it's not WOW.",
+				"added": 1455031088
+			}
+		],
+		"14_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf": [
+			{
+				"comment_id": 4,
+				"body": "> [zozon](#comment_84_1QBLGLcgKfcpfLmiDYuDzUKVXFfmTAew55): Freenet is extremely inert system (imho) but net 'chatty', yes there is some activity and bots working but it is hard to tell what happens behind the scenes. but socially its far less dynamic than 0 net\n\nIMO 0-Net seems like it was designed more for usability while Freenet sacrifices some usability for more security and censorship resistance.",
+				"added": 1455569050
+			}
+		]
+	},
+	"comment_vote": {
+		"10_1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD": 1,
+		"21_1LWuc6JBhUGrKEAh1aPrPU85dEMcKmg3pS": 1,
+		"91_1ED3Ho3kmzaKiECtyuqSjDpoE47rKuXeP": 1,
+		"90_1ED3Ho3kmzaKiECtyuqSjDpoE47rKuXeP": 1,
+		"20_1MGse2Xfdae1FkAiGoHzWTeFx4Mo2yEqfH": 1,
+		"14_1MGse2Xfdae1FkAiGoHzWTeFx4Mo2yEqfH": 1,
+		"46_1QBLGLcgKfcpfLmiDYuDzUKVXFfmTAew55": 1,
+		"44_1QBLGLcgKfcpfLmiDYuDzUKVXFfmTAew55": 1,
+		"1_1LyYvjLgj8X5T8HMkcKVCnSVdT4kPpt6tJ": 1,
+		"5_1MmPY9fniJwwhP6WsgH4jWoq5rBAVV6KWy": 1,
+		"237_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"13_13KqD3BoaRMudEG5QU2fnGLkSVx8qDXKof": 1,
+		"4_13KqD3BoaRMudEG5QU2fnGLkSVx8qDXKof": 1,
+		"11_1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD": 1,
+		"10_17i7Y7r8nTaCfLbCAuaKyc4R5BbKZYU2Hr": 1,
+		"14_1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD": 1,
+		"251_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"3_14XxpXNGMLsyeQxikacrbQnAFXVyhN5Ngx": 1,
+		"17_13KqD3BoaRMudEG5QU2fnGLkSVx8qDXKof": 1,
+		"12_17i7Y7r8nTaCfLbCAuaKyc4R5BbKZYU2Hr": 1,
+		"18_13KqD3BoaRMudEG5QU2fnGLkSVx8qDXKof": 1,
+		"13_17i7Y7r8nTaCfLbCAuaKyc4R5BbKZYU2Hr": 1,
+		"259_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"99_1ED3Ho3kmzaKiECtyuqSjDpoE47rKuXeP": 1,
+		"26_15QGRquMETTn5LnCHjTm1qa9eaXGtq7gpT": 1,
+		"60_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf": 1,
+		"16_17i7Y7r8nTaCfLbCAuaKyc4R5BbKZYU2Hr": 1,
+		"89_1KTjPe9MxoYkcXj78GuZgCcj3R3f3Twh7r": 1,
+		"267_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"91_1KTjPe9MxoYkcXj78GuZgCcj3R3f3Twh7r": 1,
+		"8_1APx2pf1wNGFz4mWCN2sFzrtTGzrLKZUQ2": 1,
+		"7_167eTX5f6jJt4HPvfQqf2QuwdTFCnxJCf2": 1,
+		"11_167eTX5f6jJt4HPvfQqf2QuwdTFCnxJCf2": 1,
+		"93_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf": 1,
+		"27_15QGRquMETTn5LnCHjTm1qa9eaXGtq7gpT": 1,
+		"284_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"1_17eqyrLy9JS7zUKe6xH2yVPemhLWmZELkG": 1,
+		"70_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf": 1,
+		"287_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"15_1KwTTgPRSTHFmmJAFBt6kQfdyNeSM5KJuH": 1,
+		"294_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"8_1HwYER58xAxchBDL6WKRqKuPZzmwSvMwjY": 1,
+		"297_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"17_1MmPY9fniJwwhP6WsgH4jWoq5rBAVV6KWy": 1,
+		"77_1QBLGLcgKfcpfLmiDYuDzUKVXFfmTAew55": 1,
+		"2_1FqvJqX8FrbhkgGX6ag8azqZSye7SqfAm1": 1,
+		"88_1QBLGLcgKfcpfLmiDYuDzUKVXFfmTAew55": 1,
+		"87_1QBLGLcgKfcpfLmiDYuDzUKVXFfmTAew55": 1,
+		"118_1ED3Ho3kmzaKiECtyuqSjDpoE47rKuXeP": 1,
+		"115_1ED3Ho3kmzaKiECtyuqSjDpoE47rKuXeP": 1,
+		"99_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf": 1,
+		"1_13NzkresWLd7Eda21KhEWox3BqrASnVTyD": 1,
+		"1_1EUyJtat7mbu5wMcR6nrJTPBBRons1mtMA": 1,
+		"1_12B7zw6u7sm1jZnZThRyCAD4ALonNc1fhZ": 1,
+		"1_121574YvJUdvA5qZmoWnRQb8kdV5HUak5x": 1,
+		"1_1GzEcwMDJL8NFiAfrgkmrbGSzYZaXgcvEJ": 1,
+		"1_129QJf5wNxEzAB7Rh29LXyy3RBesRybY8o": 1,
+		"1_1CyVcn9F6pHJqm3ChRDkmbJ6d8pANy7X2P": 1,
+		"1_17hE8LE6VuzL1KtGLAGogGxvMampbWffbC": 1,
+		"1_1LQuNqXW3NmNMznnZJoTPXNW6TvmXqRQ96": 1,
+		"1_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1,
+		"2_1FLf4EythVqZASkMdARs4DXdHeugh3USYq": 1,
+		"2_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1,
+		"9_1HwYER58xAxchBDL6WKRqKuPZzmwSvMwjY": 1,
+		"11_1KGozab6jp6jA6zVM8cTFdzMmBasriNP4f": 1
+	}
+}

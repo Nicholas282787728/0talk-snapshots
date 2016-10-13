@@ -1,0 +1,78 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {
+		"6129_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG": 1,
+		"6124_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG": 1,
+		"5_1ADB7TdX2fVbTsWBoMe9yBTmVXTbb33b4R": 1,
+		"1_19mfoBRfUNYUhv9MAeihggMTW6ejWcctJi": 1,
+		"6149_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG": 1,
+		"6_13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ": 1,
+		"7_1ADB7TdX2fVbTsWBoMe9yBTmVXTbb33b4R": 1
+	},
+	"next_comment_id": 10,
+	"comment": {
+		"5_1ADB7TdX2fVbTsWBoMe9yBTmVXTbb33b4R": [
+			{
+				"comment_id": 1,
+				"body": "This is Scrub. I cannot even connect to the main site (1HeLLo4uzjaLetFx6NH3PMwFP3qbRbTf3D) as it says there is no peers found. How can I even make it Tor only mode with bridges? I cannot use Tor without bridges because my school is shit.",
+				"added": 1465180417
+			},
+			{
+				"comment_id": 2,
+				"body": "> [ancap](#comment_61_1FYXQGLBeNabf5jZHgP4CwzbmJSKaK4oMz): If you can connect to a VPN why would you use Tor (if the only objective is to connect, and not stay anonymous)?\n\nI cannot connect to any VPNs, they're all blocked.",
+				"added": 1465180511
+			},
+			{
+				"comment_id": 4,
+				"body": "> [teszt](#comment_13_1AdcxsExVKvxffQtEd72E5tckouzZHLEYC): There is no technique in the world which can block all VPNs(without blocking the internet) as far as I know.\n\nCrap, I forgot to mention that they were on SoftEther. They're the one's all blocked.",
+				"added": 1465354711
+			}
+		],
+		"1_19mfoBRfUNYUhv9MAeihggMTW6ejWcctJi": [
+			{
+				"comment_id": 3,
+				"body": "How do I get it to connect from proxy as well? (I'm on a proxy for ZeroNet atm. I will also add that I use custom bridges.)",
+				"added": 1465381796
+			},
+			{
+				"comment_id": 5,
+				"body": "I still can't get it to work at school. ;c",
+				"added": 1465479316
+			},
+			{
+				"comment_id": 6,
+				"body": "This is my ZeroNet's torrc file:\n\n# Tor config for ZeroNet\n\nDataDirectory data\nDirReqStatistics 0\nGeoIPFile geoip\\geoip\nGeoIPv6File geoip\\geoip6\n\nLog notice file data\\notice.log\n\nControlPort 49051\nSOCKSPort 49050\n\nCookieAuthentication 1\n\nClientTransportPlugin fte exec data\\PluggableTransports\\fteproxy --managed\nClientTransportPlugin obfs2,obfs3,obfs4,scramblesuit exec data\\PluggableTransports\\obfs4proxy\n\nUseBridges 1\nBridge xxx.xxx.xxx:xxx jiwfiwfiwqjfiqwhfdiq8ry18u1rji198u481481y8dijdyeeeee\nBridge xxx.xxx.xxx:xxx jiwfiwfiwqjfiqwhfdiq8ry18u1rji198u481481y8dijdyeeeee\nBridge xxx.xxx.xxx:xxx jiwfiwfiwqjfiqwhfdiq8ry18u1rji198u481481y8dijdyeeeee\nBridge xxx.xxx.xxx:xxx jiwfiwfiwqjfiqwhfdiq8ry18u1rji198u481481y8dijdyeeeee\nBridge xxx.xxx.xxx:xxx jiwfiwfiwqjfiqwhfdiq8ry18u1rji198u481481y8dijdyeeeee\nBridge xxx.xxx.xxx:xxx jiwfiwfiwqjfiqwhfdiq8ry18u1rji198u481481y8dijdyeeeee\n\nHiddenServiceStatistics 0\n\nHTTPProxy proxy.ihavehiddenthis:8080\n# HTTPProxyAuthenticator Username:Password This isn't needed as I can use the Tor Browser Bundle without doing this. \n\nTallow was able to connect to Tor with this, but ZeroNet doesn't work.",
+				"added": 1465486083
+			}
+		],
+		"6148_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG": [
+			{
+				"comment_id": 7,
+				"body": "KAT and TPB should come to ZeroNet and IPFS. :D",
+				"added": 1465486391
+			}
+		],
+		"6_13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ": [
+			{
+				"comment_id": 8,
+				"body": "Here's the address in ZeroNet: 127.0.0.1:43110/16Ryx9pbfzaPb1dbttA6DiFojHQGqrMokU/",
+				"added": 1465486907
+			}
+		],
+		"1_17sW2YqGQH9oYr1BAoLk51Fg9Nfr6qZ5Hn": [
+			{
+				"comment_id": 9,
+				"body": "No, just me, GabeN Newell. (From Australia)",
+				"added": 1465516207
+			}
+		]
+	},
+	"comment_vote": {
+		"5_1674XymFPbmAXh78xEpt3Pehtko6i2kvtA": 1,
+		"1_19mfoBRfUNYUhv9MAeihggMTW6ejWcctJi": 1,
+		"3_1Hw8MgzEGWsLfBRhKkCfah1SLqXoh2f64g": 1,
+		"87_1ADB7TdX2fVbTsWBoMe9yBTmVXTbb33b4R": 1,
+		"170_13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ": 1
+	}
+}

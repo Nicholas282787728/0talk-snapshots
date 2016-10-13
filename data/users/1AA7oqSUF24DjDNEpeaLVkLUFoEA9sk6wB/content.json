@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "G4sagUQskZshoGrbxmPFTjPp59br9PGFFn5tB9r1NveuGzV0vnfgGiK4Z/2gbOD2FRqNHSXcxRUv93Pj1fiUc38=",
+ "cert_user_id": "honbolau@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "e429ae2b218c18abea1913d2f9f8aa35bda22d2b998a06f3d6672f40662bc926",
+   "size": 239
+  }
+ },
+ "inner_path": "data/users/1AA7oqSUF24DjDNEpeaLVkLUFoEA9sk6wB/content.json",
+ "modified": 1472962088.933756,
+ "signs": {
+  "1AA7oqSUF24DjDNEpeaLVkLUFoEA9sk6wB": "G/qF/2KZnQx0zt3DYFriNa3HXV171/pAfPq8YGfad1LKXMaLZQAavIm3jU8Gywg11sFcSJqmxo4l3/KVvA7+PPA="
+ }
+}

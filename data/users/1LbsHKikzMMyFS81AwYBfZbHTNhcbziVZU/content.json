@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "G8TdQ2KTbsJyFZ0nvRh8CWVxxyBQJ1x/mXw+WeulKDd/cFEY/e1NmnoW40yz1pi5jHpVWO3sd0t84tpIWadC3fY=",
+ "cert_user_id": "erictegels@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "ea59410c342a3bfd2436106f8ec9627ca9f77e11dabdc40d4c83b3a3344ed4bd",
+   "size": 248
+  }
+ },
+ "inner_path": "data/users/1LbsHKikzMMyFS81AwYBfZbHTNhcbziVZU/content.json",
+ "modified": 1456794380.316,
+ "signs": {
+  "1LbsHKikzMMyFS81AwYBfZbHTNhcbziVZU": "Gya9Gybg3nxSkA9oKOfJTXcMYJyTLhbPsSDQYtDfBYg/cBKsc/p+6wJsNd6zRjrBs57tuadL86gOciD/BCq5las="
+ }
+}

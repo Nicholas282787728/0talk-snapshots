@@ -1,0 +1,44 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "You know what makes me sad? Humans...",
+			"body": "So, I discovered ZeroNet yesterday. It is awesome, the idea of a self-regenerative website seems wonderful, right? Except that it took me only 24 hours to find underage porn pics... That's fucking sad! You have this wonderful and amazing network, and one of the first things you find is underage girls... \n\nBy the way, this raise a fucked up thing... If you download everything you browse, I automatically got the underage teen pics on my PC... This is awful! Dark even! \n\nDammt, I fucking hate humans...",
+			"added": 1466119079
+		}
+	],
+	"topic_vote": {},
+	"next_comment_id": 5,
+	"comment": {
+		"2_1C1pqw3EhTRk5ciHHPB283xu1EUxsGhCpo": [
+			{
+				"comment_id": 1,
+				"body": "I believe if you activate the node function (download everything and keep it seeding) you'll be half way through already... Configure a VPS instance with it and then activate a node, that way you'll have a 24/7 live, 99.9% uptime search engine that actually search inside the downloaded websites... Just guessing...",
+				"added": 1466117963
+			}
+		],
+		"2_1BLPKyrF2D4ertte6JnAa6oWAMYzZGwKQz": [
+			{
+				"comment_id": 2,
+				"body": "I would led Turing fuck me... It's fucking Turing!",
+				"added": 1466119150
+			}
+		],
+		"1_1FoCQCBaoX3Fi85goewPLRLr1mxFqmCKNU": [
+			{
+				"comment_id": 3,
+				"body": "hi from brazil!",
+				"added": 1466120131
+			}
+		],
+		"1_1PAo8TcX1nQGNtFRAKirp1uAoTt3btNdti": [
+			{
+				"comment_id": 4,
+				"body": "> [pedoblocker](#comment_1_1JEmH2pfXkpMMdzsJ256jzq2GTSxEacS2B): No reason to hate humanity. The human brain is an immensely complex thing, containing millions of \"wires\", and if only a few of them are wrongly connected or faulty, it may lead to bad or questionable decisions being made. That's at least my explanation why some of the bad things happen. In my opinion, there's a good change that evilness doesn't really exist. \n> PS: You can report potentially unwanted zeronet files here, if you want:http://127.0.0.1:43110/pedoblocker.bit\n\nThis website is actually an amazing tip! Thanks [pedoblocker]! \nWould be great if someone could make a script that download a new version of the list and put a placeholder before starting ZeroNet.sh!\n\nKeeping in mind the amount of files that get to your PC when running Zeronet (in one hour I already god 34.465 files on low usage), manually creating the placeholders would be a nightmare...",
+				"added": 1466122303
+			}
+		]
+	},
+	"comment_vote": {}
+}

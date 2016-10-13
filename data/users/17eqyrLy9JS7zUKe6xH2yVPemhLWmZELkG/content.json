@@ -1,0 +1,15 @@
+{
+ "cert_auth_type": "web",
+ "cert_sign": "Gx7FHhMCa0HtuJq8CbmlY5Vd0FrU8pjQdeWr+aY5ym8Aq9M0kDF7K6Mfbw7Wcmsb8yN0P3kbij5ax8MVNb2+EJc=",
+ "cert_user_id": "ovit@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "5eb527eecf5a8778cccbaa27568b97f1b805ab95b5f9ed5cd4075e5a62eaeb7f",
+   "size": 436
+  }
+ },
+ "modified": 1455207070.507,
+ "signs": {
+  "17eqyrLy9JS7zUKe6xH2yVPemhLWmZELkG": "G25fKu7blrmkowhbgbE/F2aMJl+vmbtrk0jr+kmCM9s4/nGSlILY8zgooOX+8hdL3lxaF8ScUilbhghtfTvahEo="
+ }
+}

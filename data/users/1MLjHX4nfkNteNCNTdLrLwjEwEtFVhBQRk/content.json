@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "G/mffcPbP/xI6AgHwrLDQiNiaMQA59sZXR0F0FCGJUzbNvTNHFhT6wzg6zQZhXAAI0olMwKlrb4ABfRZovO5FKs=",
+ "cert_user_id": "kingkongdaddy@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "a8dd42d074082b712f48f0a0e2485feca82bf7c2fb0b68372bad68a97a70bfe3",
+   "size": 598
+  }
+ },
+ "inner_path": "data/users/1MLjHX4nfkNteNCNTdLrLwjEwEtFVhBQRk/content.json",
+ "modified": 1470998164.752948,
+ "signs": {
+  "1MLjHX4nfkNteNCNTdLrLwjEwEtFVhBQRk": "HBfUb027ZR2kLj8/nDHxdQa4GUAnr+1cVOqEzqLEqxxTP38xvJpRh/gS/CiU7e4caTz12G4P3IOvV1xLT02egK8="
+ }
+}

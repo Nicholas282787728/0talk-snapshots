@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HNqe/5OunwYH0w0JeSC4L+N8Ky++KApWCkxsySxmIAp1N3tF3fykwvymDdXF4FJZUR6LbAYAYjDxtnYzsM2SX4w=",
+ "cert_user_id": "tass64@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "5eb218c112b216f6643e1572ec5430672f16dd933671fe27bf1178531a8ca7a5",
+   "size": 657
+  }
+ },
+ "inner_path": "data/users/1Bu2QwZRvJ4kmALY2nk4qEVjpbvcTDZEna/content.json",
+ "modified": 1470547637.010868,
+ "signs": {
+  "1Bu2QwZRvJ4kmALY2nk4qEVjpbvcTDZEna": "G4nHBdZASYqzBmJsWrVu3losmBAkDxDNfNsYruTnZrYF0TrtDGdLFheW8UNx+NyK14S7QJAT/gJjYt2nmGnB+lQ="
+ }
+}

@@ -1,0 +1,47 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 7,
+	"comment": {
+		"3_168qV1Xxp2EyszrzdECLUwXrn9wGYjDdar": [
+			{
+				"comment_id": 1,
+				"body": "A couple books to read.\n\nhttp://127.0.0.1:43110/12CVHBbLwwYjgYtjpWmempoyZN7xWXJN8j/\n\nMore to come.",
+				"added": 1459139598
+			}
+		],
+		"6_1H8oKiRa7fGgUqS1hpUtaSYLvAqkaknbkf": [
+			{
+				"comment_id": 2,
+				"body": "Apart from the increased storage limit, what new features, security, anonymity etc does Zeroverse mail bring to the table?\n\n' ZeroMail is a good service, but unfortunately, how we ZeroNet users act is \"centralized\".'\n\nCorrect me if I am wrong but isn't Zeromail already a distributed service/system? There is no hierarchy in nodes as far as I'm aware, we the nodes ARE Zeromail. Having everyone using Zeromail helps with providing cover traffic/plausible deniability. The same goes with the Zeroverse ID, what is the advantage in having two ID systems?",
+				"added": 1459283472
+			},
+			{
+				"comment_id": 4,
+				"body": "How exactly does ZeroID go 'outside', what ip addresses, services etc does it force users to connect to? Exactly what info are users forced to leak?\n\nPrecisely which sql commands can be be used to create a profile of users and exactly what info can be extrapolated? \n\n'Powerful admins' could potentially be a problem, therefore designing a 'trustless' system should be the priority rather than just reinventing the wheel and creating even more all powerful admins that may not be entirely trustworthy.",
+				"added": 1459346252
+			},
+			{
+				"comment_id": 6,
+				"body": "I really would like to know the answers to these questions that still haven't been answered so I'll repost in the hope erkan, nofish or someone else of equal skill level can answer.\n\nHow exactly does ZeroID go 'outside', what ip addresses, services etc does it force users to connect to? Exactly what info are users forced to leak?\n\nPrecisely which sql commands can be be used to create a profile of users and exactly what info can be extrapolated?\n\n'Powerful admins' could potentially be a problem, therefore designing a 'trustless' system should be the priority rather than just reinventing the wheel and creating even more all powerful admins that may not be entirely trustworthy.",
+				"added": 1459460575
+			}
+		],
+		"1_12YXQ7Mi4nWmAKfHytZqaLvKGp3kwi7MXi": [
+			{
+				"comment_id": 3,
+				"body": "Report it here. Create a new thread announcing you have found indecent material, ensuring you post the correct address so we may investigate fully. We rely on all users to help keep us informed of all new indecent material on ZeroNet. Your cooperation is invaluable in keeping our uncensored network open and free from indecent websites and users.",
+				"added": 1459300875
+			}
+		],
+		"1_1uTU7tCAiRZ1M1zXruBoWJ3GcbY3j51tF": [
+			{
+				"comment_id": 5,
+				"body": "You can share your movies over at ZeroTorrent\n\nhttp://127.0.0.1:43110/ZeroTorrent.bit/",
+				"added": 1459347161
+			}
+		]
+	},
+	"comment_vote": {}
+}

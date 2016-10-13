@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HJ6RU5i4EVgdDva6rbU+GHEON+i63CB0XohYCJDVActJlf22PYqTO9ETInovFxZp0iZxc2Zu7QyNZ8bMG9lU62A=",
+ "cert_user_id": "xenon54@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "f0900f5fcaa0a4bec9e77899ae1405e6f078a7ba0fdbf5d49fad27e55cdd53d3",
+   "size": 244
+  }
+ },
+ "inner_path": "data/users/123p3yUy7M3hBWRuR8fqGQUjKJ5db2Kf3G/content.json",
+ "modified": 1470133044.337,
+ "signs": {
+  "123p3yUy7M3hBWRuR8fqGQUjKJ5db2Kf3G": "HBxqEVemnplaE4hnQuVncNrl2Z/IAqaQxkq84lAPZwHgUbnHm7rGSF8XNAlUaIWhGI6nfcE4qjDt7JiIk9qI4A8="
+ }
+}

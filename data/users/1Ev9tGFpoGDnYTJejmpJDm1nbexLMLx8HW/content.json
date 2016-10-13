@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HBD7gb8/dL9/EBwb3COJMEhLhtm+ySRz0n4DlwAPJUvL/cdWX4SaVAbNbL1Sm61vxao8r+Mib7GjGPNUt8XM6f8=",
+ "cert_user_id": "saintmu@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "2e09ce72e1422f49380c4a94aa97a8eb020f0ccc78b20df3503eeba37bd9a37a",
+   "size": 421
+  }
+ },
+ "inner_path": "data/users/1Ev9tGFpoGDnYTJejmpJDm1nbexLMLx8HW/content.json",
+ "modified": 1462404341.964,
+ "signs": {
+  "1Ev9tGFpoGDnYTJejmpJDm1nbexLMLx8HW": "G1MPrRKlWoqFula7H2C+Clih9tL08sIhVYfMloJqI9pQuAsiNsVvsxFBJhnjWMoDaRZb3KrsPzj+MAZbi0O3rPg="
+ }
+}

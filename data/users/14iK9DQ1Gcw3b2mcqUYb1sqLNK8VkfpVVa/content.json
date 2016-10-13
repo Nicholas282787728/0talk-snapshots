@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HNgm/qjDubGIdb5q0UIzmOg9L6m4b5nsKtYccZpEjWW2217QN5h1lUqd6ksDXYcOre42n1lck+DL4U/58W0+oeE=",
+ "cert_user_id": "albertorosa@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "9151c0d69c21375b2185ba939a047bc2795ab181b653d9fbf784972b25c7eddb",
+   "size": 258
+  }
+ },
+ "inner_path": "data/users/14iK9DQ1Gcw3b2mcqUYb1sqLNK8VkfpVVa/content.json",
+ "modified": 1465288465.953,
+ "signs": {
+  "14iK9DQ1Gcw3b2mcqUYb1sqLNK8VkfpVVa": "G4/qL2Lz71wyoq4CfBUli0GWRLoxd2lROgn4pzIWAz/b91sb1Rv9qSprw6edTM0J/VKXIzedTV5iumVtXekDTAg="
+ }
+}

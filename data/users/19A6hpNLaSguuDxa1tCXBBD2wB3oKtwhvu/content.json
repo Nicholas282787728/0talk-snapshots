@@ -1,0 +1,15 @@
+{
+ "cert_auth_type": "web", 
+ "cert_sign": "HAoe0//dRSpQoiC93ykxYI0ISk8K92xg0dk53phH1zoUpHifSRK2VDu8q48z5gMBHdHYIrDEadgpqvwoo0Ok16w=", 
+ "cert_user_id": "aimganesh0@zeroid.bit", 
+ "files": {
+  "data.json": {
+   "sha512": "15854ac814c116aafc197b94ec0456fe4920264e1074427b85f4b872ea2d3be6", 
+   "size": 1192
+  }
+ }, 
+ "modified": 1454491462.348381, 
+ "signs": {
+  "19A6hpNLaSguuDxa1tCXBBD2wB3oKtwhvu": "G3yds/goFoJnn1KZ+B/wwHAA4mwwaD5EdQQMRZ3RtE1zPcZl19IaTd0m6sI7ixTTohgSFf75O65SS9ZpD2rjnPw="
+ }
+}

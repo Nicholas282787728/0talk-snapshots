@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HH9yyJRlNNKiDz6VEWfsyini1uNZqAMWuVtaGSTEovndFXbW3CKOOt988yYXVz/41yH3vvz14GyixKe925mj2n4=",
+ "cert_user_id": "borussia@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "dfd4cee469135efdee74a7d2ba235350da223a6e32297ed62fe33c39a9761746",
+   "size": 575
+  }
+ },
+ "inner_path": "data/users/1KLz57QR1gBRqcUir5vh23g5deiwpVLPfC/content.json",
+ "modified": 1458589855.910579,
+ "signs": {
+  "1KLz57QR1gBRqcUir5vh23g5deiwpVLPfC": "HF45woMaUM/+Q+eeGNGDNPk9L2YzgbVqbPtpz+Ppv83uCEf6ptAaxO75aKte5eckmNB+CFSW5hRQxa7jp5y/0Uo="
+ }
+}

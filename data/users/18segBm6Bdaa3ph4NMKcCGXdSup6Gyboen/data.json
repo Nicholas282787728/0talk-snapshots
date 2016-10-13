@@ -1,0 +1,24 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 3,
+	"comment": {
+		"1_1BQg5MQZ63aEQZMzLEXP6yY3hsgznKpaps": [
+			{
+				"comment_id": 1,
+				"body": "My love Ubuntu",
+				"added": 1457536877
+			},
+			{
+				"comment_id": 2,
+				"body": "> [cdmas2](#comment_1_12b6y7dQVk5osNwgr9NsaAjuwXLEKBv1Q2): Ubuntu 14.04\n\nawesome",
+				"added": 1457537506
+			}
+		]
+	},
+	"comment_vote": {
+		"2_146V8kpfeor1py3KV7jL8sZNVjqL2MBCkM": 1,
+		"1_12b6y7dQVk5osNwgr9NsaAjuwXLEKBv1Q2": 1
+	}
+}

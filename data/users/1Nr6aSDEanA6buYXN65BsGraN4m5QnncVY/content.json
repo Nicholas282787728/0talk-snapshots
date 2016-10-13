@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HJP3ObsStnYWbV0aGqiZPODjqekGUsHHQcvgW2tJKRcsEsQKMOn0ug9+kU72ji6hrUqI7Fla8JpEK3OpmaXQpKw=",
+ "cert_user_id": "corsant149@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "e582b9c409c5139a168291394a785888fd07347c3601a5a009639688a489aa6b",
+   "size": 804
+  }
+ },
+ "inner_path": "data/users/1Nr6aSDEanA6buYXN65BsGraN4m5QnncVY/content.json",
+ "modified": 1457496955.793,
+ "signs": {
+  "1Nr6aSDEanA6buYXN65BsGraN4m5QnncVY": "HJdLjwoWaKzBt18DEX7/nCJTvB71h3JOmfA7WntVo7TgFuyYCd6iHHWYy8XyD3BUuG0tuNO6k14wJBFNIepY0sI="
+ }
+}

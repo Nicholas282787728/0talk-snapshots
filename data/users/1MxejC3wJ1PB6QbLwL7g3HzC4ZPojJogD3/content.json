@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HHeEShTys/OK2IGJcyhyvIIadsgyJ7mqgxVSghhtty2awhJXQDenjSl7MDXongzes6dH+qYsppv9/DyWQ4hclv8=",
+ "cert_user_id": "redrobinhood@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "6186f704b9e34e41f3059c1f091d48f893eca53d877729ee8f82147da4aed0d0",
+   "size": 912
+  }
+ },
+ "inner_path": "data/users/1MxejC3wJ1PB6QbLwL7g3HzC4ZPojJogD3/content.json",
+ "modified": 1463895044.059,
+ "signs": {
+  "1MxejC3wJ1PB6QbLwL7g3HzC4ZPojJogD3": "GwzfyJTH4nH/nA3zab9jUUomgL7e4GsjFzHWjyFoFm797N/f+mkHbkLyImPoI4wiIlY3e9AZAmtLh1Kma13bypE="
+ }
+}

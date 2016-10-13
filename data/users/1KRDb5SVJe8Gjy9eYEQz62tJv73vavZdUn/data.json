@@ -1,0 +1,38 @@
+{
+	"next_topic_id": 3,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "darknet market on 0net",
+			"body": "would it be possible to make a darkweb market on zeronet? i guess all the realtime mechanics will be hard to code for zeronet?",
+			"added": 1458746940
+		},
+		{
+			"topic_id": 2,
+			"title": ".bit adresses",
+			"body": "There is almost 700 adresses registered at ZeroName (43110/1Name2NXVi1RDPDgf5617UoW7xA6YrhM9F/) and 267 is pointing to the same address (15GAu5QYg34TLzD4b2WMpZSid9S2K6M54h) just someone who bought almost half of the registered addresses?",
+			"added": 1459770011
+		}
+	],
+	"topic_vote": {
+		"1_1KRDb5SVJe8Gjy9eYEQz62tJv73vavZdUn": 1
+	},
+	"next_comment_id": 3,
+	"comment": {
+		"1_1KRDb5SVJe8Gjy9eYEQz62tJv73vavZdUn": [
+			{
+				"comment_id": 1,
+				"body": "> [mtsvip](#comment_30_17tRugXJrS18zKWVEYqZCPisSTk43hqUzx): probably not too hard. everything is possible. it will come some day.\n\nbut how does 0net work? does everything have to be client side since there is no servers?",
+				"added": 1458758517
+			}
+		],
+		"2_1KRDb5SVJe8Gjy9eYEQz62tJv73vavZdUn": [
+			{
+				"comment_id": 2,
+				"body": "ahh, that's kinda cool :)",
+				"added": 1459773451
+			}
+		]
+	},
+	"comment_vote": {}
+}

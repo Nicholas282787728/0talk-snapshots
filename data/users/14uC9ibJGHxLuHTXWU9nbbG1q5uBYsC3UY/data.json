@@ -1,0 +1,16 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 2,
+	"comment": {
+		"1_1E6f6MCHnpXBqTwj6uii8pApfQuuasR48U": [
+			{
+				"comment_id": 1,
+				"body": "> [decentralizedid](#comment_8_13hcYDp4XW3GQo4LMtmPf8qUZLZcxFSmVw): Only your public key is signed by the centralized ZeroID service.Though I don't think it is necessary because you are not preventing anything with it.\n> There's an alternative to ZeroID, take a look at Nanasi text board\n> Go here for an explanation about Nanasi's ZeroID alternative or inspect nanasi.js\n\nSo the ZeroID system depends upon a centralized ZeroID server? Is that not a step backwards? Or can ZeroID's function in a fully decentralized manner despite the centralized server?",
+				"added": 1468755689
+			}
+		]
+	},
+	"comment_vote": {}
+}

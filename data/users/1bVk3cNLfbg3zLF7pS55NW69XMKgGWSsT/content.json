@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HGNngeBPRNIC1JlMAVpJqpnNVhgHNoMhn6hOCoxBK1noUyB7PB4g/fZ9OK7ERLx4BDutsW8J1a1OrMH6BsbMQBE=",
+ "cert_user_id": "xalaxis@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "7dbb82210158a6e55be43b0d8de0fde1770fd607fdf6b44e1102bf342a3da45c",
+   "size": 211
+  }
+ },
+ "inner_path": "data/users/1bVk3cNLfbg3zLF7pS55NW69XMKgGWSsT/content.json",
+ "modified": 1472211570.278987,
+ "signs": {
+  "1bVk3cNLfbg3zLF7pS55NW69XMKgGWSsT": "G7ehpxoZ3sTO2dQDegP68hpviznI2JrTL4WARbekA+EfFsIt88dOGR2MBnhmF3p7GC5FoxrPhT1BbPMGdN37i2M="
+ }
+}

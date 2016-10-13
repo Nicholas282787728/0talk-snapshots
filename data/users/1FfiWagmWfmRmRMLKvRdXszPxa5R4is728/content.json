@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HK2ovs+cQ4EaKI37dF99ns6C+/CRfBHQKh3HICgh9ZXrh7kqv5SZPeO6Wk7QYORtM8baee49Eg/3YP2/4yvowS4=",
+ "cert_user_id": "americhimera@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "68df8aaabcf86a6a7199d02e3d88e8f23ad87beb9ebd03235cf7e9d3ef154001",
+   "size": 332
+  }
+ },
+ "inner_path": "data/users/1FfiWagmWfmRmRMLKvRdXszPxa5R4is728/content.json",
+ "modified": 1466386299.972,
+ "signs": {
+  "1FfiWagmWfmRmRMLKvRdXszPxa5R4is728": "HEneuslUvTg9Da6zMEYtbN3OnJcKS++kSTs+bDrmnkEp8bh2wQdtISuuelALcE7BgdyN3edBbRojbI+hQXF/fno="
+ }
+}

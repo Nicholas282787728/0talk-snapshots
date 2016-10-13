@@ -1,0 +1,455 @@
+{
+	"next_topic_id": 4,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "Issues with dates in zite posts",
+			"body": "Anyone else run into problems with dates in zites on zero-net?I noted a few times that the posted dates of articles/posts change from time to time.Plus, some dates doesn't show which month it is - only the day and year.",
+			"added": 1470110479
+		},
+		{
+			"topic_id": 2,
+			"title": "ZeroNet proxy to access ClearNet?",
+			"body": "Is it possible to create a proxy site on ZeroNet that can be used to view ClearNet sites?I don't mean a ClearNet site to access ZeroNet, I know those already exist, but the other way around, a ZeroNet zite to access ClearNet?",
+			"added": 1470645765
+		},
+		{
+			"topic_id": 3,
+			"title": "User created, ZeroMe bug report thread",
+			"body": "I'm not one of the developers of ZeroNet or ZeroMe, but since there doesn't seem to be a way to formally report bugs yet, I'm creating this thread for anyone who encountered bugs.\n\nSo if you encountered a bug/error on ZeroMe, post it here.\n\nNote: This thread is only for reporting bugs/anomalies/irregularities/errors/etc. - not for asking questions about ZeroMe or for offering new ideas/suggestions for ZeroMe.",
+			"added": 1470919566
+		}
+	],
+	"topic_vote": {
+		"7_19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ": 1,
+		"9_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1,
+		"1_1BFTNXtYQDMCurqyg45KLmsV6oJD7bQSsH": 1,
+		"2_14ng1wByxwoNXAhihYbpgyarVJbFiqs8ny": 1,
+		"1_1DpQSUAGRj5ykejhp5NFinYZUHz5q87ujh": 1,
+		"10_1MxdAjWgnqwCaunGHmhY39tVR51qV3peJL": 1,
+		"5_17VwZEfWSUWb5RHkK9m1odnDdBfvjTL6Cp": 1,
+		"2_1mytj22YfKjQujw9Fo43WBwSJB658vqyY": 1,
+		"1_1CJoRKtTrkCDDExSc2YDyJew3SNm943rK": 1,
+		"1_1LvicbKBZEvd2438XPe3ZRHMMhntT34YoK": 1,
+		"8_19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ": 1,
+		"10_1KdnTJVBGzEZrJppFZtzfG9chukuMv8xSb": 1,
+		"18_1CMjV2r4EBpFt8VCcWWZKDysZXPcPExRNN": 1,
+		"1_1HvZzixBMnPehyouwx83zNYK3E97MrUVxS": 1,
+		"1_1EBRsDJo4qKthFXgCDGnGEXZxdwhGrtLp2": 1,
+		"1_12ammmMtU2utLCtNGwLwrh3K8LsmzR4k8T": 1,
+		"7_13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ": 1
+	},
+	"next_comment_id": 54,
+	"comment": {
+		"2_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": [
+			{
+				"comment_id": 1,
+				"body": "test",
+				"added": 1469327567
+			},
+			{
+				"comment_id": 10,
+				"body": "> [elcapitan](#comment_2_1FBjio6FKeq3y6RtAsjxiXvTJxzBFqha9F): So can someone tell me why the reply function doesn't work like the reddit one?\n\nBecause Zero-Net is new and still being developed?",
+				"added": 1469513070
+			}
+		],
+		"3_1BFTNXtYQDMCurqyg45KLmsV6oJD7bQSsH": [
+			{
+				"comment_id": 2,
+				"body": "male",
+				"added": 1469382682
+			}
+		],
+		"4_1BFTNXtYQDMCurqyg45KLmsV6oJD7bQSsH": [
+			{
+				"comment_id": 3,
+				"body": "I agree with 'bon' if you don't like a site/content don't visit it and delete it from your hard-disk.\n\nFiltering system of any kind can easily be subverted from it's original purpose as has happened many times before.But if there's not filtering system and users are strictly against it then it becomes that much harder to censor any content.\n\nPlus, you're wrong, no one can abuse a non-censorship policy..... by definition.The word 'abuse' comes into play only after some form of censorship has been established.Also as far as I am concerned 'child porn','totalitarian dictatorships','communists',etc the usual 'evil' stuff are just Trojan-horses used to gain a foothold for censoring content and once a foothold is gained it's just a matter of time until only the limited-content approved by pro-censorship types are allowed.So I'm in favor of no censorship at all, including the above mentioned 'usual evils'.",
+				"added": 1469409739
+			},
+			{
+				"comment_id": 5,
+				"body": "I get what you mean and by itself it's harmless enough but it's a slippery slope - it'll start like this and end with users being banned for bad reputations.\n\nStill if something like that is going to be created I recommend a tag/tagging system with a tag count for zites rather than a reputation system, with the option for users to avoid zites tagged with tags they wish to avoid.And users to remain anonymous as possible, which would make any reputation system for users pointless.",
+				"added": 1469415811
+			},
+			{
+				"comment_id": 7,
+				"body": "> [bon](#comment_5_1CZhapKybCk4VkGiSso1YzXZd1oG5C3oAw): I'm in support of a sort of \"glass door\" solution. If someone wanted to make a zite where users could review and rate the services of a zite that would be fine. The choice to use or avoid a site is still in the hands of the user, but with the benefit of testimonial. Having the ability  to block certain users from accessing YOUR content/zite is also okay. This is different from blacklisting content from the community as a whole. This is filtering malicious traffic. I don't see a lot of room for abuse with this approach.\n\nIf zero-net focuses on anonymity and privacy of users, I don't see how blocking certain users from even your zite should be possible - since to block a user you first need to ID him, which can't be done if he's anonymous.Personally I believe anonymity and privacy of users should take far higher priority than blocking bad users,blacklisting inappropriate content,etc. - especially these days.",
+				"added": 1469459982
+			},
+			{
+				"comment_id": 18,
+				"body": "> [romano](#comment_2_1JCtHdfVM4pNWJnbJXYj1FAnGJy8NHEy8D): Some of you don't seem to get how rep works.Say there's a user, that user has an identity. I trust that identity, so I give him my trust \"points\". Above a certain threshold I begin to trust people that user trusts. A \"web of trust\" is created.\n> Say there's an user I don't trust. I can subtract as many trust \"points\" as I see necessary, and below a certain threshold his content will become hidden. Same for identities that user trusted.\n> No censorship, no one is influencing what I see, but me myself. Same mechanism was used on freenet's forums.\n\nMaybe that's how you think it's supposed to work, but if there was a down-vote button nothing's stopping me from down-voting you for no reason at all, is there?",
+				"added": 1470597199
+			},
+			{
+				"comment_id": 37,
+				"body": "> [romano](#comment_3_1JCtHdfVM4pNWJnbJXYj1FAnGJy8NHEy8D): Say you do. You subtracted a point from my id. You trust me less now. What did that change? My id is now less trusted on your list, and on the lists of people that trusted you. No one else noticed a difference.\n> You wouldn't be able to downvote someone to hell. The most you could do is give me -100 rating (effectively hiding my content from your view) and by doing so you'd be warning your friends \"hey this guy is shady, don't trust him\". That wouldn't stop them from viewing anything I do.\n\nI see, that kind of reputation system, I actually up-voted you for that, even though I still prefer to have no reputation system.Besides as far as I know it is up to zite creators/owners to decide how their zites are going to operate, so there's nothing to stop people who desire that kind of system from creating their own forum zites and implement such a system.",
+				"added": 1470854340
+			},
+			{
+				"comment_id": 38,
+				"body": "> [zeronauta](#comment_1_163sF1Kdsd5LdpjAXDKBshdEBNJH6PUqvg): Reputation systems are implemented in many p2p protocols. It is good and protect against attacks. You can stay open, decentraliced, uncensored... but have the option to reward his behaviour and highlight him as a trusted user.\n\nBut not anonymous, having a reputation requires an identity and having an identity destroys anonymity.A reputation system would be mostly useless if the users are anonymous or even if they can change their identity easily/quickly, which would be the case in a decentralized network.",
+				"added": 1470854768
+			}
+		],
+		"1_1HrRNH7KbdxMjwLmwrHmZqJrzVZVDKc9bF": [
+			{
+				"comment_id": 4,
+				"body": "Slippery slope.",
+				"added": 1469413010
+			},
+			{
+				"comment_id": 16,
+				"body": "> [xenith](#comment_17_1Buq4fyG8B3MxAvs7h4bASyWbrKFxmg4CJ): https://yourlogicalfallacyis.com/slippery-slope\n\nHistory, both recent and long past disagrees with you.Censorship has a long history of being started with seemingly harmless/sensible/good intentions and ending with complete blackouts - it's not hypothetical if it has already happened countless times before, with one of the more recent examples being the normal-net we used to use without censorship.",
+				"added": 1470234156
+			},
+			{
+				"comment_id": 39,
+				"body": "> [graveyardswatch](#comment_16_1HrRNH7KbdxMjwLmwrHmZqJrzVZVDKc9bF): Well, before saying something as high as Logic, please clarify fundamental details, where the Devil is always in.If I go to a book store, can't I have some choice to dump some junk and pick up those that really matter to me?If I go to a cinema, can't I have some choice NOT to buy it?If I hate to watch a channel, can't I shut it down or turn to other stuff?\n> And you, sir, you simply want to rob me of my own power to choose, so Your propaganda rules, Your political correctness dominates, and my life withers as an unimportant and irrelevant piece of junk flying out of the window.\n> If that's your point, according to you words exactly it is, then you are my worst enemy. You are as bad as the antihuman communist party which is now ruling China, the ultimate cage where I was born, grew up and still being trapped in.\n> I don't care about Your intention, whether it really exists in your void soul or be stuffed in by some idiot white leftie polititians, I care about my own freedom to choose, my own freedom to express, and my own ability to maintain it. And I fight anything that is against them, be it Nazi, Islam, Communists and Totalitarianists in China,  Liberals in US, or some small shit as you spitted.\n\nWas there some mistake here?Either you grossly misinterpreted my post or you meant to reply to someone else?How does what I wrote relate to your reply?How does being against censorship do any of things you accuse me of?If anything I seem to be agreeing with you.",
+				"added": 1470856078
+			}
+		],
+		"5_1CoVAt2jBzV4Na6nX3VG1JSfjS8fwse1Z9": [
+			{
+				"comment_id": 6,
+				"body": "What are the odds of zero-net happening if Snowden didn't happen?",
+				"added": 1469416542
+			}
+		],
+		"1_12GC9MQGPcN7PiMoRYVyZX66PnQjZKUpf2": [
+			{
+				"comment_id": 8,
+				"body": "Well, I agree with the premise but disagree with the conclusion.Yes, let's make this a positive and friendly place by accepting and accommodating the people who will try to abuse this system for their own agendas, along with all their bad energy, instead of moderating them.\n\n> [dxtjgxz](#comment_11_1EN9Ape9Gbe2FAcP8qNWsyvg7x7z92LhA7): They could always do something that a particular post would be retrieved from a few peers when viewed and then just be seeded from that point on. However there would always be the option to seed everything like there is now. Not only would this allow for people to avoid CP, it would larger file-size sites (such as video sharing sites) to exist as well without having all of the peers having to waste their hard drive space. Probably the only issue I can think of off the top of my head is that content publishing would require certain seeders that were willing to automatically start seeding everything as soon as it came out. Either way though, ZeroNet needs a method of handling websites that would have large files stored on them without filling up a user's hard drive.\n\nHard drive space is measured in Tera-Bytes these days I don't think it's going to be a big issue either way.",
+				"added": 1469507213
+			},
+			{
+				"comment_id": 9,
+				"body": "> [z3r0c00l](#comment_24_1CoVAt2jBzV4Na6nX3VG1JSfjS8fwse1Z9): I support you 100% unfortunately i really doubt that such idea is feasible..  Just look at how well this went..http://127.0.0.1:43110/Talk.ZeroNetwork.bit/?Topic:3_1CoVAt2jBzV4Na6nX3VG1JSfjS8fwse1Z9/No+Politics\n> When i said that politics ultimately leads to bad vibe, and that hate speech, terrorist propaganda and pedophiles shouldn't be a part of zeronet, SJW's got triggered immediately because (free speech) reasons... Unfortunately most of them think that free speech means you can say whatever the hell you want without consequences...\n\nI think you forgot the sarcasm tag at the end there.And you think people who support free speech are the SJWs?\nHint: SJWs are usually the ones who want to ban people for things they label as hate speech, terrorist propaganda, etc - they also have a tendency to bring up 'pedophiles' since they believe people find it too offensive to ignore, making it easier for SJWs to push their various pro-censorship agendas.And SJWs are the only ones I know of that use the term 'triggered' in the context you just used it.\n\nIf anyone's a SJW here it would be you.Neat trick though, labeling those who disagree with you exactly as what you are.",
+				"added": 1469508281
+			}
+		],
+		"1_1NGtwPu16u2iVu35a6jwGF7ijxN6yUXaBA": [
+			{
+				"comment_id": 11,
+				"body": "Typical American, thinks that American values/laws/authority and the jurisdiction of the FBI extends to everyone, everywhere.It doesn't.\n\nAmerican laws only applies to American citizens.And the internet/zero-net goes far beyond American borders, where the FBI has no jurisdiction.Plus, plenty of countries of the world has no laws against child porn to begin with so people in such countries are doing nothing wrong even if they post child porn on the internet - at least as far as laws are concerned.As far as I am concerned people should be free to post anything they like on the internet, including child porn.\n\nTry to bear these things in mind before going around posting such ignorant nonsense.And learn to use the English language properly, too.",
+				"added": 1470103783
+			}
+		],
+		"1_1CJoRKtTrkCDDExSc2YDyJew3SNm943rK": [
+			{
+				"comment_id": 12,
+				"body": "Yes, it is possible.",
+				"added": 1470230398
+			}
+		],
+		"1_1BFTNXtYQDMCurqyg45KLmsV6oJD7bQSsH": [
+			{
+				"comment_id": 13,
+				"body": "I also got the same error.Just 1 file fails to always update with ZeroMail.",
+				"added": 1470230500
+			}
+		],
+		"1_1JXFzMzrQTJCiGw36YNQGg2Tmt1hTHy7ZT": [
+			{
+				"comment_id": 14,
+				"body": "What do you normally do on non-zeronet net?",
+				"added": 1470230625
+			}
+		],
+		"1_1JGTZxxkeZuhNBRfW6imTjeYbzjgqkU48N": [
+			{
+				"comment_id": 15,
+				"body": "Nope, utter nonsense - just because some of our people tend stay in same shape for a long time, doesn't mean they're aliens - ridiculous.",
+				"added": 1470233444
+			}
+		],
+		"2_1AZjDLkfYwSmjM7ZJUf7HHnrF778augRMa": [
+			{
+				"comment_id": 17,
+				"body": "Another angle to consider is the scope of the internet itself.Since the internet and by extension zero-net spans almost the entire planet, you're going to find not all countries have the same laws everywhere - making it very difficult determine what is a crime and what is not.\n\nPlus, these days .govs seems to be ignoring their own laws and doing whatever they please while making up new laws by the minute, so try not to be too hard on criminals - chances are while you were reading this, your .gov made a new law making you a criminal for whatever reason.\n\np.s: Before you say it, yeah,yeah I know you didn't do anything wrong - that's what they all say.",
+				"added": 1470596987
+			},
+			{
+				"comment_id": 20,
+				"body": "> [armchairgenius](#comment_5_1DW9EhqZ7rndNKZTPbdxsttBU1jGtT2soT): This is also an excellent point, what is illegal in one country might be what we take for granted in another. Sure most of us on here could all agree to remove/block CP from Zeronet. Fine. However in another country maybe they all agree that marijuana is awful and that must be blocked too. Which country do you listen to?\n> Ultimately people having access to or committing acts which you don't agree with is just the cost of doing business on a platform made to be free of censorship. So here's an idea, just don't go seeking it out.\n\nAt the end of the day the internet simply moves information in the form of electrons around the world - even child porn is just a bunch of pixels on a screen - no one's harmed by these things, sure someone might have been harmed when some of the content on the internet was created, but that is something completely separate from the internet and it's users.Even if the internet/zero-net ceased to exist those 'bad' people will still go about doing whatever they please using different means.This whole censorship thing is an utter waste of time as far as I'm concerned.\n\nAs a side note, I should mention that this child porn meme isn't pushed by pro-censorship types because they care about children,porn or both of them together, but rather because a lot people on the net find it offensive, if these control-freaks thought internet users were religious people we'd be hearing about how content need to be censored because otherwise heretics might use the internet to spread their heresy, but since that is not the case we get the child porn meme.",
+				"added": 1470601920
+			},
+			{
+				"comment_id": 23,
+				"body": "> [beoxoeb](#comment_10_1AZjDLkfYwSmjM7ZJUf7HHnrF778augRMa): They will, but not in \"our name\" and using our net resources if we were able to use a \"warning list\" that triggers a warning before entering (avoiding this specific content distribution from our PCs, since we could choose not hosting their data by simply  not loading the site in first instance) we really need this feature\n\nNo, we don't.Did you actually read what he wrote?He wrote that the warning lists you suggest will be used against you by the same criminals you're concerned that will abuse zero-net.You're reply to that doesn't make much sense.\n\nIs there a point to compromising the integrity and functionality of zero-net, with warning lists, when it accomplishes nothing, but make you feel good about yourself since they're not doing it in 'your name'?Warning lists,black lists,reputation systems,moderation,censorship there is plenty of these on clear-net anyone who prefers that to zero-net can use it without any issue, there's no reason for zero-net to be a exact decentralized copy of clear-net.Who was it that said 'Insanity is doing the same things over and over again, expecting different results?'.",
+				"added": 1470644101
+			},
+			{
+				"comment_id": 35,
+				"body": "> [beoxoeb](#comment_12_1AZjDLkfYwSmjM7ZJUf7HHnrF778augRMa): No, we don't.Did you actually read what he wrote?He wrote that the warning lists you suggest will be used against you by the same criminals you're concerned that will abuse zero-net.You're reply to that doesn't make much sense.\n> \n>  Where is the issue about creating lists that the people can opt to use or not? i just don't wanna aid criminals or expose myself to their content, how am i compromising the zeronet funcionability and/or security blocking the content i dont want? i´m getting tired of this crap, is simple, if i dont find a way to do it im leaving, and probably other \"moral fags\" like me will do the same.\n\nNever called you that and I seriously doubt you have any genuine concern about morality, but you're free to use/stay/leave or come-back to ZeroNet - in all honesty I would probably leave if ZeroNet ended up heavily censored like ClearNet.",
+				"added": 1470850830
+			}
+		],
+		"1_17Cs2auSHSVjKaYMXqbNMApRQrgXcwJUpL": [
+			{
+				"comment_id": 19,
+				"body": "Needs more people and content, but like it so far.And months need to added to dates.",
+				"added": 1470599122
+			}
+		],
+		"7_19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ": [
+			{
+				"comment_id": 21,
+				"body": "> [genericusername](#comment_7_14ng1wByxwoNXAhihYbpgyarVJbFiqs8ny): Site admin here; There's still a lot of work to be done before we can get something that's really usable and anywhere near as good as what KickAssTorrents was. Any developers can grab the source code from Gitlab.\n> Everyone else I'd be happy to answer any questions or concerns. You can also mail me here as well if you'd like.\n> Mainly I'm interested in the sort of things you'd like to see from a torrent site on ZeroNet and what should and should not be included.\n\nNice work.Might I suggest focusing on building a forum first?With any luck the former KickAssTorrents community will move here boosting the usage of zero-net.",
+				"added": 1470642332
+			},
+			{
+				"comment_id": 24,
+				"body": "> [genericusername](#comment_8_14ng1wByxwoNXAhihYbpgyarVJbFiqs8ny): I don't know how much value forums will add considering there's already a load of other forums on ZeroNet but adding forums should theoretically not be too difficult since the entire site is based off of ZeroTorrent which if I'm not mistaken is based off this forum (ZeroTalk).\n> The hard part is styling everything so that it looks slick.\n\nClear-net also had plenty of other forums, but KickAssTorrents community used their own forums - it's about having your own corner on the internet which you're familiar with.",
+				"added": 1470645073
+			}
+		],
+		"1_1JYAaUBXsh3DrN8UZHz4suAUVXzV3X15QL": [
+			{
+				"comment_id": 22,
+				"body": "Not an expert on the subject, but yeah, as far I know there's nothing stopping VPN/VPS provider from logging your traffic.",
+				"added": 1470642729
+			}
+		],
+		"9_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": [
+			{
+				"comment_id": 25,
+				"body": "Clear-net if anything is inferior to zero-net in many ways, but at the moment clear-net has vastly more people and content online for me browse than zero-net which drives me to clear-net.",
+				"added": 1470645482
+			}
+		],
+		"2_1PCPuVtFv8apVpXYbc46wHugNhFUVQ6KCv": [
+			{
+				"comment_id": 26,
+				"body": "> [o4zw5vmpoz5hz78z](#comment_133_1KTjPe9MxoYkcXj78GuZgCcj3R3f3Twh7r): everything is possible. (just not implemented yet). but why should we need that?\n\nI had no particularly strong reason to ask, it's mostly because I noticed clear-net proxies to zero-net and wondered if the other way around was possible.Such things can be useful though, in the same way clear-net proxies are useful to clear-net users.",
+				"added": 1470649640
+			},
+			{
+				"comment_id": 27,
+				"body": "> [o4zw5vmpoz5hz78z](#comment_134_1KTjPe9MxoYkcXj78GuZgCcj3R3f3Twh7r): well, you can not access ZeroNet without the proper tools but clearnet is always available so there is no need for that\n\nTrue, but it can still be useful to circumvent censorship.",
+				"added": 1470651201
+			},
+			{
+				"comment_id": 28,
+				"body": "> [testset](#comment_34_17VwZEfWSUWb5RHkK9m1odnDdBfvjTL6Cp): How? If a clearnet site is being censored, what a \"ZeroNet -> clearnet\" proxy could do about that?\n> Maybe creating mirrors on ZeroNet to censorship endangered sites would help. Something like http://127.0.0.1:43110/1J625kWnshbcBk9gE9BdPr4peTeXusRzU8/, which is a ZeroNet mirror of privacytools.io. What do you think?\n\nI think it's a good idea and I'm already seeding that zite - lot of useful information in there.And by censorship I meant like being censored on certain countries/ISPs/IP addresses/etc. - of course if the site itself is taken down a proxy would be useless.",
+				"added": 1470658901
+			},
+			{
+				"comment_id": 29,
+				"body": "> [tkarita](#comment_76_1GervYZoP82e8X1Rgc4wyMkJY2zSsJuq8t): Since ZeroNet distributes to everyone, a proxy could keep the clear-net site accessible.\n\nCan it?It is my understanding some clear-net sites have a lot back-end server-side workings that,\n\n1) Takes a lot of storage space.\n2) Isn't directly and freely accessible to anyone on clear-net.\n\nWithout those, even if the front-end stuff is hosted on zero-net, the sites themselves won't work.",
+				"added": 1470659952
+			}
+		],
+		"1_1DpQSUAGRj5ykejhp5NFinYZUHz5q87ujh": [
+			{
+				"comment_id": 30,
+				"body": "> [genericusername](#comment_20_14ng1wByxwoNXAhihYbpgyarVJbFiqs8ny): I mean ZeroNet doesn't open the browser for me. You can just close firefox and input http://127.0.0.1:43110 in your browser of choice. I'm not sure why firefox opens by default but I'd guess something to do with your default browser settings. I searched the ZeroNet documentation to see if there's a way to change this but it doesn't look like it (unless I missed something).\n\nThat's odd, I use a Windows OS and when I use ZeroNet, it takes a minute to load and then Firefox(my default browser) opens automatically to the ZeroNet homepage.> [genericusername]\n\n(#comment_21_14ng1wByxwoNXAhihYbpgyarVJbFiqs8ny): I'm assuming you're using Windows. Reading the documentation again it sounds like tor is bundled with the Windows version. If it is then it should just work, and relatively speaking you should be anonymous. However web pages can include links to the outside world that can destroy your anonymity. To fix this set a non-working proxy in Firefox or your browser of choice.\n\nTor is bundled with ZeroNet in the Windows version and there's a Tor menu near the top right corner of ZeroNet homepage, from which you can turn on/off Tor mode.And does a working proxy keep my anonymity safe?Or only a non-working proxy(which I assume to mean any random IP address in the proxy address bar?)?",
+				"added": 1470848493
+			},
+			{
+				"comment_id": 31,
+				"body": "Set Tor browser as your default browser?That should probably work.And ZeroNet takes a minute to load, so wait until Firefox pops-up to enter http://127.0.0.1:43110 in the Tor browser - if your going to do it manually.",
+				"added": 1470848941
+			}
+		],
+		"10_1MxdAjWgnqwCaunGHmhY39tVR51qV3peJL": [
+			{
+				"comment_id": 32,
+				"body": "> [betatester2](#comment_11_1C6qdRAX8iYqSB7TfUxk91yW8Y2SBKNgfA): Hi all. I'm using both Zeromail and Zeroverse mail with a namecoin .bit address. It's a bit confusing all this stuff for me because I'm not a developper, just a user. It's nice to be able to send messages but as long as we can't add attachements, it's never going to replace the old email system. Also, I'm not sure I see the added value compared to Bitmessage.\n\nThere's a ZeroMail 2.0 site which has a File-Sharing option, though not the same as email attachments, it can probably serve a similar function.\n\nhttp://127.0.0.1:43110/16X3emHaVgNPrx39U1sYd24dFk5L5swTua/",
+				"added": 1470849320
+			},
+			{
+				"comment_id": 33,
+				"body": "> [rapapobre](#comment_2_1K6HCsJskZENYG42GR7ocJXg9WjFbEq9hc): in Zerohello>zeroMail> always appears the message:\"1 file update failed\"\n\nI have the same issue, so does a number of others, it doesn't seem cause problems though.I tried sending and receiving emails, works fine so far.",
+				"added": 1470849543
+			}
+		],
+		"11_1KdnTJVBGzEZrJppFZtzfG9chukuMv8xSb": [
+			{
+				"comment_id": 34,
+				"body": "1) Nobody is forcing anyone to use ZeroNet - there are alternatives.\n2) Zite developers can see what kind of network/protocol this is before they start developing.\n\nI think things such as cloning,copying code,code reversing should be taken for granted as the norm on ZeroNet.Besides it's not that easy to copy, for one I couldn't copy the nice bullet points in your post to use them on mine.",
+				"added": 1470850367
+			}
+		],
+		"1_1Dj5WCaPV2r18QcDQFHmyx2HnGmwMJce9b": [
+			{
+				"comment_id": 36,
+				"body": "Electricity doesn't produce itself, water doesn't clean and bottle itself, food doesn't grow themselves - these things need to be produced by someone and as far as I am concerned those who produce these things can decide what the price of their product is, of course if the producer wants to give it away for free that too is fine by me.Which is why I'm fine with using OpenSource software that are given away for free by its' producers, but against things like universal basic income and electricity/water as a basic human right(which I assume would be enforced by some law or another?) since such things are basically extremely round-about ways of stealing from the producers.\n\nOf course if you can convince producers to voluntarily give away their products for free or produce the things you mentioned, yourself and give it away for free I'd be fine with that too.",
+				"added": 1470852998
+			}
+		],
+		"10_1KdnTJVBGzEZrJppFZtzfG9chukuMv8xSb": [
+			{
+				"comment_id": 40,
+				"body": "> [nofish](#comment_717_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): It's sound like a blog. The merger sites main idea is to separate the display logic for data into multiple sites.\n\nI don't suppose way there's a simpler way to explain what you wrote?Either way I merged the zite after I was asked to, now I have to download a hub?What does a hub do?Is there a difference between to two hubs?Can I change them later?A bit confused.",
+				"added": 1470857469
+			},
+			{
+				"comment_id": 41,
+				"body": "> [nofish](#comment_718_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): Hub is a simple site that holds the users data. There is no difference between hubs and you can simply create a new one by cloning the current ones. (this way you won't serve every profile created over the network only the ones that has interesting profile for you)\n> When you give Merger:ZeroMe permission to any site, then it will able to manage (eg. publish new content) sites that is listed under MERGED: ZEROME on ZeroHello.\n\nTo clarify, I can see/communicate with users of both hubs or just the one I selected?",
+				"added": 1470859052
+			},
+			{
+				"comment_id": 43,
+				"body": "> [quadrangle](#comment_22_1CTut2qbaj54ZjNoYeuWSGwV75iVieKY6N): Anybody who is anybody is part of the blue hub, don't let those filthy reds persuade you otherwise.\n\nSo it's war then, is it?",
+				"added": 1470859839
+			},
+			{
+				"comment_id": 45,
+				"body": "> [truth](#comment_12_164W1rFVD9Bm7poGJWvjVUjvkbhhFC5nnt): And you lost.\n\nHow so?The night is still young.",
+				"added": 1470860998
+			},
+			{
+				"comment_id": 46,
+				"body": "> [quadrangle](#comment_25_1CTut2qbaj54ZjNoYeuWSGwV75iVieKY6N): The list of users seems to include all the hubs and then if you accidentally follow a red it infects your client and forces you to become a host for the red army so you can then see all of their posts and talk to them.\n\nHa, I see, except I selected the red hub so it's the opposite for me.",
+				"added": 1470861324
+			},
+			{
+				"comment_id": 47,
+				"body": "> [erneraude](#comment_6_1JwPBvZYXLJzrA6YisjpsyTuuieFLCARS6): I tried to used a zeroverse account and got the error \"Content publish failed.\", so I cannot even create a profile (I can create one, but it's not sent through the network).However, it works well using zeroid.Nice work :)\n\nI couldn't even create a ZeroVerse ID.Using ZeroId for now, but the ID systems seems to be a weak-link on ZeroNet.\n\nEdit: A very minor bug, but when I up-vote a post, the post initial shows two extra(+2) votes and then changes to a single(+1) up-vote once the page is reloaded.",
+				"added": 1470874562
+			}
+		],
+		"1_1DjUq8hd2jYZgc5uNhQEtWUVZjMHkMQkpU": [
+			{
+				"comment_id": 42,
+				"body": "> [alek](#comment_6_1DjUq8hd2jYZgc5uNhQEtWUVZjMHkMQkpU): Clone of torrentz.eu is online, thoughts??\n\nWhere?",
+				"added": 1470859739
+			},
+			{
+				"comment_id": 44,
+				"body": "> [alek](#comment_7_1DjUq8hd2jYZgc5uNhQEtWUVZjMHkMQkpU): on regular web https://torrentz2.eu\n\nThanks, I was searching for one earlier.",
+				"added": 1470860086
+			}
+		],
+		"3_14ng1wByxwoNXAhihYbpgyarVJbFiqs8ny": [
+			{
+				"comment_id": 48,
+				"body": "> [genericusername](#comment_24_14ng1wByxwoNXAhihYbpgyarVJbFiqs8ny): Yes, because why not? It turns out this isn't a good idea...\n\nYou can follow everyone, I'm doing it right now without any issue.But I used the normal method to follow them though - not a script.",
+				"added": 1470918645
+			}
+		],
+		"3_1PCPuVtFv8apVpXYbc46wHugNhFUVQ6KCv": [
+			{
+				"comment_id": 49,
+				"body": "> [ks](#comment_157_14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx): ZeroMe on Github seems like a good place to report bugs.\n\nI'm not familiar with Github and the same is probably true for the average(not too tech-savvy) user, so this thread seemed like a good idea to me.",
+				"added": 1470924475
+			},
+			{
+				"comment_id": 51,
+				"body": "Right now I'm getting a 'Content sign failed: invalid private key.' error whenever I try to do something on ZeroMe, and it seems others can't see my posts.Just before the error message I was busy setting up to follow every user on ZeroMe, by adding them, one by one, to my following list hastily.",
+				"added": 1471034718
+			},
+			{
+				"comment_id": 53,
+				"body": "> [newuser123](#comment_51_1PCPuVtFv8apVpXYbc46wHugNhFUVQ6KCv): Right now I'm getting a 'Content sign failed: invalid private key.' error whenever I try to do something on ZeroMe, and it seems others can't see my posts.Just before the error message I was busy setting up to follow every user on ZeroMe, by adding them, one by one, to my following list hastily.\n\nJust checking, can anyone see this post?",
+				"added": 1471132576
+			}
+		],
+		"2_12yaKkoqVKBUi66uB5pYXamWguKFaWdDnx": [
+			{
+				"comment_id": 50,
+				"body": "> [nofishes](#comment_3_12yaKkoqVKBUi66uB5pYXamWguKFaWdDnx): Yes,it is right.I don't need to use tor ,I need the speed of zeronet. and zeronet client can't auto download tor ,because everytime the state of tor is error,maybe the tor website is blocked by GFW.\n\nZeroNet client doesn't download Tor separately, Tor is bundled along with it.Just select the 'always Tor mode' from the option near the top-right corner in ZeroNet homepage.",
+				"added": 1471033896
+			}
+		],
+		"1_1HvZzixBMnPehyouwx83zNYK3E97MrUVxS": [
+			{
+				"comment_id": 52,
+				"body": "Personally, I like posts like this, reminds me ZeroNet is truly uncensored, for now.",
+				"added": 1471034844
+			}
+		]
+	},
+	"comment_vote": {
+		"4_1CZhapKybCk4VkGiSso1YzXZd1oG5C3oAw": 1,
+		"9_1Ea7uVcuWTBiBAN1XCV7asaMaFBYPWbpAm": 1,
+		"5_1KnFgYp6rbz2VLe4H7RW36J8ChSqHSbxLn": 1,
+		"6_1CZhapKybCk4VkGiSso1YzXZd1oG5C3oAw": 1,
+		"4_1CFhytwoGGPNqmueehPqotaf2iG9uxD98e": 1,
+		"3_1Ea7uVcuWTBiBAN1XCV7asaMaFBYPWbpAm": 1,
+		"120_14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx": 1,
+		"121_14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx": 1,
+		"122_14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx": 1,
+		"11_1LfQ8dwqkqkGQNCg1kBevHPxjvTRJTQYBz": 1,
+		"10_1LfQ8dwqkqkGQNCg1kBevHPxjvTRJTQYBz": 1,
+		"14_1LfQ8dwqkqkGQNCg1kBevHPxjvTRJTQYBz": 1,
+		"3_13t2ME4cTtkxrwPeugeZgdJF5Kg7C5CSEy": 1,
+		"5_13t2ME4cTtkxrwPeugeZgdJF5Kg7C5CSEy": 1,
+		"17_1LfQ8dwqkqkGQNCg1kBevHPxjvTRJTQYBz": 1,
+		"6_13t2ME4cTtkxrwPeugeZgdJF5Kg7C5CSEy": 1,
+		"18_1LfQ8dwqkqkGQNCg1kBevHPxjvTRJTQYBz": 1,
+		"19_1LfQ8dwqkqkGQNCg1kBevHPxjvTRJTQYBz": 1,
+		"56_1CMjV2r4EBpFt8VCcWWZKDysZXPcPExRNN": 1,
+		"57_1CMjV2r4EBpFt8VCcWWZKDysZXPcPExRNN": 1,
+		"58_1CMjV2r4EBpFt8VCcWWZKDysZXPcPExRNN": 1,
+		"1_12eZquYQsyuR9bkYhYkTSVoze83osSGRQx": 1,
+		"16_13t2ME4cTtkxrwPeugeZgdJF5Kg7C5CSEy": 1,
+		"147_14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx": 1,
+		"10_1DZr3dWHcLESuHx7UeC23QSXfQFvBdFT9s": 1,
+		"5_1DW9EhqZ7rndNKZTPbdxsttBU1jGtT2soT": 1,
+		"21_1AdcxsExVKvxffQtEd72E5tckouzZHLEYC": 1,
+		"7_14ng1wByxwoNXAhihYbpgyarVJbFiqs8ny": 1,
+		"17_1D7uESYtAKV36MVPGJZXuE7LUKbLwfo4dX": 1,
+		"6_1M4Ab8CUu3byziHVvNXLHmPezC4Lg9hvNJ": 1,
+		"73_1GervYZoP82e8X1Rgc4wyMkJY2zSsJuq8t": 1,
+		"75_1GervYZoP82e8X1Rgc4wyMkJY2zSsJuq8t": 1,
+		"4_15zYrGJKfXo6XXU6rBUsuU3cTgpJkDuQYA": 1,
+		"130_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1,
+		"4_1wnjTS6YRUp6Q6yjECuoh1o28TPkvrnq2": 1,
+		"131_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1,
+		"1_1M2gZSNe4Z28mxRsd8uvNVHT99xkZq4qwL": 1,
+		"1_1Pgri2JHUege4wEeBFancwveUfYPh3HD3G": 1,
+		"22_1AdcxsExVKvxffQtEd72E5tckouzZHLEYC": 1,
+		"1_1EqT3ujyyX8n6yg3XNQCF2FmU2Nbgd8TQq": 1,
+		"85_1CMjV2r4EBpFt8VCcWWZKDysZXPcPExRNN": 1,
+		"128_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1,
+		"9_164W1rFVD9Bm7poGJWvjVUjvkbhhFC5nnt": 1,
+		"3_1JCtHdfVM4pNWJnbJXYj1FAnGJy8NHEy8D": 1,
+		"2_1PhFvQ5bjmRf5fvJvxZU3oq7reiNanAL18": 1,
+		"7_1M4Ab8CUu3byziHVvNXLHmPezC4Lg9hvNJ": 1,
+		"17_1GervYZoP82e8X1Rgc4wyMkJY2zSsJuq8t": 1,
+		"81_1KdnTJVBGzEZrJppFZtzfG9chukuMv8xSb": 1,
+		"4_1BePwsiwFD8BjtYfB8tQegiKXDLnHWW1Um": 1,
+		"3_1DDCitotp8M6rCiHrNJ4VVLGTqXykLmD1t": 1,
+		"41_1KdnTJVBGzEZrJppFZtzfG9chukuMv8xSb": 1,
+		"706_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"39_17VwZEfWSUWb5RHkK9m1odnDdBfvjTL6Cp": 1,
+		"8_1mytj22YfKjQujw9Fo43WBwSJB658vqyY": 1,
+		"1_1DpVnMYc5eSJKieqdQojUjovaHohQTCTTX": 1,
+		"21_1CTut2qbaj54ZjNoYeuWSGwV75iVieKY6N": 1,
+		"22_1CTut2qbaj54ZjNoYeuWSGwV75iVieKY6N": 1,
+		"8_1DjUq8hd2jYZgc5uNhQEtWUVZjMHkMQkpU": 1,
+		"106_1CMjV2r4EBpFt8VCcWWZKDysZXPcPExRNN": 1,
+		"25_1CTut2qbaj54ZjNoYeuWSGwV75iVieKY6N": 1,
+		"26_1CTut2qbaj54ZjNoYeuWSGwV75iVieKY6N": 1,
+		"6_1JwPBvZYXLJzrA6YisjpsyTuuieFLCARS6": 1,
+		"6_1JF3eQjW4voiKdcvCkMXvUx5bLmZAiVdyi": 1,
+		"139_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1,
+		"721_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"37_19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ": 1,
+		"5_1BePwsiwFD8BjtYfB8tQegiKXDLnHWW1Um": 1,
+		"27_1CTut2qbaj54ZjNoYeuWSGwV75iVieKY6N": 1,
+		"8_1BePwsiwFD8BjtYfB8tQegiKXDLnHWW1Um": 1,
+		"24_14ng1wByxwoNXAhihYbpgyarVJbFiqs8ny": 1,
+		"6_1BePwsiwFD8BjtYfB8tQegiKXDLnHWW1Um": 1,
+		"2_13WWWFi6iuSLazDcNvHgBEjjeAofAhAwtE": 1,
+		"25_14ng1wByxwoNXAhihYbpgyarVJbFiqs8ny": 1,
+		"157_14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx": 1,
+		"7_12iiajZz3dGdYuEyqTR5hvGECWmGh748HL": 1,
+		"5_1Dj5WCaPV2r18QcDQFHmyx2HnGmwMJce9b": 1,
+		"17_164W1rFVD9Bm7poGJWvjVUjvkbhhFC5nnt": 1,
+		"30_1LfQ8dwqkqkGQNCg1kBevHPxjvTRJTQYBz": 1,
+		"4_1Dj5WCaPV2r18QcDQFHmyx2HnGmwMJce9b": 1,
+		"116_1CMjV2r4EBpFt8VCcWWZKDysZXPcPExRNN": 1,
+		"29_1CTut2qbaj54ZjNoYeuWSGwV75iVieKY6N": 1,
+		"7_1bnmc9XsY2kyqwqjKmpWyBDbwyniqRzy1": 1,
+		"10_17eKk6mdR7bth2Fi8f74P5JV8AfHsERT4F": 1,
+		"11_1M4Ab8CUu3byziHVvNXLHmPezC4Lg9hvNJ": 1,
+		"128_1ADB7TdX2fVbTsWBoMe9yBTmVXTbb33b4R": 1,
+		"146_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1,
+		"26_19arYgVKguUamTqtYGu6T9FSUsr19CyEcG": 1,
+		"11_1JF3eQjW4voiKdcvCkMXvUx5bLmZAiVdyi": 1,
+		"2_1EBRsDJo4qKthFXgCDGnGEXZxdwhGrtLp2": 1
+	}
+}

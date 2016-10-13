@@ -1,0 +1,1073 @@
+{
+	"next_topic_id": 7,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "Implementing ZeroNet in other languages",
+			"body": "ZeroNet currently seems to be mostly [written in Python](https://github.com/HelloZeroNet/ZeroNet/search?l=python), with a hint of [JavaScript](https://github.com/HelloZeroNet/ZeroNet/search?l=javascript). I've found that both on the clearnet and [this very forum](http://127.0.0.1:43110/Talk.ZeroNetwork.bit/?Topic:1_1EbkgVAJKgrTeYAmF3FSEJ8dRabpWH87it/When+the+f+k+can+we+get+rid+of+the+JS+s+t+so+that+we+can+really+use+0net+w+o+being+possibly+exploited+by+the+LEO), not everyone seems to like these choices of languages. I'm not suggesting the whole damn project *has* to move away from the two: there would be people to complain about the resulting version then.\n\n\nSo, If *you* were to re-implement ZeroNet, what would your language(s) of choice be, and why?\n\n\nPersonally, I would write all (or some) of it in [Erlang](https://www.erlang.org/) -- From what I know, It handles concurrency better than JS/Node.\n\nOther languages mentioned will be listed here.",
+			"added": 1455608294
+		},
+		{
+			"topic_id": 2,
+			"title": "What languages are permitted for automation?",
+			"body": "I wanted to see an example of how to scrape the web with Zeronet, so I looked through the [optional files demo site](http://127.0.0.1:43110/1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h). I found a file called updater.py, which seems to do the actual scraping.\nThis is odd, because I could have sworn that only Javascript/Coffeescript could interact with the [Zeroframe API](http://127.0.0.1:43110/Blog.ZeroNetwork.bit/?Post:46:ZeroNet+site+development+tutorial+2). Am I misreading something?",
+			"added": 1456179105
+		},
+		{
+			"topic_id": 3,
+			"title": "Fonts and Themes",
+			"body": "Know of a pretty font or theme? Share it here!",
+			"added": 1456181436
+		},
+		{
+			"topic_id": 4,
+			"title": "A mysterious site",
+			"body": "Apparently, [This](http://127.0.0.1:43110/1KPw7dMqE8Deij4nhLRCwbuwj9oFHysSHH) site is massively popular. I've seen it reported to have anywhere from 80 to 220 peers, probably more than any other site on zeronet. And yet... there's nothing there. Going through content.json (the only file to appear) answers some questions, though: there is meant to be an index.html file (245 bytes in size), and it has a hash. Also, the site was last modified Wed, 09 Sep 2015 18:03:46 GMT. The rest is signing data, which I can't learn much from. If anyone has a clue, please share.",
+			"added": 1456375652
+		},
+		{
+			"topic_id": 5,
+			"title": "Regex for detecting Zeronet urls",
+			"body": "Recently, a lot of people have been posting things on [0list](http://127.0.0.1:43110/186THqMWuptrZxq1rxzpguAivK3Bs6z84o) that are not zerosites. I figured a regular expression should do the trick, so I whipped one up:\n\nThe expression:\n`/(http:\\/\\/)?(127\\.0\\.0\\.1|localhost)(:43110\\/.+)/g`\n\nIn JavaScript:\n`text.match(/(http:\\/\\/)?(127\\.0\\.0\\.1|localhost)(:43110\\/.+)/g);`\n\nTest it out [here](http://regexr.com/3cvbg).\nNote that the actual url (1sitEuRl... or siteurl.bit) is not well verified in this version. I'm looking into fixing that.\n**Edit 1**: This seems correct for detecting bitcoin addresses:\n`[13][a-km-zA-HJ-NP-Z0-9]{25,34}`\nLook [here](https://en.bitcoin.it/wiki/Address) for more detail.\n\n**Edit 2**: The mostly-working second version:\n`/(http:\\/\\/)?(127\\.0\\.0\\.1|localhost)(:43110\\/)([13][a-km-zA-HJ-NP-Z0-9]{25,34}|[^ \\n]+\\.bit)(\\/?.*)/g`",
+			"added": 1457482348
+		},
+		{
+			"topic_id": 6,
+			"title": "New encryption protocol we should switch to",
+			"body": "Came across this recently, looks pretty secure.\n[Link](http://rot26.org)\n\n\nThoughts?",
+			"added": 1458185472
+		}
+	],
+	"topic_vote": {
+		"3_1ED3Ho3kmzaKiECtyuqSjDpoE47rKuXeP": 1,
+		"1_1PFwC79GX6a34ThLZPyfA8kYYSjtfKPP7c": 1,
+		"2_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"12_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf": 1,
+		"2_1KwTTgPRSTHFmmJAFBt6kQfdyNeSM5KJuH": 1,
+		"3_1KwTTgPRSTHFmmJAFBt6kQfdyNeSM5KJuH": 1,
+		"5_1KwTTgPRSTHFmmJAFBt6kQfdyNeSM5KJuH": 1
+	},
+	"next_comment_id": 167,
+	"comment": {
+		"1_168qV1Xxp2EyszrzdECLUwXrn9wGYjDdar": [
+			{
+				"comment_id": 1,
+				"body": "The guy who runs qntm.org publishes some pretty cool stuff. I may be able to convince him to mirror his site here. I may also be able reserve qntm.bit for him via Namecoin (possibly).\n\nSide question: Is there any software for automatically mirroring a site on Zeronet?",
+				"added": 1440916738
+			}
+		],
+		"3_1ED3Ho3kmzaKiECtyuqSjDpoE47rKuXeP": [
+			{
+				"comment_id": 2,
+				"body": "I've installed zeronet on Ubuntu. It was slightly harder than on Windows, but still doable. Just follow the instructions on the webpage, (https://github.com/HelloZeroNet/ZeroNet) and you'll be fine. However, you may want to make an alias to start zeronet, otherwise you'll need to  point your terminal to the Zeronet-master folder to start. more info on that here: http://askubuntu.com/questions/17536/how-do-i-create-a-permanent-bash-alias\n\nI have no experience with Mint, but I do like Ubuntu. Also, Arch is often considered more secure than either of those (although it has a far steeper learning curve). If you want to try Arch linux, I suggest starting with Manjaro.",
+				"added": 1442522873
+			}
+		],
+		"2_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": [
+			{
+				"comment_id": 3,
+				"body": "Le test.",
+				"added": 1443816390
+			},
+			{
+				"comment_id": 18,
+				"body": "[Test][1]\n[1]: With reference",
+				"added": 1455505425
+			},
+			{
+				"comment_id": 19,
+				"body": "> [6](#comment_1_1P4yiaeE9YCx3DsefGEgQZxQ384gGq1r71): 6, checking in.\n\nAre you afraid of 7?",
+				"added": 1455519800
+			},
+			{
+				"comment_id": 21,
+				"body": "Testing references:\nThis is meant to be a link to [sthetz's comment][1]. Here's a link to [a dumb joke][2], Here are some [kitty faces][3],  and here is my [failed test][4] from earlier.\n\nThis is a crazy attempt to link to a comment on a [separate ZeroTalk post.][5]\n\n[1]: #comment_13_1BNmjz9tBLY3M1tq2z7DKvA1LjFXYsmLd9 \"hovertext is available\"\n[2]: #comment_2_1P4yiaeE9YCx3DsefGEgQZxQ384gGq1r71 \"Randall Munroe would approve\"\n[3]: #comment_1_1C5P3N5keQ9STGDNrQKQTUCfM25E7n3xMv \"cats are always welcome\"\n[4]: #comment_18_1KwTTgPRSTHFmmJAFBt6kQfdyNeSM5KJuH \"self I am disappoint\"\n[5]: http://127.0.0.1:43110/Talk.ZeroNetwork.bit/?Topic:2_1PPqTMbH8Uwrk496grUVuBk57dSoeU9hig#comment_315_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj \"not as sure about this one\"\n\nTo see the markdown behind this neato comment, hit reply and ignore the chevrons on every line.\nTo get the #comment line, hit reply on any comment and copy it from the textbox.\n\nThe help panel is not too useful, so this should be a nice example.",
+				"added": 1455601530
+			},
+			{
+				"comment_id": 89,
+				"body": "==This is highlighted in some versions of markdown.==\nHmm. guess not this version.",
+				"added": 1458667750
+			},
+			{
+				"comment_id": 90,
+				"body": "<b>Testing if simple html tags work.</b>\nNope.",
+				"added": 1458667834
+			},
+			{
+				"comment_id": 91,
+				"body": "> quote\n> > double quote?",
+				"added": 1458668459
+			},
+			{
+				"comment_id": 92,
+				"body": "== Heading 1\n=== Heading 2\nor not.",
+				"added": 1458668518
+			}
+		],
+		"1_1NWDDEspxsVe6jfqXAG9uJtrmtxypVZqcw": [
+			{
+				"comment_id": 4,
+				"body": "Woah. Are we making progress towards a p2p package management system?\n...Neat!",
+				"added": 1443838219
+			}
+		],
+		"2_1A3sydXvaov2y4yW3jY41Vpn9tsNiHaHoK": [
+			{
+				"comment_id": 5,
+				"body": "Dead? Really? This place is pretty active for software still in alpha. Give it time.",
+				"added": 1445235224
+			}
+		],
+		"1_1N5Rs6CHsGPdDB1y3JqjYm9SLSWUTkjwEF": [
+			{
+				"comment_id": 6,
+				"body": "Pretty nice, but what makes this one different from the first one (http://127.0.0.1:43110/192dZ1EG5tU7PnCfuwGMDEBrr2eLqvs4t3)?",
+				"added": 1446848200
+			}
+		],
+		"2_1KcPohxmuqiNShTaAzJZLndm5aWtBZLuJn": [
+			{
+				"comment_id": 7,
+				"body": "ZeroHub might be a good name.",
+				"added": 1447964507
+			}
+		],
+		"1_1KcPohxmuqiNShTaAzJZLndm5aWtBZLuJn": [
+			{
+				"comment_id": 8,
+				"body": "[Possibly relevant article here]( http://arstechnica.com/information-technology/2015/11/how-a-group-of-neighbors-created-their-own-internet-service/).\nAlso, Cjdns is trying something like this with checksums for addresses and DHTs for routing. [More details here](https://github.com/cjdelisle/cjdns).",
+				"added": 1447965740
+			}
+		],
+		"2_1LWuc6JBhUGrKEAh1aPrPU85dEMcKmg3pS": [
+			{
+				"comment_id": 9,
+				"body": "Definitely Bittorrent. it's mature technology-- Zeronet still has a ways to go.",
+				"added": 1454664637
+			}
+		],
+		"3_1MmPY9fniJwwhP6WsgH4jWoq5rBAVV6KWy": [
+			{
+				"comment_id": 10,
+				"body": "An installable iso for this would be nice. As for anonymous twitter, there is an existing version known as [Twister](http://twister.net.co/).\nOne question though: Why on earth would you choose Lubuntu? It's effectively barren compared to Xubuntu--which [seems to come with the Odroid anyway](http://www.hardkernel.com/main/main.php). Seems like an odd decision.",
+				"added": 1454746361
+			},
+			{
+				"comment_id": 11,
+				"body": "One other thing: this feels reminiscent of [Byzantium Linux](http://project-byzantium.org/). Shame it seems dead in the water.",
+				"added": 1454746848
+			},
+			{
+				"comment_id": 12,
+				"body": "> [kahpecuce](#comment_8_1MmPY9fniJwwhP6WsgH4jWoq5rBAVV6KWy): That would be the best solution for the social networking need in zerønet. But I think it requires the implementation of DHT in zerønet first, am I right?\n\nYep, DHT is a must. We rely on trackers right now, which are...well, centralized. But weirdly enough, [so little](http://zeronet.readthedocs.org/en/latest/help_zeronet/donate/) of the project donations have gone to DHT support.",
+				"added": 1454748198
+			},
+			{
+				"comment_id": 13,
+				"body": "> [kahpecuce](#comment_10_1MmPY9fniJwwhP6WsgH4jWoq5rBAVV6KWy): Which reminds me, I should chip in. :) doing it right now.\n\nFor DHT I take it?",
+				"added": 1454748337
+			},
+			{
+				"comment_id": 14,
+				"body": "> [kahpecuce](#comment_11_1MmPY9fniJwwhP6WsgH4jWoq5rBAVV6KWy): Yup, I just sent some to that DHT wallet.\n\nAaaaaand there it is! Yay for progress. Now if only I could remember where the hell _my_ wallet is. I have like $5 worth in there.",
+				"added": 1454748532
+			}
+		],
+		"1_1EbkgVAJKgrTeYAmF3FSEJ8dRabpWH87it": [
+			{
+				"comment_id": 15,
+				"body": "The API is open source--you can write stuff that uses it with whatever you want (personally, I might choose Erlang.)",
+				"added": 1455343024
+			}
+		],
+		"5_1MmPY9fniJwwhP6WsgH4jWoq5rBAVV6KWy": [
+			{
+				"comment_id": 16,
+				"body": "> [kahpecuce](#comment_18_1MmPY9fniJwwhP6WsgH4jWoq5rBAVV6KWy): on Privacy Tools -_-\n\nWhat's wrong with them? Is there some controversy I haven't heard of?",
+				"added": 1455343736
+			}
+		],
+		"15_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf": [
+			{
+				"comment_id": 17,
+				"body": "> [vethit](#comment_1_1JdKZXpUz9vvevT99mmfTdbs3hjszJzqDX): Project Maelstrom - http://project-maelstrom.bittorrent.com/\n\nThey're very much like Zeronet--but closed source, browser-dependent, and without support for dynamic content. And yet despite being so shitty, they are the closest thing to a direct competitor on this whole list.",
+				"added": 1455432305
+			},
+			{
+				"comment_id": 27,
+				"body": "> [ekaterina](#comment_26_1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD): >The blockchains are taking so long to sync and use up so much resources... It just doesn't scale.\n\n[Here](http://iotatoken.com/) is one blockchain that is lightweight and may scale smoothly. It's not been released yet, but it looks promising. Not sure if it can store data like namecoin, but it *can* interface with Namecoin and Etherum. Give the whitepaper a read if it sounds interesting.",
+				"added": 1455745026
+			}
+		],
+		"2_1F6BMqittjWUStzUbRXm2kG2GQ3RdBLqFQ": [
+			{
+				"comment_id": 20,
+				"body": "Hmm.. I've seen this error before, in the site zeroit (an intended clone of Reddit). Unfortunately, I don't know what caused it there either.",
+				"added": 1455523689
+			}
+		],
+		"1_1KwTTgPRSTHFmmJAFBt6kQfdyNeSM5KJuH": [
+			{
+				"comment_id": 22,
+				"body": "> [gomzik](#comment_48_1F6BMqittjWUStzUbRXm2kG2GQ3RdBLqFQ): But ofcourse you can rewrite python part in erlang. But, as I can see, python used with gevent, and it's make python more faster, when we talking about networking io\n\nSeems reasonable. I know that Erlang doesn't really do exception handling at all (straight-up crashing is preferred)",
+				"added": 1455609423
+			},
+			{
+				"comment_id": 23,
+				"body": "> [gomzik](#comment_49_1F6BMqittjWUStzUbRXm2kG2GQ3RdBLqFQ): So, python is high level language, that helps make app more stable (you can't receive error, while working with memory directly or something like)\n> I'm not understand, why people trying to use C\\C++ to write applications for networks like that. Because security of these applications is very important thing\n\nSupposedly so things can be as fast as possible. And if you write **very** carefully, you can preserve security.",
+				"added": 1455609570
+			},
+			{
+				"comment_id": 24,
+				"body": "> [gomzik](#comment_51_1F6BMqittjWUStzUbRXm2kG2GQ3RdBLqFQ): You can write in low level languages CPU bound tasks only, why not?\n> Yeah, my english is not enough good, so I hope you understand me.\n\nGiven what I know of [Erlang](https://en.wikipedia.org/wiki/Erlang_(programming_language)), It's at a high-enough level to handle managing processes well. That's part of the reason for my interest in it.",
+				"added": 1455610056
+			}
+		],
+		"1_1CMYxdit4qq9QGk9DYRu2ruRPd2YDGckH8": [
+			{
+				"comment_id": 25,
+				"body": "> [kahpecuce](#comment_21_1MmPY9fniJwwhP6WsgH4jWoq5rBAVV6KWy): you meant your two satoshis. :P\n\nYou meant your $0.0000084272. :P\nWait... are ideas subject to inflation?",
+				"added": 1455744334
+			}
+		],
+		"6_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf": [
+			{
+				"comment_id": 26,
+				"body": "well this is surreal.",
+				"added": 1455744652
+			}
+		],
+		"20_1ED3Ho3kmzaKiECtyuqSjDpoE47rKuXeP": [
+			{
+				"comment_id": 28,
+				"body": "I'm not sure how to do that, but [here](https://coderwall.com/p/lhsrcq/one-line-browser-notepad?p=1) is a neat, vaguely related way to have an editor using nothing but html. Example from the site [here](data:text/html;base64,PHRpdGxlPkZsYXRwYWQ8L3RpdGxlPjxodG1sIHN0eWxlPSJmb250LWZhbWlseTogJ1JvYm90bycsIHNhbnMtc2VyaWY7YmFja2dyb3VuZDogIzFBQkM5QztwYWRkaW5nLXRvcDo1MHB4OyI+PGhlYWQ+PGxpbmsgaHJlZj0naHR0cDovL2ZvbnRzLmdvb2dsZWFwaXMuY29tL2Nzcz9mYW1pbHk9Um9ib3RvJyByZWw9J3N0eWxlc2hlZXQnIHR5cGU9J3RleHQvY3NzJz48L2hlYWQ+PGJvZHkgY29udGVudGVkaXRhYmxlIHN0eWxlPSJtYXgtd2lkdGg6NjByZW07bWFyZ2luOjAgYXV0bztwYWRkaW5nOjRyZW07YmFja2dyb3VuZDojZmZmO2JvcmRlcjojNjY2IHNvbGlkIDFweDtib3gtc2hhZG93OiAxcHggNHB4IDhweCAtNHB4O21pbi1oZWlnaHQ6IDUwMHB4OyI+PC9ib2R5PjwvaHRtbD4gIA==)",
+				"added": 1455868600
+			},
+			{
+				"comment_id": 32,
+				"body": "> [zozon](#comment_105_1QBLGLcgKfcpfLmiDYuDzUKVXFfmTAew55): \n> Lot of fun. made my day. Thanks again pycole for bringing the subject to spotlight.\n\nNo problem. :) I came across that a few weeks ago and suddenly it's relevant (how cool is that?).\nIf you look thru the page It came from, I'm pretty sure there's another version that can *actually save* the created text file. A crazy enough person could integrate this with Zeroframe and make a WYSIWYG HTML editor--*almost entirely written in HTML.* The possibilities are crazy. It's so cool to see what HTML5 can do--even though it might not be finalized for years, and isn't even Turing complete.",
+				"added": 1456180012
+			},
+			{
+				"comment_id": 37,
+				"body": "> [oracle](#comment_131_1ED3Ho3kmzaKiECtyuqSjDpoE47rKuXeP): A wysiwyg editor would be great for ZeroNet for us non-coders, please try to create one if you can.\n\nThat's a challenge, but I certainly want to try. I also plan on making a GUI for creating new sites using [this tool](https://github.com/chriskiehl/Gooey). The only downside is that It probably won't be possible to embed it into Zeronet: running python from Zeronet [seems to be a no-no](http://127.0.0.1:43110/Talk.ZeroNetwork.bit/?Topic:2_1KwTTgPRSTHFmmJAFBt6kQfdyNeSM5KJuH). It may end up being a nice standalone app, though.",
+				"added": 1456206692
+			},
+			{
+				"comment_id": 38,
+				"body": "> [oracle](#comment_132_1ED3Ho3kmzaKiECtyuqSjDpoE47rKuXeP): Hope some of this helps you. \n\nWoah, that's a lot to work with. Since this looks like a fairly big task, don't expect it to be finished terribly soon--The last time I did anything super intensive with HTML was about two years ago. \nI'll try to have a rough version done by the 29th, but I have like five other neat ideas for sites that I want to try out too. If I don't have a draft by then, I'll post an update here.\n\nAnything I *do* make will be posted on [Zerolist](http://127.0.0.1:43110/zerolist.bit). If I post something there, please seed it; I can't open port 15441 on my machine.\n\n**Edit**: Shelved for now, It's a bit beyond my abilities. I will revisit this idea sometime in the future, however.",
+				"added": 1456210227
+			},
+			{
+				"comment_id": 39,
+				"body": "> [oracle](#comment_133_1ED3Ho3kmzaKiECtyuqSjDpoE47rKuXeP): Take your time and I'll make sure to seed it. Why can't you open your port? Who's your ISP provider? Modem?\n\nThe modem is my landlord's, and I don't have permission to mess with it.",
+				"added": 1456242543
+			},
+			{
+				"comment_id": 41,
+				"body": "> [oracle](#comment_135_1ED3Ho3kmzaKiECtyuqSjDpoE47rKuXeP): Sounds like you need your own modem.\n\nNot really possible at the moment (personal life and stuff).",
+				"added": 1456294250
+			}
+		],
+		"12_1PNyuY1iZqXBpft4ArouqcnE4pNRGYij5i": [
+			{
+				"comment_id": 29,
+				"body": "That rate's not going to stay constant. Chances are that as the project matures, there will be a spike in interest from less technically-minded users arriving. That's roughly what happened with the rise of the Internet itself, anyway.",
+				"added": 1455869080
+			}
+		],
+		"1_16k9pNCerEdsZvWU82HMesThKFo9fofRfz": [
+			{
+				"comment_id": 30,
+				"body": "Except when he killed spodeman in the great meme war of 1869 but besides that yeah totes  absolutley nothing at all (rip in peace beautifull price]",
+				"added": 1456124378
+			},
+			{
+				"comment_id": 31,
+				"body": "> [zozon](#comment_104_1QBLGLcgKfcpfLmiDYuDzUKVXFfmTAew55): wut? there is nothing about Jesus as yet?Now, that I mentioned it, we completed 'must have' subject list for all network social gatherings.\n\nYep. [Godwin's law](https://en.wikipedia.org/wiki/Godwin%27s_law) is in full swing.",
+				"added": 1456176620
+			}
+		],
+		"2_1KwTTgPRSTHFmmJAFBt6kQfdyNeSM5KJuH": [
+			{
+				"comment_id": 33,
+				"body": "> [nofish](#comment_349_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): \n> The updater.py is only for demonstration purposes, it has to run by site site owner.\n\nCould it possibly be run another way--like on a timer, from a 'refresh' button on the page, or by being called by all.js? I'm already impressed by the level of automation here, and I would love to extend it further.",
+				"added": 1456181036
+			},
+			{
+				"comment_id": 35,
+				"body": "> [nofish](#comment_350_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): Sites can't run python scripts it would be unsecure, but if you make a copy of the GIF site and run update.py manually from console, then it's automatically download the latest gifs and add them to your new site.\n\nI see. If I used a web scraper written in javascript (maybe like [this one](http://noodlejs.com/), or [this one](https://github.com/ruipgil/scraperjs)), could I set that to run automatically?",
+				"added": 1456182744
+			},
+			{
+				"comment_id": 36,
+				"body": "> [nofish](#comment_351_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): These scripts are also meant to be running from command line, they won't work from browser.\n\nMy bad, I didn't notice that. I'll keep looking for something that works in the browser (if it's possible).",
+				"added": 1456183422
+			}
+		],
+		"3_1KwTTgPRSTHFmmJAFBt6kQfdyNeSM5KJuH": [
+			{
+				"comment_id": 34,
+				"body": "Here are some of mine.\n\nFonts:\n[Hack](http://sourcefoundry.org/hack/): A great font for code.\n[Fantasque Sans](https://github.com/belluzj/fantasque-sans): Slighty whimsical, yet still good for code.\n[Pontano Sans](https://www.google.com/fonts/specimen/Pontano+Sans): A nice curvy-ish typeface.\n\nThemes/Colors:\n[Monokai](https://atom.io/themes/monokai): It's been around for almost a decade, yet it still holds up.\n\nExamples:\n[Yeti's page](http://127.0.0.1:43110/195TNKe7aZbYT7cEjLXnKQ52487qpwas5x): Font seems to be called GlassTTYVT220. I'm not sure what the color scheme is, but It's nice!",
+				"added": 1456181748
+			},
+			{
+				"comment_id": 44,
+				"body": "> [testor](#comment_2_1Bs578fPj5LdtfwRBkvSRhDAFHDKx6wmoL): well, Hack font is very similar to Monospace :-|\n\nHack *is* a monospace font--that's just any font where all all characters are the same width.",
+				"added": 1456940020
+			}
+		],
+		"26_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf": [
+			{
+				"comment_id": 40,
+				"body": "[Hashcash](https://en.wikipedia.org/wiki/Hashcash) may be relevant. While it doesn't pay anyone, it does limit spam.",
+				"added": 1456245384
+			}
+		],
+		"1_16Sj4y8f1gVgm4kB8jcuh6HsW2MqJwGonF": [
+			{
+				"comment_id": 42,
+				"body": "For this to work, be sure you are using I2Psnark, not the standalone program known as Robert. If a link starts with maggot:// instead of magnet://, it's meant for Robert.",
+				"added": 1456449262
+			}
+		],
+		"4_1KwTTgPRSTHFmmJAFBt6kQfdyNeSM5KJuH": [
+			{
+				"comment_id": 43,
+				"body": "> [pfunk](#comment_1_1GR7fGB2Vdq4PyvsCejaTeBqzKo1RjGMgb): this was a confirmed nsa plant site\n\nCould you explain further? I'm not exactly sure how a single json file is meant to track anyone, or accomplish anything else.",
+				"added": 1456734328
+			}
+		],
+		"1_1Ch2Q1jPeM6pspyNZ28AA73v51wjYLSd3q": [
+			{
+				"comment_id": 45,
+				"body": "Two posts, one in [Hackernews](https://news.ycombinator.com/item?id=11210590) and one on [TorrentFreak](https://torrentfreak.com/play-p2p-impossible-shutdown-160301/) seems to be the sources.\n\nThis is a good thing. More peers = more redundancy--even if it *does* mean more noobs asking questions that have already been answered.",
+				"added": 1456982428
+			}
+		],
+		"3_1EMpuiFM1NLZmAVyoAWnwi8VwiZVV4dcnN": [
+			{
+				"comment_id": 46,
+				"body": "Nice. Eventually, I hope to be able to automatically scrape websites. The optional files demo site does this, but the update script has to be run manually (It's in Python, which can't be run in-browser). These might be of use:\nhttps://github.com/Anonyfox/meteor-scrape\nhttps://github.com/ruipgil/scraperjs\n\n**Edit**: By the way, meteor-scrape has built-in language detection--for even more automation.",
+				"added": 1457078446
+			}
+		],
+		"1_1N9vyd78w2N6174aLsw7FvCk5Lij3Bu33Y": [
+			{
+				"comment_id": 47,
+				"body": "A reddit clone would also be nice.",
+				"added": 1457078760
+			}
+		],
+		"10_1MxdAjWgnqwCaunGHmhY39tVR51qV3peJL": [
+			{
+				"comment_id": 48,
+				"body": "> [angristan](#comment_25_1MEWJRMLgvofqG9Mbsb2Rc4hFFyv7HeRx7): Why is it so slow ? :p\n\n1: It's alpha software that's barely a year old, give it some time.\n2: Have you even *tried* Freenet?",
+				"added": 1457116157
+			}
+		],
+		"1_1EiP55LCzwSpCgde2oQfnR52LunWcBDiB4": [
+			{
+				"comment_id": 49,
+				"body": "That probably depends on what type, and if it's terminal or not. Really, though, you should be consulting with your family and your doctor.",
+				"added": 1457215448
+			}
+		],
+		"1_18SV5U2zbB3EjxYCBTQzwakTKRjf81AfPQ": [
+			{
+				"comment_id": 50,
+				"body": "[site is not up](http://isup.me/zerobit.io) as of 05 Mar, 16:05.",
+				"added": 1457215690
+			}
+		],
+		"2_13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ": [
+			{
+				"comment_id": 51,
+				"body": "[Here's a few possible places to start.](https://github.com/HelloZeroNet/ZeroNet/search?utf8=%E2%9C%93&q=namecoin)",
+				"added": 1457231320
+			}
+		],
+		"1_1674XymFPbmAXh78xEpt3Pehtko6i2kvtA": [
+			{
+				"comment_id": 52,
+				"body": "If you look at the pull requests, nofish has done most of the coding, with a bit of help from various others.",
+				"added": 1457290902
+			}
+		],
+		"7_17i7Y7r8nTaCfLbCAuaKyc4R5BbKZYU2Hr": [
+			{
+				"comment_id": 53,
+				"body": "My app of choice: [PocketCasts](http://www.shiftyjelly.com/pocketcasts). It costs money, but it's hella worth it.\nOh boy, here we go. In absolutely no order:\n\n[Welcome to Nightvale](http://welcometonightvale.com). If you don't know about nightvale, you're seriously missing out.\n\n[Caustic Soda](http://causticsodapodcast.com). Three Canadian hosts talk about one caustic/dangerous/sensitive topic per episode. Not always safe for work. I recommend the episodes on mines, rabies, chemical warfare, and the entire series on the 5+ senses.\n\n[No Such Thing as a Fish](http://qi.com/podcast). The staff of QI discuss various strange facts they've come across during the week. They get off topic plenty.\n\n[Risk](http://risk-show.com). Highly NSFW. Features candid storytelling from many guests, some recurring. The three categories shows often fall into are sexy, adventurous, and tragic. The best are all three.\n\n[RadioLab](http://radiolab.org). NPR show that dives deep into things you probably never thought about before.\n\n[Damn Interesting](http://www.damninteresting.com). The title is a *massive* understatement. \n\n[The Truth](http://thetruthpodcast.com). Unique audio skits.\n\n[Chilling Tales](http://chillingtalespodcast.com). These guys seriously don't fuck around.\n\nIf you end up liking any of these shows, consider tossing them a donation (most have a Patreon).\nIf I think of more, I'll add them.",
+				"added": 1457318315
+			},
+			{
+				"comment_id": 54,
+				"body": "You should put a master list in the description.",
+				"added": 1457318998
+			},
+			{
+				"comment_id": 55,
+				"body": "> [deafboy](#comment_15_1xf9XC4Nsa7YfQWFiK6xGsNDJA3AaCTUa): Same for me. I've removed it and tried to reinstall from f-droid, but last version wouldn't even download. Tried the previous one which worked fine. I sync all my subscriptions with gpodder for this reason.\n\nDo any of those apps have an option for backing up your podcast list? If so, I'd suggest using it.",
+				"added": 1457375274
+			}
+		],
+		"2_1HHSJHKhrpXzsGmtHhJmkk7hp2DZ9CRSN6": [
+			{
+				"comment_id": 56,
+				"body": "As far as I know, you only seed sites you've downloaded--not all traffic, like other networks do (such as i2p).\nTo make a seedbox/helper node, I guess you would simply download as many sites as possible while not interacting with them much.\n\nEdit: If you want to make a seedbox widely available, you could make a compressed zip file containing your data/ folder after downloading many sites.",
+				"added": 1457458887
+			}
+		],
+		"9_1MEWJRMLgvofqG9Mbsb2Rc4hFFyv7HeRx7": [
+			{
+				"comment_id": 57,
+				"body": "You can create a site without ever having a ZeroId, so that option is off the table.\nHowever, you may be able to locate their IP address--unless they are protecting themself via the tor plugin.",
+				"added": 1457460640
+			},
+			{
+				"comment_id": 59,
+				"body": "The first place to look would be here:\nhttp://localhost:43110/Stats",
+				"added": 1457477204
+			}
+		],
+		"4_1MEWJRMLgvofqG9Mbsb2Rc4hFFyv7HeRx7": [
+			{
+				"comment_id": 58,
+				"body": "> [angristan](#comment_56_1MEWJRMLgvofqG9Mbsb2Rc4hFFyv7HeRx7): Well, I'm seeding too :D\n\nThis reminds me of summer 2015. After _over two months_ of leaving Zeronet running 24/7, I was proud of myself for seeding over 2GB out. \nDamn--the network has really grown.",
+				"added": 1457460990
+			}
+		],
+		"5_1KwTTgPRSTHFmmJAFBt6kQfdyNeSM5KJuH": [
+			{
+				"comment_id": 60,
+				"body": "> [kaffie](#comment_60_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh): http://localhost:8080/1HeLLo4uzjaLetFx6NH3PMwFP3qbRbTf3D (different port)\nChanging the ports requires a bit of reconfiguration, right? Anyone that's done so will know to change the port number when they try to visit the url.\n\nRight now, I'm simply trying to write a regex that prevents a forum from accepting a non-zeronet url. I'm not dealing with proxies, custom port setups, or the chrome extension. The url forms my expression accepts right now are meant to be usable by as many people as possible--just click and go.",
+				"added": 1457488115
+			}
+		],
+		"1_1E5qiz3ku3EzkMaUSj7mSSVJGtecNTGtBj": [
+			{
+				"comment_id": 61,
+				"body": "If you need it, the tutorial is [here](http://zeronet.readthedocs.org/en/latest/using_zeronet/create_new_site/).",
+				"added": 1457498149
+			},
+			{
+				"comment_id": 62,
+				"body": "> [rem](#comment_1_1E5qiz3ku3EzkMaUSj7mSSVJGtecNTGtBj): great thank you this is exactly what I needed\n\nNo problem.You might also want to look [Here](http://127.0.0.1:43110/1NQSaE4rV83oeDVzDVryMNFSCqwz2gAaB4/?Post:4:EZTerminal:+Windows+Terminal+for+Creating,+Building,+and+Publishing+Sites) for a simplified version Mod has made.\nAnd on someone's blog (can't remember who), there is a tutorial for vanity addresses. I'll see if I can find it.",
+				"added": 1457506906
+			},
+			{
+				"comment_id": 63,
+				"body": "[Found the vanity generator.](http://127.0.0.1:43110/13x71nc7fju6afMqpEPfcu3Gx9Z5hNhH48/?Post:5:How+To:+custom+ZeroNet+addresses+using+Vanitygen+)",
+				"added": 1457507852
+			},
+			{
+				"comment_id": 64,
+				"body": "[A tutorial on .bit addresses.](http://127.0.0.1:43110/cryptonbits.bit/?Post:4:How+to+connect+your+.bit+domain+with+your+Zeronet+site)",
+				"added": 1457508168
+			}
+		],
+		"1_1DfCtyHHrhkEYTyTAPhqQprTD1pHYMtrXz": [
+			{
+				"comment_id": 65,
+				"body": "Visiting the link downloads a file called chrome_0.vbs, which both Chrome and my antivirus registered as a threat. I was able to download it by using an older browser and disabling my antivirus (don't ever do that, kids). The file starts with:\n````\n'HEX V1.1 \"\nBY>:KING OF MASS \nCopyright (C) 2015\n````\nAnd then has:\n`off = off & php(\"44696D2054677568725277434270564555554254416A4176734570416C7A7165694E66674A45414458426E7070746C544966797065756F424C516758477565556E674F616D53506D4D6A7949756C5852\")`\n\nThis line is repeated with 1,185 different strings of varying length, which I suspect are hashes.\nThe last two lines read:\n\n`ExecuteGlobal off`\n`Function php(off) : For y = 1 To Len(off) Step 2 : ub = ub & Chr(Clng(\"&H\" & Mid(off, y, 2))) : Next : php = ub : End Function`\n\nIn short, I have no idea what this whole file does.\n\nIf you think you've done this by mistake, I heavily encourage you to run your antivirus program (back up users.json if you want to save your username, unless your antivirus found that file to be infected). Then, uninstall whatever you have at the moment. \nThe actual downloads are here:\nhttps://github.com/HelloZeroNet/ZeroNet#user-content-how-to-join\n\nIf you are deliberately trying to fuck up other people's devices, please stop. Being an asshole is a terrible way to make friends.",
+				"added": 1457552072
+			}
+		],
+		"2_1DFDjUGJdSp1kMuFq1AtNS9ZWmkVtbp947": [
+			{
+				"comment_id": 66,
+				"body": "Wait...Google's tools can observe Zeronet? Does that mean Google has installed Zeronet on one of their servers?",
+				"added": 1457582432
+			},
+			{
+				"comment_id": 68,
+				"body": "Interesting, but not open source. You'd best choose from one of [these](https://en.wikipedia.org/wiki/Category:Free_web_analytics_software). None of them are JavaScript-based, though, so there's an extra implementation challenge.",
+				"added": 1457592580
+			}
+		],
+		"1_19LkvdTE3CmnUApuSwY8KGbm7n7sWCNEPC": [
+			{
+				"comment_id": 67,
+				"body": "Registering a domain [costs .01 NMC](https://wiki.namecoin.info/index.php?title=Register_and_Configure_.bit_Domains#How_much_does_it_cost), and renewing one costs 0 NMC (which gives another ~6 months of ownership). Both are subject to a .005 transaction fee.\n\nAn entire Namecoin will last you... well, [a damn long time](http://goo.gl/LufXyC).\nEven the mere 0.07 USD worth that I have is good for [nearly a decade](http://goo.gl/pldWBv).",
+				"added": 1457584187
+			}
+		],
+		"3_1GtJqyJRsuZhmxVtw5USgvqGbUmVH7EmBD": [
+			{
+				"comment_id": 69,
+				"body": "Mainly because Github is where all the action (pull requests etc) is. Also because it's a great place to gather in case ZN has some kind of catastrophic failure.",
+				"added": 1457597292
+			},
+			{
+				"comment_id": 70,
+				"body": "> [yo](#comment_4_1GtJqyJRsuZhmxVtw5USgvqGbUmVH7EmBD): that is not good for marketing j/k\n_Marketing?_ We're open source, capitalism holds no sway over us! :p",
+				"added": 1457598998
+			}
+		],
+		"1_1Nm5x2LqGhYyMnfyPfBdywyvX9R2FUPrfj": [
+			{
+				"comment_id": 71,
+				"body": "[Here](http://127.0.0.1:43110/0chan.bit). It's a work in progress.",
+				"added": 1457643978
+			}
+		],
+		"2_1JgnSzfqoK7wmgWxZgpm89n9zS7J9YoUMt": [
+			{
+				"comment_id": 72,
+				"body": "This could be great for maintaining imageboards: Posts less than _x_ weeks old would be kept, those more than _y_ weeks old would become optional files, and posts older than _z_ weeks old would be deleted.\nIf I somehow find a way to do this via Javascript alone, I'll be sure to share it.",
+				"added": 1457985165
+			}
+		],
+		"4_1MahZJTzjoEMMCv2jBReDWhyNGRhN5tvDq": [
+			{
+				"comment_id": 73,
+				"body": "[Here](http://127.0.0.1:43110/138R53t3ZW7KDfSfxVpWUsMXgwUnsDNXLP/?Index). It's a work in progress, of course, and I'm not sure how moderating will work.",
+				"added": 1458050778
+			}
+		],
+		"1_16m4KFYTxwbNsMUau3t493txwvHxnwb3b9": [
+			{
+				"comment_id": 74,
+				"body": "> [untio](#comment_1_1PGzTSaS8UGSgsWekdRz3FXAEkty8JGmP4): is that site dead already ?\n\nDoesn't seem to be. As of now, there was a post 12 hours ago.",
+				"added": 1458070462
+			}
+		],
+		"6_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": [
+			{
+				"comment_id": 75,
+				"body": "For decentralized freedom from ICANN, [cjdns](https://github.com/cjdelisle/cjdns) is the way to go, but we don't have ipv6 support yet.\nZN does use trackers, as seen  [here](https://github.com/HelloZeroNet/ZeroNet/blob/master/src/Config.py#L33). \n[DHT](https://en.wikipedia.org/wiki/Distributed_hash_table) is a much more decentralized method of peer negotiation, although possibly less secure in this context (according to an old conversation I had with nofish, can't remember where). \nIf you have a sturdy understanding of Python and data structures, please feel free to [help out](https://github.com/HelloZeroNet/ZeroNet/issues/57). If you have bitcoin, you can provide some monentary motivation [here](http://zeronet.readthedocs.org/en/latest/help_zeronet/donate/#dht-support).",
+				"added": 1458115450
+			},
+			{
+				"comment_id": 76,
+				"body": "> [error404](#comment_4_1CWttfFnJgQmZifX8FbZn9dZ3xaTfooSJd): So right now, if the ZeroNet servers goes offline, the ZeroNet dies?\n\nNot quite. Of all the [listed trackers](https://github.com/HelloZeroNet/ZeroNet/blob/master/src/Config.py#L33), nofish only owns boot.zeronet.io, and maybe (not sure) the onion one. The rest are big-time public trackers; all of them handle many thousands of requests a day. The chances that all of them might be down at the same time are ludicrous.\n\n**Edit**: even if that *somehow* happened, there are [dozens](https://www.reddit.com/r/opentrackerproject/) more trackers available, and it's certainly possible to [run one yourself](https://en.wikipedia.org/wiki/Comparison_of_BitTorrent_tracker_software).",
+				"added": 1458140106
+			},
+			{
+				"comment_id": 77,
+				"body": "> [error404](#comment_5_1CWttfFnJgQmZifX8FbZn9dZ3xaTfooSJd): does the ZeroNet uses the same trackers as the bittorrent network?\n\nAgain, the trackers are [here](https://github.com/HelloZeroNet/ZeroNet/blob/master/src/Config.py#L33). I'm not sure who owns the onion one, boot.zeronet.io seems to be Zeronet-exclusive, and the rest are common public trackers.",
+				"added": 1458149635
+			}
+		],
+		"2_14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx": [
+			{
+				"comment_id": 78,
+				"body": "In terms of programs designed for this single purpose, there don't seem to be any. However, there are tools available.\n[Here](https://www.npmjs.com/package/namecointool) is a node package that seems able to query names and expiration dates, and [This](https://hackage.haskell.org/package/rosa) seems to be a Haskell tool for the same purpose.",
+				"added": 1458169938
+			}
+		],
+		"3_1BidR2Pw65fTPeh1R3LbwCdfEJUPB6FLes": [
+			{
+				"comment_id": 79,
+				"body": "Definitely would be neat. On the same-ish topic, you might also want to look into [electron](http://electron.atom.io/).",
+				"added": 1458260182
+			}
+		],
+		"4_1JHQA9oFkFpFFRiscyT4N71AKLWg46pQ92": [
+			{
+				"comment_id": 80,
+				"body": "Full I2p support seems to be planned, but there are some kinks to work out first (see the [Github page](https://github.com/HelloZeroNet/ZeroNet/issues/45)). \nIn the meantime, [BOB](https://geti2p.net/en/docs/api/bob) (the Basic open Bridge) may be of use: It lets non i2p-aware applications communicate over i2p. That's probably not ideal (and might be too demanding on i2p's network), but nobody seems to have the 'best' way to do this just yet.",
+				"added": 1458263035
+			},
+			{
+				"comment_id": 88,
+				"body": "> [cer](#comment_7_1JHQA9oFkFpFFRiscyT4N71AKLWg46pQ92): Do you have any idea (tutorial) to configure Zeronet with BOB for I2P?\n\nThere's something of a guide [here](https://geti2p.net/en/get-involved/develop/applications). Like it's been said on the github issue page (see my earlier comment), There are some issues that need to be resolved first. But after looking at the [options for possible APIs to use](https://geti2p.net/en/get-involved/develop/applications#options), I'm not sure what would suit ZN best. BOB? I2pTunnel? the full streaming library? I can't say just yet.\nHere's how I suggest proceeding: fork ZN, get a friend or two to install your fork, mess around with different tools, gather some benchmarks, get feedback. That's a good way to start.",
+				"added": 1458583814
+			}
+		],
+		"2_18sw1reMFB1fpxc4vjfjoCrLaFs8UbMeQH": [
+			{
+				"comment_id": 81,
+				"body": "[Ease up there, Phil.](https://en.wikipedia.org/wiki/Philip_K._Dick#Paranormal_experiences_and_mental_health_issues)",
+				"added": 1458263534
+			},
+			{
+				"comment_id": 84,
+				"body": "> [1001001001](#comment_6_18sw1reMFB1fpxc4vjfjoCrLaFs8UbMeQH): i know what i saw buddy\n\nI'm not making any claim about how true your experience was. I'm just saying you are literally Phillip K. Dick.",
+				"added": 1458319021
+			}
+		],
+		"8_1PVcdu7USZH2kHMETbqDYLPjJZKCDWM52k": [
+			{
+				"comment_id": 82,
+				"body": "Also relevant: https://github.com/wooorm/franc",
+				"added": 1458263594
+			}
+		],
+		"5_1DcDDitsjFJohvwonPmpibRChmA7uGxqL7": [
+			{
+				"comment_id": 83,
+				"body": "With ZeroFrame, I'm not sure. But [this](https://github.com/ruipgil/scraperjs) web scraper _might_ work.",
+				"added": 1458273778
+			}
+		],
+		"15_1CMYxdit4qq9QGk9DYRu2ruRPd2YDGckH8": [
+			{
+				"comment_id": 85,
+				"body": "With luck (and plenty of effort), we can prevent experiencing our own [Eternal September](http://knowyourmeme.com/memes/eternal-september).",
+				"added": 1458519248
+			},
+			{
+				"comment_id": 86,
+				"body": "Your personal site/blog is like your house: you can say _whatever the fuck you want_ in it. If you and some others want to have a good laugh about that one minority joke you love or whatever, that's fine. *You* own the site, and it's *your guests* that leave (and stop seeding) if they get fed up.\nThe general sites are like public parks: If you're being overly caustic, **you** may get shown the door. That's not censorship, [it's you being asked to be less of an ass](https://xkcd.com/1357/). The line between bluntness and decency is blurry, but being told to GTFO is a hint.",
+				"added": 1458541626
+			},
+			{
+				"comment_id": 87,
+				"body": "> [kaffie](#comment_96_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh): To add to this, there's a difference between presenting an opposing view (hitler was right, for instance) and talking about it in a decent humane way, and simply spamming shit and hating on people with no real room for discussion on a public forum.\n> \nRight. And since the barrier to entry for making your own site is pretty low (basic html/css/javascript knowledge, or just knowing how to press the 'clone' button), it can hardly be called censorship. It's not being banned from a platform: a set of people are just refusing to be your audience.\n\n...Which we're doing a decent job of right now, I'd say.",
+				"added": 1458544047
+			}
+		],
+		"10_17i7Y7r8nTaCfLbCAuaKyc4R5BbKZYU2Hr": [
+			{
+				"comment_id": 93,
+				"body": "Susimail.",
+				"added": 1458705920
+			},
+			{
+				"comment_id": 101,
+				"body": "> [a4io5ziuf436y0df](#comment_2_1AxJtqoxhNyjRjUptGgVoVHxgxtKRzUrpY): Do you trust Javascript to do the crypto for you? (I'm not bashing languages)\n> Because that sounds like a pretty clever and rather unthought-of solution.\n\nJavascript's crypto landscape [doesn't look too bad](https://www.npmjs.com/search?q=cryptography). Hell, we even have [EEC](https://www.npmjs.com/package/elliptic) and [AES](https://github.com/middleout/angular-cryptography) available. No idea if either's been audited though.\nEdit: [Forge](https://github.com/digitalbazaar/forge) is also pretty competent looking",
+				"added": 1458859283
+			}
+		],
+		"10_1MEWJRMLgvofqG9Mbsb2Rc4hFFyv7HeRx7": [
+			{
+				"comment_id": 94,
+				"body": "> [basxto](#comment_85_1PVcdu7USZH2kHMETbqDYLPjJZKCDWM52k): I wouldn't call ZeroNet as such, because it is even though it's probably not indexable (much JavaScript) pretty easy to use for average users. You can use ZeroNet use via a proxy without noteworthy cutbacks. You can also easily link it from clearnet sites. (which I already did)\n\nYou can browse tor via proxy too: here's the onion mirror of [Bluish Coder's site](https://mh7mkfvezts5j6yu.onion.to/) run by the onion.to service. And for even more weirdness, [here's](https://zerowrohotccypak.onion.to/1HeLLo4uzjaLetFx6NH3PMwFP3qbRbTf3D/) a proxy into tor that points to a proxy into zeronet (It doesn't seem to work, but it's still neat).",
+				"added": 1458745451
+			},
+			{
+				"comment_id": 96,
+				"body": "> [zarka](#comment_2_16R5J6zeFBmUQB2QM4ZgZMw8DxM4MnwcPr): Hey,If you assume deep web = overlay network, then Zeronet is a deep web (like Bittorrent, I2P, Tor, RetroShare, whatever).A darknet is a network where you don't connect to unknown peers.Freenet, Retroshare and some other can be used as darknets but Zeronet can't.\n> I personally think that there is no deep web. Why a part of the web would be more deeper than an other? It is mostly a word for people who don't really understand what is the web and what are theses network.\n\nIf [private sites](https://github.com/HelloZeroNet/ZeroNet/issues/62) are added, Zeronet will be able to function as a darknet.\n\nAs for the terminology: 'darknet' refers to content that is not indexed by search engines. If a search engine is like a fishing trawler, then 'darknet' refers to resources too deep to reach (without special equipment).",
+				"added": 1458764257
+			},
+			{
+				"comment_id": 97,
+				"body": "> [angristan](#comment_78_1MEWJRMLgvofqG9Mbsb2Rc4hFFyv7HeRx7): This is deep web, not darknet\n\nSince additional software (or a proxy) is required to view content, I'd classify ZN as a Darknet.\nSources:\nhttps://danielmiessler.com/study/internet-deep-dark-web/\nhttp://www.brightplanet.com/2014/03/clearing-confusion-deep-web-vs-dark-web/\nhttps://en.wikipedia.org/wiki/Darknet",
+				"added": 1458799935
+			},
+			{
+				"comment_id": 99,
+				"body": "> [zerobunker](#comment_112_168qV1Xxp2EyszrzdECLUwXrn9wGYjDdar): we are part of torrent network.\n\nSorta. We use public trackers, but [not the Bittorrent protocol](https://github.com/HelloZeroNet/ZeroNet/issues/57) (see 3rd comment down).",
+				"added": 1458827306
+			},
+			{
+				"comment_id": 102,
+				"body": "> [nic0las](#comment_1_185cUi41KQ1XWqcXDLyBiUkETqFcs8gQTb): I think ZeroNet is part of the deep WEB. But Bittorrent and RetroShare.Web =/= Internet.\n\n[Confirmed.](http://www.webopedia.com/DidYouKnow/Internet/Web_vs_Internet.asp)",
+				"added": 1458918354
+			}
+		],
+		"1_13BepSu3vkeSQB3ZWkCDg7Lu5w64tfpeTa": [
+			{
+				"comment_id": 95,
+				"body": "First: can we have a link to your blog please?\nSecond: It's _your_ blog, for you to write about whatever you want to. Why ask someone else for content?",
+				"added": 1458757315
+			},
+			{
+				"comment_id": 98,
+				"body": "> [crypton](#comment_58_17fgJ3tZjhM7HCkTkd5TWf2BLLWmhRKcXB): You can hire me at 1 BTC per article. :)  Payment due prior to deliverables.\n \n\\> find [guide](http://www.freelancewriting.com/articles/how-to-set-your-freelance-writing-rates.php) on suggested freelance writing commissions\n\\> go to Google\n\\> 1 btc to usd\n\\> 416.75 US Dollar\nFucking hell, are you some kind of journalist wizard?",
+				"added": 1458800278
+			}
+		],
+		"2_13BepSu3vkeSQB3ZWkCDg7Lu5w64tfpeTa": [
+			{
+				"comment_id": 100,
+				"body": "Pretending to be another website (phishing) is possible on the normal internet too; there are [tools](https://www.httrack.com/) available for downloading sites. The best way to deal with the problem either way is by bookmarking urls.\n\nOn ZN, we have a *slight* advantage, though. If you've already visited a site, you can browse it easily. If a new 'fake' site is made and you are lead there by a link, It'll need to find peers and download. Hopefully, You'll be thinking 'wait a sec, I already downloaded this site!' and be suspicious.",
+				"added": 1458828127
+			}
+		],
+		"1_18jipjDsfAxAuq4ixbi2w24xJrYVfTYFPn": [
+			{
+				"comment_id": 103,
+				"body": "You know that weird feeling you get when you're home alone? The one where you swear that _something_ is in the room with you, yet when you turn around you realize how stupid you were for having such a dumb idea--only for it to happen again ten minutes later?\n\n\nWell...I don't live there. And I've never been there. But my cat's there right now. Please bring her back, that's the 3rd time she's done that this week.",
+				"added": 1458970208
+			},
+			{
+				"comment_id": 116,
+				"body": "> [a4io5ziuf436y0df](#comment_4_1AxJtqoxhNyjRjUptGgVoVHxgxtKRzUrpY): Pandora\n\n[Um...](https://en.wikipedia.org/wiki/55_Pandora) is [there](https://en.wikipedia.org/wiki/Pandora,_Ohio) any [chance](http://tvtropes.org/pmwiki/pmwiki.php/Film/Avatar) you [could](http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/Borderlands) elaborate [just](https://en.wikipedia.org/wiki/HMS_Pandora) a [bit](https://en.wikipedia.org/wiki/Pandora_Pann)? I [mean](https://en.wikipedia.org/wiki/Gallifrey:_Pandora), you [don't](https://www.youtube.com/watch?v=ADp64REE5vQ) have [to](https://en.wikipedia.org/wiki/Pandora_Archive), but[...](https://en.wikipedia.org/wiki/Pandora_Radio)",
+				"added": 1459119173
+			},
+			{
+				"comment_id": 143,
+				"body": "> [trivita](#comment_2_15HQFahW4SfTjGcP4kg3JqH6kMRTrmFd6q): trolling?take a guess\n\nYou are either in Poland or the UK.\nDid I get it right?",
+				"added": 1461623076
+			},
+			{
+				"comment_id": 145,
+				"body": "Here's a tip: google your ZeroID username. If the results include any of your social media pages, consider getting a different ZID.",
+				"added": 1461645663
+			}
+		],
+		"1_1PRtPMsAohGekTGBAqKEZG1V8ZPX4iY2gW": [
+			{
+				"comment_id": 104,
+				"body": "With tor enabled, I have:\n````\nConnected:3    Connectable:860\nOnion:462      Total:860\n````\nWith tor only mode:\n````\nConnected:3    Connectable:700\nOnion:399      Total:700\n````",
+				"added": 1459008697
+			}
+		],
+		"1_1HHsJVKEXQwfg8d1NSnNi55SfMWCsuqGYR": [
+			{
+				"comment_id": 105,
+				"body": "Yep. It's more secure than Tor (meaning it at least hasn't been compromised yet), and because it's not server-client based, it may end up being faster too. Although making it fast *and* secure without bogging down the i2p network is the hard part (maybe that's why the poll has so many NO's--people think it can't be done right? I dunno :\\\\)\n[Here's](https://github.com/HelloZeroNet/ZeroNet/issues/45) the Github issue for anyone interested in the details.",
+				"added": 1459081926
+			},
+			{
+				"comment_id": 106,
+				"body": "> [deafboy](#comment_17_1xf9XC4Nsa7YfQWFiK6xGsNDJA3AaCTUa): What do you mean by that?\n\nZN is [peer-to-peer](https://en.wikipedia.org/wiki/Peer-to-peer) based--we have no central server.",
+				"added": 1459101691
+			}
+		],
+		"1_1HPdSHS7WWEMmsJ77JMtf87DUMRGpbTodx": [
+			{
+				"comment_id": 107,
+				"body": "DO IT FAGGOT[.](https://www.youtube.com/watch?v=VMUJ1J6dhro)",
+				"added": 1459110995
+			},
+			{
+				"comment_id": 108,
+				"body": "> [isis](#comment_5_1HPdSHS7WWEMmsJ77JMtf87DUMRGpbTodx): FUCK YOU I BOMB YOU BITCH\n\nJUST DO IT[.](https://www.youtube.com/watch?v=VMUJ1J6dhro)",
+				"added": 1459111237
+			},
+			{
+				"comment_id": 109,
+				"body": "WHAT ARE YOU WAITING FOR? DO IT[!](https://www.youtube.com/watch?v=VMUJ1J6dhro)",
+				"added": 1459111543
+			},
+			{
+				"comment_id": 110,
+				"body": "> [isis](#comment_7_1HPdSHS7WWEMmsJ77JMtf87DUMRGpbTodx): FUCK YOU I KILL YOUR MOTHER\n\nDO IT[!](https://www.youtube.com/watch?v=VMUJ1J6dhro)",
+				"added": 1459111856
+			},
+			{
+				"comment_id": 112,
+				"body": "> [isis](#comment_7_1HPdSHS7WWEMmsJ77JMtf87DUMRGpbTodx): FUCK YOU I KILL YOUR MOTHER\n\nJUST DO IT[!](https://www.youtube.com/watch?v=VMUJ1J6dhro)",
+				"added": 1459112265
+			},
+			{
+				"comment_id": 113,
+				"body": "> [isis](#comment_5_1HPdSHS7WWEMmsJ77JMtf87DUMRGpbTodx): FUCK YOU I BOMB YOU BITCH\n\nWHAT ARE YOU WAITING FOR[?](https://www.youtube.com/watch?v=VMUJ1J6dhro)",
+				"added": 1459112419
+			},
+			{
+				"comment_id": 114,
+				"body": "DO IT[!](https://www.youtube.com/watch?v=VMUJ1J6dhro)",
+				"added": 1459112867
+			},
+			{
+				"comment_id": 115,
+				"body": "JUST DO IT[!](https://www.youtube.com/watch?v=VMUJ1J6dhro)",
+				"added": 1459114664
+			},
+			{
+				"comment_id": 117,
+				"body": "> [isis](#comment_5_1HPdSHS7WWEMmsJ77JMtf87DUMRGpbTodx): FUCK YOU I BOMB YOU BITCH\n\nWHAT ARE YOU WAITING FOR[?](https://www.youtube.com/watch?v=VMUJ1J6dhro)",
+				"added": 1459123264
+			},
+			{
+				"comment_id": 118,
+				"body": "> [zeroworld](#comment_8_1KSNSPNM5FTUwPJeyyHrLXek1dsumpnFm1): Someone is spamming a badly-hidden youtube link. I don't think they know how SEO works.\n\nHey, until I had to use punctuation marks that weren't periods, I think I was doing pretty well.\nBesides, the best way to fight stupid is with more stupid[.]()\n...or at least that's the most fun way, anywho.",
+				"added": 1459134459
+			}
+		],
+		"1_1NHQdXhX5sU4wz4EsknTwYrwcAVt8tCQhv": [
+			{
+				"comment_id": 119,
+				"body": "Installed it, still have it, never really used it--even before I knew of Zeronet. Never made a username either.",
+				"added": 1459227363
+			}
+		],
+		"1_1Nshmf499uVVArfgHUPyRKBUQc2s8HhU7p": [
+			{
+				"comment_id": 120,
+				"body": "First: How'd you get the word 'me' to look like that?\nSecond: So~oooo slavery? If not, be really careful how you word this.",
+				"added": 1459317778
+			},
+			{
+				"comment_id": 121,
+				"body": "> [yoni9091](#comment_1_1Nshmf499uVVArfgHUPyRKBUQc2s8HhU7p): t tought also the name is not the right name for that! do you have a offer to a different name?\n\nI'm not familiar enough with the concept to find an alternate name. I'm just saying that a poorly-chosen name might drive away potential users.\nAlso: what is up with some of the letters being in a thinner font? It's happening to me and I'm not even trying to do anything.",
+				"added": 1459378979
+			}
+		],
+		"3_1MCsyW6W243LY69ZYm99XbV3M8Gbbrp5hF": [
+			{
+				"comment_id": 122,
+				"body": "considering thekill's comment, **and** the fact that we eventually may have [i2p integration](https://github.com/HelloZeroNet/ZeroNet/issues/45), this question doesn't make much sense.",
+				"added": 1459466305
+			}
+		],
+		"1_1HHx8ndzv5HniuG3CHmBWJyXnBcnXgnShX": [
+			{
+				"comment_id": 123,
+				"body": "It's changed for me too, it seems. Lemme investigate a bit...\n\nEdit: Found it! the new url is http://127.0.0.1:43110/Benchmark",
+				"added": 1459479719
+			}
+		],
+		"1_1553ESgsQifUjrsT9wcyG1iHt6MEXNK2sA": [
+			{
+				"comment_id": 127,
+				"body": "[Here](http://www.vanillacoin.net/) is the forgotten link. Apparently it also goes by 'vanillaCoin'.\nQuick question: In terms of security, what advantages does this altcoin has over, say, [Monero](https://getmonero.org/home) or [Shadow](https://shadowproject.io/en)?",
+				"added": 1459926902
+			}
+		],
+		"1_18ZfPCaU1pYAeos3A7YhZVgtsmXqXeRRW7": [
+			{
+				"comment_id": 128,
+				"body": "I have a few comments:\nWhen the time for adding DHT comes, which implementation is being considered? I'd reccommend Kademlia, since it has a decent [Python implementation](https://github.com/bmuller/kademlia) , has served both [CJDNS](https://github.com/cjdelisle/cjdns) and the [Telehash project](https://github.com/telehash/telehash.org/blob/dd23237c1ac19b6347624b609ac22bc184016bb6/v2/dht.md) well, and is at least [fast enough](http://www.cs.columbia.edu/~jae/papers/bootstrap-paper-v3.2-icc11-camera.pdf) to outpace Chord (not sure about Pastry, Koorde, or others though).\n\nIn a little while, I'll post a few DNS suggestions.",
+				"added": 1460171566
+			},
+			{
+				"comment_id": 129,
+				"body": "For DNS, I can suggest a few options:\n**NXT**\nPros: \n1. Custom currencies/ assets can be created.\n2. NXT's *alias* system offers the same functionality as Namecoin, with the addition that aliases can be bought from/ sold to other accounts. CJDNS uses them for its .hype domain.\n3. Can store up to 1000 bytes of arbitrary data (or 42kb for a short time) which can be used to [build services](https://www.cryptocoinsnews.com/nxt-decentralized-voting-system-twitter/).\n4. Has a built in voting system, could be used for domain ownership disputes.\n5. Blockchain is pruned at specific intervals, reduces bloat.\nCons:\n1. Steeper learning curve than Namecoin.\n2. Supports plugins, but they aren't sandboxed.\n3. It's Written in [Java](http://www.reactiongifs.com/yuck/).\n\n**IOTA**\nPros:\n1. ***Doesn't use a blockchain***. Uses a DAG instead (see the [whitepaper](http://iotatoken.com/IOTA_Whitepaper.pdf).)\n2. Can Interoperate with blockchain-based altcoins.\nCons:\n1. Still early in development --client isn't ready yet (a [tangle explorer](https://www.tangle.ninja/explorer) is available though).",
+				"added": 1460175534
+			}
+		],
+		"25_1ED3Ho3kmzaKiECtyuqSjDpoE47rKuXeP": [
+			{
+				"comment_id": 130,
+				"body": "Not sure, but here's a related tool: https://www.silex.me/",
+				"added": 1460397899
+			},
+			{
+				"comment_id": 132,
+				"body": "Found another: https://github.com/benweet/stackedit\nDemo link at the top. \nThis thing has *in-browser* markdown editing, with a live preview. So much Yes.\n**Edit:** also [this](/16WQegoxdJkiyBuTNUN4Qh3A99f1p2iCNd)",
+				"added": 1460516177
+			}
+		],
+		"1_1P9ifvMbVtQQzqRQmhKnRzJMm7Cgb2fTgw": [
+			{
+				"comment_id": 131,
+				"body": "We already [have](/1NZNtZQZHQRJXafvJpmY5jgqwRaCEZMsUc) a [few](/14hGYw3raftbmwzKwCKj3zyaz34KcuPJVj). Although the first is very 4chan-ish, so you might want to look [here](/1KWy8mTjFvviLWwkmUWUZZosxgpYEK8rUq) first _just_ in case.",
+				"added": 1460515714
+			}
+		],
+		"3_1FieP4c1gxFme5webFJB9x5ZPBXdR6p3Fs": [
+			{
+				"comment_id": 133,
+				"body": "No peers so far--would you mind visiting your site on a [proxy](https://bit.no.com:43110/bcnews.bit) to help?",
+				"added": 1461002630
+			},
+			{
+				"comment_id": 134,
+				"body": "> Maybe it has something to do with the port 15441?\nI can still visit the site, so that's not a problem.\nCheck your site's folder in data/1HFp6UZeK73Vt23NSGEUJs5wfJru9eGAT3. You should have a file called ````content.json```` which lists all the files your site has. It should look something like [this one](http://127.0.0.1:43110/17Kom2G5qNDc6NaQwv445h1gFzxkY3ZtZe/site_development/content_json/).",
+				"added": 1461003693
+			},
+			{
+				"comment_id": 135,
+				"body": "> [darkstratus](#comment_15_1FieP4c1gxFme5webFJB9x5ZPBXdR6p3Fs): Hey, it's working. I forgot to sign and publish the content.json file. I thought it'd be done automagically hahah. Thanks, man.\n\nGreat! Out of curiosity: are you copying news to the zite manually, or do you have some kind of automation going on?",
+				"added": 1461004158
+			},
+			{
+				"comment_id": 136,
+				"body": "> [darkstratus](#comment_17_1FieP4c1gxFme5webFJB9x5ZPBXdR6p3Fs): Yeah, it'd be handy. Any suggestions?\n\nMaybe [this](https://github.com/ruipgil/scraperjs) library will work, or [this](https://github.com/Anonyfox/meteor-scrape) one. I plan on testing both eventually.",
+				"added": 1461004503
+			},
+			{
+				"comment_id": 137,
+				"body": "If you can fetch rss items and return them as JSON objects (or some other format), you could use ````createElement()```` to insert them--I suggest using HTML5's shinny new ````<article>```` or ````<section>```` tags.\nI'm not sure if you can auto sign/publish with javascript; you may need a python script or something to do that on a timed interval.",
+				"added": 1461005644
+			}
+		],
+		"43_1GtJqyJRsuZhmxVtw5USgvqGbUmVH7EmBD": [
+			{
+				"comment_id": 138,
+				"body": "How'd you get that neato heatmap? I can't find it anywhere on [ZeroExpose](http://zeroexpose.com/).",
+				"added": 1461124820
+			}
+		],
+		"8_13dUD5qbY6LaXH9pfh5iDgXHgKjCZPxvZV": [
+			{
+				"comment_id": 139,
+				"body": "If you want a pure Arch install, this is a goofy way to do it. I'd suggest [Architect](https://www.maketecheasier.com/architect-linux-install-arch-linux-the-easy-way) instead.",
+				"added": 1461168578
+			}
+		],
+		"9_1H8oKiRa7fGgUqS1hpUtaSYLvAqkaknbkf": [
+			{
+				"comment_id": 140,
+				"body": "It doesn't exist yet, but a port of [minilock](https://github.com/kaepora/miniLock) would make a lovely addition.",
+				"added": 1461284330
+			}
+		],
+		"1_1By85xCDz7VyZEq9WjmhtbNaPKimQwhPLp": [
+			{
+				"comment_id": 141,
+				"body": "also [archive.is](http://archive.is/).",
+				"added": 1461553217
+			}
+		],
+		"1_1ARmoCDkmZkYWAMCipxPqbUoT4akypoPoE": [
+			{
+				"comment_id": 142,
+				"body": "Honestly, there is none. That *may* sound horrifying--but strangely enough, it's the exact opposite.\n\nImagine that there was one single, absolute purpose to your existence. What if you wanted to do something different? You wouldn't be able to. *That* would be horrifying.\n\nThe meaning of life is to find out what kind of meaning **you** want your life to have. True, some doors might be closed to you, but there are still multitudes of possibilities. Find something you like, and *do it*.\n\nEven if you feel trapped, you can still pull off amazing things. Take a look at the story of [Deng Thiak Adut](https://www.youtube.com/watch?v=buA3tsGnp2s) if you want proof (and Google his name for more about him). I get close to tears of joy nearly *every damn time* I see that video.\n\nPoint is, **stay alive.** If you don't know what you want to do with your life, *ask people for help.* You don't need to go through life alone.\n\nOh, and [if you need it](http://www.suicidepreventionlifeline.org/)...",
+				"added": 1461561363
+			},
+			{
+				"comment_id": 149,
+				"body": "If you still need help: [this](https://www.reddit.com/r/changemyview/comments/4hd6ou/cmv_everything_is_meaningless/) reddit post is from a guy with a similar view. The comments in it may change your perspective like it did his.\n\nPlease, stay with us.",
+				"added": 1462169764
+			}
+		],
+		"2_1By85xCDz7VyZEq9WjmhtbNaPKimQwhPLp": [
+			{
+				"comment_id": 144,
+				"body": "To make your site more visible, you can visit it via proxies (like [this one](http://proxy.zeroexpose.com/1HeLLo4uzjaLetFx6NH3PMwFP3qbRbTf3D/)) which will help with availability.",
+				"added": 1461642545
+			}
+		],
+		"1_1KJstFfmFWuU4ttPJGMigZJgdn4gg2GZ1b": [
+			{
+				"comment_id": 146,
+				"body": "looking around [here](https://lowendbox.com/) might land you something. Asking Reddit will certainly help too.",
+				"added": 1461708741
+			}
+		],
+		"1_185DbM1bicB5M1wmxkPPVjaUH9mVrHzL8": [
+			{
+				"comment_id": 147,
+				"body": "It's a new Frontier--you may/mayn't find one. Maybe look [Here?](/zeroblogs.bit)",
+				"added": 1461811281
+			}
+		],
+		"2_1M5Zi7dLpUCK5qSb84GALVg1jQRfZneVuP": [
+			{
+				"comment_id": 148,
+				"body": "No peers right now. Could you visit [this](https://www.zeropro.xyz/1MipVEfhG2sb875CAdX7asogVqs19PqNX5) link to seed with a proxy?",
+				"added": 1461985560
+			}
+		],
+		"1_1MxejC3wJ1PB6QbLwL7g3HzC4ZPojJogD3": [
+			{
+				"comment_id": 150,
+				"body": "Real life is a *lot* more complicated than that.",
+				"added": 1462692467
+			}
+		],
+		"1_1E3UebVaDUBg3qP5ocKsJvkbtvippxpeuR": [
+			{
+				"comment_id": 151,
+				"body": "Hai.",
+				"added": 1463550122
+			}
+		],
+		"1_15pP7zJwomjgZjmwS52t7AMsc5NabvzxV9": [],
+		"1_13JR4Um95G9gBUCiAyHni3ZpriRnt1PLav": [
+			{
+				"comment_id": 153,
+				"body": "[Here's](http://techcrunch.com/2016/05/16/the-tao-of-the-dao-or-how-the-autonomous-corporation-is-already-here) a pretty big story. It's cool, but also a bit terrifying: the thing controls over 100M$ in assets right now. This honestly feels like a possible first step towards Skynet.\n\n...But it's still really fucking cool.",
+				"added": 1463641695
+			}
+		],
+		"1_14VcED5FdfmjDbpnX2pRWog54p4x7DtMvJ": [
+			{
+				"comment_id": 154,
+				"body": "https://zeroproxy.atomike.ninja\nhttps://bit.no.com:43110\nThese are proxies that can help in spreading your site.\nYou can also tell people about it in the forums so they can also seed it.",
+				"added": 1464158273
+			}
+		],
+		"1_1JwPBvZYXLJzrA6YisjpsyTuuieFLCARS6": [
+			{
+				"comment_id": 155,
+				"body": "the source files are in your data/1PLAYgDQ...Folder, and they seem to be well documented. You *can* copy the files and make your own version, for what that's worth.",
+				"added": 1464300379
+			}
+		],
+		"1_1A6Hz4zVYrUyTAkEUCbbAvpXaRyT7JSji3": [
+			{
+				"comment_id": 156,
+				"body": "Hai.",
+				"added": 1464560229
+			}
+		],
+		"1_1Hv2JxSGfFyuP84fZLqjH853YM5oyQfrNK": [
+			{
+				"comment_id": 157,
+				"body": "> [darkstratus](#comment_18_1FieP4c1gxFme5webFJB9x5ZPBXdR6p3Fs): Can you elaborate on that, please?\n> What do you mean by zero and skype? My internet is extremely slow so I'm not clicking on it without a little bit of information :)\n\n[Here ya go](https://zeroproxy.atomike.ninja/1Nu1ybUd1RycbPT6BDdvksehVt6whgvRbv/?Post:9).",
+				"added": 1464560328
+			}
+		],
+		"1_1Ga7vs5ZV73jbTSMR77FuZi8KWt2MnBSvb": [
+			{
+				"comment_id": 158,
+				"body": "Okay, I'll bite...what?",
+				"added": 1465246222
+			},
+			{
+				"comment_id": 159,
+				"body": "> [cow2001](#comment_3_1FR3kfnLfg3n6AG2FFcVQBeRNeKFAf1fmq): Or someone joking about them…\n\n sure as hell hope so...",
+				"added": 1465249763
+			}
+		],
+		"6_1ADB7TdX2fVbTsWBoMe9yBTmVXTbb33b4R": [
+			{
+				"comment_id": 160,
+				"body": "psst: https://tox.chat/",
+				"added": 1465286940
+			}
+		],
+		"1_1L5qJn5EFwBHGEhrJHS6it7J3Su2P4Spt4": [
+			{
+				"comment_id": 161,
+				"body": "http://learnxinyminutes.com\n\nNot a complete guide, but a nice start.",
+				"added": 1465493269
+			}
+		],
+		"1_122hyNA3DyHqMJxEv4ijw4mCAZ3upn8R9J": [
+			{
+				"comment_id": 162,
+				"body": "Your site seems to not be working. Try going thru the steps again and be sure you signed all the relevant things (eg content.json)",
+				"added": 1465715688
+			}
+		],
+		"8_1CMjV2r4EBpFt8VCcWWZKDysZXPcPExRNN": [
+			{
+				"comment_id": 163,
+				"body": "That's a huge task and would be very difficult without the [merger site](/Blog.ZeroNetwork.bit/?Post:85:ZeroMe:+Status+report) feature; storing every video on a single site is untenable. If you wait about two weeks, it should be done by then.\n\nIn the meantime, check [this page](/1qJ3EM5rTa2wPTBvJuCFjdLXjrBCgBkR8) out. It seems to be a working webtorrent demo.",
+				"added": 1465763078
+			},
+			{
+				"comment_id": 164,
+				"body": "> [testingzeronet12](#comment_25_1CMjV2r4EBpFt8VCcWWZKDysZXPcPExRNN): Also can I ask what the merger feature would allow for a site with my requirements? I don't fully understand what it is.\n\nThe merger feature will allow for many small zites to be part of a larger one--sorta (hard to explain). It'll make creating a video-sharing site easier, because if just one zite was storing all the videos, it would be way too big.",
+				"added": 1465867946
+			},
+			{
+				"comment_id": 166,
+				"body": "One other thing: the merger feature will include a demo zite called 'ZeroMe', which will explain this better than I can.",
+				"added": 1465934329
+			}
+		],
+		"1_1ET7iT2Cot3uksKiR9TEvj5RSpqRUgJiso": [
+			{
+				"comment_id": 165,
+				"body": "Yup. Working from here.",
+				"added": 1465867994
+			}
+		]
+	},
+	"comment_vote": {
+		"40_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"2_1KwTTgPRSTHFmmJAFBt6kQfdyNeSM5KJuH": 1,
+		"73_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"95_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"9_1KwTTgPRSTHFmmJAFBt6kQfdyNeSM5KJuH": 1,
+		"17_12SuCFUNDaMYRHG9DsWCyCN1NgHGjddwSJ": 1,
+		"30_1KwTTgPRSTHFmmJAFBt6kQfdyNeSM5KJuH": 1,
+		"53_1KwTTgPRSTHFmmJAFBt6kQfdyNeSM5KJuH": 1,
+		"64_17i7Y7r8nTaCfLbCAuaKyc4R5BbKZYU2Hr": 1,
+		"14_1xf9XC4Nsa7YfQWFiK6xGsNDJA3AaCTUa": 1,
+		"15_16bxMyoL49mWYhcZKBYVBT5zEFW9SQpiao": 1,
+		"86_1KwTTgPRSTHFmmJAFBt6kQfdyNeSM5KJuH": 1,
+		"103_1KwTTgPRSTHFmmJAFBt6kQfdyNeSM5KJuH": 1,
+		"116_1KwTTgPRSTHFmmJAFBt6kQfdyNeSM5KJuH": 1,
+		"113_168qV1Xxp2EyszrzdECLUwXrn9wGYjDdar": 1,
+		"3_16R5J6zeFBmUQB2QM4ZgZMw8DxM4MnwcPr": 1,
+		"15_1D7DRHxZ8WMHLvkyaVWEZsdAZSQvLY5JQM": 1,
+		"123_1KwTTgPRSTHFmmJAFBt6kQfdyNeSM5KJuH": 1,
+		"129_1KwTTgPRSTHFmmJAFBt6kQfdyNeSM5KJuH": 1,
+		"1_15HQFahW4SfTjGcP4kg3JqH6kMRTrmFd6q": 1,
+		"142_1KwTTgPRSTHFmmJAFBt6kQfdyNeSM5KJuH": 1,
+		"145_1KwTTgPRSTHFmmJAFBt6kQfdyNeSM5KJuH": 1,
+		"1_14JrMUEz5CRGSW6ZS4pCtVo5T1DhVtb6Cm": 1,
+		"162_1KwTTgPRSTHFmmJAFBt6kQfdyNeSM5KJuH": 1
+	}
+}

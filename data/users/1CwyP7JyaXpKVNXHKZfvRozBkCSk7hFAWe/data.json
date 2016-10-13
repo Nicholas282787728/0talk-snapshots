@@ -1,0 +1,28 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 4,
+	"comment": {
+		"2_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": [
+			{
+				"comment_id": 1,
+				"body": "I will get a flash after 5 peers are able to seed this comment.",
+				"added": 1466694184
+			},
+			{
+				"comment_id": 2,
+				"body": "Demoing the comment publishing again...",
+				"added": 1467054762
+			}
+		],
+		"2_12zyC2je1V8Sfq6C5d6CSzUkjYf4bEdva4": [
+			{
+				"comment_id": 3,
+				"body": "If @vahcam speaks about trackers only, he should check this part of the code:\nhttps://github.com/HelloZeroNet/ZeroNet/blob/81f196647b10e9086c159e3458f50f0437423355/src/Config.py#L32\n\nI agree with him though that there are still parts of ZeroNet that need more decentralization. It will improve with time though.",
+				"added": 1467799614
+			}
+		]
+	},
+	"comment_vote": {}
+}

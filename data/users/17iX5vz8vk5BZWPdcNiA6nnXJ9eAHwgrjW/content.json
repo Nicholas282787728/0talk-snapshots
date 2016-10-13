@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "G8ekC1trhQCtu0g1BzfoMTjKal/hAtkZpJd+bbKgtxhb5uAphkec6maE9poIE35cnjk4U67DRNhTq16whAAxQzo=",
+ "cert_user_id": "tonydong1975@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "11efdb4e1137a7615002e1e595e5986a1a3a88a649ada0a6165e964967dfa4b1",
+   "size": 326
+  }
+ },
+ "inner_path": "data/users/17iX5vz8vk5BZWPdcNiA6nnXJ9eAHwgrjW/content.json",
+ "modified": 1461741149.117,
+ "signs": {
+  "17iX5vz8vk5BZWPdcNiA6nnXJ9eAHwgrjW": "HJxVwnrCGy0C5vb9Kjajivg3BcTXVq2df+pZHjIpuOo5iW6wCPTrpf6U+xi95yCuHlR5VwPWuWP1HuZZcWQvT10="
+ }
+}

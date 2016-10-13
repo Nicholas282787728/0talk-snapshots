@@ -1,0 +1,23 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 3,
+	"comment": {
+		"1_16rcibYTDcndJUsnvoXL5NZXa7rWCRckDw": [
+			{
+				"comment_id": 1,
+				"body": "被墙估计不行，被限是肯定的",
+				"added": 1464612613
+			}
+		],
+		"1_132SduUtowxXxJtRupiU5VzdGZ6efUrPXk": [
+			{
+				"comment_id": 2,
+				"body": "net123。。。。。。。现在只有论坛有点人气",
+				"added": 1464612853
+			}
+		]
+	},
+	"comment_vote": {}
+}

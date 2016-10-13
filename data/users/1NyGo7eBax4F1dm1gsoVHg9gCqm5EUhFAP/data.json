@@ -1,0 +1,45 @@
+{
+	"next_topic_id": 3,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "Site cloning?",
+			"body": "Cloning sites is great. Killer feature, if you ask me. Still, I do have a few questions about that.\n\n1) Is there any way to specify a site is clone-able or not? In ZeroHello, some sites' menu display the \"clone\" entry, others don't. What's the rationale, here?\n2) Is there a way to change the way a cloned site looks on ZeroHello? Its name/description, basically?\n\nThanks guys.",
+			"added": 1448461757
+		},
+		{
+			"topic_id": 2,
+			"title": "ZeroFrame API from plain old JS?",
+			"body": "Hey guys.\n\nJust wondering, is it possible (and if so, how) to call Zeroframe commands from non-coffeescript code? For instance, I'm trying to get some JSON files from my ZeroSite. On a non-Zero version of it, I just $.getJSON() it, but CORS prevents me to do it on ZeroNet, right? Anyway, I thought of using fileGet instead, but I can't get it to work without CoffeeScript...\n\nThanks :)",
+			"added": 1453480987
+		}
+	],
+	"topic_vote": {
+		"2_1NyGo7eBax4F1dm1gsoVHg9gCqm5EUhFAP": 1
+	},
+	"next_comment_id": 5,
+	"comment": {
+		"1_1J2AKukZAJ5b6dJgBjMgWCBUGw7ZVh46XH": [
+			{
+				"comment_id": 1,
+				"body": "I second that.",
+				"added": 1448449957
+			}
+		],
+		"3_168qV1Xxp2EyszrzdECLUwXrn9wGYjDdar": [
+			{
+				"comment_id": 2,
+				"body": "Currently just an uninteresting blog, cloned from the official one. Not it's visible par anyone but me... [1Kb1SCrnsqXUi5VspF5gmpNjg72zHGN6SU](/1Kb1SCrnsqXUi5VspF5gmpNjg72zHGN6SU)",
+				"added": 1448456739
+			},
+			{
+				"comment_id": 4,
+				"body": "> [nofish](#comment_120_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): Btw. you can edit your posts by hovering over it then pressing the pencil icon left to it. :)\n\nThanks, I tidied things a bit.",
+				"added": 1448572234
+			}
+		]
+	},
+	"comment_vote": {
+		"3_1AtLqmJk4VBFwJ8cNtD63h1bBGqY6UxeFk": 1
+	}
+}

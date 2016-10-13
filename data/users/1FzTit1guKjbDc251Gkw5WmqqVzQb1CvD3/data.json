@@ -1,0 +1,28 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {
+		"1_1UfvLnMuzShvi3phWGSqn79tio81Wn9Dt": 1
+	},
+	"next_comment_id": 4,
+	"comment": {
+		"1_1UfvLnMuzShvi3phWGSqn79tio81Wn9Dt": [
+			{
+				"comment_id": 1,
+				"body": "中国的朋友这么少吗？顶一下",
+				"added": 1441889793
+			},
+			{
+				"comment_id": 2,
+				"body": "没想到这个帖子沉得这么深了，我来顶一下，让更多的国人看到哈",
+				"added": 1454416101
+			},
+			{
+				"comment_id": 3,
+				"body": "我刚刚点这个帖子右上角的“Following”，返回首页的时候发现这个帖子的内容竟然出现在首页啊，这样对于跟踪信息还是很有帮助的，挺人性化的嘿嘿",
+				"added": 1454416304
+			}
+		]
+	},
+	"comment_vote": {}
+}

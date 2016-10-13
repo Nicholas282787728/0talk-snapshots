@@ -1,0 +1,23 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 3,
+	"comment": {
+		"1_12xXVxkjN2oM6hwtzaSSJxAaiT7VW51VHQ": [
+			{
+				"comment_id": 1,
+				"body": "I really recommend Conversations with OTR or OMEMO for encryption.",
+				"added": 1467313417
+			}
+		],
+		"14_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf": [
+			{
+				"comment_id": 2,
+				"body": "I found out about it on the website of the Decentralized Web Summit.",
+				"added": 1467313766
+			}
+		]
+	},
+	"comment_vote": {}
+}

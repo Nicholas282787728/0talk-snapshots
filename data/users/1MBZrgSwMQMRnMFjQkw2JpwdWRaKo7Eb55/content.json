@@ -1,0 +1,15 @@
+{
+ "cert_auth_type": "web", 
+ "cert_sign": "G7DYfNbBmXu3ahWfbKVITrZgbmdGj5iYzLifWq9Pac+wQ660Iw1DKnhUZc9SlODWDuoTnSS7O65UwwBidvLIIAE=", 
+ "cert_user_id": "cudam@zeroid.bit", 
+ "files": {
+  "data.json": {
+   "sha512": "2633548f3e2a98abcc85f17b87b8efe676c07e0ef4ea4dd6b6b3f797b655443c", 
+   "size": 2990
+  }
+ }, 
+ "modified": 1452009113.33481, 
+ "signs": {
+  "1MBZrgSwMQMRnMFjQkw2JpwdWRaKo7Eb55": "HEfSS2WzTA+Ga/OoEXA7gL3fg8+nF1TlBgH8+VhUyIi/9M/vj+Hn8Hu24maFBhUJEpB8XXycxXmSxLUjIYwLw8o="
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HBHH7UZHl1l0uy7DC4ZB6/XGiGLX0oEzYJ36YAJidvL8GBFtApBgZvUNvy6QAAVwwW2w8/7CRPFPHon+mmbGoX4=",
+ "cert_user_id": "mrmidnight273@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "642acd565373c5696a705132edf8e920b1e8853e2f2f366c2c5584390587411f",
+   "size": 162
+  }
+ },
+ "inner_path": "data/users/1EuKPxDSDiWPgHyCjqKVAHLkzzUyCQFzDG/content.json",
+ "modified": 1470618826.185,
+ "signs": {
+  "1EuKPxDSDiWPgHyCjqKVAHLkzzUyCQFzDG": "G3var2Qhk4Ino6mQVXQLGqlZa8YYbxUpV79je8+w/oXKG1LqCDCKWmgB4+VA9gtLsI0MOwJ/B8PGaEBRIxxSjsY="
+ }
+}

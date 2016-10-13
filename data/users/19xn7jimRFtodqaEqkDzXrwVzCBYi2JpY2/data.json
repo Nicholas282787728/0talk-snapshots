@@ -1,0 +1,15 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "How to can I customize myZeroTalk ?",
+			"body": "I cloned ZeroTalk with images (1C2JhCunGLtvyX56nQ88tcb87WnXspjWN) and want it to customize:\n\n* How can I create a sticked message?\n* How can I translate (to spanish) the user languages (where is the file)?\n* How can I create sub-topics like \"P2P news flow\"?\n* How can I change the File-Type to be accepted to upload to the board ?\n* How can I remove messages?",
+			"added": 1461773979
+		}
+	],
+	"topic_vote": {},
+	"next_comment_id": 1,
+	"comment": {},
+	"comment_vote": {}
+}

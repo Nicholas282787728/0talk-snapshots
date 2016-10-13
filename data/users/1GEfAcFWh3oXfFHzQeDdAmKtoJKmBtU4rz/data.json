@@ -1,0 +1,51 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "How do I get the list of ip of peers on a website?",
+			"body": "I'm working on getting webrtc to work with zeronet and I don't want to use a STUN server to do the signaling.",
+			"added": 1457625588
+		}
+	],
+	"topic_vote": {
+		"1_1GEfAcFWh3oXfFHzQeDdAmKtoJKmBtU4rz": 1
+	},
+	"next_comment_id": 6,
+	"comment": {
+		"14_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf": [
+			{
+				"comment_id": 1,
+				"body": "Found out about this while trying to make a decentralized chan. IPFS was where I began",
+				"added": 1456953437
+			},
+			{
+				"comment_id": 5,
+				"body": "> [ekaterina](#comment_60_1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD): You wanted to create a chan on IPFS? Wow, I would have loved to see that, many jimmies would have been rustled: https://github.com/ipfs/community/blob/master/code-of-conduct.md :)\n\nAhahah oh shit. Damn i need to make it happen then. Maybe a zeronet proxy on ipfs (:",
+				"added": 1457825128
+			}
+		],
+		"1_17ApQKugX1XH727gpAeD3mrRLjLxASdakd": [
+			{
+				"comment_id": 2,
+				"body": "> [dadix](#comment_13_1BEvmD7jRfwieXU5H3o1rCT35Y3VV1p9TW): yes , a social network will be good but how about zeronet to work on android ? A social network without mobility what is it?\n\nI know it introduces a single point of failure, but I found running zeronet behind tor on a VM on a host machine which i don't touch to which all my devices can tunnel their connection to zeronet by ssh is my favorite way of doing it. It still allows for security and seeds websites forever while preserving mobility.",
+				"added": 1457626329
+			}
+		],
+		"1_1GEfAcFWh3oXfFHzQeDdAmKtoJKmBtU4rz": [
+			{
+				"comment_id": 3,
+				"body": "> [odd](#comment_20_1EMpuiFM1NLZmAVyoAWnwi8VwiZVV4dcnN): WebRTC won't work for nodes that use Tor will it? That aside, getting the list of peers won't be much use since most of those peers won't be running a web browser and looking at the site. The IP address of the peer may not be the IP address of the web browser if they're using a VPN or a proxy. You want the IP address of the users viewing the site.\n\nAh yeah I just took a look. Sigh. I like the functionality of webrtc and thought it would be awesome. Oh well I wanna see at least if it is even possible.",
+				"added": 1457667804
+			},
+			{
+				"comment_id": 4,
+				"body": "> [odd](#comment_21_1EMpuiFM1NLZmAVyoAWnwi8VwiZVV4dcnN): Most of the web torrent libraries use webrtc so it would be great for that. Also for voice/video calls. Torrent capability could be made part of ZeroNet as an extension probably. Think something like optional files but they're served by torrent instead.\n\nThat sounds great. How do I get around making extensions? Do i submit to github?",
+				"added": 1457754856
+			}
+		]
+	},
+	"comment_vote": {
+		"60_1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD": 1
+	}
+}

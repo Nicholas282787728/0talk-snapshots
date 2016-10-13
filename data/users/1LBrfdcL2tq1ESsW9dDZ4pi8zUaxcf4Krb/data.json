@@ -1,0 +1,28 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 4,
+	"comment": {
+		"2_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": [
+			{
+				"comment_id": 1,
+				"body": "ONII CHAN MAKES ME KIMOCHI",
+				"added": 1472979011
+			},
+			{
+				"comment_id": 2,
+				"body": "> [vanillatea](#comment_1_17Fv1RbXNdDvneWyitbSBz3kMGAaL6aXGm): test\n\nNerd.",
+				"added": 1472979167
+			}
+		],
+		"1_1PRsmkcDcCnKbCfFTeQizKYcDpNn98iQcT": [
+			{
+				"comment_id": 3,
+				"body": "Fucking weebs",
+				"added": 1472980224
+			}
+		]
+	},
+	"comment_vote": {}
+}

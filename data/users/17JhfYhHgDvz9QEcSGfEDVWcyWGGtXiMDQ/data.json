@@ -1,0 +1,25 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {
+		"1_1UfvLnMuzShvi3phWGSqn79tio81Wn9Dt": 1
+	},
+	"next_comment_id": 3,
+	"comment": {
+		"14_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf": [
+			{
+				"comment_id": 1,
+				"body": "> [scrub](#comment_25_1ADB7TdX2fVbTsWBoMe9yBTmVXTbb33b4R): We need a downvote button and a report button that works just like Reddit.\nAlso news feed is necessary.",
+				"added": 1457172455
+			}
+		],
+		"1_1MDFGD6PJsZLnTg8Y9BcZKTPfKHMRrTL83": [
+			{
+				"comment_id": 2,
+				"body": "把user.json拷贝过来替换就直接登录了> [7erry](#comment_1_1GeNvyuU3dGEhxY8xEDDH9eUJzDQAhkdnv): 如果换了电脑，还能用注册的ID发言吗？",
+				"added": 1461926278
+			}
+		]
+	},
+	"comment_vote": {}
+}

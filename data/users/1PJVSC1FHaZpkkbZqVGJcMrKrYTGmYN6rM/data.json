@@ -1,0 +1,61 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "Creating a custom ZeroNet address",
+			"body": "For example, ZeroMail starts with \"1MaiL\" and ZeroTalk starts with \"1TaLk\". I've seen programs that generate custom Bitcoin addresses like these. How does one generate addresses like this for ZeroNet?",
+			"added": 1456973311
+		}
+	],
+	"topic_vote": {
+		"1_1EUyJtat7mbu5wMcR6nrJTPBBRons1mtMA": 1,
+		"1_17dEBAxTcyJg38KfNtCvYWp7fddLKHv4rc": 1,
+		"1_1PJVSC1FHaZpkkbZqVGJcMrKrYTGmYN6rM": 1,
+		"1_1J9pah9h8pQATasNnGJgSuH2DEovfi5uzS": 1,
+		"2_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"5_1LRrd96P7FiTcsyNXVzPM5jtpQoH1B4gYf": 1
+	},
+	"next_comment_id": 5,
+	"comment": {
+		"1_1BGaNcH1UBqAdatPbT3YssmPRVdhepMNPW": [
+			{
+				"comment_id": 1,
+				"body": "PIA on OS X good. Ports being closed hasn't caused any issues.",
+				"added": 1456968008
+			}
+		],
+		"1_1EUyJtat7mbu5wMcR6nrJTPBBRons1mtMA": [
+			{
+				"comment_id": 2,
+				"body": "> [ekaterina](#comment_53_1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD): Looks like it, oh boy, more users incoming I guess :)\n> https://news.ycombinator.com/item?id=11210590\n\nThis is how I found it. Quite a cool technical feat and very polished UI :)",
+				"added": 1456968694
+			}
+		],
+		"1_1PJVSC1FHaZpkkbZqVGJcMrKrYTGmYN6rM": [
+			{
+				"comment_id": 3,
+				"body": "Perfect, thanks!",
+				"added": 1456973802
+			}
+		],
+		"2_1GCsW9TFfjDsvcdmKPADq1n8Q3ha72UtDQ": [
+			{
+				"comment_id": 4,
+				"body": "Haskell",
+				"added": 1456977548
+			}
+		]
+	},
+	"comment_vote": {
+		"53_1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD": 1,
+		"1_1FfJqTpKxtW6jzKnHLpUswhWHwwtYTz5YK": 1,
+		"2_1PJVSC1FHaZpkkbZqVGJcMrKrYTGmYN6rM": 1,
+		"21_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1,
+		"22_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1,
+		"61_1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD": 1,
+		"6_1CL2jU9pTjtMasNihDK3JCofdPWq2ZVGuu": 1,
+		"1_1PBXqFewt3Y4KxdCKBbH3XUydM9BNMHLNW": 1,
+		"16_1GCMDNMgJHvZJfdbD9ygDmpBdnVAobdJYg": 1
+	}
+}

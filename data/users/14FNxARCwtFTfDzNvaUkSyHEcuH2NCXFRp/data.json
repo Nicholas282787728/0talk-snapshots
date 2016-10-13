@@ -1,0 +1,23 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 3,
+	"comment": {
+		"1_1ELBjparWRzWWptstDfNtKyY2E5mHtL5J4": [
+			{
+				"comment_id": 1,
+				"body": "Dr Bane I am Pavel",
+				"added": 1472984780
+			}
+		],
+		"1_1Eb3jLeJMFfN5z7oUhNbiLqYn24fTofzEJ": [
+			{
+				"comment_id": 2,
+				"body": "If only people could use i2p more. It's slow, but its slowness is one of the things that make the anonymity so powerful. You don't need speed for Vietnamese Puppeteering discussions anyway. \n\nThe decentralized services on i2p, like the torrents and the IRC are great, but the eepsites are just centralized services which have bad uptime and are confusing to navigate. \n\nZeronet through i2p would be amazing, but I do not have the resources to combine the decentralized nature of Zeronet with the powerful encryption of i2p.",
+				"added": 1473235155
+			}
+		]
+	},
+	"comment_vote": {}
+}

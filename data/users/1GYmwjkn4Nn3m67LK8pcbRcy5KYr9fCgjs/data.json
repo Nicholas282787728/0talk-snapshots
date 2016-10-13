@@ -1,0 +1,25 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 3,
+	"comment": {
+		"2_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": [
+			{
+				"comment_id": 1,
+				"body": "> [m1kc](#comment_1_15hCdBiDLoPBUyA2nkj1Loob872RrMJXeZ): Push it to the limit. Walk along the razor's edge. Don't look down, just keep your head - or you'll be finished.\n\nlimit.push(it)",
+				"added": 1457029351
+			},
+			{
+				"comment_id": 2,
+				"body": "test",
+				"added": 1457029550
+			}
+		]
+	},
+	"comment_vote": {
+		"1_15hCdBiDLoPBUyA2nkj1Loob872RrMJXeZ": 1,
+		"2_1GYmwjkn4Nn3m67LK8pcbRcy5KYr9fCgjs": 1,
+		"1_1GYmwjkn4Nn3m67LK8pcbRcy5KYr9fCgjs": 1
+	}
+}

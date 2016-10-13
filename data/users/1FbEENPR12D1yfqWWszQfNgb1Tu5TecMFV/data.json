@@ -1,0 +1,49 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "Hai să vorbim in română – Let's talk in Romanian",
+			"body": "Am vazut romani pe ZeroBoard, asa ca m-am gandit sa deschidem un topic unde putem vorbi in limba noastra.",
+			"added": 1456999886
+		}
+	],
+	"topic_vote": {
+		"1_14tJBPnxcrF9kMK5v7DULWnaJx3JepirXb": 1
+	},
+	"next_comment_id": 6,
+	"comment": {
+		"1_14tJBPnxcrF9kMK5v7DULWnaJx3JepirXb": [
+			{
+				"comment_id": 1,
+				"body": "Piraten-Abgeordnete: Der Staat hat auf unseren Smartphones und Rechnern überhaupt nichts zu suchen\n\nhttp://de.sputniknews.com/politik/20160226/308104231/piratenpartei-brandmarkt-bundestrojaner.html",
+				"added": 1456908506
+			}
+		],
+		"1_1FbEENPR12D1yfqWWszQfNgb1Tu5TecMFV": [
+			{
+				"comment_id": 2,
+				"body": "Pentru incepatori cateva informatii:\n\nZeroChat – un Chat mai fain decat ZeroBoard: http://127.0.0.1:43110/1AvF5TpcaamRNtqvN1cnDEWzNmUtD47Npg\n0list – o lista cu site-uri: http://127.0.0.1:43110/0list.bit\nPlay – lista cu filme (de pe rarbg): http://127.0.0.1:43110/1PLAYgDQboKojowD3kwdb3CtWmWaokXvfp\nZeroID – rezervati-va und id (user unic): http://127.0.0.1:43110/zeroid.bit\nZeroMail – mail prin userul ZeroID: http://127.0.0.1:43110/Mail.ZeroNetwork.bit",
+				"added": 1457000169
+			},
+			{
+				"comment_id": 3,
+				"body": "> [logicalorange](#comment_2_13syaoxirqdMSmWwU3sUvPx58F3zQFKHz1): tot nu am inteles cum creezi un site pe sistemu asta, unde tii fisierele sursa cum faci designul?\n\nInca nu am avut timp sa fac un site. Teoretic exista 2 metode:\n\n1. Cand esti pe Hello ZeroNet vezi in stanga site-uri: Clic pe cele 3 puncte (optiunile) si selectezi clone. Asa poti sa faci un blog simplu de exemplu.\n2. Faci un site de la zero din consola. Procesul e mai complicat si este explicat aici: http://127.0.0.1:43110/17Kom2G5qNDc6NaQwv445h1gFzxkY3ZtZe/using_zeronet/create_new_site/",
+				"added": 1457006725
+			},
+			{
+				"comment_id": 4,
+				"body": "> [blowfish](#comment_2_1FbEENPR12D1yfqWWszQfNgb1Tu5TecMFV): Pentru incepatori cateva informatii:\n> ZeroChat – un Chat mai fain decat ZeroBoard: http://127.0.0.1:43110/1AvF5TpcaamRNtqvN1cnDEWzNmUtD47Npg0list – o lista cu site-uri: http://127.0.0.1:43110/0list.bitPlay – lista cu filme (de pe rarbg): http://127.0.0.1:43110/1PLAYgDQboKojowD3kwdb3CtWmWaokXvfpZeroID – rezervati-va und id (user unic): http://127.0.0.1:43110/zeroid.bitZeroMail – mail prin userul ZeroID: http://127.0.0.1:43110/Mail.ZeroNetwork.bit\n\nZeroNet Docs – documentatie pentru ZeroNet, cum functioneaza, etc.: http://127.0.0.1:43110/17Kom2G5qNDc6NaQwv445h1gFzxkY3ZtZe/\nZeroSearch – motor de cautare: http://127.0.0.1:43110/zerosearch.bit",
+				"added": 1457007169
+			}
+		],
+		"1_1BGaNcH1UBqAdatPbT3YssmPRVdhepMNPW": [
+			{
+				"comment_id": 5,
+				"body": "Using Viscosity on OS X with Cryptostorm works fine. Port is open.",
+				"added": 1457078109
+			}
+		]
+	},
+	"comment_vote": {}
+}

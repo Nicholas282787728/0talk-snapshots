@@ -1,0 +1,33 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 3,
+	"comment": {
+		"2_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": [
+			{
+				"comment_id": 1,
+				"body": "Blog up at http://127.0.0.1:43110/13iNCuuj8657WNbqd83QvoHEHeh5chQQKA",
+				"added": 1456945172
+			},
+			{
+				"comment_id": 2,
+				"body": "> [codeine](#comment_1_1GmZJxRakRMJiJBLBXTy4YyDuA33UJUBoM): This is truly the next and possibly first and most decentralised, democratised information network ever.  It's scaling will be a test, but but it's so cool and peer to peer it makes me want to burst.  Everyone who joins brings their resources with them, in hardware, network, and content.   And what we like will flourish while the unpleasant will have their place but not in our faces.  Congratulations to the authors.\n\nI agree. This is just the beginning.",
+				"added": 1456945211
+			}
+		]
+	},
+	"comment_vote": {
+		"1_1AXy2B7SEgps7Pdb2j1rKJZHRoessB76M6": 1,
+		"1_1Pfbvp2DhbVrjAYSPaUaucJc6nZsxMpeK9": 1,
+		"2_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1,
+		"1_1FbEENPR12D1yfqWWszQfNgb1Tu5TecMFV": 1,
+		"53_1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD": 1,
+		"1_12qWC8zAEZsNSKxb9XsVUpck8V4N93yg7x": 1,
+		"12_1HwYER58xAxchBDL6WKRqKuPZzmwSvMwjY": 1,
+		"1_1GNdkBSxTw6SpRdGHxDCyfANXnwi7FG7rJ": 1,
+		"1_1GmZJxRakRMJiJBLBXTy4YyDuA33UJUBoM": 1,
+		"153_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf": 1,
+		"1_1FjV1bhTyNwBNCXSAWAYSfeAC4fmEoREtz": 1
+	}
+}

@@ -1,0 +1,28 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 4,
+	"comment": {
+		"1_19GDcmuGz3D2epgu9k65yMY9WMYDG8eZCP": [
+			{
+				"comment_id": 1,
+				"body": "Yep someone should start a torrent site.",
+				"added": 1470078825
+			},
+			{
+				"comment_id": 2,
+				"body": "I can clone all those KAT mirrored site and host them here. question is, how do I host sites on zero?",
+				"added": 1470078864
+			}
+		],
+		"2_1JXFzMzrQTJCiGw36YNQGg2Tmt1hTHy7ZT": [
+			{
+				"comment_id": 3,
+				"body": "I am here too.",
+				"added": 1470079242
+			}
+		]
+	},
+	"comment_vote": {}
+}

@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HMfy2oLyXjIW0YbyCQe+SWNmbmHsThiuCaeVYADT59ErZFkGeJwCX6awF8uzaZDFKSah+xGkj7Ugd+jVdK0Q6sg=",
+ "cert_user_id": "prophecy@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "50c68d6dbe1b403754412ce3e5f70332729165296a5cb37f519cc99ae8fd2ac2",
+   "size": 2468
+  }
+ },
+ "inner_path": "data/users/1FEEuiCSKN1FpqCVrnJu91ponPHQAhfo7K/content.json",
+ "modified": 1476301521.802062,
+ "signs": {
+  "1FEEuiCSKN1FpqCVrnJu91ponPHQAhfo7K": "HJBFaMeJ4DpAdzkl6KgxKBNcIC9Eck7wx2ZWp5bg+s8yL56QjT63OsTZqFUx1YbyH69XePX1UEt7ac9pmCVRW3Q="
+ }
+}

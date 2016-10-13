@@ -1,0 +1,29 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {
+		"2_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1
+	},
+	"next_comment_id": 3,
+	"comment": {
+		"2_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": [
+			{
+				"comment_id": 1,
+				"body": "Test message.",
+				"added": 1456828137
+			}
+		],
+		"2_1GCsW9TFfjDsvcdmKPADq1n8Q3ha72UtDQ": [
+			{
+				"comment_id": 2,
+				"body": "Python. Not the fastest, definitely the most versatile.",
+				"added": 1457101329
+			}
+		]
+	},
+	"comment_vote": {
+		"4_1Bs578fPj5LdtfwRBkvSRhDAFHDKx6wmoL": 1,
+		"5_1LPrQCYEyVA3Pz3gEVEf7Qc2z12QGNCSbd": 1,
+		"34_1PNyuY1iZqXBpft4ArouqcnE4pNRGYij5i": 1
+	}
+}

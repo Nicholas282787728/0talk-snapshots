@@ -1,0 +1,18 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {
+		"10_1LRrd96P7FiTcsyNXVzPM5jtpQoH1B4gYf": 1
+	},
+	"next_comment_id": 2,
+	"comment": {
+		"1_19hZjnvGuFY2sB3nDpX6869nJgkXURTvxX": [
+			{
+				"comment_id": 1,
+				"body": "> [ks](#comment_2_14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx): אני רוצה ללמוד עברית אבל אין אולפנים בדנמרק\n\nI'd love to help you practice, if you want.",
+				"added": 1458634916
+			}
+		]
+	},
+	"comment_vote": {}
+}

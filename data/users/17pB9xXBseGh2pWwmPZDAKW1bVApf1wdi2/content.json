@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HEtkYaCG1WmU9AKFODfJhACnwcPz4iHNyqJv6W5rmw3aTzs23t/FTx9ghksc7wHmGNJxWY+B3UT66HKfXhZR5iA=",
+ "cert_user_id": "exobyte@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "ad17dbeabb9c1564df1a22237d8c16f2c5f199a8a34795d88325785b4fddaad0",
+   "size": 602
+  }
+ },
+ "inner_path": "data/users/17pB9xXBseGh2pWwmPZDAKW1bVApf1wdi2/content.json",
+ "modified": 1459254622.757954,
+ "signs": {
+  "17pB9xXBseGh2pWwmPZDAKW1bVApf1wdi2": "G7nYThd0n+5i83BKp0PpURJZ0/li/0ra7iUBcAgbXPfjlrOncduAH6S4/Kse01uk/3kHX10dv8ZP52mrop5vAbk="
+ }
+}

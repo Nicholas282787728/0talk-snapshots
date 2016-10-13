@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HGuo5cnX4oSjl/NDHXZTdXwTAIvWLkGf7PKciWTkhzImxOyxCcttDwZqeMdnBA3mj0YZ8VSU3jjyp+ANeDo6EUc=",
+ "cert_user_id": "camerontbelt@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "16266bb7f4aa6d4e09e86806891b5d4b70dffb43d02ff8455694e8c13751db59",
+   "size": 245
+  }
+ },
+ "inner_path": "data/users/1C6TVDWTZ8J9o8HVZXiTGTUG7REjSUfdpy/content.json",
+ "modified": 1465845691.708,
+ "signs": {
+  "1C6TVDWTZ8J9o8HVZXiTGTUG7REjSUfdpy": "HC3VzGQqlfBSx5cc6XrIWFjRyW+GErwDjV32OwngB3ay1dTEnJUPfwboxzFdACIFm1uBlJLYT07GEzx31u0MBsI="
+ }
+}

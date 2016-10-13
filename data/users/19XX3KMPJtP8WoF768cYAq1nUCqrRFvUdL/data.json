@@ -1,0 +1,18 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {
+		"1_12kcMDfKMos1marvnhfduW5aBbwXcPV2ka": 1
+	},
+	"next_comment_id": 2,
+	"comment": {
+		"1_12kcMDfKMos1marvnhfduW5aBbwXcPV2ka": [
+			{
+				"comment_id": 1,
+				"body": "再求一个",
+				"added": 1461830582
+			}
+		]
+	},
+	"comment_vote": {}
+}

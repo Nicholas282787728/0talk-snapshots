@@ -1,0 +1,25 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "ZeroNet with Tor on Arch Linux",
+			"body": "I cannot start Zeronet with Tor on Arch Linux.\nI edited /etc/tor/torrc and removed the # character from lines ControlPort 9051 and CookieAuthentication 1, then I restarted tor service.\nAnd further? How can I add permission for my user to read the auth cookie? The following command doesn't work:\nls -al /var/run/tor/control.authcookie\n\nThanks",
+			"added": 1465670622
+		}
+	],
+	"topic_vote": {
+		"1_1MKgosdi6YqUTZQgviPXdEUWopfXpM8vkF": 1
+	},
+	"next_comment_id": 2,
+	"comment": {
+		"1_1MKgosdi6YqUTZQgviPXdEUWopfXpM8vkF": [
+			{
+				"comment_id": 1,
+				"body": "I receive the following error:\n\nTorManager Tor controller connect error: IOError: [Errno 13] Permission denied: u'/var/lib/tor/control_auth_cookie' in TorManager.py line 165\n\nAnybody?",
+				"added": 1465717880
+			}
+		]
+	},
+	"comment_vote": {}
+}

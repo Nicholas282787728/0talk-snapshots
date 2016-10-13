@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "GzEvyv6C0uEK4+/HAJaM5fl+JhGVFVdj3O3JIRdig4KZKfQpe9/VCr+NX1BjLHcbZ/FhsH4rTFW14YTS3nHplnQ=",
+ "cert_user_id": "merxiv@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "f987b930e8a52706dffc7f2b8a73c6e31bf7607d0d4fda4a4f2dce40d487d287",
+   "size": 429
+  }
+ },
+ "inner_path": "data/users/1AFpnxkJ2g9rXSVS2LKa4MRoFwL3UBeuJt/content.json",
+ "modified": 1472023236.833,
+ "signs": {
+  "1AFpnxkJ2g9rXSVS2LKa4MRoFwL3UBeuJt": "HAKsftBEZn3mAF2CXdh2uUJmBVBVEpTIgXnZ8ODzF604AlyGsMLFZvtu7r6NdDbVk/iMAVzwBpbTplRkCZrBcp8="
+ }
+}

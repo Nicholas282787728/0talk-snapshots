@@ -1,0 +1,63 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "so now wincrap10 will have linkeshit integration ?",
+			"body": "http://www.bloomberg.com/news/articles/2016-06-13/microsoft-to-buy-linkedin-in-deal-valued-at-26-2-billion-ipe079k9\n\n> “This is about the coming together of the leading professional cloud and the leading professional network,\" Nadella said in an interview. “This is the logical next step to take. We believe we can accelerate that by making **LinkedIn the social fabric for all of Office**.”\n\n\nedit: https://bit.no.com:43110/1Aqay8hJr4P7PicGP8GdJg4yzsbxQHt8Hy/?Topic:1_18xnnGt34EMR7CLFoAjwzhYCmXGtZYC17P/Microsoft+Pays+26+Billion+for+LinkedIn+in+Biggest+Deal+Ye",
+			"added": 1465901649
+		}
+	],
+	"topic_vote": {
+		"1_12vAQpoLUWubR3bXXSBFKrs1o16smYknnw": 1,
+		"1_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG": 1
+	},
+	"next_comment_id": 7,
+	"comment": {
+		"1_1Dkwk3P3rH26ecGJ25yawmTLDY7GoFP9LS": [
+			{
+				"comment_id": 1,
+				"body": "there you have it https://bit.no.com:43110/1EvcfVxqsjYzb3w3hZ4jknhfHJ3oRZB4z5/",
+				"added": 1465887812
+			}
+		],
+		"2_1BLPKyrF2D4ertte6JnAa6oWAMYzZGwKQz": [
+			{
+				"comment_id": 2,
+				"body": "milo is that you ? :D",
+				"added": 1465892826
+			}
+		],
+		"1_1DL96EbPqBXweqPPseW2eRCLF1EED73htn": [
+			{
+				"comment_id": 3,
+				"body": "> [ceritium](#comment_4_1C1pqw3EhTRk5ciHHPB283xu1EUxsGhCpo): the problem is that Yacy is not able to index the page because the javascript and frames.\n\nwhat ? the page is already on the local HDD if YACY cant read something from the HDD we are done",
+				"added": 1465902994
+			}
+		],
+		"1_18AAv2MxpUxLjG6U64nucoBg833eTaR83u": [
+			{
+				"comment_id": 4,
+				"body": "lelol",
+				"added": 1465911295
+			}
+		],
+		"2_1DBrH9TDEYB9CqnFsPR8Cqn8xW3xNEv6i3": [
+			{
+				"comment_id": 5,
+				"body": "ᕙ༼ຈل͜ຈ༽ᕗ",
+				"added": 1468465323
+			}
+		],
+		"2_1J7dTw3ZsXUsXzpBqVWVj5aXRUMsMC6Nfc": [
+			{
+				"comment_id": 6,
+				"body": "use ring.cx",
+				"added": 1468493871
+			}
+		]
+	},
+	"comment_vote": {
+		"1_18xnnGt34EMR7CLFoAjwzhYCmXGtZYC17P": 1
+	}
+}

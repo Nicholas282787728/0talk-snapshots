@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "GyJw7+yinxx8l19SI6lQBG+wJ5tbEWWSGUlPDzHzsRKiTrLmv4uqAuJDSEAkWwHPAHrNilMwexCEqZLAsnQdwh8=",
+ "cert_user_id": "ajbond@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "9033be3338000803b08d5d606ef1cddda31c1d5e84387baf32811d10047b1278",
+   "size": 241
+  }
+ },
+ "inner_path": "data/users/1KD4PhRK6xir4zGH1dtWjUzyTvMLHhLfAT/content.json",
+ "modified": 1457264901.077,
+ "signs": {
+  "1KD4PhRK6xir4zGH1dtWjUzyTvMLHhLfAT": "HE7wjyhUBGhS+Ws6Oqvqu/jd8hzO9IRkqkZ4ScVZ/qEDg7yuZRU8e+vFhJUVfsZaxZb9DZkRLaoYFNT3g/nWlQM="
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HEViPIivAmOYyr9j8X3t+G2Y1/DOG3ANHWkDA8uQXqmFVQr2PR6oPfRfSw7Ag0C8fmlkX3nT6Nr5IgZx6t+dtqY=",
+ "cert_user_id": "lugenpresse@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "90448b08ded5011d289d7240dfcd3f8dafcd09414d9b5c9412ad9d6777b30b6b",
+   "size": 559
+  }
+ },
+ "inner_path": "data/users/1QFWpLk4RM2sm9mLN4zJ7TFsHGNaLASVHF/content.json",
+ "modified": 1472977570.521,
+ "signs": {
+  "1QFWpLk4RM2sm9mLN4zJ7TFsHGNaLASVHF": "HBZfOHnmIjix3Q04oxchBZvYDKakVsvULpGAPcsqVSabsNpnZOPRdqDAseSUiYr2P2k81EQnsfPNWitGqHwoP4U="
+ }
+}

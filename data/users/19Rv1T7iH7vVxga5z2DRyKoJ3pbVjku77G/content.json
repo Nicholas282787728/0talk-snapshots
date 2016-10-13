@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "G3ecXh6fj8CefQ+TC9mvVSm31aIZ9DQAQYbmL3oyFvwqlFlGHlDZrjRGjKpsXjwQPBdy5TBMmJr/B4LYMa4XLt4=",
+ "cert_user_id": "vegemite@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "f3d298fd6bcd433e122a34e1d4ca164ea130432c2b3afa9dc9ab32d7a6d0c247",
+   "size": 308
+  }
+ },
+ "inner_path": "data/users/19Rv1T7iH7vVxga5z2DRyKoJ3pbVjku77G/content.json",
+ "modified": 1457540021.541,
+ "signs": {
+  "19Rv1T7iH7vVxga5z2DRyKoJ3pbVjku77G": "HJ4XFCnpSOBDgz1dLUA6CeusRktKctf4umqZS24U7Ax3K0tkDXwILGOQBMAUPrlBbFaQ9+tYWPYSjty9HZJGkZw="
+ }
+}

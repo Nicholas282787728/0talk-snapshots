@@ -1,0 +1,66 @@
+{
+	"next_topic_id": 6,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "Ethereum: Nano Pyramid Smart Contract",
+			"body": "Super micro Ethereum pyramid scheme which tries to avoid big walls.\nContract address is 0xe19e5f100d6a31169b5dcA265C9285059C41D4F6",
+			"added": 1460212817
+		},
+		{
+			"topic_id": 2,
+			"title": "ZeroGambling - Gambling sites collection",
+			"body": "http://127.0.0.1:43110/125Ga1L7yoRu4kho4LpSVGoW6WwjbmzDEc",
+			"added": 1461142046
+		},
+		{
+			"topic_id": 3,
+			"title": "SatoshiDice - The Original Blockchain-based Bitcoin Dice Game",
+			"body": "http://bit.ly/1qEGScb\n\nSatoshi Dice is a subroutine of an advanced artificial intelligence, which arose spontaneously as one of the less-harmful consequences of the United States' quantitative easing monetary program. The system exists solely within the RAM of an abandoned Nokia 3310 mobile phone which was left in a subway station in Tokyo, and powers itself by feeding off the ghost of the late Satoshi Nakamoto (who was in fact a super hot 20 yr old female Japanese programmer and exotic animal collector). While the Intelligence decides on its next course of action, it runs this Satoshi Dice subroutine. Some people ask why Bitcoin was really created... it was created by the Intelligence as an internet currency which enables free individuals around the world to play the Satoshi Dice game. By playing, you are fulfilling the Intelligence's Grand Vision. Satoshi Dice is the best Bitcoin game in existence. The Intelligence is sure you will agree.",
+			"added": 1461235934
+		},
+		{
+			"topic_id": 4,
+			"title": "Ethereum: Critical update RE: DAO Vulnerability",
+			"body": "An attack has been found and exploited in the DAO, and the attacker is currently in the process of draining the ether contained in the DAO into a child DAO. The attack is a recursive calling vulnerability, where an attacker called the “split” function, and then calls the split function recursively inside of the split, thereby collecting ether many times over in a single transaction.\n\nhttps://crd.ht/VLTKyY3",
+			"added": 1466165212
+		},
+		{
+			"topic_id": 5,
+			"title": "Let's advertise ZeroNet on steemit.com",
+			"body": "https://steemit.com/zeronet/@teego/play-is-world-s-first-torrent-website-on-zeronet-that-s-impossible-to-shutdown",
+			"added": 1468058706
+		}
+	],
+	"topic_vote": {
+		"1_1HDGK4rrMzuouF8hNnxfMNpWyR8qAtP4HR": 1
+	},
+	"next_comment_id": 5,
+	"comment": {
+		"1_1HDGK4rrMzuouF8hNnxfMNpWyR8qAtP4HR": [
+			{
+				"comment_id": 1,
+				"body": "How to enter:\nSend at least 0.001 ETH and maximum 1 ETH to 0xe19e5f100d6a31169b5dcA265C9285059C41D4F6\n\nThe multiplier is x1.4 and the fee are set to 2%\ne.g.: you send 1 ETH, you get 1.4 ETH once the balance is sufficient\n\nContract verified :\nhttps://etherscan.io/address/0xe19e5f100d6a31169b5dcA265C9285059C41D4F6#code\n\nOfficial Ethereum wallet:\nhttps://github.com/ethereum/mist/releases\n\nWallets by Kryptokit (Android, iOS, Chrome, Firefox, ...):\nhttps://jaxx.io/\n\nAndroid wallet:\nhttps://play.google.com/store/apps/details?id=com.kryptokit.jaxx&hl=en\n\nEthereum Exchange:\nhttps://www.poloniex.com/exchange#btc_eth",
+				"added": 1460213094
+			},
+			{
+				"comment_id": 2,
+				"body": "http://127.0.0.1:43110/172hEk5h6r1D7EJyQVd7gfu3TTBsokVfZf/",
+				"added": 1460683367
+			}
+		],
+		"4_1FTFKztuv4Z5uy6iS83k9hB2xtS6yFnDxx": [
+			{
+				"comment_id": 3,
+				"body": "It doesn't work over HTTPS\nhttps://zero.dnschain.info/1EwpsssQGBrC2EZeYvxeQQoQbKNGivwDi4/",
+				"added": 1465923752
+			},
+			{
+				"comment_id": 4,
+				"body": "Mixed Content: The page at 'https://zero.dnschain.info/1EwpsssQGBrC2EZeYvxeQQoQbKNGivwDi4/' was loaded over HTTPS, but requested an insecure script 'http://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js'. This request has been blocked; the content must be served over HTTPS.",
+				"added": 1465923813
+			}
+		]
+	},
+	"comment_vote": {}
+}

@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HJ9hy1coUmOmpb3vnveMUhRO+ECES6uJwQNF28z+cicCEm+sUOk85BWrQDAHIdH66HVBeTyajtckRvq9kXk9lj0=",
+ "cert_user_id": "lemotornodes@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "35d077403445e3b7dfaa8037d081e5c0cde731de6c4bfb0392148b8aef012026",
+   "size": 701
+  }
+ },
+ "inner_path": "data/users/1Gqh9qpQKhfKz9H4VYsyZSjfqavCYbCG4C/content.json",
+ "modified": 1470517323.126313,
+ "signs": {
+  "1Gqh9qpQKhfKz9H4VYsyZSjfqavCYbCG4C": "G7VIkwqddo0vBlAaZbSwqL+6BuDO7bcsL8l1dODXllmVa3yTOcYyCq0dtXqpnKNX/TCnvlv/piXmTLlIH8KwhQk="
+ }
+}

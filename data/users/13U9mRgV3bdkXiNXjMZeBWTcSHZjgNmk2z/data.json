@@ -1,0 +1,169 @@
+{
+	"next_topic_id": 6,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "IPFS Hash sharing",
+			"body": "http://127.0.0.1:43110/17P4SJ1AsARbrj6naYbmAa7eSYCyr4UyJv/?Home\n\ni made this forum for IPFS hash sharing i hope you like it",
+			"added": 1468923444
+		},
+		{
+			"topic_id": 2,
+			"title": "ZeroMe Hub list",
+			"body": "plz spam links here",
+			"added": 1471546205
+		},
+		{
+			"topic_id": 3,
+			"title": "@nofish any plants for hub selection ?",
+			"body": "will be there any way to select the hub where i choice to store certain posts ? e.g. spanish posts in spanish hub and so on",
+			"added": 1471638703
+		},
+		{
+			"topic_id": 4,
+			"title": "Version: 0.4.0 r1424",
+			"body": "whats new on this ?",
+			"added": 1471687057
+		},
+		{
+			"topic_id": 5,
+			"title": "zerome is just returning \"Content publish failed . \"",
+			"body": "> Content publish failed . \n\nand this on console\n\n```\nerror: [Errno 32] Broken pipe\nTraceback (most recent call last):\n  File \"/usr/lib/python2.7/dist-packages/gevent/greenlet.py\", line 534, in run\n    result = self._run(*self.args, **self.kwargs)\n  File \"plugins/AnnounceZero/AnnounceZeroPlugin.py\", line 69, in announceTracker\n    onion = self.connection_server.tor_manager.getOnion(site.address)\n  File \"/Zero/src/Tor/TorManager.py\", line 256, in getOnion\n    self.site_onions[site_address] = self.addOnion()\n  File \"/Zero/src/Tor/TorManager.py\", line 197, in addOnion\n    res = self.request(\"ADD_ONION NEW:RSA1024 port=%s\" % self.fileserver_port)\n  File \"/Zero/src/Tor/TorManager.py\", line 229, in request\n    return self.send(cmd)\n  File \"/Zero/src/Tor/TorManager.py\", line 235, in send\n    conn.send(\"%s\\r\\n\" % cmd)\n  File \"/usr/lib/python2.7/dist-packages/gevent/_socket2.py\", line 320, in send\n    return sock.send(data, flags)\nsocket.error: [Errno 32] Broken pipe\n\n```",
+			"added": 1472764639
+		}
+	],
+	"topic_vote": {
+		"1_1BtftbazUXD1kMZAnbK21SMFz6BfZwWbaB": 1,
+		"1_13U9mRgV3bdkXiNXjMZeBWTcSHZjgNmk2z": 1,
+		"2_13U9mRgV3bdkXiNXjMZeBWTcSHZjgNmk2z": 1,
+		"3_13U9mRgV3bdkXiNXjMZeBWTcSHZjgNmk2z": 1,
+		"5_13Cqt2MSFS6eu4cbVuByZBuULrEAcZAqFG": 1
+	},
+	"next_comment_id": 19,
+	"comment": {
+		"11_1CMjV2r4EBpFt8VCcWWZKDysZXPcPExRNN": [
+			{
+				"comment_id": 1,
+				"body": "for some reason retro-share never took off, maybe because they focused things on f2f",
+				"added": 1468903106
+			}
+		],
+		"6_13hcYDp4XW3GQo4LMtmPf8qUZLZcxFSmVw": [
+			{
+				"comment_id": 2,
+				"body": "that nickname system is ugly",
+				"added": 1468903961
+			}
+		],
+		"24_1CMYxdit4qq9QGk9DYRu2ruRPd2YDGckH8": [
+			{
+				"comment_id": 3,
+				"body": "> What's going on in Turkey?\n\nsimply we get to see that democracy dont work, democracy will work if 100% of population are philosophers, Turkey population is not and they elected this dude now they get punished for voting like idiots",
+				"added": 1468962948
+			}
+		],
+		"2_12yaKkoqVKBUi66uB5pYXamWguKFaWdDnx": [
+			{
+				"comment_id": 4,
+				"body": "dont use proxy's install the client",
+				"added": 1471033937
+			}
+		],
+		"1_19TgPhgpi9U73U9jQWUSspfxy8vbPjUxVT": [
+			{
+				"comment_id": 5,
+				"body": "someone needs to contact duckduckgo about this :D",
+				"added": 1471545681
+			}
+		],
+		"2_13U9mRgV3bdkXiNXjMZeBWTcSHZjgNmk2z": [
+			{
+				"comment_id": 6,
+				"body": "1. http://127.0.0.1:43110/12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv/\n1. http://127.0.0.1:43110/15mV5T1R1wxg3E1FPsvZw19bw6QzvRREfn/\n1. http://127.0.0.1:43110/12rTbtzcEZH7RiVfShBB3qhoe3rfwbpm8S/\n1. http://127.0.0.1:43110/1GnSLuqqmB8oRAJ4SK4hvzt6Jo1qAnEbXn/",
+				"added": 1471546335
+			},
+			{
+				"comment_id": 18,
+				"body": "/bump",
+				"added": 1473094623
+			}
+		],
+		"1_1FCqLq42pcBRtdUQXfKghRxhtsMKVfrDmW": [
+			{
+				"comment_id": 7,
+				"body": "it has failed because the communication is slow",
+				"added": 1471601391
+			}
+		],
+		"2_1DBrH9TDEYB9CqnFsPR8Cqn8xW3xNEv6i3": [
+			{
+				"comment_id": 8,
+				"body": "༼ つ ◕_◕ ༽つ gib mor peers",
+				"added": 1471686858
+			}
+		],
+		"3_13U9mRgV3bdkXiNXjMZeBWTcSHZjgNmk2z": [
+			{
+				"comment_id": 9,
+				"body": "wee managed to change the hub http://127.0.0.1:43110/Me.ZeroNetwork.bit/?Post/15mV5T1R1wxg3E1FPsvZw19bw6QzvRREfn/13U9mRgV3bdkXiNXjMZeBWTcSHZjgNmk2z/2  what a pain in the ass @nofish",
+				"added": 1471690517
+			},
+			{
+				"comment_id": 11,
+				"body": "/bump",
+				"added": 1471738436
+			}
+		],
+		"4_13U9mRgV3bdkXiNXjMZeBWTcSHZjgNmk2z": [
+			{
+				"comment_id": 10,
+				"body": "> [kaffie](#comment_169_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh): Since the last revision (Rev1422), here's what has changed:\n> Fix typos in log message\n> Support group by in newsfeed follows\n> Fix connected_limit and size_limit paramter parsing\n> You can find all the commits/changes on the github.\n\nnice",
+				"added": 1471692158
+			}
+		],
+		"4_14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx": [
+			{
+				"comment_id": 12,
+				"body": "like i said i want a easy way to select where to deposit/save/store posts so i cant store spanish post in the spanish hub and so on",
+				"added": 1472185872
+			},
+			{
+				"comment_id": 13,
+				"body": "> [kaffie](#comment_174_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh): \n> Edit: Guide on how to do this.\n\nwill be interesting if anyone will code a import data from another hub script",
+				"added": 1472185967
+			}
+		],
+		"1_1PP8Hgtsu36kRvB7QBcGXfEi6eLReCvPp6": [
+			{
+				"comment_id": 14,
+				"body": "well done, best way to ask for copyrighted material is in the main forums where the developer is the moderator so in the future it can be used to damage this project reputation",
+				"added": 1472198430
+			}
+		],
+		"4_13Cqt2MSFS6eu4cbVuByZBuULrEAcZAqFG": [
+			{
+				"comment_id": 15,
+				"body": "> [galt](#comment_2_1FJ62k4CbpuTYoXrQ9ZmtfAEwDMR4hFswz): Heading? We never got out of the current one.\n\nhello ayn rand :D",
+				"added": 1472851620
+			}
+		],
+		"2_1DcE9QfZbfLZhXxgtQ8Ui3oMZvs9NVjqZB": [
+			{
+				"comment_id": 16,
+				"body": ">  Jill Stein\n\nwho?",
+				"added": 1472898963
+			}
+		],
+		"1_1MxinCGP4R54Rxxmig41K132aGrUJgwq4A": [
+			{
+				"comment_id": 17,
+				"body": "http://127.0.0.1:43110/gfwtalk.bit/?Topic:13_1GtJqyJRsuZhmxVtw5USgvqGbUmVH7EmBD  here a example",
+				"added": 1473093962
+			}
+		]
+	},
+	"comment_vote": {
+		"14_13U9mRgV3bdkXiNXjMZeBWTcSHZjgNmk2z": 1,
+		"747_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1
+	}
+}

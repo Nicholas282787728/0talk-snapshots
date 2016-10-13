@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HCypBceCr8AQCsuevz9OJOFKYf7vamGiiA95INcdDXfRD+AWCyNz911xNOgw0lEw6FcNCv6rVyDtG3kpgPrKgtY=",
+ "cert_user_id": "caturrita@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "a01307e9eed6c423f6a6b9d086b5a5f1ae127d7514a6beaa90f75f2ac9430881",
+   "size": 310
+  }
+ },
+ "inner_path": "data/users/1Jm93extPci7nYWjJ3JkN8NGaWEWtALp3m/content.json",
+ "modified": 1464069574.094177,
+ "signs": {
+  "1Jm93extPci7nYWjJ3JkN8NGaWEWtALp3m": "G42d76a5MAcb/3Hp4Pcq50lR+3wnZ848WLKupDU3fKytiKlAFZLquHzqeUwYgueMsWJ4yDACBIheQswHQBtihck="
+ }
+}

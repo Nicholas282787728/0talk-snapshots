@@ -1,0 +1,21 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 3,
+	"comment": {
+		"1_143LrtRTyo9ZXpyMtYH9vYv2qbggb2E95R": [
+			{
+				"comment_id": 1,
+				"body": "О чем будем пиздеть?",
+				"added": 1458078327
+			},
+			{
+				"comment_id": 2,
+				"body": "Кстати.\nА нахуя вся эта хуятень?\n\nАнонимности ведь нет? Нет!\nНу и спрашиваеться НАХУЯ!!!!!!!!!",
+				"added": 1458078457
+			}
+		]
+	},
+	"comment_vote": {}
+}

@@ -1,0 +1,25 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "theres this guy named kc and hes a fag",
+			"body": "test",
+			"added": 1467698333
+		}
+	],
+	"topic_vote": {},
+	"next_comment_id": 2,
+	"comment": {
+		"2_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": [
+			{
+				"comment_id": 1,
+				"body": "sign into deez nuts",
+				"added": 1467692256
+			}
+		]
+	},
+	"comment_vote": {
+		"1_1CsydgY9hBcADTS9zNcq3TbNVCkNeYZsha": 1
+	}
+}

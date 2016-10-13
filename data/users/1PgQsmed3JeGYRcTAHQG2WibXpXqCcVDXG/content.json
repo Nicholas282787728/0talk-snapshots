@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "G5pnVma22dEZ+yLCjbOSYCLK2h9GfU2gfI5SjA8FqB5HdCpIIXjUGsw41ZhQNE24eVlGZyjXnBGE+r4yZhc9YpM=",
+ "cert_user_id": "burhanafridi603@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "7fa49a414bdcb18955ed3924b6f6d91361030237484951a96887e19ebedd0989",
+   "size": 116
+  }
+ },
+ "inner_path": "data/users/1PgQsmed3JeGYRcTAHQG2WibXpXqCcVDXG/content.json",
+ "modified": 1462956030.628,
+ "signs": {
+  "1PgQsmed3JeGYRcTAHQG2WibXpXqCcVDXG": "GzudxxMIIjYnCuUeWtyRO3pi/eMV9tefDizz8+syodAv2VJjlY28woGBGhpuuFTsYn0U2Jn77V0Yuvh9BtMoTmo="
+ }
+}

@@ -1,0 +1,16 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 2,
+	"comment": {
+		"4_1EMpuiFM1NLZmAVyoAWnwi8VwiZVV4dcnN": [
+			{
+				"comment_id": 1,
+				"body": "Place 8 c:\n(for now)",
+				"added": 1458079283
+			}
+		]
+	},
+	"comment_vote": {}
+}

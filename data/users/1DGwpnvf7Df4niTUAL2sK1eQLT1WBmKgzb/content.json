@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HFFtweRpTISY0/q1X2AIU2LVS+8003BeuofmMSdx+XXmrCdFhNIeCHDLhxZwVAczOr0T7KfgTkDhkbmzNt2Q9MY=",
+ "cert_user_id": "espartaco@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "5f8589d94dc1f4bc19c2f77a69280416a3732eadbc290a190662e45b97ae287e",
+   "size": 244
+  }
+ },
+ "inner_path": "data/users/1DGwpnvf7Df4niTUAL2sK1eQLT1WBmKgzb/content.json",
+ "modified": 1459643604.823085,
+ "signs": {
+  "1DGwpnvf7Df4niTUAL2sK1eQLT1WBmKgzb": "G4WbB4tMkX/Ft/R7jzBro2rXd3cTAl6xiGkVCuT/IMOiEuL1D3PLQdhPwOMF6A7p6ZURZwHh9bFqY6IRtH1TKIY="
+ }
+}

@@ -1,0 +1,77 @@
+{
+	"next_topic_id": 3,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "New ZeroHello with News feed",
+			"body": "https://github.com/HelloZeroNet/ZeroNet/issues/233\nIs this a kind of zerosocial?",
+			"added": 1453280355
+		},
+		{
+			"topic_id": 2,
+			"title": "How to update my zeroblog, which I cloned from zeroblog?",
+			"body": "Is there any simple way to update my zeroblog? I didn't find any button on my blog.",
+			"added": 1455453422
+		}
+	],
+	"topic_vote": {},
+	"next_comment_id": 10,
+	"comment": {
+		"1_1UfvLnMuzShvi3phWGSqn79tio81Wn9Dt": [
+			{
+				"comment_id": 1,
+				"body": "我比较希望能有一个社交化的blog。可以相互关注，可以相互留言，类似twitter。这样既解决了blog的信息孤岛问题，又有了保存别人网站的动力（粉丝保存关注者的动力还是很强的）。",
+				"added": 1439515929
+			},
+			{
+				"comment_id": 2,
+				"body": "我有兴趣做社交化的内容，可是看了看zeronet，感觉难度对于我来说实在太大了。如果有高手在做这方面的事情，我可以帮忙打下手，呵呵",
+				"added": 1439516116
+			}
+		],
+		"2_1L4fuhUB75eAdVbDY9AJ4z2i2dwMho7MV8": [
+			{
+				"comment_id": 3,
+				"body": "> [nofish](#comment_300_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): Not UI yet, but it's really easy:\n> \n> Backup your data/yoursiteaddress directory (just in case)\n> Copy and overwrite every file and directory from data/1BLogC9LN4oPDcruNz3qo1ysa133E9AGg8 to data/yoursiteaddress except data directory and content.json \n> Sign + Publish your site using the sidebar.\n\nThanks very much. Your response is so fast:)",
+				"added": 1455458950
+			}
+		],
+		"1_19ayk8E29EihqeEqZCXFpanBQm9Z63USEB": [
+			{
+				"comment_id": 4,
+				"body": "几天没来怎么这么多中文用户了，连东先生（mydf）都来建博客了，赞。",
+				"added": 1459999774
+			}
+		],
+		"1_19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ": [
+			{
+				"comment_id": 5,
+				"body": "Beautiful",
+				"added": 1459999945
+			}
+		],
+		"43_1GtJqyJRsuZhmxVtw5USgvqGbUmVH7EmBD": [
+			{
+				"comment_id": 6,
+				"body": "Yes, zeronet is awesome. It can't be blocked by the China Great Firewall. While most sites which Chinese can make free speech have been blocked by China Great Firewall.",
+				"added": 1461141305
+			},
+			{
+				"comment_id": 7,
+				"body": "But the Great Firewall is very effective as reddit user mentioned. I hope Zeronet can defend the attack of Great Firewall in the future.",
+				"added": 1461141458
+			},
+			{
+				"comment_id": 8,
+				"body": "> [yo](#comment_16_1GtJqyJRsuZhmxVtw5USgvqGbUmVH7EmBD): http://127.0.0.1:43110/gfwtalk.bit/?Topic:17_1GtJqyJRsuZhmxVtw5USgvqGbUmVH7EmBD/+How+the+Great+Firewall+discovers+hidden+circumvention+servers\nZeronet is a p2p network, I think it's different than normal hidden circumvention servers. In other words, Zeronet has a lot of hidden circumvention servers. Block all the Zeronet servers will be a big cost for GFW.",
+				"added": 1461203678
+			},
+			{
+				"comment_id": 9,
+				"body": "> [erkan](#comment_142_1H8oKiRa7fGgUqS1hpUtaSYLvAqkaknbkf): To all of you who say ZeroNet can not be blocked/shutdown/...:\n> did you see yet G011 from ZeroSecurity?If I were the Chinese government, I'd start by blocking/redirecting those 8 trackers first.\n\nThis is really a weakness of Zeronet. But it seems can be improved in the future.\n\nBelow is @nofish's comment on reddit:\n==============================================\nEvery P2P network requires an initial node to get IP addresses (for example Bitcoin using this hard-coded ones), so you can't get around of this, but later it can be improved (for example adding more tor/i2p bootstrap nodes)",
+				"added": 1461299634
+			}
+		]
+	},
+	"comment_vote": {}
+}

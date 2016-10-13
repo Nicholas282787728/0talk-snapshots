@@ -1,0 +1,15 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "Who knew? In some countries you can go to jail for using bitcoins.",
+			"body": "https://en.wikipedia.org/wiki/Legality_of_bitcoin_by_country \n\n- In September 2014, Bangladesh Bank said that \"anybody caught using the virtual currency could be jailed under the country's strict anti-money laundering laws\". \n\n- In a July, 2014, statement of the National Bank of the Kyrgyz Republic made clear that \"the use of 'virtual currency', bitcoins, in particular, as a means of payment in the Kyrgyz Republic will be a violation of the law of our state. \n\n- In 2015 a Russian state-owned media outlet reported that \"The [Russian] Central Bank... said that bitcoin usage was illegal under Russian federal law. \n\n- Bank of Thailand declared bitcoin illegal in 2013.",
+			"added": 1458592040
+		}
+	],
+	"topic_vote": {},
+	"next_comment_id": 1,
+	"comment": {},
+	"comment_vote": {}
+}

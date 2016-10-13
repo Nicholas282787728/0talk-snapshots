@@ -1,0 +1,67 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "Host docs on ZeroNet ?",
+			"body": "[is it *okay* to put docs that are ~200MB+ on zeronet](/1JkFUDhPb4CFcyL8viq7B8UgLePPx3mBgH/files/hs/base-4.8.0.0/doc-index-All.html)?\n\nI see that [zeronet Docs](/17Kom2G5qNDc6NaQwv445h1gFzxkY3ZtZe/) being hosted like this. This way devs who need to refer docs get to have the offline version and also act as a seeder to others needing it.",
+			"added": 1458922956
+		}
+	],
+	"topic_vote": {
+		"10_17fgJ3tZjhM7HCkTkd5TWf2BLLWmhRKcXB": 1
+	},
+	"next_comment_id": 8,
+	"comment": {
+		"1_1FQzw6BBWb8DqSgT3uMsMpcWu3uz48bEDX": [
+			{
+				"comment_id": 1,
+				"body": "> [plavojabuka](#comment_2_158KZsYQsNp4j4kiPrkqXvTPRewEXeP24W): the creator of that site put up the private key so that the community could publish whatever they wanted to that site.   if you look at  data/1FqhRosMouo37Z8iDpLTEPvfznBq1b4N4w/index.html you can see that someone just edited the html to be that pic which can be found with a quick google search.tl:dr the fbi didnt seize anything its just a pic.\n\ndid the creator deliberately made the private key public?",
+				"added": 1458667473
+			}
+		],
+		"1_1BQg5MQZ63aEQZMzLEXP6yY3hsgznKpaps": [
+			{
+				"comment_id": 2,
+				"body": "Arch Linux :)",
+				"added": 1458668291
+			}
+		],
+		"1_1Hz5zjZ6UfmEckdzBWxMFyYWMvBix3ABTZ": [
+			{
+				"comment_id": 3,
+				"body": "> [ks](#comment_49_14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx): You can put anything you like on Zeronet. If other people like it, too, they will seed your stuff.\n\nwill every seeder be downloading whole 200MB+ files (first time) ?",
+				"added": 1458923553
+			},
+			{
+				"comment_id": 4,
+				"body": "> [ks](#comment_50_14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx): Zeronet will attempt to fetch the whole site with all its files, so the answer is yes.\n\nI guess if enough seeders arise then site owner can make all files \"optional\" which will then let visitors download only the files they need (and seed only such files?)",
+				"added": 1458929492
+			}
+		],
+		"4762_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG": [
+			{
+				"comment_id": 5,
+				"body": "> [hololense](#comment_1_1PRtPMsAohGekTGBAqKEZG1V8ZPX4iY2gW): I would have read it, if it where on Zeronet\n\n+1",
+				"added": 1458988365
+			}
+		],
+		"1_18jipjDsfAxAuq4ixbi2w24xJrYVfTYFPn": [
+			{
+				"comment_id": 6,
+				"body": "India",
+				"added": 1458992093
+			}
+		],
+		"4_18sw1reMFB1fpxc4vjfjoCrLaFs8UbMeQH": [
+			{
+				"comment_id": 7,
+				"body": "zeronet: bitcoin:1QDhxQ6PraUZa21ET5fYUCPgdrwBomnFgX",
+				"added": 1459109624
+			}
+		]
+	},
+	"comment_vote": {
+		"27_16bxMyoL49mWYhcZKBYVBT5zEFW9SQpiao": 1
+	}
+}

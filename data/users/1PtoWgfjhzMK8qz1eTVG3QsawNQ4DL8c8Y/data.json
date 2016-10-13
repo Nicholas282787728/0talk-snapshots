@@ -1,0 +1,36 @@
+{
+	"next_topic_id": 3,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "How ZeroMail works?",
+			"body": "Can somebody explain to me how ZeroMail works? What is the procedure that it follows?",
+			"added": 1457206760
+		},
+		{
+			"topic_id": 2,
+			"title": "How comments and this page works?",
+			"body": "I understand how a simple web page works in ZeroNet, however I am not able to understand how it is updated from comments (like ZeroBlog). Can somebody explain to me in a few words?",
+			"added": 1457206921
+		}
+	],
+	"topic_vote": {},
+	"next_comment_id": 3,
+	"comment": {
+		"2_1PtoWgfjhzMK8qz1eTVG3QsawNQ4DL8c8Y": [
+			{
+				"comment_id": 1,
+				"body": "> [ekaterina](#comment_84_1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD): When you write a comment or vote on something, that information is written to a text file called data.json by the website. Every user of a ZeroNet site has a content.json file which other peers download, in that content.json is a link to all files a user created including that data.json file with your comments (and for other sites there might also be pictures, or additional JSON files, etc). Other peers then download this data.json file they found in content.json to get your comments and votes. ZeroNet can automatically create an SQLite database from all those different users' data.json files to turn everything into one big SQL database with all comments from all users, for display on the site.\n> You can also listen for certain events, like when your ZeroNet client just downloaded a new data.json file you can make your site update in real time with the new content, without the user having to reload. It's all extremely easy for the programmer, ZeroNet takes care of the actual work.\n> Try opening this folder: YourZeroNetFolder/data/1BLogC9LN4oPDcruNz3qo1ysa133E9AGg8/data/users/ and go into one of the folders there and open a data.json file with a text editor to see how this looks for ZeroBlog.\n> For more technical details, check out the two part site development tutorial on ZeroBlog which teaches you to create a chat application, works the same as comments and votes do.\n\nThanks for replying! :)",
+				"added": 1457291262
+			}
+		],
+		"1_1PtoWgfjhzMK8qz1eTVG3QsawNQ4DL8c8Y": [
+			{
+				"comment_id": 2,
+				"body": "Thanks for all your replies!! :)",
+				"added": 1457291288
+			}
+		]
+	},
+	"comment_vote": {}
+}

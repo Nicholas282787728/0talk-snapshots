@@ -1,0 +1,30 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 4,
+	"comment": {
+		"2_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": [
+			{
+				"comment_id": 1,
+				"body": "hello, is there anyone?",
+				"added": 1461660467
+			}
+		],
+		"2_1Frg5nFndHFkmUaaGK7Qr46dRLX8a2BhBT": [
+			{
+				"comment_id": 2,
+				"body": "> [nofish](#comment_599_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): Multiuser plugin should work:\n> \n> Stop ZeroNet\n> Backup users.json\n> Rename plugins/disabled-Multiuser to plugins/Multiuser\n> Create zeronet.conf where your zeronet.py is with content:[global]\n> multiuser_local\n> \n> Start ZeroNet\n> \n> You can login to your previous identity using the master_seed in users.json (use Logout button on ZeroHello page)\n\nthink you!",
+				"added": 1461661360
+			}
+		],
+		"1_1Nhc87fApEuLfZev9tu5wFnVt2CLpPjB1W": [
+			{
+				"comment_id": 3,
+				"body": "我咋打不开",
+				"added": 1461661877
+			}
+		]
+	},
+	"comment_vote": {}
+}

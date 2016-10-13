@@ -1,0 +1,32 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "How can I carry my ZeroID to another computer?",
+			"body": "I just created an ID if I install zeronet on another machine, how do I transfer my credentials?",
+			"added": 1456878887
+		}
+	],
+	"topic_vote": {},
+	"next_comment_id": 3,
+	"comment": {
+		"14_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf": [
+			{
+				"comment_id": 1,
+				"body": "Saw it on reddit",
+				"added": 1456878915
+			}
+		],
+		"1_1NhaBpc5iz2oyhaEqfE3FUYByTGxj5Bhrb": [
+			{
+				"comment_id": 2,
+				"body": "Thanks, will try tomorrow.",
+				"added": 1456878996
+			}
+		]
+	},
+	"comment_vote": {
+		"4_1ADB7TdX2fVbTsWBoMe9yBTmVXTbb33b4R": 1
+	}
+}

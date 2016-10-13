@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HHCAJgkhZiORaVQYK4lUpgCRUd8VIPDPacxqnacCFlYLwC+Lj8xuyw61ewy5dFBLxRs/AIhCSbor2F2hXxmd2X4=",
+ "cert_user_id": "codfishguy@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "16d8d7045e956e45ab6ed5a7b7d2ad22aff359e505c75e3f982ebd2509cc16f2",
+   "size": 252
+  }
+ },
+ "inner_path": "data/users/1LSBCHjWKw2a46Mf8wgb52GrTxTGmtqmeb/content.json",
+ "modified": 1457026417.89541,
+ "signs": {
+  "1LSBCHjWKw2a46Mf8wgb52GrTxTGmtqmeb": "G6edKMqfqqyQf3/FszBybuZtv24Mz5HBT+qxeA68cb5vAfUqfqE5YTMSmhA/1eEUtd3CmxV2utFS5tchwE5zEV4="
+ }
+}

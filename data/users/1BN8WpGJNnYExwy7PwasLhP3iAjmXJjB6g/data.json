@@ -1,0 +1,30 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "If you don't like bloob.bit,you can reply below.",
+			"body": "If so many people don't like it ,I will take bloob.bit down ,if bloob.bit's content let you discomfort ,I am sorry for that. I wiil use the other one account to reply you.",
+			"added": 1470236769
+		}
+	],
+	"topic_vote": {},
+	"next_comment_id": 3,
+	"comment": {
+		"1_1Buq4fyG8B3MxAvs7h4bASyWbrKFxmg4CJ": [
+			{
+				"comment_id": 1,
+				"body": "Hello friends ,bloob.bit is my website,I only want to check Zeronet is  really or no freedom of expression,and who can take down bloob.bit ,If so many people don't like bloob.bit ,I will take it down .If I don't take it down ,who can do it ?I only want to check zeronet .If you don't like it ,you can delete it from your peer,I am sorry. I want to destroy the private key of the website,is it OK ? I don't use the account after publish the sentence .you can relate to me by Bitmessage in my site.",
+				"added": 1470235929
+			}
+		],
+		"1_1BN8WpGJNnYExwy7PwasLhP3iAjmXJjB6g": [
+			{
+				"comment_id": 2,
+				"body": "> [freec](#comment_6_1MYfK6tM4vfBJ8SHvbZ8sMH4u6o9mSRPWU): You shouldn't censor, this include self-censorship. If people dislike bloob.bit do not censor it but perhaps refrain from advertising it, just leave it indexed in search engines for people who wish to seek that content.\n\nMay be I am a Chinese ,so self-censorship is influence character by environment to me.If there are some people like it ,I will not take it down.",
+				"added": 1470237162
+			}
+		]
+	},
+	"comment_vote": {}
+}

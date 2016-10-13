@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "G+mduutwZAhxVgGPkyWcbUE8DjtfrCaP3yTtkbCmakxKORihFZ7qIFbkcl2MXCpsj7E7o4u0BLGA+cML4LTuVnA=",
+ "cert_user_id": "berrada@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "941f0b5febf5c1e4bd7751aaf882d07bedda55aa8b52a436a3b1b0181959de56",
+   "size": 516
+  }
+ },
+ "inner_path": "data/users/14pPxAzvs4ee22V9DiQw2uE7PWchrjLFXF/content.json",
+ "modified": 1465147166.22,
+ "signs": {
+  "14pPxAzvs4ee22V9DiQw2uE7PWchrjLFXF": "HLOBXXdbVf3+6weAEpXwnlvy8M97yhzrn+0O4utj3CADE5+/rQ49JbKRvO5URRWCep5T3mdlWU4UBHp7MevTRPQ="
+ }
+}

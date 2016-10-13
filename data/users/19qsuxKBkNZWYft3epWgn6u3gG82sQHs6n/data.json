@@ -1,0 +1,348 @@
+{
+	"next_topic_id": 4,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "Feature request: blacklisting keys from UI",
+			"body": "I'd really like the ability to blacklist sites that I discover contain illegal or disgusting content so that I can avoid accidentally visiting them (and thus seeding) them again.",
+			"added": 1460940713
+		},
+		{
+			"topic_id": 2,
+			"title": "Git Repositories in ZeroNet",
+			"body": "http://localhost:43110/1AZ9fPvDPmCPdcbEt37YW2bDtdNx3h5RmG/?Post:9:Publishing+a+Git+Repository+in+ZeroNet",
+			"added": 1461364039
+		},
+		{
+			"topic_id": 3,
+			"title": "UserScript to rewrite IPFS URLs",
+			"body": "None of the scripts I could find did exactly what I wanted, which is to rewrite all IPFS links and images to go to your own gateway, so I wrote my own. Works with ipfs.pics too. http://localhost:43110/1AZ9fPvDPmCPdcbEt37YW2bDtdNx3h5RmG/?Post:11",
+			"added": 1461702084
+		}
+	],
+	"topic_vote": {
+		"1_1DXR2Di8Ks9JijfNycWErpenoxxchrdWBB": 1
+	},
+	"next_comment_id": 48,
+	"comment": {
+		"1_1NysLQWKSm6ZRZQiB8fPGYWr5oGnZzZFdb": [
+			{
+				"comment_id": 1,
+				"body": "ROTFL",
+				"added": 1460492166
+			}
+		],
+		"1_18jipjDsfAxAuq4ixbi2w24xJrYVfTYFPn": [
+			{
+				"comment_id": 2,
+				"body": "EML1",
+				"added": 1460492393
+			}
+		],
+		"5139_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG": [
+			{
+				"comment_id": 3,
+				"body": "\"I had no idea there were so many sick people out there who want to prey on children\"\n\nBECAUSE THERE AREN'T.",
+				"added": 1460671533
+			}
+		],
+		"5135_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG": [
+			{
+				"comment_id": 4,
+				"body": "Too bad IPFS (not to mention OpenBazaar) doesn't support any kind of anonymity layer yet.",
+				"added": 1460671622
+			}
+		],
+		"20_1CMYxdit4qq9QGk9DYRu2ruRPd2YDGckH8": [
+			{
+				"comment_id": 5,
+				"body": "IPFS is not anonymous either (yet). They're working on Tor integration: https://github.com/ipfs/notes/issues/37\n\nCheck out I2PSnark, anonymous bittorrent over I2P. There are several bittorrent indexes hosted inside I2P as well.",
+				"added": 1460671813
+			},
+			{
+				"comment_id": 6,
+				"body": "Also for chat, check out Tox, which can run over Tor: https://tox.chat/",
+				"added": 1460671878
+			}
+		],
+		"2_1MNLXtMWLF4FX32eFfztzru14n7rn7V6nj": [
+			{
+				"comment_id": 7,
+				"body": "It's data/<public key> under your zeronet directory.",
+				"added": 1460674793
+			},
+			{
+				"comment_id": 8,
+				"body": "(public key of the blog of course)",
+				"added": 1460674807
+			},
+			{
+				"comment_id": 11,
+				"body": "Glad you found it. But for anyone else who doesn't know it's the long string of random letters and numbers after the first / in the URL.",
+				"added": 1460698540
+			}
+		],
+		"2_1NwWoM1qGUV9gjLG7QGyhqsRxKKga2rhtf": [
+			{
+				"comment_id": 9,
+				"body": "CONTENT.JSON DOWNLOAD FAILED",
+				"added": 1460698226
+			}
+		],
+		"5141_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG": [
+			{
+				"comment_id": 10,
+				"body": "We need onion routing for the real world.",
+				"added": 1460698462
+			}
+		],
+		"5158_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG": [
+			{
+				"comment_id": 12,
+				"body": "It's good for us when they catch people through meatspace means, because it pokes holes in their argument that they need special cyberspace capabilities.",
+				"added": 1460818366
+			}
+		],
+		"5186_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG": [
+			{
+				"comment_id": 13,
+				"body": "Not particularly fond of the headline. It should be \"Why smart contracts don't have the use cases many dumb people think they do.\"",
+				"added": 1460940501
+			}
+		],
+		"1_1NvuCEiBua5qhzxkBcgP5rd6iUtZ8goVuJ": [
+			{
+				"comment_id": 14,
+				"body": "Do NOT run Lantern. It turns you into the equivalent of a Tor exit node, and it's being used for spamming.",
+				"added": 1460940916
+			}
+		],
+		"5_1LRrd96P7FiTcsyNXVzPM5jtpQoH1B4gYf": [
+			{
+				"comment_id": 15,
+				"body": "There are a few empty pages on the site. It would be nice to be able to delete them.",
+				"added": 1460948906
+			}
+		],
+		"5202_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG": [
+			{
+				"comment_id": 16,
+				"body": "This could have been done transparently the entire time, but the regulators have chosen not to force transparency. The lack of transparency is not due to a lack of technology; it's because powerful people want the ability to hide their transactions. And even with blockchain transactions, nobody needs to know who controls a given account.\n\n(Apologies if this gets posted twice. I've been getting errors with my zeroverse ID.)",
+				"added": 1460989895
+			}
+		],
+		"3_1FieP4c1gxFme5webFJB9x5ZPBXdR6p3Fs": [
+			{
+				"comment_id": 17,
+				"body": "Followed!",
+				"added": 1461006755
+			}
+		],
+		"5207_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG": [
+			{
+				"comment_id": 18,
+				"body": "Clever attack. And basically equivalent to the cloning attack used against .onions.",
+				"added": 1461006921
+			}
+		],
+		"5213_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG": [
+			{
+				"comment_id": 19,
+				"body": "\"While purely hypothetical, [we are nevertheless going to try to instill as much fear in our readers as possible].\"",
+				"added": 1461008839
+			}
+		],
+		"1_1Bg8YmeGLAwNWavJ7qeW2MQ9wz3xRm7cf7": [
+			{
+				"comment_id": 20,
+				"body": "Click the three dots to the right of the site name and choose \"Delete\" then confirm in the popup in the upper right.",
+				"added": 1461193083
+			}
+		],
+		"1_1M5gEZBRPpw1aistyGj66SkLi3muDxcf3V": [
+			{
+				"comment_id": 21,
+				"body": "http://localhost:43110/1NZNtZQZHQRJXafvJpmY5jgqwRaCEZMsUc/?/g/",
+				"added": 1461194169
+			},
+			{
+				"comment_id": 23,
+				"body": "I haven't seen videos in ZeroNet yet. ZeroNet is not very well suited to videos because of the 10MB default site limit. IPFS is a better bet for storing videos, though one could easily put an index of IPFS-hosted videos in ZeroNet. I'll let you know if I run across such a thing.",
+				"added": 1461353405
+			},
+			{
+				"comment_id": 24,
+				"body": "cyrax: yup, it's just the links to the videos that we don't have in ZN :)",
+				"added": 1461362036
+			}
+		],
+		"5270_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG": [
+			{
+				"comment_id": 22,
+				"body": "I doubt this roadblock will last long. There's no way the government's going to allow itself to be disallowed from pwning people's computers just because they don't know where they are.",
+				"added": 1461266325
+			}
+		],
+		"5343_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG": [
+			{
+				"comment_id": 25,
+				"body": "Infiltration works both ways. Decentralization, not so much.",
+				"added": 1461612687
+			}
+		],
+		"5342_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG": [
+			{
+				"comment_id": 26,
+				"body": "Dictionaries are as obsolete as encyclopedias. They're just taking longer to realize it.",
+				"added": 1461612760
+			}
+		],
+		"5341_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG": [
+			{
+				"comment_id": 27,
+				"body": "Yeah, because it was so hard for \"small time players to commit small-time crimes against individuals\" before. I guess the author has never heard of guns and knives.",
+				"added": 1461612891
+			}
+		],
+		"3_1By85xCDz7VyZEq9WjmhtbNaPKimQwhPLp": [
+			{
+				"comment_id": 28,
+				"body": "Clearly a joke.",
+				"added": 1461703874
+			}
+		],
+		"1_1KJstFfmFWuU4ttPJGMigZJgdn4gg2GZ1b": [
+			{
+				"comment_id": 29,
+				"body": "Don't know anything about them, but Ultra Web Hosting now accepts Bitcoin, and they claim to be cheap. Not sure about 4 USD/CAD/AUD/NZD/HKD/MXN/SGD per month, though (nor which $ you were talking about). http://localhost:43110/Talk.ZeroNetwork.bit/?Topic:5353_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG",
+				"added": 1461728879
+			}
+		],
+		"1_1J55h6E9SKsKLhSDNeXyY94qkMP9SsxQQ9": [
+			{
+				"comment_id": 30,
+				"body": "1Password databases are probably fine to store on iCloud, providing you're using a strong passphrase. I only use open source crypto myself (gnupg, pass, KeePassX), but if you're going to trust Apple anyway, trusting AgileBits as well isn't that big a jump. Given ZeroNet's current immaturity, I suspect you're more likely to get compromised through an as-yet undiscovered 0net flaw than through iCloud or 1Password.",
+				"added": 1461729557
+			}
+		],
+		"1_17ApQKugX1XH727gpAeD3mrRLjLxASdakd": [
+			{
+				"comment_id": 31,
+				"body": "@computerfreak That looks like vaporware, and it's based on IPFS, which a lot of people have been complaining about not working. Doesn't work for me either; lots of pictures that show up on ipfs.pics cannot be loaded in any reasonable time directly through IPFS.",
+				"added": 1461952064
+			}
+		],
+		"5401_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG": [
+			{
+				"comment_id": 32,
+				"body": "\"...and no Warrants shall issue, but upon probable cause, supported by Oath or affirmation, and **particularly describing the place to be searched, and the persons or things to be seized**.\"",
+				"added": 1461953077
+			}
+		],
+		"5433_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG": [
+			{
+				"comment_id": 33,
+				"body": "The author has a somewhat limited imagination if he thinks this stuff will happen through WhatsApp or some other chat app. The idea that people are going to switch from hunting down customer service phone numbers to hunting down chatbot usernames seems a bit silly. It seems more likely that search engines will get more contextual/interactive/conversational. Then you just type your question into Google or whatever and it asks you questions back at the same time as providing its best guesses as to what the solution might be.",
+				"added": 1462128467
+			}
+		],
+		"5481_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG": [
+			{
+				"comment_id": 34,
+				"body": "\"Although there’s no evidence you have accessed the type of images you were initially sentenced for, this was a flagrant disregard for court orders.\"\n\nHe wasn't really jailed for using the \"dark web\" as the headline implies.",
+				"added": 1462295400
+			}
+		],
+		"10_13dUD5qbY6LaXH9pfh5iDgXHgKjCZPxvZV": [
+			{
+				"comment_id": 35,
+				"body": "There was already \"parallel construction\", which completely bypasses any protection from illegal search and seizure. This is just a minor technical issue by comparison. Governments are just extremely powerful criminal gangs, and you need to protect yourself from them the same way you would any other powerful criminal gang. Lock down your shit.",
+				"added": 1462297819
+			}
+		],
+		"1_1DEGNzqUcsqYMGB68Py4M7UdksAd5ed4AW": [
+			{
+				"comment_id": 36,
+				"body": "--tor=always",
+				"added": 1462297839
+			}
+		],
+		"1_19VtgWtroLMHZUcd9YNhmiDYwGQn19Q9mj": [
+			{
+				"comment_id": 37,
+				"body": "You should be asking if there are any female users who are interested in having it known publicly.",
+				"added": 1462390065
+			}
+		],
+		"1_19arYgVKguUamTqtYGu6T9FSUsr19CyEcG": [
+			{
+				"comment_id": 38,
+				"body": "@ace Most networked multiplayer games of the late '90s and early '00s were P2P. People complained about the potential for cheating when Id Software open sourced Quake II. John Carmack's response:\n\n\"I'm sure I will catch some flack about increased cheating after the source release, but there are plenty of Q2 cheats already out there, so you are already in the position of having to trust the other players to a degree. The problem is really only solvable by relying on the community to police itself, because it is a fundamentally unwinnable technical battle to make a completely cheat proof game of this type. Play with your friends.\"\n\nThe P2P part is actually a red herring, though. Sure, you can use some heuristics server-side to try to catch cheaters, but it doesn't really matter that much if scores aren't worth anything and you don't incentivize cheating by making some kind of leaderboard. In fact, cheats could even make a game more fun by giving new ways to play the game, or people could compete by writing bots. Or you could even build a game around writing bots.",
+				"added": 1462406401
+			},
+			{
+				"comment_id": 39,
+				"body": "@kaffie Not webrtc though because Tor. Besides, we already have a daemon. Just establish browser-to-browser connections using the ZeroNet daemon and use websockets.",
+				"added": 1462406492
+			}
+		],
+		"1_1DXR2Di8Ks9JijfNycWErpenoxxchrdWBB": [
+			{
+				"comment_id": 40,
+				"body": "Nice! I'd been signing and publishing manually and had been thinking about doing this with a post-commit hook. BTW mine is also browsable with a web browser, though I'm also generating the index manually right now. http://localhost:43110/1AZ9fPvDPmCPdcbEt37YW2bDtdNx3h5RmG/?Post:17:Browsable+Git+Repositories+in+ZeroNet",
+				"added": 1462463878
+			},
+			{
+				"comment_id": 44,
+				"body": "> [petercxy](#comment_17_1DXR2Di8Ks9JijfNycWErpenoxxchrdWBB): I Googled for a Git parser in JS yesterday and found some libraries. If these libraries are efficient enough, it's better than generating an index file for each repo.\n\nIt's not the efficiency so much as the work needed to put a UI on top of them. No matter what, generating the index at read time is going to use way more resources than at write time, because there will hopefully be far more reads than writes.",
+				"added": 1462817814
+			}
+		],
+		"3_1P8VJL2iKWfUB4hqQkrFdXCbC8RrimAZoZ": [
+			{
+				"comment_id": 41,
+				"body": "I have cross-site requests block using uMatrix. Even if you use Tor browser you probably don't want uncontrolled cross-site requests.",
+				"added": 1462476410
+			}
+		],
+		"5518_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG": [
+			{
+				"comment_id": 42,
+				"body": "\"Needless to say, anyone with an email account at Mail.ru, Gmail, Yahoo or Microsoft should change their passwords as soon as possible, and follow best practices for creating a good password. As more is learned about the impact of the breach, we’ll be sure to provide an update.\"\n\nI'm guessing these were not obtained by actually hacking in to the sites, but through phishing, assuming these are even really email passwords. It's just as likely they're passwords and email addresses taken from hacks of other sites. Either way, I would not say everyone with an account on these sites needs to go out and change their password, provided they're already using good password hygiene.\n\nIt's good practice to use a password manager that automatically fills in your password based on URL and enforces HTTPS (or use some other means of enforcing HTTPS like HTTPS everywhere) in order to avoid being phished. If your password manager doesn't automatically fill in a password when you expect, that should be a strong indication that you are being phished and that you should tread very carefully.",
+				"added": 1462480205
+			}
+		],
+		"5528_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG": [
+			{
+				"comment_id": 43,
+				"body": "Decentralized, but not anonymous if it uses IPFS. Neither the article nor the web site mentions if it will be open source. If not, then it's trivial to censor: just strongarm the developers.",
+				"added": 1462565482
+			}
+		],
+		"1_1GV38NrtMvxkf2N8msQkkTnjz38ABfiaVE": [
+			{
+				"comment_id": 45,
+				"body": "You need to use a bittorrent client that has explicit support for anonymous torrenting, such as [Vuze](http://wiki.vuze.com/w/Tor_HowTo)",
+				"added": 1462908423
+			}
+		],
+		"1_1KLBz9nduZYz3F456wf3T53CaEgj18EtJD": [
+			{
+				"comment_id": 46,
+				"body": "It is definitely not better to use proxychains than to use Tor. Control of any one of the proxies, or sniffing between you and the proxy (or at any other link in the chain if they're not all individually encrypted) will give you both source and destinations.",
+				"added": 1462924065
+			}
+		],
+		"26_1ED3Ho3kmzaKiECtyuqSjDpoE47rKuXeP": [
+			{
+				"comment_id": 47,
+				"body": "Stop being a non-coder. The world will only get worse and worse for people who do not understand computers well enough to code.",
+				"added": 1463418636
+			}
+		]
+	},
+	"comment_vote": {
+		"75_14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx": 1,
+		"7_1BLPKyrF2D4ertte6JnAa6oWAMYzZGwKQz": 1
+	}
+}

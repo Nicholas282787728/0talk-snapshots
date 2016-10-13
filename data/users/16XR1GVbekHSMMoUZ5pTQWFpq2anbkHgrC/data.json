@@ -1,0 +1,42 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "Zeronet usage stats",
+			"body": "Is there somewhere where I can check stats on Zeronet usage with time?",
+			"added": 1471073750
+		}
+	],
+	"topic_vote": {
+		"1_16XR1GVbekHSMMoUZ5pTQWFpq2anbkHgrC": 1
+	},
+	"next_comment_id": 5,
+	"comment": {
+		"1_16XR1GVbekHSMMoUZ5pTQWFpq2anbkHgrC": [
+			{
+				"comment_id": 1,
+				"body": "> [kaffie](#comment_150_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh): The stats page has some information about what ZeroNet is doing. You can also slide the 'home button' in the top right to open a sidebar that has some info on how many people you're connected to, and the geo-info you're getting.\n\nYeah, it displays only current usage though. I was wondering if someone would be aggregating these with time and posting the evolution on some website.",
+				"added": 1471074099
+			},
+			{
+				"comment_id": 2,
+				"body": "> [kaffie](#comment_151_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh): I'm not aware of anything like that. ZeroNet is still really new. I'd say if this is something you're interested in, you should make something like it yourself.\n\nYeah, sounds like a nice side project. Just want to check before reinventing the wheel.",
+				"added": 1471074699
+			},
+			{
+				"comment_id": 3,
+				"body": "> [grez](#comment_27_19arYgVKguUamTqtYGu6T9FSUsr19CyEcG): What do you mean by \"stats on ZeroNet usage\"? What it will include and measure?\n\nI most interested in the number of peers at a given time (various resolutions), but it would apply to any other measurable attributes. I guess this would inherently be a per-website metric, and I'm wondering if aggregating these would give insights into global ZeroNet usage with time.",
+				"added": 1471093727
+			}
+		],
+		"2_13WWWFi6iuSLazDcNvHgBEjjeAofAhAwtE": [
+			{
+				"comment_id": 4,
+				"body": "rsync?",
+				"added": 1471378157
+			}
+		]
+	},
+	"comment_vote": {}
+}

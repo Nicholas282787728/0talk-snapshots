@@ -1,0 +1,37 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {
+		"2_17PhTjw3o2wPhxyKeM3Ss975eWZ1UMsjQC": 1,
+		"3_168qV1Xxp2EyszrzdECLUwXrn9wGYjDdar": 1
+	},
+	"next_comment_id": 4,
+	"comment": {
+		"2_17PhTjw3o2wPhxyKeM3Ss975eWZ1UMsjQC": [
+			{
+				"comment_id": 1,
+				"body": "> [angristan](#comment_34_1MEWJRMLgvofqG9Mbsb2Rc4hFFyv7HeRx7): Technically, if you visit a site with illegal content, you also share it... What about the law here ?\n\nThat's a good question... If anyone's a lawyer (or remotely familiar with the law?), please respond!",
+				"added": 1457229313
+			}
+		],
+		"1_1BY3fbfkw2w8oDtpbjbEQQbpmNzrWL4BqN": [
+			{
+				"comment_id": 2,
+				"body": "The reason why proxies tend to have outdated pages is because it's cheapest that way. It means pulling from a cache instead of directly from your server. Caching saves bandwidth for the proxy. Going directly to the cache allows for that proxy to pull an possible outdated page (webpages are rarely updated) instead of wasting enormous resources to directly pull from that website.",
+				"added": 1457229938
+			},
+			{
+				"comment_id": 3,
+				"body": "*a possible. Also, I highly suggest you view this YouTube video from Tom Scott. He does a beautiful job explaining caching. https://www.youtube.com/watch?v=dkSslseq9Y8",
+				"added": 1457229983
+			}
+		]
+	},
+	"comment_vote": {
+		"3_126KBTYhyC5CgVsVYDrzpm42mjin6ihjSj": 1,
+		"37_1MEWJRMLgvofqG9Mbsb2Rc4hFFyv7HeRx7": 1,
+		"34_1MEWJRMLgvofqG9Mbsb2Rc4hFFyv7HeRx7": 1,
+		"3_18jeV4j4Wqo6peuqUPW9JDouvLjbpCm2HL": 1,
+		"2_18jeV4j4Wqo6peuqUPW9JDouvLjbpCm2HL": 1
+	}
+}

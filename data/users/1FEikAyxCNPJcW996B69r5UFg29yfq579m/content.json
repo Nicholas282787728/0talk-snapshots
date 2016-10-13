@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "G1ctUi+X7RNDxjEdPsgKwO2/1xwZtNmnPHUpYpAwFPOWbQCzSoZ23U1uSYSoof+TDXmNlPNvm2dE7cVA7X/0Yvs=",
+ "cert_user_id": "nutomic@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "1711396187ce52302a4a948362260045f3bfb9cd449d7a08707e722ff0227dc3",
+   "size": 7003
+  }
+ },
+ "inner_path": "data/users/1FEikAyxCNPJcW996B69r5UFg29yfq579m/content.json",
+ "modified": 1476273129.727174,
+ "signs": {
+  "1FEikAyxCNPJcW996B69r5UFg29yfq579m": "G8SPk/7pC/5YkR5b/HZDEPk89UH49TJQzzjgGVcrvGRNJb3y1+Uu8M4yWLXuG8eppNEOetZBvDxKWmrIJAWc2Gk="
+ }
+}

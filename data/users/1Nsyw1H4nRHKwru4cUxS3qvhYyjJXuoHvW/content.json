@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "G4TXfKK3t12fteMFKghFvJ39RlXa1Z4UVvONdtWjvsW8BAg+1TBfIRLAHFc8KtAm5Bp/OH07K/eyKPL6D9KKoWw=",
+ "cert_user_id": "blackironsnarkus@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "e5719172476334a177a6bf48a39ac6b394c3c4cbf9b2b00046d8cf8d30e01272",
+   "size": 242
+  }
+ },
+ "inner_path": "data/users/1Nsyw1H4nRHKwru4cUxS3qvhYyjJXuoHvW/content.json",
+ "modified": 1472985351.192,
+ "signs": {
+  "1Nsyw1H4nRHKwru4cUxS3qvhYyjJXuoHvW": "GwvahWwewRGYqJInnjERsqTwOZogiSiK5s1r5kLK+Gq1PnAeOyoedFFnnZCXgMnZaeVmV1p0h3Xcti177X3kpgU="
+ }
+}

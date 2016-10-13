@@ -1,0 +1,30 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 4,
+	"comment": {
+		"10_1MEWJRMLgvofqG9Mbsb2Rc4hFFyv7HeRx7": [
+			{
+				"comment_id": 1,
+				"body": "wouldn't it be the dee net, because its not the surface?",
+				"added": 1467816473
+			}
+		],
+		"4_1Ci5Y4TxZwY1SQhvQR7Ttbdyyai4WRV5TU": [
+			{
+				"comment_id": 2,
+				"body": "It really depends on your hardware. If your PC is kinda sluggish go for arch. If you have the needed power for compiling all your software, /g/entoo all the way.",
+				"added": 1467827225
+			}
+		],
+		"14_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf": [
+			{
+				"comment_id": 3,
+				"body": "4chan.0rg/g/",
+				"added": 1467827252
+			}
+		]
+	},
+	"comment_vote": {}
+}

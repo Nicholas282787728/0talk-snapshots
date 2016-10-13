@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HG91tdSiBtKFR92deFv3EG8VKhEb//KETM6rmY6kclK+ak7BRxhZAWmiBk2U5SAE+FwsJCzeindA4hbcH94DHQk=",
+ "cert_user_id": "lechongas@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "0b9539a36a019f83ecbcc82ab6442a9f9942fc4dc48dcecb933ecc3364363010",
+   "size": 385
+  }
+ },
+ "inner_path": "data/users/129QJf5wNxEzAB7Rh29LXyy3RBesRybY8o/content.json",
+ "modified": 1456867540.787,
+ "signs": {
+  "129QJf5wNxEzAB7Rh29LXyy3RBesRybY8o": "HN1Xk70jS880PS4iJcY9PY4oTq+vvB6TIAQMbm3knk+OBvRUyAXVPKJVAM/QCUsxDAFOHHRarjK/i3IeL71cJQA="
+ }
+}

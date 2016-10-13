@@ -1,0 +1,17 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "WHERE IS ZERO PLAY ?",
+			"body": "WHERE IS ZERO PLAY ?",
+			"added": 1470310763
+		}
+	],
+	"topic_vote": {
+		"1_1MsUAPBMZkBpt4Z46849vSJQxRHbR7HyMt": 1
+	},
+	"next_comment_id": 1,
+	"comment": {},
+	"comment_vote": {}
+}

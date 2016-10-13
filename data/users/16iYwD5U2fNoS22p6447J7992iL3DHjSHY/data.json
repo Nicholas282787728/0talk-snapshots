@@ -1,0 +1,272 @@
+{
+	"next_topic_id": 5,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "Need ZeroSite Help (content.json won't download)",
+			"body": "Hi, sorry for posting so many questions, but I'm just starting to figure ZeroNet out and I had finally moved my blog and had edited the content.json file to change my blog's title. But now I seem to be having problems. At first I thought it was odd that the old version of my blog continued to have more people seeding it than the new version with more content, so I tried to access my site from some ZeroNet proxies and they all say \"content.json download failed\"\nSo my question is, what can I do to fix this? The only thing I edited in the content.json was down near the bottom where I changed the myzeroblog title to: \"title\": \"DividedByZero\",",
+			"added": 1449850108
+		},
+		{
+			"topic_id": 2,
+			"title": "Using ZeroNet with Tor",
+			"body": "So I see that the FAQ has been updated, and it appears the recommended way of using ZeroNet with tor has changed. It used to say to use zeronet.py --proxy 127.0.0.1:9050 --disable_udp\nbut now it says to use zeronet.py --tor always\nSo I had started zeronet using the old way and updated to the new version of ZeroNet, the Stats page showed that it was working. So I restarted zeronet (but not tor) using the --tor always command and the stats page showed a different ip. What is up with that?",
+			"added": 1451979010
+		},
+		{
+			"topic_id": 3,
+			"title": "Developers of ZeroMarket and ZeroMart",
+			"body": "Are any of the developers of ZeroMarket or ZeroMart (or any other decentralized marketplace ZeroSite that is being deveolped for that matter) on ZeroTalk? Or does anyone know how I can get in touch? I'd like to do an interview with them for the DividedByZero blog.",
+			"added": 1452679093
+		},
+		{
+			"topic_id": 4,
+			"title": "More Tor Problems and Questions",
+			"body": "Recently when I start tor and then start ZeroNet, tor seems to stop working. I've tested the tor connection without starting ZeroNet and it was working fine, but after I start ZeroNet I start getting error messages like:\n [warn] Your Guard *** is failing a very large amount of circuits. Most likely this means the Tor network is overloaded, but it could also mean an attack against you or potentially the guard itself. Success counts are 134/267. Use counts are 76/76. 134 circuits completed, 0 were unusable, 0 collapsed, and 0 timed out. For reference, your timeout cutoff is 234 seconds.\n\nAnd it isn't just one guard, it happens when I'm connected to other guards.\nSo nothing will update and I can't use ZeroNet. I've uninstalled tor and reinstalled it and made sure I have the latest version.\nI really need some help with this, I am planning to do a talk with a group soon and show them ZeroNet, so I'd really like to be able to get this to work before that.\n\nAlso, I know this has been covered before but it is buried in an old post, how do I setup  ZeroNet to work using TorBrowser instead of regular tor in linux?\nThanks for any help!",
+			"added": 1458495309
+		}
+	],
+	"topic_vote": {
+		"4_1QH84f44yLPvMjMua9s7iM7c4RoJNZ2nTp": 1,
+		"1_16iYwD5U2fNoS22p6447J7992iL3DHjSHY": 1,
+		"1_1QH84f44yLPvMjMua9s7iM7c4RoJNZ2nTp": 1,
+		"1_1C7rjaNpWFAtWbQgSxbGaPzBdgCA47VYc6": 1,
+		"2_13KqD3BoaRMudEG5QU2fnGLkSVx8qDXKof": 1,
+		"1_13KqD3BoaRMudEG5QU2fnGLkSVx8qDXKof": 1,
+		"1_1BQg5MQZ63aEQZMzLEXP6yY3hsgznKpaps": 1,
+		"8_1H8oKiRa7fGgUqS1hpUtaSYLvAqkaknbkf": 1,
+		"5_1NibKcCcidCHue94Rhr7F4Gvu3Lg6FAESp": 1
+	},
+	"next_comment_id": 37,
+	"comment": {
+		"1_1QH84f44yLPvMjMua9s7iM7c4RoJNZ2nTp": [
+			{
+				"comment_id": 1,
+				"body": "Same question about ZeroMart, is that also in development?",
+				"added": 1449730998
+			}
+		],
+		"3_168qV1Xxp2EyszrzdECLUwXrn9wGYjDdar": [
+			{
+				"comment_id": 2,
+				"body": "The DividedByZero blog mentioned as \"New blog\" in the last comment below has moved to a new address due to some technical problems. Subject matter covered is: Cryptocurrencies, Darknets, Encryption, Steganography, The philosophy of liberty\nhttp://127.0.0.1:43110/1AyL9MfHbV8nxPBmZpocuVZ6d2JixUPTdv",
+				"added": 1449731134
+			},
+			{
+				"comment_id": 15,
+				"body": "Liberty Library - 3d models, 3d printing, PDFs, text files\nhttp://127.0.0.1:43110/1AFHPGdN9YmEtGC7iDcjU3Jq2WXAbLCxXu",
+				"added": 1451058405
+			}
+		],
+		"1_1KMreVnkbRKgaMhU65UVmEjwyD7XN8fuCi": [
+			{
+				"comment_id": 3,
+				"body": "Wanted to post an update and let you know I got it to work. It is working now. Now I have what is probably a stupid question, how do I open port 15441? I tried configuring it to be open with my firewall in linux, but it doesn't seem to work, do I need to open it up from the router settings instead? I've got it working great with VPNs, but can't get it to work with tor, it says 1 peer when I try to use tor. How can I get tor to work, is it related to the port problem?\n\nAnother issue I need help with, when I tried uploading a site I got this error:\nSite:1****..CxXu content.json: Site too large 89461384 > 10485760, aborting task...\nSite:1****..CxXu Sign failed: Invalid content\nDo I need to make my size limit bigger, and what is invalid content, can we share PDFs and .zip files?",
+				"added": 1449731344
+			},
+			{
+				"comment_id": 11,
+				"body": "> [nofish](#comment_128_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): You can't have opened port when using Tor. (full tor support via hidden services is planned)\n> \n> You can set the site's size limit using the sidebar (drag the topright zerobutton to left), but big files are not supported yet and should be avoided.\n\nThanks for your reply, sorry for my late response. I really look forward to seeing ZeroNet supporting hidden services. After there is better support for tor, it would also be interesting to see if ZeroNet could be supported on i2p.\n\nI do have a question though, can a person really do anything with the current level of support for tor, or will it always only show 1 peer while connected to tor at this point? It works great with a vpn and the port closed, so I was wondering  why it doesn't work while using tor with the port closed instead?",
+				"added": 1450906761
+			},
+			{
+				"comment_id": 12,
+				"body": "> [nofish](#comment_155_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): It should work the same as using with VPN. Try check log/debug.log and see if any error there, maybe it can't connect to your Tor socks5 proxy port.\n\nLooks like I figured it out. I couldn't get it to work with the Tor Browser Bundle (unless I was using the wrong port), so I downloaded Tor and first I tried port 9150 and it wasn't working, in the stats page it said my ip was 127.0.0.1, so then I tried it with port 9050 and it seems to work. I'm wondering if I should try it with the browser bundle using 9050, but I had read that the new port was 9150, maybe that is just for the browser bundle. Anyways, it just said 1 peer for a little bit and then it started working after about a minute.",
+				"added": 1451054650
+			}
+		],
+		"1_1EZG8eDkCFvNkYxpHmr2WbGWcSxAsRfqTT": [
+			{
+				"comment_id": 4,
+				"body": "I'm having the same problem.",
+				"added": 1449736628
+			}
+		],
+		"4_1QH84f44yLPvMjMua9s7iM7c4RoJNZ2nTp": [
+			{
+				"comment_id": 5,
+				"body": "dividedby0",
+				"added": 1449841298
+			}
+		],
+		"1_16iYwD5U2fNoS22p6447J7992iL3DHjSHY": [
+			{
+				"comment_id": 6,
+				"body": "It seems two of the proxies ended up working and downloading the site, so I don't understand what the problem was. But looks like it is working for the most part now. Again, sorry for all of the posts asking for help, but I figured this would be a good place to turn for help on ZeroNet. Thanks!",
+				"added": 1449850678
+			}
+		],
+		"1_1MBZrgSwMQMRnMFjQkw2JpwdWRaKo7Eb55": [
+			{
+				"comment_id": 7,
+				"body": "http://45.63.123.191:43110",
+				"added": 1450446234
+			},
+			{
+				"comment_id": 9,
+				"body": "> [heathenman](#comment_18_16dVbybDseQBQnxdJDuQhCzYAij8iR8YEc): this is zero.pags.to 's ip ;)likehttp://70.37.165.32 - zeronet.classcoder.com&http://5.101.103.222:43110 - bit.no.com\n\nWow, thanks, I didn't notice that. I think I found it by it's ip address while doing a search.",
+				"added": 1450906186
+			}
+		],
+		"1_18NqMTQeSD7cAKEcnAdFEBQYJCxHgFXSzk": [
+			{
+				"comment_id": 8,
+				"body": "If you run it in the terminal shouldn't it automatically shut off when you close the terminal window?",
+				"added": 1450905901
+			}
+		],
+		"2_1LUP6SN7WrXAH7e5bUFxdmrVsFr2m43XB4": [
+			{
+				"comment_id": 10,
+				"body": "A forum search feature would be nice.",
+				"added": 1450906406
+			}
+		],
+		"1_1C7rjaNpWFAtWbQgSxbGaPzBdgCA47VYc6": [
+			{
+				"comment_id": 13,
+				"body": "Yes! Was looking forward to one of the ZeroNet proxies getting HTTPS. Is there any way HTTPS could be implemented for ZeroNet itself?",
+				"added": 1451056059
+			}
+		],
+		"2_16iYwD5U2fNoS22p6447J7992iL3DHjSHY": [
+			{
+				"comment_id": 16,
+				"body": "Does the new --tor always command ensure that ZeroNet stops if there is an error connecting to or staying connected to tor? I think it is staying connected even if tor drops.",
+				"added": 1452678237
+			},
+			{
+				"comment_id": 18,
+				"body": "> [nofish](#comment_188_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): If you using --tor always and you lost your Tor connection then none of the sites will update/you will unable to create new content. So in --tor always mode you only able to make connection using Tor.\n\nWhy does it say Tor addonion error? And I also get: .\nTorManager Tor controller connect error: [Errno 111] Connection refused\nTorManager Tor addOnion error: \nOn the ZeroHello page it still says I have 3 onion connections and on the Stats page it is showing a tor ip.",
+				"added": 1452772682
+			},
+			{
+				"comment_id": 19,
+				"body": "> [nofish](#comment_189_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): It probably means it not able to connect the tor control port. What OS are you using?\n\nI'm running linux. According to the stats page it seems to be running through tor, and the pages still update and so I don't really understand what the error is.",
+				"added": 1453363297
+			},
+			{
+				"comment_id": 21,
+				"body": "> [nofish]\nRather than create a new thread, I figured I'll just comment here. So the computer I was using needed to have tor updated. I updated tor, and checked to see if it was working, it was. But when I try to run zeronet.py --tor always it just won't find any peers. Is it a problem with the updated tor or the updated zeronet?\nHere are the errors I get:\nTorManager Tor controller connect error: [Errno 111] Connection refused\nFileServer Checking port 15441 using portchecker.co...\nSite:1K4egp..agG5 Announce to 0 trackers in 0.079s, failed\n\nAlso, there is no ip shown on Stats page.\n",
+				"added": 1454778673
+			},
+			{
+				"comment_id": 22,
+				"body": "> [nofish](#comment_247_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): please run echo 'PROTOCOLINFO' | nc 127.0.0.1 9051\n> The output should be similar to this:\n> 250-PROTOCOLINFO 1\n> 250-AUTH METHODS=COOKIE,SAFECOOKIE COOKIEFILE=\"/var/run/tor/control.authcookie\"\n> 250-VERSION Tor=\"0.2.7.6\"\n> 250 OK\n\nI get nothing when I run that.",
+				"added": 1454779138
+			},
+			{
+				"comment_id": 23,
+				"body": "> [nofish](#comment_248_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): What OS you using? And what is your Tor status at http://127.0.0.1:43110/1HeLLo4uzjaLetFx6NH3PMwFP3qbRbTf3D ?\n\nRunning linux 32bit 3.13.0-77-generic. It was saying tor error there.",
+				"added": 1454780077
+			},
+			{
+				"comment_id": 24,
+				"body": "> [nofish](#comment_249_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): Then please follow: http://zeronet.readthedocs.org/en/latest/faq/#how-to-make-zeronet-work-with-tor-under-linux\n\nThanks, I didn't know I could click on the error. Is this something new with version 0.3.6 (r889)? What was the reasoning for having to make the changes to torrc?",
+				"added": 1454781278
+			}
+		],
+		"2_1LdcHtaGFmZPLefm1zN6pQoTi1ibqQn7ug": [
+			{
+				"comment_id": 17,
+				"body": "So do you only need a Namecoin address to get a .bit address or do you need namecoins?",
+				"added": 1452679556
+			}
+		],
+		"10_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf": [
+			{
+				"comment_id": 25,
+				"body": "1. A decentralized marketplace.\n2. i2p support",
+				"added": 1454787701
+			}
+		],
+		"1_1PPqTMbH8Uwrk496grUVuBk57dSoeU9hig": [
+			{
+				"comment_id": 26,
+				"body": "Could you please elaborate on the anonymity/pseudonymity and privacy issues with ZeroNet? Why do you think Freenet provides more anonymity?\nHave you read about the deanonymization of Freenet users by law enforcement?\nhttp://127.0.0.1:43110/1AyL9MfHbV8nxPBmZpocuVZ6d2JixUPTdv/?Post:3:Freenet+Users+Deanonymized",
+				"added": 1456388329
+			},
+			{
+				"comment_id": 27,
+				"body": "Was really hoping gold or someone else could answer my questions below.",
+				"added": 1456664038
+			}
+		],
+		"15_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf": [
+			{
+				"comment_id": 28,
+				"body": "> [ekaterina](#comment_35_1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD): Sounds interesting, I'll check it out, thanks! Although quantum secure sounds like a fantastical idea, I thought quantum computing means all encryption is broken. Not that I understand anything about quantum computing at all... :)\n\nNo, not all encryption will be broken, just a lot of it. For example NTRU encryption is resistant to quantum computing attacks, and so are One Time Pads. NSA is planning on transitioning to using encryption that will work in a post-quantum computing world, but others say that a quantum computer with that kind of ability will not become available any time soon. Though, it isn't a bad idea to switch to better encryption anyways, whether or not we see the rise of quantum computing any time soon or not.",
+				"added": 1456664390
+			}
+		],
+		"1_15UiHZYjYXmn35qVSaAFyuFwrwqVCTcvmn": [
+			{
+				"comment_id": 29,
+				"body": "Decentralized marketplace",
+				"added": 1458495345
+			}
+		],
+		"4_16iYwD5U2fNoS22p6447J7992iL3DHjSHY": [
+			{
+				"comment_id": 31,
+				"body": "--tor disable --proxy 127.0.0.1:9050 is giving me the same problems. Should I try deleting some of the site folders?\n\nAnother thing I've noticed is that when it does creating UiServer and starting servers, it seems to take a lot longer for the the UiServer to turn on. Even when I run ZeroNet without trying to use tor it takes forever and it seems making posts on here takes forever to post as well. I think all of these problems started with the last update, but I'm not sure.\n\nI've also noticed that doing it this way I get this error in tor: [warn] socks5: command 3 not recognized. Rejecting.\nAnd ZeroNet gives an error like this a lot: json file size does not match 327 <> 488, Hash: False\n\nI do want to note that everything appears to work fine in Tor Browser. Things are still slow and I still get the hash error but it seems to work like normal otherwise.",
+				"added": 1458890579
+			}
+		],
+		"10_17i7Y7r8nTaCfLbCAuaKyc4R5BbKZYU2Hr": [
+			{
+				"comment_id": 32,
+				"body": "Sigaint\nhttp://sigaintevyh2rzvw.onion/\n\nAutistici/Inventati\nhttps://www.autistici.org/\n\nRiseUp\nhttps://help.riseup.net/en/email\n\nProtonMail\nhttps://protonmail.com/",
+				"added": 1458898131
+			}
+		],
+		"4_18sw1reMFB1fpxc4vjfjoCrLaFs8UbMeQH": [
+			{
+				"comment_id": 33,
+				"body": "I'm a little late to reply to this, but if the offer still stands, it is desperately needed and would be appreciated:\n1PcUp8D2Htm5vyNC1HnfnUcJ7NPZS5LWcB",
+				"added": 1459720910
+			}
+		],
+		"10_1LRrd96P7FiTcsyNXVzPM5jtpQoH1B4gYf": [
+			{
+				"comment_id": 34,
+				"body": "I'm writing a new blog post, the title is: OpenBazaar: Is it Vaporware?\nFor a project that started as DarkMarket and turned into what it is, I think it is garbage. They ended up designing it to keep away darknet markets, yet within a day of launching there were still people dumb enough to post weed and child porn for sale on it. lol\nI think there will be an i2p fork of it, at least I hope there will be, then it will be worth using.",
+				"added": 1459843887
+			},
+			{
+				"comment_id": 35,
+				"body": "http://127.0.0.1:43110/dividedby0.bit/?Post:12:Is+OpenBazaar+Vaporware+\nhttps://postimg.org/image/cgc9zfbpv",
+				"added": 1459846768
+			}
+		],
+		"1_18jipjDsfAxAuq4ixbi2w24xJrYVfTYFPn": [
+			{
+				"comment_id": 36,
+				"body": "Uranus\nor\nwherever my tor exit node is",
+				"added": 1459847299
+			}
+		]
+	},
+	"comment_vote": {
+		"128_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"20_1KcPohxmuqiNShTaAzJZLndm5aWtBZLuJn": 1,
+		"18_16dVbybDseQBQnxdJDuQhCzYAij8iR8YEc": 1,
+		"152_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"155_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"1_1C7rjaNpWFAtWbQgSxbGaPzBdgCA47VYc6": 1,
+		"165_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"188_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"189_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"32_13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ": 1,
+		"247_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"249_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"250_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"11_13KqD3BoaRMudEG5QU2fnGLkSVx8qDXKof": 1,
+		"251_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"18_1MmPY9fniJwwhP6WsgH4jWoq5rBAVV6KWy": 1,
+		"348_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"555_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"45_14XxpXNGMLsyeQxikacrbQnAFXVyhN5Ngx": 1,
+		"597_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1
+	}
+}

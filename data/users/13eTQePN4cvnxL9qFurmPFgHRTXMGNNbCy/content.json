@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "G3bpaSJmCGzz8lZnIdKcHda+ttEIPEYzn8Qk57vfd98xMR9HKHhpFZobqKi6yOx9GKQQq4/k2jW3vpDWwhWTnAw=",
+ "cert_user_id": "spukkinfaceship@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "077c6b0231b92c66b41c91939ab15f80f270e3587f42ae2e3f2fbbda070f376d",
+   "size": 737
+  }
+ },
+ "inner_path": "data/users/13eTQePN4cvnxL9qFurmPFgHRTXMGNNbCy/content.json",
+ "modified": 1473193155.952,
+ "signs": {
+  "13eTQePN4cvnxL9qFurmPFgHRTXMGNNbCy": "G6rcPWAZbhtzNIAqzRpFO1MWgCLAw29hbRt2gUvjn27rb8uezKbunVQzePQ0OCXDd+zEJyZR+xvlun4RWlujtpQ="
+ }
+}

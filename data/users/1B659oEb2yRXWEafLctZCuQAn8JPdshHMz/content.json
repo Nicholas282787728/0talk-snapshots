@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "G9ITouwu3ypaPydcDY0jQQ7ixdjN2wxp1nTu95p2zFLGkgNDAMC4odfnQQIt+39Q6N4v0jlRQfZy16VEMRqLaBg=",
+ "cert_user_id": "euroafrican@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "b3a68e325514129e84b8736570cb2d4fdbf63de1249b668542930c653f6ae4fc",
+   "size": 381
+  }
+ },
+ "inner_path": "data/users/1B659oEb2yRXWEafLctZCuQAn8JPdshHMz/content.json",
+ "modified": 1460726065.045793,
+ "signs": {
+  "1B659oEb2yRXWEafLctZCuQAn8JPdshHMz": "G1lqpG30nz1y+vRAsv/t6fGtimZrKkhCPaNkPhtZ7T2ZxkjitXO5rgdwfHM4YDFG4OhW3LV2RxLettYgvEIWpn0="
+ }
+}

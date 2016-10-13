@@ -1,0 +1,25 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 3,
+	"comment": {
+		"2_1MCsyW6W243LY69ZYm99XbV3M8Gbbrp5hF": [
+			{
+				"comment_id": 1,
+				"body": "Nordvpn has never failed me. Double VPN, Tor over VPN, hudnreds of servers and no logging policy.",
+				"added": 1458081918
+			}
+		],
+		"4_1EMpuiFM1NLZmAVyoAWnwi8VwiZVV4dcnN": [
+			{
+				"comment_id": 2,
+				"body": "fucking 7th, finally",
+				"added": 1458083259
+			}
+		]
+	},
+	"comment_vote": {
+		"18_18eNH913qX7e9vBExuMiv7qAMSRkJYNa21": 1
+	}
+}

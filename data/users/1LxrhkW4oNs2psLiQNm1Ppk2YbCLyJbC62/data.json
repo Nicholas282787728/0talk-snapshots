@@ -1,0 +1,32 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "Could ZeroNet manage a tumblr clone?",
+			"body": "Does it have the ability to easily cross-reference different zero sites rehost/embed content?",
+			"added": 1455564419
+		}
+	],
+	"topic_vote": {
+		"3_15y72LFjQ4ymUTnkJP6CC7r73R5uoePgFW": 1
+	},
+	"next_comment_id": 3,
+	"comment": {
+		"3_15y72LFjQ4ymUTnkJP6CC7r73R5uoePgFW": [
+			{
+				"comment_id": 1,
+				"body": "IPFS is pretty solid for larger files and video. Here is some random video of me failing on dirt rally. \n\nThis link should work, but isn't at the time of posting...\nhttp://ipfs.io/ipfs/QmPVBD2wnzEVurRi2oEXVuoyfSxmzBvmfR3UdhNGpKxjCR\n\nThis link should work if you have ipfs installed.\nhttp://127.0.0.1:8080/ipfs/QmPVBD2wnzEVurRi2oEXVuoyfSxmzBvmfR3UdhNGpKxjCR",
+				"added": 1455479734
+			}
+		],
+		"14_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf": [
+			{
+				"comment_id": 2,
+				"body": "the ipfs board on reddit",
+				"added": 1455907632
+			}
+		]
+	},
+	"comment_vote": {}
+}

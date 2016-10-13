@@ -1,0 +1,23 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 3,
+	"comment": {
+		"1_18jipjDsfAxAuq4ixbi2w24xJrYVfTYFPn": [
+			{
+				"comment_id": 1,
+				"body": "Earth",
+				"added": 1460507185
+			}
+		],
+		"1_1K7fPamTWE8J9ogsdFoyjmtjq1FjBeRQGW": [
+			{
+				"comment_id": 2,
+				"body": "maybe",
+				"added": 1460507351
+			}
+		]
+	},
+	"comment_vote": {}
+}

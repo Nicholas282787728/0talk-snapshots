@@ -1,0 +1,16 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 2,
+	"comment": {
+		"8_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": [
+			{
+				"comment_id": 1,
+				"body": "[Zeronet HOWTO - zh-wiki](http://127.0.0.1:43110/1NCezLP8aXjABVreBB1CKGPub2tKTtyhWU/?Page:home)\n\n@nofish can   you add?",
+				"added": 1461925047
+			}
+		]
+	},
+	"comment_vote": {}
+}

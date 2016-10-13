@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "G4oNATFiXe8xjVDYICL1Kemjc4KO4o4ghA2NhDs54VYQVAO9mpFqMFf6XYFiKwjTTsbXDgbjx+GbVem7+J2HzCM=",
+ "cert_user_id": "maxadelaide77@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "6dd6af7f0316e03f00828210a62655d9c5e69bb29e8ca96c5dabd732eda1436d",
+   "size": 815
+  }
+ },
+ "inner_path": "data/users/1JYGDGm5LLLaSdgE6a6zzPcUDLrd7b7z73/content.json",
+ "modified": 1462864780.901735,
+ "signs": {
+  "1JYGDGm5LLLaSdgE6a6zzPcUDLrd7b7z73": "G6Kl07qqlzgcMcdXtUz+HqNdCkJY6x5DjlBH06btnG3tsF0nbDEhbI3w6o5Zxn8ahJfaAVclWUbuGrEUsvkWzUY="
+ }
+}

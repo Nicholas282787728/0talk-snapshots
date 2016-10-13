@@ -1,0 +1,25 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 3,
+	"comment": {
+		"1_1BQg5MQZ63aEQZMzLEXP6yY3hsgznKpaps": [
+			{
+				"comment_id": 1,
+				"body": "Xubuntu Rules!!",
+				"added": 1457503636
+			}
+		],
+		"1_1Dg5EwremnCBAkBQSVoXcL4Mp2eSUuCRvn": [
+			{
+				"comment_id": 2,
+				"body": "\"¿Cómo agrego los emoticones?\" XD",
+				"added": 1457504359
+			}
+		]
+	},
+	"comment_vote": {
+		"1_1FipdFvox742K9m7EDxbv3RGe7vDW2VLwa": 1
+	}
+}

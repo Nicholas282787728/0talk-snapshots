@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HBpiR91TcZsdJkgc+Qa+nnfAfhr+iXcsnEWa7c6TQqiizeb4zEhO0a+d1EouX2ocJKvdO9Eek75f5oKG4k7e8ko=",
+ "cert_user_id": "beto@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "cb6202254bd8852657a59c7512712fcd16fa0371e25c08be8284428fa0bd4492",
+   "size": 214
+  }
+ },
+ "inner_path": "data/users/1DRcgohWGhhBytkuGT7ft6WVqNrkRoDeCR/content.json",
+ "modified": 1472588973.654,
+ "signs": {
+  "1DRcgohWGhhBytkuGT7ft6WVqNrkRoDeCR": "HBu0X/dNzQj8Y7mBVVrSMNFfbVaYFizZNReDIpZKFx5vfQeR4GntTqQJrc3tV9nlPG2rQEhgpGR6andW0q6KKcs="
+ }
+}

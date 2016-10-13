@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "G2zRV85Xoe6Foyt4H43zygk9LP2BoXlYj8kI11a2Cw3BFJcBRTKhyIv1gp14KRzZi3bRzcjX/auGpyaZ1H0vofM=",
+ "cert_user_id": "redfish@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "54d1f058b3c736689bed9ec8c1b098e8bc4c5a10a37fa21c02bdbbb9197bd78d",
+   "size": 7773
+  }
+ },
+ "inner_path": "data/users/1KGozab6jp6jA6zVM8cTFdzMmBasriNP4f/content.json",
+ "modified": 1471817048.917238,
+ "signs": {
+  "1KGozab6jp6jA6zVM8cTFdzMmBasriNP4f": "G5hdpeoME0hZVuDVlJu440SEJXKB81UDbe+uX64mbRdbVEZguKFNrLJBTSUtHJRa9U9q3nwvS8TnWC9u8M+BgdM="
+ }
+}

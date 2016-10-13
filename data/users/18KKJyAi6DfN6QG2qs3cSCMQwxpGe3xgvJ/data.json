@@ -1,0 +1,38 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 6,
+	"comment": {
+		"2_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": [
+			{
+				"comment_id": 1,
+				"body": "testeroonie",
+				"added": 1458125066
+			}
+		],
+		"4_1EMpuiFM1NLZmAVyoAWnwi8VwiZVV4dcnN": [
+			{
+				"comment_id": 2,
+				"body": "Someone managed to hack the scoring system, it needs to be fixed",
+				"added": 1458171204
+			},
+			{
+				"comment_id": 3,
+				"body": "> [zmccorkle](#comment_7_1BidR2Pw65fTPeh1R3LbwCdfEJUPB6FLes): Yep.\n\nHow did you do it?",
+				"added": 1458244014
+			},
+			{
+				"comment_id": 4,
+				"body": "> [zmccorkle](#comment_13_1BidR2Pw65fTPeh1R3LbwCdfEJUPB6FLes): Open JS console, switch to iframe, document.getElementById(\"message\").value = score, Page.sendMessage()\n\nthanks",
+				"added": 1458248696
+			},
+			{
+				"comment_id": 5,
+				"body": "> [waterrabbit](#comment_1_1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC): I suggest the site owner record each player's input and replay most players' route when we play it. Then, we can see thousands of birds crashing into pipes. //\n\nI don't think he would be able to do that, because he doesn't actually develop the game. He just downloaded it from github and tacked on a rudimentary scoring system.",
+				"added": 1460050672
+			}
+		]
+	},
+	"comment_vote": {}
+}

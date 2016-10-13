@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "G+SxSrfdZV9ZsKpQrVKezC4+1x0+wmoXyOrdZQioxDpNa5x45neSwDWS9bOXCgA2Z9sB4KnVrj6z6SX4ZLGvnYo=",
+ "cert_user_id": "hydrolyte@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "eb4c41a53496ed4c2d759488645a836f3c75940155fb8b968ec0670097b2d320",
+   "size": 405
+  }
+ },
+ "inner_path": "data/users/16tCK41m7ndMN6cRVvPs7r46MqYEW39H1q/content.json",
+ "modified": 1467488581.572,
+ "signs": {
+  "16tCK41m7ndMN6cRVvPs7r46MqYEW39H1q": "HL6aco7SnoRfR6VaQXY1FHleByaGkjIab8Vxt20HaIPeAnEv7wWOupqbMIT9tEzXqs+VuNc2htyG5T8TcwnviM8="
+ }
+}

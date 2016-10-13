@@ -1,0 +1,94 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "Which private messenger do you use? Intro to Private IM's: End-To-End Encrypted, Off-The-Record, and Distributed",
+			"body": "From the most famous ones, iMessage, WhatsApp and WeChat all claim to use end-to-end encryption. I know WeChat doesn't recover a backup of history after logout and login, or on a new login. Backup of iMessage history cannot be turned off separately from the general iCloud backup option, and offers 30 days, 1 year and permanence as persistence options.\n\nAs famous as they are, Telegram[6] and Signal[7] are technically the same as the ones above. The difference being that their datacenters are in more privacy-friendly countries and they open-source their code for public audit.\n\nEven before all these, there has been a system long in use but little known: Off-The-Record (OTR) messaging[5]. It is built on top of a general messaging protocol XMPP, and is implemented as a plugin to Pidgin, a famous UNIX[1] IM client. XMPP can be regarded as an open protocol to build a WhatsApp server. (It's more than that, but not in scope of this.) OTR can be built upon any layer of IM actually. \n\nOn the contrary, distributed systems are their own beasts: ZeroMail, Ring[2], Tox[3], and BitMessage[4] (and many others that are not famous enough to reach me). They all propagate messages through a P2P network instead of relying on a central relay server, with end-to-end encryption baked-in. With the volatility of P2P clients comes an important trade-off of message reach, message lifetime and message availability. Depending on the design,\n\na) your messages may reach people other than your recipient (which is good for concealing the recipient but risks recording and future exploitation),\nb) or you may not be offline for more than an arbitrary time (or the network wastes resources on messages never received).\n\nTox rejects a) but takes b) to the extreme that you cannot send offline messages at all, while BitMessage takes a) to the extreme and sets b) at two days. I am not sure about ZeroMail and Ring, but I hope they hit a better balance.\n\nAlso need to be taken into considerations are authentication schemes. By authentication, I mean confirming the people you are sending messages with are who you think they are. You either\n\na) believe a server: iMessage, WhatsApp, Telegram, Signal (and any key published online)\nb) exchange key over trusted channel (i.e. in person): Ring, Tox, BitMessage\nc) verify with private information (such as key fingerprint, also over trusted channel): Off-The-Record, Signal\n\nIMHO, so far Signal is the best on mobile, while OTR (over XMPP) is the best on desktop, with all the distributed systems only in experimental stages. Which are your favorites?\n\n[1]: After systemd shenanigans I now have to differentiate UNIX apps and Linux-specific apps.\n[2]: https://ring.cx/en\n[3]: https://tox.chat/\n[4]: https://bitmessage.org/wiki/Main_Page\n[5]: https://otr.cypherpunks.ca/",
+			"added": 1468174584
+		}
+	],
+	"topic_vote": {},
+	"next_comment_id": 12,
+	"comment": {
+		"1_1BG8WrV2VY1bNjQiKR4tcL52FAw6Y6BoJ8": [
+			{
+				"comment_id": 1,
+				"body": "> [p2p](#comment_178_13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ): \n> 文中说比特币核心开发者宣称比特币失败（核心这两个字是链接，比特币不是链接，怎么断句不用我说了吧）。这也不能全怪你，这是典型国内编辑无知导致的翻译不准确。英文原文是Bitcoin Core developer，Bitcoin Core是个专有名词，应该翻译为比特币内核开发者。那些国内编辑本身对英文原文就理解错误，谈何翻译？事实上那个宣称比特币失败的人在Bitcoin Core的开发team里是个小角色，不信可以去google。但翻译成比特币核心开发者，意思大不同，毒害了不少人。\n\n宣称比特币失败的 Mike Hearn 虽说没有直接 Commit 的特权，但也不是什么「小角色」，而是被比特币创始人 Satoshi Nakamoto 所托负的 Gavin Andresen 亲自邀请的第一批区块链开发者，讲他是核心开发者并没什么错。\n\nBitcoin Core 实际上说的不是比特币「内核」（又不是 Linux 有个 Kernel），要理解它，需要先了解一些背景知识。\n\n比特币的技术基础是「区块链」，新的「交易」会记录在一个「区块」里，再由「矿工」以「做功证明」附至「区块链」的尾端，完成验证。没有完成验证的交易，是可以单方面收回的（而且有了新功能「收费复写」后更容易了）。以目前的算力，每十分钟验算完成一个区块，每个区块容量 1000 KB，每个交易需要至少 250 B，那么意味着平均每秒只能验证 7 笔交易。更不用说随着交易的内容更加复杂，算力增长放缓，比特币能处理的交易量只会更小。为了解决这个问题，有三种途径：增加区块验算速度、增加区块容量、重新设计协议。\n\nBitcoin Core，就是在讨论解决这个问题时，给原来的比特币软件的名字，也就是区块容量为 1000 KB 的版本。与之相对，8000 KB 的版本被称为 Bitcoin XT，后来 2000 KB 的版本被称为 Bitcoin Classic。但即使增加到 8000 KB 的 XT，也不过是每秒 56 笔交易罢了，比起竞争对手 VISA 的每秒几万笔交易，杯水车薪，更不用说区区 2000 KB 的 Classic。要理解 Mike Hearn 对比特币的失望，首先要了解他对比特币的期望，是取代 VISA、Mastercard，是用区块链颠覆现有的金融技术。比特币或许作为一个社区或是一种资产不会消亡，但这一初心是显然无法完成了。因此 Mike Hearn 选择转战 R3CEV，从商业的角度去应用区块链技术。\n\n增加区块验算速度是没有人愿意的，因为那会直接削弱比特币的安全性，也会使分支更频繁更长，影响公平。但康奈尔大学的 Emin Gün Sirer 教授设计了一个同现有区块链兼容的新协议，叫做 Bitcoin-NG（Next Generation 下一代），技术上完全解决了区块容量对交易量的限制。这里是发布该协议的博客文章（英语）：http://hackingdistributed.com/2015/10/14/bitcoin-ng/ ；这里是该协议的论文（英语）：http://arxiv.org/abs/1510.02037 。",
+				"added": 1467880302
+			},
+			{
+				"comment_id": 2,
+				"body": "SETI@home 失败了？来，这是 SETI@home 基于的平台 BOINC 的统计数据：http://boinc.netsoft-online.com/e107_plugins/boinc/bp_home.php ，把鼠标放到美国上，看到没？64,637,916 GigaFLOPS，意味着什么知道吗？那是 64.6 PFLOPS 的算力，而天河2号一台是 33.8 PFLOPS，相当于几乎两台天河2号。免费提供给科学界。把全世界的算力加起来，是 134 PFLOPS，而中国刚刚拿下世界第一的超算神威·太湖之光只有 93 PFLOPS。你跟我说这个免费提供了超过世界第一超算的算力的项目失败了？\n\n比特币本身虽说技术前景堪忧，但就看这个市场惯性，离彻底失败还有好一会儿呢。区块链技术本身则是一片光明的大好未来，交易所系统、银行系统、智能合约系统等等，都有大笔大笔的钱等着呢。\n\n迅雷离线？你太小看全球 BT 社群了。P2P 不只是笔记本或是每天关机的办公机子，国外玩家自建服务器的大有人在，种子主机服务商也百花齐放，迅雷离线放进去不过一滴水而已。不如说是国内只有一家迅雷，毫无竞争才对。\n\nTor 的网站虽然不是分布式的，但它的匿名系统是。它的网站比起匿名系统只是次要功能，你拿一个次要功能否定主要功能，搞笑来的吗？暗网的一大用户来源是各国政府的谍报和外交机关，还法外之地，还久而久之就没有用户了，你啊，涂样！拿衣服！\n\nGoogle 花 300 亿的中心，我们每个用户浏览的视频流量花它多少钱？九亿牛一毛都没有。更何况，有一大部份钱是花在了存储几乎没人看的视频上的。而反正我们看视频的时候，也是要下一份下来的。反正本来 Google CDN 里，也是要按照视频的流行程度去做地区冗余的。更不用说，实际上花在数据中心上的钱，存储只是其中最少的一部分。\n\n并不是要规模大才吸引人，而是吸引人了规模才会变大（虽然在中国可能是反过来的）。ZeroNet 的希望之处正在于，规模越大，它的资源也就越多，重点是要如何吸引人。担心存不下东西完全是多余的，现在的电脑界，最便宜的就是存储了。",
+				"added": 1467883969
+			},
+			{
+				"comment_id": 3,
+				"body": "发现对于 Tor 的反驳不够有力，给一个 Akamai 的报告：https://www.akamai.com/cn/zh/multimedia/documents/state-of-the-internet/2015-q2-cloud-security-report.pdf ，里面对 Tor 的流量统计是非 Tor 流量的 0.04%。Tor 的节点则有 6971 个：http://torstatus.blutmagie.de/ 。",
+				"added": 1467887404
+			},
+			{
+				"comment_id": 7,
+				"body": "> [p2p](#comment_182_13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ): https://github.com/mikehearn/bitcoin看看那家伙对Bitcoin Core的fork，代码停留在3年前。“邀请他”，跟“他做出了贡献”是两码事吧\n\nMike Hearn 后来基本投入到 Bitcoin XT 了：https://github.com/mikehearn/bitcoinxt/commits/0.11D 。",
+				"added": 1467952463
+			},
+			{
+				"comment_id": 9,
+				"body": "> [p2p](#comment_183_13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ): 关键是bitcoinxt的watch、star、fork很少，可见没啥影响力。相当于另起炉灶，对Bitcoin Core的贡献少，更称不上“核心开发者”\n\n你对于影响力的理解只是数 Star 和 commit 么。所谓「核心」，是指贡献的意义。Mike Hearn 是 4 个 BIP 的作者，其中两个 Final 关乎付款协议，一个 Draft 关乎瘦客户端认证，都对 Bitcoin 的应用意义重大。\nhttps://github.com/bitcoin/bips/search?utf8=%E2%9C%93&q=Mike+Hearn\n更不用说，Bitcoin XT 作为一个不受官方支持的分支，333 Star 已经是对 Mike Hearn 的极大认可了。Gavin Andresen 的类似 fork 只有 64 Star：https://github.com/gavinandresen/bitcoin-git/commit/5f46da29fd02fd2a8a787286fd6a56f680073770",
+				"added": 1468176193
+			},
+			{
+				"comment_id": 11,
+				"body": "> [p2p](#comment_185_13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ): 总共150多个BIP，4个真的算多么？而且其中两个Final还是跟别人共同署名。BIP只是提案，还只是纸上谈兵，真正贡献当然还要看commits对比一下这两个吧（你没有看错，第一个链接只有3个commits）：https://github.com/bitcoin/bitcoin/commits/?author=mikehearnhttps://github.com/bitcoin/bitcoin/commits/?author=gavinandresen\n\n我反对的只是你说的 Mike Hearn「是个小角色」而已，可没有说他的贡献比肩 Gavin Andresen 。你现在对「小角色」的标准已经上升到了「有4个BIP」以及「能和 Gavin Andresen 比 commit 数」（我都说了，结果你还是在数 commit 数）的地步了，既然你那么看不起 Mike Hearn，我也没什么别的好说。\n\n科普：\n\n> BIP只是提案，还只是纸上谈兵\n\nFinal （终稿）的 BIP 都是已经实现的，Draft （草稿）的 getUTXO BIP 也是已经由 Mike Hearn 在 [你搜到的 commit ](https://github.com/bitcoin/bitcoin/commit/da2ec100f3681176f60dec6dc675fc64147ade3a)里实现了，而且现在由所有 SPV 客户端在依赖着的功能，也已被提案升级 Final 两次，只是 Mike 已离开，由于确认程序走不完才留为 Draft。这也算是互联网项目合作的一个惯例了，实现了的提案就留在提案索引里作为文档，Python 的 PEP，IETF 的 RFC，都是如此。",
+				"added": 1468306434
+			}
+		],
+		"14_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf": [
+			{
+				"comment_id": 4,
+				"body": "Github trend.\n\nI see a swarm of torrentfreak. You guys can just upvote a single \"Torrentfreak\" post you know.",
+				"added": 1467888107
+			}
+		],
+		"1_1ET7iT2Cot3uksKiR9TEvj5RSpqRUgJiso": [
+			{
+				"comment_id": 5,
+				"body": "You are better using the stickied testing message thread.",
+				"added": 1467888154
+			}
+		],
+		"10_1MEWJRMLgvofqG9Mbsb2Rc4hFFyv7HeRx7": [
+			{
+				"comment_id": 6,
+				"body": "You should first know what you expect from the Deep Web. Anonymity then no.",
+				"added": 1467888272
+			}
+		],
+		"4_1Ci5Y4TxZwY1SQhvQR7Ttbdyyai4WRV5TU": [
+			{
+				"comment_id": 8,
+				"body": "Gentoo to stay away from systemd nonsense. Depending on your use case BSD may even be better.",
+				"added": 1468081024
+			}
+		],
+		"1_15JNF8bdyG4zEWVASsgbkFirzM6gyYpSBA": [
+			{
+				"comment_id": 10,
+				"body": "> [chinabiz](#comment_24_1DWrKbEomgBLHjczm1HkP556Vg68ewDmyd): Wechat is NOT e2e encrypted, be careful with that. ... I use WhatsApp for family back in the UK, it's adequate and secure enough for that.\n\nThanks for sharing. I do get jealous that you have at least WhatsApp for backup. With Pub-sub Accounts and Circle, WeChat has built up strong network effect so I don't think I can migrate my family to WhatsApp.\n\n> For local communication here in China I have setup my own ejabberd server in a VB and I use that with conversations for mobile communications, which also has OTR and OMEMO protocols built in, the latter is the same protocol used in Signal and WhatsApp and now seems to be the new standard for messaging encryption, taking over from OTR simply because it allows offline messages and group chats, which is what OTR falls short on.\n\nI'd appreciate a lot if you could offer some experience on running VM instance of ejabberd or share your instance. I'd love to chat more about privacy aware technical solutions. If I have the honor, my jabber ID is 3534 at jabber.at.\n \n> For the PC I use a mixture of apps, they are pidgin with OTR for friends that like something easier to use and setup, and retroshare and bitmessage for friends who are a little more technically able.\n\nAlso of interest are ways to convince friends to use Signal and XMPP. I've found Jitsi to be more feature-rich out of the box, but still, network effect is strong. The fact that Signal Desktop is on Google Chrome Webstore which is blocked doesn't help.",
+				"added": 1468212078
+			}
+		]
+	},
+	"comment_vote": {
+		"176_13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ": 1,
+		"1_18eygAvFKgPPhN6GpEqr21p4ocxmtzpXtY": 1,
+		"3_1Buq4fyG8B3MxAvs7h4bASyWbrKFxmg4CJ": 1,
+		"1_13Xd2FuuSKJkdmdKvJ4k37rVg8W7jUu41i": 1,
+		"24_1DWrKbEomgBLHjczm1HkP556Vg68ewDmyd": 1,
+		"112_14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx": 1,
+		"1_1511upi2bbwa6tQhgnYiuVGLwS53oL7FaA": 1,
+		"28_1DWrKbEomgBLHjczm1HkP556Vg68ewDmyd": 1,
+		"2_1EtRNxxZF7PdRNU5ka1yiAbAL9mbzKWnaE": 1,
+		"37_1DWrKbEomgBLHjczm1HkP556Vg68ewDmyd": 1
+	}
+}

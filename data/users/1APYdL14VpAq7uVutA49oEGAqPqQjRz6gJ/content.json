@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HHyYHGk8Q33TyNh0oBg3NRAvhYJHPDWHwo+KfLMZ2dNPsqujRJq/wZJGJlJSoa5xrghYGEkv3suypLCsn6mVe84=",
+ "cert_user_id": "kektopia@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "57064f7b64b59f9e608a41129d724786e0319e5b8481fa8462ced3752fd179a8",
+   "size": 426
+  }
+ },
+ "inner_path": "data/users/1APYdL14VpAq7uVutA49oEGAqPqQjRz6gJ/content.json",
+ "modified": 1467698332.743,
+ "signs": {
+  "1APYdL14VpAq7uVutA49oEGAqPqQjRz6gJ": "HAT8jQaidR5rV0S85E0Ap70pU6IgoUpKbRLYMKwWfZpDz/fcGAeF47PykAhYdptyNEs+0YEg3KeExc48fJe7NBI="
+ }
+}

@@ -1,0 +1,30 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "Does Zeronet auto update itself?",
+			"body": "The first time you launch it downloads the latest version, but going forward, does it continue to update itself?",
+			"added": 1460246100
+		}
+	],
+	"topic_vote": {},
+	"next_comment_id": 3,
+	"comment": {
+		"2_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": [
+			{
+				"comment_id": 1,
+				"body": "hello",
+				"added": 1459382229
+			}
+		],
+		"1_1D23PF8qUcwm4ZfjKgThcH4wnVQWzue6Jo": [
+			{
+				"comment_id": 2,
+				"body": "Cool, thanks!\n\n> [nofish](#comment_597_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): Not automatically, but you can make it update to latest development version by pressing the ... > Version menu item on ZeroHello.\n> If new important and tested version is out you will see a notification message.",
+				"added": 1460414403
+			}
+		]
+	},
+	"comment_vote": {}
+}

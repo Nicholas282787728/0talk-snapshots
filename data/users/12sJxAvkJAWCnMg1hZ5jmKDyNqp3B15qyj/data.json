@@ -1,0 +1,34 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {
+		"1_1JpAsfEeBYdr8U3DtAzj8SyczL5Gx1EtQ9": 1
+	},
+	"next_comment_id": 4,
+	"comment": {
+		"2_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": [
+			{
+				"comment_id": 1,
+				"body": "And that is how we learned to test.",
+				"added": 1473181175
+			},
+			{
+				"comment_id": 3,
+				"body": "When I think about you I touch myself.",
+				"added": 1473205678
+			}
+		],
+		"7746_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG": [
+			{
+				"comment_id": 2,
+				"body": "Surely the FBI will obey.",
+				"added": 1473182403
+			}
+		]
+	},
+	"comment_vote": {
+		"751_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"2_1LbrfmRD97CBrdHzVnxi4xBGNjQVT2Je5c": 1,
+		"1_1LbrfmRD97CBrdHzVnxi4xBGNjQVT2Je5c": 1
+	}
+}

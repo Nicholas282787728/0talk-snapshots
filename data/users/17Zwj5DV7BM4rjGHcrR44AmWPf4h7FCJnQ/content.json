@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HILpRMDIWNkaSFX99fSsf44JqBQBiHr1BADBM3dNv3ulIQcwv3hci/gKQBH/QnQM11IPWe732GgJRsA2bB8YsZs=",
+ "cert_user_id": "teflon@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "e750e4f5a53285886f5807831f0be5e7d7621aa1a0fa50ba9b7cc513dfeb913e",
+   "size": 526
+  }
+ },
+ "inner_path": "data/users/17Zwj5DV7BM4rjGHcrR44AmWPf4h7FCJnQ/content.json",
+ "modified": 1470107024.975,
+ "signs": {
+  "17Zwj5DV7BM4rjGHcrR44AmWPf4h7FCJnQ": "G0dLmfCgycda+KbiQnNv2ox9EZpN4AxmgJZzIT1Z6HfJiPbtbmpHRkpVwCf/cjSeH5vtFSwdxHfzmyUkrjZx2HM="
+ }
+}

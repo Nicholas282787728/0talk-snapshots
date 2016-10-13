@@ -1,0 +1,28 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 4,
+	"comment": {
+		"2_13BepSu3vkeSQB3ZWkCDg7Lu5w64tfpeTa": [
+			{
+				"comment_id": 1,
+				"body": "> [ks](#comment_47_14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx): Well, you can always create a new site with siteCreate, then copy stuff from an otherwise uncloneable site to the newly created site and the sign the contents, if that's what you mean.\n\nThis isn't good...",
+				"added": 1458823349
+			},
+			{
+				"comment_id": 2,
+				"body": "> [erkan](#comment_88_1H8oKiRa7fGgUqS1hpUtaSYLvAqkaknbkf): Can you explain why you think like that?Check out also: Thoughts about ZeroNet (opensource, licence, ...)\n\nwhat do you think if i clone your site and i use it for do mistakes",
+				"added": 1458824979
+			},
+			{
+				"comment_id": 3,
+				"body": "> [erkan](#comment_89_1H8oKiRa7fGgUqS1hpUtaSYLvAqkaknbkf): Thank God, I am not in medical, legal/lawyer business ;-)And, thank God, my most important sites have a .bit domain\n> Well, BUT I know what you mean: impersonating and stuff like that could be done \"easily\"The most recent example I have in mind is: shapeshift.io and shapeshit.io\n\nthats it, for me the possibility of clone is a problem",
+				"added": 1458825349
+			}
+		]
+	},
+	"comment_vote": {
+		"47_14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx": 1
+	}
+}

@@ -1,0 +1,94 @@
+{
+	"next_topic_id": 6,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "Zeronet mail questions?",
+			"body": "Hi I have some questions for zeronet mail ?\nFirst Question is what encryption use zeronet mail ?\nSecond Question is witch programing language is writen the code witch use this mail service ?",
+			"added": 1451742372
+		},
+		{
+			"topic_id": 2,
+			"title": "Database encryption",
+			"body": "Hi please add option to encrypt all database of downloaded web site with random aes 256 bit key and random salt for every diferent web site.",
+			"added": 1453803472
+		},
+		{
+			"topic_id": 3,
+			"title": "Integrate Zeronet in Tails Os",
+			"body": "Hi please integrate Zeronet in Tails Os . Tails is Debian based Os . Tails is anonymous Os witch use tor network .\nAll system loaded in ram memory .\nOfficial web site \nhttps://tails.boum.org\nPlease contact with Tails Dev team \n tails@boum.org\nIt will be cool to see Zeronet in Tails OS .",
+			"added": 1453939721
+		},
+		{
+			"topic_id": 4,
+			"title": "Zeronet audit",
+			"body": "We must make security audit of zeronet source code.",
+			"added": 1462023638
+		},
+		{
+			"topic_id": 5,
+			"title": "Opsec for hackers",
+			"body": "1 Create new persona(cover )\n2 Work on the legend (history, background, \nsupporting evidence for the persona)\n3 Create sub-aliases\n\n4Never reveal your operational \ndetails\n5 Never reveal your plans \n6Never trust anyone\n7 Never operate from your house \n8Keep personal life and hacking \nseparated\n9  Don’t attract attention\n10 Always use Tails Os \nSource http://grugq.github.io/presentations/Keynote_The_Grugq_-_OPSEC_for_Russians.pdf",
+			"added": 1463342375
+		}
+	],
+	"topic_vote": {
+		"1_1NibKcCcidCHue94Rhr7F4Gvu3Lg6FAESp": 1,
+		"2_1NibKcCcidCHue94Rhr7F4Gvu3Lg6FAESp": 1,
+		"3_1NibKcCcidCHue94Rhr7F4Gvu3Lg6FAESp": 1,
+		"4_1NibKcCcidCHue94Rhr7F4Gvu3Lg6FAESp": 1,
+		"5_1NibKcCcidCHue94Rhr7F4Gvu3Lg6FAESp": 1,
+		"8_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1
+	},
+	"next_comment_id": 8,
+	"comment": {
+		"1_1NibKcCcidCHue94Rhr7F4Gvu3Lg6FAESp": [
+			{
+				"comment_id": 1,
+				"body": "Thanks . How long message are keept in the p2p network?\nIs this posible to use this service under Tor ?",
+				"added": 1451744363
+			},
+			{
+				"comment_id": 2,
+				"body": "Please add in future versions PGP support.",
+				"added": 1451784059
+			}
+		],
+		"2_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": [
+			{
+				"comment_id": 3,
+				"body": "Testing",
+				"added": 1453802985
+			},
+			{
+				"comment_id": 6,
+				"body": "Hello",
+				"added": 1462015342
+			}
+		],
+		"2_1MCsyW6W243LY69ZYm99XbV3M8Gbbrp5hF": [
+			{
+				"comment_id": 4,
+				"body": "https://www.privateinternetaccess.com/",
+				"added": 1457805879
+			},
+			{
+				"comment_id": 5,
+				"body": "This is the best !",
+				"added": 1457805895
+			}
+		],
+		"4_1NibKcCcidCHue94Rhr7F4Gvu3Lg6FAESp": [
+			{
+				"comment_id": 7,
+				"body": "We must find a team of good programers. \nWe have 2 options \nFist to pay to someone to make security audit of zeronet source code .\nSecond to find people voluntary to make security audit on zeronet source code of every new version of this protocol.",
+				"added": 1462023997
+			}
+		]
+	},
+	"comment_vote": {
+		"2_1NibKcCcidCHue94Rhr7F4Gvu3Lg6FAESp": 1,
+		"7_1NibKcCcidCHue94Rhr7F4Gvu3Lg6FAESp": 1,
+		"36_1DWrKbEomgBLHjczm1HkP556Vg68ewDmyd": 1
+	}
+}

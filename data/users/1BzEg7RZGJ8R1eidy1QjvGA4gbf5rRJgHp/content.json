@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HPOeii+oMpsWfuQf+S3IqbwYQ6Gl4FONhgrtswVhoy9EqyXr80u74V1mwRjVMyTORV6xWGRunsVv/hxjydU9fF0=",
+ "cert_user_id": "inhalethememes@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "dc42e7010d92d78e27bb6cbccb8ed50394e070fbc82d9e663e2258c0c23231e3",
+   "size": 252
+  }
+ },
+ "inner_path": "data/users/1BzEg7RZGJ8R1eidy1QjvGA4gbf5rRJgHp/content.json",
+ "modified": 1473000867.106781,
+ "signs": {
+  "1BzEg7RZGJ8R1eidy1QjvGA4gbf5rRJgHp": "HA0w3PS4k/rpq7y/OrDGT6IRpqDLVbSA0pZUzepL34tKpX/PoSTePADJtscCMKTltQxTEr+AfANNoOi2DLJwvlg="
+ }
+}

@@ -1,0 +1,1170 @@
+{
+	"next_topic_id": 12,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "WebTorrent Brings BitTorrent to the Web, Impresses Netflix",
+			"body": "BitTorrent currently transfers petabytes of data across the Internet every month, but with the shift to online streaming it's losing prominence. Stanford University graduate Feross Aboukhadijeh is bridging this gap with WebTorrent and has already piqued the interest of Netflix, other tech companies, and many enthusiastic developers.\n\nhttps://torrentfreak.com/webtorrent-brings-bittorrent-to-the-web-impresses-netflix-151213/",
+			"added": 1450572644,
+			"parent_topic_uri": "1_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG"
+		},
+		{
+			"topic_id": 2,
+			"title": "Problem with ZeroSearch?",
+			"body": "For me it shows `Currently indexing 0 sites`\n\nCan anyone confirm if it's just me?",
+			"added": 1453687608
+		},
+		{
+			"topic_id": 3,
+			"title": "Forbidden Media referrer error",
+			"body": "Opening [this](http://127.0.0.1:43110/1QLLPpowM6BWxKYKops1WkCafuFPhFBnAx/muja.asc) through a link [here](http://127.0.0.1:43110/1AyL9MfHbV8nxPBmZpocuVZ6d2JixUPTdv/?Post:9:Internet+Killswitch+Engaged+%28Again+%29#Comments) caused this error. \n\nAccessing the address from a new tab (not clicking the link) works fine. Anyone knows what's up?\n\nEdit: the link doesn't work here either, is this just me?",
+			"added": 1454950654
+		},
+		{
+			"topic_id": 4,
+			"title": "Invalid private key for ZeroMail",
+			"body": "I get this whenever I try to send any emails:\n\n> Site:1MaiL5..Ju27 data/users/17i7Y7r8nTaCfLbCAuaKyc4R5BbKZYU2Hr/content.json: Include too large 30999 > 30000\n> Site:1MaiL5..Ju27 Sign failed: Invalid content\n\nand\n\n`Content sign failed: invalid private key.` in the UI.\n\nAnyone knows what's up?",
+			"added": 1455241889
+		},
+		{
+			"topic_id": 5,
+			"title": "How does P2P news flow work?",
+			"body": "[P2P news flow](http://127.0.0.1:43110/Talk.ZeroNetwork.bit/?Topics:1_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG/P2P+news+flow)",
+			"added": 1455293270
+		},
+		{
+			"topic_id": 6,
+			"title": "Chimera Ransomware uses a Peer-To-Peer Decryption Service (BitMessage)",
+			"body": "[Chimera Ransomware uses a Peer-To-Peer Decryption Service](http://www.bleepingcomputer.com/news/security/chimera-ransomware-uses-a-peer-to-peer-decryption-service/)",
+			"added": 1455331599,
+			"parent_topic_uri": "1_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG"
+		},
+		{
+			"topic_id": 7,
+			"title": "What podcasts (if any) do you listen to?",
+			"body": "Alternatively, what podcasts do you recommend people to listen to?",
+			"added": 1457317702
+		},
+		{
+			"topic_id": 8,
+			"title": "Is it possible to limit posts per page on a zeroblog clone?",
+			"body": "",
+			"added": 1458486199,
+			"parent_topic_uri": "3_1PVcdu7USZH2kHMETbqDYLPjJZKCDWM52k"
+		},
+		{
+			"topic_id": 9,
+			"title": "How many site addresses are possible?",
+			"body": "Are there 2^160 possible sites, the same as bitcoin addresses?",
+			"added": 1458488463
+		},
+		{
+			"topic_id": 10,
+			"title": "What email provider would you recommend as the (apparently) most secure?",
+			"body": "",
+			"added": 1458703358
+		},
+		{
+			"topic_id": 11,
+			"title": "What cloud storage service do you use?",
+			"body": "http://127.0.0.1:43110/ZeroPolls.bit/?Poll:1-17i7Y7r8nTaCfLbCAuaKyc4R5BbKZYU2Hr",
+			"added": 1461854160
+		}
+	],
+	"topic_vote": {
+		"4_1QH84f44yLPvMjMua9s7iM7c4RoJNZ2nTp": 1,
+		"1_17i7Y7r8nTaCfLbCAuaKyc4R5BbKZYU2Hr": 1,
+		"2_18NqMTQeSD7cAKEcnAdFEBQYJCxHgFXSzk": 1,
+		"2_1PaX4LQSsjsJvTNqfZbAApgmgzBJjrkRqZ": 1,
+		"13_1ED3Ho3kmzaKiECtyuqSjDpoE47rKuXeP": 1,
+		"1_1C7rjaNpWFAtWbQgSxbGaPzBdgCA47VYc6": 1,
+		"1_1MmPY9fniJwwhP6WsgH4jWoq5rBAVV6KWy": 1,
+		"1_1MBZrgSwMQMRnMFjQkw2JpwdWRaKo7Eb55": 1,
+		"1_1FQzw6BBWb8DqSgT3uMsMpcWu3uz48bEDX": 1,
+		"2_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"2_16iYwD5U2fNoS22p6447J7992iL3DHjSHY": 1,
+		"1_12Ex3Mrd75wY2r5rB21jBcmgj9hxwUK1w2": 1,
+		"2_12Ex3Mrd75wY2r5rB21jBcmgj9hxwUK1w2": 1,
+		"2_1QBLGLcgKfcpfLmiDYuDzUKVXFfmTAew55": 1,
+		"1_198jKSKMzpRxH5C81bXojho2xGcTxXXcqc": 1,
+		"1_1HssfkW9ci8VxnF6va1x6qJRyYu7DoNq5N": 1,
+		"5_1QBLGLcgKfcpfLmiDYuDzUKVXFfmTAew55": 1,
+		"4_13KqD3BoaRMudEG5QU2fnGLkSVx8qDXKof": 1,
+		"3_168qV1Xxp2EyszrzdECLUwXrn9wGYjDdar": 1,
+		"1_167eTX5f6jJt4HPvfQqf2QuwdTFCnxJCf2": 1,
+		"1_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG": 1,
+		"11_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf": 1,
+		"1_1M5ztUWkCMP5Pv7MjwApWT7CNvWimGFaFa": 1,
+		"3_17i7Y7r8nTaCfLbCAuaKyc4R5BbKZYU2Hr": 1,
+		"1_14H6RNueAm4HmAHjd3WEb4v9TeFEMthAZq": 1,
+		"10_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf": 1,
+		"5_167eTX5f6jJt4HPvfQqf2QuwdTFCnxJCf2": 1,
+		"3893_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG": 1,
+		"3907_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG": 1,
+		"3908_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG": 1,
+		"3909_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG": 1,
+		"3910_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG": 1,
+		"3911_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG": 1,
+		"3912_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG": 1,
+		"3913_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG": 1,
+		"3914_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG": 1,
+		"3915_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG": 1,
+		"14_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf": 1,
+		"3916_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG": 1,
+		"3917_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG": 1,
+		"3921_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG": 1,
+		"3922_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG": 1,
+		"3923_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG": 1,
+		"3927_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG": 1,
+		"3928_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG": 1,
+		"3929_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG": 1,
+		"3930_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG": 1,
+		"3933_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG": 1,
+		"3934_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG": 1,
+		"4_17i7Y7r8nTaCfLbCAuaKyc4R5BbKZYU2Hr": 1,
+		"3943_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG": 1,
+		"3939_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG": 1,
+		"3944_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG": 1,
+		"6_17i7Y7r8nTaCfLbCAuaKyc4R5BbKZYU2Hr": 1,
+		"3960_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG": 1,
+		"2_1L4fuhUB75eAdVbDY9AJ4z2i2dwMho7MV8": 1,
+		"1_1FJFF8d4B5LQ9jJinqBRxqCR7RHbHPxBfv": 1,
+		"12_1PNyuY1iZqXBpft4ArouqcnE4pNRGYij5i": 1,
+		"2_1F6BMqittjWUStzUbRXm2kG2GQ3RdBLqFQ": 1,
+		"3999_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG": 1,
+		"1_1ALXyaQsvvCQ3R5WBrPbe4dXsqnLCLEkB7": 1,
+		"1_1FLf4EythVqZASkMdARs4DXdHeugh3USYq": 1,
+		"1_1EUyJtat7mbu5wMcR6nrJTPBBRons1mtMA": 1,
+		"2_1EUyJtat7mbu5wMcR6nrJTPBBRons1mtMA": 1,
+		"1_13NzkresWLd7Eda21KhEWox3BqrASnVTyD": 1,
+		"1_1GCMDNMgJHvZJfdbD9ygDmpBdnVAobdJYg": 1,
+		"1_1Kg7CXZM5h3wTPENsTDwWUmRBf9VhYy2cW": 1,
+		"6_17fgJ3tZjhM7HCkTkd5TWf2BLLWmhRKcXB": 1,
+		"4380_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG": 1,
+		"6_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1,
+		"3_1PVcdu7USZH2kHMETbqDYLPjJZKCDWM52k": 1,
+		"2_1MCsyW6W243LY69ZYm99XbV3M8Gbbrp5hF": 1,
+		"5_1LRrd96P7FiTcsyNXVzPM5jtpQoH1B4gYf": 1,
+		"1_15kuNrNeQtVRmDqENgbCqw6s3mG9noQ7zA": 1,
+		"7_17n5jg4bBEoWodXDf8L4Y2u88ShagS272Y": 1,
+		"9_1LRrd96P7FiTcsyNXVzPM5jtpQoH1B4gYf": 1,
+		"8_1DcDDitsjFJohvwonPmpibRChmA7uGxqL7": 1,
+		"7_1LJMypJ67iEBwah82xwVVdB8SGZ1mwqgHQ": 1,
+		"1_15P5kZhBwmwiuBmSUBSkBsT2DLEUYvn24u": 1,
+		"1_18ZfPCaU1pYAeos3A7YhZVgtsmXqXeRRW7": 1,
+		"3_1FieP4c1gxFme5webFJB9x5ZPBXdR6p3Fs": 1,
+		"8_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"43_1GtJqyJRsuZhmxVtw5USgvqGbUmVH7EmBD": 1,
+		"1_17GoSBQa419SCrJkj4djvTAgRFCDWHKuM3": 1,
+		"1_1By85xCDz7VyZEq9WjmhtbNaPKimQwhPLp": 1,
+		"2_17GoSBQa419SCrJkj4djvTAgRFCDWHKuM3": 1,
+		"2_1Frg5nFndHFkmUaaGK7Qr46dRLX8a2BhBT": 1,
+		"1_14oc4TdKFZgv764PavBYPQc15qQgmd7jgL": 1,
+		"14_1CMjV2r4EBpFt8VCcWWZKDysZXPcPExRNN": 1,
+		"3_13y1BVkYsWXbNMjdk2PrRVwpuXqohTRNHi": 1
+	},
+	"next_comment_id": 91,
+	"comment": {
+		"2_16iYwD5U2fNoS22p6447J7992iL3DHjSHY": [
+			{
+				"comment_id": 1,
+				"body": "If someone managed to make it work and then the error (`TorManager Tor controller connect error: [Errno 111] Connection refused`) came back, using `sudo /etc/init.d/tor restart` again fixed it for me.",
+				"added": 1453686207
+			}
+		],
+		"2_17i7Y7r8nTaCfLbCAuaKyc4R5BbKZYU2Hr": [
+			{
+				"comment_id": 2,
+				"body": "Works [here](https://zeronet.classcoder.com/zerosearch.bit)",
+				"added": 1453687722
+			},
+			{
+				"comment_id": 4,
+				"body": "I've got this on Linux: `Site:1Zeroe..G8ER data/users/16iYwD5U2fNoS22p6447J7992iL3DHjSHY/data.json file size does not match 242 <> 437, Hash: False`\n\nDeleting the site did not fix the problem.",
+				"added": 1453773978
+			}
+		],
+		"2_1789XcRxNBxCsCTWFhhGsbmjrmg4XX4QPL": [
+			{
+				"comment_id": 3,
+				"body": "Don't we all",
+				"added": 1453756513
+			}
+		],
+		"2_12Ex3Mrd75wY2r5rB21jBcmgj9hxwUK1w2": [
+			{
+				"comment_id": 5,
+				"body": "I think you'd need a new zeronet folder and then create another ZeroID from there.",
+				"added": 1453899378
+			},
+			{
+				"comment_id": 6,
+				"body": "> [0nu](#comment_5_13zgtd1L3F7145JTZCJ2sdR5BdbdCV7v9M): Another way would be to enable the 'multiuser' plugin (mv plugins/disabled-Multiuser plugins/Multiuser).\n\nThis is way better. Thanks!",
+				"added": 1453904580
+			}
+		],
+		"3_168qV1Xxp2EyszrzdECLUwXrn9wGYjDdar": [
+			{
+				"comment_id": 7,
+				"body": "Time. http://127.0.0.1:43110/14PXVfjDXiQm6o6qCEX487WPYdLgefjCXe",
+				"added": 1454424448
+			},
+			{
+				"comment_id": 8,
+				"body": "> [zozon](#comment_31_1QBLGLcgKfcpfLmiDYuDzUKVXFfmTAew55): made a test site does it count?\n\nsure!",
+				"added": 1454458839
+			},
+			{
+				"comment_id": 9,
+				"body": "QR Code Generator: http://127.0.0.1:43110/1DrX4tBjLbCCzmFzgASSEEkj4TisnU2JBb",
+				"added": 1454776082
+			},
+			{
+				"comment_id": 11,
+				"body": "> [ekaterina](#comment_14_1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD): I worked through the tutorial on ZeroBlog to learn how to create sites for ZeroNet, and instead of creating yet another chat I slightly changed the code from the tutorial and created the site ZeroQuotes, which lets you submit quotes from famous (or fictional) people and browse quotes submitted by other users: http://127.0.0.1:43110/1NJyPoPpL8At17T6G7A1qHVQdqZDBmXcLT\n> I've also started a blog where I'll update my progress on developing sites for ZeroNet: http://127.0.0.1:43110/1Kp5xdjQyrPth5mEJsn6NDBKZxcaeYz86N\n\nVery nice!",
+				"added": 1454796356
+			},
+			{
+				"comment_id": 12,
+				"body": "A blog featuring street art delivered through **IPFS**. http://127.0.0.1:43110/18pRWVHHojR2DjfYQvuLe3GBtB1W32Hwbb",
+				"added": 1454799826
+			},
+			{
+				"comment_id": 13,
+				"body": "> [ow](#comment_18_13KqD3BoaRMudEG5QU2fnGLkSVx8qDXKof): Am I understanding this right? Someone has the domain and server what is running IPFS and that is the site that is the third party hosting the content. It is not delivered through IPFS to the users, it is delivered to the server through IPFS but then is forward to the users. Correct?\n> This server and domain are a man in the middle, yeah? Probably a good server for now, but still a eavesdropper, unlike the actual IPFS protocol design?\n\n[ipfs.pics](https://ipfs.pics/), different from the [ipfs.io](https://ipfs.io/) gateway, keeps a copy of the image locally, which should decrease the loading time without relying only on a central server. \n\nIt's free software, so I don't have a problem with this, but you are right, it IS a mitm.\n\nI think I'd rather use the local version, though.\n\n[Public gateway](https://ipfs.io/ipfs/QmYoYK7LcjALwCa8ZXYSgGJRSmav4SGyrfRFLQq8ML2K9x), [local](http://127.0.0.1:8080/ipfs/QmYoYK7LcjALwCa8ZXYSgGJRSmav4SGyrfRFLQq8ML2K9x) and [ipfs.pics](https://ipfs.pics/ipfs/QmYoYK7LcjALwCa8ZXYSgGJRSmav4SGyrfRFLQq8ML2K9x)",
+				"added": 1454802382
+			},
+			{
+				"comment_id": 19,
+				"body": "> [muja](#comment_13_17i7Y7r8nTaCfLbCAuaKyc4R5BbKZYU2Hr): \n> I think I'd rather use the local version, though.\n\nNow the [site](http://127.0.0.1:43110/18pRWVHHojR2DjfYQvuLe3GBtB1W32Hwbb) uses ipfs.io and I created [another](http://127.0.0.1:43110/1L8ujYEH24bg7QTJaqe9h6LEi5GQxkvhiG) one that uses the local address.",
+				"added": 1454981565
+			},
+			{
+				"comment_id": 24,
+				"body": "ZeroNet Documentation: http://127.0.0.1:43110/17Kom2G5qNDc6NaQwv445h1gFzxkY3ZtZe",
+				"added": 1455071148
+			},
+			{
+				"comment_id": 25,
+				"body": "> [nofish](#comment_246_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): Tor browser denies canvas operations that required to dynamically generate images. (The opener present error will be fixed, i'm currently working on it)\n\nThe fix came. Nice workaround, works great.",
+				"added": 1455086162
+			},
+			{
+				"comment_id": 31,
+				"body": "Checkout [DAN](http://127.0.0.1:43110/183hZtmtXXB3vxZTn3WYbjVWtAsoVEtRXN/?Post:1:Welcome+to+the+Deavmi+Archive+Network!). User @Deavmi published forums for different subjects tech-related.",
+				"added": 1455333873
+			},
+			{
+				"comment_id": 34,
+				"body": "> [lukipuki](#comment_4_1CMYxdit4qq9QGk9DYRu2ruRPd2YDGckH8): I am thinking about adding some (really) huge high quality images as well, but I am not sure about it yet.\n\nIf you add `\"optional\": \"(img)\",` to your content.json file, then the user will only download the images they \"need\". So if someone gets a link to [this](http://127.0.0.1:43110/1HzKesHsWG3N96CfW9eC2aL9VKY7EDm2Zj/?Post:21:algorithmic_species) post they will only download those pictures (and the rest of the page), which makes the loading faster. \n\n[Here](https://github.com/HelloZeroNet/ReactionGIFs/blob/master/content.json#L1796)'s an example.",
+				"added": 1455897560
+			},
+			{
+				"comment_id": 35,
+				"body": "> [lukipuki](#comment_5_1CMYxdit4qq9QGk9DYRu2ruRPd2YDGckH8): where do I have to add this ( \"optional\": \"(img)\", ) ?\n\nYou can put it bellow `\"modified\": 1455899844.127144,` in your content.json file. Don't forget to sign and publish.",
+				"added": 1455914965
+			},
+			{
+				"comment_id": 37,
+				"body": "[Street Art](http://127.0.0.1:43110/18pRWVHHojR2DjfYQvuLe3GBtB1W32Hwbb) using optional files.",
+				"added": 1456272667
+			},
+			{
+				"comment_id": 40,
+				"body": "I finally made a blog. So far I have two posts showing some scripts of mine, that's probably what I'll keep sharing there from time to time. [Here](http://127.0.0.1:43110/1QLLPpowM6BWxKYKops1WkCafuFPhFBnAx).",
+				"added": 1456793117
+			}
+		],
+		"10_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf": [
+			{
+				"comment_id": 10,
+				"body": "Can't wait for the \"Github-like project hosting\" that was announced [here](http://127.0.0.1:43110/Blog.ZeroNetwork.bit/?Post:70:The+first+year+of+ZeroNet).",
+				"added": 1454776563
+			},
+			{
+				"comment_id": 17,
+				"body": "> [nofish](#comment_259_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): The \"Github-like project hosting\" was referenced as webui, you can already host git repositories on zeronet: just copy your .git directory and sign/publish it.\n\nI can't find the proposal on github, is there an issue there? I understand if it's not a priority though.",
+				"added": 1454963651
+			}
+		],
+		"11_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf": [
+			{
+				"comment_id": 14,
+				"body": "> [o4zw5vmpoz5hz78z](#comment_84_1KTjPe9MxoYkcXj78GuZgCcj3R3f3Twh7r): yeah i also thought about that i guess we need some kind of version management at some point\n\nI suggest using git in the site folder and add \"~~optional~~ **ignore**\": \"(.git*)\" to the content.json file. If someone gets your private key you are pretty much screwed already, but this would keep your data so that you could do something about it.",
+				"added": 1454941522
+			}
+		],
+		"1_15y72LFjQ4ymUTnkJP6CC7r73R5uoePgFW": [
+			{
+				"comment_id": 15,
+				"body": "> [bbtuxi](#comment_4_15y72LFjQ4ymUTnkJP6CC7r73R5uoePgFW): ach ist doch kacke... viel zu kompliziert.....\n\nToo hard? Was that what you said?\n\nHere are the steps:\n\npython zeronet.py siteCreate (**Creates the site**)\npython zeronet.py siteSign **Site Address Here** (_\"Saves\" the changes_)\npython zeronet.py sitePublish **Site Address Here** (_Sends the changes_)",
+				"added": 1454942235
+			}
+		],
+		"12_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf": [
+			{
+				"comment_id": 16,
+				"body": "> [o4zw5vmpoz5hz78z](#comment_89_1KTjPe9MxoYkcXj78GuZgCcj3R3f3Twh7r): yes! and pls put the wiki also into zeronet.\n\nI made a page using [Strapdown](http://strapdownjs.com/) but it would need to be updated manually and all pages would need to be made into HTML ones. It's doable though. [Here](http://127.0.0.1:43110/1jVJjppSiP1g7XEocHd3UB5Yb5qAfQyMy/faq.html) it is.",
+				"added": 1454962018
+			},
+			{
+				"comment_id": 20,
+				"body": "> [o4zw5vmpoz5hz78z](#comment_91_1KTjPe9MxoYkcXj78GuZgCcj3R3f3Twh7r): if you could do a script for that downloading the markdown file and compiling it and publishing to zeronet it would not be a problem to run it once a day or week\n> i see https://github.com/HelloZeroNet/Documentation is what i want\n\nI don't know how to add text inside the `<xmp></xmp>` tag with a command, any ideas?\nIf not we'll need a js renderer or something that converts in the browser. Maybe there are other ways to do it. \n\nThe script would pull the repository, _convert the files_, sign and publish. I would call it `0docs.sh`.",
+				"added": 1455052673
+			},
+			{
+				"comment_id": 21,
+				"body": "> [nofish](#comment_273_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): The Readthedocs.org site using http://www.mkdocs.org/ to generate the html files, so you can also use it and you will get the exact same look.\n\nCool. I think it worked. [Here](http://127.0.0.1:43110/17Kom2G5qNDc6NaQwv445h1gFzxkY3ZtZe).\n\nA few problems: \n\n- There's the `Forbidden: Opener present.` error whenever a new page is requested.\n- ~~Public proxies [zero.pags](http://zero.pags.to:43110/17Kom2G5qNDc6NaQwv445h1gFzxkY3ZtZe) and [bit.no](http://bit.no.com:43110/17Kom2G5qNDc6NaQwv445h1gFzxkY3ZtZe) failed to download the content.json file. [Classcoder](https://zeronet.classcoder.com/17Kom2G5qNDc6NaQwv445h1gFzxkY3ZtZe) works fine.~~ They're all working now.",
+				"added": 1455068363
+			},
+			{
+				"comment_id": 22,
+				"body": "> [nofish](#comment_277_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): Nice, the only problem I see is the loading screen is displayed every time when clicking on a sub-page link, I will look into it tomorrow.\n\nThank you :)",
+				"added": 1455068721
+			},
+			{
+				"comment_id": 23,
+				"body": "And here's the script I will use to update the site, suggestions are welcome:\n\n**0docs.sh**\n```\n#!/bin/bash\n\ncd /path/Documentation\ngit pull origin master\nmkdocs build --clean\ncp -ur site/* /path/zeronet/data/17Kom2G5qNDc6NaQwv445h1gFzxkY3ZtZe/\n\ncd /path/zeronet\npython zeronet.py siteSign 17Kom2G5qNDc6NaQwv445h1gFzxkY3ZtZe\npython zeronet.py sitePublish 17Kom2G5qNDc6NaQwv445h1gFzxkY3ZtZe\n```",
+				"added": 1455070713
+			}
+		],
+		"5_13KqD3BoaRMudEG5QU2fnGLkSVx8qDXKof": [
+			{
+				"comment_id": 18,
+				"body": "[Here](https://guides.github.com/features/mastering-markdown/)'s another good one.",
+				"added": 1454964210
+			}
+		],
+		"3893_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG": [
+			{
+				"comment_id": 26,
+				"body": "[Mike Hearn](https://medium.com/@octskyward/the-resolution-of-the-bitcoin-experiment-dabb30201f7#.y97e2r5gz)'s blog post.",
+				"added": 1455128502
+			}
+		],
+		"4_17i7Y7r8nTaCfLbCAuaKyc4R5BbKZYU2Hr": [
+			{
+				"comment_id": 27,
+				"body": "> [nofish](#comment_293_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): Fixed: Increased the limit. (auto delete old messages planned later)\n\nWorks now, thanks!",
+				"added": 1455243822
+			},
+			{
+				"comment_id": 28,
+				"body": "> [oracle](#comment_107_1ED3Ho3kmzaKiECtyuqSjDpoE47rKuXeP): Any plans for attaching files in zeromail?\n\nIf not, or meanwhile, we can use BitTorrent or WebTorrent (like https://btorrent.xyz/)",
+				"added": 1455291377
+			}
+		],
+		"3939_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG": [
+			{
+				"comment_id": 29,
+				"body": "[qBittorrent](https://github.com/qbittorrent/qBittorrent) for the win!",
+				"added": 1455293408
+			}
+		],
+		"5_17i7Y7r8nTaCfLbCAuaKyc4R5BbKZYU2Hr": [
+			{
+				"comment_id": 30,
+				"body": "> [nofish](#comment_295_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): Checks news on google, if new found add to user's json file, sign, publish: https://gist.github.com/HelloZeroNet/006347ed183e7f3721ff\n\nThanks",
+				"added": 1455297797
+			}
+		],
+		"2_1PPqTMbH8Uwrk496grUVuBk57dSoeU9hig": [
+			{
+				"comment_id": 32,
+				"body": "> [archtech](#comment_3_1FqvJqX8FrbhkgGX6ag8azqZSye7SqfAm1): My clock is messed up so it never keeps time correctly. Nothing I can really do. /n\n\nWindows?",
+				"added": 1455586779
+			},
+			{
+				"comment_id": 33,
+				"body": "Currently the best option to share large files is to use BitTorrent or WebTorrent (like [BTorrent](https://btorrent.xyz/)). The problem, as usual, is that your IP will be visible.",
+				"added": 1455586933
+			}
+		],
+		"25_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf": [
+			{
+				"comment_id": 36,
+				"body": "The closest I can think of is [Patreon](https://www.patreon.com/) but the developer would need to subscribe to it.",
+				"added": 1456003196
+			}
+		],
+		"4173_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG": [
+			{
+				"comment_id": 38,
+				"body": "> [ace](#comment_7_1An7ATsNMMNqRgSgB2upWwbpXgFXQ9E2XD): I am guessing that zeronews is a bot... either that or TOR has gotten into the oil business\n\nYou guessed right. [Here](https://gist.github.com/HelloZeroNet/006347ed183e7f3721ff)'s the source code. ; )",
+				"added": 1456506739
+			}
+		],
+		"2_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": [],
+		"2_1EUyJtat7mbu5wMcR6nrJTPBBRons1mtMA": [
+			{
+				"comment_id": 41,
+				"body": "Yes. If you remove the `data/users.json` file another one will be created when you start zeronet again. Or rename `plugins/disabled-Multiuser` to `plugins/Multiuser` to use the multiuser mode.",
+				"added": 1456870292
+			}
+		],
+		"1_1Q8iqH31cKCqynoJRxR2PfJhzQr8wHdiHr": [
+			{
+				"comment_id": 42,
+				"body": "How many peers are you seeing for Play?",
+				"added": 1456871692
+			}
+		],
+		"4_1KwTTgPRSTHFmmJAFBt6kQfdyNeSM5KJuH": [
+			{
+				"comment_id": 43,
+				"body": "That's an old joke, folks. People say that someone created the site and published the private key for anyone to change it. That's how it ended up.",
+				"added": 1456873479
+			}
+		],
+		"1_1ADB7TdX2fVbTsWBoMe9yBTmVXTbb33b4R": [
+			{
+				"comment_id": 44,
+				"body": "If it's your site, then I think all you need to do is add ` \"background-color\": \"black\",` to your `content.json` file. Don't forget to sign and publish.",
+				"added": 1456881710
+			},
+			{
+				"comment_id": 45,
+				"body": "If you wanted to change this site, ZeroTalk, then that's another story.",
+				"added": 1456881757
+			},
+			{
+				"comment_id": 47,
+				"body": "> [scrub](#comment_6_1ADB7TdX2fVbTsWBoMe9yBTmVXTbb33b4R): I'm trying to change the theme for all sites. Is that possible with ZeroNet?\n\nIt's not impossible, but I don't know a way to do it. What browser do you use?",
+				"added": 1456882132
+			},
+			{
+				"comment_id": 48,
+				"body": "> [scrub](#comment_8_1ADB7TdX2fVbTsWBoMe9yBTmVXTbb33b4R): I'm currently using Google Chrome. I have the extension DARK READER, but it doesn't seem to work with these websites (If I turn it on and off I can see it working for a split second).\n\nI did a quick search, try [this](https://chrome.google.com/webstore/detail/care-your-eyes/fidmpnedniahpnkeomejhnepmbdamlhl?hl=en). But now that you said it, I think the sites are loaded \"on top of\" the zeronet framework. Those are probably the wrong words but I mean that what you see in that split second is probably the thing behind the site.",
+				"added": 1456882675
+			}
+		],
+		"2_1ADB7TdX2fVbTsWBoMe9yBTmVXTbb33b4R": [
+			{
+				"comment_id": 46,
+				"body": "Take a look at [this](http://127.0.0.1:43110/Talk.ZeroNetwork.bit/?Topic:3_168qV1Xxp2EyszrzdECLUwXrn9wGYjDdar/NEW+WEBSITE+share+it+here) thread.",
+				"added": 1456881925
+			}
+		],
+		"1_1KXwZN8yqqDZTL5kE8bkkaZKAk9VPAxNFT": [
+			{
+				"comment_id": 49,
+				"body": "Like [this](http://127.0.0.1:43110/1LMG9b3mhvnfAiMpRccSNzvTbq6bYCQWLf)?",
+				"added": 1456969399
+			}
+		],
+		"1_1MBZrgSwMQMRnMFjQkw2JpwdWRaKo7Eb55": [
+			{
+				"comment_id": 50,
+				"body": "Here's another one: http://zeronet.crypt.cat:8080\n\nAlso, checkout [ZeroProxies](http://127.0.0.1:43110/14y3fN1A214HYdKe5f6WnQdfT3PdKLSAJo).",
+				"added": 1457204094
+			}
+		],
+		"2_1P97itWECWCYp7D73wY4GaTKUyUo4A3Pcf": [
+			{
+				"comment_id": 51,
+				"body": "Did you copy `user.json` or was that a typo? The actual file is `users.json`.",
+				"added": 1457208954
+			}
+		],
+		"3_1P97itWECWCYp7D73wY4GaTKUyUo4A3Pcf": [
+			{
+				"comment_id": 52,
+				"body": "Possible solution [here](http://127.0.0.1:43110/Talk.ZeroNetwork.bit/?Topic:2_1P97itWECWCYp7D73wY4GaTKUyUo4A3Pcf#comment_51_17i7Y7r8nTaCfLbCAuaKyc4R5BbKZYU2Hr).",
+				"added": 1457209137
+			}
+		],
+		"1_1Kg7CXZM5h3wTPENsTDwWUmRBf9VhYy2cW": [
+			{
+				"comment_id": 53,
+				"body": "> [thevideovault](#comment_10_1DfkDpkeDXGbHJ2ZT31DPvYr5xR59Jr8BA): \n> Personally I'm working on something but I need help from someone with experience developing Google Chrome extensions.\n\nWhat something would that be?",
+				"added": 1457209268
+			}
+		],
+		"1_154jAWx5PDRmvF4txGHo4Edw1BpduhDyvw": [
+			{
+				"comment_id": 54,
+				"body": "> [oracle](#comment_142_1ED3Ho3kmzaKiECtyuqSjDpoE47rKuXeP): \n\nWhile I understand your point, I have to disagree. Less than one year ago I was you; I \"hated\" coding and programming languages mostly because I couldn't understand it. After a series of fortunate accidents, I ended up learning more and more and now I fucking love it!\n\nIt's very easy (and understandable) to think that things that don't look simple are hard, but if you look close enough, you'll start to see that it's very logical and might end up liking it.\n\nFor instance, take a look at [this](https://guides.github.com/features/mastering-markdown/) guide to markdown. You'll see how simple and powerful it is.\n\nYou might still prefer a CMS, and that's ok, but the current state of zeronet is in no way difficult, you just need to look closer :)\n\nI would gladly help you with whatever issues you come up with (and surely more experienced people would as well) but I strongly believe that if you change your mindset to one of curiosity instead of disregarding it as hard, I'm sure that you'll eventually start to like it. After all, programming is the backbone of the twenty first century.",
+				"added": 1457266844
+			},
+			{
+				"comment_id": 55,
+				"body": "> [kaffie](#comment_53_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh): \n\n>I think you're missing the point. \n\nI don't see it that way. I think that you described the outcomes of what I described. I wrote about how people might get intimidated with programming and then the outcome is what you described; reddit moderators, myspace.\n\n> However, I do see this as an opportunity to educate people on how stuff actually works, and get them digging into code and learning about how websites work, rather than continue to rely on buttons.\n\nI agree. I even said as much here \"but if you look close enough, you'll start to see that it's very logical and might end up liking it.\"\n\n> All that being said, I love markdown. It's fantastic. It should honestly be a standard.\n\nAgreed!\n\nI think my tone was different. I focused on how to change a mindset, while you showed the result of the current mindset. I don't think we disagreed on this. Please correct me if I'm wrong.  :)",
+				"added": 1457270129
+			}
+		],
+		"1_13qeq1z87R1kQWDZUQYm3y7tDCLimnhfvS": [
+			{
+				"comment_id": 56,
+				"body": "I think that, at least for now, we should be the ones in charge of choosing and showing a license. See [this](http://127.0.0.1:43110/17pTf9tzLGxVQnRKGhg1M85DCXJ7YXPdv9) site for example. Even a small text line would be enough. \n\nWith time we could send a pull request for a key on the content.json file like `\"license\": \"GPL v3\",` but most people simply don't care. And since ZeroNet is licensed with GPL, can't we assume that all sites derived from it (clones, for example) are GPL-licensed as well?",
+				"added": 1457271706
+			}
+		],
+		"1_17oYQdLkvyzEVPH3hXRtK3ru4FLNKZUD3b": [
+			{
+				"comment_id": 57,
+				"body": "> [eventi](#comment_9_1DcDDitsjFJohvwonPmpibRChmA7uGxqL7): \n> Ideally I'd like to see a mechanism to selectively block certain identified users at the viewer's discression.  It doesn't seem too hard to do (in ZeroTalk for example)\n\nThis doesn't seem hard at all. We probably could do it today (with a few errors, probably). I imagine a script that would keep deleting the data/*/data/users/17i7Y7r8nTaCfLbCAuaKyc4R5BbKZYU2Hr/ folder (my user's folder). This would probably remove that user from your feed. The problem is that (I think) zeronet would keep downloading it. Not sure how that can be fixed without a built-in solution.",
+				"added": 1457276534
+			}
+		],
+		"1_13AvYD3hX888Ey6y8kFEce3Ak8hVNLcdrg": [
+			{
+				"comment_id": 58,
+				"body": "Yes! \n\nJust move your zeronet folder to another directory. If you downloaded the ZeroNet Bundle, don't forget the Python folder.",
+				"added": 1457276849
+			}
+		],
+		"4_1LRrd96P7FiTcsyNXVzPM5jtpQoH1B4gYf": [
+			{
+				"comment_id": 59,
+				"body": "> [ekaterina](#comment_87_1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD): \n> maybe a system where you hold onto a friend's private key and he to yours could work, so you always let your friend sign your updates and deny that such a deal with a friend exists if asked.\n\nThis could solve most of these problems. I think a good way to do it would be the [signers_sign](https://zeronet.readthedocs.org/en/latest/site_development/content_json/#signers_sign) and [signs_required](https://zeronet.readthedocs.org/en/latest/site_development/content_json/#signs_required) keys that (if I understood right) allows you to have more than one signing key and a required number of signs.\n\nSo, you allow three signers and require two, one of them stays with your friend, one with you and one is kept hidden in a different manner, just in case.\n\n**Edit:** looking closer I don't think that's how it works, I'm making some tests.",
+				"added": 1457278157
+			}
+		],
+		"4_15ymkjUYJS6tjUC35AekGMExZMN6iks8ma": [
+			{
+				"comment_id": 60,
+				"body": "Add the images to your blog folder and call it using `![theta's image](img/image.jpg)` with markdown. Then sign and publish. [Here](https://guides.github.com/features/mastering-markdown/) you can see a guide to Markdown.",
+				"added": 1457280391
+			},
+			{
+				"comment_id": 62,
+				"body": "> [theta](#comment_18_15ymkjUYJS6tjUC35AekGMExZMN6iks8ma): would someone be nice just to double-check (http://127.0.0.1:43110/1KVkSrfNoCRjjQEFDK3xKXeL71Byi2yLpF/?Post:5:In+progress)  that my test image does shows?\n\nI can't see the image. Did you sign and publish after adding it to your folder?",
+				"added": 1457289279
+			},
+			{
+				"comment_id": 63,
+				"body": "> [theta](#comment_19_15ymkjUYJS6tjUC35AekGMExZMN6iks8ma): I thought so, but I hadn't (had just signed the comments). Please try again.  :)\n\nIt works! Nice. Great topic, looking forward to your posts.",
+				"added": 1457290329
+			}
+		],
+		"1_1674XymFPbmAXh78xEpt3Pehtko6i2kvtA": [
+			{
+				"comment_id": 61,
+				"body": "The creator is @nofish. **The One True Developer**.",
+				"added": 1457289042
+			}
+		],
+		"7_17i7Y7r8nTaCfLbCAuaKyc4R5BbKZYU2Hr": [
+			{
+				"comment_id": 64,
+				"body": "If I had a small list I would give ya'll the links, but I'm sure a search will give it to you. Here are the podcasts that I subscribe to and listen sometimes (in no particular order):\n\n* The Truth\n* Hardcore History\n* FiveThirtyEight Elections\n* Planet Money\n* NPR Politics\n* Data Skeptic\n* Serial\n* Question of the Day\n* **The Biggest Problem in the Universe** (this is one of my favorites)\n* Flash Forward\n* Hello Internet\n* Common Sense\n* RadioLab\n* Cortex\n* **Hacked** (10/10)\n* Steal This Show\n* The Anoncast\n* Review the Future\n* StartUp\n* Surprisingly Awesome\n* Limetown\n* The Futurology Podcast\n* Afterbuzz TV's Mr Robot\n* Invisibilia\n\nAs you can see, it's quite a list.",
+				"added": 1457318137
+			},
+			{
+				"comment_id": 65,
+				"body": "> [pycole](#comment_53_1KwTTgPRSTHFmmJAFBt6kQfdyNeSM5KJuH): \n\nThat's great! I'm downloading them right now.\n\n> I'll add more shortly.\n\nNice.",
+				"added": 1457318873
+			}
+		],
+		"1_1F4DKSRBpoHN7ueQvkeM5x4AhfE65v3MN3": [
+			{
+				"comment_id": 66,
+				"body": "You have to copy the `data/users.json` file to the other computer.",
+				"added": 1458357859
+			}
+		],
+		"9_17i7Y7r8nTaCfLbCAuaKyc4R5BbKZYU2Hr": [
+			{
+				"comment_id": 67,
+				"body": "> [nofish](#comment_553_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): sure everything is same as bitcoin\n\nThank you :)",
+				"added": 1458494275
+			}
+		],
+		"16_14XxpXNGMLsyeQxikacrbQnAFXVyhN5Ngx": [
+			{
+				"comment_id": 68,
+				"body": "> [noiamo](#comment_39_14XxpXNGMLsyeQxikacrbQnAFXVyhN5Ngx): I was wondering how to make a site password accessible not my UI server\n\nCurrently it's not possible. It has been proposed [here](https://github.com/HelloZeroNet/ZeroNet/issues/62). You can donate for it [here](https://zeronet.readthedocs.org/en/latest/help_zeronet/donate/#private-sites).",
+				"added": 1458668350
+			}
+		],
+		"5_18rFd7W9y5QGQEVXaCoJV7jyt7D8aN156h": [
+			{
+				"comment_id": 69,
+				"body": "Spanish: http://127.0.0.1:43110/165eqHdoQfyf7CVGqtVCGNDvMBZhwVSJBL\n\nFrench: http://127.0.0.1:43110/1Vp5LH4wegCaqeB72yMw2jgNdVm4aR7ET\n\nRussian: http://127.0.0.1:43110/1Apr5ba6u9Nz6eFASmFrefGvyBKkM76QgE\n\nPortuguese: http://127.0.0.1:43110/1LULE6frq3kw2vbhe4i6ArUTo4YT99Czbj",
+				"added": 1458679754
+			}
+		],
+		"1_1PRtPMsAohGekTGBAqKEZG1V8ZPX4iY2gW": [
+			{
+				"comment_id": 70,
+				"body": "With Tor Always:\n```\nConnected: 2  Connectable: 998\nOnion: 554    Total: 998\n```\n\nBut the number is kind of irrelevant. The important part is being able to receive and publish changes to some of those peers and then those will propagate it further. It's safe to assume that the actual number is bigger.",
+				"added": 1459009479
+			}
+		],
+		"2_1KSNSPNM5FTUwPJeyyHrLXek1dsumpnFm1": [
+			{
+				"comment_id": 71,
+				"body": "> [zeroworld](#comment_4_1KSNSPNM5FTUwPJeyyHrLXek1dsumpnFm1): I did from the web interface, where can I find my private key?\n\nIf you cloned your site then it's on your data/users.json file. Just search for the site address and the private key will show up bellow it.\n\nThe web interface should still work. Just sign and publish again and try opening your site with a proxy. Take a look at [ZeroProxies](http://127.0.0.1:43110/14y3fN1A214HYdKe5f6WnQdfT3PdKLSAJo).",
+				"added": 1459036507
+			}
+		],
+		"7_1LJMypJ67iEBwah82xwVVdB8SGZ1mwqgHQ": [],
+		"5_15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ": [
+			{
+				"comment_id": 73,
+				"body": "> [musickiller](#comment_99_15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ): thanks!\n> But it only allow simple one line notes. I hope to find something to replace Google Keep (at least, at best - to replace Evernote).\n> I guess someone will make it sooner or later =)\n\nAnother way is to make a [Nullpaste](http://127.0.0.1:43110/1MgHVPCE1ve6QfKrgsqCURzRj72HrRWioz) clone and never publish its address. So it will never leave your computer and if Nullpaste gets compromised an attacker wouldn't be able to delete your notes and/or force the site to publish your unencrypted content when you access it.\n\nBonus points if you encrypt all notes/pastes. See also this [post](http://127.0.0.1:43110/1C5P1EcTZA6FDEg4w6SacfPjvSDCWmzeyt/?Post:9:Unique+Usage+for+a+ZeroTalk+Fork) by cryptonbits.\n\nLooking forward to ekaterina's site.",
+				"added": 1460658743
+			}
+		],
+		"1_19qsuxKBkNZWYft3epWgn6u3gG82sQHs6n": [
+			{
+				"comment_id": 74,
+				"body": "It has been proposed already, take a look at the GitHub issue: https://github.com/HelloZeroNet/ZeroNet/issues/388.",
+				"added": 1460997769
+			}
+		],
+		"6_1FieP4c1gxFme5webFJB9x5ZPBXdR6p3Fs": [
+			{
+				"comment_id": 75,
+				"body": "Direct link: http://127.0.0.1:43110/1HFp6UZeK73Vt23NSGEUJs5wfJru9eGAT3/?Post:17",
+				"added": 1461346297
+			}
+		],
+		"1_1By85xCDz7VyZEq9WjmhtbNaPKimQwhPLp": [
+			{
+				"comment_id": 76,
+				"body": "> But if I post It, I suppose, It is considered like \"stealing\"!\n\nIt would not be stealing since when you copy something you make two out of one and in most countries \"stealing\" is subtraction of other's possession. It might, however, be copyright infringement. Sadly it will depend on your country and also the country of the creator of the article.\n\nBut to be honest, the person probably will never know and if they did, your intention (non-commercial distribution to preserve \"vanishing\") would not trigger legal reaction from them, since it would also cost them money. They probably wouldn't care.\n\nI'd say do it! If you're not using it for commercial reasons then I think there's absolutely nothing wrong with it. Consider, as Erkan said, archive.org's [Way Back Machine](https://archive.org/web/) to save that article with no trouble and probably for a lot of time.",
+				"added": 1461537543
+			}
+		],
+		"3_1By85xCDz7VyZEq9WjmhtbNaPKimQwhPLp": [
+			{
+				"comment_id": 77,
+				"body": "Take a look at the folder of the site, there are more things there.",
+				"added": 1461697648
+			}
+		],
+		"2_1Frg5nFndHFkmUaaGK7Qr46dRLX8a2BhBT": [
+			{
+				"comment_id": 78,
+				"body": "If you don't want to use the multiuser plugin, I made [this](http://127.0.0.1:43110/1QLLPpowM6BWxKYKops1WkCafuFPhFBnAx/?Post:4:Changing+and+encrypting+ZeroIds) post a while back to change and encrypt your ZeroIDs. For Unix-like systems.",
+				"added": 1461768511
+			}
+		],
+		"1_14oc4TdKFZgv764PavBYPQc15qQgmd7jgL": [
+			{
+				"comment_id": 79,
+				"body": "If you start zeronet with `zeronet.py` then the new tab won't open. That only happens with `start.py`.",
+				"added": 1461859311
+			}
+		],
+		"4_1By85xCDz7VyZEq9WjmhtbNaPKimQwhPLp": [
+			{
+				"comment_id": 80,
+				"body": "Do you use Linux? (or Unix-like)\n\nIf your machine is insecure when you're away, then the best option would be disk encryption and password login. If that's not possible (shared computer or whatever) then you can encrypt only your user.\n\nHere's a quick script adapted from [here](http://127.0.0.1:43110/1QLLPpowM6BWxKYKops1WkCafuFPhFBnAx/?Post:4:Changing+and+encrypting+ZeroIds):\n\n`saver.sh`\n```bash\nmkdir -p /tmp/zeronet/users/$1 > /dev/null 2>&1\ncp /path/to/zeronet/data/users.json /tmp/zeronet/users/$1/users.json\nshred -u /path/to/zeronet/data/users.json\ncp /path/to/zeronet/data/sites.json /tmp/zeronet/users/$1/sites.json\nshred -u /path/to/zeronet/data/sites.json\ncd /tmp/zeronet/users\nzip -rq $1.zip $1/ > /dev/null 2>&1\ngpg --yes -r SomeKey -o /home/muja/backups/zeronet/users/$1.zip.asc -aes /tmp/zeronet/users/$1.zip\nshred -u $1.zip\nrm -rf $1/\n```\n\nRun it like `saver.sh muja` to encrypt and delete the user *muja*. Decrypting should be easier and can also be automated.",
+				"added": 1461860181
+			}
+		],
+		"1_1CWRomNuQj9PcaehomU9b12F4wXQDXmekt": [
+			{
+				"comment_id": 81,
+				"body": "There is an official [mail](http://127.0.0.1:43110/1MaiL5gfBM1cyb4a8e3iiL8L5gXmoAJu27) provider and many [chatrooms](http://127.0.0.1:43110/12mZD7GPDjmeBYcLtMTP1v6Lic4kzetmL5) (like IRC). The most popular is [ZeroMedia](http://127.0.0.1:43110/12qKywomfW5Hj5sQPYTH9wFQVrWzgaJj66).",
+				"added": 1461882569
+			}
+		],
+		"8_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": [
+			{
+				"comment_id": 82,
+				"body": "> [ancap](#comment_2_1FYXQGLBeNabf5jZHgP4CwzbmJSKaK4oMz): I read the FAQs. One thing I'm not sure is if one enables Tor and in addition has port 15441 open, it seems most connections go over clearnet. What is the purpose of having Tor in that case?\n\nFrom what I understand, the port is always closed when using `--tor always`. What operating system do you use?",
+				"added": 1462139980
+			}
+		],
+		"3_13y1BVkYsWXbNMjdk2PrRVwpuXqohTRNHi": [],
+		"14_1CMjV2r4EBpFt8VCcWWZKDysZXPcPExRNN": [
+			{
+				"comment_id": 84,
+				"body": "Great initiative! You should learn a bit about [optional files](http://127.0.0.1:43110/138R53t3ZW7KDfSfxVpWUsMXgwUnsDNXLP/?Page:optional-files) if you plan on adding a lot of files. Check the examples.\n\nAlso, md5 and sha1 are not ideal for security/integrity. You should try sha2 instead.",
+				"added": 1469584027
+			},
+			{
+				"comment_id": 87,
+				"body": "> [zeroexef](#comment_16_1CSc14JKdGAQJfQsfCLrduhB6zU4oEMwBf): Awesome. I didn't know about the optional files. I'll look into that tomorrow. As for the hash,  that's a good idea. We might include md5 and sha256 because I know it can be hard to find sha256 on windows machines.  \n> On that same note, does anybody know a good file hasher for windows? My preliminary search turned up HashTab, which seems pretty good.\n\nI'm not on Windows but I would use something like [Quick Hash](https://sourceforge.net/projects/quickhash/) because it's open source. But HashTab seems pretty good indeed.",
+				"added": 1469586605
+			}
+		],
+		"1_1HrRNH7KbdxMjwLmwrHmZqJrzVZVDKc9bF": [
+			{
+				"comment_id": 85,
+				"body": "It should be emphasized that the majority of people seem to be against any kind of universal filtering. For \"self-censorship\", see [this](https://github.com/HelloZeroNet/ZeroTalk/issues/9).",
+				"added": 1469585553
+			}
+		],
+		"4_13y1BVkYsWXbNMjdk2PrRVwpuXqohTRNHi": [
+			{
+				"comment_id": 86,
+				"body": "A site with short videos delivered with [optional files](http://127.0.0.1:43110/138R53t3ZW7KDfSfxVpWUsMXgwUnsDNXLP/?Page:optional-files).",
+				"added": 1469585842
+			}
+		],
+		"10_17i7Y7r8nTaCfLbCAuaKyc4R5BbKZYU2Hr": [
+			{
+				"comment_id": 88,
+				"body": "I've been using [Tutanota](https://tutanota.com/) for a few things and it's pretty great. They're doing a complete remake of the client to make it faster and cooler. It's open source. And all your emails are encrypted so that they can't read them.",
+				"added": 1469630237
+			}
+		],
+		"1_1HUrhTUZFB2KKsXLUv1vugPH358iB6zsiY": [
+			{
+				"comment_id": 89,
+				"body": "You have to share the link so that people can seed and/or join it.",
+				"added": 1471455807
+			}
+		],
+		"4_17Cs2auSHSVjKaYMXqbNMApRQrgXcwJUpL": [
+			{
+				"comment_id": 90,
+				"body": "[The NSA Leak Is Real, Snowden Documents Confirm - The Intercept](https://theintercept.com/2016/08/19/the-nsa-was-hacked-snowden-documents-confirm/)",
+				"added": 1471787341
+			}
+		]
+	},
+	"comment_vote": {
+		"2_14tZUZypdydwcKr3KwVng6XY85YJynBNrk": 1,
+		"3_13TYHUzdFf2JuFtoDD1eTKHppNGcTemkTN": 1,
+		"4_18NqMTQeSD7cAKEcnAdFEBQYJCxHgFXSzk": 1,
+		"5_18NqMTQeSD7cAKEcnAdFEBQYJCxHgFXSzk": 1,
+		"147_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"4_1LZbdpKVACfmxW5vffrcwAGugNwcWxuyKu": 1,
+		"1_1PDeGMWW6badM8gzU6eApYMiFpJfXJNQXb": 1,
+		"8_1LZbdpKVACfmxW5vffrcwAGugNwcWxuyKu": 1,
+		"16_15QGRquMETTn5LnCHjTm1qa9eaXGtq7gpT": 1,
+		"3_19EzW7rnEauKvqVQja7Z9odPQcm7UWJrax": 1,
+		"5_1KoZPvhgq5YLJaj3nYyT7UjBpom1XYaQSw": 1,
+		"13_16iYwD5U2fNoS22p6447J7992iL3DHjSHY": 1,
+		"15_16iYwD5U2fNoS22p6447J7992iL3DHjSHY": 1,
+		"5_1BGaNcH1UBqAdatPbT3YssmPRVdhepMNPW": 1,
+		"4_1C7rjaNpWFAtWbQgSxbGaPzBdgCA47VYc6": 1,
+		"77_1KTjPe9MxoYkcXj78GuZgCcj3R3f3Twh7r": 1,
+		"2_158KZsYQsNp4j4kiPrkqXvTPRewEXeP24W": 1,
+		"1_12trw1cEg68BLZfcWnidy8EHfKE9Xh3T42": 1,
+		"19_15QGRquMETTn5LnCHjTm1qa9eaXGtq7gpT": 1,
+		"163_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"1_17i7Y7r8nTaCfLbCAuaKyc4R5BbKZYU2Hr": 1,
+		"2_13zgtd1L3F7145JTZCJ2sdR5BdbdCV7v9M": 1,
+		"3_17i7Y7r8nTaCfLbCAuaKyc4R5BbKZYU2Hr": 1,
+		"9_1QBLGLcgKfcpfLmiDYuDzUKVXFfmTAew55": 1,
+		"204_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"88_1ED3Ho3kmzaKiECtyuqSjDpoE47rKuXeP": 1,
+		"1_1MuqWEiJ8VCCZMHZ6hcJW35RMEgm7VVED5": 1,
+		"4_13zgtd1L3F7145JTZCJ2sdR5BdbdCV7v9M": 1,
+		"5_17i7Y7r8nTaCfLbCAuaKyc4R5BbKZYU2Hr": 1,
+		"19_1QBLGLcgKfcpfLmiDYuDzUKVXFfmTAew55": 1,
+		"22_15QGRquMETTn5LnCHjTm1qa9eaXGtq7gpT": 1,
+		"7_1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD": 1,
+		"7_17i7Y7r8nTaCfLbCAuaKyc4R5BbKZYU2Hr": 1,
+		"23_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf": 1,
+		"31_1QBLGLcgKfcpfLmiDYuDzUKVXFfmTAew55": 1,
+		"25_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf": 1,
+		"29_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf": 1,
+		"1_1BWsVpXFVzcpYwdgKhjCRuTx3xDTxyevKS": 1,
+		"20_1LWuc6JBhUGrKEAh1aPrPU85dEMcKmg3pS": 1,
+		"3_14XxpXNGMLsyeQxikacrbQnAFXVyhN5Ngx": 1,
+		"17_1MGse2Xfdae1FkAiGoHzWTeFx4Mo2yEqfH": 1,
+		"33_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf": 1,
+		"21_1LWuc6JBhUGrKEAh1aPrPU85dEMcKmg3pS": 1,
+		"10_1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD": 1,
+		"13_1MGse2Xfdae1FkAiGoHzWTeFx4Mo2yEqfH": 1,
+		"235_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"39_1QBLGLcgKfcpfLmiDYuDzUKVXFfmTAew55": 1,
+		"40_1QBLGLcgKfcpfLmiDYuDzUKVXFfmTAew55": 1,
+		"9_17i7Y7r8nTaCfLbCAuaKyc4R5BbKZYU2Hr": 1,
+		"12_13KqD3BoaRMudEG5QU2fnGLkSVx8qDXKof": 1,
+		"51_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf": 1,
+		"9_13KqD3BoaRMudEG5QU2fnGLkSVx8qDXKof": 1,
+		"13_13KqD3BoaRMudEG5QU2fnGLkSVx8qDXKof": 1,
+		"1_1kAPGzM6Yume9TeLGU2pjHsMxNi8oXP7B": 1,
+		"252_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"11_1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD": 1,
+		"10_17i7Y7r8nTaCfLbCAuaKyc4R5BbKZYU2Hr": 1,
+		"25_16iYwD5U2fNoS22p6447J7992iL3DHjSHY": 1,
+		"14_1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD": 1,
+		"11_17i7Y7r8nTaCfLbCAuaKyc4R5BbKZYU2Hr": 1,
+		"12_17i7Y7r8nTaCfLbCAuaKyc4R5BbKZYU2Hr": 1,
+		"18_13KqD3BoaRMudEG5QU2fnGLkSVx8qDXKof": 1,
+		"13_17i7Y7r8nTaCfLbCAuaKyc4R5BbKZYU2Hr": 1,
+		"84_1KTjPe9MxoYkcXj78GuZgCcj3R3f3Twh7r": 1,
+		"14_17i7Y7r8nTaCfLbCAuaKyc4R5BbKZYU2Hr": 1,
+		"61_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf": 1,
+		"15_17i7Y7r8nTaCfLbCAuaKyc4R5BbKZYU2Hr": 1,
+		"232_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"3_1M5ztUWkCMP5Pv7MjwApWT7CNvWimGFaFa": 1,
+		"264_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"24_13KqD3BoaRMudEG5QU2fnGLkSVx8qDXKof": 1,
+		"63_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf": 1,
+		"265_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"3_167eTX5f6jJt4HPvfQqf2QuwdTFCnxJCf2": 1,
+		"61_1QBLGLcgKfcpfLmiDYuDzUKVXFfmTAew55": 1,
+		"267_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"89_1KTjPe9MxoYkcXj78GuZgCcj3R3f3Twh7r": 1,
+		"16_17i7Y7r8nTaCfLbCAuaKyc4R5BbKZYU2Hr": 1,
+		"268_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"33_1LWuc6JBhUGrKEAh1aPrPU85dEMcKmg3pS": 1,
+		"62_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf": 1,
+		"83_1KTjPe9MxoYkcXj78GuZgCcj3R3f3Twh7r": 1,
+		"3_1L8UURA9tgSn2XcRxtpCRJYCQm5S9ELh2Y": 1,
+		"41_1QBLGLcgKfcpfLmiDYuDzUKVXFfmTAew55": 1,
+		"46_1QBLGLcgKfcpfLmiDYuDzUKVXFfmTAew55": 1,
+		"52_1QBLGLcgKfcpfLmiDYuDzUKVXFfmTAew55": 1,
+		"259_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"26_15QGRquMETTn5LnCHjTm1qa9eaXGtq7gpT": 1,
+		"54_1QBLGLcgKfcpfLmiDYuDzUKVXFfmTAew55": 1,
+		"3_1LgoHzNGWeijeZbJ8a1YgGjMCnjaM4BWG": 1,
+		"50_1QBLGLcgKfcpfLmiDYuDzUKVXFfmTAew55": 1,
+		"2_1Q8iqH31cKCqynoJRxR2PfJhzQr8wHdiHr": 1,
+		"258_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"18_17i7Y7r8nTaCfLbCAuaKyc4R5BbKZYU2Hr": 1,
+		"19_17i7Y7r8nTaCfLbCAuaKyc4R5BbKZYU2Hr": 1,
+		"3_1BWsVpXFVzcpYwdgKhjCRuTx3xDTxyevKS": 1,
+		"269_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"7_167eTX5f6jJt4HPvfQqf2QuwdTFCnxJCf2": 1,
+		"6_167eTX5f6jJt4HPvfQqf2QuwdTFCnxJCf2": 1,
+		"65_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf": 1,
+		"5_167eTX5f6jJt4HPvfQqf2QuwdTFCnxJCf2": 1,
+		"17_17i7Y7r8nTaCfLbCAuaKyc4R5BbKZYU2Hr": 1,
+		"20_17i7Y7r8nTaCfLbCAuaKyc4R5BbKZYU2Hr": 1,
+		"271_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"236_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"273_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"21_17i7Y7r8nTaCfLbCAuaKyc4R5BbKZYU2Hr": 1,
+		"277_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"1_1BNmjz9tBLY3M1tq2z7DKvA1LjFXYsmLd9": 1,
+		"23_17i7Y7r8nTaCfLbCAuaKyc4R5BbKZYU2Hr": 1,
+		"246_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"24_17i7Y7r8nTaCfLbCAuaKyc4R5BbKZYU2Hr": 1,
+		"22_17i7Y7r8nTaCfLbCAuaKyc4R5BbKZYU2Hr": 1,
+		"41_13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ": 1,
+		"25_17i7Y7r8nTaCfLbCAuaKyc4R5BbKZYU2Hr": 1,
+		"1_1G9k1Ti6kSNtYS4nqtTY8nz5SN3VxoVBAb": 1,
+		"26_17i7Y7r8nTaCfLbCAuaKyc4R5BbKZYU2Hr": 1,
+		"4_12uS7AbHMQEc4YKxoPpASsmDSy6fRtEhrw": 1,
+		"5_1BNmjz9tBLY3M1tq2z7DKvA1LjFXYsmLd9": 1,
+		"293_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"27_17i7Y7r8nTaCfLbCAuaKyc4R5BbKZYU2Hr": 1,
+		"28_17i7Y7r8nTaCfLbCAuaKyc4R5BbKZYU2Hr": 1,
+		"27_15QGRquMETTn5LnCHjTm1qa9eaXGtq7gpT": 1,
+		"1_1RMWsRaNKqk8BM5avcQuTNHc9xK3KSHAr": 1,
+		"29_17i7Y7r8nTaCfLbCAuaKyc4R5BbKZYU2Hr": 1,
+		"295_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"110_1ED3Ho3kmzaKiECtyuqSjDpoE47rKuXeP": 1,
+		"19_1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD": 1,
+		"12_1BNmjz9tBLY3M1tq2z7DKvA1LjFXYsmLd9": 1,
+		"20_1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD": 1,
+		"31_17i7Y7r8nTaCfLbCAuaKyc4R5BbKZYU2Hr": 1,
+		"2_1GFA9WKyB9QKCcWWyD3Zkcs7E1HonYwLLE": 1,
+		"15_1KwTTgPRSTHFmmJAFBt6kQfdyNeSM5KJuH": 1,
+		"9_1APx2pf1wNGFz4mWCN2sFzrtTGzrLKZUQ2": 1,
+		"16_12SuCFUNDaMYRHG9DsWCyCN1NgHGjddwSJ": 1,
+		"113_1ED3Ho3kmzaKiECtyuqSjDpoE47rKuXeP": 1,
+		"77_1QBLGLcgKfcpfLmiDYuDzUKVXFfmTAew55": 1,
+		"300_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"3_1JdKZXpUz9vvevT99mmfTdbs3hjszJzqDX": 1,
+		"302_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"22_1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD": 1,
+		"81_1QBLGLcgKfcpfLmiDYuDzUKVXFfmTAew55": 1,
+		"28_16AFTG7vdicwJbRQpWc2F9BRHTE5MTftE7": 1,
+		"31_16AFTG7vdicwJbRQpWc2F9BRHTE5MTftE7": 1,
+		"24_1KcPohxmuqiNShTaAzJZLndm5aWtBZLuJn": 1,
+		"26_1PNyuY1iZqXBpft4ArouqcnE4pNRGYij5i": 1,
+		"20_1KwTTgPRSTHFmmJAFBt6kQfdyNeSM5KJuH": 1,
+		"23_1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD": 1,
+		"10_18eNH913qX7e9vBExuMiv7qAMSRkJYNa21": 1,
+		"315_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"2_1FqvJqX8FrbhkgGX6ag8azqZSye7SqfAm1": 1,
+		"3_1FqvJqX8FrbhkgGX6ag8azqZSye7SqfAm1": 1,
+		"33_17i7Y7r8nTaCfLbCAuaKyc4R5BbKZYU2Hr": 1,
+		"51_13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ": 1,
+		"88_1QBLGLcgKfcpfLmiDYuDzUKVXFfmTAew55": 1,
+		"98_1KTjPe9MxoYkcXj78GuZgCcj3R3f3Twh7r": 1,
+		"5_1JdKZXpUz9vvevT99mmfTdbs3hjszJzqDX": 1,
+		"325_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"21_1MmPY9fniJwwhP6WsgH4jWoq5rBAVV6KWy": 1,
+		"97_1QBLGLcgKfcpfLmiDYuDzUKVXFfmTAew55": 1,
+		"102_1QBLGLcgKfcpfLmiDYuDzUKVXFfmTAew55": 1,
+		"331_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"4_1HN54tqPZqnHs5SpJVFVsMhRH1nUSt3iQF": 1,
+		"2_1HN54tqPZqnHs5SpJVFVsMhRH1nUSt3iQF": 1,
+		"136_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf": 1,
+		"339_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"340_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"37_1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD": 1,
+		"4_1CMYxdit4qq9QGk9DYRu2ruRPd2YDGckH8": 1,
+		"34_17i7Y7r8nTaCfLbCAuaKyc4R5BbKZYU2Hr": 1,
+		"6_1CMYxdit4qq9QGk9DYRu2ruRPd2YDGckH8": 1,
+		"38_1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD": 1,
+		"13_14XxpXNGMLsyeQxikacrbQnAFXVyhN5Ngx": 1,
+		"36_17i7Y7r8nTaCfLbCAuaKyc4R5BbKZYU2Hr": 1,
+		"39_1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD": 1,
+		"348_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"40_1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD": 1,
+		"349_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"350_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"41_1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD": 1,
+		"40_1KwTTgPRSTHFmmJAFBt6kQfdyNeSM5KJuH": 1,
+		"42_1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD": 1,
+		"31_1KwTTgPRSTHFmmJAFBt6kQfdyNeSM5KJuH": 1,
+		"37_17i7Y7r8nTaCfLbCAuaKyc4R5BbKZYU2Hr": 1,
+		"43_1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD": 1,
+		"7_1An7ATsNMMNqRgSgB2upWwbpXgFXQ9E2XD": 1,
+		"113_1QBLGLcgKfcpfLmiDYuDzUKVXFfmTAew55": 1,
+		"109_1QBLGLcgKfcpfLmiDYuDzUKVXFfmTAew55": 1,
+		"5_1Q8iqH31cKCqynoJRxR2PfJhzQr8wHdiHr": 1,
+		"7_1BDTDgpyizvUDsc1hcL1pjCvXCy4ozzSFN": 1,
+		"26_16iYwD5U2fNoS22p6447J7992iL3DHjSHY": 1,
+		"28_16iYwD5U2fNoS22p6447J7992iL3DHjSHY": 1,
+		"28_15QGRquMETTn5LnCHjTm1qa9eaXGtq7gpT": 1,
+		"44_1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD": 1,
+		"40_17i7Y7r8nTaCfLbCAuaKyc4R5BbKZYU2Hr": 1,
+		"363_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"1_1CyVcn9F6pHJqm3ChRDkmbJ6d8pANy7X2P": 1,
+		"45_1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD": 1,
+		"1_15fKrC752cXKv1zSAY5AVQjmAPrG6Byfie": 1,
+		"1_17b4LMwz4pEB3tQL73WYbVTJzFp27PEC5M": 1,
+		"1_129QJf5wNxEzAB7Rh29LXyy3RBesRybY8o": 1,
+		"1_121574YvJUdvA5qZmoWnRQb8kdV5HUak5x": 1,
+		"1_1GzEcwMDJL8NFiAfrgkmrbGSzYZaXgcvEJ": 1,
+		"1_12B7zw6u7sm1jZnZThRyCAD4ALonNc1fhZ": 1,
+		"1_1EUyJtat7mbu5wMcR6nrJTPBBRons1mtMA": 1,
+		"1_13NzkresWLd7Eda21KhEWox3BqrASnVTyD": 1,
+		"2_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1,
+		"41_17i7Y7r8nTaCfLbCAuaKyc4R5BbKZYU2Hr": 1,
+		"1_1FjV1bhTyNwBNCXSAWAYSfeAC4fmEoREtz": 1,
+		"7_1Q8iqH31cKCqynoJRxR2PfJhzQr8wHdiHr": 1,
+		"364_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"2_13NzkresWLd7Eda21KhEWox3BqrASnVTyD": 1,
+		"1_18ik9oF66sR7zKwJFEQCzeWgYkbBMdohWD": 1,
+		"3_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1,
+		"8_1Q8iqH31cKCqynoJRxR2PfJhzQr8wHdiHr": 1,
+		"365_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"4_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1,
+		"9_1HwYER58xAxchBDL6WKRqKuPZzmwSvMwjY": 1,
+		"2_1EUyJtat7mbu5wMcR6nrJTPBBRons1mtMA": 1,
+		"9_1Q8iqH31cKCqynoJRxR2PfJhzQr8wHdiHr": 1,
+		"61_1F6BMqittjWUStzUbRXm2kG2GQ3RdBLqFQ": 1,
+		"1_1ALXyaQsvvCQ3R5WBrPbe4dXsqnLCLEkB7": 1,
+		"5_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1,
+		"43_17i7Y7r8nTaCfLbCAuaKyc4R5BbKZYU2Hr": 1,
+		"7_19K8YrrmPZKnHCWzSm7j8K1Rfvkx3cnfdm": 1,
+		"10_1Q8iqH31cKCqynoJRxR2PfJhzQr8wHdiHr": 1,
+		"366_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"154_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf": 1,
+		"2_1NhaBpc5iz2oyhaEqfE3FUYByTGxj5Bhrb": 1,
+		"4_1ADB7TdX2fVbTsWBoMe9yBTmVXTbb33b4R": 1,
+		"29_1PNyuY1iZqXBpft4ArouqcnE4pNRGYij5i": 1,
+		"8_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1,
+		"46_1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD": 1,
+		"11_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1,
+		"1_1Pfbvp2DhbVrjAYSPaUaucJc6nZsxMpeK9": 1,
+		"1_1F7iAyeMHfHnwXQg7yVrQYKM4b4AhZK6P4": 1,
+		"371_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"1_1GNdkBSxTw6SpRdGHxDCyfANXnwi7FG7rJ": 1,
+		"98_168qV1Xxp2EyszrzdECLUwXrn9wGYjDdar": 1,
+		"384_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"12_1HwYER58xAxchBDL6WKRqKuPZzmwSvMwjY": 1,
+		"53_1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD": 1,
+		"3_1FfJqTpKxtW6jzKnHLpUswhWHwwtYTz5YK": 1,
+		"383_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"1_1AQLPLp3jur76cHZhkicmMoAqg6mqyTsTv": 1,
+		"49_17i7Y7r8nTaCfLbCAuaKyc4R5BbKZYU2Hr": 1,
+		"5_1GCMDNMgJHvZJfdbD9ygDmpBdnVAobdJYg": 1,
+		"1_1D6LQ7V6F6vwCN39HmURQiKDxQfCUo2X7c": 1,
+		"11_1xf9XC4Nsa7YfQWFiK6xGsNDJA3AaCTUa": 1,
+		"393_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"74_1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD": 1,
+		"77_1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD": 1,
+		"47_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1,
+		"6_16bxMyoL49mWYhcZKBYVBT5zEFW9SQpiao": 1,
+		"14_14tJBPnxcrF9kMK5v7DULWnaJx3JepirXb": 1,
+		"46_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1,
+		"82_1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD": 1,
+		"26_1NoRNknY1JbJ8nMdn88LwczyMDFnR1GtNw": 1,
+		"84_1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD": 1,
+		"28_1NoRNknY1JbJ8nMdn88LwczyMDFnR1GtNw": 1,
+		"25_17fgJ3tZjhM7HCkTkd5TWf2BLLWmhRKcXB": 1,
+		"433_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"434_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"1_1CbBXYtHDzkkgHJua7fn7z6Sic3andvkDA": 1,
+		"3_18XZPW5mfffaUbAWtRkYCHosgJkc6TtkK1": 1,
+		"8_1H8oKiRa7fGgUqS1hpUtaSYLvAqkaknbkf": 1,
+		"3_1H8oKiRa7fGgUqS1hpUtaSYLvAqkaknbkf": 1,
+		"2_1D7uESYtAKV36MVPGJZXuE7LUKbLwfo4dX": 1,
+		"3_1LnyrYbdxDU1K78nEYVZkfJ1Q4SYP1ukFV": 1,
+		"9_1GNdkBSxTw6SpRdGHxDCyfANXnwi7FG7rJ": 1,
+		"3_154jAWx5PDRmvF4txGHo4Edw1BpduhDyvw": 1,
+		"12_1xf9XC4Nsa7YfQWFiK6xGsNDJA3AaCTUa": 1,
+		"2_16bxMyoL49mWYhcZKBYVBT5zEFW9SQpiao": 1,
+		"2_1Ch2Q1jPeM6pspyNZ28AA73v51wjYLSd3q": 1,
+		"3_1LVL5r7L5AwFk7waWmBwuVZ8Fcg9NDxakY": 1,
+		"6_1Pfbvp2DhbVrjAYSPaUaucJc6nZsxMpeK9": 1,
+		"45_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1,
+		"7_1Pfbvp2DhbVrjAYSPaUaucJc6nZsxMpeK9": 1,
+		"141_1ED3Ho3kmzaKiECtyuqSjDpoE47rKuXeP": 1,
+		"428_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"437_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"52_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1,
+		"49_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1,
+		"53_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1,
+		"47_1MEWJRMLgvofqG9Mbsb2Rc4hFFyv7HeRx7": 1,
+		"3_13qeq1z87R1kQWDZUQYm3y7tDCLimnhfvS": 1,
+		"441_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"55_17i7Y7r8nTaCfLbCAuaKyc4R5BbKZYU2Hr": 1,
+		"54_17i7Y7r8nTaCfLbCAuaKyc4R5BbKZYU2Hr": 1,
+		"442_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"9_1DcDDitsjFJohvwonPmpibRChmA7uGxqL7": 1,
+		"25_1NoRNknY1JbJ8nMdn88LwczyMDFnR1GtNw": 1,
+		"440_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"2_13qeq1z87R1kQWDZUQYm3y7tDCLimnhfvS": 1,
+		"51_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1,
+		"87_1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD": 1,
+		"9_16bxMyoL49mWYhcZKBYVBT5zEFW9SQpiao": 1,
+		"11_1DcDDitsjFJohvwonPmpibRChmA7uGxqL7": 1,
+		"10_16bxMyoL49mWYhcZKBYVBT5zEFW9SQpiao": 1,
+		"443_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"10_1PVcdu7USZH2kHMETbqDYLPjJZKCDWM52k": 1,
+		"26_17fgJ3tZjhM7HCkTkd5TWf2BLLWmhRKcXB": 1,
+		"444_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"88_1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD": 1,
+		"19_1LRrd96P7FiTcsyNXVzPM5jtpQoH1B4gYf": 1,
+		"59_17i7Y7r8nTaCfLbCAuaKyc4R5BbKZYU2Hr": 1,
+		"48_1MEWJRMLgvofqG9Mbsb2Rc4hFFyv7HeRx7": 1,
+		"89_1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD": 1,
+		"19_15ymkjUYJS6tjUC35AekGMExZMN6iks8ma": 1,
+		"13_1xf9XC4Nsa7YfQWFiK6xGsNDJA3AaCTUa": 1,
+		"20_15ymkjUYJS6tjUC35AekGMExZMN6iks8ma": 1,
+		"17_1GCMDNMgJHvZJfdbD9ygDmpBdnVAobdJYg": 1,
+		"53_1KwTTgPRSTHFmmJAFBt6kQfdyNeSM5KJuH": 1,
+		"73_1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD": 1,
+		"8_1DfkDpkeDXGbHJ2ZT31DPvYr5xR59Jr8BA": 1,
+		"5_1AFL4FFT3BuEDwTwVqychMq4LbxjuEY5Ss": 1,
+		"5_1D7uESYtAKV36MVPGJZXuE7LUKbLwfo4dX": 1,
+		"27_17fgJ3tZjhM7HCkTkd5TWf2BLLWmhRKcXB": 1,
+		"17_1CMYxdit4qq9QGk9DYRu2ruRPd2YDGckH8": 1,
+		"4_16bxMyoL49mWYhcZKBYVBT5zEFW9SQpiao": 1,
+		"16_15ymkjUYJS6tjUC35AekGMExZMN6iks8ma": 1,
+		"22_17fgJ3tZjhM7HCkTkd5TWf2BLLWmhRKcXB": 1,
+		"17_15ymkjUYJS6tjUC35AekGMExZMN6iks8ma": 1,
+		"43_1PVcdu7USZH2kHMETbqDYLPjJZKCDWM52k": 1,
+		"31_1PVcdu7USZH2kHMETbqDYLPjJZKCDWM52k": 1,
+		"119_1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD": 1,
+		"77_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1,
+		"120_1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD": 1,
+		"78_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1,
+		"121_1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD": 1,
+		"123_1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD": 1,
+		"124_1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD": 1,
+		"28_14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx": 1,
+		"41_1PVcdu7USZH2kHMETbqDYLPjJZKCDWM52k": 1,
+		"17_1GNdkBSxTw6SpRdGHxDCyfANXnwi7FG7rJ": 1,
+		"31_15QGRquMETTn5LnCHjTm1qa9eaXGtq7gpT": 1,
+		"9_1MahZJTzjoEMMCv2jBReDWhyNGRhN5tvDq": 1,
+		"65_17i7Y7r8nTaCfLbCAuaKyc4R5BbKZYU2Hr": 1,
+		"14_1xf9XC4Nsa7YfQWFiK6xGsNDJA3AaCTUa": 1,
+		"44_1PVcdu7USZH2kHMETbqDYLPjJZKCDWM52k": 1,
+		"75_1KwTTgPRSTHFmmJAFBt6kQfdyNeSM5KJuH": 1,
+		"90_1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD": 1,
+		"76_1ADB7TdX2fVbTsWBoMe9yBTmVXTbb33b4R": 1,
+		"13_16bxMyoL49mWYhcZKBYVBT5zEFW9SQpiao": 1,
+		"17_16Szsy1UtjiXpEevWVdUDrNfNTAZ9PLbcY": 1,
+		"454_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"9_1Kg7CXZM5h3wTPENsTDwWUmRBf9VhYy2cW": 1,
+		"60_1PVcdu7USZH2kHMETbqDYLPjJZKCDWM52k": 1,
+		"107_1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD": 1,
+		"496_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"6_19gBx9XfbNtn42bdsvh9rsHSMLuQdyiUNS": 1,
+		"22_18eNH913qX7e9vBExuMiv7qAMSRkJYNa21": 1,
+		"65_1PVcdu7USZH2kHMETbqDYLPjJZKCDWM52k": 1,
+		"74_1PVcdu7USZH2kHMETbqDYLPjJZKCDWM52k": 1,
+		"114_1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD": 1,
+		"32_1PVcdu7USZH2kHMETbqDYLPjJZKCDWM52k": 1,
+		"76_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1,
+		"116_1QBLGLcgKfcpfLmiDYuDzUKVXFfmTAew55": 1,
+		"553_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"554_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"75_1PVcdu7USZH2kHMETbqDYLPjJZKCDWM52k": 1,
+		"556_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"558_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"95_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1,
+		"77_1PVcdu7USZH2kHMETbqDYLPjJZKCDWM52k": 1,
+		"19_17n5jg4bBEoWodXDf8L4Y2u88ShagS272Y": 1,
+		"42_1LRrd96P7FiTcsyNXVzPM5jtpQoH1B4gYf": 1,
+		"1_1DjezZz4h4amzFHeeq1cMJzWfNCnHcamby": 1,
+		"22_16bxMyoL49mWYhcZKBYVBT5zEFW9SQpiao": 1,
+		"82_1H8oKiRa7fGgUqS1hpUtaSYLvAqkaknbkf": 1,
+		"85_1H8oKiRa7fGgUqS1hpUtaSYLvAqkaknbkf": 1,
+		"1_1AxJtqoxhNyjRjUptGgVoVHxgxtKRzUrpY": 1,
+		"45_1LRrd96P7FiTcsyNXVzPM5jtpQoH1B4gYf": 1,
+		"41_14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx": 1,
+		"98_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1,
+		"25_16bxMyoL49mWYhcZKBYVBT5zEFW9SQpiao": 1,
+		"100_1KwTTgPRSTHFmmJAFBt6kQfdyNeSM5KJuH": 1,
+		"26_16bxMyoL49mWYhcZKBYVBT5zEFW9SQpiao": 1,
+		"569_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"90_1PVcdu7USZH2kHMETbqDYLPjJZKCDWM52k": 1,
+		"1_1KdnTJVBGzEZrJppFZtzfG9chukuMv8xSb": 1,
+		"570_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"52_1CMYxdit4qq9QGk9DYRu2ruRPd2YDGckH8": 1,
+		"571_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"3_17GoSBQa419SCrJkj4djvTAgRFCDWHKuM3": 1,
+		"103_1KwTTgPRSTHFmmJAFBt6kQfdyNeSM5KJuH": 1,
+		"25_1DcDDitsjFJohvwonPmpibRChmA7uGxqL7": 1,
+		"27_16bxMyoL49mWYhcZKBYVBT5zEFW9SQpiao": 1,
+		"1_151WPNwj3iBqVoFtMNxfqdFFrj546SoW3t": 1,
+		"3_1JEb8eKAZFrH22ZmpfkiYzNctfy3HbJQZU": 1,
+		"2_1KwigJBBgHqdASPE11WNYF7JXMx9vND7pr": 1,
+		"113_168qV1Xxp2EyszrzdECLUwXrn9wGYjDdar": 1,
+		"58_14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx": 1,
+		"102_1H8oKiRa7fGgUqS1hpUtaSYLvAqkaknbkf": 1,
+		"103_1H8oKiRa7fGgUqS1hpUtaSYLvAqkaknbkf": 1,
+		"3_13789EsAe2nGCsJkr14ZdRbAauLjiZ7yPM": 1,
+		"5_1AxJtqoxhNyjRjUptGgVoVHxgxtKRzUrpY": 1,
+		"5_1LeqWgNKQHKdYdy8AREoHprsCEU6cPrTTC": 1,
+		"134_1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD": 1,
+		"590_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"6_1AxJtqoxhNyjRjUptGgVoVHxgxtKRzUrpY": 1,
+		"591_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"592_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"34_16iYwD5U2fNoS22p6447J7992iL3DHjSHY": 1,
+		"35_16iYwD5U2fNoS22p6447J7992iL3DHjSHY": 1,
+		"108_1H8oKiRa7fGgUqS1hpUtaSYLvAqkaknbkf": 1,
+		"48_14XxpXNGMLsyeQxikacrbQnAFXVyhN5Ngx": 1,
+		"128_1KwTTgPRSTHFmmJAFBt6kQfdyNeSM5KJuH": 1,
+		"129_1KwTTgPRSTHFmmJAFBt6kQfdyNeSM5KJuH": 1,
+		"39_15QGRquMETTn5LnCHjTm1qa9eaXGtq7gpT": 1,
+		"97_15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ": 1,
+		"40_15QGRquMETTn5LnCHjTm1qa9eaXGtq7gpT": 1,
+		"119_1H8oKiRa7fGgUqS1hpUtaSYLvAqkaknbkf": 1,
+		"135_1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD": 1,
+		"136_1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD": 1,
+		"137_1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD": 1,
+		"9_1GaejKrF2nq2BCEktthhK11jfxLi2GsboU": 1,
+		"18_1KdnTJVBGzEZrJppFZtzfG9chukuMv8xSb": 1,
+		"9_1L4fuhUB75eAdVbDY9AJ4z2i2dwMho7MV8": 1,
+		"61_1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD": 1,
+		"29_1KdnTJVBGzEZrJppFZtzfG9chukuMv8xSb": 1,
+		"4_1GtJqyJRsuZhmxVtw5USgvqGbUmVH7EmBD": 1,
+		"147_1H8oKiRa7fGgUqS1hpUtaSYLvAqkaknbkf": 1,
+		"141_1KwTTgPRSTHFmmJAFBt6kQfdyNeSM5KJuH": 1,
+		"1_1GtJVoBZG2niqWMSknCsiQXsK28hFiTFoj": 1,
+		"2_18dZiyuxq5kuXAhviJoop9MqghfYWbBCai": 1,
+		"30_19qsuxKBkNZWYft3epWgn6u3gG82sQHs6n": 1,
+		"599_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"6_1DXR2Di8Ks9JijfNycWErpenoxxchrdWBB": 1,
+		"53_1CMYxdit4qq9QGk9DYRu2ruRPd2YDGckH8": 1,
+		"149_1KwTTgPRSTHFmmJAFBt6kQfdyNeSM5KJuH": 1,
+		"9_1ED3Ho3kmzaKiECtyuqSjDpoE47rKuXeP": 1,
+		"1_1Emywc5fN8k1VjNXkhGvderMNmoNypZSdz": 1,
+		"68_1CMYxdit4qq9QGk9DYRu2ruRPd2YDGckH8": 1,
+		"96_14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx": 1,
+		"5_1K9bJ8uijgvt5B3YfzPv2HqVx6kNDoEqtM": 1,
+		"1_1GVj8EwjcRxED5eKymdbA5vVNoLBVzgEoL": 1,
+		"8_1CSc14JKdGAQJfQsfCLrduhB6zU4oEMwBf": 1,
+		"703_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"16_15JNF8bdyG4zEWVASsgbkFirzM6gyYpSBA": 1,
+		"65_1CMjV2r4EBpFt8VCcWWZKDysZXPcPExRNN": 1,
+		"133_14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx": 1,
+		"134_14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx": 1,
+		"66_1CMjV2r4EBpFt8VCcWWZKDysZXPcPExRNN": 1,
+		"18_1CTut2qbaj54ZjNoYeuWSGwV75iVieKY6N": 1,
+		"170_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1,
+		"167_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1
+	}
+}

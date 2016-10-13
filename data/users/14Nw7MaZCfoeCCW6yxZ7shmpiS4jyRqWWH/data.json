@@ -1,0 +1,23 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 3,
+	"comment": {
+		"2_1AZjDLkfYwSmjM7ZJUf7HHnrF778augRMa": [
+			{
+				"comment_id": 1,
+				"body": "> [edantes](#comment_2_1JF3eQjW4voiKdcvCkMXvUx5bLmZAiVdyi): ah yes, the old CP problem.......a blacklist perhaps?\n\nThen who do we give the power of a blacklist to? How do we know they aren't going to go censor other things?",
+				"added": 1472757529
+			}
+		],
+		"16_19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ": [
+			{
+				"comment_id": 2,
+				"body": "No peers on any of the videos. I like the idea though.",
+				"added": 1472757692
+			}
+		]
+	},
+	"comment_vote": {}
+}

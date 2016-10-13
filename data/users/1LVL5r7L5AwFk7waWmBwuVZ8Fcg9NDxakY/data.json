@@ -1,0 +1,30 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 4,
+	"comment": {
+		"1_1EUyJtat7mbu5wMcR6nrJTPBBRons1mtMA": [
+			{
+				"comment_id": 1,
+				"body": "I have been aware of ZeroNet since launch last year, but the TorrentFreak article reminded me of ZeroNet today. I am testing and like what I have seen so far. Much more usable than Maelstrom.",
+				"added": 1456936372
+			}
+		],
+		"1_1N9vyd78w2N6174aLsw7FvCk5Lij3Bu33Y": [
+			{
+				"comment_id": 2,
+				"body": "Reddit is already full of clowns, but I guess you mean \"clone.\"",
+				"added": 1457078757
+			}
+		],
+		"1_154jAWx5PDRmvF4txGHo4Edw1BpduhDyvw": [
+			{
+				"comment_id": 3,
+				"body": "> [pyschopomp](#comment_2_1D7uESYtAKV36MVPGJZXuE7LUKbLwfo4dX): No offense, but \"normals\" is the reason the web sucks and is being pushed for stronger censorship.For those who have been around long enough all technologies begin like this. BBS, ant then Web 1.0.I think ZeroNet has a lot of potential but it's too early to start bridging with the regular joe. ZeroNet is for a censorship free internet, and allowing people with sensibilities in now could actually hinder that goal.\n\nI agree. The normal web is good enough for \"normals.\" I think ZeroNet should first become rock solid, with a critical mass of early users, and full of interesting content (which is the really important thing). Then, the \"normals\" in search of a better alternative will be able to find it.",
+				"added": 1457163510
+			}
+		]
+	},
+	"comment_vote": {}
+}

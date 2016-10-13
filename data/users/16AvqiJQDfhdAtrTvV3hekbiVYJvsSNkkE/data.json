@@ -1,0 +1,16 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 2,
+	"comment": {
+		"1_139X4c3WFVtmsEj6Vpdd74YY49ettpduKq": [
+			{
+				"comment_id": 1,
+				"body": "im going to try develop one soon",
+				"added": 1465398914
+			}
+		]
+	},
+	"comment_vote": {}
+}

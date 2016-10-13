@@ -1,0 +1,30 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "How do I mine namecoin?",
+			"body": "Can people please post here on how and where people can mine namecoin. \n\nGo!",
+			"added": 1457708854
+		}
+	],
+	"topic_vote": {},
+	"next_comment_id": 3,
+	"comment": {
+		"1_1BQg5MQZ63aEQZMzLEXP6yY3hsgznKpaps": [
+			{
+				"comment_id": 1,
+				"body": "Ubuntu 14.04 and on my mac. Screw wincurtains.",
+				"added": 1457708720
+			}
+		],
+		"3_1LJMypJ67iEBwah82xwVVdB8SGZ1mwqgHQ": [
+			{
+				"comment_id": 2,
+				"body": "Only other host in in Denmark. Not sure if this is valid for your test, but hey. Moar txt for the zeronet,",
+				"added": 1457709109
+			}
+		]
+	},
+	"comment_vote": {}
+}

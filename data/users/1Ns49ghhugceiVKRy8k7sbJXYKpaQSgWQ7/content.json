@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HJF8s3mV3fsqlPlIwXQLVjtz6Z5n0Gg+f79vfggn8uHICWjJTmmivzTdCE+XM1oIuLj0dKjkpG/VAk2MK30Xqko=",
+ "cert_user_id": "walkercorps@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "1bfc084f066bef6ec20f6970525a212ee7adb89997b45c3664a22b230f4ec59a",
+   "size": 1136
+  }
+ },
+ "inner_path": "data/users/1Ns49ghhugceiVKRy8k7sbJXYKpaQSgWQ7/content.json",
+ "modified": 1469949990.764,
+ "signs": {
+  "1Ns49ghhugceiVKRy8k7sbJXYKpaQSgWQ7": "G3ipgJY9ik+YIdMMw7siggbH0dPQIFbgCrvw+gWVbZGW4ZWnjMAHjdf5l/sbVQKH5iIBXNxsOUsBZdlFdHffzQc="
+ }
+}

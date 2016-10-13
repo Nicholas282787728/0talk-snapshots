@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "G41hB26QXgbwUJm9g3MaOi8RT6udBaTTb60WY92wDaMgCZtN6Lv+TR5Fe/6H8EAuiSk6t/HxzXfhoZxFL7neXBQ=",
+ "cert_user_id": "henryjekyll@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "57e2e07b7b8b7cc569db613bbf935d98b90c2f0c429bd88b37549858e7a85beb",
+   "size": 518
+  }
+ },
+ "inner_path": "data/users/1KXon73f8GWeRj8GSoMBQCJ3kNdxkmzQ9v/content.json",
+ "modified": 1457248432.854273,
+ "signs": {
+  "1KXon73f8GWeRj8GSoMBQCJ3kNdxkmzQ9v": "HNM2zHCfRtFMgZrN19YVTvbv0s82+3cQop0yCuVWbMXDa6OngIzDlO7LoNVA6pPYRDUD4wMU7IHIH9I3aiChz2g="
+ }
+}

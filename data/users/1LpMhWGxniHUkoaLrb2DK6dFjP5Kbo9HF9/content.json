@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "G7J6PJOYDfVU8EN0ywiRNSUgBqfGKBcTPpxtlrdmhqVVq6g7yTIfHdRP38eHQKch5wI0Zy3Nr+k+oj7azZ0/gxM=",
+ "cert_user_id": "brasilikum@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "7a8654b3b1a698d29daebb8e1561e5b9cc85f6dca6a431da9c6f6b248eabc432",
+   "size": 162
+  }
+ },
+ "inner_path": "data/users/1LpMhWGxniHUkoaLrb2DK6dFjP5Kbo9HF9/content.json",
+ "modified": 1456527555.950495,
+ "signs": {
+  "1LpMhWGxniHUkoaLrb2DK6dFjP5Kbo9HF9": "HPpsR5PclhTXAj/5JsEzUrvrfFFw2vTIpiw4akb/kiW0ywK7nJwXwWjsgssj2z+ErrmCkrfWKaepopb2CBBeaL4="
+ }
+}

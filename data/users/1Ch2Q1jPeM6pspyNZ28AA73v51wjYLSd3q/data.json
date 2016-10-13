@@ -1,0 +1,30 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "ZeroNets increasing numbers",
+			"body": "Does anyone else notice that ever since the program got posted. It has been getting a loads more people lately",
+			"added": 1456981616
+		}
+	],
+	"topic_vote": {},
+	"next_comment_id": 3,
+	"comment": {
+		"14_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf": [
+			{
+				"comment_id": 1,
+				"body": "> [lint](#comment_3_18jiuMEFFvYp1asdmcaZ8YvdjPS9aZCcfJ): I was linked to the torrentfreak article from hacker news (https://news.ycombinator.com).\n\nsame",
+				"added": 1456951873
+			}
+		],
+		"1_154jAWx5PDRmvF4txGHo4Edw1BpduhDyvw": [
+			{
+				"comment_id": 2,
+				"body": "> [pyschopomp](#comment_2_1D7uESYtAKV36MVPGJZXuE7LUKbLwfo4dX): No offense, but \"normals\" is the reason the web sucks and is being pushed for stronger censorship.For those who have been around long enough all technologies begin like this. BBS, ant then Web 1.0.I think ZeroNet has a lot of potential but it's too early to start bridging with the regular joe. ZeroNet is for a censorship free internet, and allowing people with sensibilities in now could actually hinder that goal.\n\nRegardless, if we can make an easy to use client that shows the benefits of using it. Then it could start being adopted by these people",
+				"added": 1457160158
+			}
+		]
+	},
+	"comment_vote": {}
+}

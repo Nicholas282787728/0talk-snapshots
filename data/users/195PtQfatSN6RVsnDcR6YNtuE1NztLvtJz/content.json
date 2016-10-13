@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "G/+E/wed498ETEurxQn3SrUCrb+avdRx9nMkgOd0dI9zkyIPq67bNxKYHwnsW+8vMl4itUsQXUyIkEPapzhymq8=",
+ "cert_user_id": "beni666@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "23b3177b5a70731709d4f20e61e947156859fe84aea9b7c6ab9b3ef66e1dca86",
+   "size": 244
+  }
+ },
+ "inner_path": "data/users/195PtQfatSN6RVsnDcR6YNtuE1NztLvtJz/content.json",
+ "modified": 1459689652.058,
+ "signs": {
+  "195PtQfatSN6RVsnDcR6YNtuE1NztLvtJz": "HLS95wZ9n5c0gjFOhTeEzobVRq9zXLvYPLVUygWu51zmveKVAO1fImULj5L52J7qrfwZhBY7Q9zc1XRW3mG6XgE="
+ }
+}

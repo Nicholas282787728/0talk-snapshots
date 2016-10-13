@@ -1,0 +1,475 @@
+{
+	"next_topic_id": 15,
+	"topic": [
+		{
+			"body": "Post suggestions, complaints or comments about zerosearch.bit here!",
+			"title": "ZeroSearch.bit sub-topic",
+			"added": 1436501064,
+			"type": "group",
+			"topic_id": 5
+		},
+		{
+			"topic_id": 6,
+			"title": "Add sites to ZeroSearch here!",
+			"body": "~~Here you can post any sites that you want to add that aren't currently being indexed by zerosearch. \nMake sure the site is hosted by other peers by checking if it still online after you turn your own computer off.\n Post your comment in this format:\n(Site title, no more than 30 characters):(site address)~~\n\nThe add your site button is working again, go to http://127.0.0.1:43110/zerosearch.bit and press the add your site link at the bottom.",
+			"added": 1436501532,
+			"parent_topic_uri": "5_1PNyuY1iZqXBpft4ArouqcnE4pNRGYij5i"
+		},
+		{
+			"body": "A place to share and discuss the latest developments, happenings and curiosities in the world of technology; a broad spectrum of conversation as to the innovations, aspirations, applications and machinations that define our age and shape our future.",
+			"title": "Technology",
+			"added": 1436506868,
+			"type": "group",
+			"topic_id": 7
+		},
+		{
+			"topic_id": 8,
+			"title": "How/when did you find ZeroNet?",
+			"body": "^^^",
+			"added": 1441499453
+		},
+		{
+			"topic_id": 9,
+			"title": "100+ sites indexed",
+			"body": ":D",
+			"added": 1441586096,
+			"parent_topic_uri": "5_1PNyuY1iZqXBpft4ArouqcnE4pNRGYij5i"
+		},
+		{
+			"topic_id": 10,
+			"title": "List of public zeronet proxies",
+			"body": "http://bit.no.com:43110\n\nhttp://zeronet.classcoder.com/\n\nhttp://zero.pags.to:43110\n\nPost new ones in the comments.\nIf any of these are offline, tell me in the comments and I'll remove them.\n",
+			"added": 1441678523
+		},
+		{
+			"topic_id": 11,
+			"title": "I just fixed the \"Add your site\" button!",
+			"body": "If anyone wants to help me test it, go to http://127.0.0.1:43110/zerosearch.bit and press the link at the bottom. \n\nPlease report any bugs here :)",
+			"added": 1441744075,
+			"parent_topic_uri": "5_1PNyuY1iZqXBpft4ArouqcnE4pNRGYij5i"
+		},
+		{
+			"topic_id": 12,
+			"title": "164 sites indexed!",
+			"body": "Adding around a zerosite every 2 days, at this rate we will have have 1000 sites by August 2021.",
+			"added": 1455496171,
+			"parent_topic_uri": "5_1PNyuY1iZqXBpft4ArouqcnE4pNRGYij5i"
+		},
+		{
+			"topic_id": 13,
+			"title": "Added sites from queue",
+			"body": "Sorry for taking that long to update it, I got a new computer. We're at 218 zerosites now!",
+			"added": 1457035513,
+			"parent_topic_uri": "5_1PNyuY1iZqXBpft4ArouqcnE4pNRGYij5i"
+		},
+		{
+			"topic_id": 14,
+			"title": "Removed duplicate results from search.",
+			"body": "We're now indexing 395 sites.  At the current 9 site/day rate, we will reach 1000 sites in around 2 months!",
+			"added": 1457377927,
+			"parent_topic_uri": "5_1PNyuY1iZqXBpft4ArouqcnE4pNRGYij5i"
+		}
+	],
+	"topic_vote": {
+		"1_1PNyuY1iZqXBpft4ArouqcnE4pNRGYij5i": 1,
+		"2_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"5_1PNyuY1iZqXBpft4ArouqcnE4pNRGYij5i": 1,
+		"6_1PNyuY1iZqXBpft4ArouqcnE4pNRGYij5i": 1,
+		"7_1PNyuY1iZqXBpft4ArouqcnE4pNRGYij5i": 1,
+		"8_1PNyuY1iZqXBpft4ArouqcnE4pNRGYij5i": 1,
+		"1_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"2_1LuKn5dchXVpfyETrDkuNAQDcXL5D3Fq9o": 1,
+		"1_14yb6qdkbYmhqt6rVxUqXo65s4i63BffAr": 1,
+		"9_1PNyuY1iZqXBpft4ArouqcnE4pNRGYij5i": 1,
+		"3_1ArMJqDaBJqeJ4MX3VqSnkfwkHe23PtLrW": 1,
+		"1_1ArMJqDaBJqeJ4MX3VqSnkfwkHe23PtLrW": 1,
+		"1_1Ba8QbZfBsteofAHFerLuYFUxTBZgWBiLH": 1,
+		"1_16XLqRV4cwdqvbHCS3M2jH3xuP7ZPv1Y8k": 1,
+		"3_13P8oKB5LtAYbe2mvfR71s9TPNy4sMk8bc": 1,
+		"10_1PNyuY1iZqXBpft4ArouqcnE4pNRGYij5i": 1,
+		"11_1PNyuY1iZqXBpft4ArouqcnE4pNRGYij5i": 1,
+		"2_1N7rwMoX54MQy6Ujo8Vzp6gtVRtwCkhV5g": 1,
+		"3_1KcPohxmuqiNShTaAzJZLndm5aWtBZLuJn": 1,
+		"12_1PNyuY1iZqXBpft4ArouqcnE4pNRGYij5i": 1,
+		"1_1PPqTMbH8Uwrk496grUVuBk57dSoeU9hig": 1,
+		"19_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf": 1,
+		"1_1C3v8nTmMJReshHQxX1Di6D8nmMYfdpspA": 1,
+		"1_1Fa8QonaFFGcNx3YKiohCoAAhcFaVjkCyM": 1,
+		"1_17dEBAxTcyJg38KfNtCvYWp7fddLKHv4rc": 1,
+		"2_1KJFB4SEHaHCY11HMKsMGyth1mXKb3R5oY": 1,
+		"2_13vL6ARzDm7215jaRjFvAATfkxBriSnGmb": 1,
+		"13_1PNyuY1iZqXBpft4ArouqcnE4pNRGYij5i": 1,
+		"1_1N1WCav1oetiu7QpKNXmsfxpeGrEtZ3gCe": 1,
+		"14_1PNyuY1iZqXBpft4ArouqcnE4pNRGYij5i": 1
+	},
+	"next_comment_id": 50,
+	"comment": {
+		"2_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": [
+			{
+				"comment_id": 1,
+				"body": "testijtosiejoijseofisefirn iugternoiu gtrn iguetrhg iuten oietnh iotnh tueih itrnhentrh nrtihn eriouth pdono iskdu5jh iskdur",
+				"added": 1436501024
+			}
+		],
+		"1_16cnC4CxZKjMJNNopuiFQ9nVNiCk5mZ9CP": [
+			{
+				"comment_id": 2,
+				"body": "There should be an easier way to see who upvoted a comment, maybe by mouseovering the upvote button.",
+				"added": 1437867982
+			}
+		],
+		"6_1PNyuY1iZqXBpft4ArouqcnE4pNRGYij5i": [
+			{
+				"comment_id": 3,
+				"body": ">(Anarchist Buddhism):(1E3kfUfndiSh16YZrxuNrCEZboMFzdt1Hh)\n\nAdded!\n\n>(lyc):(1PkTiSpMwpTt9masqRWaufFHu8DFMmamcM)\n\nCouldn't connect to this one, no peers found.",
+				"added": 1438570017
+			},
+			{
+				"comment_id": 4,
+				"body": "> (lyc):(1PkTiSpMwpTt9masqRWaufFHu8DFMmamcM)\n>Lostfiles Blog : 1DniZHDZPWiCPC2JL6dURYm6dk9fWZeDbc\n\nAdded!",
+				"added": 1441499453
+			},
+			{
+				"comment_id": 11,
+				"body": "> [ronsor](#comment_3_1PaX4LQSsjsJvTNqfZbAApgmgzBJjrkRqZ): Zero-it reddit clone:http://127.0.0.1:43110/1PSmJuVoZmPGkWjcjx2Qng8RNub6BEDqVD\n\nAdded!",
+				"added": 1441581661
+			},
+			{
+				"comment_id": 14,
+				"body": "> [r3](#comment_15_1UfvLnMuzShvi3phWGSqn79tio81Wn9Dt): http://127.0.0.1:43110/12ygu8wKLgAyK5u7fScYDsubRXHAHUoFQLNEXT Blog：12ygu8wKLgAyK5u7fScYDsubRXHAHUoFQL\n\n> [r3](#comment_16_1UfvLnMuzShvi3phWGSqn79tio81Wn9Dt): Everything Talk（Chinese Forum）：1Cjb8FNxaqhzBE7LQtPMQqkLyYmmdEtfEYhttp://127.0.0.1:43110/1Cjb8FNxaqhzBE7LQtPMQqkLyYmmdEtfEY\n\nAdded!",
+				"added": 1441657487
+			},
+			{
+				"comment_id": 15,
+				"body": "> [tylerdurden](#comment_2_1B7ADdsLfErMeEG8SeJWiYMWSQQG9L1ViQ): http://127.0.0.1:43110/1GxXyuP4GvbczVPsGbyC3pQSNVRFpc6orM/\n\nI couldn't connect, are you sure you published it?",
+				"added": 1441657507
+			}
+		],
+		"3_168qV1Xxp2EyszrzdECLUwXrn9wGYjDdar": [
+			{
+				"comment_id": 5,
+				"body": "> [tristan](#comment_2_1EuGytimEBpPfFBt15BZDzNzwKBg1Yhdte): Video test http://127.0.0.1:43110/1P7dXcg8FagxCENNhtLDXPApTAMjtNafbB\n\nIt loads an empty page for me, is it currently working?",
+				"added": 1441505137
+			}
+		],
+		"8_1PNyuY1iZqXBpft4ArouqcnE4pNRGYij5i": [
+			{
+				"comment_id": 6,
+				"body": "I found it in /r/bitcoin around 8 months ago. ",
+				"added": 1441513420
+			}
+		],
+		"1_1EvouJCSru1YAbXsZW6WtRa97eLP4UjqKo": [
+			{
+				"comment_id": 7,
+				"body": "There doesn't seem to be any imageboards for zeronet, so I'll start working on one.",
+				"added": 1441559146
+			},
+			{
+				"comment_id": 8,
+				"body": "> [dobrosketchkun](#comment_1_1EvouJCSru1YAbXsZW6WtRa97eLP4UjqKo): Does your project have a github page?\n\nNo, I haven't started developing it yet. I'll create the github now, any ideas for a name?",
+				"added": 1441561532
+			},
+			{
+				"comment_id": 10,
+				"body": "> [makochin](#comment_4_1ejShbzHh834eRxhxjFSD13XkT3AFySUq): Anything will be better than ZeroChan, heh.\n\nWhy not? Sounds like a memorable name.",
+				"added": 1441563887
+			}
+		],
+		"2_1LuKn5dchXVpfyETrDkuNAQDcXL5D3Fq9o": [
+			{
+				"comment_id": 9,
+				"body": "This happens to me with every torrent client, just whitelist zeronet on MBAM and it should stop.",
+				"added": 1441563489
+			}
+		],
+		"1_15g93x35ge8mBSxf2ZDo1oiHdkD3JfSZUc": [
+			{
+				"comment_id": 12,
+				"body": "Open system tray > Right click zeronet icon > Close zeronet.",
+				"added": 1441596198
+			}
+		],
+		"3_1ArMJqDaBJqeJ4MX3VqSnkfwkHe23PtLrW": [
+			{
+				"comment_id": 13,
+				"body": "http://127.0.0.1:43110/zerosearch.bit",
+				"added": 1441657341
+			}
+		],
+		"1_12e8Ns7LTUW6SikDKkApTG9VVdFMQDsWNL": [
+			{
+				"comment_id": 16,
+				"body": "Is this a question or a placeholder for a tutorial?",
+				"added": 1441826220
+			}
+		],
+		"2_1N7rwMoX54MQy6Ujo8Vzp6gtVRtwCkhV5g": [
+			{
+				"comment_id": 17,
+				"body": "I got a list of working zeroproxies here:\n\nhttp://127.0.0.1:43110/talk.ZeroNetwork.bit/?Topic:10_1PNyuY1iZqXBpft4ArouqcnE4pNRGYij5i/List+of+public+zeronet+proxies",
+				"added": 1441826297
+			}
+		],
+		"11_1PNyuY1iZqXBpft4ArouqcnE4pNRGYij5i": [
+			{
+				"comment_id": 18,
+				"body": "> [zyx](#comment_12_1DUxbFE7rbRQrzXQigk1VSzeqdaAJpwBvH): I entered my tags, just with spaces. Maybe mention they should be comma-seperated :)Immediately after I can't find my added site. Is this normal?Also the random search button only yields; news, zero, ebooks, games, blog\n> Also, oxilic, would you like to team up? I'm looking for a small project in my sparetime, and I like yours! I'll pay the hosting :P\n> Edit: my apologies, the comma-seperated tags text is there. I just somehow didn't read it completely.\n\nThe sites added are checked manually, so it is normal that you wouldn't be able to find it immediately. \n~~I can't seem to find your site in there though, did it display the \"success!\" box on the top right when you clicked it?~~\nnvm that, it seems like my zeronet client didn't update my data directory, I added it now :D",
+				"added": 1441826695
+			}
+		],
+		"1_1G6f5cset6fTDsmckP46woi31TdKHbaBta": [
+			{
+				"comment_id": 19,
+				"body": "There isn't any extension to integrate zeronet with any browsers as you can't run python scripts in extensions. \n\nThere is a chrome extension makes you able to access zeronet sites by typing http://zero/siteaddress.  You can get it here:\n\nhttps://chrome.google.com/webstore/detail/zeronet-protocol/cpkpdcdljfbnepgfejplkhdnopniieop?hl=en\n\nIt's not available for Firefox, though.",
+				"added": 1441912548
+			}
+		],
+		"10_1PNyuY1iZqXBpft4ArouqcnE4pNRGYij5i": [],
+		"2_1KcPohxmuqiNShTaAzJZLndm5aWtBZLuJn": [
+			{
+				"comment_id": 21,
+				"body": "Wouldn't this be similar to adding a \"filter sites I have\" option to zerosearch?",
+				"added": 1447641420
+			},
+			{
+				"comment_id": 22,
+				"body": "> [cgm616](#comment_6_1KcPohxmuqiNShTaAzJZLndm5aWtBZLuJn): Also, yeah, ZeroSearch needs a way to find sites\n\nI had a basic crawler I made a while ago, although I turned it off as there weren't enough sites being made, so I just ended up adding them manually. Another problem is that the crawler didn't detect tags, so I had to add the sites found to a list and add tags manually. \n\n> [oracle](#comment_33_1ED3Ho3kmzaKiECtyuqSjDpoE47rKuXeP): you could have ZeroIndex programmed to exclude the sites you already have and only show the ones you don't have.\n\nI'm not sure if it's currently possible to check what site a user has, that would need to be added in a future version of zeroframe.  It also needs to be asked to the user if they want to show what sites they have.\n\n> [cgm616](#comment_5_1KcPohxmuqiNShTaAzJZLndm5aWtBZLuJn): Problem with ZeroSearch is that you need to know what you're looking for, you can't ust browse and find something. Yes, they are similar but ZeroIndex would be a way to easily find content you didn't know you wanted.\n\nTrue, I think that can be solved by adding a \"most popular tags\" page based on past searches.  I'm not sure if that would work though as it wouldn't be hard for someone to automate searches.",
+				"added": 1447702051
+			},
+			{
+				"comment_id": 23,
+				"body": "> [cgm616](#comment_11_1KcPohxmuqiNShTaAzJZLndm5aWtBZLuJn): How did you do the crawler? Was it just some python running? I don't think it would be possible to do a crawler in client side js, but that would definitely make it a lot more distributed.\n\nYep, I had zeronet running in the background and a python script crawling it.  Client side wouldn't work as zeronet blocks a site from accessing other site's contents, and I'm not sure if having it more distributed would be good as it makes it more possible for people to add spam to the list.",
+				"added": 1447793247
+			}
+		],
+		"1_1NVf2GWG9BTq8HFUumUbfp9N9HmYwZpkSv": [
+			{
+				"comment_id": 24,
+				"body": "ZeroSearch:  http://127.0.0.1:43110/zerosearch.bit",
+				"added": 1448596913
+			}
+		],
+		"4_1QH84f44yLPvMjMua9s7iM7c4RoJNZ2nTp": [
+			{
+				"comment_id": 25,
+				"body": "Mine's Oxilic.\n\nIs there currently anyway to send messages to multiple people?",
+				"added": 1449812658
+			}
+		],
+		"19_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf": [
+			{
+				"comment_id": 26,
+				"body": "It's not currently an option, although I'll see if I can make a crawler so it indexes every page and improves keywords as currently you have to add them manually.",
+				"added": 1455498941
+			},
+			{
+				"comment_id": 27,
+				"body": "> [nippletwister](#comment_110_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf): This would be nice! BTW, why Yacy search engine isn't proper choice for Zeronet?\n\nI don't think Yacy currently works with Zeronet, and I don't think a decentralized search engine would work well here as it would be too easy to add spam links.",
+				"added": 1455504729
+			}
+		],
+		"2_1ADB7TdX2fVbTsWBoMe9yBTmVXTbb33b4R": [
+			{
+				"comment_id": 28,
+				"body": "http://127.0.0.1:43110/zerosearch.bit",
+				"added": 1456884910
+			}
+		],
+		"12_1PNyuY1iZqXBpft4ArouqcnE4pNRGYij5i": [
+			{
+				"comment_id": 29,
+				"body": "> [pycole](#comment_29_1KwTTgPRSTHFmmJAFBt6kQfdyNeSM5KJuH): That rate's not going to stay constant. Chances are that as the project matures, there will be a spike in interest from less technically-minded users arriving. That's roughly what happened with the rise of the Internet itself, anyway.\n\nYep hopefully. I'll also start a crawler soon which should increase the rate as most people don't submit their sites.",
+				"added": 1456885157
+			},
+			{
+				"comment_id": 31,
+				"body": "> [kaffie](#comment_8_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh): Any chance of getting better descriptions of the results as well? A lot of the results that pop up don't give any hints as to what's on the site.\n\nIt's currently searching by keywords, I'm not sure how I'd make a crawler automatically create a description about a site though, unless I do it manually which wouldn't be easy for 170+ sites.",
+				"added": 1456953746
+			}
+		],
+		"1_1Fa8QonaFFGcNx3YKiohCoAAhcFaVjkCyM": [
+			{
+				"comment_id": 30,
+				"body": "Zerosearch: http://127.0.0.1:43110/zerosearch.bit",
+				"added": 1456944025
+			}
+		],
+		"1_1C3v8nTmMJReshHQxX1Di6D8nmMYfdpspA": [
+			{
+				"comment_id": 32,
+				"body": "huehuehue br",
+				"added": 1456944538
+			}
+		],
+		"1_1yq6ABe15TborB8sGQb1pGcZgUd6eu3WJ": [],
+		"2_1GCsW9TFfjDsvcdmKPADq1n8Q3ha72UtDQ": [
+			{
+				"comment_id": 34,
+				"body": "python",
+				"added": 1457032953
+			}
+		],
+		"1_1CNWTRN6cn761Wyb4eauhUU8wiKgGSTMC7": [
+			{
+				"comment_id": 35,
+				"body": "ZeroSearch: http://127.0.0.1:43110/zerosearch.bit",
+				"added": 1457033134
+			}
+		],
+		"2_1KJFB4SEHaHCY11HMKsMGyth1mXKb3R5oY": [
+			{
+				"comment_id": 36,
+				"body": "> [angristan](#comment_6_1MEWJRMLgvofqG9Mbsb2Rc4hFFyv7HeRx7): Nice, need a bit of CSS improvement ^^\n> And, oh, Google Analytics on ZeroNet ?...\n\nYep, seems to work fine on zeronet!",
+				"added": 1457034730
+			},
+			{
+				"comment_id": 37,
+				"body": "> [effekt](#comment_15_1PX7VW6xfccTT2tNUTwrYKJpGsGfrnoJfP): Better one here http://127.0.0.1:43110/1Mr5rX9TauvaGReB4RjCaE6D37FJQaY5Ba\n\nThat's just a direct copy of zerosearch's source code with less links, and a bad way to add sites.  I can't see how that's better.",
+				"added": 1457034814
+			},
+			{
+				"comment_id": 38,
+				"body": "> [apoapostolov](#comment_3_1CGidpguPpSkqbX3c19P5NUtipRzLJenX): Usually with these search engines, I always get 1 or 2 files failed update, is this a common thing?\n\nThat's probably from people adding sites and not being able to complete it, not sure exactly why that happens.",
+				"added": 1457034888
+			},
+			{
+				"comment_id": 39,
+				"body": "> [angristan](#comment_7_1MEWJRMLgvofqG9Mbsb2Rc4hFFyv7HeRx7): @apoapostolov same here@oxilic That's not a good thing. I use a VPN + TOR and P2P to go on a website. Why the hell Google comes here to track me\n\nTrue, I added it in before we had this sidebar thing showing us how many peers were connected to a site.  I'll remove it now.",
+				"added": 1457035137
+			},
+			{
+				"comment_id": 45,
+				"body": "> [kaffie](#comment_35_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh): ZeroSearch was the first one. It uses a mix of a central authority list filled by it's dev, along with a collection of dev approved user submissions. At the moment, the index count is wrong, since there's several sites indexed multiple times. IMO it's not very functional, but it was what we had to work with for a long time.\n> Kaffiene (my search engine) is indeed a clone of zerosearch. I removed the user-submission aspect, since it just queued them up without adding. However, when I finished cloning it, Kaffiene had an identical amount of sites. I then took the liberty of adding a few more. I noticed earlier today ZeroSearch added quite a few as well. IMO, Kaffiene is more usable, and provides more or less all the same sites.\n> Bwoi is a new one that only indexes and searches the ZeroName sites.\n> Perhaps I'm biased, but I'd say usability goes: Kaffiene > ZeroSearch > Bwoi.\n> Either way, I'm planning on continually updating Kaffiene with new features/results. I'm currently looking into how to automatically grab new sites to index. As always, I intend to keep functionality and quality search results as a top priority for Kaffiene. Which are two issues I constantly have trouble with on the competing search engines.\n\nThe sites needed to be manually checked to prevent spam, so they were added to a queue.  How is that worse than your current way of receiving sites through zeromail?",
+				"added": 1457060372
+			},
+			{
+				"comment_id": 46,
+				"body": "> A user request system is nice, but it's ultimately useless.\n\nSo then you replaced it with another user request system?\n\n>useless without an active dev\n\nDoesn't the same apply to yours?\n\n>queue is autochecked when it's not\n\nAgain, same goes for yours. You kept the same site and just changed the dev.\n\n>the queue is equivalent to just asking the dev to add the site\n\nSo you just switched the queue to your mail box, and you're the one adding it to your site.\n\nAs I see it, you basically cloned my site, changed a couple lines to make it show the tags and remove the search limit, added your name on it and claimed it as your own.  How is that in any way not dishonest.",
+				"added": 1457062044
+			}
+		],
+		"1_1N1WCav1oetiu7QpKNXmsfxpeGrEtZ3gCe": [
+			{
+				"comment_id": 40,
+				"body": "> [dirtydem](#comment_5_19gFBQKVBoGDvewv8JLmYDa8ZQGvVTUhhL): http://127.0.0.1:43110/1Mr5rX9TauvaGReB4RjCaE6D37FJQaY5Ba this is a bit stronger engine\n\nThat one has 30 results less than ZeroSearch, how is it stronger?",
+				"added": 1457035948
+			},
+			{
+				"comment_id": 41,
+				"body": "ZeroSearch: http://127.0.0.1:43110/zerosearch.bit",
+				"added": 1457035969
+			},
+			{
+				"comment_id": 43,
+				"body": "> [bitfish](#comment_2_1FfLoFiiFnaf2RPE4nqHEP8mB9uU2rPTmH): Finally an alternative to Zero-Search! Does this one have a Google like bot crawler or is indexing still done manually?\n\nIndexing is still done manually, although you need to mail the creator to add your address instead of doing it through the site.",
+				"added": 1457043179
+			}
+		],
+		"1_12ve3nmRvDkay7puHnhTT5pgqAo9Uo8ee6": [
+			{
+				"comment_id": 42,
+				"body": "Eu! Qual estado?",
+				"added": 1457038666
+			}
+		],
+		"13_1PNyuY1iZqXBpft4ArouqcnE4pNRGYij5i": [
+			{
+				"comment_id": 44,
+				"body": "> [lucas](#comment_1_1BwKJZ6qGZ6tkCpp3ojUpGQgyEiykTvYcv): The submit button is not working so I am going to post the address here 194zbw7b1dksF27FCzhLqPZGkayqHWQBt4 (or flucas.bit). Not really anything on it though.\n\nAdded both sites manually, fixed the update button :)",
+				"added": 1457060137
+			}
+		],
+		"1_1FEwrHgDUC1ziFNjfPWxLsVmxsLUYEkPn6": [
+			{
+				"comment_id": 47,
+				"body": "> [almightypacheco](#comment_1_15dLpTtYz6Rpd66PMevhGcMz5wvVFTFHsG): boas malta sou novo, como vou ao play sabem me dizer?\n\nhttp://127.0.0.1:43110/1PLAYgDQboKojowD3kwdb3CtWmWaokXvfp",
+				"added": 1457388506
+			}
+		],
+		"14_1PNyuY1iZqXBpft4ArouqcnE4pNRGYij5i": [
+			{
+				"comment_id": 48,
+				"body": "> [cub3](#comment_23_1LRrd96P7FiTcsyNXVzPM5jtpQoH1B4gYf): Are all sites added manually or do you have some kind of spider adding sites automatically?\n\nCurrently both, I started a crawler yesterday, but for now I'm adding them manually to zerosearch to make sure it didn't get anything wrong.  There's also the option to add a site manually in case the crawler misses your site for some reason, although I'll eventually remove that link once I am sure the crawler works properly.\n\nI should make a post explaining that here.",
+				"added": 1457391433
+			}
+		],
+		"3_1HcK5Hw1rPZeYdgTmqJGrVG2tSyR9Ke2Gt": [
+			{
+				"comment_id": 49,
+				"body": "> [kaffie](#comment_55_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh): I'm confused. What seems to be the issue? All I see is a link to an image on clearnet, which shows an 'index.html not found' page. How is this a bug? That the site didn't properly have it's index.html set up?\n\nThat image had a tracker, so the guy that uploaded it has your IP (or your vpn's).  There's no bug, the title is just there to get people to click.",
+				"added": 1457398476
+			}
+		]
+	},
+	"comment_vote": {
+		"1_1PNyuY1iZqXBpft4ArouqcnE4pNRGYij5i": 1,
+		"23_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"2_1PNyuY1iZqXBpft4ArouqcnE4pNRGYij5i": 1,
+		"2_153yJaRcL3ECYXYqnKAFWeRUHYs5rQiaj9": 1,
+		"1_153yJaRcL3ECYXYqnKAFWeRUHYs5rQiaj9": 1,
+		"4_1PNyuY1iZqXBpft4ArouqcnE4pNRGYij5i": 1,
+		"7_1PNyuY1iZqXBpft4ArouqcnE4pNRGYij5i": 1,
+		"8_1PNyuY1iZqXBpft4ArouqcnE4pNRGYij5i": 1,
+		"1_1EvouJCSru1YAbXsZW6WtRa97eLP4UjqKo": 1,
+		"9_1PNyuY1iZqXBpft4ArouqcnE4pNRGYij5i": 1,
+		"3_1PaX4LQSsjsJvTNqfZbAApgmgzBJjrkRqZ": 1,
+		"58_168qV1Xxp2EyszrzdECLUwXrn9wGYjDdar": 1,
+		"11_1PNyuY1iZqXBpft4ArouqcnE4pNRGYij5i": 1,
+		"12_1PNyuY1iZqXBpft4ArouqcnE4pNRGYij5i": 1,
+		"13_1PNyuY1iZqXBpft4ArouqcnE4pNRGYij5i": 1,
+		"14_1PNyuY1iZqXBpft4ArouqcnE4pNRGYij5i": 1,
+		"15_1PNyuY1iZqXBpft4ArouqcnE4pNRGYij5i": 1,
+		"20_1EtswFGV1BvkGTp4b7JgVkqMMMhYazekfM": 1,
+		"1_16XLqRV4cwdqvbHCS3M2jH3xuP7ZPv1Y8k": 1,
+		"1_16CBqzDz9DDFE6ra1FdwAVoXwNoaKn2qG1": 1,
+		"2_16XLqRV4cwdqvbHCS3M2jH3xuP7ZPv1Y8k": 1,
+		"1_1NfmTATDU4nnW2dcPc2VjAUvtKy5yL6m48": 1,
+		"10_18ECMG6USRQenXgf7QdxDniLGi7PLBcKjX": 1,
+		"16_1PNyuY1iZqXBpft4ArouqcnE4pNRGYij5i": 1,
+		"17_1PNyuY1iZqXBpft4ArouqcnE4pNRGYij5i": 1,
+		"19_1PNyuY1iZqXBpft4ArouqcnE4pNRGYij5i": 1,
+		"20_1PNyuY1iZqXBpft4ArouqcnE4pNRGYij5i": 1,
+		"95_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"3_15QGRquMETTn5LnCHjTm1qa9eaXGtq7gpT": 1,
+		"24_1PNyuY1iZqXBpft4ArouqcnE4pNRGYij5i": 1,
+		"10_1QH84f44yLPvMjMua9s7iM7c4RoJNZ2nTp": 1,
+		"19_1KcPohxmuqiNShTaAzJZLndm5aWtBZLuJn": 1,
+		"2_1GQgd9YDKghg4KKrerR7nfUdDfqj1WatLL": 1,
+		"20_1KcPohxmuqiNShTaAzJZLndm5aWtBZLuJn": 1,
+		"25_1PNyuY1iZqXBpft4ArouqcnE4pNRGYij5i": 1,
+		"26_1PNyuY1iZqXBpft4ArouqcnE4pNRGYij5i": 1,
+		"110_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf": 1,
+		"27_1PNyuY1iZqXBpft4ArouqcnE4pNRGYij5i": 1,
+		"29_1KwTTgPRSTHFmmJAFBt6kQfdyNeSM5KJuH": 1,
+		"29_1PNyuY1iZqXBpft4ArouqcnE4pNRGYij5i": 1,
+		"8_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1,
+		"32_1PNyuY1iZqXBpft4ArouqcnE4pNRGYij5i": 1,
+		"31_1PNyuY1iZqXBpft4ArouqcnE4pNRGYij5i": 1,
+		"30_1PNyuY1iZqXBpft4ArouqcnE4pNRGYij5i": 1,
+		"1_1GTsUojNkE7LNcSE5HwRdgn8rhpS9phS9w": 1,
+		"37_1PNyuY1iZqXBpft4ArouqcnE4pNRGYij5i": 1,
+		"36_1PNyuY1iZqXBpft4ArouqcnE4pNRGYij5i": 1,
+		"35_1PNyuY1iZqXBpft4ArouqcnE4pNRGYij5i": 1,
+		"3_1NScpxmKApvAk85ubF2SLrBgkniZcm85Hr": 1,
+		"7_1MEWJRMLgvofqG9Mbsb2Rc4hFFyv7HeRx7": 1,
+		"39_1PNyuY1iZqXBpft4ArouqcnE4pNRGYij5i": 1,
+		"38_1PNyuY1iZqXBpft4ArouqcnE4pNRGYij5i": 1,
+		"34_1PNyuY1iZqXBpft4ArouqcnE4pNRGYij5i": 1,
+		"1_1Jeib68dwqNHEzGu8dBpvE4K8vfCoNLRHa": 1,
+		"2_17fgJ3tZjhM7HCkTkd5TWf2BLLWmhRKcXB": 1,
+		"41_1PNyuY1iZqXBpft4ArouqcnE4pNRGYij5i": 1,
+		"40_1PNyuY1iZqXBpft4ArouqcnE4pNRGYij5i": 1,
+		"1_12ve3nmRvDkay7puHnhTT5pgqAo9Uo8ee6": 1,
+		"42_1PNyuY1iZqXBpft4ArouqcnE4pNRGYij5i": 1,
+		"1_16rGP2GvZAi4dMjCFGvB7BzriWwZUaYW4v": 1,
+		"44_1PNyuY1iZqXBpft4ArouqcnE4pNRGYij5i": 1,
+		"1_13124rBf8BSiR3LDdWkBEp31q1xioDzpbu": 1,
+		"1_1BwKJZ6qGZ6tkCpp3ojUpGQgyEiykTvYcv": 1,
+		"45_1PNyuY1iZqXBpft4ArouqcnE4pNRGYij5i": 1,
+		"46_1PNyuY1iZqXBpft4ArouqcnE4pNRGYij5i": 1,
+		"23_1LRrd96P7FiTcsyNXVzPM5jtpQoH1B4gYf": 1,
+		"48_1PNyuY1iZqXBpft4ArouqcnE4pNRGYij5i": 1,
+		"49_1PNyuY1iZqXBpft4ArouqcnE4pNRGYij5i": 1
+	}
+}

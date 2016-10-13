@@ -1,0 +1,15 @@
+{
+ "cert_auth_type": "web",
+ "cert_sign": "HJiEyeadedG9SjSWhPt1/xqV4iW3Q9209tQN7ctCtEgXovjOrWhmUvOTN1IlnObaWLd3qFGZJSxGrpqWqYYwOgs=",
+ "cert_user_id": "whitefalcon@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "ad62479d692d728624af070d2c883f5feb7f333eece82d5e10c4f659628d921c",
+   "size": 382
+  }
+ },
+ "modified": 1455926946.32697,
+ "signs": {
+  "1C5P2TaZ8QP2c3pxFgoDRTkFRvgjVngXFc": "HGJT0++mxql+lkQZBqXFYnas8WF66tLWgTacBnqRXsXG0sud5qw0G6z2YBZF0cGPH5kPWmJgtSZSf/7FmD/jKlo="
+ }
+}

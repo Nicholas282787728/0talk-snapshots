@@ -1,0 +1,80 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {
+		"7_19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ": 1,
+		"1_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG": 1
+	},
+	"next_comment_id": 13,
+	"comment": {
+		"11_1KdnTJVBGzEZrJppFZtzfG9chukuMv8xSb": [
+			{
+				"comment_id": 1,
+				"body": "I noticed you also posted in the KickAssTorrents thread [here](http://127.0.0.1:43110/Talk.ZeroNetwork.bit/?Topic:7_19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ/KICKASS+TORRENTS) and feel I should address this issue. \n\nFirst of all I agree with all of your comments, especially \"everything on ZN is open-source (unless a zite owner puts in time obfuscating or encrypting code)\". Second of all yes it's also true I cloned ZeroTorrent and if memory serves me correctly the author of that zite did obfuscate the code which isn't the most readable and I don't have access to the original coffescript, just the compiled JavaScript (which I've since \"organised\" into separate files). If ZeroTorrent was open-source I'd probably have contributed code upstream instead.\n\nAt the moment KickAssTorrents is nothing but a glorified skin over ZeroTorrent but I do intend to add extra features and functionality and compete on merit. If I may defend myself I've been very open about the fact that I cloned ZeroTorrent and this alone justifies my actions if you ask me. In truth I have a lot to thank the author of ZeroTorrent for. His / Her work has given me a nice foundation to work from and because I'm open sourcing all of the code hopefully others can benefit from it too.",
+				"added": 1470796868
+			}
+		],
+		"7_19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ": [
+			{
+				"comment_id": 2,
+				"body": "> [quadrangle](#comment_17_1CTut2qbaj54ZjNoYeuWSGwV75iVieKY6N): I really fell for that trap there. What I mean is, it's bad to take someone else's site and pretend it's the same site when it isn't because you've just stolen the CSS so you can use their good reputation as your own. Taking an open source site and improving it is different because you aren't pretending it's yours.\n\nOnce the zite is finished I plan on adding a credits or about page where I acknowledge all of the work that's gone into the zite by myself and others. I have no intention of deceiving people or undermining people and certainly don't care about their reputation. I'm simply doing this for fun. The fact of the matter is ZeroTorrent gave me a solid base to work from (and I got to practice my debugging and reverse-engineering skills which is a nice bonus ;) ) and Kickasstorrents gave me the slick layout, CSS and certain pieces of JavaScript, which has helped a lot because CSS in particular has never been one of my strong points.\n\nOnce the zite is finished (if it's ever truly finished) I have no problem using a different name or color scheme.",
+				"added": 1470797777
+			},
+			{
+				"comment_id": 3,
+				"body": "> [sirenyc](#comment_36_19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ): CATEGORIES:\n> 1 - Movie2 - Games3 - Séries4 - Anime5 - Porn6 - Music7 - Book8 - Program9 - Others\n\nI intend to add subcategories and genres too (See: http://127.0.0.1:43110/1LBr1dHoXvJAMjDgW8Wcg5kbCoKyJnzo6p/categories.json)",
+				"added": 1470797995
+			},
+			{
+				"comment_id": 4,
+				"body": "> [focuspuller](#comment_1_1A2ED2Wq4kkyB9UMp3Ue7Pzs5q1BedyoAV): So to be clear, this isn;t actually kickass torrents, correct?\n\nOf course. The real Kickasstorrents has been shut down and remains shut down. Any site that says it's real is either lying or fake. This zite is just a clone I've been working on for fun. I'd like to try to get all of the features and functionality KickAssTorrents had bit it'll take some time.\n\nI've highlighted some of the key features and functionality I'd like to implement [here](https://gitlab.com/kickasstorrents/KAT/wikis/roadmap).",
+				"added": 1470798426
+			},
+			{
+				"comment_id": 6,
+				"body": "> [edantes](#comment_4_1JF3eQjW4voiKdcvCkMXvUx5bLmZAiVdyi): Yeah, baby steps, we still haven't perfected ZeroTorrent yet. Lets get that done and then it'll be easy to clone and port data over to wherever. I'm writing a script to mass-scrape a variety of index sites and dump it all into ZT, hope to be running it daily to keep things current.\n\nIf you're interested, what would be really helpful is if we could clone something like [TheTVDB](http://thetvdb.com/) or [TheMovieDB](https://www.themoviedb.org) or even go crazy and build something like [Trakt](https://trakt.tv). We need a system of some sort for metadata about a particular torrent. This metadata would of course be different depending on the torrent and it's category but is ultimately what would provide a summary, actors information, IMDB ratings, posters, etc...",
+				"added": 1470844231
+			},
+			{
+				"comment_id": 7,
+				"body": "> [edantes](#comment_5_1JF3eQjW4voiKdcvCkMXvUx5bLmZAiVdyi): Further down the road, yeah, that it definitely something to strive for, TheMovieDB has an API so pulling data should be a cinch. I think right now we need to focus on getting a basic zite up and running with the just the bare essentials, proof-of-concept if you will, demonstrate that this whole crazy thing can actually work. \n> \n> What about size limits? Not sure exactly how that works but apparently there's a quota that cuts off after its reached, need to disable that if metadata is going to be submitted.\n\nSize limits can be solved I'm just not sure how (I guess @nofish would no for sure). We can also make some files optional using `optional_files` in the content.json although this might impact the user experience? Another alternative could be to use a separate database, is this possible?",
+				"added": 1470846292
+			},
+			{
+				"comment_id": 9,
+				"body": "> [tkarita](#comment_83_1GervYZoP82e8X1Rgc4wyMkJY2zSsJuq8t): The quota is controlled by max_size entries in data/users/content.json.  Nobody seems to have good intuition for how large it should be: even in the chat rooms people reach the limits (erkan deleted his history to post again); in ZeroTorrent 2MB isn't large enough to accommodate uploaded files (interrupting sirenyc); in ZeroTalk the default limit can easily be reached in about a week (as bot and I have done).\n\nI wonder if we could have a threshold system. Once a user reaches a threshold they get bumped up to the next threshold. If they reach X number of thresholds too quickly their account gets flagged for attention. This is something I've quickly come up with off of the top of my head but I think it could potentially solve most of the issues. Obviously for it to work it would either require built in support from ZeroNet, a plugin of some sort (if this is possible?), or a script / bot that crawls the database and alters the users content.json automatically.",
+				"added": 1470847528
+			},
+			{
+				"comment_id": 12,
+				"body": "> [spartanshield](#comment_2_13WWWFi6iuSLazDcNvHgBEjjeAofAhAwtE): guys, the size limit can be changed easily by holding the zero button on top right and drag it to let it will open a side panel where you can find size limit and other configs, I update it to 20, 30 ,or 50Mb for the sites i'm seeding. I'm planning to have a separate unit with a 3TB hard drive just for ZeroNet that I can access on the LAN so it can be up all the time and not interfering with the work on the actual machine.\n\nBy \"size limit\" they meant the size limit for uploading content not downloading, there's a fixed limit for each user to prevent spam. This sounds great until users legitimately reach this limit and cannot post anymore. This is a problem that needs to be overcome one way or another.",
+				"added": 1470913637
+			}
+		],
+		"3_13Mt8T2256Uz4GHk9B4XvKqyz37wPgA26q": [
+			{
+				"comment_id": 5,
+				"body": "I have a plan to get peers and seeders working I'm writing a Node.js script to get the latest torrents from the database, get the number of peers / seeders and then update and sign the data.json file. I can provide the script I'm working on if it would be of interest to you (or someone else). But once the script is done I'll probably create a cron job and run it all of the time.",
+				"added": 1470841412
+			},
+			{
+				"comment_id": 10,
+				"body": "> [zeronauta](#comment_4_163sF1Kdsd5LdpjAXDKBshdEBNJH6PUqvg): It sounds interesting. Maybe I would use it in the future.\n\nI've uploaded my source code to Gitlab [here](https://gitlab.com/kickasstorrents/KAT/tree/master/utils/lib-seeders) ~~the only thing left to do is for me to add the signing of the users content.json file and publish the changes (See: https://gitlab.com/kickasstorrents/KAT/issues/19).~~",
+				"added": 1470880441
+			},
+			{
+				"comment_id": 11,
+				"body": "> [testingzeronet12](#comment_101_1CMjV2r4EBpFt8VCcWWZKDysZXPcPExRNN): That would be great! Can I have more details and the script itself? My ZeroNet email is: testingzeronet12@zeroid.bit\n\nI've uploaded my source code to Gitlab [here](https://gitlab.com/kickasstorrents/KAT/tree/master/utils/lib-seeders) ~~the only thing left to do is for me to add the signing of the users content.json file and publish the changes (See: https://gitlab.com/kickasstorrents/KAT/issues/19).~~",
+				"added": 1470880484
+			}
+		]
+	},
+	"comment_vote": {
+		"30_1xf9XC4Nsa7YfQWFiK6xGsNDJA3AaCTUa": 1,
+		"128_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1,
+		"101_1KdnTJVBGzEZrJppFZtzfG9chukuMv8xSb": 1,
+		"4_1JF3eQjW4voiKdcvCkMXvUx5bLmZAiVdyi": 1,
+		"62_1GervYZoP82e8X1Rgc4wyMkJY2zSsJuq8t": 1,
+		"5_1BePwsiwFD8BjtYfB8tQegiKXDLnHWW1Um": 1
+	}
+}

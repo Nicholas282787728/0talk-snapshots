@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "GwOdWEMVudMc4400jAM3O1et1W/cmBOuKdDHI2O6XpxY7M1OalrkiG4XdxSUBauoLuwTz6W7aLnYlPQ74fxLVaE=",
+ "cert_user_id": "mysterium@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "57ce2bc300dfa2b9b1e08e197998b8b7e807a89eec255e56f7cbf975b63fc96d",
+   "size": 335
+  }
+ },
+ "inner_path": "data/users/1PeCNnnCzJoLGn8bfcAUsWydeiERdHwdLu/content.json",
+ "modified": 1457026431.941,
+ "signs": {
+  "1PeCNnnCzJoLGn8bfcAUsWydeiERdHwdLu": "HMOQMAZ0nAkVfJHkkhYjnIXmh+/0xq6XOsmQrzeZOhnhzhHIUqjquEecgqxFgCEg85ZunNFeTkzT+kDT0xDfbNA="
+ }
+}

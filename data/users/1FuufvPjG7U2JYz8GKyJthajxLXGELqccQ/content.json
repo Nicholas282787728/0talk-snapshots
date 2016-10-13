@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "G6LwLqcpclZUdklAr1b4NnQBGWUM9DJrhOc7OmJQuZkmmTyNMSX+lx6uCRH24PJHaAmUgv+d9/9Stgqqoq+VwoQ=",
+ "cert_user_id": "smiba@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "ffa8bb5ce3faa01e03eaa8159559187780f81c062b738f86fff0f45cfb7f8971",
+   "size": 1369
+  }
+ },
+ "inner_path": "data/users/1FuufvPjG7U2JYz8GKyJthajxLXGELqccQ/content.json",
+ "modified": 1468550564.289,
+ "signs": {
+  "1FuufvPjG7U2JYz8GKyJthajxLXGELqccQ": "Gy3I7ijWdFbJHzthU2HS0bFajSOhqavTsIf/MkOVRBp7LkN73+2ydWKTY/1QgAxsYAmT8G0mZCIWb0PbzaBKo4E="
+ }
+}

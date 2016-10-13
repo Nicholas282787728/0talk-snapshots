@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "G4Ya3U9vs157WWAcwsJJQJVF3D5L02EF5x34icAO4twYF/8XAF+p5473ExVXv1JNQ32z7wIak9FSOxcw8EtZLzk=",
+ "cert_user_id": "poltechgnos@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "eb70598671d22d48c4c930243889efe5d6a6cd084f50325ea030467e34e5d57e",
+   "size": 2528
+  }
+ },
+ "inner_path": "data/users/1BKURP8uJbQhPam8ub2ddqAXPgkmyAjpMR/content.json",
+ "modified": 1457390490.825,
+ "signs": {
+  "1BKURP8uJbQhPam8ub2ddqAXPgkmyAjpMR": "G6y8tZQmlCdaSLns9dvB93ZiPtST8Uw3iHEK50VdluveCKOZXRVgrH2PpILFpb9QTKPwWqg2cRUFLBkGcAnPma4="
+ }
+}

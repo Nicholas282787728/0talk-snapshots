@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "Gy/Y3qENZH033frp20/e+QqdXitUBKA8xBuRhcNM3mSZgTMT9HS+BAYw0Qyw99mpqz01RSEc+bAe98SLyrRTtTM=",
+ "cert_user_id": "weedcoder@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "0ceac5342dbdb722883c309b0d77264bbde8452e9aa85a6b482a8104062a4b01",
+   "size": 299
+  }
+ },
+ "inner_path": "data/users/151xfrGz3zugtqCT51AStxjJNTHa6harBb/content.json",
+ "modified": 1465826307.389782,
+ "signs": {
+  "151xfrGz3zugtqCT51AStxjJNTHa6harBb": "G8hcqGvHRYzjXfFKnLlzciMU2aPyEFxEqkGKXGj+lFBnlKQKP+l9rCC51a8uy41ht+SC7yp2aPlxFg2utg45Ed4="
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HJvZIUj18f8eRZnNIxRwndIoQoQmXmflEVk+OtDwZy6yY+eVcQdaiNSALXH8f0Itl9h48TNYuh04psQ27s2vU7Y=",
+ "cert_user_id": "kingoflimbs@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "ab5b42579b1000e649e161e6b22c849a1fe1c8c7fdd394c74008634f58f0e7f5",
+   "size": 377
+  }
+ },
+ "inner_path": "data/users/178wkQgojFAVGaZErzDhKGrGiG4Gb7d8P4/content.json",
+ "modified": 1473352380.466528,
+ "signs": {
+  "178wkQgojFAVGaZErzDhKGrGiG4Gb7d8P4": "HNVptBarPJGNM3DEd8/3SA6ZjRBTtYc5zdcngshvCouBf0rygAAB7w3cmZKQEnkeAtfQNxMmdtscoArPbfXwQzg="
+ }
+}

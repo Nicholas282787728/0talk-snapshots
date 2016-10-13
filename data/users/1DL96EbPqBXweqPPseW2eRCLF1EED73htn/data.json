@@ -1,0 +1,41 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "Anyone use YaCY?",
+			"body": "YaCY is a peer to peer search engine that seems like it would pair well with a peer to peer network system like ZeroNet. Has anyone had success doing so? It seems like the next logical thing for decentralized internet.",
+			"added": 1461558160
+		}
+	],
+	"topic_vote": {
+		"1_1ARmoCDkmZkYWAMCipxPqbUoT4akypoPoE": 1,
+		"1_1EUyJtat7mbu5wMcR6nrJTPBBRons1mtMA": 1,
+		"2_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1
+	},
+	"next_comment_id": 4,
+	"comment": {
+		"2_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": [
+			{
+				"comment_id": 1,
+				"body": "haha, i'm using the zeronet!",
+				"added": 1461558242
+			}
+		],
+		"1_1ARmoCDkmZkYWAMCipxPqbUoT4akypoPoE": [
+			{
+				"comment_id": 2,
+				"body": "The purpose of life is to organize chaos into order with the little amount of energy that each of us possess. This can be seen in economics, thermodynamics, genetics, and in some ways mathematics. I know it's vague, but it's what keeps me going. When nothing else works, I default to just being myself because it doesn't take any effort. I default to myself and do everything as beneficially as I can for everything, and no matter how bad things get the ride never stops. There aren't many piles of chemicals that are self-aware, let alone intelligent enough to question their own purpose. That paradox alone is the very meaning I'm trying to get at.",
+				"added": 1461558473
+			}
+		],
+		"1_1EUyJtat7mbu5wMcR6nrJTPBBRons1mtMA": [
+			{
+				"comment_id": 3,
+				"body": "Just today. I've always been aware of the corporate wasteland that Google and ICAAN are working to make our only internet, but I had no clue that there was anything to do about it. I welcome the free alternative with open arms.",
+				"added": 1461558576
+			}
+		]
+	},
+	"comment_vote": {}
+}

@@ -1,0 +1,16 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 2,
+	"comment": {
+		"1_13G7h5b1e4Ch1vBfWvA4Nuttaqa8cf91W4": [
+			{
+				"comment_id": 1,
+				"body": "OK, I got it to work: \n\nsub.domain.tld {\n  proxy / localhost:43110 {\n    transparent\n  }\n  proxy /Websocket localhost:43110 { websocket }\n}",
+				"added": 1472617770
+			}
+		]
+	},
+	"comment_vote": {}
+}

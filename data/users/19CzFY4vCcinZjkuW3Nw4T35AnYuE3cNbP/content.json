@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "G4uIjbEJK/kltmm1/a1rkXepEe+KR6+eDoyJLK9i7FpDySJTv7tldghd2+ZpxTJ5fSPQzeUI6NX2kmLl7oPpn10=",
+ "cert_user_id": "montypython@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "9a3aebf812313312caf69e2d3052f2708a3c7b17246aaa0e276a834fd47b1c02",
+   "size": 936
+  }
+ },
+ "inner_path": "data/users/19CzFY4vCcinZjkuW3Nw4T35AnYuE3cNbP/content.json",
+ "modified": 1473056964.378,
+ "signs": {
+  "19CzFY4vCcinZjkuW3Nw4T35AnYuE3cNbP": "HFK1dnqX9hKuFYK06TltaF4eQM4yY+4uh9btpvcTFwKz6A/lMgqLeIpWmmuyWoz9N622W22dF5PsDwbIWTbSeDQ="
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "G9lkx0zFpRDxUWdZJDPs3dV35JzCAXvewSbJ5L2RktQVOmgc2E4nddZf8Y7fHNX92BzkhSCi69tUrQM7pMd7LZk=",
+ "cert_user_id": "ibrahimserrafi@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "4397e5407652aa58edff75f1a04e9990212f5e4d1727423dfc020d1263ac74c2",
+   "size": 349
+  }
+ },
+ "inner_path": "data/users/1JoZwCfTAAey51Mzt81ms5yZguBTuQVK7B/content.json",
+ "modified": 1462984747.857,
+ "signs": {
+  "1JoZwCfTAAey51Mzt81ms5yZguBTuQVK7B": "HEphyH9PExg8TYEuji5rhoJk+qd0qmbHXObWpiwwE3DELCMC4k6zj9jThuL/H3x6HVa4RT/O0TXJy4iEComEa7M="
+ }
+}

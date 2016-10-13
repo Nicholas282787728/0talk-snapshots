@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HNzQ0KMZ4dzZMSwFnsknr75AsT5Hju6kHamVnhIpYdkxxdmnKl9Wt70J3Xv/6ifLkGg4JY/uC9+lHsX4n6TdBSA=",
+ "cert_user_id": "amsterman@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "b4020d1c65b8e563b0ef5caf47f0ad5c76f458fb917cc4f0acba9f3f66555e8b",
+   "size": 265
+  }
+ },
+ "inner_path": "data/users/1DUt2hdvamdyX1LtRC6YqoyUPRqGEJGdYY/content.json",
+ "modified": 1466601437.292848,
+ "signs": {
+  "1DUt2hdvamdyX1LtRC6YqoyUPRqGEJGdYY": "G/kcJ+xO2TjJSvnkJTC0X1L0sVXZ07A+/csd87uLL9xyqojCwDhZ9UyU8mTc2IlQGPPD4RIK0nD1PPFzk5NPaKs="
+ }
+}

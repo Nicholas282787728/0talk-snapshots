@@ -1,0 +1,16 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 2,
+	"comment": {
+		"2_12xwWp1qTmxEXMxVxrG3AQKPk6MUWjQjM7": [
+			{
+				"comment_id": 1,
+				"body": "I don't like the lack of comments from users to check.  It's really important to avoid getting trash.",
+				"added": 1470660579
+			}
+		]
+	},
+	"comment_vote": {}
+}

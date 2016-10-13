@@ -1,0 +1,18 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {
+		"29_1JHQA9oFkFpFFRiscyT4N71AKLWg46pQ92": 1
+	},
+	"next_comment_id": 2,
+	"comment": {
+		"2_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": [
+			{
+				"comment_id": 1,
+				"body": "Witam.test.",
+				"added": 1456272434
+			}
+		]
+	},
+	"comment_vote": {}
+}

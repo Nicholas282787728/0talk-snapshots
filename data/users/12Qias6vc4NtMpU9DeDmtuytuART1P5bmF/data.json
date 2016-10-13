@@ -1,0 +1,17 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "Restore User ID",
+			"body": "Hello, \nI have recently switched to my new Mac and I would like to restore my old ID. I have all the files, but even if I put under data/ the files users.js and *.pem nothing is happening. Can somebody help me?",
+			"added": 1452330678
+		}
+	],
+	"topic_vote": {
+		"1_12Qias6vc4NtMpU9DeDmtuytuART1P5bmF": 1
+	},
+	"next_comment_id": 1,
+	"comment": {},
+	"comment_vote": {}
+}

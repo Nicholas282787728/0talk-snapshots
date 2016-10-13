@@ -1,0 +1,28 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "porting content into zeronet",
+			"body": "is there a *simple* way to port/convert stuff like wordpress sites/databases - and other such blogs - into  zeronet?",
+			"added": 1457291325
+		}
+	],
+	"topic_vote": {},
+	"next_comment_id": 3,
+	"comment": {
+		"1_16KXPTbZn8PHFDcyeRaeQuKmNNFk55nrzP": [
+			{
+				"comment_id": 1,
+				"body": "wow! that sounds cool indeed! am kind of new here, how might i know when its ready to be tested?",
+				"added": 1457291633
+			},
+			{
+				"comment_id": 2,
+				"body": "> [crypton](#comment_30_17fgJ3tZjhM7HCkTkd5TWf2BLLWmhRKcXB): Follow one of my sites and I'll make the updates there http://127.0.0.1:43110/cryptonbits.bit (and probably also here on ZeroTalk)\n\nfab! cheers for that!",
+				"added": 1457291760
+			}
+		]
+	},
+	"comment_vote": {}
+}

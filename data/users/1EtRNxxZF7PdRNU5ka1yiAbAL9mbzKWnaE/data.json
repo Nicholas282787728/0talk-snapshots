@@ -1,0 +1,23 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 3,
+	"comment": {
+		"1_1FkHAWYYdURFGyXt3cZTs3neGVYumEpjsF": [
+			{
+				"comment_id": 1,
+				"body": "0chan is certainly the most attractive, but it might use some redesign (I don't mean it in the HTML5 sense, just that users should be able to create a threads on their own, and reply slightly quicker). \n\n..But then, how will people take care of the spammers? This is puzzling.",
+				"added": 1468312305
+			}
+		],
+		"1_15JNF8bdyG4zEWVASsgbkFirzM6gyYpSBA": [
+			{
+				"comment_id": 2,
+				"body": "> [chinabiz](#comment_30_1DWrKbEomgBLHjczm1HkP556Vg68ewDmyd): Surespot, yes, but you don't receive new message notifications because they've removed the GCM components.I don't think Signal is available on f-droid.Conversations is available on f-droid.\n\n\nThis probably wouldn't sound appealing to the type of users who use 0net, but you might use the open-source replacement for the proprietary google framework microG. You can use apps which rely on the Play Services and GCM with slightly more privacy* (*I'm not implying it's 100% private, but it sure as hell is better privacy-wise). \n\nOr you could just avoid using Google services at all, but then, you're severely limiting your phone's capabilities.",
+				"added": 1468312753
+			}
+		]
+	},
+	"comment_vote": {}
+}

@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HFnZKXfuWVQ5LDqL1oY0LfIvDORSMbp/98GmeOEQ+XVVMl7r1NwssBGDGmERZVYNPCymLtwyzpH1ryYLerVg+VQ=",
+ "cert_user_id": "demiurge@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "7e861d282b0ad5a3bd4b76f3ef6f7ea496628fbc2a2c53007e42ff9879d926ad",
+   "size": 1030
+  }
+ },
+ "inner_path": "data/users/1G1yCPeGqsu3Hv2w93MXyhW271WZUnBN4t/content.json",
+ "modified": 1457611129.948,
+ "signs": {
+  "1G1yCPeGqsu3Hv2w93MXyhW271WZUnBN4t": "G/awVUhH2tGJ9QYoVnkVusGJB492m/jlxizgQLh9hTe/njfHm2wAJMlaP3rdmHZdqX1CgzUUm7p+NDMok2kiooQ="
+ }
+}

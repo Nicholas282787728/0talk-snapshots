@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HLgaEoYe+I6HDy3OyV1KEBbU1mH6fF0oq89fQG/qvAJU2b1Xt68elyi0nPuudpEn9JzHszz5yYuFRdJufw9QRok=",
+ "cert_user_id": "bulgaria@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "70a1c28463c86c4c28fcbdc02c50284ac47decea286e43742484f5d9b62a6aa4",
+   "size": 520
+  }
+ },
+ "inner_path": "data/users/16uoBqDu9HhAkUhjDyW69bNT9WMSd239MQ/content.json",
+ "modified": 1471028572.271,
+ "signs": {
+  "16uoBqDu9HhAkUhjDyW69bNT9WMSd239MQ": "HJzOb29yKUyv9SAVeaCwGdHC3zX9uMO5i/t6I0nU5CNLb50CZcXSDcIRCuficYv0og1cvbPizZ/gGkaCNfVNc9Y="
+ }
+}

@@ -1,0 +1,281 @@
+{
+	"next_topic_id": 9,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "Whonix:Tor Support",
+			"body": "Anyone worked out how to get Whonix to work with zeronet & '--tor always' in Tor Browser Bundle?  It does kind of work without the '--tor always' but even then I get the following error:\n\nTOR: ERROR = Status: Error ('NoneType' object has no attribute 'group')\n\nThe FAQ does not apply to Whonix users, as if you install another version of Tor in the workstation it is not available. /etc/init.d/tor does not exist, and the link it has there instead does not function by default (fallowing the FAQ @ https://zeronet.readthedocs.org/en/latest/faq/#how-to-make-zeronet-work-with-tor-under-linux\n\nPerhaps there is a special controlport for whonix that is not explained in the FAQ or perhaps there are other steps to get it to work with the Whonix Gateway. In Whonix, the Tor version looks up to date (2.7.5+).\n\nWhen --tor always is used I never am able to find any peers at all.\n\nAny help would be appreciated.",
+			"added": 1454726172
+		},
+		{
+			"topic_id": 2,
+			"title": "Is I2P support on the roadmap for ZeroNet?",
+			"body": "I2P is similar to Tor's hidden services, so it seems like it would be a nice addition for the anonymous users. Is there any plan to add support for I2P?",
+			"added": 1454769281
+		},
+		{
+			"topic_id": 3,
+			"title": "What is the loading icon/area in ZeroNet sidebar",
+			"body": "When you are on a ZeroNet site you can drag the circled zero, in the top right of the page, to the left to reveal the ZeroNet sidebar. In the ZeroNet sidebar I see a loading icon above the Peers and below the site name. Could anyone explain to me what that loading is? Is it loading something that is missing or perhaps failing for me?",
+			"added": 1454775092
+		},
+		{
+			"topic_id": 4,
+			"title": "How to bruteforce a Bitcoin/ZeroNet address and then import it into ZeroNet?",
+			"body": "How could I bruteforce a Bitcoin/ZeroNet vanity address and then import it into ZeroNet for use as a site address (or maybe a username/id). I realize that namecoin can make a .bit, but that doesn't mean I can't also use a bruteforced '1sitename39d22a929w29...' address.\n\nWhat is a secure method for brute-forcing a address? Is there some good opensource locally ran software people generally use to make vanity addresses?\n\nWould it be as simple and importing the private key and address into the ZeroNet files, or is there something more to it?",
+			"added": 1454783540
+		},
+		{
+			"topic_id": 5,
+			"title": "ZeroTalk Tips",
+			"body": "What are the formatting tips for this site?\n\nYou and edit your post or title by hovering over the (invisible) pencil icon just to the left of a title or body/post and click it to update/edit it.\n\nYou can put a # before a line to make it big text.\n#example\n\nyou can put a \\ before the # to make it a normal #\n\\#example\n\nWhat else is there?\n\nedit: nofish gave the link (below) to shows all the formatting for this site:\n> [nofish](#comment_261_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): It's using markdown: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet (images/html disabled)",
+			"added": 1454869271
+		},
+		{
+			"topic_id": 6,
+			"title": "Does the default site per bandwidth limitiation prevent downloading large sites?",
+			"body": "When new users visit several sites those sites download completely? Assuming they are under the default size limit per new sites (10MB?)?\n\nIf the site is bigger than the limit then the pop-up appears saying you need more space for this site, so if you don't agree to download any what happens? Does the site no longer seed to any peers? Or does it just seed what you have?\n\nIs there any advantage or disadvantage to increasing the limit before reaching it? I assume you won't get the pop-up and it will just download if there is enough space and a possible disadvantage is that the site could take up a lot of space (the space you agreed to give it), but anything I am missing? \n\nIs there no way to only partly download a site by default? For example a site might host 100 files and you want 1 file from that site. What is the method for downloading just that file?",
+			"added": 1454876300
+		},
+		{
+			"topic_id": 7,
+			"title": "How to determine or contact a ZeroNet site admin?",
+			"body": "When hovering over your limit of memory usage on a site it says the site admin can increase your limit of memory usage in a site. How can I figure out who the site admin is if it is not listed on a site?\n\nI am interested, not just for this site, but for others, so if there is a global way that would be nice. I also understand and respect if it is private/anonymous by default, but just asking in case it is not.",
+			"added": 1454946272
+		},
+		{
+			"topic_id": 8,
+			"title": "In which cases, if any, are torrent trackers not contacted?",
+			"body": "As I understand it, while using ZeroNet the peer info is stored publicly on torrent trackers. Under what circumstances does your connection not attempt to reach out to public torrent trackers? When you are using '--tor always' perhaps?\n\nWill I2P support include seedless (trackerless DHT-like shared info-hosting)?",
+			"added": 1455037340
+		}
+	],
+	"topic_vote": {
+		"3_1NibKcCcidCHue94Rhr7F4Gvu3Lg6FAESp": 1,
+		"3845_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG": 1,
+		"2_16iYwD5U2fNoS22p6447J7992iL3DHjSHY": 1,
+		"3875_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG": 1
+	},
+	"next_comment_id": 31,
+	"comment": {
+		"1_1KTyMhnssBpFUGavNRXQ5YNc15xTLkcfwD": [
+			{
+				"comment_id": 1,
+				"body": "Try to use Tor or I2P as your primary server address on RetroShare. That helps the anonymous groups grow.  Here is a RS download tutorial link: retroshare://file?name=RetroShare%2BTor_Linux_Mint_Tutorial.rscollection&size=459&hash=f436998cca051780f5660caf50fdb2bf01ae89b6",
+				"added": 1454721993
+			},
+			{
+				"comment_id": 25,
+				"body": "> [dude](#comment_8_1APx2pf1wNGFz4mWCN2sFzrtTGzrLKZUQ2): Version 0.6 released. https://retroshareteam.wordpress.com/2016/02/07/release-notes-for-final-0-6-0/\n\nIf anyone sets up I2P outgoing tunnels in RetroShare you should able to access peers hosting an I2P RS server. If you think you have set it up mail me in ZeroMail (ow@zeroid.bit). I will send you my RS I2P server certificate, so you can reach me.\n\nIn RS:\nOptions > Network > Hidden Services configuration > you should see a green light next to 'I2P outgoing Okay'",
+				"added": 1454945700
+			}
+		],
+		"3_1NibKcCcidCHue94Rhr7F4Gvu3Lg6FAESp": [
+			{
+				"comment_id": 2,
+				"body": "> [p2p](#comment_32_13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ): what about Whonix? https://www.whonix.organother anonymous OS, which has two VMs( Gateway and Workstation). Tor runs in Gateway VM, how to run ZeorNet with full Tor support in Workstation VM?\n\nWe need more .onion users I think to make this work very well. The Tor support is new and still seems buggy, at least when it comes to Tails/Whonix. The default setup seems to work well enough, but pure hidden service method would be nice. Just need a little better support and some tutorials for new users setting up.",
+				"added": 1454722238
+			}
+		],
+		"9_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf": [
+			{
+				"comment_id": 3,
+				"body": "> [nippletwister](#comment_24_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf): Ok, does anybody know any example of such a service? I mean decentralized email compatible with regular web mail.\n\nbitmessage.ch was allowing bitmessage to email and back for over a year. Maybe that service still exists?\nI2P-Bote I think had some hacked up feature with postman's I2P email service, which is connected to normal email.\nI am betting both Tor and freenet had similar services at some point, but none come to mind.",
+				"added": 1454724999
+			}
+		],
+		"2_13KqD3BoaRMudEG5QU2fnGLkSVx8qDXKof": [
+			{
+				"comment_id": 4,
+				"body": "> [nofish](#comment_239_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): I2P is harder, because it does not allow you to create socket outside the network. So you will only able to connect sites that has peer running I2P.\n\nCorrect. It is an isolated network. That is from one perspective a bad thing and a challenge, but from another perspective it can mean all your peers are end to end encrypted, unlike Tor, which might have exit nodes logging or modifying clear text content (which is not as big of a problem now that encryption is on by default, but still a concern). Tor hidden service and eepsites (I2P hidden services) both allow of in network end to end encryption, which has some benefits. Currently Tor's hidden service encryption is several years out of date, but hopefully in the next year or two they will update it to new stronger standards and longer key length.\n\nIf ZeroNet allows a peer to run both Tor hidden service and I2P hidden service at the same time (or go back and forth when they start it) those peers can still exchange info with other peers however, so it wouldn't be an isolated ZeroNet.",
+				"added": 1454774135
+			},
+			{
+				"comment_id": 5,
+				"body": "> [nofish](#comment_240_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): MITM is not a problem in ZeroNet, since there is no trusted peer, every data is signed by it's owner. Bundle I2P with ZeroNet (like the Tor client) would be harder, because of Java.\n\nYeah, Java is pretty bloated. The sleeker I2pd (C++) implementation is working, but it is probably not ready for integration alongside another project. \n\nTor is not currently bundled with ZeroNet, is it? I built from github and do not remember seeing anything about Tor in the build process.",
+				"added": 1454774826
+			},
+			{
+				"comment_id": 6,
+				"body": "> [3x71nc7](#comment_1_1Q8iqH31cKCqynoJRxR2PfJhzQr8wHdiHr): I think Tor is bundled in the precompiled windows bundle, but I'm not sure\n\nDoes it automatically run a hidden service?  And if so, how can you see your own hidden service .onion name? Is it always the same?",
+				"added": 1454775218
+			},
+			{
+				"comment_id": 8,
+				"body": "> [nofish](#comment_242_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): Yes, in always tor mode (or if you don't have opened port) it runs hidden services. To improve privacy different .onion is created for every site you seeding. See Tor hidden services @ http://127.0.0.1:43110/Stats\n\nDoes not seem to work in Whonix: \nstats page shows: \nTor hidden services (status: Error ('NoneType' object has no attribute 'group')):\n\nThe sites listed below that I think are not Tor related, just site information. No .onion names are shown there for me.",
+				"added": 1454777151
+			},
+			{
+				"comment_id": 10,
+				"body": "> [nofish](#comment_244_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): Are you sure you have Tor version >=0.2.7.5 running on your computer?\n> please run echo 'PROTOCOLINFO' | nc 127.0.0.1 9051\n\nI think the way Whonix Gateways (virtual machine) work is that it does not allow Tor to be installed or ran from within the workstation. At least when I apt-get Tor it doesn't allow me to run Tor from within the workstation (the other whonix VM). \n\nSee more details on my earlier post: http://127.0.0.1:43110/Talk.ZeroNetwork.bit/?Topic:1_13KqD3BoaRMudEG5QU2fnGLkSVx8qDXKof/Whonix+Tor+Support\n\nIf there was a way to manually create the Tor Hidden Services in the gateway I could figure it out, but that might not be practical if one is crated for each site. \nZeroNet runs on the VM workstation and needs to be able to talk to the VM on the gateway for Tor hidden services (through the Tor control port I assume). But I am not at all sure if that is allowed by Whonix VM setup. \n\nRunning the Hidden service on the workstation, if you could figure out a way, would have the undesired result of boucing the Tor traffic through an extra three hops:\nWhonix user > whonix bridge > whonix node > whonix exit > tor bridge > tor node > tor exit/node > < tor node < tor node < tor bridge < other ZeroNet user.\n\nIf the hidden services could be ran on the gateway - it cuts out those extra three hops in both directions:\nWhonix user > whonix bridge > whonix node > whonix exit > < tor node < tor node < tor bridge < other ZeroNet user.",
+				"added": 1454778351
+			}
+		],
+		"3_13KqD3BoaRMudEG5QU2fnGLkSVx8qDXKof": [
+			{
+				"comment_id": 7,
+				"body": "> [nofish](#comment_241_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): It's a webgl globe: https://cdn-images-1.medium.com/max/1200/1*pZ5FMyc-XD00gqeUh7UtHQ.png\n> i'm not sure whats happening if the browser does not support webgl.\n\nYeah, Tor Browser does not load it. Am I missing out on additional features, or does it just show some information about world/peer/location stuff?",
+				"added": 1454776219
+			}
+		],
+		"3_168qV1Xxp2EyszrzdECLUwXrn9wGYjDdar": [
+			{
+				"comment_id": 9,
+				"body": "> [muja](#comment_9_17i7Y7r8nTaCfLbCAuaKyc4R5BbKZYU2Hr): QR Code Generator: http://127.0.0.1:43110/1DrX4tBjLbCCzmFzgASSEEkj4TisnU2JBb\n\nAfter entering text the text bar lowers, but nothing appears. Hitting enter/return results in a new nearly empty page appears with the following error message:\n\nForbidden: Opener present. \n\nMight be Tor browser related, as it blocks several feature for security reasons. A clearer error message might be nice though, as it doesn't tell us what we need to change to get the site to work properly.",
+				"added": 1454777476
+			},
+			{
+				"comment_id": 12,
+				"body": "> [kzimmermann](#comment_1_1kAPGzM6Yume9TeLGU2pjHsMxNi8oXP7B): Klaus Zimmermann's blog on ZeroNet: http://127.0.0.1:43110/1GiJUPsfiS3LWCyZj5urW1Rt2q9WwRh4wB\n> Perhaps not much different than the rest of blogs, look-wise, but it mirrors my other posts in diaspora* and GNUSocial, which aim to be very interesting for the free software community.\n\nExcellent blog.",
+				"added": 1454780756
+			},
+			{
+				"comment_id": 13,
+				"body": "> [zerobunker](#comment_83_168qV1Xxp2EyszrzdECLUwXrn9wGYjDdar): dont forget to input your site in zeronet search engine.http://127.0.0.1:43110/zerosearch.bit\n\nIs Google analytics really required to be ran on this site?\nhttp //www.google-analytics com/analytics.js\n\nIf you think for some reason analytics is required on a decentralized server might I suggest:\nhttp://piwik.org/ can be hosted on your own server for free and not expose your visitors to corporate network logging.",
+				"added": 1454782063
+			},
+			{
+				"comment_id": 18,
+				"body": "> [muja](#comment_12_17i7Y7r8nTaCfLbCAuaKyc4R5BbKZYU2Hr): A blog featuring street art delivered through IPFS. http://127.0.0.1:43110/18pRWVHHojR2DjfYQvuLe3GBtB1W32Hwbb\n\nAm I understanding this right? Someone has the domain and server what is running IPFS and that is the site that is the third party hosting the content. It is not delivered through IPFS to the users, it is delivered to the server through IPFS but then is forward to the users. Correct?\n\nThis server and domain are a man in the middle, yeah? Probably a good server for now, but still a eavesdropper, unlike the actual IPFS protocol design?",
+				"added": 1454801063
+			}
+		],
+		"2_16iYwD5U2fNoS22p6447J7992iL3DHjSHY": [
+			{
+				"comment_id": 11,
+				"body": "> [nofish](#comment_249_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): Then please follow: http://zeronet.readthedocs.org/en/latest/faq/#how-to-make-zeronet-work-with-tor-under-linux\n\nIf you click on the error message for that Tor button you will also be taken to that link... which I didn't know until mistakenly clicking it. Might be a good idea for it to appear more like a link for new users who don't know that, or to have a link next to the error message [FAQ - Tor - Help] in a html link color, so they know they are going to be redirected to another site.",
+				"added": 1454780460
+			},
+			{
+				"comment_id": 19,
+				"body": "> [nofish](#comment_251_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): Full tor support added in version 0.3.5, it include .onion addresses, so Tor peers able to communicate between each other without exit node (faster and more secure). This feature requires access to Tor control protocol to create new hidden services.\n> It's also possible to use without modifying torrc (like before 0.3.5) by running it zeronet.py --tor disable --proxy 127.0.0.1:9050 --disable_udp, but then you will loose ability to talk with other .onion addresses.\n\nWhile running 'python zeronet.py --tor disable --proxy 127.0.0.1:9050 --disable_udp' the ZeroHello page shows PORT: CLOSED and when clicked says \"Good, your port is always closed when using ZeroNet in Tor always mode.\"\nThis seems confusing and perhaps is incorrectly showing this message? I am running through Tor, but I am not using the '--tor always' flag.\n\nSince I am running Tor maybe it is correctly determining that, in which case the error message might be just incomplete: if that was the case maybe it should read: \"Good, your port is always closed when using ZeroNet in Tor always/disable mode.\" ?\n\nOr if the error message appear even for users that actually want to disable Tor then it would seem to be a bug, as that error message would not apply.",
+				"added": 1454868256
+			},
+			{
+				"comment_id": 21,
+				"body": "> [nofish](#comment_260_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): If you running it using --proxy 127.0.0.1:9050, then you always use Tor to create new connections, so it's the same in that matter.\n> That message is displayed when the ipv4 port is intentionally closed. (Using a proxy or --tor always)\nThanks for explaining. \n\nMaybe then, \"Good, your port is always closed when using ZeroNet in Tor always mode or through a proxy.\" Or is that incorrect in some cases? Such as when the proxy allows forwarded ports?",
+				"added": 1454868985
+			},
+			{
+				"comment_id": 23,
+				"body": "> [nofish]\n>It's also possible to use without modifying torrc (like before 0.3.5) by running it zeronet.py --tor disable --proxy 127.0.0.1:9050 --disable_udp, but then you will loose ability to talk with other .onion addresses.\nIt still seems to reach other .onion peers (at least on Whonix). Did you mean it will not host your own Tor hidden services (.onion) for other peers to reach?\nAs far as I understand, as long as your network is passing into the Tor client it should resolve any .onion address using the Tor Protocol, so making outgoing .onion attempts should still work if you setup ZeroNet to use Tor.",
+				"added": 1454871079
+			},
+			{
+				"comment_id": 28,
+				"body": "For those running Tor, and perhaps others as well that want more privacy, I suggest going into about:config (URL) in Firefox and changing the settings for \"network.http.sendRefererHeader\" from 2 to 0. This will disable what default behavior of sending which site you clicked a link on.\n\nSo, for example, when you click a news article that news article's domain will not longer see what you came from http://127.0.0.1:43110/ (or whichever ip/port you are using for ZeroNet)\n\nPerhaps ZeroNet already has a built in way to protect against this (making my suggestion unimportant)? Or perhaps it is not possible, as it is at browser level, not in the ZeroNet code.",
+				"added": 1455035512
+			},
+			{
+				"comment_id": 29,
+				"body": "Is it possible to limit your connection to .onion peers? So that no ipv4/ipv6 peers are ever attempted to be connected to? The use case might be that a Tor user doesn't trust exit nodes (even with encryption), or that they simply prefer .onion to not use exit node traffic.\n\nDo I have these correct?:\n>--tor disable\nwill not attempt to use Tor to host .onions, not attempt to connect to Tor hidden services (.onions). \n>--tor enable (default)\nwill attempt to host .onions and also attempt to reach other .onions using Tor, but still use default/clearnet IP to reach other peers not hosting Tor hidden services. \n>--tor always\nwill attempt to run .onions and also pass everything through Tor. Not only connections to clearnet peers, but also .onion peers and (perhaps) torrent trackers?\n\nPerhaps another setting could be:\n>--tor onion-only\ncould attempt to run .onions and pass everything through Tor, but will not attempt to reach clearnet peers through an exit node. I am not sure how torrent trackers are stored here, so not sure if they would have to go through exit node to have any chance to find peers or not.",
+				"added": 1455037896
+			}
+		],
+		"3845_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG": [
+			{
+				"comment_id": 14,
+				"body": ">In the documents, the DOJ argues that Tor users have no reasonable expectation of privacy when it comes to their IP address. This is the same argument that the judge used to justify the FBI implanting malware onto a dark web site in order to grab user IP addresses. It’s also a counterintuitive point to make given that masking a computer's IP address is the whole point of using Tor.\n>The argument comes from the case of Jay Michaud, a public school employee in Vancouver, WA accused of accessing images of child abuse on a now-defunct hidden site called Play Pen, which the FBI seized and controversially continued running from its own server for 13 days. The Bureau hacked the computers of anyone accessing child abuse images on the seized site using malware called a Network Investigative Technique, or NIT, which infected the connecting machines and transmitted their true IP addresses back to the FBI. \n>Judge Robert J. Bryan ruled that Michaud didn't have an expectation of privacy, saying that his IP address was “public information” like an “unlisted phone number” because it was revealed to his Internet Service Provider during the process of connecting to the Tor network. That would mean the IP falls under the third party doctrine, which states that there’s no expectation of privacy for data given to a third party, even if it’s transmitted unwittingly. \n>... the judge and the prosecutors both suggest that Michaud voluntarily gave up his true IP address even while using Tor, because his IP could have been correlated with his anonymized connection to the hidden site by “other means,” which they don’t specify.\n> Michaud may have been caught red-handed, but his case continues to potentially have long-reaching legal implications for other Tor users. \n#<>\nInsightful. Instead of relaying on legal policy to protect your security you should strive to improve your security through technical means, so that even if Zero-days are used against your browser and system the system doesn't know its own IP address (Whonix or similar), so it cannot rat you out.\nhttps://www.whonix.org/",
+				"added": 1454786301
+			}
+		],
+		"1_167eTX5f6jJt4HPvfQqf2QuwdTFCnxJCf2": [
+			{
+				"comment_id": 15,
+				"body": "On Firefox and Tor Browser, I think 'https://requestpolicycontinued.github.io/' can be setup to a whitelist where it blocks third party content by default unless you tell it otherwise. I have not tried it since it was taken over by the new devs yet though.\n1.\nHaving your site use code that links to clearnet or third party content is probably a mistake by the website creator, as ZeroNet can host the same content easy enough. Notify the host if you can?\n2.\nThe setting '--tor always' only affect ZeroNet traffic, it doesn't change your network for your browser. Tor Browser bundle is recommended for normal users that was to anonymize their IP address.",
+				"added": 1454788613
+			},
+			{
+				"comment_id": 16,
+				"body": "> [nofish](#comment_255_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): It's better use separate service for ZeroNet, so it will still works after you close your browser. After you start the Tor browser it could be possible that you have to add 127.0.0.1 to about:preferences#advanced > Settings... > No proxy for: field\n\nIf that doesn't work in Tor Browser you might try:\nURL: about:config\nnetwork.proxy.no_proxies_on  ==  string  ==    127.0.0.1\nAlso you will need to enable JavaScript to get ZeroNet to appear.",
+				"added": 1454792655
+			},
+			{
+				"comment_id": 17,
+				"body": "> [harry2](#comment_2_167eTX5f6jJt4HPvfQqf2QuwdTFCnxJCf2): When I check this:https://check.torproject.org/\n> it says \"not running tor\", even if i start \"tor\" after editing the /etc/tor/torrc suggested to work with zeronet.\n> There are also non-onion connections shown in bash when starting zeronet with --tor always?\n\nThe changes in torrc allows ZeroNet to start Tor hidden Services. It doesn't automatically change your browser's proxy  settings. If you are using Tor Browser you should be running through Tor unless you really messed up the proxy and network settings. If you consistently get \"not running tor\" when checking https://check.torproject.org/ then you might not be. Start a new identity in tor browser and try a few times. New exit nodes can take a few minutes before that site knows about them... but that is rare (less than 3% of the time). If your browser is not running through Tor then in that case make sure you are using the official Tor Browser Bundle. Re-download a fresh version and check the signing key. Then set the setting in the browser so you can access 127.0.0.1 (by-pass proxy for that domain/address, so that you are not trying to reach your localhost over Tor [if you don't do this it will just fail, as Tor Browser is smart, it will not try to send any data over localhost unless you made really weird proxy changes or have installed some strange add-ons]).",
+				"added": 1454799687
+			}
+		],
+		"1_13KqD3BoaRMudEG5QU2fnGLkSVx8qDXKof": [
+			{
+				"comment_id": 20,
+				"body": "Note to other whonix users: using 'python zeronet.py --tor disable --proxy 127.0.0.1:9050 --disable_udp' seems to work fine in Whonix.\n\nIn the future it would be nice if Whonix could figure out a way to use the '--tor always' and manage their own .onion services for each site, but for the current version of ZeroNet this seems like the best current solution. Currently just running 'python zeronet.py' with no flags works just as well, but it reports errors about the closed forwarding-port and failed Tor session, as it is unable to reach the control port on the Whonix gateway. Both methods work the same from a functional standpoint, but since it doesn't actually report the issue as if something was wrong, perhaps that is preferable? \n\nIf anyone knows the correct method to reach the Gateway's control port in a way that works for ZeroNet I am interested in hearing it.",
+				"added": 1454868713
+			}
+		],
+		"5_13KqD3BoaRMudEG5QU2fnGLkSVx8qDXKof": [
+			{
+				"comment_id": 22,
+				"body": "Excuse the long post. This is an experiment and also to help other users see the functional features (-image + -html related posts) without having to go to a third party site:\n\n# H1\n## H2\n### H3\n#### H4\n##### H5\n###### H6\n\nAlternatively, for H1 and H2, an underline-ish style:\n\nAlt-H1\n======\n\nAlt-H2\n------\n\nEmphasis, aka italics, with *asterisks* or _underscores_.\n\nStrong emphasis, aka bold, with **asterisks** or __underscores__.\n\nCombined emphasis with **asterisks and _underscores_**.\n\nStrikethrough uses two tildes. ~~Scratch this.~~\n\n1. First ordered list item\n2. Another item\n⋅⋅* Unordered sub-list. \n1. Actual numbers don't matter, just that it's a number\n⋅⋅1. Ordered sub-list\n4. And another item.\n\n⋅⋅⋅You can have properly indented paragraphs within list items. Notice the blank line above, and the leading spaces (at least one, but we'll use three here to also align the raw Markdown).\n\n⋅⋅⋅To have a line break without a paragraph, you will need to use two trailing spaces.⋅⋅\n⋅⋅⋅Note that this line is separate, but within the same paragraph.⋅⋅\n⋅⋅⋅(This is contrary to the typical GFM line break behaviour, where trailing spaces are not required.)\n\n* Unordered list can use asterisks\n- Or minuses\n+ Or pluses\n\n[I'm an inline-style link](https://www.google.com)\n\n[I'm an inline-style link with title](https://www.google.com \"Google's Homepage\")\n\n[I'm a reference-style link][Arbitrary case-insensitive reference text]\n\n[I'm a relative reference to a repository file](../blob/master/LICENSE)\n\n[You can use numbers for reference-style link definitions][1]\n\nOr leave it empty and use the [link text itself].\n\nURLs and URLs in angle brackets will automatically get turned into links. \nhttp://www.example.com or <http://www.example.com> and sometimes \nexample.com (but not on Github, for example).\n\nSome text to show that the reference links can follow later.\n\n[arbitrary case-insensitive reference text]: https://www.mozilla.org\n[1]: http://slashdot.org\n[link text itself]: http://www.reddit.com\n\nColons can be used to align columns.\n\n| Tables        | Are           | Cool  |\n| ------------- |:-------------:| -----:|\n| col 3 is      | right-aligned | $1600 |\n| col 2 is      | centered      |   $12 |\n| zebra stripes | are neat      |    $1 |\n\nThere must be at least 3 dashes separating each header cell.\nThe outer pipes (|) are optional, and you don't need to make the \nraw Markdown line up prettily. You can also use inline Markdown.\n\nMarkdown | Less | Pretty\n--- | --- | ---\n*Still* | `renders` | **nicely**\n1 | 2 | 3\n\n> Blockquotes are very handy in email to emulate reply text.\n> This line is part of the same quote.\n\nQuote break.\n\n> This is a very long line that will still be quoted properly when it wraps. Oh boy let's keep writing to make sure this is long enough to actually wrap for everyone. Oh, you can *put* **Markdown** into a blockquote. \n\n\nThree or more...\n\n---\n\nHyphens\n\n***\n\nAsterisks\n\n___\n\nUnderscores\n\nMy basic recommendation for learning how line breaks work is to experiment and discover -- hit <Enter> once (i.e., insert one newline), then hit it twice (i.e., insert two newlines), see what happens. You'll soon learn to get what you want. \"Markdown Toggle\" is your friend.\n\nHere are some things to try out:\n\nHere's a line for us to start with.\n\nThis line is separated from the one above by two newlines, so it will be a *separate paragraph*.\n\nThis line is also a separate paragraph, but...\nThis line is only separated by a single newline, so it's a separate line in the *same paragraph*.",
+				"added": 1454870180
+			}
+		],
+		"11_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf": [
+			{
+				"comment_id": 24,
+				"body": "> [muja] If someone gets your private key you are pretty much screwed already, but this would keep your data so that you could do something about it.\nMaybe we could use a master private key method? I think the new .onion (Tor hidden service) whitepapers (for the next unreleased version of the protocol) mentioned using something similar, so that if a site's private keys is lost to an attacker the master private key could be used to revoke the old and create another one. You would still need to prevent the master private key from being lost, but it at least this allows for a method to manage security in layers. For example, you could keep your master private key on an air-gaped machine at all points in the process.",
+				"added": 1454944731
+			}
+		],
+		"3875_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG": [
+			{
+				"comment_id": 26,
+				"body": "A Declaration of the Independence of Cyberspace\nby John Perry Barlow\n\nGovernments of the Industrial World, you weary giants of flesh and steel, I come from Cyberspace, the new home of Mind. On behalf of the future, I ask you of the past to leave us alone. You are not welcome among us. You have no sovereignty where we gather.\n\nWe have no elected government, nor are we likely to have one, so I address you with no greater authority than that with which liberty itself always speaks. I declare the global social space we are building to be naturally independent of the tyrannies you seek to impose on us. You have no moral right to rule us nor do you possess any methods of enforcement we have true reason to fear.\n\nGovernments derive their just powers from the consent of the governed. You have neither solicited nor received ours. We did not invite you. You do not know us, nor do you know our world. Cyberspace does not lie within your borders. Do not think that you can build it, as though it were a public construction project. You cannot. It is an act of nature and it grows itself through our collective actions.\n\nYou have not engaged in our great and gathering conversation, nor did you create the wealth of our marketplaces. You do not know our culture, our ethics, or the unwritten codes that already provide our society more order than could be obtained by any of your impositions.\n\nYou claim there are problems among us that you need to solve. You use this claim as an excuse to invade our precincts. Many of these problems don't exist. Where there are real conflicts, where there are wrongs, we will identify them and address them by our means. We are forming our own Social Contract. This governance will arise according to the conditions of our world, not yours. Our world is different.\n\nCyberspace consists of transactions, relationships, and thought itself, arrayed like a standing wave in the web of our communications. Ours is a world that is both everywhere and nowhere, but it is not where bodies live.\n\nWe are creating a world that all may enter without privilege or prejudice accorded by race, economic power, military force, or station of birth.\n\nWe are creating a world where anyone, anywhere may express his or her beliefs, no matter how singular, without fear of being coerced into silence or conformity.\n\nYour legal concepts of property, expression, identity, movement, and context do not apply to us. They are all based on matter, and there is no matter here.\n\nOur identities have no bodies, so, unlike you, we cannot obtain order by physical coercion. We believe that from ethics, enlightened self-interest, and the commonweal, our governance will emerge. Our identities may be distributed across many of your jurisdictions. The only law that all our constituent cultures would generally recognize is the Golden Rule. We hope we will be able to build our particular solutions on that basis. But we cannot accept the solutions you are attempting to impose.\n\nIn the United States, you have today created a law, the Telecommunications Reform Act, which repudiates your own Constitution and insults the dreams of Jefferson, Washington, Mill, Madison, DeToqueville, and Brandeis. These dreams must now be born anew in us.\n\nYou are terrified of your own children, since they are natives in a world where you will always be immigrants. Because you fear them, you entrust your bureaucracies with the parental responsibilities you are too cowardly to confront yourselves. In our world, all the sentiments and expressions of humanity, from the debasing to the angelic, are parts of a seamless whole, the global conversation of bits. We cannot separate the air that chokes from the air upon which wings beat.\n\nIn China, Germany, France, Russia, Singapore, Italy and the United States, you are trying to ward off the virus of liberty by erecting guard posts at the frontiers of Cyberspace. These may keep out the contagion for a small time, but they will not work in a world that will soon be blanketed in bit-bearing media.\n\nYour increasingly obsolete information industries would perpetuate themselves by proposing laws, in America and elsewhere, that claim to own speech itself throughout the world. These laws would declare ideas to be another industrial product, no more noble than pig iron. In our world, whatever the human mind may create can be reproduced and distributed infinitely at no cost. The global conveyance of thought no longer requires your factories to accomplish.\n\nThese increasingly hostile and colonial measures place us in the same position as those previous lovers of freedom and self-determination who had to reject the authorities of distant, uninformed powers. We must declare our virtual selves immune to your sovereignty, even as we continue to consent to your rule over our bodies. We will spread ourselves across the Planet so that no one can arrest our thoughts.\n\nWe will create a civilization of the Mind in Cyberspace. May it be more humane and fair than the world your governments have made before.\n\nDavos, Switzerland\nFebruary 8, 1996\n\n---\n\n> In the modern era of global NSA surveillance, China’s Great Firewall, and FBI agents trawling the dark Web, it’s easy to write off Barlow’s declaration as early dotcom-era hubris. But on his document’s 20th anniversary, Barlow himself wants to be clear: He stands by his words just as much today as he did when he clicked “send” in 1996. “The main thing I was declaring was that cyberspace is naturally immune to sovereignty and always would be,” Barlow, now 68, said in an interview over the weekend with WIRED. “I believed that was true then, and I believe it’s true now.”",
+				"added": 1454946746
+			}
+		],
+		"3892_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG": [
+			{
+				"comment_id": 27,
+				"body": ">“Safe” is a bit of a vague term. There is much of worth to be found on the dark web, but by its nature it is not as safe as the surface-level internet. You can only access pages by having a direct link (normally with a .onion suffix) and while that makes it harder to accidentally stumble across illegal content, you’re only a click away from some pretty horrible stuff.\n\nI have used Tor for users and never mistakenly ran into anything horrible, at least not more horrible than on the clearnet. Some image boards have gore or JB/CP, but not much different from clearnet image boards. You are not going to mistakenly download a ton CP unless you go searching and upload original CP to one of the exclusive sites (source: Dark Net S01E03). It is not illegal to mistakenly view CP. It is only illegal (in some areas/countries) if you actively search it out or don't intentionally show effort to remove it from your system. \n\n>If you want to access the dark web, our best advice would be to tread carefully. Plan what it is you want to get out of your trip under the surface, and avoid anything that looks dodgy. You can use a plugin like Ghostery to spoof your IP address for extra protection, but in general it’s best to keep away from anything you’re unsure about. \n\nUsing Ghostery, an add-on that will make you stand out from other Tor users is not smart. It also is owned and operated by an ad company. I wouldn't trust it or this articles assessment on the 'Dark Web.'",
+				"added": 1455034995
+			}
+		],
+		"1_1NdofSgkkvCXPx5FotgoSxX3K78Nn6MDue": [
+			{
+				"comment_id": 30,
+				"body": "This site is a good idea. However, it is bad that it loads images from imgur. Ideally it would be decentralized and share image information between peers. That way imgur doesn't get to see every image you load. There could be a setting to change the default peer to peer to load from imgur (this would also allow peers to get the latest content to share with others), but as a default it is not good for privacy, which is the main reason many of us got interested in ZeroNet in the first place.\n\nCheck out the code to: https://nik.bot.nu/browse.fu\nIt allows for JavaScript free viewing of images, but still allows some sorting. This is valuable for peers like me with slow computers. Your site crashes my browser trying to load all those images with interactive JavaScript and heavy ram usage. I might also work if fewer images appeared at one time, but maybe I am in the minority with slow computer problems.",
+				"added": 1457358983
+			}
+		]
+	},
+	"comment_vote": {
+		"32_13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ": 1,
+		"50_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf": 1,
+		"239_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"240_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"1_1Q8iqH31cKCqynoJRxR2PfJhzQr8wHdiHr": 1,
+		"29_1QBLGLcgKfcpfLmiDYuDzUKVXFfmTAew55": 1,
+		"241_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"242_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"243_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"244_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"21_16iYwD5U2fNoS22p6447J7992iL3DHjSHY": 1,
+		"247_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"88_1ED3Ho3kmzaKiECtyuqSjDpoE47rKuXeP": 1,
+		"1_17i7Y7r8nTaCfLbCAuaKyc4R5BbKZYU2Hr": 1,
+		"11_1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD": 1,
+		"10_17i7Y7r8nTaCfLbCAuaKyc4R5BbKZYU2Hr": 1,
+		"4_1C7rjaNpWFAtWbQgSxbGaPzBdgCA47VYc6": 1,
+		"2_16iYwD5U2fNoS22p6447J7992iL3DHjSHY": 1,
+		"249_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"1_1kAPGzM6Yume9TeLGU2pjHsMxNi8oXP7B": 1,
+		"250_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"24_16iYwD5U2fNoS22p6447J7992iL3DHjSHY": 1,
+		"246_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"252_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"251_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"4_1An7ATsNMMNqRgSgB2upWwbpXgFXQ9E2XD": 1,
+		"25_16iYwD5U2fNoS22p6447J7992iL3DHjSHY": 1,
+		"254_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"54_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf": 1,
+		"14_1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD": 1,
+		"2_1BWsVpXFVzcpYwdgKhjCRuTx3xDTxyevKS": 1,
+		"56_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf": 1,
+		"260_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"261_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"262_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"8_1APx2pf1wNGFz4mWCN2sFzrtTGzrLKZUQ2": 1,
+		"265_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1
+	}
+}

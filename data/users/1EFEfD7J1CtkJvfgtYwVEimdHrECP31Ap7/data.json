@@ -1,0 +1,30 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 4,
+	"comment": {
+		"1_153e5GErvi2VZiV4pKiPwsWUAXYkS7Mznz": [
+			{
+				"comment_id": 1,
+				"body": "hir come dat boi ou shit waddup",
+				"added": 1464328825
+			}
+		],
+		"1_1LAi5pdGSJygPyBLR564HxNpsrgez4hRDG": [
+			{
+				"comment_id": 2,
+				"body": "Oi, FUCK OFF!\nit is world.",
+				"added": 1464337394
+			}
+		],
+		"1_1ANUjUWs64ryApM3Sdgnnqber8YP4TXK72": [
+			{
+				"comment_id": 3,
+				"body": "you suck",
+				"added": 1464337433
+			}
+		]
+	},
+	"comment_vote": {}
+}

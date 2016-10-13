@@ -1,0 +1,53 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {
+		"12_1ED3Ho3kmzaKiECtyuqSjDpoE47rKuXeP": 1,
+		"1_15P5kZhBwmwiuBmSUBSkBsT2DLEUYvn24u": 1,
+		"1_1KSynGkJ19GwKmR8BM2PTqWENa8rQ9vJS7": 1,
+		"3_1FTFKztuv4Z5uy6iS83k9hB2xtS6yFnDxx": 1,
+		"5_1LRrd96P7FiTcsyNXVzPM5jtpQoH1B4gYf": 1,
+		"2_18AAv2MxpUxLjG6U64nucoBg833eTaR83u": 1
+	},
+	"next_comment_id": 6,
+	"comment": {
+		"12_1ED3Ho3kmzaKiECtyuqSjDpoE47rKuXeP": [
+			{
+				"comment_id": 1,
+				"body": "Testing: if you can see this, I'm not having that problem.",
+				"added": 1450547373
+			},
+			{
+				"comment_id": 2,
+				"body": "Er, wait, I'm an idiot. This isn't ZeroBoard.\n\nHave you tried...\n- reloading the page?\n- stopping and restarting your ZeroNet daemon?\n- making sure your copy of ZeroBoard is up to date?",
+				"added": 1450547489
+			}
+		],
+		"1_18NqMTQeSD7cAKEcnAdFEBQYJCxHgFXSzk": [
+			{
+				"comment_id": 3,
+				"body": "I start it with zeronet.py, which leaves the process running in the foreground. Ctrl-C terminates it. If you have it running as a background process, you may need to use `kill`.",
+				"added": 1450715322
+			}
+		],
+		"1_1KSynGkJ19GwKmR8BM2PTqWENa8rQ9vJS7": [
+			{
+				"comment_id": 4,
+				"body": "I'd like to see [the docs](http://zeronet.readthedocs.io) hosted as a zeronet site.",
+				"added": 1465671621
+			}
+		],
+		"2_18AAv2MxpUxLjG6U64nucoBg833eTaR83u": [
+			{
+				"comment_id": 5,
+				"body": "AGPL is the obvious choice for a highly network-oriented program like this one.",
+				"added": 1466172932
+			}
+		]
+	},
+	"comment_vote": {
+		"27_16bxMyoL49mWYhcZKBYVBT5zEFW9SQpiao": 1,
+		"1_16omQr2CUsvzyzCHdQN1KmMyMjt2oAqfK3": 1,
+		"19_18AAv2MxpUxLjG6U64nucoBg833eTaR83u": 1
+	}
+}

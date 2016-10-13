@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "G0/H7YJXZzF1+1vdZSCHMfU2/G4PtoIuy/5pKTS/geNldVBXBkFScQp8Yt2izjXcQMa/fLZE03E9GgFr+XEu5l8=",
+ "cert_user_id": "barnettwong@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "79d678d01e90da4dd6d795e354418e44a48b15a24365c590b0fa759da08553cb",
+   "size": 162
+  }
+ },
+ "inner_path": "data/users/14DQRq5KbygZQy56fkoZ3suWxj7uaf5ugv/content.json",
+ "modified": 1464484435.22,
+ "signs": {
+  "14DQRq5KbygZQy56fkoZ3suWxj7uaf5ugv": "HGt3xCH2O9FEqK57sJ4rAZLYPJtP7j9TywmGpYqnxEjdlpWGDM41vw6KtftSxK92O5CHVi1wqWEKDVaCMp2vD5A="
+ }
+}

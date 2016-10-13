@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "G8TuWJEOFYxA0qAgyMwAvT4eWoA1aza5sepK0aZwRYk5VfjdujL0xY9YsdqpSBh979lP3gUoZLbVHbR188Ug0KA=",
+ "cert_user_id": "crazyclanboys@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "20057740cf5e4bb03f30bab9715754126a866057bddff3a177b0b5ba5ac4f386",
+   "size": 445
+  }
+ },
+ "inner_path": "data/users/15mpAxi3wJYGmAMgjjHoX9o32CsHt7xUMd/content.json",
+ "modified": 1470596848.748,
+ "signs": {
+  "15mpAxi3wJYGmAMgjjHoX9o32CsHt7xUMd": "HM5F67tPxdzZStF9v9wkG3in9wNDc+cCklvzVDllpFH+Ht62QfD1+fsknYzDSijdoglAuwgbr8VCvCJp3duw+MY="
+ }
+}

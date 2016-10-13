@@ -1,0 +1,206 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 34,
+	"comment": {
+		"2_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": [
+			{
+				"comment_id": 1,
+				"body": "FUCK YEAH DECENTRALIZATION!",
+				"added": 1470559260
+			}
+		],
+		"2_1AZjDLkfYwSmjM7ZJUf7HHnrF778augRMa": [
+			{
+				"comment_id": 2,
+				"body": "ah yes, the old CP problem.......a blacklist perhaps?",
+				"added": 1470571985
+			},
+			{
+				"comment_id": 29,
+				"body": "On a related note, why doesn't ZT enable the editing of user posts by the owner or moderators? What happens if, say,  I'm running a cloned forum and some sick asshole posts child porn? If I am unable to delete that kind of stuff (or any other objectionable material) then my site and its reputation are at the mercy of whomever decides to post, which is crazy. How is spam supposed to be dealt with? This needs to be addressed ASAP.",
+				"added": 1472732020
+			},
+			{
+				"comment_id": 30,
+				"body": "That is all very good and well but given human nature and it paired with online anonymity, not having the ability to edit or remove illegal content or spam is a recipe for disaster. We're still very early in the game here, 99.9% of people don't have a clue this place exists so we've been spared the trolls and pedos and other undesirables that infest the clearnet....but that will change at some point as this thing starts to grow. And once 4chan & Co. realize they can shitpost here with impunity, then comes the Apocalypse, then come the spamming scripts that will make this place unpalatable and unusable. And potentially some CP for extra lulz. \n\n I am a zealot with regards to free-speech and expression but I also recognize that society needs cops because not everybody will behave honorably and those that shit the bed need to be dealt with for the benefit of everybody else.\n\nAs for the issue of comment manipulation, how is ZN any more conducive to it? It can happen just as easily on the clearnet, and if it does the person responsible gets called out on it and shunned, simple as that.",
+				"added": 1472752746
+			}
+		],
+		"4_17VwZEfWSUWb5RHkK9m1odnDdBfvjTL6Cp": [
+			{
+				"comment_id": 3,
+				"body": "This is why we need comments enabled like on TPB and KAT (RIP)",
+				"added": 1470590802
+			}
+		],
+		"7_19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ": [
+			{
+				"comment_id": 4,
+				"body": "> [truth](#comment_10_164W1rFVD9Bm7poGJWvjVUjvkbhhFC5nnt): No need to worry so far ahead. Make it as good as ZeroTorrent.bit first. That would be amazing.\n\nYeah, baby steps, we still haven't perfected ZeroTorrent yet. Lets get that done and then it'll be easy to clone and port data over to wherever. I'm writing a script to mass-scrape a variety of index sites and dump it all into ZT, hope to be running it daily to keep things current.",
+				"added": 1470838637
+			},
+			{
+				"comment_id": 5,
+				"body": "> [kickasstorrents](#comment_6_1D6Pn4487L8QyFtVSU14nxxtnfEgEs2Ny1): If you're interested, what would be really helpful is if we could clone something like TheTVDB or TheMovieDB or even go crazy and build something like Trakt.\n\nFurther down the road, yeah, that it definitely something to strive for, TheMovieDB has an API so pulling data should be a cinch. I think right now we need to focus on getting a basic zite up and running with the just the bare essentials, proof-of-concept if you will, demonstrate that this whole crazy thing can actually work. \n\n> [kickasstorrents](#comment_6_1D6Pn4487L8QyFtVSU14nxxtnfEgEs2Ny1):  We need a system of some sort for metadata about a particular torrent. This metadata would of course be different depending on the torrent and it's category but is ultimately what would provide a summary, actors information, IMDB ratings, posters, etc...\n\nWhat about size limits? Not sure exactly how that works but apparently there's a quota that cuts off after its reached, need to disable that if metadata is going to be submitted.",
+				"added": 1470844719
+			},
+			{
+				"comment_id": 6,
+				"body": "OK, so I've just dumped around 100 movie titles into ZeroTorrent to feel things out, so far so good. I included the hash info in the decription in case people want to search by that parameter. No quota cap reached yet. Using Magnetissimo would probably be more efficient, as would a more clear division of labor, one group harvesting the data while another inserts it. But yeah, this is definitely doable!",
+				"added": 1470870741
+			},
+			{
+				"comment_id": 7,
+				"body": "Its nearly half used up now, I musta dumped like 1500 movie titles on there this morning. But eventually it'll all add up, local storage is going to be the major issue with any data-heavy zite, especially a endlessly expanding torrent indexer, a dedicated hard drive will become necessary at some point in time. But I have a few ideas about how to mitigate that.\n\nRegarding spam, that would be the MAFIAAs only recourse, hire a botnet and bombard the network with junk submissions, akin to the torrent and index poisoning of years gone by. So there needs to be a way of blocking specific IP ranges and blacklisting rogue users, standard stuff.",
+				"added": 1470927936
+			},
+			{
+				"comment_id": 8,
+				"body": "> [tkarita](#comment_87_1GervYZoP82e8X1Rgc4wyMkJY2zSsJuq8t): Users can be blacklisted, but it's easy to get new usernames.  Since ZeroNet encourages use of Tor, IP bans wouldn't be effective.\n\nOh yeah, thats right.......so the only viable option is user classes. Brand new users are put on probation with a fixed posting quota until such time they are promoted to regular/trusted members, clearnet forums do that all the time. Its not perfect but it'll do the job.",
+				"added": 1470930678
+			},
+			{
+				"comment_id": 11,
+				"body": "We're going to upload EVERYTHING.",
+				"added": 1471100649
+			},
+			{
+				"comment_id": 12,
+				"body": "with no admin around ZeroTorrent is really just a dumping ground useful for field testing, the long-term solution is going to be something bigger and better.",
+				"added": 1471109644
+			}
+		],
+		"7_13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ": [
+			{
+				"comment_id": 9,
+				"body": "These issues need to be ironed out before large-scale developments can begin, without a functioning hubs system ZeroNet will continue to be constrained by size-related headaches, glad you guys are figuring all this out.",
+				"added": 1471097490
+			}
+		],
+		"2_1B6K3CdEdkDqn2vbe4sURDAGMV1xeFpf3t": [
+			{
+				"comment_id": 10,
+				"body": "Is he a Reptilian from Alpha Centauri too?",
+				"added": 1471097565
+			}
+		],
+		"2_14dWJrtWbw6sQKHgfeukbzBDJvBSnfRnTw": [
+			{
+				"comment_id": 13,
+				"body": "There is a major torrent indexing project underway, stay tuned.",
+				"added": 1471176323
+			}
+		],
+		"13_19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ": [
+			{
+				"comment_id": 14,
+				"body": "It seems abandoned. Nevermind, something better is being built, lets be patient.",
+				"added": 1471207746
+			}
+		],
+		"1_1N5Rs6CHsGPdDB1y3JqjYm9SLSWUTkjwEF": [
+			{
+				"comment_id": 15,
+				"body": "I emailed the developer working on the faux KAT site, didn't get a response, not sure what's going on. If things don't start moving soon I'll try to get something going myself, I've been harvesting and processing countless torrents in recent days, its not going to be for nothing, I'll tell yaz that! :) Stay tuned.",
+				"added": 1471308320
+			},
+			{
+				"comment_id": 16,
+				"body": "> [kaffie](#comment_158_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh): TBH, it's looking pretty dead to me. The gitlab hasn't updated in a few days, the dev seems MIA, and the site's half-broken as it is.\n\nYeah, maybe he felt he was out of his depth and quietly quit....if he gave up on the whole thing he should have at least let us know. So if that is indeed how it is then we're back to square one. Namely, sitting on an ever-growing index of torrents with nowhere stable to dump em. And with all this back-and-forth hubs business thats going on I'm not even sure if a manageable index site is viable yet, there needs to be at least one hub per category and there are going to be at least 8 or so, right? TV, Movies, Software, Music, Anime, Books/Magazines/Comics, XXX, Mobile Apps....and that is without any sub-categories, not to mention the community hubs. The whole thing really needs to be nailed down tight before the mass-uploading can begin because believe me, its going to take a fair while to upload tens of MILLIONS of torrents on a decentralized network such as this, you need to be sure you're doing it right.",
+				"added": 1471390628
+			}
+		],
+		"1_1LPyB18qg6mGFb1v8zMYd6TBCXK2c7BmRm": [
+			{
+				"comment_id": 17,
+				"body": "HELLO WORLD",
+				"added": 1471544981
+			}
+		],
+		"8_1GervYZoP82e8X1Rgc4wyMkJY2zSsJuq8t": [
+			{
+				"comment_id": 18,
+				"body": "is this legit?",
+				"added": 1471900179
+			},
+			{
+				"comment_id": 20,
+				"body": "Then I shall be checking it out! :)",
+				"added": 1471900530
+			},
+			{
+				"comment_id": 21,
+				"body": "Running out of size limit (1892.4MB/2000MB)",
+				"added": 1471921216
+			},
+			{
+				"comment_id": 22,
+				"body": "0.4.0 (rev 1400)",
+				"added": 1471924309
+			},
+			{
+				"comment_id": 23,
+				"body": "So is there any other way to get this? Don't really think ZN is optimized for large file files, IPFS is better suited for that.",
+				"added": 1472004835
+			},
+			{
+				"comment_id": 24,
+				"body": "I will try to download this again in a couple hours, will report back.",
+				"added": 1472070968
+			},
+			{
+				"comment_id": 25,
+				"body": "Damn, it hangs again.",
+				"added": 1472078292
+			}
+		],
+		"1_1NqBBGk69vKmEpN4EHafCeUQh8veeyysTj": [
+			{
+				"comment_id": 19,
+				"body": "Forget the VPN. Get a cheap seedbox for like $5 a month. First you download the file to the box (its IP is used, not yours) and then you SFTP the file down to your desktop or whatever. As long as you're using SFTP (encrypted FTP) your ISP won't be able to know what exactly you are downloading.",
+				"added": 1471900462
+			}
+		],
+		"1_18ZbdG9rMgLWzfFrWMkyGXtSv7MyPfUuSj": [
+			{
+				"comment_id": 26,
+				"body": "Download to a seedbox and then SFTP to your desktop.",
+				"added": 1472429497
+			}
+		],
+		"7_1KzaKud9cUZB7HcgHnhrZqyuq2NnTeW6PR": [
+			{
+				"comment_id": 27,
+				"body": "Same thing happens to me,  no matter what browser I try. And if it does finally load it seems to return EVERY single row instead of just the 30 its supposed to. Definitely a bug of some sort.",
+				"added": 1472570577
+			},
+			{
+				"comment_id": 28,
+				"body": "Actually, just looked at the code, my JS is a little rusty but seems its not a bug but a feature. Namely, after the intial 30 rows load the \"load more\" query will then simply return everything thats left, even if its a million rows it will try to load them all. I have no idea why this board was designed with such a crippling feature,  you're essentially limiting the entire site to 30 posts or less. Its somewhat akin to a zip bomb https://en.wikipedia.org/wiki/Zip_bomb",
+				"added": 1472576729
+			}
+		],
+		"1_1BJLFpeyJtnrk5cC2rUMxB5oNrYs3wokVE": [
+			{
+				"comment_id": 31,
+				"body": "Hmmmm....so how is that multi-user plugin supposed to work? I tried it out, it generated new IDs just fine but they don't appear to be useable, as in you can't log into ZN sites with them....am I missing something here?",
+				"added": 1473463515
+			},
+			{
+				"comment_id": 33,
+				"body": "Right....so how are they actually used then? Is it possible to post with them?",
+				"added": 1473466166
+			}
+		],
+		"1_1Cq3f8r7jiiYuVJfrTDUrenioiRn9TMASV": [
+			{
+				"comment_id": 32,
+				"body": "I don't mind unobtrusive ads but those popup ones that hijack and freeze my browser......RAGE!!!!",
+				"added": 1473464061
+			}
+		]
+	},
+	"comment_vote": {}
+}

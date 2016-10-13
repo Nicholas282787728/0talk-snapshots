@@ -1,0 +1,37 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "How to send a email?",
+			"body": "Hello how i can send a email, for example, to a gmail account?",
+			"added": 1457479280
+		}
+	],
+	"topic_vote": {},
+	"next_comment_id": 4,
+	"comment": {
+		"1_1NdofSgkkvCXPx5FotgoSxX3K78Nn6MDue": [
+			{
+				"comment_id": 1,
+				"body": "congrats for the job",
+				"added": 1457375042
+			}
+		],
+		"1_1DXgw1bgGQFU9kcLS2ADfRwr85rBs663We": [
+			{
+				"comment_id": 2,
+				"body": "thanks",
+				"added": 1457479564
+			}
+		],
+		"3_19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ": [
+			{
+				"comment_id": 3,
+				"body": "que bem... lingua portuguesa na zona...",
+				"added": 1458416228
+			}
+		]
+	},
+	"comment_vote": {}
+}

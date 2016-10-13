@@ -1,0 +1,25 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "JavaScript vulnerabilities?",
+			"body": "Have anyone tested for JavaScript vulnerabilities? JavaScript is enabled by default in most modern browsers, and would allow attackers to track the internal and external IP of an individual, and geolocate them. \n\nAny thoughts on this?",
+			"added": 1457442718
+		}
+	],
+	"topic_vote": {
+		"1_1ByKXu4VhEGgR47xjRKm9MmK8czPVzBfTw": 1
+	},
+	"next_comment_id": 2,
+	"comment": {
+		"2_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": [
+			{
+				"comment_id": 1,
+				"body": "Hello world!",
+				"added": 1457442581
+			}
+		]
+	},
+	"comment_vote": {}
+}

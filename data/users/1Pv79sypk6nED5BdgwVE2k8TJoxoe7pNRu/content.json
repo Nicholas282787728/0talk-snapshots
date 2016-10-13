@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HPtKtjujp7QlpsMDT8ztjmwj3NDjpPXQoEYvq/8pmaXEBDXDi6HB0VmRyfOTRNbtFuWgsLcBoUhJ0T96ypV1arI=",
+ "cert_user_id": "ilgiannott@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "e45797b5f473d5d3bae976f0b1e20884e078805b443e701afc47376095eda5e7",
+   "size": 382
+  }
+ },
+ "inner_path": "data/users/1Pv79sypk6nED5BdgwVE2k8TJoxoe7pNRu/content.json",
+ "modified": 1460638256.824,
+ "signs": {
+  "1Pv79sypk6nED5BdgwVE2k8TJoxoe7pNRu": "G/u8u20iDuCbj5uhuWCh4/gEEN6tii8hF3q+n9RNIK8Ich9ceP83LxO+ynGn6GwCP718v6Ow/5JPDNgU6h6sjyc="
+ }
+}

@@ -1,0 +1,39 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "Shouldn't 0list be called ZeroList",
+			"body": "i am confuse",
+			"added": 1456984141
+		}
+	],
+	"topic_vote": {},
+	"next_comment_id": 4,
+	"comment": {
+		"2_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": [
+			{
+				"comment_id": 1,
+				"body": "BOOP",
+				"added": 1456984035
+			}
+		],
+		"1_1HRgRrQ2AwD7qBQkDYrGr7w7Z15o52yiVJ": [
+			{
+				"comment_id": 2,
+				"body": "It will be interesting to see where it goes and what people end up using it for...",
+				"added": 1456984171
+			}
+		],
+		"1_1EmViJkfwHFYZmRatT1AmuMDeWyxdJfNfA": [
+			{
+				"comment_id": 3,
+				"body": "> [thevideovault](#comment_5_1DfkDpkeDXGbHJ2ZT31DPvYr5xR59Jr8BA): When you make your own site, you can name it whatever you want. The creator of 0list chose to call it that.\n\nಠ_ಠ okay that makes sense.\ni also just discovered zeroName.bit. holy crap theres a lot of people on here........",
+				"added": 1456984445
+			}
+		]
+	},
+	"comment_vote": {
+		"1_1EmViJkfwHFYZmRatT1AmuMDeWyxdJfNfA": 1
+	}
+}

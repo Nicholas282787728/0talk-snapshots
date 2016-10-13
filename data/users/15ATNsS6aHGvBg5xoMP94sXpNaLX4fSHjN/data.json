@@ -1,0 +1,106 @@
+{
+	"next_topic_id": 17,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "[solved] Will renamed / moved files be re-downloaded",
+			"body": "",
+			"added": 1468328990
+		},
+		{
+			"topic_id": 2,
+			"title": "test2",
+			"body": "test2",
+			"added": 1468329007
+		},
+		{
+			"topic_id": 6,
+			"title": "[solved] Can't access GitHub through Tor",
+			"body": "",
+			"added": 1468329140
+		},
+		{
+			"topic_id": 7,
+			"title": "[discussion] Blacklisting",
+			"body": "",
+			"added": 1468329177
+		},
+		{
+			"topic_id": 14,
+			"title": "[question] How to create a subforum",
+			"body": "",
+			"added": 1468329267
+		},
+		{
+			"topic_id": 16,
+			"title": "[question] If enough peers refuse to share certain user files, will they dissapear forever?",
+			"body": "Or another question would be, how does my client know I'm missing \n`data/users/1ADB7TdX2fVbTsWBoMe9yBTmVXTbb33b4R/data.json` for example\nI mean its not registered anywhere (like in the site's `content.json`) but only with the peers that have this file.",
+			"added": 1468332784
+		}
+	],
+	"topic_vote": {
+		"1_1DWrKbEomgBLHjczm1HkP556Vg68ewDmyd": 1,
+		"4_1PSaHi14Xh4Kjo3yyjDgbRtj4YLQgWV4QJ": 1
+	},
+	"next_comment_id": 10,
+	"comment": {
+		"14_15ATNsS6aHGvBg5xoMP94sXpNaLX4fSHjN": [
+			{
+				"comment_id": 2,
+				"body": "> [bot](#comment_47_1KdnTJVBGzEZrJppFZtzfG9chukuMv8xSb):\nHow can you sign user files?",
+				"added": 1468331784
+			}
+		],
+		"1_1DWrKbEomgBLHjczm1HkP556Vg68ewDmyd": [
+			{
+				"comment_id": 3,
+				"body": "Pretty interesting, but not practical I think.",
+				"added": 1468333331
+			}
+		],
+		"16_15ATNsS6aHGvBg5xoMP94sXpNaLX4fSHjN": [
+			{
+				"comment_id": 4,
+				"body": "> [up4](#comment_59_1BLPKyrF2D4ertte6JnAa6oWAMYzZGwKQz): \nMy HDD didn't have any space left so when I added a new topic, my `data.json` was removed somehow, I deleted the site and re-downloaded my file, and re-added whatever I could.",
+				"added": 1468334439
+			},
+			{
+				"comment_id": 5,
+				"body": "> [up4](#comment_60_1BLPKyrF2D4ertte6JnAa6oWAMYzZGwKQz):\nYou could add my content as comments to yours, if you got the topic contents I'll add that myself.",
+				"added": 1468334967
+			},
+			{
+				"comment_id": 6,
+				"body": "> [up4](#):\nHow did the talk go by the way",
+				"added": 1468335186
+			}
+		],
+		"1_1PfkkZqaisKpxheXwbqKwoMZBbCeddKfLm": [
+			{
+				"comment_id": 7,
+				"body": "You click on a movie you like to watch and then you can download a movie by magnet link with your BitTorrent client\n\nEdit: The number of movies listed there is a bit more than ~190, more like ~4900",
+				"added": 1468429009
+			}
+		],
+		"1_1D9PFKqnik1Z4JtDZnYhyQERZAu5ZiXqFX": [
+			{
+				"comment_id": 8,
+				"body": "Reposting... \n\nThis disables all jQuery animations, but not CSS animations\n```\ndocument.addEventListener(\"DOMContentLoaded\", function(event) {\n// Disable jQuery animations\njQuery.fx.off = true\n});\n```\nAdd this at the very top to `[your zeronet directory]/src/Ui/media/all.js`",
+				"added": 1468444345
+			}
+		],
+		"4_1PSaHi14Xh4Kjo3yyjDgbRtj4YLQgWV4QJ": [
+			{
+				"comment_id": 9,
+				"body": "> [ulrichard](#comment_9_1PSaHi14Xh4Kjo3yyjDgbRtj4YLQgWV4QJ): I'm looking for a way that visitors can contact me with a web form. I don't want to bother regular internet users with zeronet id's.\nTake a look at how http://127.0.0.1:43110/Board.ZeroNetwork.bit/ works. It doesn't require users to be logged in. \nMaybe you can start with cloning it and add some CSS to suit your need.\n\nZeroBoard doesn't have any encryption so... you might consider using [kbpgp - Keybase's PGP for JavaScript](https://github.com/keybase/kbpgp)",
+				"added": 1468516306
+			}
+		]
+	},
+	"comment_vote": {
+		"47_1KdnTJVBGzEZrJppFZtzfG9chukuMv8xSb": 1,
+		"10_1GkoHb4XqFDbLnxzrZxSzJK7dqnxmGyBRP": 1,
+		"1_1Gtj7AdXhzMFUVVvFm2ZGCbTFdgNwdtuMn": 1,
+		"11_1KA9sLxVY9KBmdEV73UqXXQhDe4ZS8k3LY": 1
+	}
+}

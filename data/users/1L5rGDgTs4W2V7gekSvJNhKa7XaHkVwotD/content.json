@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "G1sRSGFutFteSQKlE7zN4FFd6LsaaAue63M6hq+Q4WU965zXB9wpuZEIpbSl+dJx9QNV0l6elE0AOnPow5owABU=",
+ "cert_user_id": "antyhrabia@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "49044bd811a3360446fd191c29048adfb78c4dc9c35bdabdecd065807dca7d9a",
+   "size": 26665
+  }
+ },
+ "inner_path": "data/users/1L5rGDgTs4W2V7gekSvJNhKa7XaHkVwotD/content.json",
+ "modified": 1475922446.595589,
+ "signs": {
+  "1L5rGDgTs4W2V7gekSvJNhKa7XaHkVwotD": "GwZ97kIuoIE2qIDvH1pKkR5fq7/5KXaEK6DUIn8DW9DT0jG66k7kU2J8px+iXjWSV8Lhllo+big4Y/bdJkdUqY8="
+ }
+}

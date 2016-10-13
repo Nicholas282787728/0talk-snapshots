@@ -1,0 +1,378 @@
+{
+	"next_topic_id": 6,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "Русскоязычные ресурсы ZeroNet",
+			"body": "Привет. Давайте шарить свои проекты и проекты других людей\n\nЗаходите в наш [русскоязычный talk](/1Apr5ba6u9Nz6eFASmFrefGvyBKkM76QgE)",
+			"added": 1455090169
+		},
+		{
+			"topic_id": 2,
+			"title": "Help, whats wrong with my blog?",
+			"body": "http://i.imgur.com/fz2UqES.png\n[blog.gomzik.bit](/blog.gomzik.bit/?Post:5:Как+я+готовлю+свой+проект)\n\nAnd why it is outdated?",
+			"added": 1455523016
+		},
+		{
+			"topic_id": 3,
+			"title": "Why I can't enlarge users data maximum size",
+			"body": "I'm using clone of ZeroBlog. When I try enlarge users data maximum size using file data/users/content.json\n```\n{\n\"permission_rules\": {\n   \".*\": {\n    \"files_allowed\": \"data.json\",\n    \"max_size\": 500000\n   }\n  },\n  \"permissions\": {\n   \"gomzik@zeroid.bit\": {\"max_size\": 1073741824}\n  }\n}\n```\nafter sign and publish, I see following\nhttp://i.imgur.com/vOYJR3a.png\n\nCan someone explain, what I'm doing wrong?",
+			"added": 1455528627
+		},
+		{
+			"topic_id": 5,
+			"title": "Help me recovery ability to post comment in my blog",
+			"body": "Dear nofish and other skilled zeronet users. Yesterday, I tried to enlarge maximum user space in my blog, but something went wrong (I asked few questions yesterday). After, I was able to fix issues in some random way and it looks like it works fine. But today one user tried to leave comment and received next message:\nhttp://i.imgur.com/glp934Q.png\nAnd I receive this message too. And new, fresh registered user, too. Can yo look at my site and help me recover it?\n\nMy site addres is [1CpGZyfbUBBV5uXUoY653wVoqZFRojbEzd](/1CpGZyfbUBBV5uXUoY653wVoqZFRojbEzd)",
+			"added": 1455613674
+		}
+	],
+	"topic_vote": {
+		"1_1F6BMqittjWUStzUbRXm2kG2GQ3RdBLqFQ": 1,
+		"1_16AFTG7vdicwJbRQpWc2F9BRHTE5MTftE7": 1,
+		"1_1NHZ2FfVkeCBzr2iS1cVnzf5xZfN4ZWEik": 1,
+		"17_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf": 1,
+		"2_16AFTG7vdicwJbRQpWc2F9BRHTE5MTftE7": 1,
+		"3_16AFTG7vdicwJbRQpWc2F9BRHTE5MTftE7": 1,
+		"3_1FzQ2ZsCgLRL4PTqPKtomrzSpKLTuNRXRo": 1,
+		"8_19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ": 1
+	},
+	"next_comment_id": 64,
+	"comment": {
+		"1_1F6BMqittjWUStzUbRXm2kG2GQ3RdBLqFQ": [
+			{
+				"comment_id": 1,
+				"body": "Я в свою очередь начинаю разбираться с этим всем добром, как тут все устроено, как делать толковые штуки, а не статические html'ки писать. Немножко опыта поднаберусь и попробую тоже что-то замутить",
+				"added": 1455095000
+			},
+			{
+				"comment_id": 3,
+				"body": "> [zalex](#comment_35_1LWuc6JBhUGrKEAh1aPrPU85dEMcKmg3pS): Наверное, стоит таки делать русскоязычный раздел на своём сайте :D\n\nНу так а сайт то где?",
+				"added": 1455097438
+			},
+			{
+				"comment_id": 4,
+				"body": "Ребятушки. А объясните чайнику, как намайнить неймкоины для домена?\n\nИзвините за некооторый оффтопик :)",
+				"added": 1455098901
+			},
+			{
+				"comment_id": 5,
+				"body": "Любопытный коммит https://github.com/n3r0-ch/ZeroNet-Doc/commit/582d561ba1dc486b7ca8efa11904aecb6f51a9ad\n\nРебята решили уйти от неймкоинов? Или я что-то не правильно понял?",
+				"added": 1455102632
+			},
+			{
+				"comment_id": 6,
+				"body": "Отмечу, что sthetz сделал русскоязычный раздел у себя на 0chan.bit\n\nhttp://127.0.0.1:43110/0chan.bit",
+				"added": 1455187175
+			},
+			{
+				"comment_id": 7,
+				"body": "> [shift](#comment_1_16AFTG7vdicwJbRQpWc2F9BRHTE5MTftE7): О, тут оказывается много русских\n\nЗдравствуй, shift, любитель всего децентрализированного :)",
+				"added": 1455195739
+			},
+			{
+				"comment_id": 8,
+				"body": "> [shift](#comment_3_16AFTG7vdicwJbRQpWc2F9BRHTE5MTftE7): Привет  @gomzik \n> Интересно сколько тут нас русскоговорящих, никто доки по zeronet не читал новые? раньше форум и пара мест работало централизовано, поправили?\n\nZeroTalk сейчас работает не централизованно. Тут теперь есть возможность делать динамику внутри так сказать.",
+				"added": 1455196443
+			},
+			{
+				"comment_id": 9,
+				"body": "> [shift](#comment_4_16AFTG7vdicwJbRQpWc2F9BRHTE5MTftE7): есть где почитать? если это так то надо собрать полноценный единый  exe для винды и пост на хабре и полетит\n\nЯ как-то прямого текста об этом не видел, но если открыть Networking в браузере, то внешних запросов нет. Плюс можно полистать девелоперское апи, там написано как делается динамический контент.\n\nОни кажется называют эту фичу multi user sites, можно упоминание в их презенташке найти https://docs.google.com/presentation/d/1_2qK1IuOKJ51pgBvllZ9Yu7Au2l551t3XBgyTSvilew/pub?start=false&loop=false&delayms=3000&slide=id.g9a745d911_1_6\n(слайд 14)",
+				"added": 1455197567
+			},
+			{
+				"comment_id": 10,
+				"body": "> [shift](#comment_5_16AFTG7vdicwJbRQpWc2F9BRHTE5MTftE7): я вкурсе, во время старого поста сеть была не распределенной, сейчас говорят лучше стало = нуже новый, бинарник понизит порог вхождения\n> никто не хочет с pyinstaller покопатся?\n\nМогу сегодня вечером попробовать покопаться с pyinstaller. Хотя конечно zeronet'у еще б свой браузер",
+				"added": 1455197657
+			},
+			{
+				"comment_id": 11,
+				"body": "> [shift](#comment_5_16AFTG7vdicwJbRQpWc2F9BRHTE5MTftE7): я вкурсе, во время старого поста сеть была не распределенной, сейчас говорят лучше стало = нуже новый, бинарник понизит порог вхождения\n> никто не хочет с pyinstaller покопатся?\n\nДа кстати, не факт что конечно pyinstaller скушает. Не уверен, что в ней есть freeze_support()",
+				"added": 1455197893
+			},
+			{
+				"comment_id": 12,
+				"body": "> [zalex](#comment_38_1LWuc6JBhUGrKEAh1aPrPU85dEMcKmg3pS): Зачем? Это ведь плюс, что работает с любым браузером. А очередная хромосборка (имхо, конечно) бесполезна.\n\nобычным юзверям http://localhost:43110/Talk.ZeroNetwork.bit/ таки сылки не канают. :)",
+				"added": 1455197929
+			},
+			{
+				"comment_id": 13,
+				"body": "> [zalex](#comment_39_1LWuc6JBhUGrKEAh1aPrPU85dEMcKmg3pS): Так есть вроде плагин для хрома\n\nТак то ж надо пойти, найти да поставить",
+				"added": 1455198002
+			},
+			{
+				"comment_id": 14,
+				"body": "> [sthetz](#comment_8_1BNmjz9tBLY3M1tq2z7DKvA1LjFXYsmLd9): Насчет бинарника: зачем? Ведь уже давно есть для винды ZeroBundle, все что нужно — скачать его и запустить один-единственный файлик, дальше все работает само.\n\nТоже верно, на самом деле.",
+				"added": 1455198111
+			},
+			{
+				"comment_id": 16,
+				"body": "> [nippletwister](#comment_72_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf): Лучше расширение запилить для FireFox и для Chrome (чтобы не надо было ZeroBundle скачивать и запускать). Так легче будет народ зазывать новый.\n\nтаки да, втащить туда питон - из области фантастики.",
+				"added": 1455199115
+			},
+			{
+				"comment_id": 17,
+				"body": "Ну как я уже писал, я разбираюсь сейчас в местном сайтостроении. В принципе так совпало, что я еще и python девелопер, так что может если созрею, пойду ковыряться в само ядро\n\nОбещаю все свои достижения выкладывать в русскоязычное сообщество",
+				"added": 1455199884
+			},
+			{
+				"comment_id": 18,
+				"body": "> [nippletwister](#comment_71_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf): Наткнулся на нечто с названием BigchaniDB: https://www.bigchaindb.com/features/Это может как-то помочь Зеронету? Основано на ReThinkDB: http://www.rethinkdb.com/faq/\n\nОхнуничегосебе. Оно ж тоже питонячее. Надо разобраться поглубже",
+				"added": 1455200372
+			},
+			{
+				"comment_id": 19,
+				"body": "> [manrus](#comment_5_1NHZ2FfVkeCBzr2iS1cVnzf5xZfN4ZWEik): А чем ipfs не годиться?\n\nаааа, как много всего интересного!",
+				"added": 1455200715
+			},
+			{
+				"comment_id": 20,
+				"body": "> [shift](#comment_8_16AFTG7vdicwJbRQpWc2F9BRHTE5MTftE7): ipfs на мобилках не взлетит. советую сразу думать о том, что может заработать на ios/android без рутов и извращений\n\nДа оно вроде все перечисленное не такое, ибо не встраиваемое. Тут же важно, чтобы скачал, запустил и работало. Значит нужно либо встраиваемое решение, либо свое.",
+				"added": 1455201300
+			},
+			{
+				"comment_id": 21,
+				"body": "> [shift](#comment_9_16AFTG7vdicwJbRQpWc2F9BRHTE5MTftE7): пост на хабре это и есть определенные люди. \n> Имхо, что бы сюда пошли более широкие круги людей нужна кроссплатформенность + контент\n> PS удивился что ресурс всё еще работает 1FhhawHHvgLg5LS1w3w7DxT8KJSPihG9Cv\n\nА ну то да, кто-то сидирует все еще",
+				"added": 1455201379
+			},
+			{
+				"comment_id": 22,
+				"body": "> [shift](#comment_11_16AFTG7vdicwJbRQpWc2F9BRHTE5MTftE7): сам пилил это? как оно работает техническиPS тут я заметил сделали какую-то местную почту, она работает? можно с кем-то потестить ?\n\nАвтор 0chan - @sthetz",
+				"added": 1455201609
+			},
+			{
+				"comment_id": 23,
+				"body": "> [shift](#comment_10_16AFTG7vdicwJbRQpWc2F9BRHTE5MTftE7): на тему того, что бы по нормальному по урлам можно было ходить, непонимаю почему никто не сделал враппер - в обычных интернетах оставлять ссылки вида zeronet://hash а сам клиент будет вешать обработку  этого протокола на себя и открывать его в браузере, profit, есть тут питонисты?\n\nКстати для меня тоже загадка и считаю, что это действительно нужно сделать. Питонист, но в коде зеронета еще не разбирался",
+				"added": 1455201643
+			},
+			{
+				"comment_id": 24,
+				"body": "А вообще, тут все такое вебдванольненькое. Реал тайм апдейты. Вкуснотища прям.",
+				"added": 1455201829
+			},
+			{
+				"comment_id": 25,
+				"body": "> [shift](#comment_13_16AFTG7vdicwJbRQpWc2F9BRHTE5MTftE7): проверил, круто работает, но нехватает уведомлений\n\nhttps://github.com/HelloZeroNet/ZeroNet/issues/255\nВроде пока никак.",
+				"added": 1455202967
+			},
+			{
+				"comment_id": 26,
+				"body": "Создал issue\nhttps://github.com/HelloZeroNet/ZeroNet/issues/266\nпосмотрим что ответят.",
+				"added": 1455202987
+			},
+			{
+				"comment_id": 27,
+				"body": "> [manrus](#comment_11_1NHZ2FfVkeCBzr2iS1cVnzf5xZfN4ZWEik): Можно попробовать переманить юзверей freenet'а. Вопрос в том насколько они параноики.\n\nкак думаешь, насколько параноики пользователи f2f-сети? :) Да они ж доверяют только своим :)",
+				"added": 1455203804
+			},
+			{
+				"comment_id": 28,
+				"body": "Так мы сейчас и в некотором подобии реддита и находимся :)",
+				"added": 1455203999
+			},
+			{
+				"comment_id": 29,
+				"body": "Issue быстренько прикрыли. Сейчас попробую еще прокоментить",
+				"added": 1455204024
+			},
+			{
+				"comment_id": 30,
+				"body": "Ну я для начала Хеловорлд с плюшками зеронета напишу, потом готов рассмотреть идеи к реализации. Одно только но, у меня английский на уровне \"читаю, пишу простые односложные предложения\" поэтому либо мне нужен помощник, либо я буду ориентироваться на русскоязычную аудиторию. Пока...",
+				"added": 1455204218
+			},
+			{
+				"comment_id": 31,
+				"body": "> [nippletwister](#comment_85_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf): Честно говоря, мне самому ТОР не очень интересен). Объясню почему. Мне интересны системы, которые способны организовывать людей в нечто, что способно противостоять давлению извне и достигать поставленных перед собой целей - самоуправляться. Децентрализованные автономные организации (термин из мира криптовалют). Приватность/анонимность тут одна из составляющих, но не всегда самая главная и не всегда даже необходимая. ZeroNet мне нравится не столько тем, что он анонимен сколько тем, что сложноцензурируем, т.е. плохо поддается влиянию извне. По крайней мере, он должен быть таким в идеале.\n\nВот только зеронет не анонимен. С тором разве что",
+				"added": 1455207211
+			},
+			{
+				"comment_id": 32,
+				"body": "> [shift](#comment_18_16AFTG7vdicwJbRQpWc2F9BRHTE5MTftE7): Нехватает на форуме редактора разметки добавления ссылок и вставки контента, оно где-как разрабатывается?\n\nУ зеротолка есть свой репо рядом с ядром. Да и главный надзиратель тут регулярно тусуется. Он англоязычный.",
+				"added": 1455207259
+			},
+			{
+				"comment_id": 33,
+				"body": "Мне пока видится недостаток в ручном расширении квот. Без квот нельзя, ибо спамеры могут быть какие, да и у самого сайта ограничение на вес есть (хотя конечно тоже расширяется, но все же), но и с ручным расширением квот как-то ну так себе.",
+				"added": 1455207336
+			},
+			{
+				"comment_id": 34,
+				"body": "Пикабу это потом все. Когда будет что показать аудитории. Сами понимаете, зеронет нужны люди, которые будут на своих плечах сидировать сайты. И чем больше людей, тем больше шанс достучаться до какого-то не популярного ресурса",
+				"added": 1455207422
+			},
+			{
+				"comment_id": 35,
+				"body": "> [nippletwister](#comment_86_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf): А как идея насчет прикручивания зарабатывания токенов (валюты) за сидерство, и траты этих токенов на хостинг контента/добавление комментов? Похожая идея должна быть у DATT.co\n\nвот тоже насчет чего-то подобного думал. Нужна система поощерений за сидерство, и эти поощерения должны не просто галочкой светиться возле ника, но и быть действительно полезны. Возможность обменять на какие-либо виртуальные блага.",
+				"added": 1455210349
+			},
+			{
+				"comment_id": 36,
+				"body": "> [shift](#comment_19_16AFTG7vdicwJbRQpWc2F9BRHTE5MTftE7): а смысл в поощрении сидирования если у  ресурсов на которые часто заходят и так всё будет хорошо с доступностью?\n\nв этом действительно есть смысл :) Готовь качественный контент и люди будут сидировать твой сайт вечно :)",
+				"added": 1455216274
+			},
+			{
+				"comment_id": 37,
+				"body": "Я тут понемножку блог замутил.\n\nhttp://localhost:43110/1CpGZyfbUBBV5uXUoY653wVoqZFRojbEzd\n\nСпасибо",
+				"added": 1455217123
+			},
+			{
+				"comment_id": 38,
+				"body": "> [nippletwister](#comment_91_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf): Как это часто бывает, пишет \"content.json download failed\"\n\nЯ видимо поспешил писать следующую запись, никому не раздав :)",
+				"added": 1455218811
+			},
+			{
+				"comment_id": 39,
+				"body": "> [nippletwister](#comment_91_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf): Как это часто бывает, пишет \"content.json download failed\"\n\nТолько что проверил с другого девайса, все работает",
+				"added": 1455218911
+			},
+			{
+				"comment_id": 62,
+				"body": "> [shift](#comment_38_16AFTG7vdicwJbRQpWc2F9BRHTE5MTftE7): Апну что у нас есть своё уютненькое тут http://127.0.0.1:43110/1Apr5ba6u9Nz6eFASmFrefGvyBKkM76QgE/ \n> gomzik не хочешь в заголовок ссылку добавить?\n\ndone",
+				"added": 1457008583
+			}
+		],
+		"2_1F6BMqittjWUStzUbRXm2kG2GQ3RdBLqFQ": [
+			{
+				"comment_id": 40,
+				"body": "Well. I'll fix it very strange way. I'll remove my blog from my zeronet/data and fetch it from network again. Maybe it might be useful for somebody",
+				"added": 1455523645
+			}
+		],
+		"3_1F6BMqittjWUStzUbRXm2kG2GQ3RdBLqFQ": [
+			{
+				"comment_id": 41,
+				"body": "> [nofish](#comment_312_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): Are you used the webui to sign the correct file? (data/users/content.json)Have you tried to restart your client?\n\nNo, command line.\nI will try, one minute.\n\nI turn off zeronet, update data/users/content.json, sign and publish, start zeronet and again see that message http://i.imgur.com/fz2UqES.png",
+				"added": 1455537427
+			},
+			{
+				"comment_id": 42,
+				"body": "See in my log while sign command run\n\nSite:1CpGZy..bEzd - [SKIPPED] data/users/content.json",
+				"added": 1455537878
+			},
+			{
+				"comment_id": 43,
+				"body": "```\n(venv)$ python zeronet.py siteSign 1CpGZyfbUBBV5uXUoY653wVoqZFRojbEzd --inner_path data/users/content.json\n- Starting ZeroNet...\n- OpenSSL loaded, version: 01000106F\n- Signing site: 1CpGZyfbUBBV5uXUoY653wVoqZFRojbEzd...\nSite:1CpGZy..bEzd File data/users/content.json not exist yet, loading default values...\nSite:1CpGZy..bEzd Opening site data directory: data/1CpGZyfbUBBV5uXUoY653wVoqZFRojbEzd/data/users/...\nSite:1CpGZy..bEzd - [SKIPPED] content.json\nSite:1CpGZy..bEzd - 16AFTG7vdicwJbRQpWc2F9BRHTE5MTftE7/data.json (SHA512: d715899605a58322dcdeccddf3065158587c53a0384d8d91bd3e2172cf071588)\nSite:1CpGZy..bEzd - [SKIPPED] 16AFTG7vdicwJbRQpWc2F9BRHTE5MTftE7/content.json\nSite:1CpGZy..bEzd - 1BNmjz9tBLY3M1tq2z7DKvA1LjFXYsmLd9/data.json (SHA512: 328e4209c642008d56d236090f879d04f6fc847cb6408162b93224fb38d97fd4)\nSite:1CpGZy..bEzd - [SKIPPED] 1BNmjz9tBLY3M1tq2z7DKvA1LjFXYsmLd9/content.json\nSite:1CpGZy..bEzd - 1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf/data.json (SHA512: e95a6e5ef64c5662df2630d1d548200189b0eb3a15ae04c77bd9330701c2bebf)\nSite:1CpGZy..bEzd - [SKIPPED] 1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf/content.json\nSite:1CpGZy..bEzd - 1F6BMqittjWUStzUbRXm2kG2GQ3RdBLqFQ/data.json (SHA512: d22e6657a32f544738f226a002784d53aaa3e6b2aa9b8833038ab07442d0c93b)\nSite:1CpGZy..bEzd - [SKIPPED] 1F6BMqittjWUStzUbRXm2kG2GQ3RdBLqFQ/content.json\nSite:1CpGZy..bEzd Adding timestamp and sha512sums to new content.json...\nSite:1CpGZy..bEzd Verifying private key...\nSite:1CpGZy..bEzd Correct 1CpGZyfbUBBV5uXUoY653wVoqZFRojbEzd in valid signers: ['1CpGZyfbUBBV5uXUoY653wVoqZFRojbEzd']\nSite:1CpGZy..bEzd Signing data/users/content.json...\nSite:1CpGZy..bEzd data/users/content.json: No rules\nSite:1CpGZy..bEzd Sign failed: Invalid content\n```",
+				"added": 1455538985
+			},
+			{
+				"comment_id": 44,
+				"body": "> [nofish](#comment_314_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): Something is bad with you content.json file the data.json files should be skipped, please re-download the original from ZeroBlog and try again with that.\n\nI restore original data/users/content.json, but output is the same",
+				"added": 1455540471
+			},
+			{
+				"comment_id": 45,
+				"body": "> [nofish](#comment_314_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): Something is bad with you content.json file the data.json files should be skipped, please re-download the original from ZeroBlog and try again with that.\n\nMaybe this error can be a key? http://i.imgur.com/fz2UqES.png",
+				"added": 1455545283
+			},
+			{
+				"comment_id": 46,
+				"body": "```\n(venv)$ cp data/1CpGZyfbUBBV5uXUoY653wVoqZFRojbEzd/data-default/users/content-default.json data/1CpGZyfbUBBV5uXUoY653wVoqZFRojbEzd/data/users/\n(venv)$ python zeronet.py siteSign 1CpGZyfbUBBV5uXUoY653wVoqZFRojbEzd --inner_path data/users/content.json\n- Starting ZeroNet...\n- OpenSSL loaded, version: 01000106F\n- Signing site: 1CpGZyfbUBBV5uXUoY653wVoqZFRojbEzd...\nSite:1CpGZy..bEzd File data/users/content.json not exist yet, loading default values...\nSite:1CpGZy..bEzd Opening site data directory: data/1CpGZyfbUBBV5uXUoY653wVoqZFRojbEzd/data/users/...\nSite:1CpGZy..bEzd - [SKIPPED] content.json\nSite:1CpGZy..bEzd - content-default.json (SHA512: 0603ce08f7abb92b3840ad0cf40e95ea0b3ed3511b31524d4d70e88adba83daa)\nSite:1CpGZy..bEzd - 16AFTG7vdicwJbRQpWc2F9BRHTE5MTftE7/data.json (SHA512: d715899605a58322dcdeccddf3065158587c53a0384d8d91bd3e2172cf071588)\nSite:1CpGZy..bEzd - [SKIPPED] 16AFTG7vdicwJbRQpWc2F9BRHTE5MTftE7/content.json\nSite:1CpGZy..bEzd - 1BNmjz9tBLY3M1tq2z7DKvA1LjFXYsmLd9/data.json (SHA512: 328e4209c642008d56d236090f879d04f6fc847cb6408162b93224fb38d97fd4)\nSite:1CpGZy..bEzd - [SKIPPED] 1BNmjz9tBLY3M1tq2z7DKvA1LjFXYsmLd9/content.json\nSite:1CpGZy..bEzd - 1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf/data.json (SHA512: e95a6e5ef64c5662df2630d1d548200189b0eb3a15ae04c77bd9330701c2bebf)\nSite:1CpGZy..bEzd - [SKIPPED] 1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf/content.json\nSite:1CpGZy..bEzd - 1F6BMqittjWUStzUbRXm2kG2GQ3RdBLqFQ/data.json (SHA512: d22e6657a32f544738f226a002784d53aaa3e6b2aa9b8833038ab07442d0c93b)\nSite:1CpGZy..bEzd - [SKIPPED] 1F6BMqittjWUStzUbRXm2kG2GQ3RdBLqFQ/content.json\nSite:1CpGZy..bEzd Adding timestamp and sha512sums to new content.json...\nSite:1CpGZy..bEzd Verifying private key...\nSite:1CpGZy..bEzd Correct 1CpGZyfbUBBV5uXUoY653wVoqZFRojbEzd in valid signers: ['1CpGZyfbUBBV5uXUoY653wVoqZFRojbEzd']\nSite:1CpGZy..bEzd Signing data/users/content.json...\nSite:1CpGZy..bEzd data/users/content.json: No rules\nSite:1CpGZy..bEzd Sign failed: Invalid content\n```\n\nNot working :( I have no idea...",
+				"added": 1455545984
+			}
+		],
+		"1_1KwTTgPRSTHFmmJAFBt6kQfdyNeSM5KJuH": [
+			{
+				"comment_id": 47,
+				"body": "LOL! JavaScript used only for web interfaces\n\nAnd you can't run erlang or something like in browser",
+				"added": 1455608822
+			},
+			{
+				"comment_id": 48,
+				"body": "But ofcourse you can rewrite python part in erlang. But, as I can see, python used with gevent, and it's make python more faster, when we talking about networking io",
+				"added": 1455609053
+			},
+			{
+				"comment_id": 49,
+				"body": "So, python is high level language, that helps make app more stable (you can't receive error, while working with memory directly or something like)\n\nI'm not understand, why people trying to use C\\C++ to write applications for networks like that. Because security of these applications is very important thing",
+				"added": 1455609205
+			},
+			{
+				"comment_id": 50,
+				"body": "> [pycole](#comment_22_1KwTTgPRSTHFmmJAFBt6kQfdyNeSM5KJuH): Seems reasonable. I know that Erlang doesn't really do exception handling at all (straight-up crashing is preferred)\n\nI know erlang a little, so, that language can be used for this network (I think). But do you ready make your new app always updated according the original one?",
+				"added": 1455609588
+			},
+			{
+				"comment_id": 51,
+				"body": "> [pycole](#comment_23_1KwTTgPRSTHFmmJAFBt6kQfdyNeSM5KJuH): Supposedly so things can be as fast as possible. And if you write very carefully, you can preserve security.\n\nYou can write in low level languages CPU bound tasks only, why not?\n\nYeah, my english is not enough good, so I hope you understand me.",
+				"added": 1455609719
+			},
+			{
+				"comment_id": 52,
+				"body": "> [pycole](#comment_24_1KwTTgPRSTHFmmJAFBt6kQfdyNeSM5KJuH): Given what I know of Erlang), It's at a high-enough level to handle managing processes well. That's part of the reason for my interest in it.\n\nAs you wish, my friend :)",
+				"added": 1455610503
+			}
+		],
+		"5_1F6BMqittjWUStzUbRXm2kG2GQ3RdBLqFQ": [
+			{
+				"comment_id": 53,
+				"body": "> [nofish](#comment_317_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): the problem:\"files_allowed\": \"data.son\",it should be\"files_allowed\": \"data.json\",.son -> .json\n\nIts works. Thank you so much!",
+				"added": 1455614057
+			}
+		],
+		"6_14XxpXNGMLsyeQxikacrbQnAFXVyhN5Ngx": [
+			{
+				"comment_id": 54,
+				"body": "It's because json not allows using two same keys",
+				"added": 1455615610
+			},
+			{
+				"comment_id": 55,
+				"body": "I think you need to use regexp (but not sure).\n\nSomething like \n```\n{\n \"files_allowed\": \"(data|x)\\.json\"\n}\n```",
+				"added": 1455615681
+			},
+			{
+				"comment_id": 56,
+				"body": "> [nofish](#comment_320_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): That's the way, so it should work.\n\nI look to my file, where I use something like. Try following:\n```json\n{\n  \"files_allowed\": \"(data|x).json\"\n}\n```\n\nwithout backslash",
+				"added": 1455627215
+			},
+			{
+				"comment_id": 57,
+				"body": "My example\n```json\n{\n// ...\n\"ignore\": \"((node_modules|assets|.git)/.*|webpack.config.js|package.json|.*.js.map)\"\n// ...\n}\n```",
+				"added": 1455627429
+			},
+			{
+				"comment_id": 58,
+				"body": "> [noiamo](#comment_11_14XxpXNGMLsyeQxikacrbQnAFXVyhN5Ngx): Working now thanks a lot!\n\nYou're welcome! :)",
+				"added": 1455647259
+			}
+		],
+		"3_16AFTG7vdicwJbRQpWc2F9BRHTE5MTftE7": [
+			{
+				"comment_id": 59,
+				"body": "> [shift](#comment_35_16AFTG7vdicwJbRQpWc2F9BRHTE5MTftE7): How it is possible if content were signed with not owner sign ? \n> \n> Why? in zero talk  /data/users/user/data.json i see\n> \n\nBut you cant erase data from that json, because it signed by user",
+				"added": 1455818974
+			},
+			{
+				"comment_id": 60,
+				"body": "> [shift](#comment_36_16AFTG7vdicwJbRQpWc2F9BRHTE5MTftE7): Yep, but if we have TTL every node can erase old content by itself\n\nNo, because that modified file will be invalid. All what you can is not show on web interface posts older than <>",
+				"added": 1455819520
+			}
+		],
+		"1_1ALXyaQsvvCQ3R5WBrPbe4dXsqnLCLEkB7": [
+			{
+				"comment_id": 61,
+				"body": "Use\n```\n---\n```\nin place, where you want to separate post",
+				"added": 1456730748
+			}
+		],
+		"3_1HUrhTUZFB2KKsXLUv1vugPH358iB6zsiY": [
+			{
+				"comment_id": 63,
+				"body": "Could yo say more about that?",
+				"added": 1472237463
+			}
+		]
+	},
+	"comment_vote": {
+		"3_1BNmjz9tBLY3M1tq2z7DKvA1LjFXYsmLd9": 1,
+		"8_1BNmjz9tBLY3M1tq2z7DKvA1LjFXYsmLd9": 1,
+		"85_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf": 1,
+		"4_1Pfwz3A2J1fDNtxvtaivd482mrMdGGdimU": 1,
+		"317_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"11_14XxpXNGMLsyeQxikacrbQnAFXVyhN5Ngx": 1,
+		"105_1KTjPe9MxoYkcXj78GuZgCcj3R3f3Twh7r": 1,
+		"42_1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD": 1,
+		"43_1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD": 1,
+		"354_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"548_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1
+	}
+}

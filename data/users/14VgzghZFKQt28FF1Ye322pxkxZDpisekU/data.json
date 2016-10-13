@@ -1,0 +1,42 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "ZeroCurrencies",
+			"body": "ZeroCurrencies provides unique volume of cryptocurrency exchange rates data, which is delivered in easy-to-integrate JSON format via simple http requests. Prices are updated every ~10 minutes.\nAddress:\nhttp://127.0.0.1:43110/1Pso1FY3rmBPFVD9ECZ54By9TbEPQznDCe",
+			"added": 1466347231
+		}
+	],
+	"topic_vote": {
+		"1_1Dme3quDw9tNTjMSk6RWcBJqHchi96vi6S": 1,
+		"1_14VgzghZFKQt28FF1Ye322pxkxZDpisekU": 1
+	},
+	"next_comment_id": 4,
+	"comment": {
+		"1_1Dme3quDw9tNTjMSk6RWcBJqHchi96vi6S": [
+			{
+				"comment_id": 1,
+				"body": "ciao a tutti, un saluto",
+				"added": 1455460861
+			}
+		],
+		"2_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": [
+			{
+				"comment_id": 2,
+				"body": "yeah",
+				"added": 1465809957
+			},
+			{
+				"comment_id": 3,
+				"body": "peer ZeroCurrencies: http://127.0.0.1:43110/1Pso1FY3rmBPFVD9ECZ54By9TbEPQznDCe",
+				"added": 1466343188
+			}
+		]
+	},
+	"comment_vote": {
+		"1_14VgzghZFKQt28FF1Ye322pxkxZDpisekU": 1,
+		"1_16JwmmKbuwEJwQ83q4eaSqkHj47R4rZdtu": 1,
+		"9_1HtGfHk2MuqcB5nYXZ6b2NajXJLoxfq7XS": 1
+	}
+}

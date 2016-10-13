@@ -1,0 +1,18 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "probando ZeroTalk",
+			"body": "a ver que tal :)",
+			"added": 1452676440
+		}
+	],
+	"topic_vote": {
+		"1_13mo1yoMZChmHAQqBibQyZ2nVknWf9sKHS": 1,
+		"1_1FHS5V4FmPFyJQspXVNB3gDVPd3JyjHCv7": 1
+	},
+	"next_comment_id": 1,
+	"comment": {},
+	"comment_vote": {}
+}

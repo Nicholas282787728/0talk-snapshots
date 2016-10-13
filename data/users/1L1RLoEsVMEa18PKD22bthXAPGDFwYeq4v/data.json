@@ -1,0 +1,32 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 4,
+	"comment": {
+		"2_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": [
+			{
+				"comment_id": 1,
+				"body": "hello!",
+				"added": 1457399154
+			}
+		],
+		"10_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf": [
+			{
+				"comment_id": 2,
+				"body": "an es6/javascript kickstarter with webpack for new projects. No react, jquery, no bullshit. Just a clean kickstarter with the zeronet structure and basic files.",
+				"added": 1457756581
+			}
+		],
+		"1_12ve3nmRvDkay7puHnhTT5pgqAo9Uo8ee6": [
+			{
+				"comment_id": 3,
+				"body": "Oi.",
+				"added": 1457756842
+			}
+		]
+	},
+	"comment_vote": {
+		"1_1H52TK9mE9BW4XoFHnM14k8RrxRjc3Gtyv": 1
+	}
+}

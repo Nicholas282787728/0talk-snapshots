@@ -1,0 +1,23 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 3,
+	"comment": {
+		"1_1MBZrgSwMQMRnMFjQkw2JpwdWRaKo7Eb55": [
+			{
+				"comment_id": 1,
+				"body": "> [dividedby0](#comment_7_16iYwD5U2fNoS22p6447J7992iL3DHjSHY): http://45.63.123.191:43110\n\ngreetings, im heathenman, got personal problems and now ive to repair some things that stopped working the last 4 months : for example my laptop (no time to restore user yet, this one is just a temporary way to let u know about- my zeromail will likely get back available later.) or the operation system on zeropags vps ;') changed it and here it is again. same security features included but all old data got lost. including the old zeronet startpage of the proxy.\n \nnew adress \n45.32.254.111:43110 and zero.pags.to:43110 is linked to it again.",
+				"added": 1461082582
+			}
+		],
+		"1_14JKfHy9qjxRUbofimT67LaH55Pinfmg5J": [
+			{
+				"comment_id": 2,
+				"body": "to explain first  : \nhttp://zero.pags.to:43110/Talk.ZeroNetwork.bit/?Topic:1_1MBZrgSwMQMRnMFjQkw2JpwdWRaKo7Eb55/A+list+of+availables+public+proxies#comment_1_1Q2i9n8Etz7XBCX4rXpe3ZVHwmShtp8gGa\n\nwhat did u mean with 'how to connect' ?",
+				"added": 1461082806
+			}
+		]
+	},
+	"comment_vote": {}
+}

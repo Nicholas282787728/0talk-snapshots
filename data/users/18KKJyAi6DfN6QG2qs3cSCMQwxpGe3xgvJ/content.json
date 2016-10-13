@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "G3dRzYGX/ttpweUxihiRJFpl8dEhKdpxccOFYl9hLnUyKYwEVFoqFTOP4jOx0ItXGRWFXmD5lIzBx2V9GjazxfM=",
+ "cert_user_id": "technoturnovers@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "0855428236ef4632863b4f60f5bf446986aa4dc564e15849f2f139bb89000de2",
+   "size": 1307
+  }
+ },
+ "inner_path": "data/users/18KKJyAi6DfN6QG2qs3cSCMQwxpGe3xgvJ/content.json",
+ "modified": 1460050673.740618,
+ "signs": {
+  "18KKJyAi6DfN6QG2qs3cSCMQwxpGe3xgvJ": "HHpExZgswMqYB/9ACFVcCQAjFi4OBKmoxyOq8WROUpSVmE+GiFv3m4Al2g4pJzdyVaQu1z8RJLwQ1TlkE+FPsIQ="
+ }
+}

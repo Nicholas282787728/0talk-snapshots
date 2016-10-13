@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "GzrBZKs4jJIQyL8cgkmAXmnJ5aFRtiEfLWeP6I6F+yyH5CEpsmXTfCOKaIR7MQUo+tVpFm6NPQpwcYNPuobreAU=",
+ "cert_user_id": "carloslopez@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "f8c68d8eb017b7f498f7ec87eab667692d955db21d9476e0b61fe29d1d824f3e",
+   "size": 588
+  }
+ },
+ "inner_path": "data/users/19KjJXTkb6bLafLJsfVBf5v127H4RYKABM/content.json",
+ "modified": 1457070089.605,
+ "signs": {
+  "19KjJXTkb6bLafLJsfVBf5v127H4RYKABM": "G+fyEqihf56k3YwOALIYo2gMaWwPb50H6Z15PQ5s6S84jLp3KCpthmP3bfIziATN3vn7+9QDmicRndh4WCswJEk="
+ }
+}

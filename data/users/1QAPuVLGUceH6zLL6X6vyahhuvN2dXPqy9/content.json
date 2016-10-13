@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HK6ZL/ymQQgSM+bYyqk6skXJZ22xrSLbDnUlWLwrOnEzJUXYcZSctKFWFvqLzrPvPkMbh7SUV6K6opJeeiypXuc=",
+ "cert_user_id": "reedych2003@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "84c829e3954179cafd5db236e7ce7c0274aa76caad2a0a51d8125a15961a40be",
+   "size": 245
+  }
+ },
+ "inner_path": "data/users/1QAPuVLGUceH6zLL6X6vyahhuvN2dXPqy9/content.json",
+ "modified": 1462622422.906225,
+ "signs": {
+  "1QAPuVLGUceH6zLL6X6vyahhuvN2dXPqy9": "HGb/ojHC6DUtZX/FzMgYFpec5Yaf0J+HwoHL9Cah+pQaXqZXzWVEdpNf8nQoIK8ssG4e7F1y9na1VT5yzU+DJ6U="
+ }
+}

@@ -1,0 +1,16 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 2,
+	"comment": {
+		"1_1UfvLnMuzShvi3phWGSqn79tio81Wn9Dt": [
+			{
+				"comment_id": 1,
+				"body": "> [hougelangley](#comment_3_1BKk6YNJB5K8F1KmFHRCBfjCDNwLaWMh4T): 另外一种形势的 DeepWeb 吧！？基于P2P，但是不理解用Tor的意义……如果有朋友知道麻烦解释下～\n\n用tor就是为了隐身不是么, 毕竟这种网络主要是保证网站的去中心化, 无法封杀, 但是对于某一个做种者, 还是可以追溯到ip的",
+				"added": 1460818884
+			}
+		]
+	},
+	"comment_vote": {}
+}

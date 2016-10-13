@@ -1,0 +1,27 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 2,
+	"comment": {
+		"2_1GCsW9TFfjDsvcdmKPADq1n8Q3ha72UtDQ": [
+			{
+				"comment_id": 1,
+				"body": "Scala, it's awesome.",
+				"added": 1457033111
+			}
+		]
+	},
+	"comment_vote": {
+		"3_1RBuzzptc7KURReai57sddmLGm1veBe8v": 1,
+		"9_12uS7AbHMQEc4YKxoPpASsmDSy6fRtEhrw": 1,
+		"4_1PJVSC1FHaZpkkbZqVGJcMrKrYTGmYN6rM": 1,
+		"1_1KDGdLBa6JmXLrFvM2upw7KZDXkouJz5w4": 1,
+		"4_1uwy3F41gsLFpc3KbkM7mv5cPugQmW659": 1,
+		"4_1B3Qp9qTd3Yw6iYbwdu3ay9Q4hvV9cbtyx": 1,
+		"1_1PzRhdWnW3kdcb7cTe4akhXPrS7rufemSF": 1,
+		"10_1PX7VW6xfccTT2tNUTwrYKJpGsGfrnoJfP": 1,
+		"34_1PNyuY1iZqXBpft4ArouqcnE4pNRGYij5i": 1,
+		"1_17JSHDd8Hub7LDtYzGD8XPjtQWpiEnVrhR": 1
+	}
+}

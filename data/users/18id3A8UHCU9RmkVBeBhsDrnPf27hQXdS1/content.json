@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "G9Pv9b25ykxyJGEqBWjj+bGrn99aHg1W5FlRIik/vx1vp7PhX+OvD/L1xzAEsIc1rijdGhqVdZTFmciTvjCFYPk=",
+ "cert_user_id": "warlock@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "959d37df0a9845de0e08ca83767e0f4a50fc843f63c4b62ca98a48cb6c7e1eca",
+   "size": 792
+  }
+ },
+ "inner_path": "data/users/18id3A8UHCU9RmkVBeBhsDrnPf27hQXdS1/content.json",
+ "modified": 1465721757.085267,
+ "signs": {
+  "18id3A8UHCU9RmkVBeBhsDrnPf27hQXdS1": "G6aq0zo1wiXFFaBuvTChARetpLa6Gz1xOhTNmXLIXbJTyDeK3f8PRvZghNjaORO9L2cdFC01wW6icoV1jGDq31g="
+ }
+}

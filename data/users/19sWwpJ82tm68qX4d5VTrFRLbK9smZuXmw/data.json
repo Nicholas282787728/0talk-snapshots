@@ -1,0 +1,21 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 3,
+	"comment": {
+		"7_13Cqt2MSFS6eu4cbVuByZBuULrEAcZAqFG": [
+			{
+				"comment_id": 1,
+				"body": "Yeah, that simply means someone cloned the userchannel without renaming it to something unique. If you dont want to serve a certain channel anymore, just pause or delete it.",
+				"added": 1473464358
+			},
+			{
+				"comment_id": 2,
+				"body": "Also all newer channels recently switched to become channels of videorama hub, so they are neatly collected and stored in one place.",
+				"added": 1473464522
+			}
+		]
+	},
+	"comment_vote": {}
+}

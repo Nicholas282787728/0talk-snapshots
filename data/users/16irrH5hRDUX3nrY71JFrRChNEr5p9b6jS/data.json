@@ -1,0 +1,23 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "One doubt: Can we use Zeronet with Clearnet in the same browser or this can prejudice our anonymity?",
+			"body": "Because i heard that in the onion web (using Tor), it's not recommended to use both at the same time in the Tor browser.",
+			"added": 1455476012
+		}
+	],
+	"topic_vote": {},
+	"next_comment_id": 2,
+	"comment": {
+		"1_16irrH5hRDUX3nrY71JFrRChNEr5p9b6jS": [
+			{
+				"comment_id": 1,
+				"body": "Ok, thank you!",
+				"added": 1455497846
+			}
+		]
+	},
+	"comment_vote": {}
+}

@@ -1,0 +1,74 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {
+		"1_1PRsmkcDcCnKbCfFTeQizKYcDpNn98iQcT": 1
+	},
+	"next_comment_id": 12,
+	"comment": {
+		"1_1PRsmkcDcCnKbCfFTeQizKYcDpNn98iQcT": [
+			{
+				"comment_id": 1,
+				"body": "調べればわかるかも知れないけどあえて自分で探してみる\n<b>太文字テスト</b>\n*太文字テスト*",
+				"added": 1457099717
+			},
+			{
+				"comment_id": 2,
+				"body": "*で囲むとイタリックになる模様\n-テスト-  （-）\n+テスト+  （+）\n/テスト/  （/）\n_テスト_  （_）\n!テスト!  （!）\n?テスト?  （?）\n\"テスト\"  （\"）\n#テスト#  （#）\n=テスト=  （=）\n<テスト>  （<>）\n\n追記テスト\nこれって後から編集も出来るんだね、今気づいた",
+				"added": 1457099847
+			},
+			{
+				"comment_id": 3,
+				"body": "日本語チャンネル=2ちゃんねる？",
+				"added": 1457260209
+			},
+			{
+				"comment_id": 4,
+				"body": "あげ",
+				"added": 1462633678
+			},
+			{
+				"comment_id": 5,
+				"body": "なんとかしてもっと盛り上げていきたいね",
+				"added": 1463876850
+			},
+			{
+				"comment_id": 6,
+				"body": "> [utsumiya](#comment_1_128NoahX6i8zMDSgWBiYn5vjKRVrAvwM1f): 2ch化ように盛り上げかできるのかな\n\n2chみたいなのはNG機能がないとあっという間に荒らされて終わりそう\nそれはここにも言えることなんだけど",
+				"added": 1464420561
+			},
+			{
+				"comment_id": 7,
+				"body": "（・ｗ・）ﾉ",
+				"added": 1466201803
+			},
+			{
+				"comment_id": 8,
+				"body": "> [52149](#comment_2_16omQr2CUsvzyzCHdQN1KmMyMjt2oAqfK3): 2chみたいにTVを実況したいんだけどID非表示のBBSって作れないんだろうか匿名ネットワークで強制コテハンとかどんな苦行だ\n\nやっほ＾＾\n切り替え出来るのはあるけど今の所完全匿名は無理っぽいかな？\nhttp://127.0.0.1:43110/1JStzUwCtg2uU6NeuwyTbuUqwGwDZH5HG7/\n今後開発が進めばそういうサイトも作れるようになるかもね",
+				"added": 1466460184
+			},
+			{
+				"comment_id": 11,
+				"body": "あげ",
+				"added": 1471657861
+			}
+		],
+		"2_1DBrH9TDEYB9CqnFsPR8Cqn8xW3xNEv6i3": [
+			{
+				"comment_id": 10,
+				"body": "(๑¯◡¯๑)",
+				"added": 1471657808
+			}
+		]
+	},
+	"comment_vote": {
+		"11_1CL2jU9pTjtMasNihDK3JCofdPWq2ZVGuu": 1,
+		"424_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"1_1FZxKCwPzn7rvLaNi2rE7QHwvyq14XVWzi": 1,
+		"16_16Szsy1UtjiXpEevWVdUDrNfNTAZ9PLbcY": 1,
+		"2_12ZSxqd5nc42k7cNqWF6n8qkMeyidy7BRM": 1,
+		"3_12wKuwYfiHRwDxcJhqkcBPrsks2Gmm5L5P": 1,
+		"1_1M1EDmsRPrkd8dx3V2KJX6RZQxaEfkARxs": 1,
+		"8_1CMjV2r4EBpFt8VCcWWZKDysZXPcPExRNN": 1
+	}
+}

@@ -1,0 +1,19 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "Who let the dogs out?",
+			"body": "Who?",
+			"added": 1457032808
+		}
+	],
+	"topic_vote": {
+		"1_18SnQz5JhcaeKfh5XL2vUqM44F5ffueVYq": 1
+	},
+	"next_comment_id": 1,
+	"comment": {},
+	"comment_vote": {
+		"1_158oQsFGJfzcaXb63yMRavnpdDtnpq3A1a": 1
+	}
+}

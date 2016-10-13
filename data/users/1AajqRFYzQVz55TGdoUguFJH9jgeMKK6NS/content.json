@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HMLZgOu3Ad2wkdhAq+lF2lbBmiGUXbze9diQ9NLMTCShD4oBycoGTG1nay+RNRndxMu0it48KVFcsAd0gqEM+7Y=",
+ "cert_user_id": "nomadthanatos@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "64878e550ae5ef0085a26b0a0f8f9c2ae01b86db0ef9698545dbdbd5f8c4b366",
+   "size": 249
+  }
+ },
+ "inner_path": "data/users/1AajqRFYzQVz55TGdoUguFJH9jgeMKK6NS/content.json",
+ "modified": 1459093478.056863,
+ "signs": {
+  "1AajqRFYzQVz55TGdoUguFJH9jgeMKK6NS": "HKEA0XghTJQ4vKMUF7HBtEg++t08Mj2wWxaU9rwY4afPTffI3t+bwvbc4vuIYW7ro+AFDaVm02v/CnyggzHHX5k="
+ }
+}

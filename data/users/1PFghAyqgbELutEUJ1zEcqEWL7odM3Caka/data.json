@@ -1,0 +1,20 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 2,
+	"comment": {
+		"2_1GCsW9TFfjDsvcdmKPADq1n8Q3ha72UtDQ": [
+			{
+				"comment_id": 1,
+				"body": "python, ruby, elixir, js whatever is necessary",
+				"added": 1457014273
+			}
+		]
+	},
+	"comment_vote": {
+		"2_1FwoJA1M44x7ZrKBVfY1WCcuhesoRkEjEC": 1,
+		"1_1KDGdLBa6JmXLrFvM2upw7KZDXkouJz5w4": 1,
+		"10_1PX7VW6xfccTT2tNUTwrYKJpGsGfrnoJfP": 1
+	}
+}

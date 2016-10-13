@@ -1,0 +1,1330 @@
+{
+	"next_topic_id": 28,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "Search on this site",
+			"body": "How about adding search within these topics and comments? Is this possible?",
+			"added": 1452077727
+		},
+		{
+			"topic_id": 2,
+			"title": "ZeroTalk with images",
+			"body": "I've stumbled on this site (http://127.0.0.1:43110/1C2JhCunGLtvyX56nQ88tcb87WnXspjWN) which is happend to be ZeroTalk's clone with images implementation. When wll this site get such ability too?",
+			"added": 1452086800
+		},
+		{
+			"topic_id": 3,
+			"title": "'N file update failed' - when & why this happens?",
+			"body": "I see this message from time to time in ZeroHello. When and why update process could fail? Thanks for answers.",
+			"added": 1454189621
+		},
+		{
+			"topic_id": 4,
+			"title": "What are the main limitations of ZeroNet?",
+			"body": "Under limitations I mean things that restrain its rapid growth.",
+			"added": 1454236571
+		},
+		{
+			"topic_id": 5,
+			"title": "Exact number of (known?) peers",
+			"body": "For example when I go to ZeroHello on http://127.0.0.1:43110/1EU1tbG9oC1A8jz2ouVwGZyQ5asrNsE4Vr\nI see that ZeroName has 70 peers,\nbut when I go to ZeroHello on http://bit.no.com:43110/1EU1tbG9oC1A8jz2ouVwGZyQ5asrNsE4Vr\nI see that ZeroName has 399 peers.\nWhy is it happening?",
+			"added": 1454238295
+		},
+		{
+			"topic_id": 7,
+			"title": "RU: Первый год ZeroNet (перевод статьи)",
+			"body": "По ссылке ниже можно почитать мой перевод статьи:\nhttp://127.0.0.1:43110/1G9s2eptrshvMmXaR1egEnGcbL9WdeQFAa#%D0%9F%D0%B5%D1%80%D0%B2%D1%8B%D0%B9+%D0%B3%D0%BE%D0%B4+ZeroNet+%28%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%B4%29\n\nОригинал статьи здесь: http://127.0.0.1:43110/Blog.ZeroNetwork.bit/?Post:70:The+first+year+of+ZeroNet",
+			"added": 1454346341
+		},
+		{
+			"topic_id": 8,
+			"title": "ZeroBoard or ZeroChat with 'Follow in newsfeed' button",
+			"body": "Is it possible?",
+			"added": 1454417113
+		},
+		{
+			"topic_id": 9,
+			"title": "ZeroMail from the outside web?",
+			"body": "I wonder, does the ZeroMail is only usable inside ZeroNet or there are/there will be an outside link with the web? (from thepra@zeroid.bit)",
+			"added": 1454535958
+		},
+		{
+			"topic_id": 10,
+			"title": "What is the most desirable new feature of Zeronet for you?",
+			"body": "This is just opinions gathering not imposing or opressing of something.\nhttp://127.0.0.1:43110/ZeroPolls.bit/?Poll:1-1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf",
+			"added": 1454544024
+		},
+		{
+			"topic_id": 11,
+			"title": "Complete site deletion preventing",
+			"body": "Let's imagine I have a forum in ZeroNet and I have problems with my private key became known by a adversary. So, that adversary deletes the whole site, and this deletion syncs with other peers. So, I guess the site is dead then. Is there a method to prevent such thing happens?",
+			"added": 1454928525
+		},
+		{
+			"topic_id": 12,
+			"title": "Updated FAQ based on this forum discussions",
+			"body": "We can update existing FAQ with new questions/answers from this forum or create special zerosite for it. What do you think?",
+			"added": 1454948021
+		},
+		{
+			"topic_id": 13,
+			"title": "Is it possible to make Zeronet p2p websites as client of Ethereum Dapps?",
+			"body": "https://ethereum.stackexchange.com/questions/1076/is-it-possible-to-make-zeronet-p2p-websites-as-client-of-ethereum-dapps\n\n\nWhat do you think about it?",
+			"added": 1454954853
+		},
+		{
+			"topic_id": 14,
+			"title": "Where did you know about ZeroNet first?",
+			"body": "It shows the most effective way to outreach)",
+			"added": 1455122880
+		},
+		{
+			"topic_id": 15,
+			"title": "Potential ZeroNet competitors/alternatives",
+			"body": "What they are, and what features do they have.",
+			"added": 1455136650
+		},
+		{
+			"topic_id": 16,
+			"title": "Rise of the Machines: Blockchain-Based Governance",
+			"body": "https://medium.com/@EricRSammons/rise-of-the-machines-blockchain-based-governance-91d05a332cdb#.71r2xewyp\n\nVery interesting system! What do you think?",
+			"added": 1455214882
+		},
+		{
+			"topic_id": 17,
+			"title": "Places where you can upvote for ZeroNet",
+			"body": "Let's post here links for places in the web where you can upvote something related to ZeroNet",
+			"added": 1455221552
+		},
+		{
+			"topic_id": 18,
+			"title": "ZeroMail notifications?",
+			"body": "Maybe 'NewsFeed' like button inside?",
+			"added": 1455473229
+		},
+		{
+			"topic_id": 19,
+			"title": "What about searching inside websites?",
+			"body": "Like search through topics, sub-topics and all the messages inside this forum?",
+			"added": 1455496807,
+			"parent_topic_uri": "5_1PNyuY1iZqXBpft4ArouqcnE4pNRGYij5i"
+		},
+		{
+			"topic_id": 20,
+			"title": "Is this project connected to ZeroNet somehow?",
+			"body": "Have stumbled upon it on BitcoinTalk. Check out screenshots [there](https://bitcointalk.org/index.php?topic=1332800.0).",
+			"added": 1455613188
+		},
+		{
+			"topic_id": 21,
+			"title": "What could be added in FAQ",
+			"body": "Make your suggestions in Question-Answer style, please. Vote for best Questions and add your own. Russian version is here: http://127.0.0.1:43110/1Apr5ba6u9Nz6eFASmFrefGvyBKkM76QgE/?Topic:6_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf/+FAQ",
+			"added": 1455658542
+		},
+		{
+			"topic_id": 22,
+			"title": "Did I achieve ZeroBoard messages limit?",
+			"body": "I can't post there anymore).",
+			"added": 1455661676
+		},
+		{
+			"topic_id": 23,
+			"title": "I have deleted my own topic here, but I can get access to its comments still",
+			"body": "Check this out: http://127.0.0.1:43110/Talk.ZeroNetwork.bit/?Topic:6_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf/TiddlyWiki+and+ZeroTalk+s+clone\nIs it ok?",
+			"added": 1455722207
+		},
+		{
+			"topic_id": 24,
+			"title": "Is there stats page for the whole network anywhere?",
+			"body": "I know I can look my own stats page, but what about the whole network? Nodes count, used space, traffic and something like that.",
+			"added": 1455822645
+		},
+		{
+			"topic_id": 25,
+			"title": "Does anyone know such auto-donation service/software?",
+			"body": "Let's say I want to donate 1% of my monthly income to specific open source projects on a regular basis. There are several these projects, so I decide in wich proportion my money would be splited among them. Every month I get a reminder in my mailbox that I should pay next 1%. This service maintains statistics, so I have my profile with all the payments and total sums on each project. Cryptocurrencies should be acceptable.",
+			"added": 1455994870
+		},
+		{
+			"topic_id": 26,
+			"title": "VIP-ZeroIDs based on cryptocurrency?",
+			"body": "Can we get something like VIP-ZeroID based on some cryptocurrency (exactly like ZeroName works currently) in order to achieve anti-spam and anti-bot deffence in forums/blogs/etc? Some portion of the payment could go to the development of ZeroNet itself as a fee.",
+			"added": 1456243491
+		},
+		{
+			"topic_id": 27,
+			"title": "Tor.exe loads CPU up to 25%",
+			"body": "Is it normal? Don't remember this thing happening earlier.",
+			"added": 1456875158
+		}
+	],
+	"topic_vote": {
+		"8_1PNyuY1iZqXBpft4ArouqcnE4pNRGYij5i": 1,
+		"13_1ED3Ho3kmzaKiECtyuqSjDpoE47rKuXeP": 1,
+		"1_1KoZPvhgq5YLJaj3nYyT7UjBpom1XYaQSw": 1,
+		"1_1FXEbfoHUqHpjVSJKSP6XvxVVfb4chmGGH": 1,
+		"3_168qV1Xxp2EyszrzdECLUwXrn9wGYjDdar": 1,
+		"2_1PaX4LQSsjsJvTNqfZbAApgmgzBJjrkRqZ": 1,
+		"5_1PNyuY1iZqXBpft4ArouqcnE4pNRGYij5i": 1,
+		"12_1PNyuY1iZqXBpft4ArouqcnE4pNRGYij5i": 1,
+		"11_1PNyuY1iZqXBpft4ArouqcnE4pNRGYij5i": 1,
+		"3_1MS7WkWAZUSohgV5uUF2Ze3kdbifi4J82L": 1,
+		"1_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf": 1,
+		"2_16iYwD5U2fNoS22p6447J7992iL3DHjSHY": 1,
+		"4_1QH84f44yLPvMjMua9s7iM7c4RoJNZ2nTp": 1,
+		"2_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf": 1,
+		"1_12Ex3Mrd75wY2r5rB21jBcmgj9hxwUK1w2": 1,
+		"1_1L4fuhUB75eAdVbDY9AJ4z2i2dwMho7MV8": 1,
+		"1_159KU5UEVyKFEKh5rwucjLV7hwdGE5VLnA": 1,
+		"2_1QBLGLcgKfcpfLmiDYuDzUKVXFfmTAew55": 1,
+		"1_16jG1cAYu6rAXhRpqq9ph1ere1Z5e7j72b": 1,
+		"3_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf": 1,
+		"1_17vE6u5SLLQ3eLazQDWXxM25663bbjPjBt": 1,
+		"4_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf": 1,
+		"1_1789XcRxNBxCsCTWFhhGsbmjrmg4XX4QPL": 1,
+		"1_1L8UURA9tgSn2XcRxtpCRJYCQm5S9ELh2Y": 1,
+		"1_198jKSKMzpRxH5C81bXojho2xGcTxXXcqc": 1,
+		"8_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf": 1,
+		"1_1M5ztUWkCMP5Pv7MjwApWT7CNvWimGFaFa": 1,
+		"2_1MmPY9fniJwwhP6WsgH4jWoq5rBAVV6KWy": 1,
+		"9_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf": 1,
+		"10_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf": 1,
+		"2_1JtSAGYYLt94VY5AMQVTkpaFoCdDK4Vyr": 1,
+		"1_1DBrH9TDEYB9CqnFsPR8Cqn8xW3xNEv6i3": 1,
+		"2_13P8oKB5LtAYbe2mvfR71s9TPNy4sMk8bc": 1,
+		"1_1BGaNcH1UBqAdatPbT3YssmPRVdhepMNPW": 1,
+		"2_1NyFX6DUcyMs3S76Vz8X7ssDLC4uCCA1YM": 1,
+		"1_14kv9X4pVxpv7Mt2YaESY4Jd7t71BaHxRq": 1,
+		"2_14r3vfU1Jppny7cdXpRYhQWhepedXKQfkp": 1,
+		"1_125pNDvQDGnxhZczL2nsJeYyGbyRzRVWnW": 1,
+		"2_1PFwC79GX6a34ThLZPyfA8kYYSjtfKPP7c": 1,
+		"2_12HTPzQjWn9V57oxH7fA5KV3PQZ5vuj2Fm": 1,
+		"3_1MmPY9fniJwwhP6WsgH4jWoq5rBAVV6KWy": 1,
+		"3_1NibKcCcidCHue94Rhr7F4Gvu3Lg6FAESp": 1,
+		"2_13KqD3BoaRMudEG5QU2fnGLkSVx8qDXKof": 1,
+		"3_13KqD3BoaRMudEG5QU2fnGLkSVx8qDXKof": 1,
+		"1_167eTX5f6jJt4HPvfQqf2QuwdTFCnxJCf2": 1,
+		"2_1M5ztUWkCMP5Pv7MjwApWT7CNvWimGFaFa": 1,
+		"11_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf": 1,
+		"7_13KqD3BoaRMudEG5QU2fnGLkSVx8qDXKof": 1,
+		"14_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf": 1,
+		"1_1F6BMqittjWUStzUbRXm2kG2GQ3RdBLqFQ": 1,
+		"1_16AFTG7vdicwJbRQpWc2F9BRHTE5MTftE7": 1,
+		"1_1NHZ2FfVkeCBzr2iS1cVnzf5xZfN4ZWEik": 1,
+		"16_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf": 1,
+		"5_1MmPY9fniJwwhP6WsgH4jWoq5rBAVV6KWy": 1,
+		"15_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf": 1,
+		"3_15y72LFjQ4ymUTnkJP6CC7r73R5uoePgFW": 1,
+		"2_1L4fuhUB75eAdVbDY9AJ4z2i2dwMho7MV8": 1,
+		"1_1PPqTMbH8Uwrk496grUVuBk57dSoeU9hig": 1,
+		"18_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf": 1,
+		"1_1Dme3quDw9tNTjMSk6RWcBJqHchi96vi6S": 1,
+		"19_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf": 1,
+		"3_1F6BMqittjWUStzUbRXm2kG2GQ3RdBLqFQ": 1,
+		"1_16irrH5hRDUX3nrY71JFrRChNEr5p9b6jS": 1,
+		"2_1PPqTMbH8Uwrk496grUVuBk57dSoeU9hig": 1,
+		"20_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf": 1,
+		"2_16AFTG7vdicwJbRQpWc2F9BRHTE5MTftE7": 1,
+		"21_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf": 1,
+		"3_1KcPohxmuqiNShTaAzJZLndm5aWtBZLuJn": 1,
+		"1_1HN54tqPZqnHs5SpJVFVsMhRH1nUSt3iQF": 1,
+		"3_16AFTG7vdicwJbRQpWc2F9BRHTE5MTftE7": 1,
+		"17_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf": 1,
+		"2_1KwTTgPRSTHFmmJAFBt6kQfdyNeSM5KJuH": 1,
+		"2_1BDTDgpyizvUDsc1hcL1pjCvXCy4ozzSFN": 1,
+		"27_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf": 1,
+		"1_1FieP4c1gxFme5webFJB9x5ZPBXdR6p3Fs": 1,
+		"5_1LRrd96P7FiTcsyNXVzPM5jtpQoH1B4gYf": 1,
+		"4_13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ": 1
+	},
+	"next_comment_id": 166,
+	"comment": {
+		"1_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": [
+			{
+				"comment_id": 1,
+				"body": "Ну что, работаит?)",
+				"added": 1446631958
+			},
+			{
+				"comment_id": 2,
+				"body": "> [infernion](#comment_1_1ErL5YmDERLaqeiKa44HHJrUi2JLLzH8Cc): Wow, it's awesome!\n> Ух-ты, это прекрасно!\nА тут есть обычные форумы, тематические, которые спамить проблематично?",
+				"added": 1446632079
+			}
+		],
+		"2184_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG": [
+			{
+				"comment_id": 3,
+				"body": "Cool article!",
+				"added": 1446641361
+			}
+		],
+		"2_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": [
+			{
+				"comment_id": 4,
+				"body": "How fast does this thing work?",
+				"added": 1446657303
+			},
+			{
+				"comment_id": 5,
+				"body": "I mean what is usual time to a message makes it from one user to another?",
+				"added": 1446657383
+			},
+			{
+				"comment_id": 6,
+				"body": "Well, my previous message went for 25 minutes))",
+				"added": 1446660228
+			},
+			{
+				"comment_id": 7,
+				"body": "> [nofish](#comment_103_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): There can be some delay using ZeroBoard, it's an old demo (first zeronet site) and does not uses the newer and faster p2p features.\n\nWhat about dynamic sites like social network or reddit-clone?",
+				"added": 1446660572
+			},
+			{
+				"comment_id": 8,
+				"body": "> [nofish](#comment_104_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): I think ZeroTalk has the basic functions of reddit. Social site planned for later.\n\nThanks for answers. It is really fast though).",
+				"added": 1446660718
+			},
+			{
+				"comment_id": 12,
+				"body": "No, ASAF ZeroMail is working already.",
+				"added": 1454188617
+			},
+			{
+				"comment_id": 22,
+				"body": "> [n1kt0](#comment_1_18xyqhy7VCtQBVvpi1kPaeGMV7J6AzSd7Q): test\n\nRabotaet?",
+				"added": 1454406992
+			},
+			{
+				"comment_id": 44,
+				"body": "> [xana](#comment_1_1LygToe3FqB1krpZ3bzJawrzF64jCDYq1e): teeeest :D\n\nI think it works...",
+				"added": 1454670135
+			},
+			{
+				"comment_id": 52,
+				"body": "testo worko fino)",
+				"added": 1454778924
+			},
+			{
+				"comment_id": 57,
+				"body": "Which websites? You are already using internal website (ZeroTalk), if you leave comment here.",
+				"added": 1454832628
+			},
+			{
+				"comment_id": 58,
+				"body": "I see",
+				"added": 1454835578
+			},
+			{
+				"comment_id": 59,
+				"body": "> [kasthuri](#comment_6_1BBKD8mSqtGDaK5GQ5Q6A6mLhpc8xrgW97): m new to zeronet ...cant understand on how to use it ..\n\nYou can go here and find many of new sites that were publicly announced: http://127.0.0.1:43110/Talk.ZeroNetwork.bit/?Topic:3_168qV1Xxp2EyszrzdECLUwXrn9wGYjDdar/NEW+WEBSITE+share+it+here\nLook this topic from the beginning, it is big.\n\nSearch is strongly limited so far.",
+				"added": 1454836584
+			},
+			{
+				"comment_id": 88,
+				"body": "Is it working for you?)",
+				"added": 1455214964
+			},
+			{
+				"comment_id": 90,
+				"body": "~~",
+				"added": 1455216536
+			},
+			{
+				"comment_id": 95,
+				"body": "Yep, I alone have more then 45 KB of my own comments here on this forum.\nAnd these 100+ comments are for today only ;)\nhttp://127.0.0.1:43110/1Apr5ba6u9Nz6eFASmFrefGvyBKkM76QgE/?Topic:1_14NydP2LLY59TBYtWn61qJPuR7w7HizwjG/",
+				"added": 1455320048
+			},
+			{
+				"comment_id": 98,
+				"body": "Connection established...",
+				"added": 1455408979
+			},
+			{
+				"comment_id": 121,
+				"body": "> [88](#comment_1_115RJWRmyDP529extA31jjp7qJpn7QFGFp): Infinity comes to Zeronetwork!\n\nhttp://127.0.0.1:43110/Talk.ZeroNetwork.bit/?Topic:14_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf/Where+did+you+know+about+ZeroNet+first",
+				"added": 1455606873
+			},
+			{
+				"comment_id": 122,
+				"body": "> [kasthuri](#comment_11_1BBKD8mSqtGDaK5GQ5Q6A6mLhpc8xrgW97): hi ...how to create newsite in zeronet ..i searched some website ..as per their instruction i just entered into zerobundle/zeronet afterthat there is zeronet.py  if i click this i will get the info in the docx format..\n\nYou can do it by [cloning](http://127.0.0.1:43110/1C2JhCunGLtvyX56nQ88tcb87WnXspjWN/?Topic:3_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf/Cloning+sites) existing ZeroTalk or ZeroBlog.",
+				"added": 1455634424
+			},
+			{
+				"comment_id": 141,
+				"body": "> [kasthuri](#comment_17_1BBKD8mSqtGDaK5GQ5Q6A6mLhpc8xrgW97): i added one site in zero searchif i search it shows \"result not found\n\nIt will be ok in two-three days. The owner of ZeroSearch manually adds new sites for now.",
+				"added": 1455891407
+			},
+			{
+				"comment_id": 143,
+				"body": "> [testuser0220](#comment_2_1EQssc8mBL4fyhNVLh2xURUUSX1MSfLRwh): I wondered... how is this sent\n\n...pure magic",
+				"added": 1455950123
+			},
+			{
+				"comment_id": 144,
+				"body": "I have 100K now on this forum. The owner of the site highs it manually so far. It is for anti-spam purpose.",
+				"added": 1455950545
+			},
+			{
+				"comment_id": 145,
+				"body": "You can take your part in development still. It is on github.",
+				"added": 1455950771
+			},
+			{
+				"comment_id": 146,
+				"body": "> [testuser0220](#comment_7_1EQssc8mBL4fyhNVLh2xURUUSX1MSfLRwh): And ZeroBoard uses a PUBLIC URI for publishing...............what a weird place...\n\nZeroBoard is old site.",
+				"added": 1455950783
+			},
+			{
+				"comment_id": 149,
+				"body": "> [beardboris](#comment_2_14RJ55bbPPUyj2wJAJDQbpkzBnhZrBqvPM): Fine!!!\n\nhttp://127.0.0.1:43110/Talk.ZeroNetwork.bit/?Topic:14_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf/Where+did+you+know+about+ZeroNet+first",
+				"added": 1456171491
+			},
+			{
+				"comment_id": 152,
+				"body": "> [croqaz](#comment_1_1Kv7bsswidoQSSoYacL59ZAvb7c8aY7rm6): found out about it on Ethereum reddit; very interesting so far\n\nYou can [vote here](https://ethereum.stackexchange.com/questions/1076/is-it-possible-to-make-zeronet-p2p-websites-as-client-of-ethereum-dapps) then)",
+				"added": 1456439243
+			},
+			{
+				"comment_id": 153,
+				"body": "> [scrub](#comment_1_1ADB7TdX2fVbTsWBoMe9yBTmVXTbb33b4R): Ni Hao from China!\n\nDoes ZeroNet (TOR) work in China? That is interesting.",
+				"added": 1456874996
+			}
+		],
+		"2_1PaX4LQSsjsJvTNqfZbAApgmgzBJjrkRqZ": [
+			{
+				"comment_id": 9,
+				"body": "So, when will this awesome site start to actually work?)",
+				"added": 1452081370
+			}
+		],
+		"1_1L4fuhUB75eAdVbDY9AJ4z2i2dwMho7MV8": [
+			{
+				"comment_id": 10,
+				"body": "good idea",
+				"added": 1453283992
+			},
+			{
+				"comment_id": 14,
+				"body": "Looks neat)",
+				"added": 1454188712
+			}
+		],
+		"1_1789XcRxNBxCsCTWFhhGsbmjrmg4XX4QPL": [
+			{
+				"comment_id": 11,
+				"body": "Я вообще не в курсе, что он тут есть). Подскажите адресок что ли.",
+				"added": 1453897293
+			}
+		],
+		"1_159KU5UEVyKFEKh5rwucjLV7hwdGE5VLnA": [
+			{
+				"comment_id": 13,
+				"body": "Нормально тут все с русским! Даже сайты есть на русском: http://127.0.0.1:43110/1G9s2eptrshvMmXaR1egEnGcbL9WdeQFAa\n\nhttp://127.0.0.1:43110/13MRyYzXdjCpz7b1WgSdvvPfyGx66z3RJY",
+				"added": 1454188669
+			}
+		],
+		"1_16jG1cAYu6rAXhRpqq9ph1ere1Z5e7j72b": [
+			{
+				"comment_id": 15,
+				"body": "Господа, я попробовал побаламутить тему относительно зеронета на форуме разработчиков тиддливики. Вот переписка: https://groups.google.com/forum/#!topic/tiddlywiki/n3q4oxJYsD4\n\nФишка в том, что они сейчас двигаются в направлении так называемой TWederation (http://tiddlerbundletest.tiddlyspot.com/#How%20to%20set%20up%20your%20own%20federated%20tiddlywiki%20-%20inmysocks), т.е. пытаются замутить некую соцсеть на основе отдельных тиддливик. Думаю надо за ними следить, т.к. возможно они создадут таки механизм для организации большого аналога википедии, распределенного по многим файлам.\n\nПока вот тоже выложил свою тиддлю (http://bit.no.com:43110/1G9s2eptrshvMmXaR1egEnGcbL9WdeQFAa   -  доступ из обычного инета), чисто для демонстрации возможностей зеронета. Можно таким макаром рекламировать зеронет, тем более на фоне блокировки рутрекера.",
+				"added": 1454193040
+			}
+		],
+		"4_1QH84f44yLPvMjMua9s7iM7c4RoJNZ2nTp": [
+			{
+				"comment_id": 16,
+				"body": "It would be nice if I can install some notification plugin to be alerted when I have new mails.",
+				"added": 1454195841
+			}
+		],
+		"3_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf": [
+			{
+				"comment_id": 17,
+				"body": "> [nofish](#comment_217_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): It can be internet connection problem, try \"Update\" in site menu. If the problem still occurs then the site probably contain files that has no peers at the current moment. \n> If you give me site address i can check the specific problem.\n\nOk, thanks. I have this problem with ZeroSearch. I have another question, though. I can access this site (http://bit.no.com:43110/1Lzu3HBELK2Mp6qBmrYxum1zwxpTpDAnZA) through bit.no.com but can't do it that way: http://127.0.0.1:43110/1Lzu3HBELK2Mp6qBmrYxum1zwxpTpDAnZA\nIt says content.json download failed.",
+				"added": 1454198441
+			}
+		],
+		"1_12Ex3Mrd75wY2r5rB21jBcmgj9hxwUK1w2": [
+			{
+				"comment_id": 18,
+				"body": "> [loot](#comment_14_17vE6u5SLLQ3eLazQDWXxM25663bbjPjBt): subscribe to some of these forums maybe they will work http://www.osiris-sps.org/isis/home.phpjust to how it looks like. and yes its not very alive. :(\n\nYep, I remember trying it myself several years ago. Nothing has change since :(",
+				"added": 1454236635
+			}
+		],
+		"1_17vE6u5SLLQ3eLazQDWXxM25663bbjPjBt": [
+			{
+				"comment_id": 19,
+				"body": "We should create prediction market on this))\nhttp://groupgnosis.com/dapp/#/markets\n\nP.S.:Try to explore Reaction GIFs for a while and you will become upset with your data folder ;) (http://bit.no.com:43110/1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h)",
+				"added": 1454237079
+			},
+			{
+				"comment_id": 20,
+				"body": "> [nofish](#comment_219_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): It's only depends on what sites you visiting. Storage is cheap ,you can buy 3TB HDD for 80USD and you can store your data directory 3500 times on it :) With new SSD technologies it will be even more cheaper.\n> \n> Its not that big: currently around 220MB if you watch every video (1000+). Automatic optional files deletion (based on peers/file) is planned later, so you will be able to define how much space you want to contribute the network and the client will do the rest for you.\n\nI remember this site was 2,4 GB on my HDD, maybe it was old version or something like that. Nevertheless I don't say that this volume is too big. If you don't want it just don't go to it). Maybe in the future it would be possible to use IPFS or some other mechanism to escape used space redundance for big files.",
+				"added": 1454239314
+			}
+		],
+		"1_198jKSKMzpRxH5C81bXojho2xGcTxXXcqc": [
+			{
+				"comment_id": 21,
+				"body": "Yep, toatally agree with that.",
+				"added": 1454354492
+			}
+		],
+		"3_168qV1Xxp2EyszrzdECLUwXrn9wGYjDdar": [
+			{
+				"comment_id": 23,
+				"body": "> [muja](#comment_7_17i7Y7r8nTaCfLbCAuaKyc4R5BbKZYU2Hr): Time. http://127.0.0.1:43110/14PXVfjDXiQm6o6qCEX487WPYdLgefjCXe\n\nNice! Now, if someone wants to now what time is it, he must use zeronet)",
+				"added": 1454424772
+			},
+			{
+				"comment_id": 31,
+				"body": "> [zalex](#comment_21_1LWuc6JBhUGrKEAh1aPrPU85dEMcKmg3pS): Meet PocketMod - your new organizer made from one sheet of paper:http://127.0.0.1:43110/PocketMod.bit\nCool! I like it, though I get it without background pictures, while through bit.no.com it has these pictures.",
+				"added": 1454590978
+			},
+			{
+				"comment_id": 35,
+				"body": "Demo of Flower Shop in TiddlyWiki engine: http://127.0.0.1:43110/1DwJMuuV8rzbktXrN1j8oimJWHN6kDywZL \nIt is not mine. It works with errors and I don't have any idea why, but I think it looks pretty. Russian language. If you want you can run it locally, it works without errors then. I can transate reedme.txt for you if needed.\n\nI wonder if this site can work in Zeronet: http://tiddlymap.org/",
+				"added": 1454620502
+			},
+			{
+				"comment_id": 51,
+				"body": "> [muja](#comment_9_17i7Y7r8nTaCfLbCAuaKyc4R5BbKZYU2Hr): QR Code Generator: http://127.0.0.1:43110/1DrX4tBjLbCCzmFzgASSEEkj4TisnU2JBb\n\nThat's really funny)",
+				"added": 1454776426
+			},
+			{
+				"comment_id": 55,
+				"body": "Wow, this looks great, definitly something new in Zeronet)",
+				"added": 1454793534
+			},
+			{
+				"comment_id": 64,
+				"body": "> [kahpecuce](#comment_13_1MmPY9fniJwwhP6WsgH4jWoq5rBAVV6KWy): OpenD6 Roleplaying Ruleset:http://127.0.0.1:43110/1Phwu1QykbfH5kC5EfkPgdPqN4VKGqrBi3\n\ncontent.json download failed\nMaybe you need sign the site and publish it.",
+				"added": 1454964926
+			}
+		],
+		"9_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf": [
+			{
+				"comment_id": 24,
+				"body": "Ok, does anybody know any example of such a service? I mean decentralized email compatible with regular web mail.",
+				"added": 1454536395
+			},
+			{
+				"comment_id": 27,
+				"body": "> [kahpecuce](#comment_3_1MmPY9fniJwwhP6WsgH4jWoq5rBAVV6KWy): That kind of kills the point of demail.\nFor example I want to subscribe to some service that requires email. If I use regular email than my messages will be spyed by email hoster, by governments and by the service. If I use decemail it will spyed only by the service and governmants (not 100% sure on that). It is better.",
+				"added": 1454569980
+			}
+		],
+		"4_1QBLGLcgKfcpfLmiDYuDzUKVXFfmTAew55": [
+			{
+				"comment_id": 25,
+				"body": "Decentralized email service compatible with regular web mail)",
+				"added": 1454540411
+			},
+			{
+				"comment_id": 26,
+				"body": "> [zozon](#comment_35_1QBLGLcgKfcpfLmiDYuDzUKVXFfmTAew55): hey ;) cool.\n> how that would work?\n\nI don't know to be honest) Just want it strongly.",
+				"added": 1454540868
+			}
+		],
+		"10_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf": [
+			{
+				"comment_id": 28,
+				"body": "> [kahpecuce](#comment_2_1MmPY9fniJwwhP6WsgH4jWoq5rBAVV6KWy): A twitter/facebook like social media based on ZeroIDs, like official one  just like ZeroBoard and ZeroTalk so that it makes finding new websites MUCH easier?\n\nI agree about facebook like social network but only if there are private sites implemented. Otherwise I would prefer reddit like media for the beginning.",
+				"added": 1454573062
+			},
+			{
+				"comment_id": 29,
+				"body": "BTW, from the OpenBazaar's reddit:\n\"I'd love to have a ZeroNet dev talk to the OB devs. I'm guessing that the server itself couldn't use Zeronet, but that a client could be built that would talk to the server via a ZeroNet hosted page.\"\nLink here: https://www.reddit.com/r/OpenBazaar/comments/43ue9p/could_openbazaar_be_available_in_zeronet/",
+				"added": 1454582222
+			},
+			{
+				"comment_id": 33,
+				"body": "> [sbee](#comment_17_1MGse2Xfdae1FkAiGoHzWTeFx4Mo2yEqfH): +1 decentralized search enginehttps://en.wikipedia.org/wiki/FAROO ?\n\nWhat is the difference between FAROO and YaCy?",
+				"added": 1454597893
+			},
+			{
+				"comment_id": 49,
+				"body": "> [kahpecuce](#comment_5_1MmPY9fniJwwhP6WsgH4jWoq5rBAVV6KWy): apart from those below, a zerøwallet (BTC, of course) linked to your zeroID to spend on zerømarket, tip good content creators, and simply to buy/sell\n\nThere is btc wallet here: http://127.0.0.1:43110/zerowallet.bit\nBut it is not linked to your ZeroID. Linking may be a good idea though.",
+				"added": 1454747557
+			},
+			{
+				"comment_id": 53,
+				"body": "> [dividedby0](#comment_25_16iYwD5U2fNoS22p6447J7992iL3DHjSHY): A decentralized marketplace.\n> i2p support\n\nI wonder if these guys could host their website through Zeronet: https://bithalo.org/",
+				"added": 1454789495
+			},
+			{
+				"comment_id": 65,
+				"body": "> [klauszimmermann](#comment_26_15QGRquMETTn5LnCHjTm1qa9eaXGtq7gpT): This. And also sort the ZeroHello sites by most recently updated, not number of seeders. More dynamic sites are usually more interesting as well, so that's where the spotlight should point!\n\n+1",
+				"added": 1454966643
+			},
+			{
+				"comment_id": 156,
+				"body": "[ZeroPolls: What site(service) do we need in ZeroNet most?](/ZeroPolls.bit/?Poll:1-1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf)\nAdded to the topic caption.",
+				"added": 1457531601
+			}
+		],
+		"2_1MmPY9fniJwwhP6WsgH4jWoq5rBAVV6KWy": [
+			{
+				"comment_id": 30,
+				"body": "I think it will be ready for many new users when there are private sites->social network. The slogan might be something like that: FB is not trully free because it spies on you and gets profit from it, while Zeronet is really free and helps you and only you control your own data.",
+				"added": 1454590839
+			},
+			{
+				"comment_id": 32,
+				"body": "> [zalex](#comment_22_1LWuc6JBhUGrKEAh1aPrPU85dEMcKmg3pS): Hmm... For some reason I immediately thought about Minds.Com\n\nYep, but without any central servers)",
+				"added": 1454591177
+			}
+		],
+		"2_1LWuc6JBhUGrKEAh1aPrPU85dEMcKmg3pS": [
+			{
+				"comment_id": 36,
+				"body": "Torrents, because AFAK Zeronet doesn't send files >1 MB right now, but I may be wrong.\nUPD: Yeap, I was wrong)",
+				"added": 1454662616
+			},
+			{
+				"comment_id": 38,
+				"body": "> [zalex](#comment_26_1LWuc6JBhUGrKEAh1aPrPU85dEMcKmg3pS): И если что, я на русише разговариваю :D\n\nЭто интересно, but for some reason I can't start tracks № 1,3 and 6 here http://127.0.0.1:43110/ZAlex.bit/music.html",
+				"added": 1454663330
+			},
+			{
+				"comment_id": 39,
+				"body": "> [zalex](#comment_27_1LWuc6JBhUGrKEAh1aPrPU85dEMcKmg3pS): Наверное еще не загрузились. Они через некоторое время обычно появляются. Или превышен лимит в 10 МБ (стоит повысить до 50).\nЛимит поставил сейчас вручную на 50 Мб, но пока ничего не поменялось.\n\nЕще там ошибки по-моему в ссылках на сайте, когда нажимаешь на них, он пишет, что нет таких файлов, т.к. ссылка идет на The Cave-Maze.ogg, а на диске есть TheCave-Maze.ogg, т.е. без пробела. ИМХО, лучше все таки на английском общаться, т.к. большинству так интереснее будет.",
+				"added": 1454664677
+			},
+			{
+				"comment_id": 40,
+				"body": "А ты нажимал на кнопку Publish, после того подписал сайт?",
+				"added": 1454664861
+			},
+			{
+				"comment_id": 41,
+				"body": "> [zalex](#comment_29_1LWuc6JBhUGrKEAh1aPrPU85dEMcKmg3pS): Даже по нескольку раз :D\n\nПросто по этому адресу такая же проблема: http://bit.no.com:43110/ZAlex.bit\nЕще на локальном компе, пишет что 2 file update failed.",
+				"added": 1454664923
+			},
+			{
+				"comment_id": 42,
+				"body": "Странно это все, я помню свой сайт с ТиддлиВики менял, там практически мгновенно обновления \"расползались\".",
+				"added": 1454665141
+			},
+			{
+				"comment_id": 43,
+				"body": "А может это из-за того, что кто-то из нас (я - точно) сидит через ТОР? Вспоминается, кто-то говорил, мол, если сделать зеронет через ТОР, то он будет медленно работать, на что был ответ, что зеронет не пересылает файлы свыше мегабайта. Может, через тор не пересылает? Т.е. можно попробовать соединиться с сетью без использования ТОР с обеих сторон.",
+				"added": 1454665472
+			}
+		],
+		"1_1NxaomNYTzsRc8GwVWtd9wBMrP2fZPN3D6": [
+			{
+				"comment_id": 37,
+				"body": "There is new forum named Free Speech http://127.0.0.1:43110/12ye7c7efq7FGvfML6c8u4ZcfNZDk9mjw1",
+				"added": 1454662937
+			}
+		],
+		"9_1ED3Ho3kmzaKiECtyuqSjDpoE47rKuXeP": [
+			{
+				"comment_id": 45,
+				"body": "> [cgm616](#comment_8_1KcPohxmuqiNShTaAzJZLndm5aWtBZLuJn): I can't get it to work. When I press Sign In... it gives a nonce error.\n\nMe too.",
+				"added": 1454685170
+			}
+		],
+		"1_1ArMJqDaBJqeJ4MX3VqSnkfwkHe23PtLrW": [
+			{
+				"comment_id": 46,
+				"body": "Hello, I've spotted that New ZeroHello site doesn't work via this proxy and ZeroTalk has old interface - without 'Newsfeed' button.",
+				"added": 1454688857
+			}
+		],
+		"5_1QBLGLcgKfcpfLmiDYuDzUKVXFfmTAew55": [
+			{
+				"comment_id": 47,
+				"body": "Personal web pages seems good to me.",
+				"added": 1454700425
+			}
+		],
+		"2_1789XcRxNBxCsCTWFhhGsbmjrmg4XX4QPL": [
+			{
+				"comment_id": 48,
+				"body": "What is you favourit cryptocurrency and why? Don't you think that they aren't actual currencies rather than tokens or shares in a company.",
+				"added": 1454714089
+			}
+		],
+		"2_13KqD3BoaRMudEG5QU2fnGLkSVx8qDXKof": [
+			{
+				"comment_id": 50,
+				"body": "Yes, check this out ('What's next' section): http://127.0.0.1:43110/Blog.ZeroNetwork.bit/?Post:70:The+first+year+of+ZeroNet\nYou can donate your bitcoins here: http://zeronet.readthedocs.org/en/latest/help_zeronet/donate/",
+				"added": 1454769690
+			}
+		],
+		"1_167eTX5f6jJt4HPvfQqf2QuwdTFCnxJCf2": [
+			{
+				"comment_id": 54,
+				"body": "> [nofish](#comment_255_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): After you start the Tor browser it could be possible that you have to add 127.0.0.1 to about:preferences#advanced > Settings... > No proxy for: field\n\nAnd besides that scripts should be allowed.",
+				"added": 1454792708
+			},
+			{
+				"comment_id": 56,
+				"body": "> [harry2](#comment_2_167eTX5f6jJt4HPvfQqf2QuwdTFCnxJCf2): When I check this:https://check.torproject.org/\n> it says \"not running tor\", even if i start \"tor\" after editing the /etc/tor/torrc suggested to work with zeronet.\n\nMaybe that is because it is not through Zeronet, which starts with 127.0.0.1",
+				"added": 1454793718
+			}
+		],
+		"6_1QBLGLcgKfcpfLmiDYuDzUKVXFfmTAew55": [
+			{
+				"comment_id": 60,
+				"body": "You can do it through the gateways.",
+				"added": 1454866488
+			}
+		],
+		"1_15y72LFjQ4ymUTnkJP6CC7r73R5uoePgFW": [
+			{
+				"comment_id": 61,
+				"body": "Looks like you did not sign and publish your site. See the end of this article: http://127.0.0.1:43110/Blog.ZeroNetwork.bit/?Post:43:ZeroNet+site+development+tutorial+1",
+				"added": 1454937246
+			}
+		],
+		"2_167eTX5f6jJt4HPvfQqf2QuwdTFCnxJCf2": [
+			{
+				"comment_id": 62,
+				"body": "Do you use 'Newsfeed' buttons to follow site changes (comments)?",
+				"added": 1454937414
+			}
+		],
+		"11_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf": [
+			{
+				"comment_id": 63,
+				"body": "> [muja](#comment_14_17i7Y7r8nTaCfLbCAuaKyc4R5BbKZYU2Hr): I suggest using git in the site folder and add \"optional\": \"(.git*)\" to the content.json file. If someone gets your private key you are pretty much screwed already, but this would keep your data so that you could do something about it.\n\nIn this case I didn't worry about getting ability to do something with my data (as you said I am screwed already) rather than making it easy to undelete and make it available for every seeder back.",
+				"added": 1454945291
+			}
+		],
+		"1_1F6BMqittjWUStzUbRXm2kG2GQ3RdBLqFQ": [
+			{
+				"comment_id": 66,
+				"body": "Всем привет, прошу заглянуть вот в эту старую темку: http://127.0.0.1:43110/Talk.ZeroNetwork.bit/?Topic:1_16jG1cAYu6rAXhRpqq9ph1ere1Z5e7j72b/RU+TiddlyWiki\nPS: Кто-нибудь может заставить это работать без глюков? http://127.0.0.1:43110/1DwJMuuV8rzbktXrN1j8oimJWHN6kDywZL\n\n",
+				"added": 1455098014
+			},
+			{
+				"comment_id": 67,
+				"body": "> [argentum](#comment_1_1Q2ioVKj67AbofttLyMavMiq6mK21Qd3GA): Вопрос - если у меня сайт 2 гига и я меняю на нем одну картинку, то как будет обновляться торрент по пирам: целиком одним куском на 2 гига или разностно малыми чанками только изменения?\n\nПока что отдельными файлами. Т.е. если картинка небольшая - то разлетится мгновенно)",
+				"added": 1455098190
+			},
+			{
+				"comment_id": 68,
+				"body": "Не знаю как намайнить, но кто-то здесь недавно нахаляву их раздавал.",
+				"added": 1455098942
+			},
+			{
+				"comment_id": 71,
+				"body": "Наткнулся на нечто с названием BigchaniDB: https://www.bigchaindb.com/features/ \nЭто может как-то помочь Зеронету? Основано на ReThinkDB: http://www.rethinkdb.com/faq/",
+				"added": 1455197784
+			},
+			{
+				"comment_id": 72,
+				"body": "Лучше расширение запилить для FireFox и для Chrome (чтобы не надо было ZeroBundle скачивать и запускать). Так легче будет народ зазывать новый. ",
+				"added": 1455197956
+			},
+			{
+				"comment_id": 74,
+				"body": "Тогда надо зазывать разработчиков. Создание новых сайтов сейчас ограничивается ядром или нет? Просто не понятно, где разработчики нужнее - в разработке самого Зеронета или в разработке сайтов под него. Я сам вообще в программировании не соображаю, поэтому этот момент для меня неясен.",
+				"added": 1455199772
+			},
+			{
+				"comment_id": 77,
+				"body": "Фринет мне нравился одно время очень из-за своей соц. сети Sone (работала в виде плагина). Имхо - хорошая задумка была. И автор там прямо писал, что у сети будет проблема с масштабируемостью. Но по тем временам, аналогов у нее не было.",
+				"added": 1455203809
+			},
+			{
+				"comment_id": 78,
+				"body": "Тут может иметь смысл некое подобие реддита создать и из реддита народ переманивать.",
+				"added": 1455203951
+			},
+			{
+				"comment_id": 79,
+				"body": "> [gomzik](#comment_28_1F6BMqittjWUStzUbRXm2kG2GQ3RdBLqFQ): Так мы сейчас и в некотором подобии реддита и находимся :)\nДолжна быть сортировка тем по \"горячему\", \"новому\", \"актуальному\" и т.п. У юзверей должна появиться карма, и карма их комментов. Сабредитты должны быть. Работы еще много в общем.",
+				"added": 1455204061
+			},
+			{
+				"comment_id": 80,
+				"body": "Голосувалки в конце концов к этому форуму надо прикрутить.",
+				"added": 1455204137
+			},
+			{
+				"comment_id": 81,
+				"body": "В идеале, чтобы привлечь нового \"потребителя\", должны быть какие-то уникальные свойства с точки зрения удобства, а не с точки зрения инновационных технологий. Технологиями можно привлечь только гиков и разработчиков, что тоже неплохо.",
+				"added": 1455204242
+			},
+			{
+				"comment_id": 82,
+				"body": "Пиарить зеронет можно (удачнее всего) на фоне блокировки RuTracker, я недавно сделал пост на Пикабу, так он очень быстро стал набирать очки (дошел до 80, плюс 200 человек утащило его себе в закладки), пока его модераторы не прикрыли под тупым предлогом.",
+				"added": 1455204559
+			},
+			{
+				"comment_id": 83,
+				"body": "> [gomzik](#comment_30_1F6BMqittjWUStzUbRXm2kG2GQ3RdBLqFQ): Ну я для начала Хеловорлд с плюшками зеронета напишу, потом готов рассмотреть идеи к реализации. Одно только но, у меня английский на уровне \"читаю, пишу простые односложные предложения\" поэтому либо мне нужен помощник, либо я буду ориентироваться на русскоязычную аудиторию. Пока...\n\nС английским можешь сюда вопросы сбрасывать, я думаю народ сможет их переводить на инглишь и обратно.",
+				"added": 1455204739
+			},
+			{
+				"comment_id": 84,
+				"body": "> [manrus](#comment_13_1NHZ2FfVkeCBzr2iS1cVnzf5xZfN4ZWEik): На пикабу аудитория не та. Одни школьники\n\nЯ понимаю, но суть не в этом. Это просто один из механизмов рекламы/пропаганды - зацепиться за что-то известное)). Все накрутки такими нечестными способами работают. Т.е. есть процесс блокировки, многих он бесит, а тут предлагается ZeroNet в качестве решения. Хотя, по правде, я не уверен нужен ли RuTracker в виде одного сайта в Зеронете или он будет представлен некой федерацией сайтов, у каждого из которых свой хозяин.",
+				"added": 1455204887
+			},
+			{
+				"comment_id": 85,
+				"body": "> [manrus](#comment_14_1NHZ2FfVkeCBzr2iS1cVnzf5xZfN4ZWEik): Даже не знаю что и сказать. На мой взгляд подросткам даже ТОР не интересен(за исключением тех кто в очках). Не те люди просто. Для них компьютер как лампочка в туалете\nЧестно говоря, мне самому ТОР не очень интересен). Объясню почему. Мне интересны системы, которые способны организовывать людей в нечто, что способно противостоять давлению извне и достигать поставленных перед собой целей - самоуправляться. Децентрализованные автономные организации (термин из мира криптовалют). Приватность/анонимность тут одна из составляющих, но не всегда самая главная и не всегда даже необходимая. ZeroNet мне нравится не столько тем, что он анонимен сколько тем, что сложноцензурируем, т.е. плохо поддается влиянию извне. По крайней мере, он должен быть таким в идеале.",
+				"added": 1455205711
+			},
+			{
+				"comment_id": 86,
+				"body": "А как идея насчет прикручивания зарабатывания токенов (валюты) за сидерство, и траты этих токенов на хостинг контента/добавление комментов? Похожая идея должна быть у DATT.co",
+				"added": 1455207505
+			},
+			{
+				"comment_id": 87,
+				"body": "Желательно, конечно, не заморачиваться с запуском своей валюты. Практичнее наверное было бы создать токены на основе смарт-контрактов Ethereum. Но вот как зеросайтам связываться с эфиром непонятно.\nPS: Игра с птичкой не казуальная, я не могу более 5 очков набрать))",
+				"added": 1455213350
+			},
+			{
+				"comment_id": 89,
+				"body": "> [shift](#comment_19_16AFTG7vdicwJbRQpWc2F9BRHTE5MTftE7): а смысл в поощрении сидирования если у  ресурсов на которые часто заходят и так всё будет хорошо с доступностью?\n\nЯ тоже про это подумал. Сидирование можно поощрять в зависимости от того, насколько редкО то, что сидируется. Вообще подобные идеи уже были у FileCoin, который планируется к запуску разработчиками IPFS.\n\nНо монетки можно присваивать не только за сидирование, но и за выкладывание интересного контента, это называется экономикой внимания (см. валюту Synereo).",
+				"added": 1455216302
+			},
+			{
+				"comment_id": 91,
+				"body": "> [gomzik](#comment_37_1F6BMqittjWUStzUbRXm2kG2GQ3RdBLqFQ): Я тут понемножку блог замутил.\n> http://localhost:43110/1CpGZyfbUBBV5uXUoY653wVoqZFRojbEzd\n> Спасибо\n\nКак это часто бывает, пишет \"content.json download failed\"",
+				"added": 1455218127
+			},
+			{
+				"comment_id": 92,
+				"body": "> [gomzik](#comment_39_1F6BMqittjWUStzUbRXm2kG2GQ3RdBLqFQ): Только что проверил с другого девайса, все работает\n\nО, теперь и у меня заработало. Видать пиров мало было, потому не цеплялось.",
+				"added": 1455219051
+			},
+			{
+				"comment_id": 94,
+				"body": "Интересно можно ли эту Sia подключать как внешний жесткий диск для хранения Зеросайтов за денюжку? Оно уже работает, или пока демка только? Идея прикольная.",
+				"added": 1455271804
+			},
+			{
+				"comment_id": 109,
+				"body": "Итальянцы проснулись)",
+				"added": 1455485549
+			}
+		],
+		"7_1QBLGLcgKfcpfLmiDYuDzUKVXFfmTAew55": [
+			{
+				"comment_id": 69,
+				"body": "me too = normal time",
+				"added": 1455135494
+			}
+		],
+		"15_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf": [
+			{
+				"comment_id": 70,
+				"body": "MaidSafe. It isn't launched yet. http://maidsafe.net/features.html\nRight now it is number 7 here: http://coinmarketcap.com/",
+				"added": 1455136716
+			},
+			{
+				"comment_id": 124,
+				"body": "Found this project: \nhttp://mirror.qora.co.in:9090/index/blogdirectory.html\nhttp://mirror.qora.co.in:9090/index/blog.html\nhttp://mirror.qora.co.in:9090/index/blog.html?blogname=qora.team\nWhat are the differences between it and ZeroNet? I've already found that it is based on blockchain, and you have to run wallet and spend some coins in order to upload content inside it.",
+				"added": 1455647646
+			},
+			{
+				"comment_id": 129,
+				"body": "What about storing blockchain files in IPFS of Sia?",
+				"added": 1455706782
+			},
+			{
+				"comment_id": 130,
+				"body": "https://www.bigchaindb.com/",
+				"added": 1455708341
+			},
+			{
+				"comment_id": 131,
+				"body": "> [nofish](#comment_325_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): The point of blockchain is one thing: create a database that does not allow to modify earlier records.\n> This makes much sense in payment technology, but it's not optimal (and does not provide real benefit) to store web data.\n\nBut smart contracts are implemented through blockchain too. And they aren't only about payment technology, right?",
+				"added": 1455709318
+			},
+			{
+				"comment_id": 132,
+				"body": "> [ekaterina](#comment_27_1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD): Those are much better options than storing files on the blockchain directly. With Sia and Storj you still have a blockchain to deal with though, so the problem of the blockchain getting too big to deal with for private users is still an issue.\nSorry, what I meant was storing blockchain itself as a file in the Storj, IPFS or Sia, not ordinary files. So, big size of blockchain isn't an issue here (those system probably would have a deduplication feature). You don't have to put ordinary files into blockchain as in Qora, only very important and tiny info.",
+				"added": 1455710989
+			},
+			{
+				"comment_id": 133,
+				"body": "What I really like in smart contracts and blockchain projects is a potential possibility of these projects to self-fund and self-govern their own development and infrastructure. Decentralized Autonomous Organization (DAO) is really fascinating idea (Take [this](https://www.dashwhale.org/budget) or [this](http://dashvotetracker.com/) for example). I don't know how to link it to ZeroNet though). Maybe some coin reward to those who serve as a gateway or reward to developers as a fee for a domain buying.",
+				"added": 1455711593
+			},
+			{
+				"comment_id": 135,
+				"body": "If we talk about blockchains here now, then I think [this](https://www.youtube.com/watch?v=1SXfYgQxsOA&index=1&list=PLav2klOnTUlN6UynNT-_8hTs1FtF0fGbl) one is interesting too).",
+				"added": 1455745639
+			},
+			{
+				"comment_id": 140,
+				"body": "Interesting thoughts [here](https://www.youtube.com/watch?feature=player_detailpage&v=LEJ5qvcvnp4#t=3425) about Twister, Synereo, decentralized Reddit. Watch for 5-10 minutes at least).",
+				"added": 1455835425
+			},
+			{
+				"comment_id": 142,
+				"body": "> [oracle](#comment_128_1ED3Ho3kmzaKiECtyuqSjDpoE47rKuXeP): I've been trying to encourage @Kube on twitter to create their decentralized version of facebook on ZeroNet.\n\nIs there a site anywhere of the product they are trying to make now?",
+				"added": 1455905286
+			},
+			{
+				"comment_id": 157,
+				"body": "Found this network: http://base.network/\nIt is more like prototype, though.",
+				"added": 1457549087
+			},
+			{
+				"comment_id": 164,
+				"body": "New video about **Datt** here: https://www.youtube.com/watch?v=NjMIeio_qfY",
+				"added": 1458042845
+			}
+		],
+		"1_16AFTG7vdicwJbRQpWc2F9BRHTE5MTftE7": [
+			{
+				"comment_id": 73,
+				"body": "Why? You can simply clone it. With 'Follow' button it doesn't really matter which forum is your topic in.",
+				"added": 1455198306
+			}
+		],
+		"7_13KqD3BoaRMudEG5QU2fnGLkSVx8qDXKof": [
+			{
+				"comment_id": 75,
+				"body": "I am running out of my allowed space too.",
+				"added": 1455203366
+			},
+			{
+				"comment_id": 76,
+				"body": "> [nofish](#comment_282_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): Changed the limit to 100k for you\n\nThanks!",
+				"added": 1455203647
+			}
+		],
+		"17_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf": [
+			{
+				"comment_id": 93,
+				"body": "Here: http://alternativeto.net/software/zeronet/\nhere: https://www.reddit.com/r/i2p/comments/43thyk/zeronet_p2p_websites/\nand here: http://ethereum.stackexchange.com/questions/1076/is-it-possible-to-make-zeronet-p2p-websites-as-client-of-ethereum-dapps",
+				"added": 1455224337
+			}
+		],
+		"13_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf": [
+			{
+				"comment_id": 97,
+				"body": "> [b3nis](#comment_8_1HwYER58xAxchBDL6WKRqKuPZzmwSvMwjY): Ethereum is kinda lame to be honest. The mining has ending and every interaction on the network is transaction of the ethereum currency, it's going to be hoarded like there's no tomorrow. Cool concept, piss poor execution, hyped and overrated.\n\nGas prices are independent to ETH prices, so hoarding is not a big problem for running smart contracts. Moreover there are Ethereum forks like Expanse for example.",
+				"added": 1455365525
+			}
+		],
+		"3_15y72LFjQ4ymUTnkJP6CC7r73R5uoePgFW": [
+			{
+				"comment_id": 99,
+				"body": "Doesn't work for me. Check this out: http://127.0.0.1:43110/15QCUnCyYRW3b16YSvjwGvw3AYDD5JZXqC/?Topic:3_15ut3jo5bqiURh7QZnajDmC9GG2o9psEjB/Test",
+				"added": 1455462383
+			},
+			{
+				"comment_id": 100,
+				"body": "> [oracle](#comment_115_1ED3Ho3kmzaKiECtyuqSjDpoE47rKuXeP): Bit451 is an open source decentralized / distributed anonymous p2p media network. It has been characterized as “YouTube meets BitTorrent meets Bitcoin”. Is it possible to integrate Bit451 into ZeroNet or at least get some ideas from Bit451. http://bit451.org/\n\nIs it working already? Or it is a draft yet?",
+				"added": 1455465179
+			},
+			{
+				"comment_id": 102,
+				"body": "> [oracle](#comment_116_1ED3Ho3kmzaKiECtyuqSjDpoE47rKuXeP): I don't really know if it's working yet but they do have a github page if people want to research it. https://github.com/Bit451\n\nThe project doesn't seem to be very active now.",
+				"added": 1455466362
+			}
+		],
+		"1_1FJFF8d4B5LQ9jJinqBRxqCR7RHbHPxBfv": [
+			{
+				"comment_id": 101,
+				"body": "Yeah, echobot doesn't answer anymore)",
+				"added": 1455466247
+			},
+			{
+				"comment_id": 104,
+				"body": "The panic is begining)",
+				"added": 1455466797
+			}
+		],
+		"2_1L4fuhUB75eAdVbDY9AJ4z2i2dwMho7MV8": [
+			{
+				"comment_id": 103,
+				"body": "> [p2p](#comment_45_13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ): see my test blog:http://127.0.0.1:43110/1LG84a67iErzM2ifJXJAgNGq6pYCNt3URP\n\nCan't load it.",
+				"added": 1455466741
+			},
+			{
+				"comment_id": 105,
+				"body": "> [p2p](#comment_46_13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ): u have to  use tor. i'm in tor always mode.\n\nMe too. That isn't the problem. \n\ncontent.json download failed",
+				"added": 1455467376
+			},
+			{
+				"comment_id": 106,
+				"body": "> [p2p](#comment_47_13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ): strange. i see  5 peers in my blog's sidebar, 2 of 5 are onion. maybe need to wait.\n\nSometimes I see this: index.html not found",
+				"added": 1455467840
+			},
+			{
+				"comment_id": 107,
+				"body": "> [p2p](#comment_48_13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ): i edited my blog and clicked the Sign & Publish button again. please fresh ur page.\n\nNow it is working.",
+				"added": 1455468032
+			}
+		],
+		"18_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf": [
+			{
+				"comment_id": 108,
+				"body": "What about (optional) spliting screen in two parts when someone views ZeroHello? Left part goes to ZeroHello itself, and right part goes to ZeroMail opened automatically.",
+				"added": 1455477880
+			}
+		],
+		"19_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf": [
+			{
+				"comment_id": 110,
+				"body": "> [oxilic](#comment_26_1PNyuY1iZqXBpft4ArouqcnE4pNRGYij5i): It's not currently an option, although I'll see if I can make a crawler so it indexes every page and improves keywords as currently you have to add them manually.\n\nThis would be nice! BTW, why Yacy search engine isn't proper choice for Zeronet?",
+				"added": 1455499718
+			}
+		],
+		"4_1F6BMqittjWUStzUbRXm2kG2GQ3RdBLqFQ": [
+			{
+				"comment_id": 111,
+				"body": "[Check this out](http://127.0.0.1:43110/Talk.ZeroNetwork.bit/?Topic:18_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf/ZeroMail+notifications)",
+				"added": 1455534459
+			}
+		],
+		"3_1F6BMqittjWUStzUbRXm2kG2GQ3RdBLqFQ": [
+			{
+				"comment_id": 112,
+				"body": "BTW, right now I'm seeing notification '1 File update failed' upon GomZik's Blog in ZeroHello. PORT: opened, TOR: ok",
+				"added": 1455537445
+			},
+			{
+				"comment_id": 113,
+				"body": "Maybe zeronet can't get access to it due to it is used by another process.",
+				"added": 1455538187
+			}
+		],
+		"1_16irrH5hRDUX3nrY71JFrRChNEr5p9b6jS": [
+			{
+				"comment_id": 114,
+				"body": "> [bert](#comment_3_1FJFF8d4B5LQ9jJinqBRxqCR7RHbHPxBfv): I don't really understand the Tor thing here.If I use zeronet with \"Tor always on\", how do I get the Tor browser to work? Everything works fine with Tor always on.Right now, zeronet uses my default browser, which is not the Tor browser.\n\n[Check out this](http://127.0.0.1:43110/Talk.ZeroNetwork.bit/?Topic:2_16iYwD5U2fNoS22p6447J7992iL3DHjSHY/Using+ZeroNet+with+Tor)\n\nYes, you can also use it in Tor browser, to make it work you need to go to about:preferences#advanced > Settings... > And add 127.0.0.1 to No Proxy for field",
+				"added": 1455541547
+			},
+			{
+				"comment_id": 115,
+				"body": "> [ekaterina](#comment_23_1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD): I've started doing this now too, just for the added bit of security. Sadly, now I can't browse ReactionGIFs anymore :) Looks like the Tor Browser only supports OGG Video and WebM, but not MP4 since enabling that has huge privacy issues according to a moderator on the Tor forums. Probably better though, shouldn't use up too much Tor bandwidth with funny nonsense while the Tor bandwidth is still such a big issue.\n\nCan you watch this [video](http://127.0.0.1:43110/1G9s2eptrshvMmXaR1egEnGcbL9WdeQFAa/index2.html)?",
+				"added": 1455561076
+			},
+			{
+				"comment_id": 119,
+				"body": "> [ekaterina](#comment_24_1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD): I can't see it either, only index2.html and above that it says Not found.\n> Edit: No wait, I can see it, had to raise the limit for your site from 10 to 20 mb, was too big for the default size. Video plays fine.\n\nCool, so it works in Tor browser. @harry2, maybe you need to update my blog site manually first.",
+				"added": 1455571420
+			}
+		],
+		"2_1PPqTMbH8Uwrk496grUVuBk57dSoeU9hig": [
+			{
+				"comment_id": 116,
+				"body": "Does it work?\nhttp://127.0.0.1:43110/ZeroUpload.bit",
+				"added": 1455564804
+			},
+			{
+				"comment_id": 117,
+				"body": "@archtech it seems that your clock time is set wrongly because your comments have 'just now' label for a while.",
+				"added": 1455565251
+			},
+			{
+				"comment_id": 120,
+				"body": "> [oracle](#comment_120_1ED3Ho3kmzaKiECtyuqSjDpoE47rKuXeP): ForbiddenWrapper nonce error\n\nYep, I get this error too. It's not mine, BTW.",
+				"added": 1455605486
+			}
+		],
+		"14_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf": [
+			{
+				"comment_id": 118,
+				"body": "> [wei](#comment_1_17Ltx9YbCFipUT73f1yaqo9X6vbbNgGboH): bitcointalk.org move my eyes here\n\nRussian thread?)",
+				"added": 1455570662
+			},
+			{
+				"comment_id": 123,
+				"body": "@vethit, can you copy this [here](http://127.0.0.1:43110/Talk.ZeroNetwork.bit/?Topic:1_1PPqTMbH8Uwrk496grUVuBk57dSoeU9hig/What+could+Zeronet+be+used+for)?",
+				"added": 1455642419
+			}
+		],
+		"21_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf": [
+			{
+				"comment_id": 125,
+				"body": "**Why do new comments appear below (after) already existing ones? Comments order is wrong.**\n\nProbably one or more users in your discussion have incorrect system time. They should set it correctly. It could be checked here: http://time.is/",
+				"added": 1455658572
+			},
+			{
+				"comment_id": 126,
+				"body": "**Is there a search engine in ZeroNet?**\n\nAt the moment (february 2016) there is search for sites on keywords: http://127.0.0.1:43110/zerosearch.bit\nFull text search inside websites isn't working yet. Partitialy implemented here: http://127.0.0.1:43110/192dZ1EG5tU7PnCfuwGMDEBrr2eLqvs4t3",
+				"added": 1455667028
+			},
+			{
+				"comment_id": 127,
+				"body": "**How to surf ZeroNet sites in Tor browser?**\nYou need to go to 'about:preferences#advanced' > 'Settings...' > And add '127.0.0.1' to 'No Proxy for' field.",
+				"added": 1455697828
+			},
+			{
+				"comment_id": 128,
+				"body": "**Where can I find public ZeroNet gateways?**\nhttp://bit.no.com:43110/Talk.ZeroNetwork.bit\nhttp://zero.pags.to:43110/Talk.ZeroNetwork.bit\nhttp://45.63.123.191:43110\nhttps://zeronet.classcoder.com/",
+				"added": 1455702687
+			},
+			{
+				"comment_id": 151,
+				"body": "**How to make sticky topic / topic group in ZeroTalk's clone sites?**\n- Sticky topics (changed some days ago, no longer need to edit .js): Add topic uri to content.json settings.topic_sticky_uris.\n- Topic group: Edit your data/users/youruserid/data.json and add \"type\": \"group\", to topic settings you want to turin into topic group. Example: http://127.0.0.1:43110/Talk.ZeroNetwork.bit/data/users/1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG/data.json\n\n    \"topic\": [\n      {\n        \"body\": \"Articles about Bitcoin, Torrent and Peer To Peer networks\", \n        \"added\": 1436262090, \n        \"type\": \"group\", \n        \"topic_id\": 1, \n        \"title\": \"P2P news flow\"\n      }, ...",
+				"added": 1456220807
+			}
+		],
+		"1_149Lc5r63oF2drRtd1pokm5G7M49DhhMji": [
+			{
+				"comment_id": 136,
+				"body": "Go to ZeroHello, choose ZeroTalk on the left sidepanel and click 'clone' in context menu. That's all. You can use ZeroMail already. No need to make your own ZeroMail as it is encrypted by default. No one will be able to read you mail.",
+				"added": 1455795156
+			},
+			{
+				"comment_id": 137,
+				"body": "In that case I don't know how to do that). Maybe somebody else will answer.",
+				"added": 1455795539
+			}
+		],
+		"24_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf": [
+			{
+				"comment_id": 138,
+				"body": "Thanks, I'll add it to russian FAQ too. Now I see 120 connectable peers and 126 in total. Does it mean that 6 peers have their port closed? Do you see same numbers at the moment or it could be different for different users?",
+				"added": 1455823939
+			},
+			{
+				"comment_id": 139,
+				"body": "Yes, just after restart I have 20 connectable peers and 20 in total.",
+				"added": 1455824750
+			}
+		],
+		"1_1HN54tqPZqnHs5SpJVFVsMhRH1nUSt3iQF": [
+			{
+				"comment_id": 147,
+				"body": "> [nofish](#comment_348_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): Does not need to be central site, every merchant can create a separate site via cloning (like ZeroBlog).\n\nGood idea. AFAIK, each user of OpenBazaar will have his own page.",
+				"added": 1456078421
+			}
+		],
+		"20_1ED3Ho3kmzaKiECtyuqSjDpoE47rKuXeP": [
+			{
+				"comment_id": 148,
+				"body": "> [zozon](#comment_103_1QBLGLcgKfcpfLmiDYuDzUKVXFfmTAew55): pycole this code you mentioned opened a pandora box :)thank you for pointing out this link and method. Its awesome & lot of fun hacking!\n\nI didn't understand about the pandora box). What's new there?",
+				"added": 1456171395
+			}
+		],
+		"1_1K4zaw5U525Qv1rRqR6QDyD2UfbXwDr9aE": [
+			{
+				"comment_id": 150,
+				"body": "http://127.0.0.1:43110/Talk.ZeroNetwork.bit/?Topic:2_16AFTG7vdicwJbRQpWc2F9BRHTE5MTftE7/How+to+make+sub+topic+in+my+own+zero+talk",
+				"added": 1456220699
+			}
+		],
+		"27_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf": [
+			{
+				"comment_id": 154,
+				"body": "> [nofish](#comment_366_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): I just switched to Tor always mode, at the warmup (when new hidden services created) it used high cpu %, but after then it went down. to 0-5% (having an old c2d cpu)\n\nYes, I see it too. Sorry for bothering.",
+				"added": 1456877074
+			}
+		],
+		"1_1BQg5MQZ63aEQZMzLEXP6yY3hsgznKpaps": [
+			{
+				"comment_id": 155,
+				"body": "I can also create a poll like this [ZeroPolls: Favorite Operating System?](/ZeroPolls.bit/?Poll:1-1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD) to investigate the topic.",
+				"added": 1457529222
+			}
+		],
+		"1_1FieP4c1gxFme5webFJB9x5ZPBXdR6p3Fs": [
+			{
+				"comment_id": 158,
+				"body": "> [darkstratus](#comment_1_1FieP4c1gxFme5webFJB9x5ZPBXdR6p3Fs): oops, the title should be \"Hello, ZeroNet\" =P\n\nYou can edit your own titles and messages easily.",
+				"added": 1457552221
+			},
+			{
+				"comment_id": 159,
+				"body": "You have to point the cursor to your comment and a pencil symbol should appear on the left...\nhttp://127.0.0.1:43110/1C2JhCunGLtvyX56nQ88tcb87WnXspjWN/?Topic:2_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf/",
+				"added": 1457552668
+			},
+			{
+				"comment_id": 160,
+				"body": "Welcome aboard!",
+				"added": 1457552842
+			}
+		],
+		"1_1MuqWEiJ8VCCZMHZ6hcJW35RMEgm7VVED5": [
+			{
+				"comment_id": 161,
+				"body": "Yep, made my page there: http://127.0.0.1:43110/1CziiRbJUj9McUbzW8XZk5Nm3U1bkLR7dV/?Page:my-page",
+				"added": 1457965514
+			}
+		],
+		"5_1LRrd96P7FiTcsyNXVzPM5jtpQoH1B4gYf": [
+			{
+				"comment_id": 162,
+				"body": "Meanwhile this is our FAQ in Russian: http://127.0.0.1:43110/138R53t3ZW7KDfSfxVpWUsMXgwUnsDNXLP/?Page:faqru",
+				"added": 1457986950
+			}
+		],
+		"2_1NyFX6DUcyMs3S76Vz8X7ssDLC4uCCA1YM": [
+			{
+				"comment_id": 163,
+				"body": "По ссылке из заголовка, книгу скачать не получается.",
+				"added": 1457995752
+			}
+		],
+		"4_13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ": [
+			{
+				"comment_id": 165,
+				"body": "Nice!",
+				"added": 1462090762
+			}
+		]
+	},
+	"comment_vote": {
+		"1_1ErL5YmDERLaqeiKa44HHJrUi2JLLzH8Cc": 1,
+		"4_1C7rjaNpWFAtWbQgSxbGaPzBdgCA47VYc6": 1,
+		"23_15QGRquMETTn5LnCHjTm1qa9eaXGtq7gpT": 1,
+		"12_1MGse2Xfdae1FkAiGoHzWTeFx4Mo2yEqfH": 1,
+		"218_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"217_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"3_16jG1cAYu6rAXhRpqq9ph1ere1Z5e7j72b": 1,
+		"4_14kxkh1pLNYuCwCZ161HCQkSjvWW29ybNz": 1,
+		"9_1CJ2vo4EL5nfF3zTpkkncMLtaKaA4X6gBK": 1,
+		"8_1CJ2vo4EL5nfF3zTpkkncMLtaKaA4X6gBK": 1,
+		"7_1CJ2vo4EL5nfF3zTpkkncMLtaKaA4X6gBK": 1,
+		"3_14kxkh1pLNYuCwCZ161HCQkSjvWW29ybNz": 1,
+		"14_17vE6u5SLLQ3eLazQDWXxM25663bbjPjBt": 1,
+		"220_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"221_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"21_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf": 1,
+		"17_1LWuc6JBhUGrKEAh1aPrPU85dEMcKmg3pS": 1,
+		"5_1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD": 1,
+		"1_1An7ATsNMMNqRgSgB2upWwbpXgFXQ9E2XD": 1,
+		"226_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"19_1LWuc6JBhUGrKEAh1aPrPU85dEMcKmg3pS": 1,
+		"7_17i7Y7r8nTaCfLbCAuaKyc4R5BbKZYU2Hr": 1,
+		"3_14oqzN7fCAtc3RPUWL4sKqEfkVFYHbZyyF": 1,
+		"3_1HssfkW9ci8VxnF6va1x6qJRyYu7DoNq5N": 1,
+		"1_1M5ztUWkCMP5Pv7MjwApWT7CNvWimGFaFa": 1,
+		"232_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"3_1M5ztUWkCMP5Pv7MjwApWT7CNvWimGFaFa": 1,
+		"3_1An7ATsNMMNqRgSgB2upWwbpXgFXQ9E2XD": 1,
+		"4_1HssfkW9ci8VxnF6va1x6qJRyYu7DoNq5N": 1,
+		"2_1HssfkW9ci8VxnF6va1x6qJRyYu7DoNq5N": 1,
+		"233_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"227_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"2_1MmPY9fniJwwhP6WsgH4jWoq5rBAVV6KWy": 1,
+		"2_14XxpXNGMLsyeQxikacrbQnAFXVyhN5Ngx": 1,
+		"28_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf": 1,
+		"21_1LWuc6JBhUGrKEAh1aPrPU85dEMcKmg3pS": 1,
+		"10_1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD": 1,
+		"13_1MGse2Xfdae1FkAiGoHzWTeFx4Mo2yEqfH": 1,
+		"17_1MGse2Xfdae1FkAiGoHzWTeFx4Mo2yEqfH": 1,
+		"33_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf": 1,
+		"90_1ED3Ho3kmzaKiECtyuqSjDpoE47rKuXeP": 1,
+		"37_1QBLGLcgKfcpfLmiDYuDzUKVXFfmTAew55": 1,
+		"234_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"2_1Ba8QbZfBsteofAHFerLuYFUxTBZgWBiLH": 1,
+		"8_13P8oKB5LtAYbe2mvfR71s9TPNy4sMk8bc": 1,
+		"9_1EtswFGV1BvkGTp4b7JgVkqMMMhYazekfM": 1,
+		"70_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"4_125pNDvQDGnxhZczL2nsJeYyGbyRzRVWnW": 1,
+		"1_1DqvS1jjr8Mz91ZwePp3BJZj6H5Rsd6QSc": 1,
+		"5_1MmPY9fniJwwhP6WsgH4jWoq5rBAVV6KWy": 1,
+		"12_1MmPY9fniJwwhP6WsgH4jWoq5rBAVV6KWy": 1,
+		"11_1MmPY9fniJwwhP6WsgH4jWoq5rBAVV6KWy": 1,
+		"10_1MmPY9fniJwwhP6WsgH4jWoq5rBAVV6KWy": 1,
+		"237_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"238_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"236_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"239_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"240_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"4_13KqD3BoaRMudEG5QU2fnGLkSVx8qDXKof": 1,
+		"242_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"9_17i7Y7r8nTaCfLbCAuaKyc4R5BbKZYU2Hr": 1,
+		"10_17i7Y7r8nTaCfLbCAuaKyc4R5BbKZYU2Hr": 1,
+		"246_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"11_1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD": 1,
+		"13_13KqD3BoaRMudEG5QU2fnGLkSVx8qDXKof": 1,
+		"252_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"12_1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD": 1,
+		"16_13KqD3BoaRMudEG5QU2fnGLkSVx8qDXKof": 1,
+		"54_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf": 1,
+		"14_1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD": 1,
+		"12_17i7Y7r8nTaCfLbCAuaKyc4R5BbKZYU2Hr": 1,
+		"84_1KTjPe9MxoYkcXj78GuZgCcj3R3f3Twh7r": 1,
+		"264_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"14_17i7Y7r8nTaCfLbCAuaKyc4R5BbKZYU2Hr": 1,
+		"62_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf": 1,
+		"3_1L8UURA9tgSn2XcRxtpCRJYCQm5S9ELh2Y": 1,
+		"3_167eTX5f6jJt4HPvfQqf2QuwdTFCnxJCf2": 1,
+		"267_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"16_17i7Y7r8nTaCfLbCAuaKyc4R5BbKZYU2Hr": 1,
+		"5_167eTX5f6jJt4HPvfQqf2QuwdTFCnxJCf2": 1,
+		"20_17i7Y7r8nTaCfLbCAuaKyc4R5BbKZYU2Hr": 1,
+		"24_17i7Y7r8nTaCfLbCAuaKyc4R5BbKZYU2Hr": 1,
+		"4_1Q2ioVKj67AbofttLyMavMiq6mK21Qd3GA": 1,
+		"18_1F6BMqittjWUStzUbRXm2kG2GQ3RdBLqFQ": 1,
+		"7_16AFTG7vdicwJbRQpWc2F9BRHTE5MTftE7": 1,
+		"280_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"12_16AFTG7vdicwJbRQpWc2F9BRHTE5MTftE7": 1,
+		"281_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"282_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"283_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"5_12uS7AbHMQEc4YKxoPpASsmDSy6fRtEhrw": 1,
+		"93_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf": 1,
+		"25_16AFTG7vdicwJbRQpWc2F9BRHTE5MTftE7": 1,
+		"2_1G9k1Ti6kSNtYS4nqtTY8nz5SN3VxoVBAb": 1,
+		"296_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"2_1JdKZXpUz9vvevT99mmfTdbs3hjszJzqDX": 1,
+		"17_1KwTTgPRSTHFmmJAFBt6kQfdyNeSM5KJuH": 1,
+		"20_1MmPY9fniJwwhP6WsgH4jWoq5rBAVV6KWy": 1,
+		"300_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"3_1JdKZXpUz9vvevT99mmfTdbs3hjszJzqDX": 1,
+		"2_1FJFF8d4B5LQ9jJinqBRxqCR7RHbHPxBfv": 1,
+		"118_1ED3Ho3kmzaKiECtyuqSjDpoE47rKuXeP": 1,
+		"7_14XxpXNGMLsyeQxikacrbQnAFXVyhN5Ngx": 1,
+		"302_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"79_1QBLGLcgKfcpfLmiDYuDzUKVXFfmTAew55": 1,
+		"307_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"308_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"309_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"24_1KcPohxmuqiNShTaAzJZLndm5aWtBZLuJn": 1,
+		"29_16AFTG7vdicwJbRQpWc2F9BRHTE5MTftE7": 1,
+		"83_1QBLGLcgKfcpfLmiDYuDzUKVXFfmTAew55": 1,
+		"28_16AFTG7vdicwJbRQpWc2F9BRHTE5MTftE7": 1,
+		"1_1Dme3quDw9tNTjMSk6RWcBJqHchi96vi6S": 1,
+		"1_17ezFE1pdnXf9sFsoGvzZqxsZhX6DiQg4J": 1,
+		"7_1HtGfHk2MuqcB5nYXZ6b2NajXJLoxfq7XS": 1,
+		"3_1AtM93MiZPBMR61tKU4nJvQA1x5L7GwdKN": 1,
+		"6_1LUP6SN7WrXAH7e5bUFxdmrVsFr2m43XB4": 1,
+		"7_1LUP6SN7WrXAH7e5bUFxdmrVsFr2m43XB4": 1,
+		"9_1HtGfHk2MuqcB5nYXZ6b2NajXJLoxfq7XS": 1,
+		"8_1LUP6SN7WrXAH7e5bUFxdmrVsFr2m43XB4": 1,
+		"1_16JwmmKbuwEJwQ83q4eaSqkHj47R4rZdtu": 1,
+		"9_1LUP6SN7WrXAH7e5bUFxdmrVsFr2m43XB4": 1,
+		"26_1LUP6SN7WrXAH7e5bUFxdmrVsFr2m43XB4": 1,
+		"31_1LUP6SN7WrXAH7e5bUFxdmrVsFr2m43XB4": 1,
+		"1_14VgzghZFKQt28FF1Ye322pxkxZDpisekU": 1,
+		"32_1LUP6SN7WrXAH7e5bUFxdmrVsFr2m43XB4": 1,
+		"82_1QBLGLcgKfcpfLmiDYuDzUKVXFfmTAew55": 1,
+		"26_1PNyuY1iZqXBpft4ArouqcnE4pNRGYij5i": 1,
+		"43_1F6BMqittjWUStzUbRXm2kG2GQ3RdBLqFQ": 1,
+		"97_1KTjPe9MxoYkcXj78GuZgCcj3R3f3Twh7r": 1,
+		"317_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"53_1F6BMqittjWUStzUbRXm2kG2GQ3RdBLqFQ": 1,
+		"325_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"133_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf": 1,
+		"16_167eTX5f6jJt4HPvfQqf2QuwdTFCnxJCf2": 1,
+		"336_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"38_1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD": 1,
+		"129_1ED3Ho3kmzaKiECtyuqSjDpoE47rKuXeP": 1,
+		"130_1ED3Ho3kmzaKiECtyuqSjDpoE47rKuXeP": 1,
+		"348_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"40_1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD": 1,
+		"103_1QBLGLcgKfcpfLmiDYuDzUKVXFfmTAew55": 1,
+		"98_1QBLGLcgKfcpfLmiDYuDzUKVXFfmTAew55": 1,
+		"26_1KwTTgPRSTHFmmJAFBt6kQfdyNeSM5KJuH": 1,
+		"328_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"349_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"21_1MGse2Xfdae1FkAiGoHzWTeFx4Mo2yEqfH": 1,
+		"40_1KwTTgPRSTHFmmJAFBt6kQfdyNeSM5KJuH": 1,
+		"2_1FieP4c1gxFme5webFJB9x5ZPBXdR6p3Fs": 1,
+		"74_1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD": 1,
+		"7_1FieP4c1gxFme5webFJB9x5ZPBXdR6p3Fs": 1,
+		"114_1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD": 1,
+		"2_1LJP7tDoGnWNppUGJoNS8cJbmYTS1TecCC": 1,
+		"41_1PVcdu7USZH2kHMETbqDYLPjJZKCDWM52k": 1
+	}
+}

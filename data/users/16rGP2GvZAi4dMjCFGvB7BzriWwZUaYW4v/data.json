@@ -1,0 +1,22 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {
+		"5_1PNyuY1iZqXBpft4ArouqcnE4pNRGYij5i": 1
+	},
+	"next_comment_id": 2,
+	"comment": {
+		"2_1KJFB4SEHaHCY11HMKsMGyth1mXKb3R5oY": [
+			{
+				"comment_id": 1,
+				"body": "> [nightenticer](#comment_1_1MhL8nWAcuB5YxbhyYgEHNvsToUtQutRVs): Would someone mind doing a comparison of what we've got so far?  I've seen this one that's linked above, zerosearch, kaffeine, etc and I'm not quite sure which is the best choice to use/recommend.  Appreciate it :D\n\nZeroSearch seems like the one with the most results.  Kaffeine's is a clone of zerosearch with slight changes in the source code and fewer indexed sites, I'm not sure why anyone would prefer it to zerosearch.\n\nBwoi doesn't look like it has been updated in a while, but it does have an original source code. It only has 139 results though, around half as many results as ZeroSearch, and they are all taken from zeroname, so they probably don't have a crawler searching for actual links. ",
+				"added": 1457059545
+			}
+		]
+	},
+	"comment_vote": {
+		"1_16rGP2GvZAi4dMjCFGvB7BzriWwZUaYW4v": 1,
+		"46_1PNyuY1iZqXBpft4ArouqcnE4pNRGYij5i": 1,
+		"45_1PNyuY1iZqXBpft4ArouqcnE4pNRGYij5i": 1
+	}
+}

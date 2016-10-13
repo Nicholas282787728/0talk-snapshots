@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "G7ZZbjAOVWIrZLkBLhQaHIix4JJa9TTRJIS440sodKk/P6lh2XGc7h1jEnuDviIz1KuuDljUbB+HLNqwgvECKEM=",
+ "cert_user_id": "maninthemiddle@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "d8cca0b0c7d95992d25cf98f38f7a030672e372b75ddfbb1e4a2dc1a386a58d7",
+   "size": 162
+  }
+ },
+ "inner_path": "data/users/1kMbaQyfHL5herfTmYxYL5MBL8uHLSzky/content.json",
+ "modified": 1470429096.201478,
+ "signs": {
+  "1kMbaQyfHL5herfTmYxYL5MBL8uHLSzky": "HCY93XpRCJcnmZ/eauF9F/yyEu0CmhFPkitEB8I2CjIC+XG5GnUoFqSQfMEZi94qMWKfFLlVIdsxCXhAWsyANy0="
+ }
+}

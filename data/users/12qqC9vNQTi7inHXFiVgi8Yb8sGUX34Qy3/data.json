@@ -1,0 +1,21 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 3,
+	"comment": {
+		"3_1LPrQCYEyVA3Pz3gEVEf7Qc2z12QGNCSbd": [
+			{
+				"comment_id": 1,
+				"body": "oi",
+				"added": 1457058720
+			},
+			{
+				"comment_id": 2,
+				"body": "hi",
+				"added": 1457059502
+			}
+		]
+	},
+	"comment_vote": {}
+}

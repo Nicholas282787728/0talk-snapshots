@@ -1,0 +1,61 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "fappening's broke!!",
+			"body": "http://127.0.0.1:43110/17mwfT4wY11A1GVznXoZMQEfi9TUijp7k6/\ncan't get anything to work and all it displays are broken images and video frames! \nanyone else having the same problem??",
+			"added": 1473219591
+		}
+	],
+	"topic_vote": {
+		"2_1AZjDLkfYwSmjM7ZJUf7HHnrF778augRMa": 1,
+		"1_18qW7SfkqmkkLvCmWHC5WST5ydzvj4Bmwz": 1,
+		"1_18bQkfM17covYY1Ha8JS6tgKv17bE3fE3v": 1,
+		"19_19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ": 1,
+		"1_1B8TUcKXxx7nTpUwf5B5rXNnNyUpV8SG5V": 1
+	},
+	"next_comment_id": 6,
+	"comment": {
+		"2_1AZjDLkfYwSmjM7ZJUf7HHnrF778augRMa": [
+			{
+				"comment_id": 1,
+				"body": "So do you consider sharing of copyrighted content criminal cuz i see you have conveniently missed that. Zeronet is getting its publicity as an anonymous network for torrent sharing which cannot be censored, which means unstoppable piracy! To be accepting of that but not of other kind of criminal activity hypocritical in nature. I am not suggesting you should be accepting of any kind of criminal activity whatsoever. On the other hand, without the popularity of uncensored p2p sharing, the zeronet wouldn't survive long. Its quite the conundrum!",
+				"added": 1473217671
+			}
+		],
+		"1_18bQkfM17covYY1Ha8JS6tgKv17bE3fE3v": [
+			{
+				"comment_id": 2,
+				"body": "yup, those are about it!",
+				"added": 1473219276
+			}
+		],
+		"1_1CpmRqADyAVneFPpvoUJjhMQpQwLEB3CWE": [
+			{
+				"comment_id": 3,
+				"body": "hacking yes, a few may be, nut market sites haven't found their way yet and i hope they don't cuz i worry about the 0net longevity!!",
+				"added": 1473219357
+			}
+		],
+		"19_19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ": [
+			{
+				"comment_id": 4,
+				"body": "bwoi comes up at quite some places and i dont completely get it!!",
+				"added": 1473219405
+			}
+		],
+		"1_1B8TUcKXxx7nTpUwf5B5rXNnNyUpV8SG5V": [
+			{
+				"comment_id": 5,
+				"body": "> [kaffie](#comment_197_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh): Do you have IPFS set up? It's needed in order to see the stuff.\n\nipfs?? ok, will follow up on that and get bck to u.\nthnx for replying!!\n*EDIT\ninstalled ipfs via command prompt...and now im a bit lost! any suggestion?",
+				"added": 1473247804
+			}
+		]
+	},
+	"comment_vote": {
+		"1_1B8TUcKXxx7nTpUwf5B5rXNnNyUpV8SG5V": 1,
+		"197_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1,
+		"5_1B8TUcKXxx7nTpUwf5B5rXNnNyUpV8SG5V": 1
+	}
+}

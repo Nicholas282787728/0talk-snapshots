@@ -1,0 +1,28 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 4,
+	"comment": {
+		"1_1KSynGkJ19GwKmR8BM2PTqWENa8rQ9vJS7": [
+			{
+				"comment_id": 1,
+				"body": "i want to write somothing as \"Anonymous\" like Frost or 2ch/4chan\ni hate to express my indivisual as Account or ID.it just kills the advantage of Internet.\nZN with I2P+Anonymous Forum which doesnt require register would be the best place to talk something",
+				"added": 1465646531
+			}
+		],
+		"1_1PRsmkcDcCnKbCfFTeQizKYcDpNn98iQcT": [
+			{
+				"comment_id": 2,
+				"body": "2chみたいにTVを実況したいんだけどID非表示のBBSって作れないんだろうか\n匿名ネットワークで強制コテハンとかどんな苦行だ",
+				"added": 1466244157
+			},
+			{
+				"comment_id": 3,
+				"body": "> [kuroto](#comment_8_1HiYg779FznW6G8fWqAGL5iGvRmExfSasX): やっほ＾＾切り替え出来るのはあるけど今の所完全匿名は無理っぽいかな？http://127.0.0.1:43110/1JStzUwCtg2uU6NeuwyTbuUqwGwDZH5HG7/今後開発が進めばそういうサイトも作れるようになるかもね\n\nはい！やはりそうでしたか！\nP2Pで落ちない+名無しの掲示板なら、新月で良い気がしてきた・・・",
+				"added": 1466779702
+			}
+		]
+	},
+	"comment_vote": {}
+}

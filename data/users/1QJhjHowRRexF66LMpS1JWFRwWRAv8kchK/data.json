@@ -1,0 +1,18 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {
+		"2_1GkoHb4XqFDbLnxzrZxSzJK7dqnxmGyBRP": 1
+	},
+	"next_comment_id": 2,
+	"comment": {
+		"2_1GkoHb4XqFDbLnxzrZxSzJK7dqnxmGyBRP": [
+			{
+				"comment_id": 1,
+				"body": "The order of the comments seems strange to me.",
+				"added": 1468763529
+			}
+		]
+	},
+	"comment_vote": {}
+}

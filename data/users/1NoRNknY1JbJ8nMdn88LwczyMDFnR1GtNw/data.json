@@ -1,0 +1,217 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {
+		"4261_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG": 1,
+		"1_1FLf4EythVqZASkMdARs4DXdHeugh3USYq": 1,
+		"4_1KcPohxmuqiNShTaAzJZLndm5aWtBZLuJn": 1
+	},
+	"next_comment_id": 32,
+	"comment": {
+		"2_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": [
+			{
+				"comment_id": 1,
+				"body": "Interdasting.",
+				"added": 1456758203
+			},
+			{
+				"comment_id": 22,
+				"body": "> [nab](#comment_5_1KVbKJBqXdkUr4ogZGJEjDFsm2y9vtX8Bj): p0rn everywhere http://127.0.0.1:43110/1ncstE9VqyEpCUGxjBnr1q4SWxMA1fnBz\n\nSpam everywhere.",
+				"added": 1457112631
+			},
+			{
+				"comment_id": 30,
+				"body": "> [sin](#comment_4_1P97itWECWCYp7D73wY4GaTKUyUo4A3Pcf): cant seem to import user.json into a new machine...\n\nThe file name is user**s**.json, not user.json.",
+				"added": 1457229914
+			}
+		],
+		"1_1EUyJtat7mbu5wMcR6nrJTPBBRons1mtMA": [
+			{
+				"comment_id": 2,
+				"body": "> [zunon](#comment_3_1B3Qp9qTd3Yw6iYbwdu3ay9Q4hvV9cbtyx): And how do I do that?\n\nBy actually reading the blog entry he just posted. ;)",
+				"added": 1456920922
+			}
+		],
+		"1_15zfQw1PPLNRYGUtuzTj1LN5hX6K24rUnY": [
+			{
+				"comment_id": 3,
+				"body": "> [marios](#comment_1_1g3tW3PAvjMkCb9hKx5fDQcSrN1ViNDme): I installed NMC-QT yesterday and this morning I got the whole blockchain downloaded which allowed me to register the domain using a few coins I got while merge-mining BTC. It's alot cheaper to do it this way. but I'm not sure how to proceed now, in associating the domain with my site.\n\nSee http://127.0.0.1:43110/1Ajp75FXAxdTzRiRTpdBgd4exvbo4gMW12/?Post:2:Free+.bit+Domains+for+ZeroNet+Sites",
+				"added": 1456934730
+			},
+			{
+				"comment_id": 14,
+				"body": "> [teddydd](#comment_4_1GNdkBSxTw6SpRdGHxDCyfANXnwi7FG7rJ): I wonder if there is any other way to create decentralized dns stuff like namecoin but without enormous bulky blockchain :O\n\nThe Ethereum devs (who are backed by partners such as Microsoft and big banks) are working hard on the monolithic blockchain problem, and they're not the only ones. This problem is the bleeding edge of current computer science research, so it could be a while before a real solution emerges. Until then we'll have to settle for kludgy workarounds.",
+				"added": 1457006006
+			}
+		],
+		"1_1JU8zQ7nZGRU2HvXxrSM9S341gufgzvwtt": [
+			{
+				"comment_id": 4,
+				"body": "Why does it need to be in PHP? It's a terrible outdated platform for development of modern websites and web apps.",
+				"added": 1457000019
+			}
+		],
+		"1_1JHQA9oFkFpFFRiscyT4N71AKLWg46pQ92": [
+			{
+				"comment_id": 5,
+				"body": "Sounds like you accidentally downloaded the Windows bundle.",
+				"added": 1457000714
+			}
+		],
+		"1_1GCsW9TFfjDsvcdmKPADq1n8Q3ha72UtDQ": [
+			{
+				"comment_id": 6,
+				"body": "> [dafleroh](#comment_5_19KtmLJftUcLg5ZtwmAfe616J2vp6iJBHU): Ugh, its so trivial. I do not think there is a right answer, its speculative. If I create and upload a market platform with no visible intent for illegal use, can I still get in trouble? All I did was create a market source code, I do not host or maintain it. I just threw it out and let people do what they want with it. You cannot be prosecuted. Especially if the owner \"throws away\" the key to edit the site. Now, you could say that those hosting are responsible, but that's not realistically prosecutable. As I said, I think this is so out-there we will have to wait and see what happens.. I hope the platform catches on, though.\n\nNo civilized country allows its citizens to escape responsibility for their actions. Clever technologies (or in the case of Wall Street, clever financial instruments) can't magically make liability disappear; courts will view that as a deceptive shell game. If something is judged to have caused harm, they will eventually trace it back to its principal agent.",
+				"added": 1457001700
+			}
+		],
+		"2_15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ": [
+			{
+				"comment_id": 7,
+				"body": "So far I've only seen two gateways:\n* http://bit.no.com:43110/\n* http://zero.pags.to:43110/",
+				"added": 1457002973
+			},
+			{
+				"comment_id": 8,
+				"body": "> [kaffie](#comment_26_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh): There's also http://zeronet.crypt.cat:8080/\n\nAh cool. But sadly that makes three gateways without HTTPS.",
+				"added": 1457003513
+			}
+		],
+		"2_1GCMDNMgJHvZJfdbD9ygDmpBdnVAobdJYg": [
+			{
+				"comment_id": 9,
+				"body": "On ZeroNet you're using everyone else's resources to host your site, so you don't need revenue. ;)",
+				"added": 1457003618
+			},
+			{
+				"comment_id": 10,
+				"body": "Well since ZeroNet inverts the resource model, services built on it may follow suit. I see ZeroNet as an ideal platform for independent and crowdsourced content in a way that the centralized Web could never get quite right. Continuing ZeroNet design should run with that; revenue-generating should be a secondary consideration at best. We might see the rise of a Web closer to the one originally envisioned by Tim Berners-Lee, rather than the commercially-dominated horrorshow the Web is now.",
+				"added": 1457004159
+			},
+			{
+				"comment_id": 11,
+				"body": "> [kaffie](#comment_27_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh): giant bandwidth hogging corporate sites\n\n^^ This. It's the never-ending need for revenue that has driven the average size of a web page into the *megabytes*. If current trends continue I wouldn't be surprised if ten years from now sites like New York Times approaches a gigabyte per page, most of it ad tech.",
+				"added": 1457004707
+			},
+			{
+				"comment_id": 12,
+				"body": "> [cannonfodder](#comment_8_1GCMDNMgJHvZJfdbD9ygDmpBdnVAobdJYg): That's how the web started too - I was there. Eventually ads will come if there's nothing else available and that's what I'd like to avoid.\n\nI was also there in the beginning. Web advertising wasn't introduced out of necessity, it opportunistically grew out of web rings. Web rings were meant as a solution to the discoverability problem at the time -- i.e. the non-existence of indexing/search sites like Yahoo and Google. Some people saw profit potential in web ring banners and began trying to monetize eyeballs. Then ISPs stopped offering free web hosting with their basic Internet service, forcing people to either start paying for dedicated web hosts, or go to sponsored sites like AngelFire and GeoCities, who injected ads into every page.",
+				"added": 1457005096
+			}
+		],
+		"1_1PeCNnnCzJoLGn8bfcAUsWydeiERdHwdLu": [
+			{
+				"comment_id": 13,
+				"body": "\\*Ahem\\* http://127.0.0.1:43110/Talk.ZeroNetwork.bit/?Topic:2_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj/Test+messages",
+				"added": 1457005619
+			},
+			{
+				"comment_id": 15,
+				"body": "Weird. That was happening with a different post yesterday.",
+				"added": 1457006121
+			},
+			{
+				"comment_id": 16,
+				"body": "> [nofish](#comment_390_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): The poster computer's time is out of sync. There is no central server in ZeroNet, so nobody can tell whats the time really is.\n\nNext project: ZeroNTP? ;)",
+				"added": 1457006924
+			},
+			{
+				"comment_id": 17,
+				"body": "> [nofish](#comment_391_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): I think the best way to solve this problem would be: when you connect the network your client queries the current time from some random peers and if his/her time is out of sync display a big, red warning message.\n\nSeems like a temporary solution at best, since many people are going to ignore messages urging manual intervention, like they've always ignored warning dialogs in Windows.\n\nI haven't used it in many years so I don't recall the details, but I2P had a similar problem with asynchronous peers and they managed to fix it somehow.",
+				"added": 1457007460
+			},
+			{
+				"comment_id": 18,
+				"body": "> [nofish](#comment_392_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): It's possible to deny creating new posts until the client does not set the computer time corrently. I think this is not too much to ask...\n\nYeah now that I think about it I believe I2P ended up making peers completely reject connections from any peer that reported local time with a significant clock skew (greater than tens of milliseconds IIRC) and that skewed peer's operator was *forced* to correct it, otherwise they couldn't connect to the network at all.",
+				"added": 1457008224
+			},
+			{
+				"comment_id": 19,
+				"body": "Reporting time does open a new possibility for peer fingerprinting however.",
+				"added": 1457008425
+			},
+			{
+				"comment_id": 20,
+				"body": "> [ekaterina](#comment_66_1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD): Hmm it could randomly add a few milliseconds, it doesn't have to be THAT exact, right? It just needs to prevent people from having their clock set wrong by hours.\n\nYeah I imagine that for most ZeroNet purposes even a couple of *seconds* might be tolerable. Packet routing schemes like I2P's required much tighter tolerances.",
+				"added": 1457009247
+			}
+		],
+		"3_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": [
+			{
+				"comment_id": 21,
+				"body": "Works for me. Tried clearing browser cache?",
+				"added": 1457009511
+			}
+		],
+		"3_1MEWJRMLgvofqG9Mbsb2Rc4hFFyv7HeRx7": [
+			{
+				"comment_id": 23,
+				"body": "CactusVPN isn't a ZeroNet proxy (gateway), it's just a plain VPN.",
+				"added": 1457113440
+			}
+		],
+		"2_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": [
+			{
+				"comment_id": 24,
+				"body": "> [theta](#comment_14_15ymkjUYJS6tjUC35AekGMExZMN6iks8ma): I have the same problem and I'm running on OS X El Capitan.It seems like \"ulimit -n\" is not enough, do one have to change in some other config-file as well?\n\nSomeone got it working in Yosemite, maybe it works for El Capitan:\n\nhttps://unix.stackexchange.com/questions/176671/how-to-persist-ulimit-settings-in-osx-yosemite?lq=1",
+				"added": 1457141053
+			}
+		],
+		"1_19y2tY5XJRD3YqFYn9vVgsq74nWBTPUcgv": [
+			{
+				"comment_id": 25,
+				"body": "> [rodomonte](#comment_2_16mDUfWBq5wXi3XtCTKivQfEjEx6dFwujx): thanks, where I can read the use of every file?\n> cert-rsa.pemkey-rsa.pemsites.jsonusers.json\n\nYour ID is stored in `data/users.json` and the sites you are seeding are in `data/sites.json`. The `*.pem` files are newly generated every time you start ZeroNet.",
+				"added": 1457207835
+			},
+			{
+				"comment_id": 26,
+				"body": "To enable multiple user accounts look in your `plugins` directory and rename the directory `disabled-Multiuser` to `Multiuser`. You probably have to restart ZeroNet for it to load the newly-enabled plugin.",
+				"added": 1457208006
+			}
+		],
+		"2_1BY3fbfkw2w8oDtpbjbEQQbpmNzrWL4BqN": [
+			{
+				"comment_id": 27,
+				"body": "Have you seen how this site handles large videos? http://127.0.0.1:43110/zerovid.bit",
+				"added": 1457208303
+			}
+		],
+		"2_1DcDDitsjFJohvwonPmpibRChmA7uGxqL7": [
+			{
+				"comment_id": 28,
+				"body": "See my post in this thread: http://127.0.0.1:43110/Talk.ZeroNetwork.bit/?Topic:1_19y2tY5XJRD3YqFYn9vVgsq74nWBTPUcgv/How+can+I+make+a+new+ZeroID",
+				"added": 1457209356
+			}
+		],
+		"1_18SV5U2zbB3EjxYCBTQzwakTKRjf81AfPQ": [
+			{
+				"comment_id": 29,
+				"body": "> [request](#comment_23_137djEARJUyNEcwPXwXR7F7nwMAw8un5tJ): THE MEANING OF HUMAN LIFE OF PEOPLE\n> https://2ch.hk/fag/src/1773785/14569404642130.jpg\n> When I'm not calculates PROTEINS death came to GrandpaWhen I'm not calculates PROTEINS death came to her grandmother.When I'm not calculates PROTEINS death came to his parents.When I'm not calculates PROTEINS death came to the best of friends.When I'm not I calculate PROTEINS death came to my girlfriend, because the disease were stronger than her mind and body.But when no one left to be calculated protein - And death came to me.\n> BOINC / ROSETTA HOME\n\nKill yourself spamfaggot.",
+				"added": 1457209540
+			}
+		],
+		"6_17fgJ3tZjhM7HCkTkd5TWf2BLLWmhRKcXB": [
+			{
+				"comment_id": 31,
+				"body": "> [authhh](#comment_4_1H3Sa4xyMVGuVEsKraM6qLAL1y8dmLANeg): When I'm not calculates PROTEINS death came to Grandpa When I'm not calculates PROTEINS death came to her grandmother. When I'm not calculates PROTEINS death came to his parents. When I'm not calculates PROTEINS death came to the best of friends. When I'm not I calculate PROTEINS death came to my girlfriend, because the disease were stronger than her mind and body. But when no one left to be calculated protein - And death came to me. BOINC / ROSETTA HOME\n\nNot this shit again. Take your meds.",
+				"added": 1457317400
+			}
+		]
+	},
+	"comment_vote": {
+		"47_1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD": 1,
+		"60_1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD": 1,
+		"26_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1,
+		"388_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"27_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1,
+		"13_1HwYER58xAxchBDL6WKRqKuPZzmwSvMwjY": 1,
+		"50_17i7Y7r8nTaCfLbCAuaKyc4R5BbKZYU2Hr": 1,
+		"428_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"437_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"25_17fgJ3tZjhM7HCkTkd5TWf2BLLWmhRKcXB": 1,
+		"12_1LPrQCYEyVA3Pz3gEVEf7Qc2z12QGNCSbd": 1,
+		"52_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1,
+		"424_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"3_16k9pNCerEdsZvWU82HMesThKFo9fofRfz": 1
+	}
+}

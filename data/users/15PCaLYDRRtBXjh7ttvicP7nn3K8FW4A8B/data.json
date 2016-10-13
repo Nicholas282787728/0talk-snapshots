@@ -1,0 +1,19 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 2,
+	"comment": {
+		"1_1DcE9QfZbfLZhXxgtQ8Ui3oMZvs9NVjqZB": [
+			{
+				"comment_id": 1,
+				"body": "Over here in America, they're cheaper, but you can't poop in the streets, sad to say, Apu.",
+				"added": 1472962228
+			}
+		]
+	},
+	"comment_vote": {
+		"2_19Z54XRjKd3f3MNHWyWacypF137P7HUcAq": 1,
+		"1_1JFfyAT1DysW4LbK6WRd2szDoPjWgb22NT": 1
+	}
+}

@@ -1,0 +1,20 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {
+		"8_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1
+	},
+	"next_comment_id": 2,
+	"comment": {
+		"1_1NNECDmooAnYQUPpAwiqVmzmsbAELYhQTN": [
+			{
+				"comment_id": 1,
+				"body": "Can I ask for a newer trojan please? These are so last month...",
+				"added": 1464677865
+			}
+		]
+	},
+	"comment_vote": {
+		"1_1NXeW8iaM6gqKJfP7WbBmHGrgSPNKZaftc": 1
+	}
+}

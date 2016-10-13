@@ -1,0 +1,30 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "Text decoration and links",
+			"body": "hi guys,\n\nhow to insert html code while texting?\n\nin some foruns and sites u can replace a link by text using [url=link]link name[/url] or by other way\n\nsomeone can tell me how to do it or if i have to talk to the zite's owner?",
+			"added": 1471859174
+		}
+	],
+	"topic_vote": {
+		"8_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1
+	},
+	"next_comment_id": 3,
+	"comment": {
+		"1_15JuC9Nz1ua8s7M7tUemvJN1r6NZhffCVq": [
+			{
+				"comment_id": 1,
+				"body": "thx bro u saved me\nu know if not exist really anny way to insert a break line?\ni have tried by many ways but just can do a break line using characters like this:\n.\nwithout the point this line will necklace whit the one above, even me having inserted a blanck enter\ncan u help me?",
+				"added": 1471902590
+			},
+			{
+				"comment_id": 2,
+				"body": "> [shellbound](#comment_5_1H1SHzxnPJS3hBbKvfXLqf4QJnXEUgaVe9): You mean like this...\n> ...it is with shift+enter\n\nthx this is more one for my bundle about text decoration\n\ni can se that this works well in coments, but doesn't work in the text of a topic u have created\n\nthat was actually my problem, a topic that i have created but it loocks very bad if u don't use empty line breaks\n\nI have used . instead in any empty line to solve this problem temporarily\n\ni am guessing that i have to talk to the zite owner to change the html code on that topic and by that way insert line breaks...",
+				"added": 1471912668
+			}
+		]
+	},
+	"comment_vote": {}
+}

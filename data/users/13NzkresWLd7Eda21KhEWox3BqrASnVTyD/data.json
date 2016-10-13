@@ -1,0 +1,30 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "XSS on ZeroNet",
+			"body": "There is a small XSS on the ZeroNet.\nFor example, if you go to http://127.0.0.1:43110/%3Cdiv%20style=%22color:pink;zoom:20;background:black;%22%3EFOO%3C/div%3E\nYou could see that the / path is \"vulnerable\" to XSS injection.\nNothing bad however :-)",
+			"added": 1456870174
+		}
+	],
+	"topic_vote": {},
+	"next_comment_id": 3,
+	"comment": {
+		"14_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf": [
+			{
+				"comment_id": 1,
+				"body": "TorrentFreak too",
+				"added": 1456870225
+			}
+		],
+		"1_13NzkresWLd7Eda21KhEWox3BqrASnVTyD": [
+			{
+				"comment_id": 2,
+				"body": "> [nofish](#comment_364_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): Thanks for reporting, pushed a quickfix for it: https://github.com/HelloZeroNet/ZeroNet/commit/5b59da2435691f6859e8942e3365ce402893dc0f\n> You can update your client using ⋮ > Update ZeroNet on ZeroHello\n\nGreat job !",
+				"added": 1456871004
+			}
+		]
+	},
+	"comment_vote": {}
+}

@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HBP49015PT3b/sNe/nJ1kfWyJbWUsitIUtS2egrmTCL5jJTx5I38d7075UoniUwJfMmu4pyjM1iQkHn8wpQU5M4=",
+ "cert_user_id": "futagal@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "51f31086f82540c6f47c5f4c2560ec8d5a8992d40013accdf9bb337658fad75e",
+   "size": 638
+  }
+ },
+ "inner_path": "data/users/1HbzrGMAYhdQzk1Cg3Xk4XVVjtxGHrRqz6/content.json",
+ "modified": 1473025205.851457,
+ "signs": {
+  "1HbzrGMAYhdQzk1Cg3Xk4XVVjtxGHrRqz6": "HHL2WWp2XqcBEZpa1bjfaGzHaT23qNo99X5P9Tw2GUVUECu2slAF3llCWOLZ2Mje3c0oGRUh5uhyuK8jh7JeaFA="
+ }
+}

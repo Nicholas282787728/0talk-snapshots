@@ -1,0 +1,25 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 3,
+	"comment": {
+		"1_1DBjD2Xf1DymmjxEi5K7aeoaRByAAXBvFW": [
+			{
+				"comment_id": 1,
+				"body": "Upvotes and downvotes are just data.  If ZeroTalk were a merged-type site, someone could extend the display so that users could make use of this data in a way that they find beneficial.  For example, it could be set up so that a user could ignore all votes outside of a circle of other users that they designate.  I don't care about posts that are popular with the whole community, but I do care about posts that are popular with people I find interesting.",
+				"added": 1473092133
+			}
+		],
+		"1_1MxinCGP4R54Rxxmig41K132aGrUJgwq4A": [
+			{
+				"comment_id": 2,
+				"body": "In many cases the scraping may be the difficult part.  Has anyone reached out to popular sites to ask them if they would be interested in having a mirror on ZeroNet?",
+				"added": 1473092311
+			}
+		]
+	},
+	"comment_vote": {
+		"22_1AdcxsExVKvxffQtEd72E5tckouzZHLEYC": 1
+	}
+}

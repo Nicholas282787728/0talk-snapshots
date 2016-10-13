@@ -1,0 +1,36 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {
+		"1_1FHS5V4FmPFyJQspXVNB3gDVPd3JyjHCv7": 1,
+		"6_1KTjPe9MxoYkcXj78GuZgCcj3R3f3Twh7r": 1,
+		"1_13mo1yoMZChmHAQqBibQyZ2nVknWf9sKHS": 1
+	},
+	"next_comment_id": 4,
+	"comment": {
+		"1_1FHS5V4FmPFyJQspXVNB3gDVPd3JyjHCv7": [
+			{
+				"comment_id": 1,
+				"body": "Hola a todos uno mas por acá, paso para aprender sobre el funcionamiento en general de ZeroNet. Por cierto, dejo el link de mi Blog:\n\n~~La página ya no existe, disculpen~~\n\n¡Saludos!",
+				"added": 1450692381
+			},
+			{
+				"comment_id": 2,
+				"body": "Lo siento tuve un problema con esa página: Les dejo el link al nuevo blog. Un saludo:\n\nhttp://127.0.0.1:43110/125XDCqa8KRMhcZxr4FH7E7g7ZZNiBucVv",
+				"added": 1450935061
+			},
+			{
+				"comment_id": 3,
+				"body": "He subido un post a mi blog probando la posibilidad de insertar vídeo a la pagina sin provocar que se descarguen mas datos de los necesarios, y que no cuenten dentro del limite que pone ZeroNet para cada pagina, y lo mejor sin tener que usar Webtorrent: \n\nhttp://127.0.0.1:43110/125XDCqa8KRMhcZxr4FH7E7g7ZZNiBucVv/?Post:7:Probando+cargar+v%C3%ADdeo+desde+un+sitio+externo",
+				"added": 1453181914
+			}
+		]
+	},
+	"comment_vote": {
+		"14_15QGRquMETTn5LnCHjTm1qa9eaXGtq7gpT": 1,
+		"2_1EZG8eDkCFvNkYxpHmr2WbGWcSxAsRfqTT": 1,
+		"1_1EZG8eDkCFvNkYxpHmr2WbGWcSxAsRfqTT": 1,
+		"71_1ED3Ho3kmzaKiECtyuqSjDpoE47rKuXeP": 1,
+		"11_1LWuc6JBhUGrKEAh1aPrPU85dEMcKmg3pS": 1
+	}
+}

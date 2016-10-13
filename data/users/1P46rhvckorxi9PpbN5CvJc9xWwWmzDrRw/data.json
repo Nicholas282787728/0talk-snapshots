@@ -1,0 +1,52 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {
+		"3_17fgJ3tZjhM7HCkTkd5TWf2BLLWmhRKcXB": 1,
+		"1_1D7uESYtAKV36MVPGJZXuE7LUKbLwfo4dX": 1,
+		"1_1FbEENPR12D1yfqWWszQfNgb1Tu5TecMFV": 1,
+		"1_17oYQdLkvyzEVPH3hXRtK3ru4FLNKZUD3b": 1
+	},
+	"next_comment_id": 6,
+	"comment": {
+		"1_1FbEENPR12D1yfqWWszQfNgb1Tu5TecMFV": [
+			{
+				"comment_id": 1,
+				"body": "> [bobses](#comment_1_1B2EAgvoxxBcriLxnNXXuJsboE7FbCxtmp): SalutPrimesc o eroare când încerc să rulez ZeroNet cu tor. Am descris-o aici: http://127.0.0.1:43110/Talk.ZeroNetwork.bit/?Topic:1_1B2EAgvoxxBcriLxnNXXuJsboE7FbCxtmp/Tor+error+TorManager+Tor+addOnion+error+510+Unrecognized+command+ADD+ONION\n> Are cineva vreo idee?\n\nPare o problema similara.\nhttp://tor.stackexchange.com/questions/9352/is-add-onion-control-command-implemented-in-the-latest-stable-release\n\nAccording to the line 1405 from control-spec.txt, it's present since Tor 0.2.7.1-alpha. Current Tor Browser Bundle (version 5.0.6) use Tor 0.2.7.6, which is a stable one. ADD_ONION should be implemented.",
+				"added": 1457103467
+			},
+			{
+				"comment_id": 3,
+				"body": "> [dadix](#comment_5_1BEvmD7jRfwieXU5H3o1rCT35Y3VV1p9TW): eu nu am , parca as face unul despre videoproiectoare  dar am asa o lene   ...\n> edit:  am clonat un site, am scris vreo 3 randuri , acum vreau sa-l sterg dar nu stiu cum. Ma gandeam sa fac cevagen forum dar nu mi-a reusit. :) Poate candva o sa fie vreun buton si dintr-un click o sa putem instala ceva gen mybb, asa ca pe siteurile de hosting.\n\nhttp://i.imgur.com/drzEnVk.png\nNu merge din meniu sa ii dai delete ?",
+				"added": 1457157139
+			}
+		],
+		"1_1P97itWECWCYp7D73wY4GaTKUyUo4A3Pcf": [
+			{
+				"comment_id": 2,
+				"body": "On Windows or Linux ?",
+				"added": 1457104834
+			}
+		],
+		"1_1D7uESYtAKV36MVPGJZXuE7LUKbLwfo4dX": [
+			{
+				"comment_id": 4,
+				"body": "In zim-wiki there's a git plugin to track your editing revisions and you could roll-back to a certain time period. The revisions are stored locally in your .git folder and you have pace of mind that your notes are safe.\nAn owner can delete his site but if a user needs a local backup he could use a similar method to \"roll-back\" to a previous state.\nOr, since zeronet already has the clone feature a \"clone and keep in sync\" could work. Then the user would have a copy and can publish it later on.\nOr, having 2 owners of a site. To be removed there would need to be a consensus. The two or more owners would have to agree by signing with their keys for the site to be removed.",
+				"added": 1457158952
+			}
+		],
+		"1_154jAWx5PDRmvF4txGHo4Edw1BpduhDyvw": [
+			{
+				"comment_id": 5,
+				"body": "Well if you know of a .bit address you can use this for instance.\nhttp://bit.no.com/\n\nfound it on reddit today \nhttps://www.reddit.com/r/privacyRUS/comments/48zzpw/bitnocom_namecoin_web_proxy_access_namecoin_bit/",
+				"added": 1457159332
+			}
+		]
+	},
+	"comment_vote": {
+		"419_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"27_17fgJ3tZjhM7HCkTkd5TWf2BLLWmhRKcXB": 1,
+		"26_1NoRNknY1JbJ8nMdn88LwczyMDFnR1GtNw": 1,
+		"3_1GMzLzPEKAVEt1X9Z3C2VTbWBLDVyX74Bn": 1
+	}
+}

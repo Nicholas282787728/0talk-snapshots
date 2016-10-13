@@ -1,0 +1,40 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "Is sand really such a resource?",
+			"body": "https://www.youtube.com/watch?v=nu6zLNpGUG0",
+			"added": 1468236426
+		}
+	],
+	"topic_vote": {
+		"24_1CMYxdit4qq9QGk9DYRu2ruRPd2YDGckH8": 1,
+		"1_1BtftbazUXD1kMZAnbK21SMFz6BfZwWbaB": 1
+	},
+	"next_comment_id": 4,
+	"comment": {
+		"13_1CMjV2r4EBpFt8VCcWWZKDysZXPcPExRNN": [
+			{
+				"comment_id": 1,
+				"body": "Hello,\n\nI'm pretty new to zeronet but are a long time Linux user. Can you tell me if you ran the zeronet using sudo permissions? E.g. \"sudo ./ZeroNet.sh\" ?\n\nCheers",
+				"added": 1468556668
+			}
+		],
+		"24_1CMYxdit4qq9QGk9DYRu2ruRPd2YDGckH8": [
+			{
+				"comment_id": 2,
+				"body": "Are there any Turkish people around on ZeroNet?",
+				"added": 1468646739
+			}
+		],
+		"2_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": [
+			{
+				"comment_id": 3,
+				"body": "zxzxzx",
+				"added": 1468657313
+			}
+		]
+	},
+	"comment_vote": {}
+}

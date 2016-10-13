@@ -1,0 +1,16 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 2,
+	"comment": {
+		"2_1Frg5nFndHFkmUaaGK7Qr46dRLX8a2BhBT": [
+			{
+				"comment_id": 1,
+				"body": "o/",
+				"added": 1460550623
+			}
+		]
+	},
+	"comment_vote": {}
+}

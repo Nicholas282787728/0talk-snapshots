@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "bitmsg",
+ "cert_sign": "HIQPNGi9HE9uERzhBJQ2YhfLkMAcR2yuqauUCHNRv2IsdSgtxEKbXi85a7R/2hkVQhSFDq17WexU29xDgBCA+eE=",
+ "cert_user_id": "tiger@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "b2b401a660f271d478b90a50268cc00d6efb96dd2bc971e600d30b02b3193606",
+   "size": 3907
+  }
+ },
+ "inner_path": "data/users/1HDGK4rrMzuouF8hNnxfMNpWyR8qAtP4HR/content.json",
+ "modified": 1468058706.293,
+ "signs": {
+  "1HDGK4rrMzuouF8hNnxfMNpWyR8qAtP4HR": "HJDz9meEqNZ/wg79vNi0gJNUnuGLsfYrqh82+5uu7WUlQkvnrE9ZfB5mKzdw4L4c1ooCw7sANRG22HxC7FtW1wM="
+ }
+}

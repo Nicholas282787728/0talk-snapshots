@@ -1,0 +1,30 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {
+		"1_1KCg4tQ1dBRfMWZ8ptrqXSSUKKR11rYb6P": 1,
+		"7_19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ": 1,
+		"4_1BFTNXtYQDMCurqyg45KLmsV6oJD7bQSsH": 1
+	},
+	"next_comment_id": 5,
+	"comment": {
+		"7_19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ": [
+			{
+				"comment_id": 2,
+				"body": "> [genericusername](#comment_7_14ng1wByxwoNXAhihYbpgyarVJbFiqs8ny): Site admin here; There's still a lot of work to be done before we can get something that's really usable and anywhere near as good as what KickAssTorrents was. Any developers can grab the source code from Gitlab.\n> Everyone else I'd be happy to answer any questions or concerns. You can also mail me here as well if you'd like.\n> Mainly I'm interested in the sort of things you'd like to see from a torrent site on ZeroNet and what should and should not be included.\n\n\nIs there anything we as a community can do to contribute to this project? Don't have any experience coding but I'd love to help somehow.",
+				"added": 1470674186
+			},
+			{
+				"comment_id": 3,
+				"body": "> [genericusername](#comment_7_14ng1wByxwoNXAhihYbpgyarVJbFiqs8ny): Site admin here; There's still a lot of work to be done before we can get something that's really usable and anywhere near as good as what KickAssTorrents was. Any developers can grab the source code from Gitlab.\n> Everyone else I'd be happy to answer any questions or concerns. You can also mail me here as well if you'd like.\n> Mainly I'm interested in the sort of things you'd like to see from a torrent site on ZeroNet and what should and should not be included.\n\nPS I would also prioritize the forums. Not only would you create a corner for people who used to visit KAT, it would also create a place for people to discuss developing the actual site itself further.",
+				"added": 1470674624
+			},
+			{
+				"comment_id": 4,
+				"body": "> [genericusername](#comment_13_14ng1wByxwoNXAhihYbpgyarVJbFiqs8ny): I basically need help deciding what features to implement and not implement. I'm still not 100% sure if it's going to be possible to make a 1:1 clone of Kat but we shall see ;)\n> It would also be good if bugs could be reported, although right now that's pretty much pointless since plenty of things are broken and I know it (and am working to fix it as fast as possible) :P\n\nOh yeah I forgot. I don't think it HAS to be a 1:1 clone at all. If it represents more or less the same functionality as the old KAT people would already be very happy I think. Making it look like the old KAT will help cater to the old KAT users but you can make it at least a little bit your own if you put all the effort in.",
+				"added": 1470675435
+			}
+		]
+	},
+	"comment_vote": {}
+}

@@ -1,0 +1,23 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 2,
+	"comment": {
+		"2_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": [
+			{
+				"comment_id": 1,
+				"body": "Hello ZeroNet!",
+				"added": 1471396045
+			}
+		]
+	},
+	"comment_vote": {
+		"11_1LJLVfT9hKRuTHzBKTpse57PGfpwx82myR": 1,
+		"7_1bnmc9XsY2kyqwqjKmpWyBDbwyniqRzy1": 1,
+		"1_1FPzL4N6zBuQg72JRKx6f2XqxKMeQwXXn": 1,
+		"13_1M4Ab8CUu3byziHVvNXLHmPezC4Lg9hvNJ": 1,
+		"34_1CTut2qbaj54ZjNoYeuWSGwV75iVieKY6N": 1,
+		"1_144rnbvMQrD7jVt8CUNaXrjqYHsVAWfmpK": 1
+	}
+}

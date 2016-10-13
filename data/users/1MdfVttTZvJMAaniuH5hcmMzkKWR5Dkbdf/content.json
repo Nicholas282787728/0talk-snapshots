@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "G6gHUMYcwPkUinOD5URofnWHw3Qvislppkdhy70XOU+yWVj5CULTTtalIUSFBw41HsXmtS6NkVNA2DhphIROmqU=",
+ "cert_user_id": "eggcooker@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "62bab4482756e1dcfe423ca41f42941b4212b56009d97b433a2ead1d05c9f0bd",
+   "size": 313
+  }
+ },
+ "inner_path": "data/users/1MdfVttTZvJMAaniuH5hcmMzkKWR5Dkbdf/content.json",
+ "modified": 1458013855.095,
+ "signs": {
+  "1MdfVttTZvJMAaniuH5hcmMzkKWR5Dkbdf": "HCG3ngN51D2HFxW9PILJJcgKW3sLlMKf6VJZ3XbSvbJIkATC9tXGqkNBHUxpSNYEAZmRC4Td7UN8tcXL7iHjpd8="
+ }
+}

@@ -1,0 +1,143 @@
+{
+	"next_topic_id": 3,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "Accessing ZeroNet from another device?",
+			"body": "I thought it would be cool to open up ZeroNet on another device on my network (in this case an iPad) other than the device where I have ZeroNet running. Unfortunately the connection was refused. I have the port opened on my router and double checked to make sure I had the right network IP, etc. Has anyone been able to make this work? Is it just not a thing that's possible yet, or am I doing something wrong?",
+			"added": 1456930058
+		},
+		{
+			"topic_id": 2,
+			"title": "Newsfeed integration?",
+			"body": "I am working on a new site and I want to allow users to subscribe to it in their newsfeed. I've searched the ZeroNet docs and can't find anything on the topic, and the daunting task of analyzing ZeroBlog's use of the feature has defeated me. Can someone point me in the right direction?",
+			"added": 1457878597
+		}
+	],
+	"topic_vote": {
+		"1_1DfkDpkeDXGbHJ2ZT31DPvYr5xR59Jr8BA": 1
+	},
+	"next_comment_id": 18,
+	"comment": {
+		"1_14TaqTfnP3spTKup7oay3T6EnKArDnijDG": [
+			{
+				"comment_id": 1,
+				"body": "Not a trojan since you launched it on purpose and can shut it down whenever you want.\n\nEither exit via the triple-dot button on ZeroHello > Shut down ZeroNet, or close the terminal window or command prompt or kill Python.",
+				"added": 1456930159
+			}
+		],
+		"5_1FzQ2ZsCgLRL4PTqPKtomrzSpKLTuNRXRo": [
+			{
+				"comment_id": 2,
+				"body": "Because bit.no.com is someone else's project. It's not the same thing as running it on your own computer. The purpose of ZeroNet is to be decentralized, but if bit.no.com is taken down then there's your single point of failure.",
+				"added": 1456930295
+			}
+		],
+		"1_1DfkDpkeDXGbHJ2ZT31DPvYr5xR59Jr8BA": [
+			{
+				"comment_id": 3,
+				"body": "> [3x71nc7](#comment_11_1Q8iqH31cKCqynoJRxR2PfJhzQr8wHdiHr): run zeronet with the --ui_ip 0.0.0.0 flag.On Linux that would be python zeronet.py --ui_ip 0.0.0.0On Windows it would probably be best to edit the .cmd file\n\nOK I'm going to try this and will get back to you, thanks!",
+				"added": 1456930674
+			},
+			{
+				"comment_id": 4,
+				"body": "> [3x71nc7](#comment_11_1Q8iqH31cKCqynoJRxR2PfJhzQr8wHdiHr): run zeronet with the --ui_ip 0.0.0.0 flag.On Linux that would be python zeronet.py --ui_ip 0.0.0.0On Windows it would probably be best to edit the .cmd file\n\nBingo! Thanks!",
+				"added": 1456930826
+			}
+		],
+		"1_1EmViJkfwHFYZmRatT1AmuMDeWyxdJfNfA": [
+			{
+				"comment_id": 5,
+				"body": "When you make your own site, you can name it whatever you want. The creator of 0list chose to call it that.",
+				"added": 1456984323
+			}
+		],
+		"1_1Ch2Q1jPeM6pspyNZ28AA73v51wjYLSd3q": [
+			{
+				"comment_id": 6,
+				"body": "I personally found out about it on TorrentFreak and have seen the numbers grow just in the last 24 hours. I've also noticed that the longer I leave ZeroNet running, the more peers it finds. When I first open it, it will say 60 or so peers are using it, but if I leave it open overnight that jumps to 400 or more. Then if I shut down and restart ZeroNet, it's down to 60 again.",
+				"added": 1456984458
+			}
+		],
+		"1_1KXwZN8yqqDZTL5kE8bkkaZKAk9VPAxNFT": [
+			{
+				"comment_id": 7,
+				"body": "ZeroTorrents has a games section.",
+				"added": 1456984587
+			}
+		],
+		"1_1LnyrYbdxDU1K78nEYVZkfJ1Q4SYP1ukFV": [
+			{
+				"comment_id": 8,
+				"body": "Adding my vote AGAINST the addition of a downvote button. All it does is make popular posts get pushed down the page. If a post has people talking, it should be on top.",
+				"added": 1457044920
+			}
+		],
+		"1_1A6hcWNpQ9SSLoTTpuT19VsVQ6WCVRkyen": [
+			{
+				"comment_id": 9,
+				"body": "While you're working on it, it would be nice to be able to delete names from the contact list. I don't plan on mailing echobot ever again :P",
+				"added": 1457045982
+			}
+		],
+		"1_1Kg7CXZM5h3wTPENsTDwWUmRBf9VhYy2cW": [
+			{
+				"comment_id": 10,
+				"body": "I've been doing my best to promote ZeroNet to my nerdier friends. Unfortunately without solid replacements for common websites like Google, YouTube, Amazon, and Craigslist, people won't feel very enticed to use it and at most they will try it, see that it is in its infancy, and decide they'll try again next decade.\n\nWe need more killer sites being developed is what I'm saying. Personally I'm working on something but I need help from someone with experience developing Google Chrome extensions.",
+				"added": 1457208559
+			},
+			{
+				"comment_id": 11,
+				"body": "> [muja](#comment_53_17i7Y7r8nTaCfLbCAuaKyc4R5BbKZYU2Hr): What something would that be?\n\nKeeping it under wraps for now so I don't get beaten to the punch ;)",
+				"added": 1457220477
+			}
+		],
+		"1_1MahZJTzjoEMMCv2jBReDWhyNGRhN5tvDq": [
+			{
+				"comment_id": 12,
+				"body": "Doubtful they will be placed directly on the landing page. They will have to register with the various search engines and compete for traffic like everyone else.",
+				"added": 1457761827
+			},
+			{
+				"comment_id": 16,
+				"body": "> [piotr](#comment_8_19nb7BmBbBv1gMVrzMyL3fTkd3HaoteYF8): I dont think its competing not too many sites right now ;p it would be good to have them here, definitely will seed their site\n\nWon't happen. There are hundreds of ZeroNet sites. The only sites on ZeroHello are the ones created by the ZeroNet devs.\n\nSubmit to Kaffiene, ZeroSearch, etc. and wait for hits.",
+				"added": 1457778889
+			},
+			{
+				"comment_id": 17,
+				"body": "> [ekaterina](#comment_110_1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD): What I'd much rather like to see than any additional sites, is ZeroBoard on that list either getting updated or replaced by a different chat\n\nAgreed, I deleted it pretty much immediately because it was pointless for me to have.\n\nI also have never heard of Bitnation, and certainly don't know why they would deserve a spot on ZeroHello. There are plenty of good sites on here that deserve a spot, but I can understand not having them because we don't need ZeroHello to become an AOL homepage.",
+				"added": 1457779381
+			}
+		],
+		"2_14CxrQGKkqTPKda94c9j1z7zBX3q53dPfr": [
+			{
+				"comment_id": 13,
+				"body": "> [sin](#comment_7_1P97itWECWCYp7D73wY4GaTKUyUo4A3Pcf): wont load.  Console says its giving up\n\nSame. Console says \"content.json\" and \"index.html\" are missing.",
+				"added": 1457762066
+			}
+		],
+		"10_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf": [
+			{
+				"comment_id": 14,
+				"body": "Subscribing to my own ZeroMail inbox in the newsfeed.",
+				"added": 1457762172
+			},
+			{
+				"comment_id": 15,
+				"body": "> [yo](#comment_5_1GtJqyJRsuZhmxVtw5USgvqGbUmVH7EmBD): a \"web\" directory like in 1999\n\nCheck out the [Kaffiene](http://127.0.0.1:43110/1Mr5rX9TauvaGReB4RjCaE6D37FJQaY5Ba) search engine. You can view the raw index if you want to.",
+				"added": 1457762241
+			}
+		]
+	},
+	"comment_vote": {
+		"11_1Q8iqH31cKCqynoJRxR2PfJhzQr8wHdiHr": 1,
+		"3_1NScpxmKApvAk85ubF2SLrBgkniZcm85Hr": 1,
+		"23_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1,
+		"45_1KwTTgPRSTHFmmJAFBt6kQfdyNeSM5KJuH": 1,
+		"24_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1,
+		"12_15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ": 1,
+		"73_1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD": 1,
+		"13_1HwYER58xAxchBDL6WKRqKuPZzmwSvMwjY": 1,
+		"3_1LQAy9zL1sVtw6q7WcbbBRNd1AMqDcZgrM": 1
+	}
+}

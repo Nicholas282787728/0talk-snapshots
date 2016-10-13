@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HGnXq6vmvgBEGaeRHI7xK+friLLevJ3oZPXXaMiskqqv4CpryN0NeQQBjMxpaOyHrKdlcn9qjB+1eSVIM6GfPVY=",
+ "cert_user_id": "dorptiko@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "4229cda626ac27e9b6ddc31a979075897d9a639d232886362ebd4768db9cd89a",
+   "size": 459
+  }
+ },
+ "inner_path": "data/users/188T4aD8WfzRHgqkuUpv9uEoSjSpmHNuzX/content.json",
+ "modified": 1463705360.983983,
+ "signs": {
+  "188T4aD8WfzRHgqkuUpv9uEoSjSpmHNuzX": "HO6PmU4hIikNLd/BLSeSRZVqrenPxGpHQk3+/vD/dprNQ/FWquodSfZMlw6xG3N4MZDHBF3dpmLGbxE6tJXF+yc="
+ }
+}

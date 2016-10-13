@@ -1,0 +1,23 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 3,
+	"comment": {
+		"1_1BQg5MQZ63aEQZMzLEXP6yY3hsgznKpaps": [
+			{
+				"comment_id": 1,
+				"body": "Slackware here",
+				"added": 1457810209
+			}
+		],
+		"1_145HUmJaXoiQYdtbHuUwh3ZzJmY28hQ9Bw": [
+			{
+				"comment_id": 2,
+				"body": ":tawny makes a comment.",
+				"added": 1472989782
+			}
+		]
+	},
+	"comment_vote": {}
+}

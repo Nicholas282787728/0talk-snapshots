@@ -1,0 +1,45 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "torrentfreak: U.S. GOVT: EXCESSIVE PIRACY PUNISHMENTS SHOULD BE AVOIDED",
+			"body": "The U.S. Department of Commerce’s Internet Policy Task Force has released a set of copyright reform proposals. The Government recommends Congress to implement various changes to avoid excessive damages awards and stresses that copyright trolling should not be tolerated.\n\nhttps://torrentfreak.com/u-s-govt-excessive-piracy-punishments-should-be-avoided-160129/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Torrentfreak+%28Torrentfreak%29",
+			"added": 1454265416,
+			"parent_topic_uri": "1_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG"
+		}
+	],
+	"topic_vote": {},
+	"next_comment_id": 5,
+	"comment": {
+		"18_1ED3Ho3kmzaKiECtyuqSjDpoE47rKuXeP": [
+			{
+				"comment_id": 1,
+				"body": "> [zozon](#comment_72_1QBLGLcgKfcpfLmiDYuDzUKVXFfmTAew55): yes tinymce is good (for text) extremely configurable that's why it takes time to graspyou still need a bit of backend cause it works in a browser\n\nI (normally) prefer Ace :) https://ace.c9.io/",
+				"added": 1455315339
+			},
+			{
+				"comment_id": 2,
+				"body": "like piecrust being done in Python, will surely try! Trying to find some more x-platform tools like hugo.\n\ntried Jekyll on Windows and declared it is waste of time (I do not get why it is so popular....) \n(ok, it is not native environment for Jekyll but, come on, it is ultimately generating html... I will not try it on my linux)> \n\n\n[oracle](#comment_112_1ED3Ho3kmzaKiECtyuqSjDpoE47rKuXeP): This static site has a CMS http://bolt80.com/piecrust/en/latest/docs/admin-panel/ When I get time, I'll try to get it running on ZeroNet. If I have any problems I might contact you through ZeroMail for help.",
+				"added": 1455389303
+			}
+		],
+		"1_1L8g4aCkau2mQopHjDQejcyy3Wka2BUJu9": [
+			{
+				"comment_id": 3,
+				"body": "used: 2.3k/40k\nYou are running out of your allowed space, please contact the site's admin at unknown to raise your limit.\n\nis there something else influencing this message?\n??????",
+				"added": 1455392327
+			}
+		],
+		"6_1MmPY9fniJwwhP6WsgH4jWoq5rBAVV6KWy": [
+			{
+				"comment_id": 4,
+				"body": "What can I say about this... things are not always that easy. Take this example:\n\nOnce upon a time a couple of torrent programmers decided that it is important to have a p2p chat system between torrent peers. They took pascal and wrote free peer to peer software called 'sky p2p' or better known at that time as 'skyper'. But they couldn't register doman skyper.com because someone already had it, so they shorthen domain to skype. For a while it was great, it worked and was fun, but had a problem that people would have same name and no way of reserving it - there was no central server for the authentication...\n\n... cut a long story short...over some long time... & lot of money exchanging hands...& passing ownership over code...\n\nThese days Microsoft makes 'Skype for business' to replace Lync as instant messenger in enterprise environment.\n\nWhere the idea started, where it ended up?",
+				"added": 1455449028
+			}
+		]
+	},
+	"comment_vote": {
+		"291_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1
+	}
+}

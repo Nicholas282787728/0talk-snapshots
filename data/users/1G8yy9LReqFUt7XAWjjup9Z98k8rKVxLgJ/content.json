@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "G1qWsEHr+lqKm9okdcyyqbeVSIzzXkfu8SFM3xlVNwLVYSk/EIz34VkPNGeEE14x6sHN9daHFULWR89LTmbfsmQ=",
+ "cert_user_id": "vax@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "15926edc94b52cdaec4c9cb770d0879fe733a4f73aed8a6adfebee0cc1072cd4",
+   "size": 210
+  }
+ },
+ "inner_path": "data/users/1G8yy9LReqFUt7XAWjjup9Z98k8rKVxLgJ/content.json",
+ "modified": 1460168364.202,
+ "signs": {
+  "1G8yy9LReqFUt7XAWjjup9Z98k8rKVxLgJ": "HDZ48xv1x40qyLvix33L2mAUWZoUXuVvKHzE+Vmm0NCVqlM4iMw+/livi6y/FvlwJD9tC0FgTS/wwRft/DTFaaI="
+ }
+}

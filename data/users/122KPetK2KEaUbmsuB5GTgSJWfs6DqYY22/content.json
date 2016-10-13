@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "G8CZfmiCBQkfuk1V2TiWTjBDefRcfvmIOEuvPHKgGqHI9tHIJGtA9zFyvb89Y1FceVwSXvzEpDSEJ5tybQfnQ08=",
+ "cert_user_id": "romerin007@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "5cf9af42ae20a2fcd121d69d8118458c78ad7165c9af7378d3ec0dc9b82b336e",
+   "size": 307
+  }
+ },
+ "inner_path": "data/users/122KPetK2KEaUbmsuB5GTgSJWfs6DqYY22/content.json",
+ "modified": 1460557987.23,
+ "signs": {
+  "122KPetK2KEaUbmsuB5GTgSJWfs6DqYY22": "G9Xr6FaWqvSk6FoZqnAs6mt8GzrTJaDu8hFJBzxzWBzLZkGtDEKSNDTJVJ50nuhwfzFXImKnra6k7OZhb0HknsQ="
+ }
+}

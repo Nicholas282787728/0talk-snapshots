@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HAq2yjTYlOZ62lTFb2WEDoJnDdtTd7LRV38semPLAhru9Ll2sLJB4W1Gv0nbT1Q8Gx94sP2ClpDcNEzaj/lc1Qw=",
+ "cert_user_id": "zyber@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "0cdbdb1f37ffdfad0351c510b0fbbe9adae59e0de2a916943bf5608f623f5cc6",
+   "size": 951
+  }
+ },
+ "inner_path": "data/users/14TpgjZ45qVUmFjp848YUhqtWKPYYrSkUW/content.json",
+ "modified": 1474758177.51,
+ "signs": {
+  "14TpgjZ45qVUmFjp848YUhqtWKPYYrSkUW": "HHYl8mtZP4m6zIbUSMZODb3puL3iC7LAXeSYo4yuutUGUzXPsp+kFOYEK20NIxCkpccmIpAKqE86fgejxyVIWlQ="
+ }
+}

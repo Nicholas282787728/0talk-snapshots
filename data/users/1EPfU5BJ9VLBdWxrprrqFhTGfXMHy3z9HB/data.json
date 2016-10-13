@@ -1,0 +1,51 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {
+		"4_1KwTTgPRSTHFmmJAFBt6kQfdyNeSM5KJuH": 1,
+		"2_1JHQA9oFkFpFFRiscyT4N71AKLWg46pQ92": 1,
+		"1_17PhTjw3o2wPhxyKeM3Ss975eWZ1UMsjQC": 1,
+		"1_1Ch2Q1jPeM6pspyNZ28AA73v51wjYLSd3q": 1
+	},
+	"next_comment_id": 5,
+	"comment": {
+		"2_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": [
+			{
+				"comment_id": 1,
+				"body": "ty is a douche",
+				"added": 1457036157
+			}
+		],
+		"2_1JHQA9oFkFpFFRiscyT4N71AKLWg46pQ92": [
+			{
+				"comment_id": 2,
+				"body": "Translation:\n\"Play can be a good site (alternative to TPB) and resistant to attacks Copyright advocates.\nThe problem comes from the side of users ... if you download these torrents will be equally defenseless against attacks by those idiots. The only way to download torrents anonymously and privately is using I2P.\"",
+				"added": 1457036893
+			},
+			{
+				"comment_id": 3,
+				"body": "> [juanje](#comment_5_1HSBkju9y9tQrpph3yKgcdzxM6pnkvgmNy): Yo uso http://deluge-torrent.org que permite salida por TOR\n\nNo, es muy malo para Torrent respecto a TOR. No es lo TOR y fue diseñado para que ralentiza la red para todo el mundo.",
+				"added": 1457036965
+			}
+		],
+		"1_17PhTjw3o2wPhxyKeM3Ss975eWZ1UMsjQC": [
+			{
+				"comment_id": 4,
+				"body": "No, as far as I understand there isn't a way to recover the username once it's been deleted, besides recovering your users.json file.\nAs far as sharing the username across multiple computers you just need to copy the users.json to each computer and put it in the data folder of zeronet before you start it up.",
+				"added": 1457037221
+			}
+		]
+	},
+	"comment_vote": {
+		"1_1EPfU5BJ9VLBdWxrprrqFhTGfXMHy3z9HB": 1,
+		"12_17fgJ3tZjhM7HCkTkd5TWf2BLLWmhRKcXB": 1,
+		"3_12fNTMaQH1mN5bPehdvkNgTAVxzQXop87e": 1,
+		"3_1LyUSCUvW8q8WweqGVRWTsHyQfYwfixevn": 1,
+		"34_1PNyuY1iZqXBpft4ArouqcnE4pNRGYij5i": 1,
+		"5_1MEWJRMLgvofqG9Mbsb2Rc4hFFyv7HeRx7": 1,
+		"10_1An7ATsNMMNqRgSgB2upWwbpXgFXQ9E2XD": 1,
+		"1_1PFghAyqgbELutEUJ1zEcqEWL7odM3Caka": 1,
+		"10_1PX7VW6xfccTT2tNUTwrYKJpGsGfrnoJfP": 1,
+		"1_1KDGdLBa6JmXLrFvM2upw7KZDXkouJz5w4": 1
+	}
+}

@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HAV/G/FqccsPCJn6ClP/gzwx8iK1pl7sm/rcpYCf6X0oQjL71YBkhIG1g0UUNDiyAhJSF0UWZq/Ya7fgKaQlkhc=",
+ "cert_user_id": "councilbandit@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "a1e03c51040b9b202020e895d7b84069142589227fd5ab8d7ee32a16b26f0525",
+   "size": 250
+  }
+ },
+ "inner_path": "data/users/14bco88GfxXrRNLkcDC7WA4shxmJ1sRph6/content.json",
+ "modified": 1457317358.395,
+ "signs": {
+  "14bco88GfxXrRNLkcDC7WA4shxmJ1sRph6": "G0SUy1EXHQNyJp9NruXWbl6HbVnW0NiVlVxrIR4/nsuUtL8aVLL3b7mWbgemiCDDH7CuENT189BGj9fd+0ImGxY="
+ }
+}

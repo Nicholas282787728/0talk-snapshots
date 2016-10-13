@@ -1,0 +1,89 @@
+{
+	"next_topic_id": 4,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "Access-Control-Allow-Origin",
+			"body": "Hi all. Please bear with me. I'm a web designer and so my technical knowledge is limited. I have published a site on ZeroNet http://localhost:43110/1F48VzQP12fbvpVamRSy6LmmXdid464wog/\n\nAs you can see, i'm having issues with... \"No 'Access-Control-Allow-Origin' header is present\".\nWhen building the site locally, I was able to get past this by running a simple node server. How would i get around this on ZeroNet?",
+			"added": 1458598254,
+			"parent_topic_uri": "3_1PVcdu7USZH2kHMETbqDYLPjJZKCDWM52k"
+		},
+		{
+			"topic_id": 2,
+			"title": "How feasible would it be to build a cut-down version of the blockchain on ZeroNet?",
+			"body": "I’m so far very impressed with ZeroNet. Mainly because it actually works! Having a decentralised internet means that you’re already half-way if you wanted to build a blockchain. \n\nI’ve been building a very simple AppCoin where money is created by voting. There are a lot of things about the blockchain, which don’t necessarily need to be in place in order for my currency to work. The decentralised transaction verification system would thus be a lot easier to implement. For example, every time a transaction is sent, it could send the transaction to another peer (next available IP), which verifies that the credits haven’t been spent twice, and that the sender has sufficient funds. It could then send this transaction to another peer, and so on. Once it has been checked x number of times, the transaction is published to the network. I understand that ‘proof-of-work’ mining also secures the network (sort of like an anti-spam mechanism), but i’m wandering if this is 100% necessary? My application makes use of a trust network (inter-connected user profiles). In order for a user to receive credits, they must have first established trust (in the form of a positive feedback score). Perhaps only users with a certain feedback score can be allowed to verify and publish transactions?  Since there’s no mining, the transactions don’t need to be stored in blocks. So each transaction could be hashed and inserted into the proceeding transaction, thus forming a cryptographically secured chain. This would also need to be checked in the transaction verification process. My application has certain rules that need to be checked too, but i won’t go into this now.\n\nI understand that the blockchain is way more complicated than that, but it does it really need to be? My app allows users to regulate the system manually. Users can impose economic sanctions on those who behave imprudently. Likewise, an API can allow the network to gather stats and flag suspicious behaviour. \n\nAnyway, it’s just an idea. And i don’t think it would be too hard to implement. Can the checks be done in javascript? I don’t see a reason why not. So to summarise…\n\n1. User clicks on vote/donate button\n2. Transaction is sent to random peer and verified\n3. Transaction is sent to another peer etc.\n4. After x number of peers have verified the transaction, it get’s published to all peers.  \n\nMy app uses a browser extension for voting on content. This will bridge the gap between www and ZeroNet. Finally, i think my app could be very useful to ZeroNet, as it allows for efficient self-regulation.",
+			"added": 1459104305,
+			"parent_topic_uri": "3_1PVcdu7USZH2kHMETbqDYLPjJZKCDWM52k"
+		},
+		{
+			"topic_id": 3,
+			"title": "Only show button to owner of site",
+			"body": "Hi. This should be a fairly easy one. How can i make it so that a certain button only shows to the owner of the site?",
+			"added": 1459361532,
+			"parent_topic_uri": "3_1PVcdu7USZH2kHMETbqDYLPjJZKCDWM52k"
+		}
+	],
+	"topic_vote": {},
+	"next_comment_id": 11,
+	"comment": {
+		"1_15UiHZYjYXmn35qVSaAFyuFwrwqVCTcvmn": [
+			{
+				"comment_id": 1,
+				"body": "well i would like some help with a project ;) \n\nI'm building a cryptocurrency where you have to earn trust and contribute value in order for the money to be created. http://localhost:43110/1F48VzQP12fbvpVamRSy6LmmXdid464wog/\n\nIt's a browser extension. You can see a demo here: - https://www.givemecredit.org/demo.gif\n\nNOTE: It would also make a good search engine for ZeroNet as users are incentivised to rate content.",
+				"added": 1458597404
+			}
+		],
+		"1_14PXH1VLXEseL1h6gLpHqi3bXEAdamDwgg": [
+			{
+				"comment_id": 2,
+				"body": "hmm perhaps ill forget about using ajax and focus on using localstorage instead.",
+				"added": 1458599144
+			},
+			{
+				"comment_id": 3,
+				"body": "\"It looks like your links are bad - ah yeh you're right. i've fixed that now thanks :)",
+				"added": 1458601407
+			},
+			{
+				"comment_id": 4,
+				"body": "Fixing the image link worked but i'm still having issues with 'Access-Control-Allow-Origin' . Any ideas how to get around this?",
+				"added": 1458602252
+			},
+			{
+				"comment_id": 5,
+				"body": "Ok i see. thanks for the info. i'll look into your suggestions :)",
+				"added": 1458642229
+			},
+			{
+				"comment_id": 6,
+				"body": "Well i rebuilt the site using localstorage (i understand it is disabled on ZeroNet). I then read though the API docs in order to see how to use the ZeroNet API commands (wrapperGetLocalStorage and wrapperSetLocalStorage) but to be honest, it isn't very clear where/how i'm supposed to use these commands. Well, It's not clear for a newb anyway. And do i have to use coffeescript? I'm only just getting to grips with vanilla, so i'd rather not. Any chance someone could make a simple 'hello world' tutorial?",
+				"added": 1458681817
+			},
+			{
+				"comment_id": 7,
+				"body": "Thanks for your help bukaking. I implemented your suggestions and i was able to write to storage. When using localstorage i was using localStorage[page] = jQuery(\"#pages section\").html(). Using wrapperSetLocalStorage i'm able to read/write the html, but i can't figure out how to specify the key. Anyway, ill have another go when i get back from work. Cheers mate!",
+				"added": 1458723059
+			},
+			{
+				"comment_id": 8,
+				"body": "Hello again. Although I was unable to get wrapperSetLocalStorage to work as i wanted, i found an easier way. I simply made a data.json file and added some data. I then used Page.cmd(\"fileGet\" ...etc) and Page.cmd(\"fileWrite\"...etc) to read/write the data after editing the content (using the html5 contenteditable attribute). It works nicely for what i need. A very simple front-end editable CMS. I'll probably use Medium.js for rich text editing. The next thing i need to do is add login functionality. Anyway,  thanks again for your advice Bukaking :)",
+				"added": 1458931775
+			}
+		],
+		"2_14PXH1VLXEseL1h6gLpHqi3bXEAdamDwgg": [
+			{
+				"comment_id": 9,
+				"body": "Before ZeroNet, I was playing around with a Dapp platform called Crypti. It was actually pretty good. I was able to read and write to a custom blockchain using nodeJS and SQLite. It was simple and intuitive, unlike the other platforms i tested. The platform was built by a 21 year old dude called Boris Povod. However, the Crypti project kinda died, and was re-branded as Lisk, only without Boris. If only there was a way of getting Boris to collaborate with the developers of ZeroNet in developing an API for building dapps, i think it would attract a lot of attention. \n\nAs mentioned, the platform uses nodejs. You simply send a json POST request to a pre-defined contract (via routes.js), where can you perform validation checks etc. This contract is then inserted into an SQLite db (the blockchain). So perhaps instead of mapping json files to the sql db, there could be an API command which maps the json to a contract first. I don't really know if this makes sense, but i'd love to see something like this implemented.",
+				"added": 1459271449
+			}
+		],
+		"3_14PXH1VLXEseL1h6gLpHqi3bXEAdamDwgg": [
+			{
+				"comment_id": 10,
+				"body": "ah right. Sorry i didn't see that. The following seems to work ok....\n\n    Page.cmd(\"siteInfo\", {}, (function (site_info) {\n        if (site_info.settings.own = true) {\n            jQuery(\"#edit\").show();\n        }\n    }));\n\nThanks nofish :)",
+				"added": 1459370558
+			}
+		]
+	},
+	"comment_vote": {}
+}

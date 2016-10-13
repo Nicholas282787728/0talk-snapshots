@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HFN3U78Kz2Xna8Qoj6yGxqa90QuJxTvDp6Fw70cv6NgNlzqOc5Xb7xYs4UGmduZrG5KBLACOyoeMtaSYl8Rh7uA=",
+ "cert_user_id": "cyclist@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "8c46dab2f0c82221264ef37d4f019ed5221453403dd97c88ddcb75603d39f4eb",
+   "size": 241
+  }
+ },
+ "inner_path": "data/users/1DmJuRtSgrntia4YG3rS9cW3qA88jkLJFK/content.json",
+ "modified": 1457227667.054,
+ "signs": {
+  "1DmJuRtSgrntia4YG3rS9cW3qA88jkLJFK": "G8S8AgM8YdgCbBykwoUqQl6cg4KqpiTTixvuyjiX+E7xxcRq1V69vIOcDhaqVAaATyIkKCTAjZFqyYfgCKY7WQQ="
+ }
+}

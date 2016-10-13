@@ -1,0 +1,60 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {
+		"1_1BQg5MQZ63aEQZMzLEXP6yY3hsgznKpaps": 1,
+		"3_168qV1Xxp2EyszrzdECLUwXrn9wGYjDdar": 1,
+		"1_17ApQKugX1XH727gpAeD3mrRLjLxASdakd": 1,
+		"2_1GtJqyJRsuZhmxVtw5USgvqGbUmVH7EmBD": 1,
+		"2_1G1yCPeGqsu3Hv2w93MXyhW271WZUnBN4t": 1,
+		"3_1Kg7CXZM5h3wTPENsTDwWUmRBf9VhYy2cW": 1,
+		"1_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG": 1,
+		"2_1LJMypJ67iEBwah82xwVVdB8SGZ1mwqgHQ": 1,
+		"4_1ADB7TdX2fVbTsWBoMe9yBTmVXTbb33b4R": 1,
+		"2_1GCsW9TFfjDsvcdmKPADq1n8Q3ha72UtDQ": 1,
+		"1_15SARKNuSBuSxuKe1xqevx3H3pSEep5TgR": 1,
+		"1_14U2zXausMv3wECwBu4KgM8TvijDRzvV6U": 1,
+		"6_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1,
+		"3_1PVcdu7USZH2kHMETbqDYLPjJZKCDWM52k": 1,
+		"7_1KTjPe9MxoYkcXj78GuZgCcj3R3f3Twh7r": 1,
+		"5_1LRrd96P7FiTcsyNXVzPM5jtpQoH1B4gYf": 1,
+		"6_17n5jg4bBEoWodXDf8L4Y2u88ShagS272Y": 1,
+		"15_1CMYxdit4qq9QGk9DYRu2ruRPd2YDGckH8": 1,
+		"1_15UiHZYjYXmn35qVSaAFyuFwrwqVCTcvmn": 1,
+		"2_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"10_17fgJ3tZjhM7HCkTkd5TWf2BLLWmhRKcXB": 1,
+		"8_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"1_1FY2Aej66JkkqSGGHq39nwW9JzcGoAzuhc": 1,
+		"43_1GtJqyJRsuZhmxVtw5USgvqGbUmVH7EmBD": 1
+	},
+	"next_comment_id": 4,
+	"comment": {
+		"2_1GtJqyJRsuZhmxVtw5USgvqGbUmVH7EmBD": [
+			{
+				"comment_id": 1,
+				"body": "unfortunately ZeroPolls never works for me, it just stays blank.",
+				"added": 1457599849
+			},
+			{
+				"comment_id": 2,
+				"body": "> [ekaterina](#comment_101_1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD): Huh that's weird, haven't heard of any problem like that yet. The only reason I can think of why it would stay blank only for you is that maybe you have a browser plugin that blocks some kinds of JavaScript. I use a framework for the site (Vue.js) which blanks the site until all HTML templates were processed with JavaScript.\n\nI've just tried another browser and noticed the problem only occurs on Microsoft Edge (I know). Guess I'll just also use FireFox on Windows now.",
+				"added": 1457603575
+			},
+			{
+				"comment_id": 3,
+				"body": "> [ekaterina](#comment_104_1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD): Oh then it might be tons of reasons, I don't support Microsoft browsers at all, sorry. I do test my ZeroNet sites in Chrome and Firefox / Tor Browser. Other than that it might or might not work. Apple's Safari has some issues too that I haven't worked out yet, since it's not cross platform I can't install it to try it out, I'm on Linux.\n\nYes I know, but I had to do something on Windows and Firefox takes so long to load for me to load on Windows. If Chromium has the same startup-speed on Windows as it has on Linux I might use that.",
+				"added": 1457606027
+			}
+		]
+	},
+	"comment_vote": {
+		"16_1LRrd96P7FiTcsyNXVzPM5jtpQoH1B4gYf": 1,
+		"3_1JA2umSc9f7VSNLaYLs1Cpk7rpvS4p18xe": 1,
+		"15_1An7ATsNMMNqRgSgB2upWwbpXgFXQ9E2XD": 1,
+		"101_1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD": 1,
+		"104_1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD": 1,
+		"105_1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD": 1,
+		"52_16AFTG7vdicwJbRQpWc2F9BRHTE5MTftE7": 1,
+		"55_14XxpXNGMLsyeQxikacrbQnAFXVyhN5Ngx": 1
+	}
+}

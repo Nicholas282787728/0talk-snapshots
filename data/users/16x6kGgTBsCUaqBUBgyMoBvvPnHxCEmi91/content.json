@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HBPGwXkSRDfI8wlnkciMwiJNs3nL06Ok3lLPYWcREKaTzSU8wpJ1vAudRmOdwe1fzCPjMgUG4ra4yw6lsterwA0=",
+ "cert_user_id": "locuester@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "5dd38d858016a5e1c5fc36b3c9fc1d466aa29b621ec4fe711e91cea3b60f5e36",
+   "size": 320
+  }
+ },
+ "inner_path": "data/users/16x6kGgTBsCUaqBUBgyMoBvvPnHxCEmi91/content.json",
+ "modified": 1459112505.266,
+ "signs": {
+  "16x6kGgTBsCUaqBUBgyMoBvvPnHxCEmi91": "HNaay7GfRV2XRQ3B/OtUzfZ5ET9Hdjkx6b3EigVsMD9/tnouQxBMt+HDda9gwY6doiNXo6n6vZNBGSpGNs617Us="
+ }
+}

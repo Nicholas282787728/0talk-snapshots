@@ -1,0 +1,23 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 3,
+	"comment": {
+		"2_1Frg5nFndHFkmUaaGK7Qr46dRLX8a2BhBT": [
+			{
+				"comment_id": 1,
+				"body": "> [jallen0927](#comment_1_1AjV6w7XAB5repTqZ6pS6r2BT1MsCPiYHz): I also want to know about this. First question is, how to logout?\n\nYou need to have the multiuser plugin enabled, then go to the start page (zerohello) and click on the white button \"USER: ...\" in the top right corner.",
+				"added": 1461663936
+			}
+		],
+		"1_1Jm93extPci7nYWjJ3JkN8NGaWEWtALp3m": [
+			{
+				"comment_id": 2,
+				"body": "Maybe it's possible to split a big video file into many small clips, and then create a site which gradually loads only the required pieces (example: when clip1.mp4 is played half way through, then begin to download clip2.mp4, etc.).",
+				"added": 1464071549
+			}
+		]
+	},
+	"comment_vote": {}
+}

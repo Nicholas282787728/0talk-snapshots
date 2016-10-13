@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HBuPKad5JhmBc1001IOGxnVUObcoHr1vzvTS0IhGktn59+h9gDyi5g1e59JMrVsX3VrjBQqQUoGSdR25w0wKZtU=",
+ "cert_user_id": "dreamcreator108@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "919c797034e88b067c9eb78450a678cb03f7955d30a35d58dd22c7d3d24c441a",
+   "size": 852
+  }
+ },
+ "inner_path": "data/users/19GERHBm21zJiPeytTwPgt4ffo9eV5gDvv/content.json",
+ "modified": 1462889687.072929,
+ "signs": {
+  "19GERHBm21zJiPeytTwPgt4ffo9eV5gDvv": "HIpmVnGJv692cfLIIdUY5mvZ8T+rrUux1x2vw9PaCdq6khRjRJC5ck04R0vIDV/KTUXrkdcCBLtTFcQOzQ4o46E="
+ }
+}

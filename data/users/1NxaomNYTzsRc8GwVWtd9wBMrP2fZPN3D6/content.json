@@ -1,0 +1,15 @@
+{
+ "cert_auth_type": "web", 
+ "cert_sign": "G/I2BrkSDa5+kBFEhleKx0Ykgemw/bgW+LirPMXU7GM68mN2EshNvshj1HUQS93xP0rfauL8UjC70/oGDImlRLE=", 
+ "cert_user_id": "lowrez@zeroid.bit", 
+ "files": {
+  "data.json": {
+   "sha512": "951d6b2cb58e55abddbf244e7d479fc99b60c242bd5887523fbe45121a18a25c", 
+   "size": 528
+  }
+ }, 
+ "modified": 1454662446.137428, 
+ "signs": {
+  "1NxaomNYTzsRc8GwVWtd9wBMrP2fZPN3D6": "G98wc0nYHEux3ftv8sabr9vHUwwtgavWxp+wzomZS/LFf/4FsN/1qJyl0yr56yGmnAJDibTx71RPu50IPF/HO0c="
+ }
+}

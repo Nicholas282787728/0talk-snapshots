@@ -1,0 +1,31 @@
+{
+	"next_topic_id": 3,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "Merger feature documentation",
+			"body": "Is there a plan to add the merger feature to the documentation?\n\nIt would be nice to have a zeronet version of the docs as well... it's easy to get used to knowing then a site was updated or not :)",
+			"added": 1471291247,
+			"parent_topic_uri": "3_1PVcdu7USZH2kHMETbqDYLPjJZKCDWM52k"
+		},
+		{
+			"topic_id": 2,
+			"title": "How to avoid Cross-Origin blocking?",
+			"body": "I'm trying to add a fontawesome to a zite but I keep getting this error:\n\n```\nFont from origin 'http://*:43110' has been blocked from loading by Cross-Origin Resource Sharing policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. Origin 'null' is therefore not allowed access.\n```\n\nI believe this is caused by the urls I have on my css file:\n\n```\n@font-face {\n  font-family: 'FontAwesome';\n  src: url('../fonts/fontawesome-webfont.eot?v=4.6.3');\n  src: url('../fonts/fontawesome-webfont.eot?#iefix&v=4.6.3') format('embedded-opentype'), url('../fonts/fontawesome-webfont.woff2?v=4.6.3') format('woff2'), url('../fonts/fontawesome-webfont.woff?v=4.6.3') format('woff'), url('../fonts/fontawesome-webfont.ttf?v=4.6.3') format('truetype'), url('../fonts/fontawesome-webfont.svg?v=4.6.3#fontawesomeregular') format('svg');\n  font-weight: normal;\n  font-style: normal;\n}\n```\n\nIs there a way to fix this issue and get the fonts to work?",
+			"added": 1476302746,
+			"parent_topic_uri": "3_1PVcdu7USZH2kHMETbqDYLPjJZKCDWM52k"
+		}
+	],
+	"topic_vote": {},
+	"next_comment_id": 2,
+	"comment": {
+		"2_137PNA5gLgCTLZTBtzUqCmMoZ752NQGQSJ": [
+			{
+				"comment_id": 1,
+				"body": "> [waterrabbit](#comment_29_1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC): <meta name=\"referrer\" content=\"no-referrer\">\n> \n> \n> <link href=\"./css/font-awesome-4.0.3.css\" rel=\"stylesheet\" crossorigin=\"anonymous\">\n> \n> \n> Have a try...\n\nI've added that to the index file all.css include and got the error about the css instead of the font files:\n\n```\nCSS stylesheet from origin 'http://*:43110' has been blocked from loading by Cross-Origin Resource Sharing policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. Origin 'null' is therefore not allowed access.\n```\n\nI've used:\n\n```\n      <meta name=\"referrer\" content=\"no-referrer\">\n      <link rel=\"stylesheet\" href=\"css/all.css\" crossorigin=\"anonymous\">\n```",
+				"added": 1476336721
+			}
+		]
+	},
+	"comment_vote": {}
+}

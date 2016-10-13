@@ -1,0 +1,222 @@
+{
+	"next_topic_id": 4,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "Deleting Content",
+			"body": "Is it possible to delete content if so how?\n\nI tried executing SQL such as `DELETE FROM comment -- Yes, I do actually want to delete every single comment :)` but this did not work.\n\nI tried executing SQL using sqlite and `./zeronet.py dbQuery`. I also tried using the ZeroFrame API directly from the zite in question but it explicitly said that only `SELECT` queries are allowed.\n\nThe only other thing I can think to do is to appropriately modify data/users/USERNAME/data.json and sign and publish this. \n\nThe ZeroNet documentation seems pretty bare in this regard, hence why I'm asking here.\n\nIf I'm right in saying that I do need to modify and sign data/users/USERNAME/data.json what happens if this file is modified while I'm modifying it? Can ZeroNet cope with conflicts? Or is this just an inherent problem with decentralized systems with no obvious solution?",
+			"added": 1470217890,
+			"parent_topic_uri": "3_1PVcdu7USZH2kHMETbqDYLPjJZKCDWM52k"
+		},
+		{
+			"topic_id": 2,
+			"title": "Building KickAssTorrents",
+			"body": "I've just published some rough instructions to build the site [here](https://gitlab.com/kickasstorrents/KAT/wikis/getting-started). If you have some spare time and know HTML, CSS and JavaScript, check it out and let me know what you think. I'm working hard to continue to build the site but could use some help from others. I don't just want to build a community, I want to build a community by the community, for the community (hence why I've open sourced all of the code I've done).",
+			"added": 1470662509,
+			"parent_topic_uri": "3_1PVcdu7USZH2kHMETbqDYLPjJZKCDWM52k"
+		},
+		{
+			"topic_id": 3,
+			"title": "Note to self: Do not paste this into the console on ZeroMe",
+			"body": "```\nfor(var i =0; i < document.getElementsByClassName('button-follow').length; i++) { if(document.getElementsByClassName('button-follow')[i].title === 'Follow') { document.getElementsByClassName('button-follow')[i].click(); } }\n```",
+			"added": 1470918065
+		}
+	],
+	"topic_vote": {
+		"1_14ng1wByxwoNXAhihYbpgyarVJbFiqs8ny": 1,
+		"1_1HrRNH7KbdxMjwLmwrHmZqJrzVZVDKc9bF": 1,
+		"1_1HMgJTFYY57XoH9wpBJHQZsWPvwsRp1WHX": 1,
+		"7_1GervYZoP82e8X1Rgc4wyMkJY2zSsJuq8t": 1,
+		"1_19RagxAc2n7zYdfbfda2Zc4dRoHRJzyAxo": 1,
+		"3_1PVcdu7USZH2kHMETbqDYLPjJZKCDWM52k": 1,
+		"1_1KCg4tQ1dBRfMWZ8ptrqXSSUKKR11rYb6P": 1,
+		"1_1Dj5WCaPV2r18QcDQFHmyx2HnGmwMJce9b": 1,
+		"11_1KdnTJVBGzEZrJppFZtzfG9chukuMv8xSb": 1,
+		"1_1Pgri2JHUege4wEeBFancwveUfYPh3HD3G": 1,
+		"4_1BFTNXtYQDMCurqyg45KLmsV6oJD7bQSsH": 1,
+		"3_1PCPuVtFv8apVpXYbc46wHugNhFUVQ6KCv": 1
+	},
+	"next_comment_id": 27,
+	"comment": {
+		"1_14ng1wByxwoNXAhihYbpgyarVJbFiqs8ny": [
+			{
+				"comment_id": 1,
+				"body": "> [tkarita](#comment_41_1GervYZoP82e8X1Rgc4wyMkJY2zSsJuq8t): If you really want to delete every comment, you can edit/remove data.json and make it unwritable.  Since everything is duplicated in SQL, you also have to update the database; deleting it will force it to be recreated.  That happens when ZeroNet is restarted.  Probably you should pause the site or stop ZeroNet while you modify its data.\n\nWill other peers pick up the changes though or will they have to restart their clients?",
+				"added": 1470219220
+			},
+			{
+				"comment_id": 2,
+				"body": "> [zeroexef](#comment_24_1CSc14JKdGAQJfQsfCLrduhB6zU4oEMwBf): It's not done based on majority. It's done based on the most recent signed copy of each file, so if you modify your file and 100 other peoples, it will just repopulate with the newest signed version anyway.\n\nI think you're right. In my VM I deleted the zite to ensure no further updates would be made and then deleted the content in question outside of the VM and then signed and published it. Afterwards when visiting the zite in the VM again the content was gone.\n\nSo basically it sounds like you have to compete to sign and update the users content.json before them. How is it possible to deal with spam, etc if this is the only way to delete stuff?",
+				"added": 1470265795
+			}
+		],
+		"1_16xztKVKJWMBZzTe77QSzLajE9JPxZvG5E": [
+			{
+				"comment_id": 3,
+				"body": "I can't vouch for it but saw this linked elsewhere:\n\nhttp://127.0.0.1:43110/1xxooZ7s8iDz3u56i5mNQ1XGmwF8Zvnw9/",
+				"added": 1470409977
+			}
+		],
+		"1_1y3Aju6k4jeBfXRUec23QDX5crf4qAAWW": [
+			{
+				"comment_id": 4,
+				"body": "Why not just use [CentOS](https://centos.org)? It's derived from the source code of RHEL so shouldn't be that different.",
+				"added": 1470576749
+			}
+		],
+		"1_1KCg4tQ1dBRfMWZ8ptrqXSSUKKR11rYb6P": [
+			{
+				"comment_id": 5,
+				"body": "Here's a little something I've been experimenting with - http://127.0.0.1:43110/1LBr1dHoXvJAMjDgW8Wcg5kbCoKyJnzo6p/\n\nIt's a straight up clone of [ZeroTorrent](http://127.0.0.1:43110/ZeroTorrent.bit/) I've been reverse engineering (still am) with the source code available on [Gitlab](https://gitlab.com/kickasstorrents/KAT).\n\nIt's extremely alpha / beta quality right now with it's fair share of rough edges. If something breaks you get to keep both pieces. Nonetheless I'd be interested in getting feedback from others and would like to work with anyone whose interested.",
+				"added": 1470623366
+			},
+			{
+				"comment_id": 6,
+				"body": "> [tkarita](#comment_72_1GervYZoP82e8X1Rgc4wyMkJY2zSsJuq8t): awesome sauce.  Do you have notes on what you had to do to get the clone working?  Others have tried and found surprising problems (with uploading in particular).  Also, if it's working well enough, you should increase the quota for sirenyc and a few others so they can post again.\n\nMainly copy the folder. Grep for any hardcoded links and use some sed magic to replace them `sed -i 's/HARDCODED_SITE_ID/NEW_SITE_ID/g'`. Then sign everything (every single content.json file and since there's a lot of them in data/users I think I ended up using a combination of the `find` command and a bash script to invoke zeronet.py to sign them). I used a Ubuntu VM to make sure everything was syncing correctly.\n\nYou can grab the source code from [Gitlab](127.0.0.1:43110/Talk.ZeroNetwork.bit/?Topic:1_1KCg4tQ1dBRfMWZ8ptrqXSSUKKR11rYb6P) which hopefully is easy enough to create a new site from with minimal effort. If it's not properly cloneable I consider this a bug and would like to fix it :)\n\nUploading hasn't been tested properly yet but I don't see why it shouldn't work since I've started with the foundations of ZeroTorrent and been altering it. Certain pages aren't styled properly yet though.",
+				"added": 1470640396
+			},
+			{
+				"comment_id": 9,
+				"body": "> [rapapobre](#comment_1_1K6HCsJskZENYG42GR7ocJXg9WjFbEq9hc): I have a petition(Zerotorrent.bit) :\n> \n> add the category: books\n> recognize the name of the torrent: spaces, brackets, parentheses.\n\nI probably shouldn't be saying this but from the code I've read it doesn't look like ZeroTorrent does any validation on the categories. You can create your own categories by editing the value in the select list using the web inspector in your browser when uploading a torrent.",
+				"added": 1470647664
+			}
+		],
+		"7_19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ": [
+			{
+				"comment_id": 7,
+				"body": "Site admin here; There's still a lot of work to be done before we can get something that's really usable and anywhere near as good as what KickAssTorrents was. Any developers can grab the source code from [Gitlab](https://gitlab.com/kickasstorrents/KAT).\n\nEveryone else I'd be happy to answer any questions or concerns. You can also mail me [here](http://127.0.0.1:43110/Mail.ZeroNetwork.bit/?to=kickasstorrents) as well if you'd like.\n\nMainly I'm interested in the sort of things you'd like to see from a torrent site on ZeroNet and what should and should not be included.",
+				"added": 1470640552
+			},
+			{
+				"comment_id": 8,
+				"body": "> [newuser123](#comment_21_1PCPuVtFv8apVpXYbc46wHugNhFUVQ6KCv): Nice work.Might I suggest focusing on building a forum first?With any luck the former KickAssTorrents community will move here boosting the usage of zero-net.\n\nI don't know how much value forums will add considering there's already a load of other forums on ZeroNet but adding forums should theoretically not be too difficult since the entire site is based off of ZeroTorrent which if I'm not mistaken is based off this forum (ZeroTalk).\n\nThe hard part is styling everything so that it looks slick.",
+				"added": 1470643664
+			},
+			{
+				"comment_id": 12,
+				"body": "> [stroopwafel](#comment_3_13YAyCDYoiUAM2ogemrSJ8yEVDNvnEceWp): PS I would also prioritize the forums. Not only would you create a corner for people who used to visit KAT, it would also create a place for people to discuss developing the actual site itself further.\n\nI've created a Roadmap [here](https://gitlab.com/kickasstorrents/KAT/wikis/roadmap). Basically I want to at least get torrents to display nicely and have a nice upload page and then after that I'll be sure to look into setting up forums.",
+				"added": 1470674902
+			},
+			{
+				"comment_id": 13,
+				"body": "> [stroopwafel](#comment_2_13YAyCDYoiUAM2ogemrSJ8yEVDNvnEceWp): Is there anything we as a community can do to contribute to this project? Don't have any experience coding but I'd love to help somehow.\n\nI basically need help deciding what features to implement and not implement. I'm still not 100% sure if it's going to be possible to make a 1:1 clone of Kat but we shall see ;)\n\nIt would also be good if bugs could be reported, although right now that's pretty much pointless since plenty of things are broken and I know it (and am working to fix it as fast as possible) :P",
+				"added": 1470675271
+			},
+			{
+				"comment_id": 26,
+				"body": "> [edantes](#comment_7_1JF3eQjW4voiKdcvCkMXvUx5bLmZAiVdyi): Its nearly half used up now, I musta dumped like 1500 movie titles on there this morning. But eventually it'll all add up, local storage is going to be the major issue with any data-heavy zite, especially a endlessly expanding torrent indexer, a dedicated hard drive will become necessary at some point in time. But I have a few ideas about how to mitigate that.\n> Regarding spam, that would be the MAFIAAs only recourse, hire a botnet and bombard the network with junk submissions, akin to the torrent and index poisoning of years gone by. So there needs to be a way of blocking specific IP ranges and blacklisting rogue users, standard stuff.\n\nUsers can be banned by zite admins in the content.json file so that shouldn't be a problem. The problem is limiting how much damage spam can do while at the same time ensuring normal users don't suffer. It's a difficult balancing act.",
+				"added": 1470928330
+			}
+		],
+		"17_1CMjV2r4EBpFt8VCcWWZKDysZXPcPExRNN": [
+			{
+				"comment_id": 10,
+				"body": "If you don't mind switching blogging software you might want to give [Jekyll](https://jekyllrb.com/) a try. It's a static website generator so will be right at home on the clearnet and here on ZeroNet. If you do give it a try Jekyll has support to migrate from Wordpress [here](http://import.jekyllrb.com/docs/wordpress/).",
+				"added": 1470661981
+			},
+			{
+				"comment_id": 11,
+				"body": "> [testingzeronet12](#comment_96_1CMjV2r4EBpFt8VCcWWZKDysZXPcPExRNN): Is Jekyll a WYSIWYG system? I have very minimal html skills (right now).\n\nIt's not WYSIWYG but uses markdown which is a very simple markup language based off of ascii email (See [here](https://daringfireball.net/projects/markdown/syntax)).",
+				"added": 1470668197
+			}
+		],
+		"1_1mytj22YfKjQujw9Fo43WBwSJB658vqyY": [
+			{
+				"comment_id": 14,
+				"body": "Have you tried \"*.webm\" or \"./dir/to/webms/*.webm\"?",
+				"added": 1470681373
+			},
+			{
+				"comment_id": 15,
+				"body": "> [throwaway9103323](#comment_2_1mytj22YfKjQujw9Fo43WBwSJB658vqyY): It just keeps over-writing it.\n\nHow are you signing it? Via the web interface? If so it might be worth stopping ZeroNet and trying using the cli:\n\n```\ncd /path/to/zeronet\n./zeronet.py siteSign SITE_ID\n```",
+				"added": 1470682002
+			},
+			{
+				"comment_id": 16,
+				"body": "> [throwaway9103323](#comment_3_1mytj22YfKjQujw9Fo43WBwSJB658vqyY): I've done that.\n\nHmm. If ZeroNet is definitely shut down then I can't think why anything would be overriding it unless you have a newer signed copy somewhere that's replacing it (this is unlikely). I'd say it's a bug but it's hard to tell. If your positive everyting is setup correctly and you're signing it correctly (it sounds to me like you are) then I'd post an issue on [Github](https://github.com/HelloZeroNet/ZeroNet)",
+				"added": 1470682349
+			},
+			{
+				"comment_id": 17,
+				"body": "> [throwaway9103323](#comment_4_1mytj22YfKjQujw9Fo43WBwSJB658vqyY): I just tried rebooting my pc and before anything else doing it. No other application was open. Still didn't work. I'm so confused. Is there a specific line of content.json I am supposed to add it to?\n\nThe example given in the [ZeroNet Docs](http://127.0.0.1:43110/17Kom2G5qNDc6NaQwv445h1gFzxkY3ZtZe/site_development/content_json/#optional) is as follows:\n\n`\"optional\": \"(data/mp4/.*|updater/.*)\"` - (everything in data/mp4 and updater directory is optional)\n\nYou could also try specifying each file individually using [files_optional](http://127.0.0.1:43110/17Kom2G5qNDc6NaQwv445h1gFzxkY3ZtZe/site_development/content_json/#files_optional) if that's not too much trouble.",
+				"added": 1470683891
+			}
+		],
+		"1_1DpQSUAGRj5ykejhp5NFinYZUHz5q87ujh": [
+			{
+				"comment_id": 18,
+				"body": "Make sure the proxy settings are set to ignore 127.0.0.1\n\nEdit --> Preferences --> Advanced --> Network --> Settings --> No Proxy For --> (Add 127.0.0.)",
+				"added": 1470748236
+			},
+			{
+				"comment_id": 19,
+				"body": "> [genericusername](#comment_18_14ng1wByxwoNXAhihYbpgyarVJbFiqs8ny): Make sure the proxy settings are set to ignore 127.0.0.1\n> Edit --> Preferences --> Advanced --> Network --> Settings --> No Proxy For --> (Add 127.0.0.)\n\nI read the question wrong, sorry. For me Zeronet doesn't open any browser at all so I can't help you? There's probably a config option or flag somewhere though...",
+				"added": 1470748338
+			},
+			{
+				"comment_id": 20,
+				"body": "> [anime](#comment_1_1DpQSUAGRj5ykejhp5NFinYZUHz5q87ujh): How do you use zeronet then if you don't open it in a browser?\n\nI mean ZeroNet doesn't open the browser for me. You can just close firefox and input [http://127.0.0.1:43110](http://127.0.0.1:43110) in your browser of choice. I'm not sure why firefox opens by default but I'd guess something to do with your default browser settings. I searched the ZeroNet documentation to see if there's a way to change this but it doesn't look like it (unless I missed something).",
+				"added": 1470748717
+			},
+			{
+				"comment_id": 21,
+				"body": "> [anime](#comment_2_1DpQSUAGRj5ykejhp5NFinYZUHz5q87ujh): Oh okay, is Tor browser necessary for being anon or am I already anon when Tor mode is active even thought I'm using Firefox? \n> I just tried http://127.0.0.1:43110 into Tor browser and it just shows a blank page even though I have set up the No Proxy for http://127.0.0.1\n\nI'm assuming you're using Windows. Reading the [documentation](https://zeronet.readthedocs.io/en/latest/faq/) again it sounds like tor is bundled with the Windows version. If it is then it should just work, and relatively speaking you should be anonymous. However web pages can include links to the outside world that can destroy your anonymity. To fix this set a [non-working proxy](http://127.0.0.1:43110/zeroblog.bit/?Post:60:protect+yourselves:+set+a+non-working+proxy) in Firefox or your browser of choice.",
+				"added": 1470750948
+			}
+		],
+		"18_1CMjV2r4EBpFt8VCcWWZKDysZXPcPExRNN": [
+			{
+				"comment_id": 22,
+				"body": "> [testingzeronet12](#comment_107_1CMjV2r4EBpFt8VCcWWZKDysZXPcPExRNN): Thanks. is there anyway to have an embedded video player within the actual post with controls? Was the code you gave me HTML5?\n\nYouTube videos can't be embedded because of the security features (sandboxing) ZeroNet uses.\n\nYou have to instead link to the YouTube videos page.",
+				"added": 1470887608
+			}
+		],
+		"3_14ng1wByxwoNXAhihYbpgyarVJbFiqs8ny": [
+			{
+				"comment_id": 23,
+				"body": "I mean it, I broke ZeroNet :P\n\n```\n  File \"/usr/lib/python2.7/site-packages/gevent/_tblib.py\", line 156, in __init__\n    self.tb_next = Traceback(tb.tb_next)\n  File \"/usr/lib/python2.7/site-packages/gevent/_tblib.py\", line 156, in __init__\n    self.tb_next = Traceback(tb.tb_next)\n  File \"/usr/lib/python2.7/site-packages/gevent/_tblib.py\", line 156, in __init__\n    self.tb_next = Traceback(tb.tb_next)\n  File \"/usr/lib/python2.7/site-packages/gevent/_tblib.py\", line 151, in __init__\n    self.tb_frame = Frame(tb.tb_frame)\n  File \"/usr/lib/python2.7/site-packages/gevent/_tblib.py\", line 146, in __init__\n    self.f_code = Code(frame.f_code)\nRuntimeError: maximum recursion depth exceeded while calling a Python object\n^C[13:21:48] - Unhandled exception\n```",
+				"added": 1470918160
+			},
+			{
+				"comment_id": 24,
+				"body": "> [tkarita](#comment_85_1GervYZoP82e8X1Rgc4wyMkJY2zSsJuq8t): You were trying to follow everyone at once?\n\nYes, because why not? It turns out this isn't a good idea...",
+				"added": 1470918421
+			},
+			{
+				"comment_id": 25,
+				"body": "> [newuser123](#comment_48_1PCPuVtFv8apVpXYbc46wHugNhFUVQ6KCv): You can follow everyone, I'm doing it right now without any issue.But I used the normal method to follow them though - not a script.\n\nI think if I added a `setTimeout` it would work no problem at all.  Since I used a loop I think I flooded the WebSocket with too many requests at one time and made Python sad. It seems to be working fine now.",
+				"added": 1470918744
+			}
+		]
+	},
+	"comment_vote": {
+		"18_1Buq4fyG8B3MxAvs7h4bASyWbrKFxmg4CJ": 1,
+		"5_1MYfK6tM4vfBJ8SHvbZ8sMH4u6o9mSRPWU": 1,
+		"2_1BHhjvSEumzmpaxz1pqbD1BoDU94xQhwJ1": 1,
+		"17_13hcYDp4XW3GQo4LMtmPf8qUZLZcxFSmVw": 1,
+		"7_19R2USgb9vPyg1jPQEJkGVoBwDuDcEmHRF": 1,
+		"11_1Ea7uVcuWTBiBAN1XCV7asaMaFBYPWbpAm": 1,
+		"6_1Gww6gdNer1MnstVTpQunFeQRrLLuoz5no": 1,
+		"707_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"2_1LU22xiZb41cCCgSxvxkXk3VW7fsph64Vs": 1,
+		"41_1CoVAt2jBzV4Na6nX3VG1JSfjS8fwse1Z9": 1,
+		"12_1Ea7uVcuWTBiBAN1XCV7asaMaFBYPWbpAm": 1,
+		"28_1xf9XC4Nsa7YfQWFiK6xGsNDJA3AaCTUa": 1,
+		"116_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1,
+		"112_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1,
+		"1_1DW9EhqZ7rndNKZTPbdxsttBU1jGtT2soT": 1,
+		"1_1Gqh9qpQKhfKz9H4VYsyZSjfqavCYbCG4C": 1,
+		"6_18XR5C5AxGfD5s2DbCPGuXxVN5oscoLyD6": 1,
+		"2_1JCtHdfVM4pNWJnbJXYj1FAnGJy8NHEy8D": 1,
+		"92_1KdnTJVBGzEZrJppFZtzfG9chukuMv8xSb": 1,
+		"70_1GervYZoP82e8X1Rgc4wyMkJY2zSsJuq8t": 1,
+		"4_15rFdTgS9qGHgxUFDo2yHXZkQ4H9fvZxXQ": 1,
+		"4_13YAyCDYoiUAM2ogemrSJ8yEVDNvnEceWp": 1,
+		"16_12EgeG4vgNHzuPJYZqVJQwy2W9vkywbQQu": 1,
+		"5_1JwPBvZYXLJzrA6YisjpsyTuuieFLCARS6": 1,
+		"3_1JCtHdfVM4pNWJnbJXYj1FAnGJy8NHEy8D": 1,
+		"128_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1,
+		"141_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1,
+		"49_1PCPuVtFv8apVpXYbc46wHugNhFUVQ6KCv": 1
+	}
+}

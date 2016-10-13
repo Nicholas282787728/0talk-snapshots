@@ -1,0 +1,32 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 4,
+	"comment": {
+		"2_14gsmmDALpphFSCB6nM57HtfPsGckNpjZE": [
+			{
+				"comment_id": 1,
+				"body": "[or from zeronet docs create_new_site]( /17Kom2G5qNDc6NaQwv445h1gFzxkY3ZtZe/using_zeronet/create_new_site/)",
+				"added": 1457729725
+			}
+		],
+		"3_1Kg7CXZM5h3wTPENsTDwWUmRBf9VhYy2cW": [
+			{
+				"comment_id": 2,
+				"body": "need explain more",
+				"added": 1457730004
+			}
+		],
+		"1_143LrtRTyo9ZXpyMtYH9vYv2qbggb2E95R": [
+			{
+				"comment_id": 3,
+				"body": "[а вот мои попытки разобраться с тем что здесь куда](/148or6yKMeNV4qdmKyCtpaNiFAeU1cccCw)",
+				"added": 1457774317
+			}
+		]
+	},
+	"comment_vote": {
+		"480_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1
+	}
+}

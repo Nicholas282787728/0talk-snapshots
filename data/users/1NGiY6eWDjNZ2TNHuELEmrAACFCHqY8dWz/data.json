@@ -1,0 +1,15 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "中国政治研讨",
+			"body": "当前的焦点是：\n1、海盐环境抗暴\n2、深圳法院开庭，审判苏昌兰和天理\n3、中共加强互联网管控",
+			"added": 1461331474
+		}
+	],
+	"topic_vote": {},
+	"next_comment_id": 1,
+	"comment": {},
+	"comment_vote": {}
+}

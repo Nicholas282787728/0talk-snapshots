@@ -1,0 +1,71 @@
+{
+	"next_topic_id": 3,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "Port Forwarding 15441",
+			"body": "I can't seem to get this port forwarded even though I've forwarded it every way I know possible to do so.",
+			"added": 1458424060
+		},
+		{
+			"topic_id": 2,
+			"title": "JavaScript",
+			"body": "Does anyone know how to make JavaScript work on a ZeroNet site?",
+			"added": 1459009597
+		}
+	],
+	"topic_vote": {},
+	"next_comment_id": 10,
+	"comment": {
+		"1_18jipjDsfAxAuq4ixbi2w24xJrYVfTYFPn": [
+			{
+				"comment_id": 1,
+				"body": "USA",
+				"added": 1459009851
+			}
+		],
+		"2_1BDapygZHNG8GxEuSsEpK9Xipm9mFfW1F2": [
+			{
+				"comment_id": 2,
+				"body": "I just cloned a site to make it available on ZeroNet and it already had the JavaScript coded into it",
+				"added": 1459011833
+			},
+			{
+				"comment_id": 3,
+				"body": "<img class=\"img-responsive\" src=\"../assets/images/movies/1_2013/medium-cover.jpg\" alt=\"+1 (2013) download\"/>\n<a class=\"torrent-modal-download button-green-download-big hidden-xs hidden-sm\" href=\"javascript:void(0);\"><span class=\"icon-in\"></span>Download</a>\n\nhere is the JavaScript button code that doesn't work anyone know how to make it work?",
+				"added": 1459012385
+			},
+			{
+				"comment_id": 4,
+				"body": "it works fine outside of ZeroNet",
+				"added": 1459012439
+			},
+			{
+				"comment_id": 5,
+				"body": "it works locally outside of zeronet but just not within zeronet for some reason",
+				"added": 1459046054
+			},
+			{
+				"comment_id": 6,
+				"body": "[Wrapper] Created!\nall.js?rev=1062:106 [ZeroWebsocket] Open\nall.js?rev=1062:544 hideProgress\nall.js?rev=1062:1310 [Wrapper] Setting title to YTS - ZeroNet\nhttp://127.0.0.1:43110/fonts.googleapis.com/css953b.css?family=Arimo:400,700,400italic,700italic&subset=latin,latin-ext Failed to load resource: the server responded with a status of 500 (Internal Server Error)\nb0f127a10831e175bbf44e730789dd85.js:3 Uncaught SecurityError: Failed to read the 'cookie' property from 'Document': The document is sandboxed and lacks the 'allow-same-origin' flag.\nhttp://127.0.0.1:43110/s7.addthis.com/js/300/addthis_widget.js#pubid=ra-56896aba6888ef3e Failed to load resource: the server responded with a status of 500 (Internal Server Error)\nhttp://127.0.0.1:43110/www.google-analytics.com/analytics.js Failed to load resource: the server responded with a status of 500 (Internal Server Error)\nhttp://127.0.0.1:43110/fonts.googleapis.com/css953b.css?family=Arimo:400,700,400italic,700italic&subset=latin,latin-ext Failed to load resource: the server responded with a status of 500 (Internal Server Error)\n\nI'm not very good at coding yet.",
+				"added": 1459047809
+			},
+			{
+				"comment_id": 7,
+				"body": "I'll get my bulk HTML editor to work lol thanks",
+				"added": 1459095449
+			},
+			{
+				"comment_id": 8,
+				"body": "You must be pretty good at coding I started learning like 2 years ago and I can't seem to make myself want to keep learning it. I think that's the ADD in me",
+				"added": 1459095763
+			},
+			{
+				"comment_id": 9,
+				"body": "http://127.0.0.1:43110/1AJB5rtjfB9imjDGVk5vtRtZp3zgYizbpG/\nthis site is mine also I've put a lot of work into it for a couple of years",
+				"added": 1459096004
+			}
+		]
+	},
+	"comment_vote": {}
+}

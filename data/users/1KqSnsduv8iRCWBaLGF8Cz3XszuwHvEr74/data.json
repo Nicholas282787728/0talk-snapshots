@@ -1,0 +1,35 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 5,
+	"comment": {
+		"14_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf": [
+			{
+				"comment_id": 1,
+				"body": "https://news.ycombinator.com/item?id=11210590",
+				"added": 1456958683
+			}
+		],
+		"2_18sw1reMFB1fpxc4vjfjoCrLaFs8UbMeQH": [
+			{
+				"comment_id": 2,
+				"body": "если бы алиены существовали, им бы пришлось долго лететь(как минимум 1000000лет) до земли, и врядли бы у них хватило питалово чтобы пережить полет, вотакот",
+				"added": 1458423394
+			},
+			{
+				"comment_id": 3,
+				"body": "а когда они планировали полет к земле, человек еще не умел говорить, а только  палкой махать, не думаю что им вообще было целесообразно лететь на землю",
+				"added": 1458423519
+			}
+		],
+		"1_18jipjDsfAxAuq4ixbi2w24xJrYVfTYFPn": [
+			{
+				"comment_id": 4,
+				"body": "либерланд",
+				"added": 1459064116
+			}
+		]
+	},
+	"comment_vote": {}
+}

@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HC22fMuO3nJMudxINQeSYqFCV35dqKEw8jqSOCrID73q/Z8qCq8nayRG0XaItv6p7zbZBAUwYAYr3poaMLhjSzA=",
+ "cert_user_id": "tomtomgps@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "7cceaa6ff9e912ffbe876746f71aaba7aa61e1af98c92669c56a733aded4a4a4",
+   "size": 531
+  }
+ },
+ "inner_path": "data/users/1HChVi4MV85rvyAkEpATe6TweGoUaxy2yy/content.json",
+ "modified": 1458182726.989317,
+ "signs": {
+  "1HChVi4MV85rvyAkEpATe6TweGoUaxy2yy": "HA5re0+CuUiEy3LMbVvGc7vJbT3akulWyNytA1qm44nkdM/z+N8VAx9n8KqLLEaa/yk0X9v2bCOam3+2Q4gM9iA="
+ }
+}

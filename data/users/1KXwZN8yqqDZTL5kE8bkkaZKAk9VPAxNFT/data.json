@@ -1,0 +1,23 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "Anyone knows any \"zero\" videogames downloads website?",
+			"body": "",
+			"added": 1456968404
+		}
+	],
+	"topic_vote": {},
+	"next_comment_id": 2,
+	"comment": {
+		"1_1GHF28rHoAH3fBV1W9sHwWBxNAur9RGXD5": [
+			{
+				"comment_id": 1,
+				"body": "No tiene servidor, la red si jaja! Tambien desde Argentina.",
+				"added": 1456968334
+			}
+		]
+	},
+	"comment_vote": {}
+}

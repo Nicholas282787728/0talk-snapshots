@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "G52tABF6wbZc5W0NsJWJdr4xyfqkRp/+OdRd+erLcpVjjlOQfdQMLX1P+zKYGvjpYOOS0QsxIRoCjLQ4e+5APoA=",
+ "cert_user_id": "katuna@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "090e041ebdbc711c6fd6bf1036471e8a13f72b10cfdadd685e7241aa4d7c26c4",
+   "size": 1500
+  }
+ },
+ "inner_path": "data/users/12QRosf2mPWtPPaBCw7YWkiN1MHDEzUSRp/content.json",
+ "modified": 1460421335.031179,
+ "signs": {
+  "12QRosf2mPWtPPaBCw7YWkiN1MHDEzUSRp": "GxZwlqU7qLw21VqLN97MGwkrFOVJwFwQrXwDFd2eCfO+cHfFdbstEEol84c8ALqCyW+ZMoG1zT0JstIm5X5c4xE="
+ }
+}

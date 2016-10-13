@@ -1,0 +1,18 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {
+		"1_1AkQwH5jKWsMFH8zAo5zCu9RV2Csa57RYF": 1
+	},
+	"next_comment_id": 2,
+	"comment": {
+		"1_1AkQwH5jKWsMFH8zAo5zCu9RV2Csa57RYF": [
+			{
+				"comment_id": 1,
+				"body": "concordo",
+				"added": 1458086334
+			}
+		]
+	},
+	"comment_vote": {}
+}

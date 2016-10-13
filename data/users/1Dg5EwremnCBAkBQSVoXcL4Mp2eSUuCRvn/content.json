@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HOUL7Q2CeLPWr/jFhd86IEXDJlUiItn5aNEzzR89L9xHsGAVzSleQJvR11ZnstNAB6RbzZelWwTvE9nT6AENmxI=",
+ "cert_user_id": "lorocignetti@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "b208d640cd2dcbec8d6eecc0ac69dded274680ad1529a58de06881b5614d5cbc",
+   "size": 214
+  }
+ },
+ "inner_path": "data/users/1Dg5EwremnCBAkBQSVoXcL4Mp2eSUuCRvn/content.json",
+ "modified": 1457085604.858,
+ "signs": {
+  "1Dg5EwremnCBAkBQSVoXcL4Mp2eSUuCRvn": "G8EpjuIVNPgQWEh1zKvXV9o0fYqnj6tLGRDNq5KZYtcATNV/K+u9gWrtTCHBUs+wI5dUUrNQ+9N6IwvPpgNrwJc="
+ }
+}

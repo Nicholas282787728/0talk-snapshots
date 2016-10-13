@@ -1,0 +1,20 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {
+		"6_178NSuZP2hH2vHhNX6vsHceh5sjPkDrLiH": 1
+	},
+	"next_comment_id": 2,
+	"comment": {
+		"10_1MEWJRMLgvofqG9Mbsb2Rc4hFFyv7HeRx7": [
+			{
+				"comment_id": 1,
+				"body": "no such thing... the web runs on the net, the net runs on electrons, electrons are not dark ;>",
+				"added": 1467682612
+			}
+		]
+	},
+	"comment_vote": {
+		"41_1BLPKyrF2D4ertte6JnAa6oWAMYzZGwKQz": 1
+	}
+}

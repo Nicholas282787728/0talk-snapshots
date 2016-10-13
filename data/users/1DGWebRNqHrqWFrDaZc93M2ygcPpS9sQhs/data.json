@@ -1,0 +1,18 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {
+		"2_1BY3fbfkw2w8oDtpbjbEQQbpmNzrWL4BqN": 1
+	},
+	"next_comment_id": 2,
+	"comment": {
+		"2_1BY3fbfkw2w8oDtpbjbEQQbpmNzrWL4BqN": [
+			{
+				"comment_id": 1,
+				"body": "Doesn't this create a vulnerability?",
+				"added": 1457206430
+			}
+		]
+	},
+	"comment_vote": {}
+}

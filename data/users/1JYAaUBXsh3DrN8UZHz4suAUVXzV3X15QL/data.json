@@ -1,0 +1,82 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "A Question about VPNs",
+			"body": "Hi everyone. I'm currently running OpenVPN on my own VPS. I've seen people recommending this setup to others as well. We all look for VPN services that do not keep any logs. In this case (VPS), your tunnel is secure and your data isn't logged because it's YOU who's running the server. However, what is stopping your VPS provider from logging your traffic? This has always bothered me.\n\nSo is it better going with a VPN provider who claim they do not keep logs than setting up your own OpenVPN server?",
+			"added": 1470630680
+		}
+	],
+	"topic_vote": {
+		"1_1JYAaUBXsh3DrN8UZHz4suAUVXzV3X15QL": 1,
+		"1_1KCg4tQ1dBRfMWZ8ptrqXSSUKKR11rYb6P": 1,
+		"9_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1,
+		"8_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1,
+		"10_1KdnTJVBGzEZrJppFZtzfG9chukuMv8xSb": 1,
+		"1_1JGTZxxkeZuhNBRfW6imTjeYbzjgqkU48N": 1,
+		"1_1Dj5WCaPV2r18QcDQFHmyx2HnGmwMJce9b": 1
+	},
+	"next_comment_id": 7,
+	"comment": {
+		"1_1JYAaUBXsh3DrN8UZHz4suAUVXzV3X15QL": [
+			{
+				"comment_id": 1,
+				"body": "> [newuser123](#comment_22_1PCPuVtFv8apVpXYbc46wHugNhFUVQ6KCv): Not an expert on the subject, but yeah, as far I know there's nothing stopping VPN/VPS provider from logging your traffic.\n\nYeah, I guess you're right. If the VPN providers claim that they do not log your info (and if it is actually true), I guess it would be a better option than running your own server if you're reaaaally concerned about privacy IMO.\n\nAgain, this is just my guess. Would really appreciate if anyone with more info could shed some light on this.",
+				"added": 1470645468
+			},
+			{
+				"comment_id": 3,
+				"body": "> [circle](#comment_9_1XGf6G78ZwZwz4FeZBtmzxtKAsTicgaBN): The solution is depends on who do you want to hide from. If it's your your firm, or you just want to add a layer of security to the wifi link, or if you're afraid of rogue ISP employees spying on your traffic, then VPN is just fine.\n\nI see. What if you want to hide from *everyone*? Tor/i2p?",
+				"added": 1470889173
+			}
+		],
+		"1_1Hrxe8am5by9G5k4MeQDHVLepsJJ9yX5Fg": [
+			{
+				"comment_id": 2,
+				"body": "Soon",
+				"added": 1470889053
+			}
+		],
+		"10_1ADB7TdX2fVbTsWBoMe9yBTmVXTbb33b4R": [
+			{
+				"comment_id": 4,
+				"body": "> [scrub](#comment_121_1ADB7TdX2fVbTsWBoMe9yBTmVXTbb33b4R): I may also add that as soon as I posed this, it got three upvotes. Impossible. Maybe it's a bug.\n\nI've seen a similar thing happen to me as well (the upvote bug)",
+				"added": 1470897593
+			},
+			{
+				"comment_id": 5,
+				"body": "And regarding your question - click on the three dots, then click on *Version 0.3.7 (rev????)* \nThen you should see a button on the top right corner asking you to update it. Click it and wait for a minute or two. That's it. Zeronet will restart with the update. Let me know how it goes.",
+				"added": 1470897739
+			},
+			{
+				"comment_id": 6,
+				"body": "> [scrub](#comment_122_1ADB7TdX2fVbTsWBoMe9yBTmVXTbb33b4R): Thanks, I'm now on 0.4.0!\n\nGreat! :)",
+				"added": 1470902148
+			}
+		]
+	},
+	"comment_vote": {
+		"3_1JF3eQjW4voiKdcvCkMXvUx5bLmZAiVdyi": 1,
+		"13_1CTut2qbaj54ZjNoYeuWSGwV75iVieKY6N": 1,
+		"12_1CTut2qbaj54ZjNoYeuWSGwV75iVieKY6N": 1,
+		"6_1Ns49ghhugceiVKRy8k7sbJXYKpaQSgWQ7": 1,
+		"4_14ng1wByxwoNXAhihYbpgyarVJbFiqs8ny": 1,
+		"2_1M4Ab8CUu3byziHVvNXLHmPezC4Lg9hvNJ": 1,
+		"22_1PCPuVtFv8apVpXYbc46wHugNhFUVQ6KCv": 1,
+		"1_1JYAaUBXsh3DrN8UZHz4suAUVXzV3X15QL": 1,
+		"123_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1,
+		"27_1PCPuVtFv8apVpXYbc46wHugNhFUVQ6KCv": 1,
+		"30_17VwZEfWSUWb5RHkK9m1odnDdBfvjTL6Cp": 1,
+		"31_17VwZEfWSUWb5RHkK9m1odnDdBfvjTL6Cp": 1,
+		"7_14ng1wByxwoNXAhihYbpgyarVJbFiqs8ny": 1,
+		"73_1GervYZoP82e8X1Rgc4wyMkJY2zSsJuq8t": 1,
+		"8_14ng1wByxwoNXAhihYbpgyarVJbFiqs8ny": 1,
+		"24_1PCPuVtFv8apVpXYbc46wHugNhFUVQ6KCv": 1,
+		"26_19arYgVKguUamTqtYGu6T9FSUsr19CyEcG": 1,
+		"146_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1,
+		"129_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1,
+		"1_1HqyK2mjr5hAG3c613KzcBDURKymVwHmuh": 1,
+		"9_164W1rFVD9Bm7poGJWvjVUjvkbhhFC5nnt": 1
+	}
+}

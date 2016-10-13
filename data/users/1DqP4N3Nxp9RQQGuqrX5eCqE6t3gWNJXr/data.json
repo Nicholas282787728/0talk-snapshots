@@ -1,0 +1,46 @@
+{
+	"next_topic_id": 3,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "Go beyond the 10MB limit",
+			"body": "Hello guys,\n\nDo you go past the 10MB uploading limit to your /data/ folder just by changing the limit in the right-hand menu on your Zeronet, or is there something else?",
+			"added": 1466591011
+		},
+		{
+			"topic_id": 2,
+			"title": "what causes the message \"file update failed\" ?",
+			"body": "Any idea?",
+			"added": 1466733609
+		}
+	],
+	"topic_vote": {},
+	"next_comment_id": 5,
+	"comment": {
+		"1_1DqP4N3Nxp9RQQGuqrX5eCqE6t3gWNJXr": [
+			{
+				"comment_id": 1,
+				"body": "> [angristan](#comment_85_1MEWJRMLgvofqG9Mbsb2Rc4hFFyv7HeRx7): When a zerosite needs more than 10MB, you'll get an alert\n\nThe thing is, I put a bunch of files in the data folder then I \"confirmed\" (so as to say) in the terminal in order to update the site, but the terminal stopped updating when it reached 10MB. Is there any way to go past that? Thanks",
+				"added": 1466597338
+			},
+			{
+				"comment_id": 2,
+				"body": "> [ks](#comment_91_14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx): I'd say that you can change your local limit to whatever you need. Then it's up to your readers / seeders to accept the higher limit (they'll be prompted).\n> You can also make some or all of your files optional.\n\nAre the users prompted even if they access the site without knowing it's even a Zeronet site? (by using enabling them to access the site via a proxy for example) ?",
+				"added": 1466598490
+			},
+			{
+				"comment_id": 3,
+				"body": "> [ks](#comment_92_14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx): I don't know how it works if users are accessing the site through a proxy (since it's not their own storage), but they are prompted if they access zeronet directly.\nThanks!\nPerhaps someone else can provide an answer?",
+				"added": 1466668952
+			}
+		],
+		"2_1DqP4N3Nxp9RQQGuqrX5eCqE6t3gWNJXr": [
+			{
+				"comment_id": 4,
+				"body": "> [oracle](#comment_173_1ED3Ho3kmzaKiECtyuqSjDpoE47rKuXeP): I'm getting that now with ZeroMail for some reason.\n\nI usually update my Zeronet site with several dozen of files, they all get updated except a few of them. There's no way to know which ones didn't make it, and the reason why. Any insight?",
+				"added": 1466760557
+			}
+		]
+	},
+	"comment_vote": {}
+}

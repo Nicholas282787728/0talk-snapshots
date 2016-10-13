@@ -1,0 +1,15 @@
+{
+ "cert_auth_type": "web", 
+ "cert_sign": "HN/TrqQvo9Du2eFUnQfIi55eHpuaWK/beHPnx2G2clvDk5aHFfxgB70czmWE17HzIks2C/wpzn/6a/Im7kTWIfI=", 
+ "cert_user_id": "hacworld@zeroid.bit", 
+ "files": {
+  "data.json": {
+   "sha512": "4771e686d9853c7ae4b593838c077aa2ab59fa84c2483b8584abf5649eee910a", 
+   "size": 569
+  }
+ }, 
+ "modified": 1450554505.185381, 
+ "signs": {
+  "14tZUZypdydwcKr3KwVng6XY85YJynBNrk": "G0Ilwghx/rERPwL/3R8J1R/9TEnGUG1k8WLmETQUFcTTwAx9sMz8GHvdJ/wlbMBqW3lrUybbH2945zVnTxRPy2Q="
+ }
+}

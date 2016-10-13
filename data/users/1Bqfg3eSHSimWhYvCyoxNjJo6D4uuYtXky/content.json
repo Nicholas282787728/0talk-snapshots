@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "G6OExhHYgChLfiyushjOB29lkM86YwpfrmwESoi8QxmF4IOet1vyZQtDS0oX8jrTkFN9gXPuBFDsj4UoTRXjP3Y=",
+ "cert_user_id": "chewzerita@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "46749f1fe7a398388ec342f5b6d0fbb60b09630289b84ba08b4c1af84bc4d2d1",
+   "size": 250
+  }
+ },
+ "inner_path": "data/users/1Bqfg3eSHSimWhYvCyoxNjJo6D4uuYtXky/content.json",
+ "modified": 1468381858.282978,
+ "signs": {
+  "1Bqfg3eSHSimWhYvCyoxNjJo6D4uuYtXky": "G0hsMgg/QnbM5DTswLLDbA641AM72dRnSkfaOFvfNY7Oq0lvIEchUzL7IAnbEyWSGM6KQuCrW/5MYjY4wsKVh5E="
+ }
+}

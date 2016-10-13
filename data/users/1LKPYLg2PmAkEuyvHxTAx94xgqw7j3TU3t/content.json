@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "G9C/G5eP+pVr5cZEtFCU1hCviaFnKoZhgcZOrQJmADUPX2HXEtDIWd7RHYT9aEiDXA5mFUJhrtxL08qTGlK2IJk=",
+ "cert_user_id": "doctorserone@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "1128fc0c5016fa86e884990791e925b056dc3628440ecae27751347a84670f4e",
+   "size": 267
+  }
+ },
+ "inner_path": "data/users/1LKPYLg2PmAkEuyvHxTAx94xgqw7j3TU3t/content.json",
+ "modified": 1457499007.944474,
+ "signs": {
+  "1LKPYLg2PmAkEuyvHxTAx94xgqw7j3TU3t": "G1N32io5R7uqFIXHsllrMebjsJLP+6k1HYxUc17Gcl82PvvB6nRFhY5s6fWK7l/Kj9o9QUAtafzaamjLXolIw2Y="
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "G9WzHIph9IxrmALvwOCyukDG6G48UAmWGuqczs/d+Gj4U8xB5YNpq93tRUhlzczbvQEyohnWtinPzQAzuYuSZzY=",
+ "cert_user_id": "ondratra@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "ad6664a6c49ab9d549f4c7094987e25948283c8042b6fa14a173f6a73b1ac092",
+   "size": 825
+  }
+ },
+ "inner_path": "data/users/1FDhCAP9pqKaonKkhAibsYCjRwwtbr3GYD/content.json",
+ "modified": 1468956981.25065,
+ "signs": {
+  "1FDhCAP9pqKaonKkhAibsYCjRwwtbr3GYD": "HOtgMMzz8QRhFiOi8pQSzJU821ZMtc/G0hD/o6Un4Y+o1IdtBsgbr2IE1XXmbKkt2qRsG0nOOYau3fpbKAYOvvM="
+ }
+}

@@ -1,0 +1,101 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "Please increase my ZeroMail max_size",
+			"body": "Can you please increase my ZeroMail max_size? I can't send mails anymore (content sign failed: invalid private key.) \n\nI bet there are many people who don't know what to do if this content sign error pops up, and therefore just stop using zeromail. \n\nWhy not set a default of 100MB or 1GB? The most people have plenty of harddisk space nowadays.",
+			"added": 1462443743
+		}
+	],
+	"topic_vote": {},
+	"next_comment_id": 14,
+	"comment": {
+		"1_18jipjDsfAxAuq4ixbi2w24xJrYVfTYFPn": [
+			{
+				"comment_id": 1,
+				"body": "Nice to have people from so many different countries here! ☮",
+				"added": 1461507506
+			}
+		],
+		"2_1FYXQGLBeNabf5jZHgP4CwzbmJSKaK4oMz": [
+			{
+				"comment_id": 2,
+				"body": "I can send you a small amount of namecoin for registering a domain. Or, if you want, I can register the domain for you (for free). http://127.0.0.1:43110/domains4free.bit",
+				"added": 1462437087
+			},
+			{
+				"comment_id": 4,
+				"body": "Also make sure there are no unnecessary whitespaces in your domain configuration. It should look like this, example: \n**{ \"zeronet\": { \"\": \"186THqMWuptrZxq1rxzpguAivK3Bs6z84o\" } }**\nIf you have a domain with subdomains, example: \n**{ \"zeronet\": { \"\": \"186THqMWuptrZxq1rxzpguAivK3Bs6z84o\",\"blog\": \"1Ajp75FXAxdTzRiRTpdBgd4exvbo4gMW12\" } }**",
+				"added": 1462454438
+			}
+		],
+		"1_19jY7u41PdsoRuWKac3bU78SCsDVZFGucd": [
+			{
+				"comment_id": 3,
+				"body": "Ok, thanks for the infos.",
+				"added": 1462445340
+			}
+		],
+		"1_1BEBJ3HvfguEM6myAqsNkvbPzEhjf6c8Vf": [
+			{
+				"comment_id": 5,
+				"body": "Check your namecoin wallet.",
+				"added": 1462986092
+			}
+		],
+		"2_1QFypqt7F76svWztFgeFB89ChFfAwsWBcJ": [
+			{
+				"comment_id": 6,
+				"body": "What makes you think it's a scam? Zerotalk is just a messaging board. \nThere are 100's more sites on zeronet: http://127.0.0.1:43110/0list.bit/ \nThere's also an italian message board, if you are interested: http://127.0.0.1:43110/16awv1xD5Hpxc4Q3f9tsSZ9MF6sSSdqF7p",
+				"added": 1463043132
+			}
+		],
+		"1_16s9RYL8i9gtVGWR3iv9mbeLz5v8GM85R6": [
+			{
+				"comment_id": 7,
+				"body": "Hello! 你好!",
+				"added": 1463043249
+			}
+		],
+		"1_1QFypqt7F76svWztFgeFB89ChFfAwsWBcJ": [
+			{
+				"comment_id": 8,
+				"body": "Some torrent sites (there are more): \nhttp://127.0.0.1:43110/1PLAYgDQboKojowD3kwdb3CtWmWaokXvfp/\nhttp://127.0.0.1:43110/ZeroTorrent.bit/\nhttp://127.0.0.1:43110/1K2jQdBFNFUHhGrAv8g9Z2Ln4BNcQdqhBb/",
+				"added": 1463043407
+			}
+		],
+		"1_12zyC2je1V8Sfq6C5d6CSzUkjYf4bEdva4": [
+			{
+				"comment_id": 9,
+				"body": "> [vahcam](#comment_1_12zyC2je1V8Sfq6C5d6CSzUkjYf4bEdva4): No that is not the question, if I don't use Tor, would surfing here in ZeroNet respects my anonymity ?\n\nI would say, if you don't use some sort of anonymizing tool (tor, vpn, etc.), a skilled 'spy' who understands how zeronet works, is able trace every step you take. He can also find out who initially created and seeded a page. It might not be super easy to do, but it's definitely possible, in my opinion.",
+				"added": 1463403069
+			}
+		],
+		"1_1AmCeetxMbGpZSEo2VbT8x8KStHs6KbpUE": [
+			{
+				"comment_id": 10,
+				"body": "> [ancap](#comment_35_1FYXQGLBeNabf5jZHgP4CwzbmJSKaK4oMz): there's a guy here who gives away small amounts of NMC, enough to register .bit \nYeah, I can send you some nmc's for free. Just let me know your namecoin address, if you are interested. My ZeroMail username is **domains4free**.",
+				"added": 1463556584
+			},
+			{
+				"comment_id": 11,
+				"body": "> [ballsballsballzs](#comment_2_19inpaXMSVnnoTgQMURnPnKFHtaXD4HMaf): thank you. ballsballsballzs@zeroid.bit\n\nTo receive namecoins, you need to install the namecoin program and then generate an address (receive coins / new address). https://www.namecoin.info/download/ \nThe namecoin program is also required to register and maintain your bit domains.",
+				"added": 1463562132
+			},
+			{
+				"comment_id": 12,
+				"body": "If you want me to register a domain for you, let me know the informations mentioned on the following site: \nhttp://127.0.0.1:43110/domains4free.bit",
+				"added": 1463562373
+			}
+		],
+		"3_12yaKkoqVKBUi66uB5pYXamWguKFaWdDnx": [
+			{
+				"comment_id": 13,
+				"body": "There's a \"renew name\" button in the [namecoin-qt client](https://www.namecoin.info/download/) (v0.3.80) under the tab \"manage names\".",
+				"added": 1471707199
+			}
+		]
+	},
+	"comment_vote": {}
+}

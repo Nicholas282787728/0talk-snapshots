@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HE2i0ykpUKBWnRWIvz8uszOMmOgj64NEFapH0QIjLYOyvrVW7s0YUEr27e4c7I7r2drwZZr/tM4/qb2aerBjtbA=",
+ "cert_user_id": "kandigloss@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "dc25435a8ead2ba284166555779daca7684009f54c9b38a5b7d3afae47cf9d83",
+   "size": 987
+  }
+ },
+ "inner_path": "data/users/18eygAvFKgPPhN6GpEqr21p4ocxmtzpXtY/content.json",
+ "modified": 1464400168.986,
+ "signs": {
+  "18eygAvFKgPPhN6GpEqr21p4ocxmtzpXtY": "HDuzI9yeVTNfy2ixBOB/Vqw5ndVuaw+MlE7ICnVccjDdKsrczQWIiQGcgULg1sDppgVEHdTmMOxbOBTAxnxK0wI="
+ }
+}

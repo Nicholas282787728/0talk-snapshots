@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HFROIsr5eJR9Vtf1pDnKQttwgy/QgcH2L78SocUNUZCk1qvKBSDPKAayPuJimmGQ8Jp8pyeTTCYIOWnYd4kjoWk=",
+ "cert_user_id": "klauszimmermann@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "8905e11d8d57bb3bdc40d2b6036a2dfbb35807e402d4dcf59c3355b3006843eb",
+   "size": 21592
+  }
+ },
+ "inner_path": "data/users/15QGRquMETTn5LnCHjTm1qa9eaXGtq7gpT/content.json",
+ "modified": 1472001940.711928,
+ "signs": {
+  "15QGRquMETTn5LnCHjTm1qa9eaXGtq7gpT": "HCGRahSXyOWBgAWU/zkrsz8Ud7J28rKVIScBU+gJv4aqEjt19gymDfQq09dpG010L9mTTAmOck+HmFokuMG7iGc="
+ }
+}

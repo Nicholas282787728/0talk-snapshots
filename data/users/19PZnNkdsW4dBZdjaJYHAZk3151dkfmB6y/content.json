@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HJfH7oo5HrGOZdSoxGIS8fotkOA+0uUdex55iUmZYDFAbEbJVtCMpDfaPPhLEIbL2eoQ8TXXjLo986f/JPzf3as=",
+ "cert_user_id": "karguine@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "1747d454a96390674de82bafec56ba151bfea3f059e0e0c81d33b0a27494489e",
+   "size": 300
+  }
+ },
+ "inner_path": "data/users/19PZnNkdsW4dBZdjaJYHAZk3151dkfmB6y/content.json",
+ "modified": 1458674973.690663,
+ "signs": {
+  "19PZnNkdsW4dBZdjaJYHAZk3151dkfmB6y": "HJwg91NXdhFwFCJYZtjNX2DFXbVWTxPRf3iJuJb1oH3bUR5XHXs69J62WkWU4/qgvVoaC5fq23t+zG8GsKH/0Rc="
+ }
+}

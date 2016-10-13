@@ -1,0 +1,147 @@
+{
+	"next_topic_id": 3,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "ZeroMail FAQ",
+			"body": "about Mail.ZeroNetwork.bit\nWhen I send a mail does it get cloned one everyone's machine? or is just stored on a few users machines?\nHow long does each mail last on the network if no one ever receives it? Will the sender know it was never received and will it auto re-send to keep it in the queue for the receiver to get it? \nIt would be nice if there was a ZeroMail FAQ link on the page.",
+			"added": 1456268398
+		},
+		{
+			"topic_id": 2,
+			"title": "Aqua: Towards Efficient Traffic-analysis Resistant Anonymity Networks (2013)",
+			"body": "Aqua: Towards Efficient Traffic-analysis Resistant Anonymity Networks (2013)\nhttp://dl.acm.org/citation.cfm?id=2486002\n-\nThe interesting idea in this pdf/whitepaper is that for torrent/file-sharing traffic the network could be grouped into synced bandwidth with other peers. Each peer would send and receive the same amount of encrypted traffic within their group to routing nodes.\n---\nUser 1 > node1 > User 4\nUser 2 > node1 > User 5\nUser 3 > node1 > User 6\n---\nThe whitepaper makes it clear that there are more nodes and users along the path (similar to Tor).\nThe idea would be that traffic analysis would not be able to know if \"User 1\" was sending traffic to user 4, 5, or 6. As the group grows so does the uncertainty. This is unlike Tor and I2P where the traffic of 10KB getting forwarded from 1 to 2 is easy to see from outside the node, and the 100KB being send at the same time from 3 to 4 is also easy to see where it came from and where it is going. There is not uncertainty in those cases. The node (and each node along the path) would have to be compromised and analyzed for there to be certainty of who is talking to whom. It is a pretty cool idea, but it doesn't seem like I2P or Tor will be moving toward stronger traffic-analysis resistance anytime soon. \n-\nTor and I2P are both going to work with ZeroNet, which ads a lot of anonymity, but not necessarily traffic-analysis resistance.\nZeroNet might be able to implement a similar idea where some nodes choose to forward encrypted traffic using the method description in the Aqua white-paper. It might not be possible with ZeroNet, but I thought I would bring it up in case the devs find it interesting enough to look into.",
+			"added": 1456416694
+		}
+	],
+	"topic_vote": {
+		"1_13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ": 1
+	},
+	"next_comment_id": 22,
+	"comment": {
+		"14_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf": [
+			{
+				"comment_id": 1,
+				"body": "> [vethit](#comment_4_1JdKZXpUz9vvevT99mmfTdbs3hjszJzqDX): \n> Mostly java sites so far\nI have not seen a single ZeroNet site that uses Java. I think you meant JavaScript.\nhttps://en.wikipedia.org/wiki/Javascript#JavaScript_and_Java\nA common misconception is that JavaScript is similar or closely related to Java. It is true that both have a C-like syntax (the C language being their most immediate common ancestor language). They also are both typically sandboxed (when used inside a browser), and JavaScript was designed with Java's syntax and standard library in mind. In particular, all Java keywords were reserved in original JavaScript, JavaScript's standard library follows Java's naming conventions, and JavaScript's Math and Date objects are based on classes from Java 1.0,[123] but the similarities end there.\n\nThe differences between the two languages are more prominent than their similarities. Java has static typing, while JavaScript's typing is dynamic. Java is loaded from compiled bytecode, while JavaScript is loaded as human-readable source code. Java's objects are class-based, while JavaScript's are prototype-based. Finally, Java did not support functional programming until Java 8, while JavaScript has done so from the beginning, being influenced by Scheme.",
+				"added": 1456268796
+			}
+		],
+		"1_16Sj4y8f1gVgm4kB8jcuh6HsW2MqJwGonF": [
+			{
+				"comment_id": 2,
+				"body": "bridging: bitcoin-core-0.12.0\n---\nmagnet:?xt=urn:btih:e6c0cd47cce75e53b04c1c575a39d2022612d1d6\n\nRemember to gpg --verify the SHA256SUM with \" Wladimir J. van der Laan's key.\" 0x90C8019E36C2E964\n01EA 5486 DE18 A882 D4C2  6845 90C8 019E 36C2 E964\nSource: https://www.reddit.com/r/Bitcoin/wiki/pgp_keys",
+				"added": 1456362441
+			},
+			{
+				"comment_id": 3,
+				"body": "bridging: The.Walking.Dead.S06E10 (672MB) KILLERS ETTV\n---\nmagnet:?xt=urn:btih:8c97945cbde635f1c7aa13484ac4c027aabf68ed&dn=The.Walking.Dead.S06E10.PROPER.HDTV.x264-KILLERS%5Bettv%5D",
+				"added": 1456365328
+			},
+			{
+				"comment_id": 4,
+				"body": "bridging: The.Revenant.2015 Xvid 1.39GB\n---\nmagnet:?xt=urn:btih:2ff489c4e35af05e11243836e75dc16a941270d7&dn=The.Revenant.2015.DVDScr.XviD.AC3-ETRG",
+				"added": 1456365410
+			},
+			{
+				"comment_id": 5,
+				"body": "bridging: The Flash 2014 S02E15 232MB\n---\nmagnet:?xt=urn:btih:98866458201611C57D3EADBBA18E12E39891A253&dn=the+flash+2014+s02e15+hdtv+x264+lol+ettv",
+				"added": 1456416924
+			},
+			{
+				"comment_id": 6,
+				"body": "bridging: The.X-Files.S10E06 ettv 267MB\n---\nmagnet:?xt=urn:btih:9ed2bed5ed929ca95137e4445ef57e3669167b06&dn=The.X-Files.S10E06.HDTV.x264-FUM%5Bettv%5D",
+				"added": 1456417111
+			},
+			{
+				"comment_id": 12,
+				"body": "#Linux 64 bit - XCOM  Enemy Unknown Within and DLC The Long War\nmagnet:?xt=urn:btih:c8ac18abc5e4a9c9f85494e9ae90321b5c7a8d28&dn=%5BLinux+64-bit%5D+XCOM%3A+Enemy+Unknown+%2B+Within+%2B+DLC+%2B+The+Long+War&tr=http://tracker2.postman.i2p/announce.php",
+				"added": 1457454627
+			},
+			{
+				"comment_id": 13,
+				"body": "#The Hunger Games Mockingjay Part 2 2015\nmagnet:?xt=urn:btih:7237d91d3a4fc8113788f608de9eb2c8cac686b6&dn=The.Hunger.Games.Mockingjay.Part.2.2015.DVDRip.XviD.AC3-EVO",
+				"added": 1457454681
+			},
+			{
+				"comment_id": 14,
+				"body": "#Family Guy S14E15\nmagnet:?xt=urn:btih:A742D3773659A6CD921AFE19EF246C69BB3E8518&dn=family+guy+s14e15+hdtv+xvid+fum+ettv",
+				"added": 1457454733
+			},
+			{
+				"comment_id": 15,
+				"body": "#House of Cards 2013 S04E01 720p\nmagnet:?xt=urn:btih:0618a73330cb0e2acfc697069be6502536b265b2&dn=House.of.Cards.2013.S04E01.720p.WEBRip.X264-DEFLATE%5Bettv%5D",
+				"added": 1457454771
+			},
+			{
+				"comment_id": 16,
+				"body": "#Simpsons S27E15\nmagnet:?xt=urn:btih:BC53E09B9895A590FB088BCC7AEAE1A07CE5257E&dn=the+simpsons+s27e15+hdtv+x264+killers+ettv",
+				"added": 1457454795
+			},
+			{
+				"comment_id": 18,
+				"body": "#tails-i386-2.2\nmagnet:?xt=urn:btih:dfbd50c14392a06524a484e9476bf958eb223ccb&dn=tails-i386-2.2\n\n$ cd tails-i386-2.2/\n$ gpg --verify tails-i386-2.2.iso.sig tails-i386-2.2.iso{.sig,}",
+				"added": 1457612671
+			}
+		],
+		"3_168qV1Xxp2EyszrzdECLUwXrn9wGYjDdar": [
+			{
+				"comment_id": 7,
+				"body": "Site request:\nI am not sure if the code could work at all in ZeroNet, but here is my request. \n\nhttps://spreadit.io/\nhttps://github.com/spreadit/spreadit\n\nThe site works well both with and without JavaScript, so that is very nice for various users.",
+				"added": 1456547318
+			}
+		],
+		"1_13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ": [
+			{
+				"comment_id": 8,
+				"body": "Whonix does not support on the fly .onion creation, as of yet.\nSource: https://www.whonix.org/wiki/Next#onionshare\n> Current status: Even though Control Port Filter Proxy does not filter anything, it still does not work. It hangs at the following message. \n\n\nFor now Whonix can run without .onions by doing the following: \n> Tip: It's also possible to use without modifying torrc (or using older version of Tor clients) by running it zeronet.py --tor disable --proxy 127.0.0.1:9050 --disable_udp, but then you will loose ability to talk with other .onion addresses.\nFor Whonix users, you can still reach peers and .onions, you just cannot host your own.",
+				"added": 1456608805
+			},
+			{
+				"comment_id": 9,
+				"body": "> [p2p](#comment_56_13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ): thx. in whonix,  how to make zeronet reach .onions without hosting own .onion?\nWhonix passes all traffic to the Tor program running on the Whonix gateway by default. The Tor program automatically knows how to resolve .onion addresses to reach the peer. You will reach .onions regardless of your current settings (regardless of whatever they currently are, ZeroNet currently does not support any settings that would prevent you from reaching .onions while running ZeroNet within a default Whonix workstation).\n\nTo see if any of your current peers are using .onions you can see them at your local stats page:\nhttp://127.0.0.1:43110/Stats\n\nClick on the address links at the bottom to expand the user/peer/contact list to see if any are .onions. Most users are not .onions, but it is likely you will see a few if you have a few sites shared.",
+				"added": 1456675698
+			}
+		],
+		"1_1PPqTMbH8Uwrk496grUVuBk57dSoeU9hig": [
+			{
+				"comment_id": 10,
+				"body": "> [dividedby0](#comment_26_16iYwD5U2fNoS22p6447J7992iL3DHjSHY): Could you please elaborate on the anonymity/pseudonymity and privacy issues with ZeroNet? Why do you think Freenet provides more anonymity?Have you read about the deanonymization of Freenet users by law enforcement?http://127.0.0.1:43110/1AyL9MfHbV8nxPBmZpocuVZ6d2JixUPTdv/?Post:3:Freenet+Users+Deanonymized\n\nhttps://zeronet.readthedocs.org/en/latest/faq/#is-zeronet-anonymous\n>Is ZeroNet anonymous?\n>It's no more anonymous than BitTorrent, but privacy (the possibility to find out who is the owner of the comment/site) will increase as the network and the sites gains more peers.\n>ZeroNet is made to work with anonymity networks: you can easily hide your IP using the Tor network.\nFreenet is a friend to friend network, so it is not anonymous is terms of who is talking to who, but is provides a certain degree of uncertainty about which files are going passed to whom, as it could just be getting forwarded through a friend and not being requested directly to them. Both ZeroNet and Freenet currently have no privacy about the content of the files they are passing. ZeroNet's shared files are currently entirely unencrypted and Freenet has file encryption, but as I understand it that encryption has the decryption key passed along with the data, meaning it is not secret. It just gives the illicit content some degree of privacy, as it might seem like it is not something the user directly was requesting or they may be unaware of such content being stored and shared from their machine.",
+				"added": 1456676482
+			}
+		],
+		"1_1BQg5MQZ63aEQZMzLEXP6yY3hsgznKpaps": [
+			{
+				"comment_id": 11,
+				"body": "Do not disclose information that could be used to identify or link profiles with your real world identity if anonymity or privacy are important to you. ZeroNet, by default, has no more privacy than BitTorrent, which is completely public. In practice this probably means nothing to you, but ISP logs along with the public nature of ZeroNet means you should expect everything you type here to be linkable with you unless you are taking security procations, such as Tor, but even then your privacy is far from perfect. Global intelligence agencies log and analysis everything they can. It is not beyond reason that a zero day could be used against them to leak all your logs.",
+				"added": 1457454475
+			}
+		],
+		"1_1NdofSgkkvCXPx5FotgoSxX3K78Nn6MDue": [
+			{
+				"comment_id": 17,
+				"body": "Pictures are not stored or shared locally? The only purpose of the site, as it is now, is that you load your own format on how the images are presented. I like the site, but without p2p image sharing its use is very limited.",
+				"added": 1457455564
+			},
+			{
+				"comment_id": 20,
+				"body": "Anyone willing to code this up to host on ZeroNet, not on third party?",
+				"added": 1459533576
+			}
+		],
+		"1_19R2USgb9vPyg1jPQEJkGVoBwDuDcEmHRF": [
+			{
+				"comment_id": 19,
+				"body": "> [basxto](#comment_30_1PVcdu7USZH2kHMETbqDYLPjJZKCDWM52k): https://webtorrent.io/faq\n> You basically seed your cache, therefor it's illegal if you watch illegal content unlike regular streaming.\n\nThat would be a good reason to use I2P torrents (which obfuscate IP addresses, like Tor for filesharing) instead of public torrents (which make your IP address public to anyone that looks at the public trackers you are posting to). You could even use seedless (a I2P plugin) to not need anonymous trackers.\n\nhttps://geti2p.net/\n\nhttps://en.wikipedia.org/wiki/I2p#File_sharing\n\nUnfortunately I2P has too few users seeding to make streaming live video practical, but in theory there would not be anything preventing it if more users joined the swarm.",
+				"added": 1458060900
+			}
+		],
+		"1_15P5kZhBwmwiuBmSUBSkBsT2DLEUYvn24u": [
+			{
+				"comment_id": 21,
+				"body": "https://en.wikipedia.org/wiki/I2p\nhttps://en.wikipedia.org/wiki/Little_Brother_(Doctorow_novel)\n\nAudiobook: Cory Doctorow - Little Brother (mp3s - 166MB)\nmagnet:?xt=urn:btih:2422b6e25d32eaede4c2a25a7a012e774d6ec9cd&tr=http://tracker2.postman.i2p/announce.php\n\nEpub: Cory Doctorow - Little Brother.epub (305KB)\nmagnet:?xt=urn:btih:04b721d301ed8dbc7d2362854bfdff812e930148&tr=http://tracker2.postman.i2p/announce.php",
+				"added": 1459533797
+			}
+		]
+	},
+	"comment_vote": {}
+}

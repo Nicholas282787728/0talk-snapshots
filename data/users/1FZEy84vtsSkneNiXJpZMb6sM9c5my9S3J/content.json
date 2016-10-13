@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HCSJ1m1nRlZvFohEb/Tswy4pZKZx1zDK0beOTIL6ynbwilLwQmKa+/DglVuwa+J8J/sdO+73rAwYu221q817jUw=",
+ "cert_user_id": "temictiloni@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "25d9264d4f2f080bb0321d03db318934af3facc009af50f821cbe84269881ce8",
+   "size": 1280
+  }
+ },
+ "inner_path": "data/users/1FZEy84vtsSkneNiXJpZMb6sM9c5my9S3J/content.json",
+ "modified": 1457068447.285,
+ "signs": {
+  "1FZEy84vtsSkneNiXJpZMb6sM9c5my9S3J": "HLDmJRVi3p5PVQpocp2BnCRpCKYidIoeomwVFwUCeI4qfe0wSW4JFnq9FDudbsg7SZ4V0Q4CGYyCDOZTtfzM7Wc="
+ }
+}

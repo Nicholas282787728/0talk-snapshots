@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "G0e/UuZy21JWsJnIrN/zPmHowlonNvpwQVSlx2b62TfAUvDuhzxIQbOJmQNxQAMOKO0x8ICBWFg9mixxjJy/7QE=",
+ "cert_user_id": "lastirk@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "f340459a6d832a142ac8f51d30fe6ca5c01ac35a91ba28c3e28ae52bd8e3d0ff",
+   "size": 1232
+  }
+ },
+ "inner_path": "data/users/1Mxv7my8HRBiVNRtiFaHrrbb11hmPqa6qL/content.json",
+ "modified": 1471011794.84,
+ "signs": {
+  "1Mxv7my8HRBiVNRtiFaHrrbb11hmPqa6qL": "HCsRswP28pWf9EvUvGHVmplWZR7ATdDqA2K+QEs2JXsP1+Qs0l6+MP8NnT/i29NOzziolmRj8hsGAjWm3H9Gx5E="
+ }
+}

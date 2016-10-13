@@ -1,0 +1,21 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 3,
+	"comment": {
+		"1_1FbEENPR12D1yfqWWszQfNgb1Tu5TecMFV": [
+			{
+				"comment_id": 1,
+				"body": "salut",
+				"added": 1457003938
+			},
+			{
+				"comment_id": 2,
+				"body": "tot nu am inteles cum creezi un site pe sistemu asta, unde tii fisierele sursa cum faci designul?",
+				"added": 1457004176
+			}
+		]
+	},
+	"comment_vote": {}
+}

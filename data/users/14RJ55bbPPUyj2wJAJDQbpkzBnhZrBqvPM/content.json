@@ -1,0 +1,15 @@
+{
+ "cert_auth_type": "web", 
+ "cert_sign": "G78bzGwmj0BikxaTIDcD7oGnTT3Q7tHGxpEMMcLdjdw7Z8IAZxt0R87QTZIBdEhOrcsSHod4m5vG2IPb8Jh6W4I=", 
+ "cert_user_id": "beardboris@zeroid.bit", 
+ "files": {
+  "data.json": {
+   "sha512": "e270ba03fb8f6076a5635d790857f542d7421d8fc8033e16d9757db0fd9934fe", 
+   "size": 326
+  }
+ }, 
+ "modified": 1456169903.909943, 
+ "signs": {
+  "14RJ55bbPPUyj2wJAJDQbpkzBnhZrBqvPM": "G2YhsjmDSwsq/jZRVqigTUXiqerfV/WvrLCaC/Csq7qqqRiJdJ6TYMWK03IHiRBB1r9nqUmNPi6F9OJ+ENCq2U8="
+ }
+}

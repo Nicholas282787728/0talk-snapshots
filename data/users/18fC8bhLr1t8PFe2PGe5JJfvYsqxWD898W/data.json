@@ -1,0 +1,23 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "What happens when ZeroNet sites get big?",
+			"body": "It seems ridiculous to download an entire site when all you want is stuff from the past few days",
+			"added": 1457925865
+		}
+	],
+	"topic_vote": {},
+	"next_comment_id": 2,
+	"comment": {
+		"1_1ANQTb6AbkbYrAo4tPJ7fcHJjw6B6iB7mY": [
+			{
+				"comment_id": 1,
+				"body": "I am new to this as well, but I would assume that the cryptographic IDs of the moderators are distributed along with the site. If you don't agree with their decisions, you can clone the site and name yourself as moderator on the clone, and whoever wants to will follow you by downloading your site instead.\n\nTrying to name yourself as moderator on the existing site, however, would get you automatically kicked out by the protocol in the same way that people who try to send junk data to mess up torrents get kicked out by the bittorrent protocol. Or at least that's how I assume it would work. I'm not involved in the project and only heard of it today. But I do have a CS degree if that helps.",
+				"added": 1457925641
+			}
+		]
+	},
+	"comment_vote": {}
+}

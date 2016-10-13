@@ -1,0 +1,117 @@
+{
+	"next_topic_id": 7,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "Are there forums that do not require ZeroID or any other centralized ID?",
+			"body": "",
+			"added": 1468530663
+		},
+		{
+			"topic_id": 3,
+			"title": "Torrent - Learn Chinese With Mike - 2.7GB",
+			"body": "Learn Chinese With Mike - Chinese Language Learning Course (Video Course, Mandarin, Pinyin) MP4\n\n* [Torrent file](https://torcache.net/torrent/F750B44E24EDEC50493FADBAA3F0C9EE78DAB615.torrent?title=[kat.cr]learn.chinese.with.mike.chinese.language.learning.course.video.course.mandarin.pinyin.mp4)\n* [Magnet link](magnet:?xt=urn:btih:F750B44E24EDEC50493FADBAA3F0C9EE78DAB615&dn=learn chinese with mike chinese language learning course video course mandarin pinyin mp4&tr=udp://open.demonii.com:1337/announce&tr=udp://glotorrents.pw:6969/announce&tr=udp://tracker.openbittorrent.com:80/announce&tr=udp://tracker.opentrackr.org:1337/announce&tr=http://opentrackr.org/announce)\n* [kat.cr link](https://kat.cr/learn-chinese-with-mike-chinese-language-learning-course-video-course-mandarin-pinyin-mp4-t10724912.html)\n\nSome trackers to add:\n```\nhttp://www.opentrackr.org/announce\nudp://tracker.opentrackr.org:1337/announce\nudp://tracker.coppersurfer.tk:6969/announce\nhttp://tracker.opentrackr.org/announce\nhttp://tracker.opentrackr.org:1337/announce\nhttp://opentrackr.org/announce\n```\n\nSee `Learn Chinese with Mike.txt` for additional learning material\n\nThe quality of the above torrent isn't too good, but [this 16GB torrent](https://torrentproject.se/c9b72ac44c740b9c3fe06e26cc0635bc65738487/Chinese-with-Mike-torrent.html) doesn't have many seeders ...",
+			"added": 1468585787
+		},
+		{
+			"topic_id": 6,
+			"title": "Nanasi's decentralized alternative to ZeroID - Do we need centralized ID services?",
+			"body": "I still don't understand why @nofish decided it was a good idea to create a centralized ID service for a platform that's meant to be decentralized.\nI don't think there are good reasons for them to exist, spammers can just create many ZeroID or ZeroVerse IDs and it won't stop them.\nWhy not take the approach of [Nanasi text board](http://127.0.0.1:43110/16KzwuSAjFnivNimSHuRdPrYd1pNPhuHqN/) ?\n\n###Nanasi's decentralized alternative to ZeroID\n\nThe private key used to sign your \"nanasi certificate\" is embedded into the application, so that anyone can sign their public keys without requiring a central server.\n\nHere is part of `16KzwuSAjFnivNimSHuRdPrYd1pNPhuHqN/nanasi.js` which sets the private key for the certificate\n```\n    Nanasi.prototype.init = function() {\n      this.last_checked = 0;\n      this.site_info = null;\n      return this.nanasi = bitcoin.ECPair.fromWIF(\"L21fbJbceebx6B3bwMK2U46W1Un7peLqBtPjfyARZpxsME9rxWFz\");\n    };\n```\n\nThe `L21fbJbceebx6B3bwMK2U46W1Un7peLqBtPjfyARZpxsME9rxWFz` is the private key for the public bitcoin address `16PmAP6z2MCJX9jNjvMrteMfnqX4KeDRNT`\n\nWhich the certificate is used as follows in `16KzwuSAjFnivNimSHuRdPrYd1pNPhuHqN/data/users/content.json`\n```\n \"user_contents\": {\n  \"cert_signers\": {\n   \"nanasi\": [ \"16PmAP6z2MCJX9jNjvMrteMfnqX4KeDRNT\" ],\n   \"zeroid.bit\": [ \"1iD5ZQJMNXu43w1qLB8sfdHVKppVMduGz\" ]\n  },\n```",
+			"added": 1468696608
+		}
+	],
+	"topic_vote": {
+		"1_1GnJD7CXskmG8GywMbTvbP12wneCFW9XzR": 1,
+		"1_1E6f6MCHnpXBqTwj6uii8pApfQuuasR48U": 1
+	},
+	"next_comment_id": 18,
+	"comment": {
+		"13_1CMjV2r4EBpFt8VCcWWZKDysZXPcPExRNN": [
+			{
+				"comment_id": 1,
+				"body": "> [testingzeronet12](#comment_54_1CMjV2r4EBpFt8VCcWWZKDysZXPcPExRNN): I added 2 spaces between each paragraph on this post but it all shows up as bunched up text.\n\nYeah that's caused by the Markdown formatter",
+				"added": 1468535583
+			}
+		],
+		"3_13hcYDp4XW3GQo4LMtmPf8qUZLZcxFSmVw": [
+			{
+				"comment_id": 2,
+				"body": "> [sbeee](#comment_9_13k6itGVhzLTZUZKiqWWJ5KdvVUEMqDWDv): thanks\n\nYou're welcome ;)",
+				"added": 1468613908
+			}
+		],
+		"24_1CMYxdit4qq9QGk9DYRu2ruRPd2YDGckH8": [
+			{
+				"comment_id": 3,
+				"body": ">It seems we become ever more stupid while having more information and knowledge evailable. :(\nI feel the same way... it's mostly because most people nowadays lack critical thought, live in a filter bubble, and only care about entertainment.",
+				"added": 1468621649
+			},
+			{
+				"comment_id": 4,
+				"body": "[Wikipedia - 2016 Turkish coup d'état attempt](https://en.wikipedia.org/wiki/2016_Turkish_coup_d'%C3%A9tat_attempt)",
+				"added": 1468633403
+			}
+		],
+		"1_1GnJD7CXskmG8GywMbTvbP12wneCFW9XzR": [
+			{
+				"comment_id": 5,
+				"body": "Thanks\n\nRelated Bash function:\n```\nfunction znstatic {\n  curl -I -s \"http://127.0.0.1:43110/$1/\"  >/dev/null;\n  firefox \"/PATH/TO/ZERONET/data/$1/index.html\";\n}\n```\n* Change `/PATH/TO/ZERONET` with your path to ZeroNet\n* Add it to `~/.bashrc`\n* Reload bash with `source ~/.bashrc`\n* Use the function with `znstatic 17Kom2G5qNDc6NaQwv445h1gFzxkY3ZtZe`",
+				"added": 1468635079
+			}
+		],
+		"2_1GkoHb4XqFDbLnxzrZxSzJK7dqnxmGyBRP": [
+			{
+				"comment_id": 7,
+				"body": "> [19](#): enabling the multiuser plugin.\nMaybe you can explain to us how, and isn't that meant for proxies?",
+				"added": 1468708815
+			},
+			{
+				"comment_id": 15,
+				"body": "> [19](#comment_2_1HUrhTUZFB2KKsXLUv1vugPH358iB6zsiY)\nAnd how do you enable it?",
+				"added": 1468762261
+			},
+			{
+				"comment_id": 16,
+				"body": "> [19](#comment_4_1HUrhTUZFB2KKsXLUv1vugPH358iB6zsiY): I meant poll\n\nYou can just edit your comment -_-",
+				"added": 1468764325
+			}
+		],
+		"1_1E6f6MCHnpXBqTwj6uii8pApfQuuasR48U": [
+			{
+				"comment_id": 8,
+				"body": "Only your public key is signed by the centralized ZeroID service. \nThough I don't think it is necessary because you are not preventing anything with it.\n\nThere's an alternative to ZeroID, take a look at [Nanasi text board](http://127.0.0.1:43110/16KzwuSAjFnivNimSHuRdPrYd1pNPhuHqN/)\n\n[Go here for an explanation about Nanasi's ZeroID alternative](http://127.0.0.1:43110/Talk.ZeroNetwork.bit/?Topic:6_13hcYDp4XW3GQo4LMtmPf8qUZLZcxFSmVw/) or inspect `nanasi.js`",
+				"added": 1468753451
+			},
+			{
+				"comment_id": 10,
+				"body": "> [le](#comment_1_14uC9ibJGHxLuHTXWU9nbbG1q5uBYsC3UY): So the ZeroID system depends upon a centralized ZeroID server? Is that not a step backwards? Or can ZeroID's function in a fully decentralized manner despite the centralized server?\n\nNo, you'd have to run your own server. It's quite backwards, yes.\n\nEdit: I meant, you'd have to run your own server if you'd want something that works like ZeroID.\nBut there are alternative approaches, like [Nanasi text board](http://127.0.0.1:43110/16KzwuSAjFnivNimSHuRdPrYd1pNPhuHqN/), where the private key is embedded into the application so everyone can sign the public key themselves in order to register. ",
+				"added": 1468757394
+			}
+		],
+		"1_1nXsMsbfLvuXegcoa6qLH7ZaWp4cQqZPZ": [
+			{
+				"comment_id": 9,
+				"body": "Nope.",
+				"added": 1468757303
+			}
+		],
+		"2_16V375PksR7cEwnMDf2m5TYckuud9xUjVq": [],
+		"3_16V375PksR7cEwnMDf2m5TYckuud9xUjVq": [
+			{
+				"comment_id": 14,
+				"body": "阻止垃圾邮件 Please stop spamming your shit",
+				"added": 1468761744
+			}
+		],
+		"4_16V375PksR7cEwnMDf2m5TYckuud9xUjVq": [
+			{
+				"comment_id": 17,
+				"body": "Man, you're cancer.",
+				"added": 1468765935
+			}
+		]
+	},
+	"comment_vote": {
+		"38_1DWrKbEomgBLHjczm1HkP556Vg68ewDmyd": 1
+	}
+}

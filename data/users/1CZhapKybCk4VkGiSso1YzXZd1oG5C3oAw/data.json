@@ -1,0 +1,141 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "Services Tutorials?",
+			"body": ">ZeroNet is built for dynamic, real-time updated websites, but you can serve any kind of files using it. (VCS repositories, your own thin-client, database, etc.)\n\nAre there any resources on setting up things like mysql, ftp serves, etc, to work on zeronet?",
+			"added": 1469685804
+		}
+	],
+	"topic_vote": {
+		"4_1HDGK4rrMzuouF8hNnxfMNpWyR8qAtP4HR": 1,
+		"1_18UrJLdvxYRBY71mKwLGGMQL9ZM3GeHvJc": 1,
+		"12_1CMjV2r4EBpFt8VCcWWZKDysZXPcPExRNN": 1,
+		"4_1BFTNXtYQDMCurqyg45KLmsV6oJD7bQSsH": 1,
+		"1_1NGtwPu16u2iVu35a6jwGF7ijxN6yUXaBA": 1,
+		"1_1JXFzMzrQTJCiGw36YNQGg2Tmt1hTHy7ZT": 1
+	},
+	"next_comment_id": 19,
+	"comment": {
+		"1_18UrJLdvxYRBY71mKwLGGMQL9ZM3GeHvJc": [
+			{
+				"comment_id": 1,
+				"body": "Upvoted. If there isn't a banned book listing / host one should be made",
+				"added": 1469381879
+			}
+		],
+		"3_1BFTNXtYQDMCurqyg45KLmsV6oJD7bQSsH": [
+			{
+				"comment_id": 2,
+				"body": "male",
+				"added": 1469384037
+			}
+		],
+		"12_1CMjV2r4EBpFt8VCcWWZKDysZXPcPExRNN": [
+			{
+				"comment_id": 3,
+				"body": "Here's an example I ran into a while ago.\nhttp://127.0.0.1:43110/19T7Q5mAeb3tiZnkkdjYsjCcmLwEMY1Yfj/\n\n\n\n<video controls=\"\" height=\"340\" width=\"560\">\n\t  <source src=\"http://127.0.0.1:43110/19T7Q5mAeb3tiZnkkdjYsjCcmLwEMY1Yfj/ytcrackertakeaknee.mp4\" type=\"video/mp4; codecs=&quot;avc1.42E01E, mp4a.40.2&quot;\">\n</video>\n\nwhere \n<source src=\"http://127.0.0.1:43110/<sitename>/<videofile>\" type=\"video/mp4; codecs=&quot;avc1.42E01E, mp4a.40.2&quot;\">",
+				"added": 1469389425
+			}
+		],
+		"4_1BFTNXtYQDMCurqyg45KLmsV6oJD7bQSsH": [
+			{
+				"comment_id": 4,
+				"body": "What do you mean by \"filter bad users\". If you don't agree with some content can you be content with not looking at it?",
+				"added": 1469406201
+			},
+			{
+				"comment_id": 5,
+				"body": "I'm in support of a sort of \"glass door\" solution. If someone wanted to make a zite where users could review and rate the services of a zite that would be fine. The choice to use or avoid a site is still in the hands of the user, but with the benefit of testimonial. Having the ability  to block certain users from accessing YOUR content/zite is also okay. This is different from blacklisting content from the community as a whole. This is filtering malicious traffic. I don't see a lot of room for abuse with this approach.",
+				"added": 1469419326
+			},
+			{
+				"comment_id": 6,
+				"body": "> [newuser123](#comment_7_1PCPuVtFv8apVpXYbc46wHugNhFUVQ6KCv): If zero-net focuses on anonymity and privacy of users, I don't see how blocking certain users from even your zite should be possible - since to block a user you first need to ID him, which can't be done if he's anonymous.Personally I believe anonymity and privacy of users should take far higher priority than blocking bad users,blacklisting inappropriate content,etc. - especially these days.\n\nI thought zeronet itself didn't focus on anonymity but decentralized content. I'm fairly certain you can still be tracked across vanilla zeronet. TOR handles anonymity, but if you're not using TOR... But I do agree with you.",
+				"added": 1469464445
+			}
+		],
+		"1_1NGtwPu16u2iVu35a6jwGF7ijxN6yUXaBA": [
+			{
+				"comment_id": 7,
+				"body": "there's got to be a way to narc these guys for shits and giggles",
+				"added": 1469650959
+			},
+			{
+				"comment_id": 8,
+				"body": "> [qu363c](#comment_17_112GGMvUJbBTCtQu8UUSYpo8UjLdo1B73n): « No family is safe when I sashay. »\n\nAren't you that loser who stalks people? Kek.",
+				"added": 1469661548
+			},
+			{
+				"comment_id": 10,
+				"body": "> [qu363c](#comment_18_112GGMvUJbBTCtQu8UUSYpo8UjLdo1B73n): That and fucking their babies and making them watch.\n\nLooks like edgy 13 year old's got on zeroNet. Just goes to show how easy it is to use.",
+				"added": 1469667200
+			},
+			{
+				"comment_id": 18,
+				"body": "> [jellystuff](#comment_1_1DCZnqz3q6uobyzLdavP3WFNeFkfATrtYi): ZeroNet sites are like torrents - they are hosted by the people that visit them. So when you visit a site, you're downloading the data from the people that have visited the site before.\n> Of course, this means that once you've visited a site, all of the site's content gets downloaded to your PC, and you also become a host.\n> Therefore, someone could easily get a LOT of people in trouble just by posting illicit content on to some widely used site.\n\nYou have to be responsible and and delete content you don't want from your computer. Are non-tech \"normie\" people going to be able to handle this? It's a simple task yeah, but you can't trust users to do anything.",
+				"added": 1470073025
+			}
+		],
+		"1_1MZ697S3uwCpZD4zSq51NHJDrj7CWxsmd3": [
+			{
+				"comment_id": 9,
+				"body": "Are you asking someone to make a site or?",
+				"added": 1469665876
+			},
+			{
+				"comment_id": 11,
+				"body": "> [juxt1](#comment_2_1MZ697S3uwCpZD4zSq51NHJDrj7CWxsmd3): NO JUST SUGGESTING THAT THE  SCAN COMMUNITY RALLY AROUND THIS CONCEPT FOR BOTH TORRENTS AND COMIC READER FORUMS . I just got on here so Im just getting on here and barely know how it works but I love comics and know people are gonna be freaking about kickass, when pirate bay went down before Christmas 2 years ago It messed up my comic reading life,-not like people need  a reason to support this concept but it would be a great community to gather here.\n\nI feel you. Though I like owning physical copies of my shit. There's a few torrent sites already floating around, so I suggest finding them and seeing if you can contribute / spread the word.",
+				"added": 1469667504
+			}
+		],
+		"2_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": [
+			{
+				"comment_id": 12,
+				"body": "> [elcapitan](#comment_2_1FBjio6FKeq3y6RtAsjxiXvTJxzBFqha9F): So can someone tell me why the reply function doesn't work like the reddit one?\n\nThis is a lot better.",
+				"added": 1469667640
+			},
+			{
+				"comment_id": 13,
+				"body": "Can someone confirm that this site is working?\n\nhttp://127.0.0.1:43110/1KhS63RvzHrdDuJjSVLUCmcB49CvgexbTr",
+				"added": 1469751965
+			}
+		],
+		"1_19RagxAc2n7zYdfbfda2Zc4dRoHRJzyAxo": [
+			{
+				"comment_id": 14,
+				"body": "> [chloe](#comment_7_1LJLVfT9hKRuTHzBKTpse57PGfpwx82myR): Just make all content cost to post. It covers both ads, content, and product placements. Then only worthwhile content is posted and the content that makes the best use of the space rises to the top according to the coase theorem. You don't get spam in your post box do you? Make all post cost a penny or less and only quality things will be posted.\n\nSo only people with money are allowed to contribute? Flawed and abuse-able",
+				"added": 1469763689
+			}
+		],
+		"3_1GervYZoP82e8X1Rgc4wyMkJY2zSsJuq8t": [
+			{
+				"comment_id": 15,
+				"body": "Good enough",
+				"added": 1469817512
+			}
+		],
+		"2_1JXFzMzrQTJCiGw36YNQGg2Tmt1hTHy7ZT": [
+			{
+				"comment_id": 16,
+				"body": "Online. Need more to do",
+				"added": 1469830065
+			}
+		],
+		"1_1JXFzMzrQTJCiGw36YNQGg2Tmt1hTHy7ZT": [
+			{
+				"comment_id": 17,
+				"body": "I'm been looking for something like IRC to no luck. When I'm less lazy I might set up my own proxy or build a site.",
+				"added": 1469830154
+			}
+		]
+	},
+	"comment_vote": {
+		"2_15uyVfraAZ5w5DXB3TJ32NetwMm4UdUQ3Z": 1,
+		"2_14Ztiu3VJBAAdbNr6EwDtKS6Xg7JTCFxtp": 1,
+		"144_14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx": 1,
+		"7_1PCPuVtFv8apVpXYbc46wHugNhFUVQ6KCv": 1,
+		"11_14Ph48APoNHojAArCqa6FAwXiobE9JByCy": 1
+	}
+}

@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HGAxf0DIyBlAghz10ZCopjlck1DS1J38ol96Rr8ERtBnnxzAMfLDxtA6D88cmo+ybBy7P+LfACAxchR3eHbsrww=",
+ "cert_user_id": "extraterrestrial@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "3bb3db2e1f9c59dc6de8c0469b7d24cbb7919b1b427f676eb037c41cd4758229",
+   "size": 303
+  }
+ },
+ "inner_path": "data/users/1B3miRgVbnXzGdT1ENw6dQ4M9oPWgQhoUg/content.json",
+ "modified": 1473340973.722,
+ "signs": {
+  "1B3miRgVbnXzGdT1ENw6dQ4M9oPWgQhoUg": "G2IkARtw7zTsxho6ps3HSU6jJu8F5cTEfaoUIq8pur93hvcUzKoTx701inCQnytKWj3fIkkxlpkbNjAW36lQ4Co="
+ }
+}

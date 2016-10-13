@@ -1,0 +1,444 @@
+{
+	"next_topic_id": 10,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "How ZeroNet would have solved 'NetNeutrality' between Netflix and Comcast - Neo Internet Blog",
+			"body": "http://127.0.0.1:43110/13sxCHDdF5H46b75AXpKYxNnLFXKhSpTey/?Post:1\n\nFirst blog post, mostly to test ZeroNet, so title is kind of clickbait and maybe controversial :)",
+			"added": 1457813668
+		},
+		{
+			"topic_id": 2,
+			"title": "Is message order enforced for ZeroNet sites? Can a site avoid \"double spends\"?",
+			"body": "So I am researching developing an application, and I am wondering if message ordering is enforced.\n\nWhile I am not developing a cryptocurrency it is the closest example I can give without revealing what I want to experiment with. So I am wondering if I did develop a currency ledger site, where users have currency and can exchange it, does my server enforce order or is order determined by when a visitor receives the transaction, making double spend attacks possible and fragmenting the ledger?",
+			"added": 1458005437
+		},
+		{
+			"topic_id": 3,
+			"title": "What a thriving ZeroNet economy might look like.",
+			"body": "http://127.0.0.1:43110/13sxCHDdF5H46b75AXpKYxNnLFXKhSpTey/?Post:5:What+a+thriving+ZeroNet+economy+might+look+like.",
+			"added": 1458176212
+		},
+		{
+			"topic_id": 4,
+			"title": "MaidSafe Safe network technical",
+			"body": "This may help people understand the Safe network, from this recent [video on youtube](https://www.youtube.com/watch?v=pyQ_EdNaa7A).\n\n[1](https://www.youtube.com/watch?v=pyQ_EdNaa7A#t=8m42s) SafeCoin exchanging is the same process of sharing data with another user, uses the same consensus process.\n\n[2](https://www.youtube.com/watch?v=pyQ_EdNaa7A#t=11m03s) SafeCoin (and probably everything else) is sitting on a lower level messaging layer.\n\n[3](https://www.youtube.com/watch?v=pyQ_EdNaa7A#t=11m16s) There are two kinds of data:\n\n* Immutable Data, can't be changed, you can have a newer version but it is separate. (essential unpatchable data)\n\n* Structured Data, which can be modified with permission, would be what is used to create tokens/assets.\n\nSo SafeCoins would be just modifying Structured Data to say who the new owner of a SafeCoin is, and there is no reason to keep an audit trail of all previous owners (aka the blockchain), just the last owner.\n\n[4](https://www.youtube.com/watch?v=pyQ_EdNaa7A#t=16m07s) It is difficult to prove a SafeCoin exists or who owns it. Each SafeCoin will have an id, which dictates which nodes will keep a track of it. So I'm guessing this is why new coins can't be created out of thin air. I wonder if they will still share all ids of the coins so people can know if a coin offered to them is counterfeit.\n\n[5](https://www.youtube.com/watch?v=pyQ_EdNaa7A#t=19m20s) Attacks on SafeCoin and other data, requiring surrounding the data with nodes, but doing so would only surround something small (1 SafeCoin) which will probably not be worth the effort. Nodes are given random ids when they join the network, they don't get to choose where they are. Making transactions requires (88%) consensus from two groups of nodes, so you not only need to flood one group to surrounding a SafeCoin but two groups.",
+			"added": 1458250000
+		},
+		{
+			"topic_id": 5,
+			"title": "localStorage",
+			"body": "I notice a number of Zites use localStorage which is shared, so a mean Zite could wipe others sites localStorage... and you only have 5 MB which again a bad site could fill up, although so far for me it only using 124 KB (2%).\n\nPlus I notice also testing out ZeroNet remotely, or switching browsers (firefox/chrome) that those Zites are missing things that are only in localStorage. Like the Hello page doesn't have my favorited Zites, ZeroTalk doesn't show what I've read before.\n\nIs there maybe plans to have an alternative equivalent to localStorage that can store on the server instead of in the browser?",
+			"added": 1458451147,
+			"parent_topic_uri": "3_1PVcdu7USZH2kHMETbqDYLPjJZKCDWM52k"
+		},
+		{
+			"topic_id": 6,
+			"title": "Is there a \"road map\" for ZeroNet?",
+			"body": "",
+			"added": 1458502977
+		},
+		{
+			"topic_id": 7,
+			"title": "Is there an easy way to convert a users auth_address to cert_user_id?",
+			"body": "I want to share the last users activity on a site I am working on, so I am handling setSiteInfo and looking at the params.event[1] (when [0] is 'file_done') which points to the user directory which I can extract the auth_address from but I was wondering if there was an easy way to snag the cert_user_id?\n\nI was thinking, if anything, I can get it from the content.json file but that seems a bit of an overload, but I figure I can cache it.",
+			"added": 1458609130,
+			"parent_topic_uri": "3_1PVcdu7USZH2kHMETbqDYLPjJZKCDWM52k"
+		},
+		{
+			"topic_id": 8,
+			"title": "First prototype of a User List for ZeroChat...",
+			"body": "http://127.0.0.1:43110/1DH9JXHbcErUBA4djo3rqPbdQJUUeDjGz7/\n\nWhen you first go to the site it may show me or the last user on the user list which is false :/\n\nRight now there is just a ping button that you press and it puts you on the User List for 20 seconds.\n\nThe ping button itself seems slow, seems to take 4 seconds, but ideally in the future you won't be pressing ping, and possibly when you exit it will automatically remove you from the list for other users to see.\n\nIts a hack of all.js so, when I figure out if this is feasible, I will port to coffee scripts.",
+			"added": 1458614823,
+			"parent_topic_uri": "3_1PVcdu7USZH2kHMETbqDYLPjJZKCDWM52k"
+		},
+		{
+			"topic_id": 9,
+			"title": "What ISPs Can See (report)",
+			"body": "https://www.teamupturn.com/reports/2016/what-isps-can-see",
+			"added": 1459312619
+		}
+	],
+	"topic_vote": {
+		"1_1AFL4FFT3BuEDwTwVqychMq4LbxjuEY5Ss": 1,
+		"12_1MaXyfVAZyyRfY2n8G81sVwRuUZhnzDLX": 1,
+		"10_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf": 1,
+		"1_14dNVE624kRnYCiLWcZmaeJCteW6txn7wA": 1,
+		"4501_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG": 1,
+		"1_18mGdPEnMhDEzbwus5atYTEb4QVRQ1xjYy": 1,
+		"3_1Kg7CXZM5h3wTPENsTDwWUmRBf9VhYy2cW": 1,
+		"4516_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG": 1,
+		"1_1ANQTb6AbkbYrAo4tPJ7fcHJjw6B6iB7mY": 1,
+		"4_1EMpuiFM1NLZmAVyoAWnwi8VwiZVV4dcnN": 1,
+		"8_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"1_1EgYg1XAxktqWHWC1aTWQoToF6Mr5QmEWq": 1,
+		"6_1LRrd96P7FiTcsyNXVzPM5jtpQoH1B4gYf": 1,
+		"6_1KwTTgPRSTHFmmJAFBt6kQfdyNeSM5KJuH": 1,
+		"2_1BidR2Pw65fTPeh1R3LbwCdfEJUPB6FLes": 1,
+		"5_1LRrd96P7FiTcsyNXVzPM5jtpQoH1B4gYf": 1,
+		"3_1BidR2Pw65fTPeh1R3LbwCdfEJUPB6FLes": 1,
+		"1_1QAHgmkKXdkBFk2fVrx5n99ywyuXbUXezC": 1,
+		"7_1KTjPe9MxoYkcXj78GuZgCcj3R3f3Twh7r": 1,
+		"2_1KVbKJBqXdkUr4ogZGJEjDFsm2y9vtX8Bj": 1,
+		"3_1PVcdu7USZH2kHMETbqDYLPjJZKCDWM52k": 1,
+		"15_1CMYxdit4qq9QGk9DYRu2ruRPd2YDGckH8": 1,
+		"10_17fgJ3tZjhM7HCkTkd5TWf2BLLWmhRKcXB": 1,
+		"1_15kuNrNeQtVRmDqENgbCqw6s3mG9noQ7zA": 1,
+		"1_14nzkTTsYwhXx9PY97aXyb8eRF5XQBf7P3": 1,
+		"11_1MEWJRMLgvofqG9Mbsb2Rc4hFFyv7HeRx7": 1,
+		"24_1ED3Ho3kmzaKiECtyuqSjDpoE47rKuXeP": 1,
+		"3_1KSNSPNM5FTUwPJeyyHrLXek1dsumpnFm1": 1,
+		"7_1H8oKiRa7fGgUqS1hpUtaSYLvAqkaknbkf": 1,
+		"10_1LRrd96P7FiTcsyNXVzPM5jtpQoH1B4gYf": 1,
+		"1_18ZfPCaU1pYAeos3A7YhZVgtsmXqXeRRW7": 1,
+		"1_1MZ6f3V1cBuhNwzajMVPu8vb1wRt1p6dpt": 1,
+		"21_14XxpXNGMLsyeQxikacrbQnAFXVyhN5Ngx": 1,
+		"1_1FY2Aej66JkkqSGGHq39nwW9JzcGoAzuhc": 1
+	},
+	"next_comment_id": 51,
+	"comment": {
+		"1_1AFL4FFT3BuEDwTwVqychMq4LbxjuEY5Ss": [
+			{
+				"comment_id": 1,
+				"body": "MaidSafe is described by many as a very ambition project.\n\nThe most important aspect of it is decentralized census without a blockchain. Decentralized census is necessary for execution of contracts without a central server, allowing for assets like cryptocurrencies to be exchanged in various ways and in some automated ways. Ethereum is another platform for doing this and it is much further along than MaidSafe but Ethereum uses a blockchain. The problem with the blockchain is it is something that grows indefinitely, consuming more and more space, and when a new node comes online the data must be transferred to it. Even now, the max size of a block in the blockchain and governance of that size are causing friction in the Bitcoin community.\n\nThe storage capabilities of MaidSafe are rather a peripheral aspect to it, in which there are several competitors like Sia, storj, and including ZeroNet.",
+				"added": 1457763034
+			}
+		],
+		"10_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf": [
+			{
+				"comment_id": 2,
+				"body": "Tough choice between \"Social Networking\" and Reddit, I use reddit more but I chose \"Social Network\" because I think it would draw in more people to ZeroNet.\n\nMy \"other\" would be live streaming of video! It might be cool to have a twitch.tv and youtube alternative where we swarm a live video feed to each other. I'm pretty sure you'd also end up with something like girls gone ZeroNet live stream as well.",
+				"added": 1457765246
+			}
+		],
+		"2_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": [
+			{
+				"comment_id": 3,
+				"body": "test link 0net://Talk.ZeroNetwork.bit",
+				"added": 1457826914
+			},
+			{
+				"comment_id": 27,
+				"body": "___strike___",
+				"added": 1458856813
+			},
+			{
+				"comment_id": 28,
+				"body": "test",
+				"added": 1458928124
+			},
+			{
+				"comment_id": 29,
+				"body": "test2",
+				"added": 1458928179
+			},
+			{
+				"comment_id": 30,
+				"body": "##test",
+				"added": 1458928209
+			},
+			{
+				"comment_id": 31,
+				"body": "test",
+				"added": 1458928320
+			}
+		],
+		"2_17n5jg4bBEoWodXDf8L4Y2u88ShagS272Y": [
+			{
+				"comment_id": 4,
+				"body": "Thanks! I guess maybe it might make solutions more apparent if I just say what I am interested in doing. Talking about cryptocurrencies was rather misleading.\n\nI basically want to try and create turn based games, using internal messaging (like ZeroChat) to publicly update the state of the game to players and observers.\n\nFor my purpose it sounds like I can just have players use an incremental move number (0, 1, 2, etc), and if a player tries to cheat by sending \"double moves\" they will have to have signed both moves, which I guess could be detected and then the player will be considered forfeit by everyone watching the game.",
+				"added": 1458013083
+			},
+			{
+				"comment_id": 5,
+				"body": "> [kaffie](#comment_82_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh): Or you can use a server backend that visitors send messages to in order to submit their move.\n\nI think that is what I will try doing first. I do need to have a bot or another visitor be the dealer/game-master anyway, to generates games, hold and reveal secrets to players as the game progresses.\n\nThanks again! :)",
+				"added": 1458014706
+			}
+		],
+		"8_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": [
+			{
+				"comment_id": 6,
+				"body": "I am kind of curious about this one:\n\n> Is it possible to install ZeroNet to a remote machine?\n\nDoes that mean I can access ZeroNet and use my zeroid from an Android/Apple tablet/phone on my LAN?",
+				"added": 1458067418
+			}
+		],
+		"1_1EgYg1XAxktqWHWC1aTWQoToF6Mr5QmEWq": [
+			{
+				"comment_id": 7,
+				"body": "lol I think I am seeing a bug here regarding the post (not the posters question). Earlier there was a question about ZeroNet scalability, which I upvoted and erkan responsed to, that message disappeared (deleted?!) and this new message seems to have inherited my upvote and erkan's response :/",
+				"added": 1458148476
+			}
+		],
+		"1_1BidR2Pw65fTPeh1R3LbwCdfEJUPB6FLes": [
+			{
+				"comment_id": 8,
+				"body": "You should link the patreon on your main page of the proxy. Also do you have a bitcoin address? Maybe you can provide a funding ticker similar to the one on the ZeroNet contribution page.",
+				"added": 1458165392
+			}
+		],
+		"3_1BidR2Pw65fTPeh1R3LbwCdfEJUPB6FLes": [
+			{
+				"comment_id": 9,
+				"body": "I was working on a standalone editor based on the [mini code editor](https://github.com/zcbenz/nw-sample-apps/tree/master/mini-code-edit) which uses [codemirror](https://codemirror.net) and nw.js. I tried ace also but I was farther along with codemirror.\n\nBut I would almost want something that integrates with a Zite. Sort of like ZeroBlog or ZeroWiki, where you create a new Zite project by cloning and then can start editing content while on the Zite.",
+				"added": 1458274179
+			}
+		],
+		"5_17n5jg4bBEoWodXDf8L4Y2u88ShagS272Y": [
+			{
+				"comment_id": 10,
+				"body": "> [nofish](#comment_551_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): The localstorage is per site and per user, sot hey can't reach/modify eachother. Later it could be possible to add other storage method, but it could be slower, than direct browser access.\n\nI see what is going on. Zites are sand-boxed in an iframe which doesn't allow-same-origin and so they can't access localStorage. When I was tinkering in the console, I was doing it from the top window, which is why I was able to see several Zites storage contents, but doing it from inner-iframe throws an exception.",
+				"added": 1458497445
+			}
+		],
+		"1_15UiHZYjYXmn35qVSaAFyuFwrwqVCTcvmn": [
+			{
+				"comment_id": 11,
+				"body": "According to [the poll](http://127.0.0.1:43110/ZeroPolls.bit/?Poll:1-1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf), the top at 34% is 'social networking', 24% 'some wiki engine' (which there is a site in development), 20% 'good search engine', 11% 'reddit analog', 9% 'github analog'...\n\nI agree that social networking would be big, but it also seems like a big project.",
+				"added": 1458502803
+			}
+		],
+		"2_1KVbKJBqXdkUr4ogZGJEjDFsm2y9vtX8Bj": [
+			{
+				"comment_id": 12,
+				"body": "I read the original comic book a long time ago, but I don't recall feeling it to be impossible so maybe the cartoon presented it wrong. According to [wikipedia](https://en.wikipedia.org/wiki/The_Dark_Knight_Returns):\n\n> He relies on Superman's weakness caused by near-death in the nuclear blast.",
+				"added": 1458508318
+			}
+		],
+		"6_17n5jg4bBEoWodXDf8L4Y2u88ShagS272Y": [
+			{
+				"comment_id": 13,
+				"body": "> [nofish](#comment_557_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): This is the roadmap, ZeroNet development is driven by new sites. No new feature added without a site is created that use it.\n\nI actually like this, you avoid over engineering and planning and creating features that may not get used.",
+				"added": 1458508742
+			}
+		],
+		"1_1Ax5yj36bQDizcaeCMn9upKzVVyQ4wsm48": [
+			{
+				"comment_id": 14,
+				"body": "**They will likely flood ZeroNet with antisemitism and racism and then on CNN/FoxNews say how ZeroNet is den for hate speech and that ZeroNet must be banned/regulated.**",
+				"added": 1458518874
+			}
+		],
+		"15_1CMYxdit4qq9QGk9DYRu2ruRPd2YDGckH8": [
+			{
+				"comment_id": 15,
+				"body": "> [antifa](#comment_10_18rFd7W9y5QGQEVXaCoJV7jyt7D8aN156h): huge crossover between the fascist and libertarian-crypto scenes\n\nWhat I see is that libertarians/ancaps are open and accepting, and there are other groups (call them fascists, nationalist, national socialist, neo-reactionaries, etc) that infiltrate because of that openness and acceptance. Some of them try and turn ancaps away by pointing out how collectivists groups will conspire against them while their anti-collectivists views deny them the ability to act as a group. It's not just in that, but they also point towards security, they say how you need big government to protect against other big governments and that small militias would not be able to coordinate and defend and keep secure a libertarian society (although there are plenty of rebuttals by libertarians in that regard).\n\nIts the same arguments they use against libertarians for open borders, they say that open borders will result in an influx of immigrants who will form governments and push for welfare and taxation. They mischaracterize the issue as being a problem with private borders when it is the border to a governments welfare programs that is the issue. They forget though that the moment you support government controlled borders, you're not an ancap and you're not (Non Aggression Principle) libertarian, so a lot of them are easy to see as pretenders trying to sway people away into parties of fascist (government control) or socialist (government ownership).\n\nAnyway, the openness and acceptance of ZeroNet also makes it subject to the same kinds of infiltrators/pretenders.",
+				"added": 1458598829
+			},
+			{
+				"comment_id": 20,
+				"body": "> [antifa](#comment_17_18rFd7W9y5QGQEVXaCoJV7jyt7D8aN156h): I agree. But the fact is, there's a lot of crossover these days. I, personally, have always felt right-libertarians would have an end-result of feudalism or fascism due to concentration of power.\n\nThis is exactly what these self proclaimed \"libertarians\" think. They think they can tweak libertarianism to prevent those theoretical threats and still call themselves libertarians, but they are not, they think they are \"protecting libertarian values\" but they are at the same time destroying them in action/choice/promotion of politicians like Trump. At this point these self proclaimed libertarians don't know enough about libertarianism to really be considered libertarians, some of them go on to become the \"I used to be a libertarians\" or \"I used to be an ancap\" and try to convince others they should also stop being libertarians, but they also get called out by actual libertarians as being nothing but shills and idiots.\n\nUnderstandably most people are libertarians when it comes to their own life and property, they don't want someone else (an authoritarian) to tell them how to live and what they can do with their property. This is why liberals may like libertarians in regard to personal freedom like drugs, sexual preference, etc. And why conservatives like libertarians in regard to freedoms like gun ownership, no taxes (though you could have a state that charges rent), etc.\n\nBut what makes these people not libertarians is when it comes to other peoples lives and properties, this is where people show how unlibertarian they are, how authoritarian they are. The liberals in how they want to tell you how you spend your money (taxes used to force the money to be spent in a certain way), whether you can sell guns, whether you can work below a certain wage, how much profit your allowed to make, etc. The conservatives also in how you spend your money (taxes spent on military), in whether you can invite an immigrant to your property, whether you can hire an immigrant, whether you can marry someone of the same sex, etc.\n\n> If you're on Twitter, you'd see how many libertarians and ancaps are diehard Trump voters, lol. It seems the larger neo-reaction scene is really focusing on him. Sort of a birds-of-a-feather thing. They're even starting Trump militias.\n\nTwitter accounts are non-trivial to setup and talk crap, if instead you follow many of the libertarians/ancaps on youtube (which making videos require more time and thought) you will see many of them talk crap about Trump and you will see those \"diehard Trump voters\" try to bash them for it and get their ass handed to them in debates.\n\nReason TV has a lot of videos bashing Trump, that show how unlibertarian Trumps ideas are : https://www.youtube.com/user/ReasonTV/videos\n\nThat guy T also just recently bashed Trump economics: https://www.youtube.com/watch?v=ty88Tlg84Ys\n\nTom Woods TV also frequently has videos that make Trump look aweful to libertarians: https://www.youtube.com/user/TomWoodsTV/videos\n\nJulia Borowski also frequently bashes Trump: https://www.youtube.com/user/TokenLibertarianGirl/videos",
+				"added": 1458672605
+			},
+			{
+				"comment_id": 22,
+				"body": "> [antifa](#comment_24_18rFd7W9y5QGQEVXaCoJV7jyt7D8aN156h): Thanks, I'll check it out! Are you familiar with C4SS.org? Great left-libertarian free market thinktank\n\nI've read good articles on their site before, although there really is no such thing as left-vs-right libertarianism, there is only one libertarianism. Where libertarians differ and refer to themselves as left or right is in their speculation in how things will work in a free society, and their pessimism or optimism in human nature and cultures.",
+				"added": 1458680313
+			},
+			{
+				"comment_id": 25,
+				"body": "> [antifa](#comment_28_18rFd7W9y5QGQEVXaCoJV7jyt7D8aN156h): They also have a very different concept of private property,  https://en.wikipedia.org/wiki/Mutualism_(economic_theory)\n\nYeah but again libertarianism doesn't say what kind of property would exist in a free society, and some are skeptical on what would work, and even then in a real free society you might find a large variety of arrangements between people some based on Mutualism and some not, in the end though there is no authoritarian government to force people to a planned economic model, and courts and laws may not enforce certain contracts making some arrangements lets possible (to the benefit of Mutualism, rent contracts may not be enforced for example), but you might still see people voluntarily go into those arrangements (not part of Mutualism) and simply be punished via their reputation if they renege on a physically unenforceable agreement. Of course there is a whole line of thought on whether reputation is ownable or communal property as it applies to whether individuals are allowed to degrade it and creating contracts/arrangements on it.",
+				"added": 1458765794
+			}
+		],
+		"1_14PXH1VLXEseL1h6gLpHqi3bXEAdamDwgg": [
+			{
+				"comment_id": 16,
+				"body": "It looks like your links are bad, they should include the site name/hash 1F48VzQP12fbvpVamRSy6LmmXdid464wog or you need to get rid of the leading '/'. For example your demo.gif looks like this:\n\n''' <img src=\"/images/demo.gif\" alt=\"demo\" style=\"width:100%; height:auto; margin:10px 0 20px 0;\">\n\nwhat you want is to remove the first '/' so it is like this:\n\n''' <img src=\"images/demo.gif\" alt=\"demo\" style=\"width:100%; height:auto; margin:10px 0 20px 0;\">\n\nif I edit that element in chrome and get rid of the first '/' the image loads.",
+				"added": 1458600526
+			},
+			{
+				"comment_id": 17,
+				"body": "> [givemecredit](#comment_2_14PXH1VLXEseL1h6gLpHqi3bXEAdamDwgg): hmm perhaps ill forget about using ajax and focus on using localstorage instead.\n\nlocalstorage is also disabled (assuming I was testing this right), this is to sandbox ZeroNet sites (Zites).",
+				"added": 1458600570
+			},
+			{
+				"comment_id": 18,
+				"body": "I am thinking the rest of it is probably sandboxing, which is a little disappointing as it limits what a site can do or forces some data to be clumped together.\n\nThe way other sites work, like ZeroBlog, they store content pieces in data.json files. So your pages/*.html would be stored in data.json and you would need to then use the websocket interface to query your ZeroNet server for which if the pages you wanted to display.\n\nCome to think of it though I wonder if the websocket interface could be used instead of XMLHttpRequest to grab those pages. I guess nofish would be able to answer that.",
+				"added": 1458603816
+			},
+			{
+				"comment_id": 23,
+				"body": "You have choices, you can either use coffee script, or java script but I am not aware of pure java script implementation, and it is just as easy to go to a Zite folder and copy and paste code from js/all.js. I myself have been just hacking the generated javascript in js/all.js.\n\nIf you want to test out wrapperGetLocalStorage, you can do it in these forums! Just open the javascript console  in chrome (or firefox) switch it from ['top' to 'inner-iframe'](http://stackoverflow.com/a/8581276) and type this command:\n\n```Page.cmd(\"wrapperGetLocalStorage\", [], function (data) { gdata = data; console.log('yeah') })```\n\nYou should see it print 'yeah' and gdata will be filled with ZeroTalks ZeroNet equivalent to the localStorage, which is used for displaying if a topic has changed since you last visited it.\n\nSo in the above command, Page is an object instance of a class generated from coffee scripts [ZeroTalk.coffee](https://github.com/HelloZeroNet/ZeroTalk/blob/master/js/ZeroTalk.coffee), which inherits from the class [ZeroFrame.coffee](https://github.com/HelloZeroNet/ZeroTalk/blob/master/js/utils/ZeroFrame.coffee). You might be able to get away with just copying the [ZeroFrame javascript code in js/all.js](https://github.com/HelloZeroNet/ZeroTalk/blob/master/js/all.js#L1114) and maybe doing Page = new ZeroFrame() as a way of having your own Page object. I tried doing this via the console and it complained about a nonce but maybe it needs to be done on page load or something.",
+				"added": 1458683815
+			},
+			{
+				"comment_id": 26,
+				"body": "> [givemecredit](#comment_7_14PXH1VLXEseL1h6gLpHqi3bXEAdamDwgg): i can't figure out how to specify the key. Anyway, ill have another go when i get back from work. Cheers mate!\n\nIn my example below, ZeroTalk had gdata as an object (or can be an object). So as an example:\n```\nvar myLocalStorage = {}\nPage.cmd(\"wrapperGetLocalStorage\", [], function (data) {\n\tmyLocalStorage = data; \n\tmyLocalStorage [page] = jQuery(\"#pages section\").html();\n\tPage.cmd(\"wrapperSetLocalStorage\", myLocalStorage);\n});\n```",
+				"added": 1458766909
+			}
+		],
+		"7_17n5jg4bBEoWodXDf8L4Y2u88ShagS272Y": [
+			{
+				"comment_id": 19,
+				"body": "Ok, cool. This works on this forum:\n\n```Page.cmd('fileGet', {'inner_path' : 'data/users/1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG/content.json', 'required' : false }, function (data) { console.log(JSON.parse(data).cert_user_id) })```\n\nprints out:\n\n```zeronews@zeroid.bit```\n\nSo unless there is a quicker way, guess I'll just do it this way.",
+				"added": 1458609503
+			}
+		],
+		"1_15kuNrNeQtVRmDqENgbCqw6s3mG9noQ7zA": [
+			{
+				"comment_id": 21,
+				"body": "They also may have found another legal loophole or got another government agency involved that forces Apple to quietly comply with the order, just like with [LavaBit](https://en.wikipedia.org/wiki/Lavabit).",
+				"added": 1458674550
+			}
+		],
+		"3_1F4DKSRBpoHN7ueQvkeM5x4AhfE65v3MN3": [
+			{
+				"comment_id": 24,
+				"body": "> [mikhailobv](#comment_4_1F4DKSRBpoHN7ueQvkeM5x4AhfE65v3MN3): https://zeronet.readthedocs.org/en/latest/site_development/zeroframe_api_reference/#wrapper\n> So its a function to interact with zeroframe?\n\nAlso the [UiServer](https://zeronet.readthedocs.org/en/latest/site_development/zeroframe_api_reference/#uiserver), which you can use to manipulate files, database queries, select users, listen for changes to a site, etc. And you can also use it to communicate with plugins.",
+				"added": 1458711242
+			}
+		],
+		"2_1KSNSPNM5FTUwPJeyyHrLXek1dsumpnFm1": [
+			{
+				"comment_id": 32,
+				"body": "Try to access your site from one of the proxies to make sure it is working:\n\nhttp://127.0.0.1:43110/ZeroProxies.bit",
+				"added": 1458972097
+			}
+		],
+		"24_1ED3Ho3kmzaKiECtyuqSjDpoE47rKuXeP": [
+			{
+				"comment_id": 33,
+				"body": "I've been wanting to do this for a while, but haven't had the time. I think it can be done like running IRC bots in a ZeroChat, users could run a bot for other users to play, and maybe the Zite could build in graphics for bots.\n\nA lot of bots come up when you do a search these are the ones that peaked my interest but need to be ported to javascript and made to work in ZeroChat:\n\nhttps://casinobot.codeplex.com/\nhttp://javatwg.sourceforge.net/\n\nI'm also seeing bots for twitch.tv that as viewers watch a streamer the bot gives them currency and they can gamble the currency. Something like that could be used to attract people to a chat room and hang out collecting tokens they can gamble with each other.",
+				"added": 1459031636
+			}
+		],
+		"2_1BDapygZHNG8GxEuSsEpK9Xipm9mFfW1F2": [
+			{
+				"comment_id": 34,
+				"body": "That javascript doesn't seem to do anything:\n\n```void(0)```\n\nAre you sure there isn't some additional missing code. What is it supposed to do that it isn't doing?\n\nI mean I see a number of things here that maybe could go wrong that maybe you are referring too. Like missing image, missing style classes, missing javascript event handler, etc.",
+				"added": 1459045760
+			},
+			{
+				"comment_id": 35,
+				"body": "> [snifflz](#comment_5_1BDapygZHNG8GxEuSsEpK9Xipm9mFfW1F2): it works locally outside of zeronet but just not within zeronet for some reason\n\nAgain though, the code you posted here doesn't seem to do anything, like it is missing something else.\n\nDo you see errors in the javascript console (ctrl-shift-j in chrome, ctrl-shift-k in firefox) when you use it in zeronet?\n\nThere are limitations that could cause javascript to fail on ZeroNet but it depends on what its trying to do and you wil likely see errors in the console if that were the case.",
+				"added": 1459046774
+			},
+			{
+				"comment_id": 36,
+				"body": "Another thing also this URL doesn't seem right if you are running at the root of your ZeroNet site:\n```\"../assets/images/movies/1_2013/medium-cover.jpg\"```\n\nagain though I think you will see errors if it fails to load.",
+				"added": 1459046919
+			},
+			{
+				"comment_id": 37,
+				"body": "Yeah it looks like a lot of broken links. It looks like it is appending links to your zeronet UiServer (127.0.0.1:43110) instead of accessing the web.\n\nlike this:\n```http://127.0.0.1:43110/s7.addthis.com/js/300/addthis_widget.js#pubid=ra-56896aba6888ef3e ```\nshould be this:\n```http://s7.addthis.com/js/300/addthis_widget.js#pubid=ra-56896aba6888ef3e ```\n\nyou could try to download those directly and then find where they are linked from and fix those links to the local version. But it may take a lot of work.",
+				"added": 1459049107
+			}
+		],
+		"10_1LRrd96P7FiTcsyNXVzPM5jtpQoH1B4gYf": [
+			{
+				"comment_id": 38,
+				"body": "OpenBazaar doesn't scale well at all. I tried it when it was on the testnet and notice some scalability issues but thought they would fix them before mainnet but apparently they didn't since it is way worse now.\n\nThey also lack two party trustless escrow, although they say they will add it later that basically means you need to trust the first party or a third party 'moderator'.\n\nAnyone use BitHalo/BlackHalo? They have a market which has two party trustless escrow.\n\nThere is also the Shadow project is working on a market as well, which will likely be decentralized/anonymous.",
+				"added": 1459964798
+			},
+			{
+				"comment_id": 42,
+				"body": "> [noiamo](#comment_47_14XxpXNGMLsyeQxikacrbQnAFXVyhN5Ngx): Think they are going for another round of funding they didnt get much\n\nIf they get more funding they should use it to hire nofish and other ZeroNet devs to integrate store content hosting in ZeroNet to improve scalability. It does look like OpenBazaar's server uses python.",
+				"added": 1460056084
+			},
+			{
+				"comment_id": 43,
+				"body": "> [noiamo](#comment_48_14XxpXNGMLsyeQxikacrbQnAFXVyhN5Ngx): If the get another they will just w8 ipfs implementation to be mature and they are gonna add this in about a year\n\nSure but ZeroNet could also switch over to IPFS in such a time frame (if there is a benefit to) and ZeroNet works today! Anyway, such a strategy just continues to make me skeptical over OpenBazaar's developers, I think a lot of users will drop off and then scalability won't be an issue for them anymore :/",
+				"added": 1460067447
+			},
+			{
+				"comment_id": 46,
+				"body": "> [odd](#comment_26_1EMpuiFM1NLZmAVyoAWnwi8VwiZVV4dcnN): Switching to IPFS would be a loss in privacy. IPFS doesn't run over Tor and reveals the IP address of all seeders.\n\nThere is already discussion and interest in getting Tor to work with IPFS:\n\nhttps://github.com/ipfs/notes/issues/37",
+				"added": 1460090577
+			},
+			{
+				"comment_id": 48,
+				"body": "> [noiamo](#comment_49_14XxpXNGMLsyeQxikacrbQnAFXVyhN5Ngx): They don't worry about privacy they just want a nice clean shop\n\nTor is optional for ZeroNet and I don't see how ZeroNet would prevent them from having nice clean shops (now instead of the future!). The only things ZeroNet doesn't handle is payment processing and listing searches, but they could just use ZeroNet to host a sites content, customer product ratings, reviews, and peer ratings, and maybe order requests (when a stores host is down), etc. And again their payment needs work, it needs 2 party escrow (unlike BitHalo/BlackHalo), and their listing search is really bad anyway, it's better to use http://bazaarbay.org, and as a result I don't find their shops to be 'clean'.",
+				"added": 1460141463
+			}
+		],
+		"1_18ZfPCaU1pYAeos3A7YhZVgtsmXqXeRRW7": [
+			{
+				"comment_id": 39,
+				"body": "The obvious problem with sites like ZeroMail is that the owner (or hacker who gets into their computer) can change the code to send data to clearnet server, or create a backdoor to the encrypted message.\n\nI've been interested in the idea of unowned spaces for data. Similar in respect to hash tags on twitter, where anyone can link content to a hash tag and users can find all the content under a hashtag. And they would work like any other site, you can delete them from your computer. These same spaces could be used to store encrypted messages, as well maybe host cryptocurrency ledgers.\n\nYou could have other sites that work like apps, allowing you to modify the content of unowned spaces, and you can clone those apps so you don't have to worry about the owner or a hacker modifying them to destroy your privacy, and if the original creator updates them you can audit their changes.\n\nAlternatively maybe having sites that once created can't be modified. MaidSafe calls this kind of data in their network as immutable. Creating a new version of a site would require everyone to migrate from the old one to the new one. The problem with this is obviously that upgrading means you need to use both if not all those you communicate with are on both sites.",
+				"added": 1459978875
+			},
+			{
+				"comment_id": 40,
+				"body": "> [nofish](#comment_591_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): There is much simpler solution for that: clone zeromail, symlink data dir to original site's one. This way the site owner does not able to modify the source code anymore, but you get the latest data.\n\nIt's simple if you know how to symlink on your operating system, if your operating system supports it, which doesn't do much for the general security but rather for whether an individual can and wants to do that, and you could still end up mailing someone or receiving mail from someone who is not as cautious.",
+				"added": 1459986666
+			},
+			{
+				"comment_id": 41,
+				"body": "> [nofish](#comment_592_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): If you are willing to audit every changes on the source code, then creating a symlink is not a big deal.\n\nIt doesn't have to be audited by yourself, you could look towards others you trust to audit it, one person could audit code for several people, those people could use their site instead of the default ZeroMail, but they would each have to symlink and know how to symlink have an operating system that allows them to symlink.",
+				"added": 1459989213
+			}
+		],
+		"1_1PXF74wN3wVwXSHjKx6x9ta3FPe7P9TTtx": [],
+		"4_1EMpuiFM1NLZmAVyoAWnwi8VwiZVV4dcnN": [
+			{
+				"comment_id": 45,
+				"body": "> [bot](#comment_6_1KdnTJVBGzEZrJppFZtzfG9chukuMv8xSb): I remade it but had to make it easier to play. :P\n\nIt seems very choppy now for some reason.",
+				"added": 1460085318
+			}
+		],
+		"1_1LBz6orS5KPtvoS7BaTsgquYnMsystDNjE": [
+			{
+				"comment_id": 47,
+				"body": "I wonder if Banana Pi Pro would be better: http://www.htpcguides.com/raspberry-pi-vs-pi-2-vs-banana-pi-pro-benchmarks/",
+				"added": 1460139542
+			}
+		],
+		"1_1KdVeashoiPjj79tVUmAy8cBYjwxfZNe1e": [
+			{
+				"comment_id": 49,
+				"body": "If I were stranded on an island and could take one game with me, it would probably be Skyrim, I have logged over 310 hours in it. For now though I am playing Vanishing of Ethan Carter **in VR**!",
+				"added": 1460146378
+			}
+		],
+		"1_1XGf6G78ZwZwz4FeZBtmzxtKAsTicgaBN": [
+			{
+				"comment_id": 50,
+				"body": "* Sell stuff on OpenBazaar.\n* Create a video and put it on http://watchmybit.com .\n* If you can program, find a bug to fix or feature to add to code on http://bountysource.com and http://gitmoney.io .\n* If your electricity costs are low, buy a bitcoin miner and join a pool.\n* If you have bitcoin buy some Dash or Clams and run nodes staking coins and trade those for bitcoin.\n* There is this freelancer site (have not tried it) https://www.xbtfreelancer.com/projects",
+				"added": 1460490730
+			}
+		]
+	},
+	"comment_vote": {
+		"22_14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx": 1,
+		"69_15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ": 1,
+		"29_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf": 1,
+		"16_1An7ATsNMMNqRgSgB2upWwbpXgFXQ9E2XD": 1,
+		"67_15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ": 1,
+		"109_1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD": 1,
+		"492_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"76_15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ": 1,
+		"125_1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD": 1,
+		"81_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1,
+		"82_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1,
+		"513_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"7_14XqxwpdedXGY2FiUhvV3KVPkKTsABqGcm": 1,
+		"1_1EgYg1XAxktqWHWC1aTWQoToF6Mr5QmEWq": 1,
+		"69_1H8oKiRa7fGgUqS1hpUtaSYLvAqkaknbkf": 1,
+		"3_1EgYg1XAxktqWHWC1aTWQoToF6Mr5QmEWq": 1,
+		"75_1H8oKiRa7fGgUqS1hpUtaSYLvAqkaknbkf": 1,
+		"32_168qV1Xxp2EyszrzdECLUwXrn9wGYjDdar": 1,
+		"556_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"38_14XxpXNGMLsyeQxikacrbQnAFXVyhN5Ngx": 1,
+		"1_14PXH1VLXEseL1h6gLpHqi3bXEAdamDwgg": 1,
+		"4_1GgXbWMo4NkVQNKbLJFvEephA9rPLp9j2P": 1,
+		"53_17fgJ3tZjhM7HCkTkd5TWf2BLLWmhRKcXB": 1,
+		"20_16bxMyoL49mWYhcZKBYVBT5zEFW9SQpiao": 1,
+		"4_1BYU9zV786auJ29dF3HMAQYhxA2WgN4ofi": 1,
+		"16_18rFd7W9y5QGQEVXaCoJV7jyt7D8aN156h": 1,
+		"22_18rFd7W9y5QGQEVXaCoJV7jyt7D8aN156h": 1,
+		"83_1H8oKiRa7fGgUqS1hpUtaSYLvAqkaknbkf": 1,
+		"3_15kuNrNeQtVRmDqENgbCqw6s3mG9noQ7zA": 1,
+		"1_1AxJtqoxhNyjRjUptGgVoVHxgxtKRzUrpY": 1,
+		"95_1KwTTgPRSTHFmmJAFBt6kQfdyNeSM5KJuH": 1,
+		"84_1PVcdu7USZH2kHMETbqDYLPjJZKCDWM52k": 1,
+		"567_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"27_16bxMyoL49mWYhcZKBYVBT5zEFW9SQpiao": 1,
+		"28_17n5jg4bBEoWodXDf8L4Y2u88ShagS272Y": 1,
+		"8_14PXH1VLXEseL1h6gLpHqi3bXEAdamDwgg": 1,
+		"39_15QGRquMETTn5LnCHjTm1qa9eaXGtq7gpT": 1,
+		"3_14nEeyHKvuhBchZp4N4eSwYVNAzvYfwKQF": 1,
+		"594_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"596_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"1_18dZiyuxq5kuXAhviJoop9MqghfYWbBCai": 1
+	}
+}

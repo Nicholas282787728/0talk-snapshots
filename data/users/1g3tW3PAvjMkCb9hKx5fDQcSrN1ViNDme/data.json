@@ -1,0 +1,44 @@
+{
+	"next_topic_id": 3,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "How do you associate your site/blog with a registered .bit?",
+			"body": "I successfully registered a .bit domain via nmc-qt but now I'm sure what to do. \n\nI pasted this string: \n{\n\"zeronet\": {\"\": \"13pvniTndzCjzdKYuY3j75wkZYWeUt6MKk\",\"blog\": \"13pvniTndzCjzdKYuY3j75wkZYWeUt6MKk\"},\n}\n\nonto \"custom configuration\". Is that it?",
+			"added": 1456933280
+		},
+		{
+			"topic_id": 2,
+			"title": "Does zeronet conflicts with .bit chrome extension proxy?",
+			"body": "Once I installed .bit proxy extension on chrome it seemed to have broken zeronet...",
+			"added": 1456933424
+		}
+	],
+	"topic_vote": {
+		"1_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG": 1,
+		"1_12ve3nmRvDkay7puHnhTT5pgqAo9Uo8ee6": 1
+	},
+	"next_comment_id": 3,
+	"comment": {
+		"1_15zfQw1PPLNRYGUtuzTj1LN5hX6K24rUnY": [
+			{
+				"comment_id": 1,
+				"body": "I installed NMC-QT yesterday and this morning I got the whole blockchain downloaded which allowed me to register the domain using a few coins I got while merge-mining BTC. It's *alot* cheaper to do it this way. but I'm not sure how to proceed now, in associating the domain with my site.",
+				"added": 1456933937
+			}
+		],
+		"1_1C3v8nTmMJReshHQxX1Di6D8nmMYfdpspA": [
+			{
+				"comment_id": 2,
+				"body": "+1 portugues",
+				"added": 1457039592
+			}
+		]
+	},
+	"comment_vote": {
+		"1_1AXy2B7SEgps7Pdb2j1rKJZHRoessB76M6": 1,
+		"375_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"41_17i7Y7r8nTaCfLbCAuaKyc4R5BbKZYU2Hr": 1,
+		"9_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1
+	}
+}

@@ -1,0 +1,49 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "Content expiration",
+			"body": "Is there a way to make user-submitted content expire (and get deleted, freeing space) after some time? Or I have to periodically clean the db and push a new version?",
+			"added": 1453572223
+		}
+	],
+	"topic_vote": {
+		"1_1LgoHzNGWeijeZbJ8a1YgGjMCnjaM4BWG": 1,
+		"10_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf": 1,
+		"4_1KcPohxmuqiNShTaAzJZLndm5aWtBZLuJn": 1
+	},
+	"next_comment_id": 4,
+	"comment": {
+		"1_1LgoHzNGWeijeZbJ8a1YgGjMCnjaM4BWG": [
+			{
+				"comment_id": 1,
+				"body": "Thanks for your reply!\n\n> [nofish](#comment_199_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): There is no content expiry (yet).\n\nIs it planned to be implemented?\n \n> Implement to site code: When user submits new content delete contents older than X days\n\nIs it possible to reject old content by other users instead of deleting your own (which is not guaranteed to happen)?\n\n> Create a script that checks loops through all user's data.json and modifies if necessary then signs/publish the modified files using site owner's privatekey.\n\nThis seems the safest way, but I'd like a more distributed approach",
+				"added": 1453643360
+			},
+			{
+				"comment_id": 2,
+				"body": "> [nofish](#comment_202_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj):\n> If you work with multiple files (eg. separate file for every image) then its possible to define them as optional files which is only downloaded if you display it on the website (see the ReactionGIFs site). So the old files will not be downloaded without any user interaction.\n\nCan i do the same thing for e.g textual content (without an index it doesn't seem possible)? I know there's the database for that, but in the long term it suffers from the same problem. What about the individual content.json files? Do they get deleted eventually?\n\nI'm just wondering if i can make a site run perpetually without maintenance and without it increasing in size.",
+				"added": 1453747346
+			}
+		],
+		"10_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf": [
+			{
+				"comment_id": 3,
+				"body": "> [noiamo](#comment_2_14XxpXNGMLsyeQxikacrbQnAFXVyhN5Ngx): Social media or reddit with subreddit i think both depend on the ability to merge sites\n\nSite merging is a nice idea",
+				"added": 1454864869
+			}
+		]
+	},
+	"comment_vote": {
+		"10_18ECMG6USRQenXgf7QdxDniLGi7PLBcKjX": 1,
+		"12_18ECMG6USRQenXgf7QdxDniLGi7PLBcKjX": 1,
+		"122_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"1_1PDeGMWW6badM8gzU6eApYMiFpJfXJNQXb": 1,
+		"180_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"199_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"202_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"2_14XxpXNGMLsyeQxikacrbQnAFXVyhN5Ngx": 1,
+		"22_1LRrd96P7FiTcsyNXVzPM5jtpQoH1B4gYf": 1
+	}
+}

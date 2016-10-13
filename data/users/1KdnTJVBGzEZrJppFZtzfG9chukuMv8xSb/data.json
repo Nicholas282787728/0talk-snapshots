@@ -1,0 +1,935 @@
+{
+	"next_topic_id": 12,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "Code Editor (w/run)",
+			"body": "Following in the footsteps of nullpo. (Nullpaste)\n\nThere's a new frontend with split screen editors (left is code/run) (right is load/save) and will add a fork function as i find time. (the buttons in red box still reload page, so save first until there's a better page state handler)  Adding our own scripts to the dropdown examples is next on the list.\n\nIt's primarily for javascript/canvas dev and code sharing.\nPlease add your own suggestions. Thanks.\n\nhttp://127.0.0.1:43110/1NFUSEDZjmCFJE1JSG5UjwCRK6zDwQRQd7",
+			"added": 1459490135,
+			"parent_topic_uri": "3_1PVcdu7USZH2kHMETbqDYLPjJZKCDWM52k"
+		},
+		{
+			"topic_id": 2,
+			"title": "DOnate ButtOn",
+			"body": "anyone donated?\n\n'bitcoin:' not working in FFnitely.. Mathon4.9.. :P",
+			"added": 1460723538
+		},
+		{
+			"topic_id": 3,
+			"title": "Ethereum Studio Trial (free until 15-May)",
+			"body": "Ethereum Studio is a tool for decentralized application development, and includes;\n- Ethereum in a Sandbox - try it for real before you deploy.\n- Solidity - the language of decentralization.\n- Unit test - constantly test your projects functionality\n- One click deploy - deploy your project anyway in one click.\n- Web UI - develop any complexity UI for you D-App.\n- Web 3.0 debug - set break point ,stop, and easy fix the bug.\n\nhttps://live.ether.camp/",
+			"added": 1460900943,
+			"parent_topic_uri": "1_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG"
+		},
+		{
+			"topic_id": 4,
+			"title": "Webtorrent Desktop Streams Torrents Beautifully",
+			"body": "https://torrentfreak.com/webtorrent-desktop-streams-torrents-beautifully-1604xx/\n\n(download..)\n\nhttps://webtorrent.io/desktop",
+			"added": 1460935429,
+			"parent_topic_uri": "1_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG"
+		},
+		{
+			"topic_id": 5,
+			"title": "Japan's Mizuho Bank joins growing list of institutions trialling blockchain.",
+			"body": "http://www.itworld.com/article/3042182/mizuho-bank-speeds-international-securities-transactions-using-blockchain.html",
+			"added": 1462280455,
+			"parent_topic_uri": "1_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG"
+		},
+		{
+			"topic_id": 6,
+			"title": "The NSA employs legions of hackers, as do the FBI, CIA, DEA, DHS, DoD..",
+			"body": "https://theintercept.com/2016/06/28/he-was-a-hacker-for-the-nsa-and-he-was-willing-to-talk-i-was-willing-to-listen/",
+			"added": 1467767871,
+			"parent_topic_uri": "1_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG"
+		},
+		{
+			"topic_id": 7,
+			"title": "UK Government Trials Blockchain Welfare Payments System",
+			"body": "http://www.coindesk.com/uk-government-trials-blockchain-welfare-payments-system/",
+			"added": 1467941485,
+			"parent_topic_uri": "1_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG"
+		},
+		{
+			"topic_id": 8,
+			"title": "[poll] Used:",
+			"body": "?k/40k",
+			"added": 1468279694
+		},
+		{
+			"topic_id": 10,
+			"title": "ZeroMe",
+			"body": "UPDATE:\n\n>> New ZeroNet  v0.4.0 available!  ZeroMe is on ZeroHello's \"More sites\" section. \n\nGo get some!!",
+			"added": 1470460863
+		},
+		{
+			"topic_id": 11,
+			"title": "Ethics of site cloning and code reversing.",
+			"body": "Might as well use my last few Kbs..\n.\nAll three of my projects use code from other zites. I did not ask permission, but i DO mention or link to those projects in-app. (in the case of FlappyBird it was already a straight port to ZN)\n.\nThis will happen a LOT on ZN since;\n- cloning is commonplace (a function of ZN)\n- it's easy on ZN (designed into ZN)\n- we're a hacker type userbase (\"off-grid\" anon users)\n- zite owners will disappear (limited site storage quota stops users from contributing)\n- everything on ZN is open-source (unless a zite owner puts in time obfuscating or encrypting code)\n- bitcoin addresses (zites might actually make money... someday)\n- ...\n.\nThe only resolution i came to is to use vanity urls and make them long enough (ie. unique enough) not to allow phishing type clone attacks. It's inevitable that someone will clone a site and compete with an owner, so obfuscating is one solution, but it takes time and skill. One's best defense is to have an active community who is loyal to the zite creator. If you think someone outright \"stole\" a site, then don't use it and don't host it. Conflicts will occur, but don't be nasty or we'll have.. (drum-roll) *Zite Wars!*\n.\nps. in the case of null-paste the code *was* obfuscated, but i'm a pretty skilled \"reverser\" and it was a learning exercise.  ;)\n.\nAnything i've missed?",
+			"added": 1470695256
+		}
+	],
+	"topic_vote": {
+		"24_1ED3Ho3kmzaKiECtyuqSjDpoE47rKuXeP": 1,
+		"3_1PVcdu7USZH2kHMETbqDYLPjJZKCDWM52k": 1,
+		"1_1MZ6f3V1cBuhNwzajMVPu8vb1wRt1p6dpt": 1,
+		"2_1P1Z6QcGaehuexRE5s8AcDnVi7ykErBMSG": 1,
+		"2_1HDGK4rrMzuouF8hNnxfMNpWyR8qAtP4HR": 1,
+		"3_1FieP4c1gxFme5webFJB9x5ZPBXdR6p3Fs": 1,
+		"2_19qsuxKBkNZWYft3epWgn6u3gG82sQHs6n": 1,
+		"1_13AWQqk9ksNZdYUwjx3yvtz9ZHx3AVBmeU": 1,
+		"6_1KdnTJVBGzEZrJppFZtzfG9chukuMv8xSb": 1,
+		"10_1ADB7TdX2fVbTsWBoMe9yBTmVXTbb33b4R": 1,
+		"1_1GPrcAqJHUmfQmbBpMW8Br4tGZCCXA5NeZ": 1,
+		"1_1EizNCr1TBaytrcEFBPrk8yk6eUFgNCC5r": 1,
+		"3_1QBLGLcgKfcpfLmiDYuDzUKVXFfmTAew55": 1,
+		"1_13t2ME4cTtkxrwPeugeZgdJF5Kg7C5CSEy": 1,
+		"3_1GervYZoP82e8X1Rgc4wyMkJY2zSsJuq8t": 1,
+		"1_17Cs2auSHSVjKaYMXqbNMApRQrgXcwJUpL": 1,
+		"10_1KdnTJVBGzEZrJppFZtzfG9chukuMv8xSb": 1,
+		"2_14ng1wByxwoNXAhihYbpgyarVJbFiqs8ny": 1,
+		"2_19dSnqd1GpiMTnuiD4n1tPasyKTDfNSFyz": 1,
+		"1_1NGTMtN8816KeCtNqy6W4fCQduU4P8iwty": 1,
+		"7_16w7UuJAHbt8YBa8zxHS7UFk9mq8Q5DpE4": 1,
+		"2_14UupgrdnT7Y8vMES7aqUFgD1fC5RYNrh8": 1,
+		"1_1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow": 1
+	},
+	"next_comment_id": 128,
+	"comment": {
+		"2_1CWttfFnJgQmZifX8FbZn9dZ3xaTfooSJd": [
+			{
+				"comment_id": 1,
+				"body": "https://zeronet.readthedocs.org/en/latest/site_development/content_json/#cloneable",
+				"added": 1458834530
+			}
+		],
+		"24_1ED3Ho3kmzaKiECtyuqSjDpoE47rKuXeP": [
+			{
+				"comment_id": 95,
+				"body": "Thanks @zeropunto! I think someone else also did a game's list using ZW. The more the merrier!",
+				"added": 1470693688
+			}
+		],
+		"2_19Q1vr2EtHe6525gmrD3E7jpvZVBq8YAFP": [
+			{
+				"comment_id": 3,
+				"body": "Our Zeronet can't be shut down by anyone.. Mwahahahahahaaaaaaaa~!!! (cough)",
+				"added": 1459134669
+			}
+		],
+		"1_1KdnTJVBGzEZrJppFZtzfG9chukuMv8xSb": [
+			{
+				"comment_id": 4,
+				"body": "Yes, i had the same error in dev, but it went away when i published. (cause yet unknown)",
+				"added": 1459719043
+			},
+			{
+				"comment_id": 5,
+				"body": "just seen on a different monitor.. i'll fix layout asap. (family member passed)",
+				"added": 1459757887
+			},
+			{
+				"comment_id": 8,
+				"body": "added some more demos from Cave2D.com (drag terrain, drag object, game1)\nthe database is handling large files okay. i'll bump it to a few mb when needed. testing in Maxthon browser. \n(..still need to change from static to dynamic layout for diff screen sizes)",
+				"added": 1460411925
+			},
+			{
+				"comment_id": 9,
+				"body": "Hey thanks for the feedback.  As with @thisguy1337 my error went away.\nWhen i was hooking in nullpo's minified code (i called it ZeroPaste) i had to figure out what some of the variables did as they were also obfuscated (all renamed to the same bunch of letters of the alphabet) and when i started assigning readable names my code broke so i went back a few times, except where they seemed to be ZeroFrame API related, and therefore necessary. I think there are one or two that still need re-assigning, but as my error went away it's harder to fix.\n\nDid you try logging in with your ZeroID and reloading a couple of times?\nDo you get the same error on the proxy site below?\n\nhttp://proxy.zeroexpose.com/1NFUSEDZjmCFJE1JSG5UjwCRK6zDwQRQd7/",
+				"added": 1460436648
+			},
+			{
+				"comment_id": 10,
+				"body": "Cheers. I was missing a pair of () around the ZeroPaste class. I'll keep checking for anything else.",
+				"added": 1460450151
+			},
+			{
+				"comment_id": 22,
+				"body": "> [bot](#comment_8_1KdnTJVBGzEZrJppFZtzfG9chukuMv8xSb):  ..database is handling large files okay. i'll bump it to a few mb when needed.\n\nI've set the max data storage to 1MB which is the current ZN file limit, as i'm only using one data.json per user so i'll have to split those into multiple files before i can bump the storage size back up again.",
+				"added": 1461345285
+			},
+			{
+				"comment_id": 33,
+				"body": "- added a voxel shooter (game2)",
+				"added": 1462027376
+			}
+		],
+		"4_1EMpuiFM1NLZmAVyoAWnwi8VwiZVV4dcnN": [
+			{
+				"comment_id": 6,
+				"body": "I remade it but had to make it easier to play. :P\nAdded an in-game calculation for the overall game time to verify people are playing. Some extra obfuscation.\nI like the suggestion @waterrabbit, but the pipe spacing is randomized so it changes each game.\nIt wouldn't overlay with another person's play.\n\nhttp://127.0.0.1:43110/1PANDAML8mLaRKPinGihTj5RkJV15awcjs/",
+				"added": 1460067205
+			},
+			{
+				"comment_id": 7,
+				"body": "which browser?",
+				"added": 1460085526
+			},
+			{
+				"comment_id": 37,
+				"body": "> [kindlyfire](#comment_5_1FTFKztuv4Z5uy6iS83k9hB2xtS6yFnDxx): This is so laggy and still waay to easy to play.\n\nIt plays fine in Maxthon, which oddly enough never gets mentioned in any US browser comparisons. :)",
+				"added": 1467196770
+			}
+		],
+		"2_16nZf7G4qaYRtFpHM9MM1A32nV5oqU9TW1": [
+			{
+				"comment_id": 11,
+				"body": "There's a delete button in the sidebar under \"site control\" next to [update] and [pause].",
+				"added": 1460461186
+			}
+		],
+		"1_18jipjDsfAxAuq4ixbi2w24xJrYVfTYFPn": [
+			{
+				"comment_id": 12,
+				"body": "nz",
+				"added": 1460721612
+			}
+		],
+		"2_1KdnTJVBGzEZrJppFZtzfG9chukuMv8xSb": [
+			{
+				"comment_id": 13,
+				"body": "Asking which browser works.",
+				"added": 1460727637
+			},
+			{
+				"comment_id": 14,
+				"body": "It's new button in the sidebar.\n\nZero margin cost..\n\nhttps://www.youtube.com/watch?v=TS1NzYBIBaU",
+				"added": 1460728808
+			}
+		],
+		"5192_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG": [
+			{
+				"comment_id": 15,
+				"body": "Broken link.. the story in Google looks like a \"work from home\" scam.",
+				"added": 1460931889
+			}
+		],
+		"4_1KdnTJVBGzEZrJppFZtzfG9chukuMv8xSb": [
+			{
+				"comment_id": 16,
+				"body": "(source..)\n\nhttps://github.com/feross/webtorrent-desktop",
+				"added": 1460935530
+			}
+		],
+		"43_1GtJqyJRsuZhmxVtw5USgvqGbUmVH7EmBD": [
+			{
+				"comment_id": 17,
+				"body": "There was a lot of angst on reddit over the possible bitcoin fork and censorship thereof.\nAlong with their tipping platform they're well acquainted with these concepts.\nAlso the popularity of ZN beyond traditional western influence should be viewed as a positive\nfor similar reasons. Data suggests China mines the most bitcoin, despite crackdowns on it's use.\nIt's unclear whether the GFoC will target these technologies directly, but we'll find out\nsooner than later by the looks of it. Exciting times.",
+				"added": 1461141759
+			}
+		],
+		"1_1Ja2gA7t3Kc2CLL5GgVGr7pJTmTxdVygmS": [
+			{
+				"comment_id": 18,
+				"body": "You sometimes have to reload the all.js file in the browser to update your changes. Leave a second browser tab open with it listed on screen, then when you make changes to other files, you then re-sign the site, then reload all.js, then your changes will work on the site.\n\nOn windows you can make a .bat file which saves you having to copy and paste the private key etc. So you would have \"zeronet.py --debug siteSign  [site hash]  [private key]\" in a myfile.bat and run it by double-clicking. The all.js is only updated (compiled) in --debug mode.",
+				"added": 1461227687
+			}
+		],
+		"9_1H8oKiRa7fGgUqS1hpUtaSYLvAqkaknbkf": [
+			{
+				"comment_id": 19,
+				"body": "I use NullPaste in 1nfused (Code Editor) and the private mode still works the same.",
+				"added": 1461324476
+			}
+		],
+		"20_1CMYxdit4qq9QGk9DYRu2ruRPd2YDGckH8": [
+			{
+				"comment_id": 20,
+				"body": "> [nofish](#comment_608_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): ..currently files larger than 1MB is not supported.\n\nGuessing this excludes /data  .db & .json files?  (ex. zeromail.db)",
+				"added": 1461328990
+			},
+			{
+				"comment_id": 21,
+				"body": "ah, locally rebuilt from json. that makes sense.\n\n- is there a way to handle multiple .db files per site?  (ie. separate dbs)",
+				"added": 1461340352
+			},
+			{
+				"comment_id": 24,
+				"body": "Although we've coined the word 'Zites' ...we should also think 'Zapps'.\nZeroBundle could be packaged with single platforms in mind, with an app folder ready to go.\nWebkit is too large, but there should be a smaller wrapper that works just fine.\nNo need to worry about peers, as the Zapps would have already been published in the usual way.\n@nofish has previously mentioned one solution.. (April '15)\n\"Posibilities: use py2exe and pack everything to an exe (like electrum)\"",
+				"added": 1461412408
+			}
+		],
+		"9_1DcDDitsjFJohvwonPmpibRChmA7uGxqL7": [
+			{
+				"comment_id": 23,
+				"body": "The minimum you can withdraw is 100000000 Satoshi. (1 BTC)\nThat's 10,000 x 10,000. :P",
+				"added": 1461410462
+			},
+			{
+				"comment_id": 25,
+				"body": "How long from when you started?",
+				"added": 1461413309
+			},
+			{
+				"comment_id": 26,
+				"body": "Well, at say $2.50 USD a day and about 6 months effort.. IF they pay.. that would be pretty good return for someone in a poor country with cheap power. So yeah.. all hinges on the \"IF..\"\n\nThough, setting the bar so high to get a payout (6 months) does make it seem like they could shut up shop just before having to make the first payouts, and walk away with 100% ad revenue for the cost of a cheap domain.",
+				"added": 1461423502
+			},
+			{
+				"comment_id": 27,
+				"body": "I'm just saying that the idea of faucets is to give small amounts to lots of people.. not $450 to someone who puts months into it. Obviously they want lots of people to start trying and give up. Obviously they want tons of referral hits. So again, it's a great business strategy, but it's not what faucets are really about. Good luck thou!",
+				"added": 1461426383
+			}
+		],
+		"1_1EUyJtat7mbu5wMcR6nrJTPBBRons1mtMA": [
+			{
+				"comment_id": 28,
+				"body": "When it trended on github a couple of months ago. The learning curve is pretty sweet.",
+				"added": 1461487554
+			}
+		],
+		"53_1GtJqyJRsuZhmxVtw5USgvqGbUmVH7EmBD": [
+			{
+				"comment_id": 29,
+				"body": "@yo  make a system within a system. (your own filesystem app layer or converter)\nIf it's popular the people will use it.",
+				"added": 1461510777
+			}
+		],
+		"54_1GtJqyJRsuZhmxVtw5USgvqGbUmVH7EmBD": [
+			{
+				"comment_id": 30,
+				"body": "Can link to other zites, but can't load content in a cross-domain way.\nAny file reference to localhost is blocked as a security measure.\nI still like the idea of having lots of content spread on multiple zites, \nso apart from having a very light interface and jumping between zites, \nnot sure if there's another way.",
+				"added": 1461738384
+			},
+			{
+				"comment_id": 31,
+				"body": "That would be a clever way to implement it. Resigning site assets would break static links, but that would also work as a deterrence for leeching of bandwith. (the content.json is public so it would require outside crawlers to scan for any changes) The zite owner would likewise need to manage these \"virtual\" links from the central site, but Zeronet could introduce multi-site signing at some stage.\n\nSpeaking of crawlers (phantomjs or similar) would that be a way around the issue of cross-domain? (possibly using dynamic resigning and live-publishing of assests, ex. only as or when they are being requested)",
+				"added": 1461750418
+			},
+			{
+				"comment_id": 32,
+				"body": "(github blocked)  didn't know that.",
+				"added": 1461764560
+			}
+		],
+		"1_1ARmoCDkmZkYWAMCipxPqbUoT4akypoPoE": [
+			{
+				"comment_id": 34,
+				"body": "To teach our future robot overlords. They're not quite here yet so you'll have to hang around just a bit longer like the rest of us. ;)",
+				"added": 1462170289
+			}
+		],
+		"1_1BqTArWCTJVYgdCFcHdo8d341gWJg9F93f": [
+			{
+				"comment_id": 35,
+				"body": "Try running the zite via proxy server.\n\nhttps://proxy.zeroexpose.com/1HeLLo4uzjaLetFx6NH3PMwFP3qbRbTf3D",
+				"added": 1464405603
+			}
+		],
+		"1_1E3v8KeMYkrG9sKnbeaEufooqNcicW6N27": [
+			{
+				"comment_id": 36,
+				"body": "Looking forward to playing with the merged zites feature.\n\nhttps://bit.no.com:43110/Blog.ZeroNetwork.bit/?Post:87:Upcoming+feature:+Merger+sites+",
+				"added": 1467169279
+			}
+		],
+		"1_1Jk6ZkJ8uCJGmRGWUkAxsYkSkjZpcQK2oy": [
+			{
+				"comment_id": 38,
+				"body": "http://127.0.0.1:43110/Blog.ZeroNetwork.bit/?Post:43:ZeroNet+site+development+tutorial+1",
+				"added": 1467450821
+			}
+		],
+		"1_164W1rFVD9Bm7poGJWvjVUjvkbhhFC5nnt": [
+			{
+				"comment_id": 39,
+				"body": "Understand the origins of good governance and how to affect societal change.\n\nhttp://watch32.is/movie/x1bbal3G-where-to-invade-next/openload.html",
+				"added": 1467851319
+			}
+		],
+		"2_1Ci5Y4TxZwY1SQhvQR7Ttbdyyai4WRV5TU": [
+			{
+				"comment_id": 40,
+				"body": "Single page apps on github-pages.. https://github.com/rafrex/spa-github-pages",
+				"added": 1467881654
+			}
+		],
+		"1_1CJoRKtTrkCDDExSc2YDyJew3SNm943rK": [
+			{
+				"comment_id": 41,
+				"body": "Massively would be hard but multiplayer is doable.\n\nhttp://127.0.0.1:43110/1HjQ6RigqTp4wT3zbsXuLCXJMRPQRr3ei6/",
+				"added": 1467883794
+			}
+		],
+		"1_1GPrcAqJHUmfQmbBpMW8Br4tGZCCXA5NeZ": [
+			{
+				"comment_id": 42,
+				"body": "Apparently so. One future solution is for desert sand to be melted in solar furnaces (sintering) and then re-broken roughly like recycled glass, but it will take co-ordinated effort to solve issue of rising oceans, etc.",
+				"added": 1468243842
+			},
+			{
+				"comment_id": 43,
+				"body": "Sand Wars, nothing to do with flat earth. :)",
+				"added": 1468278866
+			}
+		],
+		"8_1KdnTJVBGzEZrJppFZtzfG9chukuMv8xSb": [
+			{
+				"comment_id": 44,
+				"body": "19k",
+				"added": 1468279709
+			},
+			{
+				"comment_id": 45,
+				"body": "> [xenith](#comment_8_1Buq4fyG8B3MxAvs7h4bASyWbrKFxmg4CJ): STFU bot.\n\nWhen i get to 40 i'll have to. :D",
+				"added": 1468297452
+			},
+			{
+				"comment_id": 46,
+				"body": "[suggestion] If we can trust the upvotes, then increase a poster's space by 1k when upvotes reach a certain level.",
+				"added": 1468313886
+			},
+			{
+				"comment_id": 50,
+				"body": "> [ks](#comment_114_14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx): 33.7 — and nofish doesn't seem to react on my zmail…\n\n@nofish has been on holiday in south of Italy for couple of weeks. He's just arrived back to Rome (so not involved train accident thankfully)",
+				"added": 1468367346
+			},
+			{
+				"comment_id": 52,
+				"body": "> [xenith](#comment_11_1Buq4fyG8B3MxAvs7h4bASyWbrKFxmg4CJ): The first letter in used is the wrong color.\n\nThe color shows % used. (~3k per letter)",
+				"added": 1468469062
+			}
+		],
+		"14_15ATNsS6aHGvBg5xoMP94sXpNaLX4fSHjN": [
+			{
+				"comment_id": 47,
+				"body": "In data.json find title of 'P2P news flow' you'll see \"type\": \"group\",\nadd it your own data.json & sign it",
+				"added": 1468326585
+			},
+			{
+				"comment_id": 49,
+				"body": "The root content.json normally has \"ignore\": \"data/.*\", so it doesn't sign data/user files.\nWe can do that manually -> zeronet.py siteSign [siteaddress] --inner_path data/users/content.json\nBut prolly @nofish did it on ZeroTalk, otherwise we do it on our cloned forum as owner.",
+				"added": 1468345381
+			}
+		],
+		"3_1QBLGLcgKfcpfLmiDYuDzUKVXFfmTAew55": [
+			{
+				"comment_id": 48,
+				"body": "Unravelling the centralized web. (via reddit/Lola)\nhttp://unravel.org/",
+				"added": 1468343796
+			},
+			{
+				"comment_id": 54,
+				"body": "Fresh start. Security wizard Bruce Schneier joins the Tor Project.\n\nhttp://www.theinquirer.net/inquirer/news/2465042/security-wizard-bruce-schneier-joins-the-tor-project",
+				"added": 1468743490
+			},
+			{
+				"comment_id": 55,
+				"body": "History of URL.\n\nhttps://eager.io/blog/the-history-of-the-url-path-fragment-query-auth/",
+				"added": 1468891510
+			},
+			{
+				"comment_id": 57,
+				"body": "Alleged KickassTorrents founder arrested.\n\nhttp://arstechnica.com/tech-policy/2016/07/kickasstorrents-alleged-founder-artem-vaulin-arrested-in-poland/",
+				"added": 1469059046
+			},
+			{
+				"comment_id": 74,
+				"body": "What Is the Decentralized Web?  (Decentralized Web Summit summary)\n\nhttps://ischoolonline.syr.edu/blog/what-is-the-decentralized-web/",
+				"added": 1469494657
+			},
+			{
+				"comment_id": 79,
+				"body": "ViralJS ...\"p2p web apps distribution made easy\".\n\nhttps://pixelscommander.github.io/Viral.JS/",
+				"added": 1469810849
+			}
+		],
+		"4_19wHyK5qpV9YVMiB9PUL3dMsqoJ6KLvZts": [
+			{
+				"comment_id": 51,
+				"body": "Database alone is not very secure, so needs blockchain or similar.",
+				"added": 1468461719
+			},
+			{
+				"comment_id": 53,
+				"body": "> [nvtv15](#comment_6_19wHyK5qpV9YVMiB9PUL3dMsqoJ6KLvZts): Could be existing bitcoin blockchain or similar.\n\nYes, but bitcoin blockchain is huge (growing) so parsing is slow.\nThis project on github looks suitable for the task..   https://github.com/ssbc/secure-scuttlebutt/\n(..I've made start on a db-editor, and ready to try adding this functionality myself also)",
+				"added": 1468510189
+			}
+		],
+		"4_16V375PksR7cEwnMDf2m5TYckuud9xUjVq": [
+			{
+				"comment_id": 56,
+				"body": "you can make any size with \"optional files\" (see docs)",
+				"added": 1469030920
+			}
+		],
+		"1_11SVkYkmCCFyBCVUU7Qaj8SAhyVT7m6pS": [
+			{
+				"comment_id": 58,
+				"body": "either that or unicode chars.",
+				"added": 1469059147
+			}
+		],
+		"24_1CMYxdit4qq9QGk9DYRu2ruRPd2YDGckH8": [
+			{
+				"comment_id": 59,
+				"body": "Arrests begin for social media comments.\n\nhttp://www.hurriyetdailynews.com/two-arrested-in-turkey-for-praising-failed-coup-attempt-on-social-media-.aspx?PageID=238&NID=101858&NewsCatID=341",
+				"added": 1469065024
+			}
+		],
+		"2_13zHC2gJ9L8ocNgzgPVBJSm4CJyL8YQezj": [
+			{
+				"comment_id": 60,
+				"body": "It's a clone of Zeromail with Instant.io added. (not mine)\n\nhttps://instant.io/\nhttps://github.com/feross/instant.io",
+				"added": 1469148147
+			}
+		],
+		"1_1FHZZ13tmi64crAx9n8qJQkkEkCcKguaei": [
+			{
+				"comment_id": 61,
+				"body": "https://bit.no.com:43110/zeroproxies.bit\n\n(proxy.zeroexpose.com has been down about a month)",
+				"added": 1469197976
+			}
+		],
+		"6_13hcYDp4XW3GQo4LMtmPf8qUZLZcxFSmVw": [
+			{
+				"comment_id": 62,
+				"body": "He's only been back from holiday about 5 days and working on social app, and has to go to Berlin. Let him finish the app.\n\nhttp://127.0.0.1:43110/Blog.ZeroNetwork.bit/",
+				"added": 1469198731
+			},
+			{
+				"comment_id": 63,
+				"body": "It is clear to anyone that @nofish is not an anonymous figure like \"satoshi nakamoto\" was to bitcoin.\nHe uses his real name and does presentations and interviews to promote Zeronet.\nHis design is slick and friendly. His apps are collaborative and clonable. His code is open source. His use of bitcoin addresses implies web-commerce.  He is one person, answering questions on ZN, Reddit, Github, and elsewhere.\n\nWhile he has done his best to make people's data safe and their identity secure, his goal looks to be openness and sharing (social, not secretive) and that is why many of us are here contributing where we can.\nThere are no moderators here, and everything is volunteer. It is what it is, but we can make it better by our own effort. If he wasn't so busy he would have read and answered your question by now, but he's working on something that many of us have been looking forward to using for months, so out of respect we are being patient and answering questions that he would have otherwise. That's why i'm writing this.\n\nIf you are a coder and have ideas about securing identities or communication then implement them in your own app. Or if you feel ZN is not attending to some feature you need, you are free to fork or download the source on github and run with it. There is already an alternative implementation available there. (search phantom)",
+				"added": 1469207470
+			},
+			{
+				"comment_id": 64,
+				"body": "Sure, point taken. fwiw, he takes donations on certain feature requests, so to a certain extent he is fulfilling existing pledges to make things like the social feature that was most in demand. Perhaps he could start a donation for decentralized IDs to gauge the demand for it also.",
+				"added": 1469208548
+			},
+			{
+				"comment_id": 65,
+				"body": "no. (edited)",
+				"added": 1469209408
+			},
+			{
+				"comment_id": 66,
+				"body": "Yes, i've been researching that myself for a couple of months. Are you also coder?",
+				"added": 1469209853
+			},
+			{
+				"comment_id": 67,
+				"body": "@tk6znreaerujvrfk\n\nCool dude. Let's do it. I've cloned ekaterina's 'to-do' app, and will now try to make the lists public.\n(..so each list will be tasks or steps to make the user IDs into blockchain format)  Next I'll add a chat.\n\n127.0.0.1:43110/1DECENTfv3wS5Ck3sbWJgThK8DW71DZMSN\nhttps://github.com/kustomzone/1Decentral\n\nI've put the app on github for cloning, pull-requests, and issues or comments.",
+				"added": 1469257913
+			},
+			{
+				"comment_id": 68,
+				"body": "Ok, i've been looking at bitcoin a few years, and ZN about 6 months, so any questions fire away.",
+				"added": 1469265756
+			},
+			{
+				"comment_id": 69,
+				"body": "Yes, that's what i meant about @nofish 's design.. he has the sidebar globe so we can see who is online and where they are (roughly, cos we can only zoom slightly) but that globe will improve and give us a much better account of who is using our apps and what they are looking at (heat maps) and so on. Thus we can make better apps.",
+				"added": 1469267810
+			},
+			{
+				"comment_id": 70,
+				"body": "Can you use ZM2? (resend)\n\nhttp://127.0.0.1:43110/16X3emHaVgNPrx39U1sYd24dFk5L5swTua/",
+				"added": 1469270332
+			},
+			{
+				"comment_id": 71,
+				"body": "received. ;D",
+				"added": 1469270620
+			}
+		],
+		"1_19umbaXsvNCczaxPeEC7hwAv3AoqK7YzwE": [
+			{
+				"comment_id": 72,
+				"body": "Yes, CS > JS in '--debug' mode creates 'all.js'.  (see zeroblog - tutorial part1)\nTutorial & samples all have CS so makes confusion.",
+				"added": 1469374934
+			}
+		],
+		"2_1NdoQ5cbxAuyjw5QVFaFA4jujtj8BX5Vnd": [],
+		"1_1MasLuczfwx6JzgRkwdH6fpR1rKK8sDwZ1": [
+			{
+				"comment_id": 75,
+				"body": "Ahhhh.. it's hard! lol",
+				"added": 1469803343
+			}
+		],
+		"3_1GervYZoP82e8X1Rgc4wyMkJY2zSsJuq8t": [
+			{
+				"comment_id": 76,
+				"body": "Seems to work.",
+				"added": 1469809268
+			}
+		],
+		"2_1CSc14JKdGAQJfQsfCLrduhB6zU4oEMwBf": [
+			{
+				"comment_id": 77,
+				"body": "Look content.json\n\n\"topic_sticky_uris\": [\n  \"put topic uri here\"\n]",
+				"added": 1469809564
+			}
+		],
+		"4_1GervYZoP82e8X1Rgc4wyMkJY2zSsJuq8t": [],
+		"1_1DSoqCXNkqv7yJNXiF6YoaeK2bW8BFt2gh": [
+			{
+				"comment_id": 80,
+				"body": "> [border0464fred](#comment_9_18XR5C5AxGfD5s2DbCPGuXxVN5oscoLyD6): how do sort [idiots]?\n\nsee.. ZeroTalk/data/users/content.json\n\n\"permissions\": {\n   \"bad@zeroid.bit\": false\n}",
+				"added": 1469845373
+			}
+		],
+		"1_17Cs2auSHSVjKaYMXqbNMApRQrgXcwJUpL": [
+			{
+				"comment_id": 81,
+				"body": "@tkarita \n\nOnly 2 people are at or near 2MB. (one person has a single 1.6MB jpg)  ..and the other is more typical 1.2MB in images, 550kb in json data, and 4 torrents totalling 132kb)\n\nZeroTorrent's allotment of 2MB is same for every user, so the designer of the site should consider how to allot more space to it's top users with a reputation system of some kind. This is for a site designer to consider. Can't really blame ZN for this design feature. We upvoting here ZeroTalk, but it's not linked to one's quota, so that should be addressed by someone at some stage. (can we trust users not to cheat? can we code a solution? etc)",
+				"added": 1470015285
+			},
+			{
+				"comment_id": 83,
+				"body": "There's also a lot of doubled (duplicated) data. \nEach data.json gets stored in SQL DB. ZeroToDo skips the DB, just using json.\nI've made a DB editor to try doing it the other way. (SQL, w/o JSON) I took Zite Index json which is 360kb and put it into DB which is only 215kb. So saving is about 30%, plus the original json. (see Load -> zites_2016.db)\n\n127.0.0.1:43110/1SQEEKkYzZuwo7X37EcET5wP6B3yAJZYo\n\nSo typically only 1 DB per zite, but DB editor might allow to bypass this, and DB size is not counted with 1MB file limit. ;)",
+				"added": 1470016738
+			},
+			{
+				"comment_id": 84,
+				"body": "Agree, but that's about 4 separate issues. \n- Popular users who add good content get more allotment (reputation)\n- Decentralised ID which can still limit abuse. (quota)\n- Site ownership. (multiple or shared private keys, or opensource DAO)\n- Abuse. (see above)\nWe should try to solve the first issue, while planning for the other 3.\nAtm, if the site owner is bad, people can easily clone the site and compete. (reputation)",
+				"added": 1470025426
+			},
+			{
+				"comment_id": 86,
+				"body": "> [zynklap](#comment_11_1DZr3dWHcLESuHx7UeC23QSXfQFvBdFT9s): But that would be some boring ass work, I doubt that lots of people would do it.\n\nIt's literally just changing a public key in a few places. A minute tops.",
+				"added": 1470100537
+			}
+		],
+		"2_19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ": [
+			{
+				"comment_id": 85,
+				"body": "They're not huge. Another person has a 1.6MB pic. Guessing the site allotment/quota overrides the 1MB file limit.",
+				"added": 1470030521
+			}
+		],
+		"4_12GC9MQGPcN7PiMoRYVyZX66PnQjZKUpf2": [
+			{
+				"comment_id": 87,
+				"body": "Here's ZF in ES6.\n\nhttps://gist.github.com/GomZik/02e85df5fb7a5eb819cd",
+				"added": 1470101328
+			}
+		],
+		"11_1FTFKztuv4Z5uy6iS83k9hB2xtS6yFnDxx": [
+			{
+				"comment_id": 88,
+				"body": "We can manually load content outside our zite with 'drag n drop' or 'choose files', but sandboxing zites is a basic web-app security model.",
+				"added": 1470357424
+			}
+		],
+		"10_1KdnTJVBGzEZrJppFZtzfG9chukuMv8xSb": [
+			{
+				"comment_id": 89,
+				"body": "ditto",
+				"added": 1470464458
+			},
+			{
+				"comment_id": 90,
+				"body": "(June)\n\nhttp://127.0.0.1:43110/Blog.ZeroNetwork.bit/?Post:85:ZeroMe:+Status+report",
+				"added": 1470518099
+			},
+			{
+				"comment_id": 94,
+				"body": "see update. :D",
+				"added": 1470693413
+			},
+			{
+				"comment_id": 99,
+				"body": "To Infinity... and *Beyond !!!*\n\nhttp://127.0.0.1:43110/1NFiNiTYxiKn5PJo9eDEsiusJJUFkew5Vo\n\n18 quintillion planets..\n\nhttp://www.theverge.com/2016/8/9/12405648/no-mans-sky-travel-journal-day-one-ps4-pc",
+				"added": 1470722217
+			},
+			{
+				"comment_id": 102,
+				"body": "Version 0.4.0 in teh pipes.",
+				"added": 1470828900
+			},
+			{
+				"comment_id": 103,
+				"body": "ZeroMe is not up yet. It's coming soon (mins or hours)",
+				"added": 1470830534
+			},
+			{
+				"comment_id": 105,
+				"body": "Hell yeah that was an interesting test...\n\n Json merged-ZeroMe/1NFiNiTYxiKn5PJo9eDEsiusJJUFkew5\nVo/merged-ZeroMe/1Ln1nx9FM9ykDARyqiQ4srbo9taa6vJ289/merged-ZeroMe/1NFiNiTYxiKn5P\nJo9eDEsiusJJUFkew5Vo/merged-ZeroMe/1Ln1nx9FM9ykDARyqiQ4srbo9taa6vJ289/merged-Zer\noMe/1NFiNiTYxiKn5PJo9eDEsiusJJUFkew5Vo/............(*Ad Infinitum*)\n\nVery quickly reaches 1GB in the debug logs. Pic below is very appropriate.. (bwo @tkarita)\n\nhttp://imgs.xkcd.com/comics/backups.png\n\nCareful hosting dual-cloned-merged-hubs on the same machine.. infinite feedback loops ensue! :]\n\n(is it worth putting in a check for that?) @nofish",
+				"added": 1470877050
+			},
+			{
+				"comment_id": 109,
+				"body": "We prolly need a \"remove me\" button on the hub.",
+				"added": 1470880216
+			},
+			{
+				"comment_id": 110,
+				"body": "Yup. Heavy testing. :)",
+				"added": 1470884121
+			}
+		],
+		"5_1LUP6SN7WrXAH7e5bUFxdmrVsFr2m43XB4": [
+			{
+				"comment_id": 91,
+				"body": "http://127.0.0.1:43110/1SQEEKkYzZuwo7X37EcET5wP6B3yAJZYo/\nhttp://127.0.0.1:43110/1DECENTfv3wS5Ck3sbWJgThK8DW71DZMSN/\n\nCross-zite transfer is already possible with Ajax. For example, if you load both of ^these^, you'll notice the databases in Decent's 'Load' menu are loading from Sqeek's folders. So it's fairly trivial to bridge (pass) the content from one zite to another.",
+				"added": 1470525539
+			}
+		],
+		"9_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": [
+			{
+				"comment_id": 92,
+				"body": "Re: large files.   https://github.com/HelloZeroNet/ZeroNet/pull/521",
+				"added": 1470627709
+			}
+		],
+		"7_19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ": [
+			{
+				"comment_id": 93,
+				"body": "@quadrangle  ZeroTorrent's owner has disappeared leaving it's main contributors with no way to use the site. This will be a common theme on 0net and.. can't say more cos my ZeroTalk quota is nearly full.",
+				"added": 1470693186
+			},
+			{
+				"comment_id": 96,
+				"body": "He has cloned it and is changing it. Is that stealing? (ps. we're talking about movies/music torrents ;)",
+				"added": 1470694028
+			},
+			{
+				"comment_id": 97,
+				"body": "Agree. (i've started a new topic on these points)",
+				"added": 1470698332
+			}
+		],
+		"10_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": [
+			{
+				"comment_id": 98,
+				"body": "yup, i also deleted some posts where ppl quoted me.",
+				"added": 1470722068
+			},
+			{
+				"comment_id": 100,
+				"body": "Yeah, the signing of content files is a problem. Not one attempt to chat or save a note on my DB app in nearly two weeks, either that or something is not signed on inner-path. I have no idea, cos locally it works fine. I thought the same for my code editor for over a month, then suddenly there was a Chinese document saved.. so it was okay, just no-one had tested it. :P",
+				"added": 1470723569
+			}
+		],
+		"11_1KdnTJVBGzEZrJppFZtzfG9chukuMv8xSb": [
+			{
+				"comment_id": 101,
+				"body": "@kickasstorents  Certainly no accusation on my part. You've been more than decent here. Sharing what you're working on, explaining in detail, and asking others to help out with a roadmap in place. Keep doing what you're doing!\n\nI actually posted this in defense of myself as much as others. It's hard to strike the right balance, and among new colleagues we hardly know. This is all volunteer for us on an experimental platform. Time is always a factor with expenses and such. But it's good that we developers explain ourselves for non-developers, because there's sometimes the impression that we should be more diligent in how we make our apps, especially in the areas of design and attribution. There's quite high expectations that apps will be complete, polished, bug-tested, more in line with commercial software. It's not really like that here. A good layout with an 'about' page, some instructions, and friendly UI customization can take days or weeks. I'm only just at the stage of cannibalizing my previous apps as a time saving measure. It gets easier eventually, and i'm sure the quality of ZN's sites will improve, but it's largely on the \"shoulders\" of those who went before us, and thanking them is the least we can (and should) do.",
+				"added": 1470811682
+			}
+		],
+		"7_17VwZEfWSUWb5RHkK9m1odnDdBfvjTL6Cp": [
+			{
+				"comment_id": 111,
+				"body": "Infinity hub had merger permission revoked b'cos viewer (ZeroMe) and hub was combined, and didn't fall into line of having them separate. I still stand by the idea that it should be the user's (seeder's) choice, as there are some advantages to having that choice for devs also.",
+				"added": 1472164323
+			}
+		],
+		"1_19CzFY4vCcinZjkuW3Nw4T35AnYuE3cNbP": [
+			{
+				"comment_id": 112,
+				"body": "Perhaps worth mentioning.. you can pause them to stop them updating, so that pauses the seeding also afaik.",
+				"added": 1472164957
+			}
+		],
+		"1_16YP1ZeHrKq3KB3DdBWHec984oQAfVPT9d": [
+			{
+				"comment_id": 113,
+				"body": "Hi wire, there's a lot of stuff out there. (even list below is missing most content)\n\nhttps://bit.no.com:43110/1HeLLo4uzjaLetFx6NH3PMwFP3qbRbTf3D",
+				"added": 1473637110
+			}
+		],
+		"1_19dSnqd1GpiMTnuiD4n1tPasyKTDfNSFyz": [
+			{
+				"comment_id": 114,
+				"body": "Hi, and welcome!\nBeen studying 0net most of this year. Main user focus is on media sharing and there's good progress there.\nNofish's ZeroMe has been up 1 month and demos connected hubs/social side really well.\nCollaborative apps and games are yet to be tried, but Zerome's activity list gives a sense of the speed for updates.\nThere's still lack of trading sites here, so it's good to see you're thinking this direction also.\nBeen studying blockchains mainly and just porting some demos now.\nAre you also developer? Some of us chat on Zeromedia..\n\nhttp://127.0.0.1:43110/zeromedia.bit/",
+				"added": 1473869138
+			}
+		],
+		"1_1GQXkixafDKRyMy9ijwcwCVmKHM5XohQ1k": [
+			{
+				"comment_id": 115,
+				"body": "> [jza]\n\nWhich blockchain are you interested connecting?\n\n[edit] Found your other topic. (bitcoin)",
+				"added": 1474364215
+			}
+		],
+		"2_13MUkdCRgz1jXmufWdvJn5qgRrwhrWNYbK": [
+			{
+				"comment_id": 116,
+				"body": "i'm not running irc client. what tkarita said ;O)",
+				"added": 1474527434
+			}
+		],
+		"2_1AvkR7PmGFLZL9drPpqCaBPEdcVipv2Ajs": [
+			{
+				"comment_id": 117,
+				"body": "remoteok is a good place to start.\n\nhttps://remoteok.io/",
+				"added": 1475159042
+			}
+		],
+		"2_1FwTZnDZJjs2epEtq9yLy7m2P5kZ4TYqAR": [
+			{
+				"comment_id": 118,
+				"body": "Sure, there's quite a few ways to approach this. The easiest way is with a plugin. (check your ZN plugin folder for examples) Of course people have to download the plugin to gain access, then you'd have a basic login using zeroID or custom ID of your own making which is not hard to do. In my case i've got a (very basic) alt-coin running and mining so i'm working on a suitable scheme for the ledger, but well known ones like Hyperledger (see github) have authentication built in, so that would allow users to tag content with different access levels. Hyperledger uses docker and IBM's Bluemix service, so i mention it just for the schema, which is not power hungry like Bitcoin blockchain.",
+				"added": 1475208245
+			}
+		],
+		"1_1Kkc5j5xrEJevvV6sBqCrW93dscMVGbcDY": [
+			{
+				"comment_id": 119,
+				"body": "Park in Victoria, Australia, blanketed by baby wolf and money spider cobwebs.\n\nhttps://www.thesun.co.uk/news/1443464/chilling-images-show-a-park-completely-covered-in-spider-webs-after-heavy-rains-brought-a-downpour-of-floating-spiders/",
+				"added": 1475336178
+			}
+		],
+		"7_16w7UuJAHbt8YBa8zxHS7UFk9mq8Q5DpE4": [
+			{
+				"comment_id": 120,
+				"body": "Been following bitcoin/altcoins a few years. Not investing or mining, just researching. Bitcoin mining has moved into the hands of a few major players. Ethereum has taken it a step towards being not simply about wasting electricity with on-chain scripting, but it's still early days, with the recent fork being the result of design bug in the DAO payments code. Our best hope is to develop our own coin for very niche markets such as ZN where there are currently no other options for transactions between direct peers.\n\nThe cryptography and learning involved is beyond the scope of many coders so there's also the chance to shine on someone's radar which might hook into an online job here and there doing designer blockchains for bitcoin or cash. It's still an exciting field with huge potential, and here in ZTalk we can read about the many success stories in the P2P topic. The trick is to move away from Proof of Work which wastes power to another type of proof which has profit incentive built in. In the case of solar it's about running blockchains to manage the micro-grid generation in a distributed way. In the case of ZN we already have a growing pool of users who are in the habit of leaving some machine on hosting zites, so if we can biggy-back off that and help pay people's power at the same time then it's win-win and more people will join.\n\nI've got an example miner working as ZN plugin, so just now trying to hook it up with frontend and sqlite. Should have something running soon.",
+				"added": 1475381506
+			},
+			{
+				"comment_id": 121,
+				"body": "> [planteater]\n\nThe word 'Work' is capitalized because it's a singular effort at wasting (throwing away) computing power and electricity. We're running a P2P network here which technically is doing the same thing so it would still be work, but have a positive outcome.. ie. the support and hosting of ZN zites.. so i'd call it Proof of (hosting, peering, popularity, bounty, etc) or a combination of those if possible.",
+				"added": 1475445108
+			},
+			{
+				"comment_id": 122,
+				"body": "@planteater Some of ..it quickly went off on tangents. \n\ni don't think it's semantics to say that the 'work' could be designed to benefit average PC/Laptop users who are keen to use their machines in a distributed way. That's how Bitcoin started, but the centralization of mining is a huge issue which has not been addressed even as the block rewards have fallen to 12.5 BTC. (~$7,500) Many alt-coins are evolving quickly to solve the problem, so i expect we'll see some challengers to Bitcoin's lead sooner or later.",
+				"added": 1475550115
+			}
+		],
+		"4_18DbeZgtVCcLghmtzvg4Uv8uRQAwR8wnDQ": [
+			{
+				"comment_id": 123,
+				"body": "You can drop them using an app like SqliteBrowser3 (via sourceforge.net) and then remove any reference to them in dbschema, json, zeroframe, or elsewhere.",
+				"added": 1475589473
+			}
+		],
+		"2_14UupgrdnT7Y8vMES7aqUFgD1fC5RYNrh8": [
+			{
+				"comment_id": 124,
+				"body": "@waterrabbit has made a tutorial for his Big File Test (see below) which chunks large files into smaller ones. Atm his script doesn't know how many chunks are downloaded, but there are nodejs examples on github to notify the browser on file changes which might work if you run a timer. Then an option to delete and restart while showing how many connected peers. Determining exactly how many are uploading is another issue.\n\n127.0.0.1:43110/1CiDoBP8RiWziqiBGEd8tQMy66A6fmnw2V",
+				"added": 1475590603
+			}
+		],
+		"2_1MYX3cuihkhYv6b6PQTrGe5wMPb6wMDG9Z": [
+			{
+				"comment_id": 125,
+				"body": "Editor:   http://zero/1NFUSEDZjmCFJE1JSG5UjwCRK6zDwQRQd7/\nSQLite:  http://zero/1SQEEKkYzZuwo7X37EcET5wP6B3yAJZYo/\n\nThe editor has JS styling. (i can add css/html easily if needed) It's mainly for displaying/editing canvas demos.\nBoth are only half baked.. 1nfused saves. Sqeek doesn't yet.",
+				"added": 1476006167
+			}
+		],
+		"32_1ED3Ho3kmzaKiECtyuqSjDpoE47rKuXeP": [
+			{
+				"comment_id": 126,
+				"body": "Which browser? (if u open debug/inspect console u'll prolly see some error stopping it from loading)",
+				"added": 1476141098
+			}
+		],
+		"2_137PNA5gLgCTLZTBtzUqCmMoZ752NQGQSJ": [
+			{
+				"comment_id": 127,
+				"body": "Also ajax is goin' soon. :(\n\nhttps://www.reddit.com/r/zeronet/comments/562mkm/can_zeronet_sites_load_individual_elements_from/",
+				"added": 1476354643
+			}
+		]
+	},
+	"comment_vote": {
+		"557_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"14_14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx": 1,
+		"2_1Kg7CXZM5h3wTPENsTDwWUmRBf9VhYy2cW": 1,
+		"473_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"37_16bxMyoL49mWYhcZKBYVBT5zEFW9SQpiao": 1,
+		"593_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"597_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"602_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"609_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"130_1H8oKiRa7fGgUqS1hpUtaSYLvAqkaknbkf": 1,
+		"15_1GtJqyJRsuZhmxVtw5USgvqGbUmVH7EmBD": 1,
+		"138_1H8oKiRa7fGgUqS1hpUtaSYLvAqkaknbkf": 1,
+		"16_1GtJqyJRsuZhmxVtw5USgvqGbUmVH7EmBD": 1,
+		"252_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"136_1KwTTgPRSTHFmmJAFBt6kQfdyNeSM5KJuH": 1,
+		"137_1KwTTgPRSTHFmmJAFBt6kQfdyNeSM5KJuH": 1,
+		"612_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"608_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"613_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"32_1DcDDitsjFJohvwonPmpibRChmA7uGxqL7": 1,
+		"18_1An7ATsNMMNqRgSgB2upWwbpXgFXQ9E2XD": 1,
+		"619_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"160_1ED3Ho3kmzaKiECtyuqSjDpoE47rKuXeP": 1,
+		"159_1ED3Ho3kmzaKiECtyuqSjDpoE47rKuXeP": 1,
+		"36_1GtJqyJRsuZhmxVtw5USgvqGbUmVH7EmBD": 1,
+		"3_17eKk6mdR7bth2Fi8f74P5JV8AfHsERT4F": 1,
+		"56_14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx": 1,
+		"54_14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx": 1,
+		"17_16Szsy1UtjiXpEevWVdUDrNfNTAZ9PLbcY": 1,
+		"454_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"52_1CMYxdit4qq9QGk9DYRu2ruRPd2YDGckH8": 1,
+		"628_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"5_1P8VJL2iKWfUB4hqQkrFdXCbC8RrimAZoZ": 1,
+		"669_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"3_1DDCitotp8M6rCiHrNJ4VVLGTqXykLmD1t": 1,
+		"9_14PXH1VLXEseL1h6gLpHqi3bXEAdamDwgg": 1,
+		"28_1DWrKbEomgBLHjczm1HkP556Vg68ewDmyd": 1,
+		"114_14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx": 1,
+		"115_14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx": 1,
+		"5_18xnnGt34EMR7CLFoAjwzhYCmXGtZYC17P": 1,
+		"36_1DWrKbEomgBLHjczm1HkP556Vg68ewDmyd": 1,
+		"17_13k6itGVhzLTZUZKiqWWJ5KdvVUEMqDWDv": 1,
+		"3_13U9mRgV3bdkXiNXjMZeBWTcSHZjgNmk2z": 1,
+		"18_13k6itGVhzLTZUZKiqWWJ5KdvVUEMqDWDv": 1,
+		"11_13t2ME4cTtkxrwPeugeZgdJF5Kg7C5CSEy": 1,
+		"13_13t2ME4cTtkxrwPeugeZgdJF5Kg7C5CSEy": 1,
+		"2_12WvK2FfePgB9N6dJXYjD8M3gcjfBDqHRC": 1,
+		"2_13b26xsYUenN3FnEvSH9KkJvD7vVodgw8R": 1,
+		"22_13k6itGVhzLTZUZKiqWWJ5KdvVUEMqDWDv": 1,
+		"28_13t2ME4cTtkxrwPeugeZgdJF5Kg7C5CSEy": 1,
+		"132_14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx": 1,
+		"145_14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx": 1,
+		"5_1CFhytwoGGPNqmueehPqotaf2iG9uxD98e": 1,
+		"144_14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx": 1,
+		"703_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"705_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"38_1CoVAt2jBzV4Na6nX3VG1JSfjS8fwse1Z9": 1,
+		"706_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"10_1GervYZoP82e8X1Rgc4wyMkJY2zSsJuq8t": 1,
+		"708_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"150_14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx": 1,
+		"17_1GervYZoP82e8X1Rgc4wyMkJY2zSsJuq8t": 1,
+		"43_1GervYZoP82e8X1Rgc4wyMkJY2zSsJuq8t": 1,
+		"3_1BePwsiwFD8BjtYfB8tQegiKXDLnHWW1Um": 1,
+		"4_1BePwsiwFD8BjtYfB8tQegiKXDLnHWW1Um": 1,
+		"28_17VwZEfWSUWb5RHkK9m1odnDdBfvjTL6Cp": 1,
+		"118_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1,
+		"7_14ng1wByxwoNXAhihYbpgyarVJbFiqs8ny": 1,
+		"5_14ng1wByxwoNXAhihYbpgyarVJbFiqs8ny": 1,
+		"9_14ng1wByxwoNXAhihYbpgyarVJbFiqs8ny": 1,
+		"1_1wnjTS6YRUp6Q6yjECuoh1o28TPkvrnq2": 1,
+		"17_1CTut2qbaj54ZjNoYeuWSGwV75iVieKY6N": 1,
+		"79_1GervYZoP82e8X1Rgc4wyMkJY2zSsJuq8t": 1,
+		"128_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1,
+		"1_13WWWFi6iuSLazDcNvHgBEjjeAofAhAwtE": 1,
+		"38_17VwZEfWSUWb5RHkK9m1odnDdBfvjTL6Cp": 1,
+		"133_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1,
+		"1_1D6Pn4487L8QyFtVSU14nxxtnfEgEs2Ny1": 1,
+		"2_1D6Pn4487L8QyFtVSU14nxxtnfEgEs2Ny1": 1,
+		"4_1D6Pn4487L8QyFtVSU14nxxtnfEgEs2Ny1": 1,
+		"714_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"22_1CTut2qbaj54ZjNoYeuWSGwV75iVieKY6N": 1,
+		"45_1PCPuVtFv8apVpXYbc46wHugNhFUVQ6KCv": 1,
+		"190_13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ": 1,
+		"138_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1,
+		"139_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1,
+		"35_13k6itGVhzLTZUZKiqWWJ5KdvVUEMqDWDv": 1,
+		"721_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"738_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"120_1GervYZoP82e8X1Rgc4wyMkJY2zSsJuq8t": 1,
+		"139_1GervYZoP82e8X1Rgc4wyMkJY2zSsJuq8t": 1,
+		"23_1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC": 1,
+		"15_16w7UuJAHbt8YBa8zxHS7UFk9mq8Q5DpE4": 1,
+		"154_1GervYZoP82e8X1Rgc4wyMkJY2zSsJuq8t": 1,
+		"156_1GervYZoP82e8X1Rgc4wyMkJY2zSsJuq8t": 1,
+		"2_13MUkdCRgz1jXmufWdvJn5qgRrwhrWNYbK": 1,
+		"34_1GnJD7CXskmG8GywMbTvbP12wneCFW9XzR": 1,
+		"770_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"40_16w7UuJAHbt8YBa8zxHS7UFk9mq8Q5DpE4": 1,
+		"45_16w7UuJAHbt8YBa8zxHS7UFk9mq8Q5DpE4": 1,
+		"3_1FwTZnDZJjs2epEtq9yLy7m2P5kZ4TYqAR": 1,
+		"28_1AvkR7PmGFLZL9drPpqCaBPEdcVipv2Ajs": 1,
+		"788_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"796_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"1_12tb6YHnDHPah8AWSX3tZcnBBU8DZQJz5H": 1
+	}
+}

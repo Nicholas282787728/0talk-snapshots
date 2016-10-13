@@ -1,0 +1,15 @@
+{
+ "cert_auth_type": "web",
+ "cert_sign": "HElBBusAJ4DOQMYe+PJ5pToez6eBE6IoKaOBn0Lqg83ADCAIt2NWqU2kImoeJ5Zgi3ULzF75h+XdVpcp/IMjZOo=",
+ "cert_user_id": "psilocybin@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "15f9b7e3aa567233fc45e14e1afb3c21d9b65735f1a558d36d281f2bee98a027",
+   "size": 2397
+  }
+ },
+ "modified": 1455818832.763,
+ "signs": {
+  "1HN54tqPZqnHs5SpJVFVsMhRH1nUSt3iQF": "HNS9vSefxBHBFsvXV2Kx0QRHcKxnRrMzLn4/mDOdKoAFGzmBH04GEsnEOcqdQPkReeNWNeYylKCgJEQqT/d122I="
+ }
+}

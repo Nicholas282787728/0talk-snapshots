@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "GwIfWZswJFyix0hyiPu8bikcRSrx2i2MoBXVJfx0B2Sm1eeXybrjDq0vB5SZqsSQmCMR+dLytzX8g0DZ01q8nt8=",
+ "cert_user_id": "soundsoul@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "2cb625061c6da92ef1adc16e20d1a086491da04ef5c16eca987076de7b5dc695",
+   "size": 249
+  }
+ },
+ "inner_path": "data/users/1ACrZFtjEi3xDJH28vsg22MBb4nNxpXvzR/content.json",
+ "modified": 1456935513.995,
+ "signs": {
+  "1ACrZFtjEi3xDJH28vsg22MBb4nNxpXvzR": "G0BDV/fVyM+KLytMkeVzA4q3DM/YJz4MlIvJj51oCgXmy47iRok97ptV7yImea4oeYxcbWF74F/fEPkUAJ649ws="
+ }
+}

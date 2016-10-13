@@ -1,0 +1,141 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "First centralized full text search engine for  ZeroNet",
+			"body": "http://zeroexpose.com (clearnet, made by https://twitter.com/gabriicom THX!)\nIt is also a new public proxy for ZeroNet. No https support yet.",
+			"added": 1460344148
+		}
+	],
+	"topic_vote": {},
+	"next_comment_id": 24,
+	"comment": {
+		"1_1UfvLnMuzShvi3phWGSqn79tio81Wn9Dt": [
+			{
+				"comment_id": 1,
+				"body": "我了个去，刚才注册个ID太难了，服务器总是报错，等了一会才行。貌似中国人冲向这里，把负责注册的服务器搞残了。\n没错，我是twister上的@chinanet\n正在向twister上的人推荐这里。",
+				"added": 1458971658
+			},
+			{
+				"comment_id": 2,
+				"body": "> [lifent](#comment_3_13jLz92kNNVJPG2AgUr83SzTwfsS8RUrcG): 翻来覆去还是这几个家伙……\n\n谁像你，整天玩什么摄影，玩物丧志",
+				"added": 1458977461
+			},
+			{
+				"comment_id": 3,
+				"body": "> [lifent](#comment_5_13jLz92kNNVJPG2AgUr83SzTwfsS8RUrcG): 有没有人在zeroverse.bit 上面注册了过用户，我注册了一个，但用户名显示是灰色不可用状态。\n\nZeroVerse.bit是我一个德国twister基友@erkan_yilmaz搞的，他在这的昵称是erkan。除了ZeroID是所有站点默认支持外，其他的都需要站长自行修改配置后才能支持，具体见他的博客：\nhttp://127.0.0.1:43110/zeroblog.bit/?Post:19:sites+which+support:+ID+@+ZeroVerse.bit\nhttp://127.0.0.1:43110/zeroblog.bit/?Post:15:get+yourself+an+ID+@+ZeroVerse.bit",
+				"added": 1458987314
+			},
+			{
+				"comment_id": 4,
+				"body": "> [lifent](#comment_4_13jLz92kNNVJPG2AgUr83SzTwfsS8RUrcG): 和twister不同，zeronet由于提供了富媒体供稿的可能性\n\n现在twister面对zeronet的竞争（zeronet很快将推出社交功能），几乎唯一的出路是在移动端发力，搞个基于安全公共托管的twister手机APP。这需要移动开发比较牛的人参与。详见我二十多天前的帖子：\n德国开发者搞定了安全的twister公共托管（开源）\nhttps://1984.city/viewtopic.php?f=10&t=79\nP2P社交应用的最新发展情况——分别谈谈twister和ZeroNet\nhttps://1984.city/viewtopic.php?f=8&t=80",
+				"added": 1458989841
+			},
+			{
+				"comment_id": 5,
+				"body": "> [lifent](#comment_8_13jLz92kNNVJPG2AgUr83SzTwfsS8RUrcG): 为毛给你发mail提示ID无效？\n\n可能是我这个号刚注册的原因",
+				"added": 1458994228
+			},
+			{
+				"comment_id": 6,
+				"body": "> [xiaolan65535](#comment_13_1NV87VmSkezRyz8NbFpdkYJsJUSfXx7LJa): @lifent @chinanet 哈哈,twister的基友们好：）\n\n你的twister密钥也丢失了？",
+				"added": 1458994267
+			},
+			{
+				"comment_id": 7,
+				"body": "> [xiaolan65535](#comment_16_1NV87VmSkezRyz8NbFpdkYJsJUSfXx7LJa): 奇怪,用公众节点（https://twister-proxy.tschaul.com/index.html）无法发送消息\n\n那个公共节点不稳定，很奇怪\n我试过，可以发的",
+				"added": 1458996050
+			},
+			{
+				"comment_id": 8,
+				"body": "> [xiaolan65535](#comment_14_1NV87VmSkezRyz8NbFpdkYJsJUSfXx7LJa): 我在做编程随想的博客镜像到这里.....\n\n整天想搞个大新闻，跑得比西方记者还快。",
+				"added": 1458996129
+			},
+			{
+				"comment_id": 9,
+				"body": "刚才一个德国twister友@vegos跟我说他62岁了，太令人震惊了！",
+				"added": 1459009528
+			},
+			{
+				"comment_id": 10,
+				"body": "> [xiaolan65535](#comment_21_1NV87VmSkezRyz8NbFpdkYJsJUSfXx7LJa): 震惊..\n\n62岁的中国人在干嘛。差距太大了！",
+				"added": 1459009690
+			},
+			{
+				"comment_id": 11,
+				"body": "> [xiaolan65535](#comment_22_1NV87VmSkezRyz8NbFpdkYJsJUSfXx7LJa): 老外老人 天天干自己喜欢的事...不用担心养老...不用担心房子...人老 心里还是年轻的....\n\n现在五六十岁的中国人，文革一代，受什么教育你懂的。二三十岁就开始不断重复自己了。\n60岁了还自学用twister，不敢想象。现在的一些中国年轻人你教他用twister可能学半天还不会。",
+				"added": 1459010252
+			},
+			{
+				"comment_id": 12,
+				"body": "> [xiaolan65535](#comment_23_1NV87VmSkezRyz8NbFpdkYJsJUSfXx7LJa): 不是学不会..是不想学..你说里面有比草六社区还要全的资源他自己就学会了.....\n\n有不想学的也有学不会的。学习能力太差。灌输式教育。",
+				"added": 1459010539
+			},
+			{
+				"comment_id": 13,
+				"body": "> [xiaolan65535](#comment_23_1NV87VmSkezRyz8NbFpdkYJsJUSfXx7LJa): 不是学不会..是不想学..你说里面有比草六社区还要全的资源他自己就学会了.....\n\n看你们在推特上讨论，我觉得温兄要小心朝廷在美国的特工，目前人身安全最重要。",
+				"added": 1459012459
+			},
+			{
+				"comment_id": 14,
+				"body": "> [xiaolan65535](#comment_24_1NV87VmSkezRyz8NbFpdkYJsJUSfXx7LJa): 那会引发国际争端的吧....\n\n可以用一些手法，看上去像发生意外\n令完成是有美方专门保护的，否则早就。。。\n连蒋经国都能搞出“江南案”，你懂的\n近期香港、泰国各种绑架",
+				"added": 1459013303
+			},
+			{
+				"comment_id": 15,
+				"body": "> [lifent](#comment_8_13jLz92kNNVJPG2AgUr83SzTwfsS8RUrcG): 为毛给你发mail提示ID无效？\n\n后来发现用zeromail收邮件前需要点Create my mailbox才行，否则别人不能给你发信\n现在你试试，应该能给我发信了。\n好像xiaolan也没有点Create my mailbox",
+				"added": 1459046111
+			},
+			{
+				"comment_id": 16,
+				"body": "> [xiaolan65535](#comment_25_1NV87VmSkezRyz8NbFpdkYJsJUSfXx7LJa): 点了..现在应该可以了....\n\n给你发了封测试信",
+				"added": 1459049367
+			},
+			{
+				"comment_id": 17,
+				"body": "> [chinanet](#comment_16_1MZ6f3V1cBuhNwzajMVPu8vb1wRt1p6dpt): 给你发了封测试信\n\n测试ok\n果然要点Create my mailbox",
+				"added": 1459049677
+			},
+			{
+				"comment_id": 18,
+				"body": "> [rokai](#comment_7_1Fu4wBqn3GzzsF1DikSDiwZ2PvUBeyvigP): 用了zeronet之后，没用翻墙的软件，为啥突然就能访问Twitter、Google了？妈的懵逼\n\n不可能吧，是不是翻墙软件没关但是你以为关了，前台崩溃后台还是在运行。或者是墙抽风",
+				"added": 1459050262
+			}
+		],
+		"1_15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ": [
+			{
+				"comment_id": 19,
+				"body": "@musickiller wrote a blog about howto http://127.0.0.1:43110/1CiAFnnf6kb2G1GzDV1FhttTWNxCa4mShn/?Post:38:ZeroNet+on+Android+%28easy+way%29",
+				"added": 1459762424
+			}
+		],
+		"27_1JHQA9oFkFpFFRiscyT4N71AKLWg46pQ92": [
+			{
+				"comment_id": 20,
+				"body": "> [ks](#comment_78_14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx): How many characters per twist does Twister allow these days? I left Twister after 2+ years because the main developer didn't want to even think about increasing the max limit beyong 140 frakking characters..\n\n[URL shortener and long posts are coming!](http://twister.net.co/?p=582)\n>Then, another experimental feature has just been added today: long (> 140 characters) post.\n>Long post is not yet (at time of writing) enabled in twister-html UI. There is an ongoing discussion here on what limits should be imposed instead of the old one.\n\nmf's test account @mf1 sent a test long-twist (more than 570 characters) which is displayed well using latest twister-html UI.\nalso, there's new feature: [File attachment and WebTorrent support](http://twister.net.co/?p=589)",
+				"added": 1462865087
+			}
+		],
+		"10_1KdnTJVBGzEZrJppFZtzfG9chukuMv8xSb": [
+			{
+				"comment_id": 21,
+				"body": "> [bot](#comment_102_1KdnTJVBGzEZrJppFZtzfG9chukuMv8xSb): Version 0.4.0 in teh pipes.\n\ni'v updated, but where is the address of ZeroMe?",
+				"added": 1470830242
+			}
+		],
+		"1_14x4EC7s5TqvtShMQy22xpj8ouVSmSNZY8": [
+			{
+				"comment_id": 22,
+				"body": "> [ks](#comment_152_14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx): There's also Hyperboria🡕 (running on cjdns🡕).\n\ntwister has configurable post size now, default is 256 characters. i knew that news just now. i haven't checked out there in my busy past month. and where is @erkan ?  i can't see his new messages here either.",
+				"added": 1470837794
+			},
+			{
+				"comment_id": 23,
+				"body": "> [ks](#comment_153_14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx): That's good news\n\nlet's wait for ZeroMe",
+				"added": 1470838990
+			}
+		]
+	},
+	"comment_vote": {}
+}

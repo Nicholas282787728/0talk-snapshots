@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "GwiYff3iG6c0Oir1Q3snDkB4/B378qN1I2WSrBbkWACxTVUOCLb6zDFgmMlsO7wJU7+IqBrOE3aZzoxYYsd1dhM=",
+ "cert_user_id": "equaton@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "90adb73b3790b4f7beeb97e25381eeb9e498ea835c544a03414023937188cc51",
+   "size": 162
+  }
+ },
+ "inner_path": "data/users/1EmAfySahT1axbH8Nh28xgdTmmUfasCMN4/content.json",
+ "modified": 1465758632.969365,
+ "signs": {
+  "1EmAfySahT1axbH8Nh28xgdTmmUfasCMN4": "HOr77DGywaC2083aTQIxtsCrrD52q+EhHCAIfBFTVxfFhklaJ+CHauGO/pQB8p4cuUBDvPg6u8ZXH8qz/bCQsyM="
+ }
+}

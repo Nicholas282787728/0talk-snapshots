@@ -1,0 +1,16 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 2,
+	"comment": {
+		"1_1LSqcdgCBoUofD1han9nyX37DHPvZRon3H": [
+			{
+				"comment_id": 1,
+				"body": "Found a YouTube tutorial here (zeronet siteCreate): https://youtu.be/D-x9Ob7kktE",
+				"added": 1457837967
+			}
+		]
+	},
+	"comment_vote": {}
+}

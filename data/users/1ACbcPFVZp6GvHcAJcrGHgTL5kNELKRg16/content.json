@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HAjKk6ktu//x1HkAlANzCzOUnGkO/i9ZlP65/OLZ4qVRnja/rBUXZEhD96Cgd2j8vXqvfINVD3HXY/AV44XwCVI=",
+ "cert_user_id": "lunnatik@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "120474866e379a82f2bca88dc8f97e9be01839526d168a0221c1105ebe69e805",
+   "size": 249
+  }
+ },
+ "inner_path": "data/users/1ACbcPFVZp6GvHcAJcrGHgTL5kNELKRg16/content.json",
+ "modified": 1457728176.211,
+ "signs": {
+  "1ACbcPFVZp6GvHcAJcrGHgTL5kNELKRg16": "HPcw9bSUIHl0zHl2aujvxEVFf9xk54mMGqCQ5bC2J669VCCMQcDImEAUcM4P0xfbEC2xERmyoU2mtPXwj1zfPjY="
+ }
+}

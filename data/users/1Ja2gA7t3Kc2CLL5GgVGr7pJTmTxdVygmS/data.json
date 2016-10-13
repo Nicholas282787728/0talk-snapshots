@@ -1,0 +1,53 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "how to create a site without clone?",
+			"body": "For example, I would like to create a site including pics, text and video. How to do one by one step?",
+			"added": 1461209443
+		}
+	],
+	"topic_vote": {
+		"2_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"8_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"1_1Ja2gA7t3Kc2CLL5GgVGr7pJTmTxdVygmS": 1
+	},
+	"next_comment_id": 6,
+	"comment": {
+		"5238_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG": [
+			{
+				"comment_id": 1,
+				"body": "hello world, first song",
+				"added": 1461116656
+			}
+		],
+		"8_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": [
+			{
+				"comment_id": 2,
+				"body": "who could see my site：http://127.0.0.1:43110/1Kt5Z9vDoYu8fJcMnWQmP9dANCSYM7ivYY/?Home   ？",
+				"added": 1461119736
+			}
+		],
+		"1_1Ja2gA7t3Kc2CLL5GgVGr7pJTmTxdVygmS": [
+			{
+				"comment_id": 3,
+				"body": "I put coffeescript to the js directory, but it doesn't work, not be compiled to js. The updated howtos on github is written in 2015, maybe too old to work?\n> [erkan](#comment_140_1H8oKiRa7fGgUqS1hpUtaSYLvAqkaknbkf): see step2 here: go into that directory and for doing \" pics, text and video\" you can just use HTML (search the internet for html howtos).You can also program in coffeescript/JS (search also for howtos)",
+				"added": 1461222232
+			},
+			{
+				"comment_id": 4,
+				"body": "ok, I have create a simple html page on http://127.0.0.1:43110/1KrUy59UbnVMDJfGjivdmHWEnmos1TU6Ej\nvery simple.\nbut I was stuck on this step: `•Add <script type=\"text/javascript\" src=\"js/all.js\" async></script> line right before </body> in index.html file to automatically compile and merge all .coffee file within the js directory to a single all.js file.` \nIt doesn't work.\n> [erkan](#comment_143_1H8oKiRa7fGgUqS1hpUtaSYLvAqkaknbkf): step by step...First, make a simple, static html site: so you know all is working well on your endLater we can progress to the \"higher levels\"",
+				"added": 1461223120
+			}
+		],
+		"1_1Ao2nMbB9yJPeCbGwKxzJsdDTmtP6N6bWZ": [
+			{
+				"comment_id": 5,
+				"body": "too slow",
+				"added": 1461828410
+			}
+		]
+	},
+	"comment_vote": {}
+}

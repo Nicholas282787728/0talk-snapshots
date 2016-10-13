@@ -1,0 +1,30 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "How does ZeroName work?",
+			"body": "As far as I know is based on the meta info contained in the Bitcoin blockchain so my question would be if Is it required to make a bitcoin purchase for that?",
+			"added": 1455336856
+		}
+	],
+	"topic_vote": {},
+	"next_comment_id": 3,
+	"comment": {
+		"2_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": [
+			{
+				"comment_id": 1,
+				"body": "TEsting...",
+				"added": 1455335956
+			}
+		],
+		"1_1GFA9WKyB9QKCcWWyD3Zkcs7E1HonYwLLE": [
+			{
+				"comment_id": 2,
+				"body": "Silly me, there is some info at the bottom. Now I see is based on namecoin infrastructure,",
+				"added": 1455337650
+			}
+		]
+	},
+	"comment_vote": {}
+}

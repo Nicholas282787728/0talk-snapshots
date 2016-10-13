@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HI0uuDUIT6RQuDTDnToB94gZqhau3WU85bxePSKA9qENQ973CaHWbAtLA/o4kTEC+scwsL3Ko/BMLuJRCqCPgdk=",
+ "cert_user_id": "donate@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "9641a9e0a5e15e4c21ec1aceea107330db962b5323ce62d5a844670964317543",
+   "size": 814
+  }
+ },
+ "inner_path": "data/users/12YJpSQABsv4YyyiuVgBN8swbsuSKPPef6/content.json",
+ "modified": 1458573121.815414,
+ "signs": {
+  "12YJpSQABsv4YyyiuVgBN8swbsuSKPPef6": "G032KHVqtZsYI5gOdbaHFKcobuHuuVBggKgHrHxLTYwCnPfBRCh1YKGZ6CYxcbegra4Un+quXZRmPR4sZ/zLEXE="
+ }
+}

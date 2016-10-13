@@ -1,0 +1,43 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 8,
+	"comment": {
+		"2_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": [
+			{
+				"comment_id": 1,
+				"body": "Push it to the limit. Walk along the razor's edge. Don't look down, just keep your head - or you'll be finished.",
+				"added": 1457029029
+			},
+			{
+				"comment_id": 2,
+				"body": "> [zer0netuser](#comment_1_1GYmwjkn4Nn3m67LK8pcbRcy5KYr9fCgjs): limit.push(it)\n\nassert(limit.pushed == true)",
+				"added": 1457029440
+			},
+			{
+				"comment_id": 4,
+				"body": "`./configure && make && make install clean`",
+				"added": 1457115982
+			},
+			{
+				"comment_id": 6,
+				"body": "What is love?",
+				"added": 1460314029
+			},
+			{
+				"comment_id": 7,
+				"body": "> [pzmw](#comment_3_1ALXyaQsvvCQ3R5WBrPbe4dXsqnLCLEkB7): Love is desire. It's the feeling you get when you know you can have the person but just being with them is enough. It's sex, happiness, emotion and it's friendship. Love is knowing that out of all the crazy people in the world that one is the chosen one. It's understanding and a feeling of completion. Love is a chemical reaction that stayed with us because of its efficiency in getting us to fuck and have babies.\n> Love transcends explanations. It's completely intangible and yet something that most people can feel.\n> Love is a feeling that when goes away makes you empty, makes you feel like all that love was a lie, that nothing makes sense, that only a new love will make things better.\n> Well, let's not fool ourselves. Love is a reward to and an incentive of sex. How could we reward something that is no more?\n> That is why I say: love everyone, enjoy life, share love and get love but never let love become you, it's only good while it lasts.\n\nOne little question: where are you from? I'm asking because that sounds like a definition of love that a parent would give to their children. I'm from Russia, and people here talk about love in completely different manner.\n\nAlso, I was expecting \"Baby don't hurt me\" much more than an actual answer, but that stuff is probably too obvious to mention.",
+				"added": 1460393199
+			}
+		]
+	},
+	"comment_vote": {
+		"2_16iT9innDdczniwDgxp7FSfDNqKiYA1Qdz": 1,
+		"2_15hCdBiDLoPBUyA2nkj1Loob872RrMJXeZ": 1,
+		"1_15hCdBiDLoPBUyA2nkj1Loob872RrMJXeZ": 1,
+		"1_1GYmwjkn4Nn3m67LK8pcbRcy5KYr9fCgjs": 1,
+		"6_15hCdBiDLoPBUyA2nkj1Loob872RrMJXeZ": 1,
+		"3_1ALXyaQsvvCQ3R5WBrPbe4dXsqnLCLEkB7": 1
+	}
+}

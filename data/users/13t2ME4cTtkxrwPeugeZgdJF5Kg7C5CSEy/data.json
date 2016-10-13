@@ -1,0 +1,20 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {
+		"6_13hcYDp4XW3GQo4LMtmPf8qUZLZcxFSmVw": 1
+	},
+	"next_comment_id": 2,
+	"comment": {
+		"6_13hcYDp4XW3GQo4LMtmPf8qUZLZcxFSmVw": [
+			{
+				"comment_id": 1,
+				"body": "> [nofish](#comment_701_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): It required for two reasons:\n> \n> Ensure no one else has the same username\n> Try to avoid spam. Currently it's easy to register new username, but if its necessary it's possible to create harder id providers: require email verification, fb/google/vk verification, captcha, invite only, reference from other users, etc.\n> \n> If you don't need these you can easily publish the private key of the cert signer, so anyone able to create new username. (like nanasi do)\n> Later it's planned to support decentralized, blockchain based identity (namecoin or blockstack).\n\nI don't wish to attack you as a person as you have already created a lot of good, as such instead of attacking your points, let me explain why I believe them to be invalid.\n\n> Ensure no one else has the same username\n\nAssuming we used random usernames of length 8 which are an alphanumeric string (plus the characters '-' and '_'), there are a possible 2.814749767×10^14 usernames. Assuming that ZeroNet reaches 16777216 users , there will only be 1 username which is reused. So even in the unlikely scenario that ZeroNet gains 16777216 registered users, only 2 people would share a username and these 2 people would still be uniquely identifiable by their public keys. \n\nIf this is still too risky, lets increase the username length to 16. That leaves us with 7.922816251×10^28 possible usernames and the chance that a username will be reused at 1 in 2.814749767×10^14. Still not persuaded? Lets assume that usernames still have length 16 but that you have 2.814749767×10^14 users. Now, and only now will any username have been reused. To put that in perspective, even if the population of Earth was multiplied by 38037 and that each person on Earth had one account, only one username would be reused.\n\nAnd in this impossibly large scenario,  the accounts which share a username would still be uniquely identifiable by their public keys.\n\n> Try to avoid spam. Currently it's easy to register new username, but if its necessary it's possible to create harder id providers: require email verification, fb/google/vk verification, captcha, invite only, reference from other users, etc.\n\nVerification would be the end of ZeroNet, people shouldn't have to rely upon an email service or google/fb/vk to join a decentralized internet. We want decentralization, not to have to rely upon services who do not respect our privacy, sell themselves out to governments and will slaughter customer interests for an extra buck. Invite only and reference would have to rely upon the assumption that everyone on Earth is within walking distance of someone else with a pre-existing ZeroID. You might say that the internet is a way everyone can get a reference via a forum, reddit etc. however this leads a trail linking their centralized internet with their decentralized compromising any privacy ZeroID's give.\n\nPeople come to ZeroNet not to be censored and yet this is the very right you, as an individual, are reserving. We don't know that we can trust you, you could probably be bought off by a third-party interested in monopolizing ZeroNet. And if you can't, your servers can still be hacked leaving them in the control of someone else. \n\nThough it hasn't yet, having a centralized ID system will stab you and your users in the back soon. When a functioning alternative exists, why is it that you insist upon a centralized ID system? Personally, I am starting to ask myself what your intentions are, you claim they are good but until you decentralize ZeroID, you monopolize ZeroNet under your grasp. When people come to ZeroNet to avoid oppression, the last thing you want to be is the oppressor.",
+				"added": 1469030123
+			}
+		]
+	},
+	"comment_vote": {
+		"1_13t2ME4cTtkxrwPeugeZgdJF5Kg7C5CSEy": 1
+	}
+}

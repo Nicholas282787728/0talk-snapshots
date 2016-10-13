@@ -1,0 +1,148 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {
+		"1_1F6BMqittjWUStzUbRXm2kG2GQ3RdBLqFQ": 1,
+		"1_1EvouJCSru1YAbXsZW6WtRa97eLP4UjqKo": 1
+	},
+	"next_comment_id": 19,
+	"comment": {
+		"3_168qV1Xxp2EyszrzdECLUwXrn9wGYjDdar": [
+			{
+				"comment_id": 1,
+				"body": "Hey guys. \n\nI was making an imageboard engine last November, but then disappeared until now due to some personal issues. Well now I'm back and I'll continue my work. Already implemented optional files, so you're all welcome to test it. Suggestions are also encouraged. \n\nhttp://127.0.0.1:43110/0chan.bit",
+				"added": 1455065747
+			},
+			{
+				"comment_id": 2,
+				"body": "> [p2p](#comment_41_13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ): many thanks!where are old posts in dev.0chan.bit?\n\nThey're deleted because I needed new database structure.\n\nCan you please post something to my site? I want to know if posting works not just form for me :)",
+				"added": 1455093666
+			}
+		],
+		"1_1F6BMqittjWUStzUbRXm2kG2GQ3RdBLqFQ": [
+			{
+				"comment_id": 3,
+				"body": "Привет.\n\nЯ вот тут делаю имиджборду: http://127.0.0.1:43110/0chan.bit\n\nЕсли наберется еще несколько русскоговорящих людей, могу создать отдельный раздел для русских (сейчас там все на инглише)",
+				"added": 1455093765
+			},
+			{
+				"comment_id": 4,
+				"body": "> [gomzik](#comment_5_1F6BMqittjWUStzUbRXm2kG2GQ3RdBLqFQ): Любопытный коммит https://github.com/n3r0-ch/ZeroNet-Doc/commit/582d561ba1dc486b7ca8efa11904aecb6f51a9ad\n> Ребята решили уйти от неймкоинов? Или я что-то не правильно понял?\n\nНасколько я понимаю, это не уход от неймкойнов, а дополнительная возможность использовать и традиционный DNS. Расширение функционала, а не замена.",
+				"added": 1455104489
+			},
+			{
+				"comment_id": 8,
+				"body": "Насчет бинарника: зачем? Ведь уже давно есть для винды ZeroBundle, все что нужно — скачать его и запустить один-единственный файлик, дальше все работает само.",
+				"added": 1455198066
+			},
+			{
+				"comment_id": 9,
+				"body": "Когда-нибудь, когда будет время, попробую написать имплементацию ZeroNet'а на Го. Можно будет очень легко компилировать бинарники со всем необходимым под любую платформу.",
+				"added": 1455199408
+			}
+		],
+		"14_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf": [
+			{
+				"comment_id": 5,
+				"body": "Reddit",
+				"added": 1455135298
+			}
+		],
+		"7_1QBLGLcgKfcpfLmiDYuDzUKVXFfmTAew55": [
+			{
+				"comment_id": 6,
+				"body": "Same here, time is normal for me.",
+				"added": 1455135384
+			}
+		],
+		"1_1EvouJCSru1YAbXsZW6WtRa97eLP4UjqKo": [
+			{
+				"comment_id": 7,
+				"body": "I'm back (though with new alias) and 0chan is working again, optional files are implemented, other basic features and quality-of-life improvements are on the way.  \n\nhttp://127.0.0.1:43110/0chan.bit",
+				"added": 1455154411
+			}
+		],
+		"1_1M6scJRBJiCnXTM4wPKK6gAGHzs9HMbf4V": [
+			{
+				"comment_id": 10,
+				"body": "Go to your ZeroNet root directory, then find data/users.json file. Back it up (if you lose it, you'll lose your current ZeroID) somewhere, and then remove it from \"data\" directory. Restart ZeroNet and you will be able to register new ZeroID and use it.\n\nAFAIK you can't simultaneously use multiple IDs without constantly switching users.json file.\n\nUPD: false, you can use Multiuser plugin as described by @nofish one post above this one",
+				"added": 1455221710
+			},
+			{
+				"comment_id": 11,
+				"body": "> [nofish](#comment_284_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): Rename plugins/Disabled-Multiuser to plugins/Multiuser, restart ZeroNet then you will be able to login/logout to your identities in ZeroHello. (You can login to your previous identity using master_seed value in data/users.json)\n\nWhoa, didn't know about that plugin. Thanks!",
+				"added": 1455222018
+			}
+		],
+		"1_1EbkgVAJKgrTeYAmF3FSEJ8dRabpWH87it": [
+			{
+				"comment_id": 12,
+				"body": "I don't get this whole paranoia about JS. ZeroNet sites are running in isolated iframe. What kind of exploit can be done there?",
+				"added": 1455280281
+			}
+		],
+		"2_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": [
+			{
+				"comment_id": 13,
+				"body": "`test` test **test** *test*\n\n```\ntest test test\n```\n\nhttp://google.com\n\n[test](http://google.com)\n\n#test\n\n- one\n- two \n- three",
+				"added": 1455537737
+			}
+		],
+		"1_19hZjnvGuFY2sB3nDpX6869nJgkXURTvxX": [
+			{
+				"comment_id": 14,
+				"body": "Oy vey",
+				"added": 1457342443
+			}
+		],
+		"2_1NyFX6DUcyMs3S76Vz8X7ssDLC4uCCA1YM": [
+			{
+				"comment_id": 15,
+				"body": "Хз, везде сижу с личного нидерландского прокси, вращал роскомнадзор на хую.",
+				"added": 1457960008
+			}
+		],
+		"1_14bL4owkcQDHhEBKncp1QEXH3Su764ENdQ": [
+			{
+				"comment_id": 16,
+				"body": "Hello! How are things in China?",
+				"added": 1473326622
+			}
+		],
+		"2_1DcE9QfZbfLZhXxgtQ8Ui3oMZvs9NVjqZB": [
+			{
+				"comment_id": 17,
+				"body": "Everyone I know is voting for Trump. There is literally zero chance of any third-party candidate winning. It's either Trump or Hillary, and wicked bitch Hillary may go fuck herself. Trump 2016.",
+				"added": 1473335491
+			},
+			{
+				"comment_id": 18,
+				"body": "> [iamdeath](#comment_33_1DcE9QfZbfLZhXxgtQ8Ui3oMZvs9NVjqZB): Oh wow is your family a bunch of KKK guys with hoods and everything, burning crosses on the 4th?\n\nYes, exactly. Hang all niggers, gas the kikes, race war now! White Power!\n\nIs that what you wanted to hear? This \"le trump is le racist\" meme is already dead. Nobody cares anymore about accusations of \"racism\" in any form. Your time is up, leftists, the age of justice is at our doorstep.",
+				"added": 1473415665
+			}
+		]
+	},
+	"comment_vote": {
+		"1_1BNmjz9tBLY3M1tq2z7DKvA1LjFXYsmLd9": 1,
+		"24_17i7Y7r8nTaCfLbCAuaKyc4R5BbKZYU2Hr": 1,
+		"279_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"7_1BNmjz9tBLY3M1tq2z7DKvA1LjFXYsmLd9": 1,
+		"42_13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ": 1,
+		"284_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"294_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"318_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"18_12SuCFUNDaMYRHG9DsWCyCN1NgHGjddwSJ": 1,
+		"1_12tEAXYqJfqDRP7ZHY1T6fDp67PopmYzYp": 1,
+		"23_1FTFKztuv4Z5uy6iS83k9hB2xtS6yFnDxx": 1,
+		"8_1JwPBvZYXLJzrA6YisjpsyTuuieFLCARS6": 1,
+		"5_1JARuoKjvXanUeKyPTXU9cus2jRzi4DZU5": 1,
+		"3_1ETxcxYnSkM8gEdhQj9gS1pFt9LbVQddUV": 1,
+		"2_19Z54XRjKd3f3MNHWyWacypF137P7HUcAq": 1,
+		"1_1JFfyAT1DysW4LbK6WRd2szDoPjWgb22NT": 1,
+		"17_1BNmjz9tBLY3M1tq2z7DKvA1LjFXYsmLd9": 1,
+		"18_1BNmjz9tBLY3M1tq2z7DKvA1LjFXYsmLd9": 1,
+		"4_1HXv2c6awyWdtUb8SeP7bWViMHcvxdV82X": 1,
+		"2_12PQwF7zb6gKMrWPcP555CqkTyYHY5qzmi": 1,
+		"4_1ETxcxYnSkM8gEdhQj9gS1pFt9LbVQddUV": 1
+	}
+}

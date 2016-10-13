@@ -1,0 +1,27 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {
+		"2_1HHSJHKhrpXzsGmtHhJmkk7hp2DZ9CRSN6": 1
+	},
+	"next_comment_id": 3,
+	"comment": {
+		"2_14zJh3rGokoL3PFP7aQXCpUyW1xZHQwaz5": [
+			{
+				"comment_id": 1,
+				"body": "I may be four days late but I want to put this out there.\n1) There is no such thing as a \"deep network\" in the sense that you are using it (you might be thinking of the deepweb, darknet, or any one of the many similar buzzwords)\n2) If there is a \"deep network\", you have taken a wrong turn, it is not on Zeronet\n3) The Silk Road no longer exists (but many similar marketplaces do exist)\n4) The Silk Road was not decentralized like zeronet, it was just \"obfuscated\" by TOR (a separate project)\n5) \"I just wanted to see it\"\nTo be fair, its only a matter of time before we have some OpenBazaar clone on here.",
+				"added": 1464752752
+			}
+		],
+		"1_1PnDqDjjsALfe3zzJ1EwAShbEVxqvCjJKo": [
+			{
+				"comment_id": 2,
+				"body": "This is really not the place for this stuff but you can find a russian version on KaT.\nhttps://kat.cr/warcraft-2016-camrip-russian-t12677469.html#main",
+				"added": 1464752943
+			}
+		]
+	},
+	"comment_vote": {
+		"1_14ckTNJ2Skqqw5FYM7DKhPywgrwbXzsp1x": 1
+	}
+}

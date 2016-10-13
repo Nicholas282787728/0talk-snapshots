@@ -1,0 +1,44 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 6,
+	"comment": {
+		"1_1LWuc6JBhUGrKEAh1aPrPU85dEMcKmg3pS": [
+			{
+				"comment_id": 1,
+				"body": "In case you haven't solved your problems:\n\n1) Not too sure what's up, but have you tried routing ZeroNet through Tor? It should work that way without you having to open ports.\n\n2) I'm not sure going for one of those sites would be a good idea, since you'd be trusting a third party with your domain, not to mention the fact that you'd be paying more. In my case it didn't take more than a few hours to download the whole blockchain, and the process of exchanging BTC for NMC (via ShapeShift) and registering my domain was pretty painless. I would recommend waiting it out.",
+				"added": 1453066930
+			}
+		],
+		"2_17i7Y7r8nTaCfLbCAuaKyc4R5BbKZYU2Hr": [
+			{
+				"comment_id": 2,
+				"body": "Indeed it does, but it doesn't work on my end either.",
+				"added": 1453717534
+			}
+		],
+		"2_1789XcRxNBxCsCTWFhhGsbmjrmg4XX4QPL": [
+			{
+				"comment_id": 3,
+				"body": "If you're looking to make test transactions, hit up a faucet (cf. https://faucetbox.com/en/list).",
+				"added": 1453820077
+			}
+		],
+		"1_12Ex3Mrd75wY2r5rB21jBcmgj9hxwUK1w2": [
+			{
+				"comment_id": 4,
+				"body": "Not involved in any projects (yet), but I'm pretty keen on cryptocurrencies and this whole 'decentralised internet' thing. OpenBazaar also sounds pretty rad. I only recently jumped on the ZeroNet bandwagon after looking something Freenet-related up on Wikipedia, so I'm sure there are other things I'm missing. Thus, if you or anyone else has recently come upon (or started working on) something similarly cool, feel free to mention it here. :)",
+				"added": 1453888252
+			}
+		],
+		"2_12Ex3Mrd75wY2r5rB21jBcmgj9hxwUK1w2": [
+			{
+				"comment_id": 5,
+				"body": "Another way would be to enable the 'multiuser' plugin (mv plugins/disabled-Multiuser plugins/Multiuser).",
+				"added": 1453901140
+			}
+		]
+	},
+	"comment_vote": {}
+}

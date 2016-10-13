@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "G8wVPynQKGf4JqXaJ9ra1irU03n6hrqtHuM9Vivt6oPlEMHYvDcJ055XQnPV8U5VAplUXzsndbERMzesO/uVAV8=",
+ "cert_user_id": "dretek@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "c460d8117d07f32c65d7445e3b6bb301479ed82516302d6d165ee4f3ee7d545c",
+   "size": 389
+  }
+ },
+ "inner_path": "data/users/16LJxNvTJhtomAfyGF5QwzE7vzBxYMwpsz/content.json",
+ "modified": 1471688673.293906,
+ "signs": {
+  "16LJxNvTJhtomAfyGF5QwzE7vzBxYMwpsz": "HIrerOFZrp+E6xovZZ296S7GPKET4iCNpIoH8lrwLyF7dgjsoZxjwIpLJdp16ay1Y7TNI/GLFXZ2iCyIRVZxB0M="
+ }
+}

@@ -1,0 +1,25 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {
+		"4_1KcPohxmuqiNShTaAzJZLndm5aWtBZLuJn": 1
+	},
+	"next_comment_id": 3,
+	"comment": {
+		"2_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": [
+			{
+				"comment_id": 1,
+				"body": "great, so zeronet has no spam control? we're. doomed",
+				"added": 1457067887
+			}
+		],
+		"4_1KcPohxmuqiNShTaAzJZLndm5aWtBZLuJn": [
+			{
+				"comment_id": 2,
+				"body": "Try https://github.com/cgm616/zerochat-irc",
+				"added": 1457307654
+			}
+		]
+	},
+	"comment_vote": {}
+}

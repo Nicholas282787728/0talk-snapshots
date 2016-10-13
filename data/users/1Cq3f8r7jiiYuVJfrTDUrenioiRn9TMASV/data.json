@@ -1,0 +1,23 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "ads that make money for user",
+			"body": "ads form users to users or company to users which makes money for users....user paid by other users to store data and availability of his system to internet...",
+			"added": 1473437275
+		}
+	],
+	"topic_vote": {},
+	"next_comment_id": 2,
+	"comment": {
+		"1_1Cq3f8r7jiiYuVJfrTDUrenioiRn9TMASV": [
+			{
+				"comment_id": 1,
+				"body": "yes but this ensures availability of system to send heavy data with more bandwidth allocations...",
+				"added": 1473437742
+			}
+		]
+	},
+	"comment_vote": {}
+}

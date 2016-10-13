@@ -1,0 +1,28 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "new user in ZeroNet",
+			"body": "Hello world",
+			"added": 1457540446
+		}
+	],
+	"topic_vote": {},
+	"next_comment_id": 3,
+	"comment": {
+		"1_1PrEU3jo5aME6pebitM8DJ3Pm4KnsmzfpT": [
+			{
+				"comment_id": 1,
+				"body": "hi @erkan i'm fine thank u \ni have found zeronet in a forum",
+				"added": 1457541797
+			},
+			{
+				"comment_id": 2,
+				"body": "hi @cyrax welcome to zeronet",
+				"added": 1457541950
+			}
+		]
+	},
+	"comment_vote": {}
+}

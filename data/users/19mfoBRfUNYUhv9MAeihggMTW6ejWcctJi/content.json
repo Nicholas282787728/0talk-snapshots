@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HBJCU2JkiWZEsjyyU0Knz56+m8X70is+m8F2QvNFD1fn1Ah24v99T1gIIa47mt51cZ3XWVZWNqj5yk7SAhpwCPk=",
+ "cert_user_id": "arcturus@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "1968480e38451bcb5d459fa60c7fbde7acedda75f7759e600bd1e8df648459c2",
+   "size": 4199
+  }
+ },
+ "inner_path": "data/users/19mfoBRfUNYUhv9MAeihggMTW6ejWcctJi/content.json",
+ "modified": 1465781123.69,
+ "signs": {
+  "19mfoBRfUNYUhv9MAeihggMTW6ejWcctJi": "HCNzHlLVM2NG55pAeATYCYezgwN8f1q+fBhIKxvbuqYNarbuB+pETTZTpSXxpEcCa2pGC5UiIfWYWMxXwgEOHu0="
+ }
+}

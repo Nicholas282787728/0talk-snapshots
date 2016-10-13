@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "G4xQ3lBuh+bIuLCG+jR145CHlDfuFaGmqpN1Dgs4DZ3XsbJHay1IH7rl+iXDhRTt9FUWCQ5Q3aVyPNZm9tJxWgE=",
+ "cert_user_id": "dante@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "a80a2a12a100cc12dc4c1d6c560503a48d12d9f02af60ef6e095361440fa5d83",
+   "size": 522
+  }
+ },
+ "inner_path": "data/users/13tcdDYq9M2m3SGarHeBmeGxhjgtQ2Tg5J/content.json",
+ "modified": 1457201895.644,
+ "signs": {
+  "13tcdDYq9M2m3SGarHeBmeGxhjgtQ2Tg5J": "HAKiERABTS+c/KNJ8RIpoNucnUI44d5eYlQybo1er5WV3KuuaL1Uu2pBGkZ+hiTdnO0OK1Y0N2hRCgQwiWMT1Gg="
+ }
+}

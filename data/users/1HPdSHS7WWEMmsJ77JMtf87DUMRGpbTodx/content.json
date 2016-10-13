@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "G5fVolIauQ1mTRqKpaQWXMY/vQ0ZpMartzR2J+bWGQperScKUkTBATUKX5EEYKY7YpgMVRFVGY1XMLB/hv1kP4o=",
+ "cert_user_id": "isis@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "298b1c492c35a7858923e360f377482d0bf52e5a6978b3bc1c53356a4f136030",
+   "size": 1284
+  }
+ },
+ "inner_path": "data/users/1HPdSHS7WWEMmsJ77JMtf87DUMRGpbTodx/content.json",
+ "modified": 1459111759.532,
+ "signs": {
+  "1HPdSHS7WWEMmsJ77JMtf87DUMRGpbTodx": "HCYcVGRHy/k4Mqs1RBweheWW5sK+gjAYFQrpVFo6HxohpCjg5Cku6YuuDMtBEF1t7Ibf3ss8lIOrAPcZGCWR578="
+ }
+}

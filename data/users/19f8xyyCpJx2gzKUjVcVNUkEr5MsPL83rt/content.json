@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HORSgeST1hIqINbVBX1HNW2Yt/18hPMOehYA3wMiobIlJMw2718pByT3oWGZh92xuL4VAPnPR25VC1dSo28x8uE=",
+ "cert_user_id": "bitcoinforecastr@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "2825bb82e184adc35bb543f047a1dd65a1368d8f6abfb46732e79543ed9d97a8",
+   "size": 834
+  }
+ },
+ "inner_path": "data/users/19f8xyyCpJx2gzKUjVcVNUkEr5MsPL83rt/content.json",
+ "modified": 1457775707.979221,
+ "signs": {
+  "19f8xyyCpJx2gzKUjVcVNUkEr5MsPL83rt": "HCINyPyVpaBXQu+TMwzkSIGZVa+E0mC292NLfqPk1OrawUKD+L9XAVnd5bZiucC88UT9+s3Lo2Gy93/T8lfffYY="
+ }
+}

@@ -1,0 +1,25 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {
+		"1_17ApQKugX1XH727gpAeD3mrRLjLxASdakd": 1
+	},
+	"next_comment_id": 4,
+	"comment": {
+		"1_17JSHDd8Hub7LDtYzGD8XPjtQWpiEnVrhR": [
+			{
+				"comment_id": 1,
+				"body": "That's probably how it should be used, yes.",
+				"added": 1461102358
+			},
+			{
+				"comment_id": 3,
+				"body": "Btw, I made a docker-compose.yml for running Zeronet w/ Tor. http://127.0.0.1:43110/17hNAy2Yy3EFTpoquXBwuoPT5vaGmwJPWL",
+				"added": 1461102956
+			}
+		]
+	},
+	"comment_vote": {
+		"85_1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD": 1
+	}
+}

@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HH3Evrg7rrR0Oj0GoS6a0IAlnNhsgemTziu3y14iIhZQ6vjPcYSYDXh2VCM8lWP172UMgifTIcHevEJMx3Dn7NE=",
+ "cert_user_id": "anarchy@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "68a9afa2c4a702209a86b5ce6ea7ca1e3e7fe26548979c98d3bd035c1ad1049f",
+   "size": 163
+  }
+ },
+ "inner_path": "data/users/1d3wVDqohFVEyZraDCQJQtSfwgJh8U4RA/content.json",
+ "modified": 1457201949.587889,
+ "signs": {
+  "1d3wVDqohFVEyZraDCQJQtSfwgJh8U4RA": "HOApMdkKvbsgBk4iBgIMMF+ApO7WCvKm6cDZEGCB9dAlWj25ObOE4aVojo90IfBnJmAUlPqfJ/q0dCtRMhLGRcA="
+ }
+}

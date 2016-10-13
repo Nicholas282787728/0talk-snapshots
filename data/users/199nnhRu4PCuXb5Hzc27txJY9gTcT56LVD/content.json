@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "G7/fSzaCbymImMTv3yFCR+fH+DaqQkWh/4A/oOLmpUYUehd0SfExUWGX+fhGjb8ykzDXFE3am1lk/Q5I40k1cC4=",
+ "cert_user_id": "chinachubby@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "57ea7c8f626b6e9c372ab8efdb73cb5cf581e8231f77d9dadc2000f0cb235ae0",
+   "size": 288
+  }
+ },
+ "inner_path": "data/users/199nnhRu4PCuXb5Hzc27txJY9gTcT56LVD/content.json",
+ "modified": 1466175522.770296,
+ "signs": {
+  "199nnhRu4PCuXb5Hzc27txJY9gTcT56LVD": "HDJoNhTmtVTqitB0DX8GN8vtJM/VnHfNsB9TWIhqNVJkFT7IQbOEeZcQBPIZzAtvhnQ/YF4qoAZIUY5JQGbjFNc="
+ }
+}

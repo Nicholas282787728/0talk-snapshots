@@ -1,0 +1,40 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "How can I create 0Site?",
+			"body": "Sorry if this is stupid question :(",
+			"added": 1456945776
+		}
+	],
+	"topic_vote": {},
+	"next_comment_id": 4,
+	"comment": {
+		"2_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": [
+			{
+				"comment_id": 1,
+				"body": "wow",
+				"added": 1456945675
+			}
+		],
+		"1_18C3QMMDj9vRcw6j6bNwb77cX4unMBq6QF": [
+			{
+				"comment_id": 2,
+				"body": "> [ekaterina](#comment_55_1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD): If you just want a blog you can click on the 3 vertical dots next to ZeroBlog in the list of ZeroNet sites, then click on \"Clone\". If you want to develop your own sites (which is really easy if you're a web dev), there is a two part tutorial in the sidebar of ZeroBlog which teaches you how to create a chat website and everything you need to know for your own ideas.\n\nOh, thank you. I'm already figured out :)",
+				"added": 1456947059
+			}
+		],
+		"2_1J7dTw3ZsXUsXzpBqVWVj5aXRUMsMC6Nfc": [
+			{
+				"comment_id": 3,
+				"body": "Telegram is still very secure. Who's hacked it? Show me this person.",
+				"added": 1468578323
+			}
+		]
+	},
+	"comment_vote": {
+		"54_1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD": 1,
+		"55_1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD": 1
+	}
+}

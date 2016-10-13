@@ -1,0 +1,15 @@
+{
+ "cert_auth_type": "web", 
+ "cert_sign": "G6xhkW65iIpGX4rDlnQo+X1mBHCe/GSlsZc72jSOUm4U4OL4WJYPoLWGj0ifPjNhagkxQuLaTGDPy7ScOZ7WLhs=", 
+ "cert_user_id": "thepra@zeroid.bit", 
+ "files": {
+  "data.json": {
+   "sha512": "173078e8739571b2941299c886bba9b0a6ebe6585c75b34bb86e579f9f83513d", 
+   "size": 351
+  }
+ }, 
+ "modified": 1454429226.881, 
+ "signs": {
+  "1HZ31NnbPEtxBWkvVHYPTK6cHmibeLGs9j": "G7iv5oiKEd++arpLNhUdYCaiREKBnCpj+3uz5eYW2xbNcWHZcJaElW+aoMw8LqhrxqhSCZLVu0wIKiyaqWXY66E="
+ }
+}

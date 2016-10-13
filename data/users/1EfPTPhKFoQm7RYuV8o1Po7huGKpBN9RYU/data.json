@@ -1,0 +1,20 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {
+		"2_15k25aCTwyHfXnqtqpRvBbkDz5ka7gFuuU": 1
+	},
+	"next_comment_id": 2,
+	"comment": {
+		"6_178NSuZP2hH2vHhNX6vsHceh5sjPkDrLiH": [
+			{
+				"comment_id": 1,
+				"body": "> [fancypants](#comment_7_15k25aCTwyHfXnqtqpRvBbkDz5ka7gFuuU): As much as I'd like to believe our friends at the alphabet agencies haven't gotten their grubby hands involved with IPFS, I think you may be right to be suspicious. Maybe the best solution for them would be to shut down gateways entirely and require IPFS to get content from it. This would solve the hypothetical sting operation at brought up at https://github.com/ipfs/faq/issues/36.\n> Ideally, ZeroNet and IPFS should be merged into one single network/protocol with full Tor support and full censorship prevention/easy circumvention. That would be a great recipe for a fully anonymized and speedy network.\n\nAgreed.",
+				"added": 1467092777
+			}
+		]
+	},
+	"comment_vote": {
+		"1_1EfPTPhKFoQm7RYuV8o1Po7huGKpBN9RYU": 1
+	}
+}

@@ -1,0 +1,18 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 2,
+	"comment": {
+		"1_14uHGcnMinwK9ZdSQosHqjRV4eBCxkv9Mu": [
+			{
+				"comment_id": 1,
+				"body": "would love if someone write some explanation on how to achieve dynamic ZeroNet based website with elements like videos streamed via torrent or other protocol which allows (prefferably anonymously) serving content from multiple locations with no single-point failure.",
+				"added": 1463564033
+			}
+		]
+	},
+	"comment_vote": {
+		"2_1CMjV2r4EBpFt8VCcWWZKDysZXPcPExRNN": 1
+	}
+}

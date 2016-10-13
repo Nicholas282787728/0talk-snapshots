@@ -1,0 +1,25 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {
+		"1_1UfvLnMuzShvi3phWGSqn79tio81Wn9Dt": 1
+	},
+	"next_comment_id": 3,
+	"comment": {
+		"1_1UfvLnMuzShvi3phWGSqn79tio81Wn9Dt": [
+			{
+				"comment_id": 1,
+				"body": "> [r3](#comment_9_1UfvLnMuzShvi3phWGSqn79tio81Wn9Dt): 如果ZeroNet可以运行在树莓派上的话，那么个人站点24小时在线的成本就就非常低了。有人有运行部署树莓派的经验吗？镜像分享一下^_^\n\n这货是Python写的，直接好用的吧",
+				"added": 1458991483
+			}
+		],
+		"1_18jipjDsfAxAuq4ixbi2w24xJrYVfTYFPn": [
+			{
+				"comment_id": 2,
+				"body": "China",
+				"added": 1458994397
+			}
+		]
+	},
+	"comment_vote": {}
+}

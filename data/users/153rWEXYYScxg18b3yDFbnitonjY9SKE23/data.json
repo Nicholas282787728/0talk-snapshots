@@ -1,0 +1,18 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 2,
+	"comment": {
+		"1_18jipjDsfAxAuq4ixbi2w24xJrYVfTYFPn": [
+			{
+				"comment_id": 1,
+				"body": "I'm not sure if it is wise to provide identification information here. Since information like country name reduces the search space for your identities to ~1/40.",
+				"added": 1461419179
+			}
+		]
+	},
+	"comment_vote": {
+		"1_169ktb8ih7eggtNvkTjJqk7G8CgNfxXTc1": 1
+	}
+}

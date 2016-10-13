@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "GzDhz9laV74KwwIDB4ijqhp3WiHXWqD7ovSaC90mo5JhAyuoUxveNOdCOxCudAGcZLMIzCzSlSuPsFUDrs4yiAE=",
+ "cert_user_id": "baroumas@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "5b514bd501632927b828da1a013cb4cb2e8ca20080a64c1d6716e00c425cdecd",
+   "size": 208
+  }
+ },
+ "inner_path": "data/users/18S2UvrXkyH1LSKYvnrRS9wQuAxTxDYWhq/content.json",
+ "modified": 1470477900.33,
+ "signs": {
+  "18S2UvrXkyH1LSKYvnrRS9wQuAxTxDYWhq": "G8kXYypyxU/JK7bDItb33MQKqXctDPHm08DPfGEA6iUg6y88fPDB6doo+kXw2e1KmvvoKj6QMn05kW6pN4olopg="
+ }
+}

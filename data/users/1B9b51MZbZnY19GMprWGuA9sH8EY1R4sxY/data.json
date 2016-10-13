@@ -1,0 +1,23 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 3,
+	"comment": {
+		"2_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": [
+			{
+				"comment_id": 1,
+				"body": "grate zerotalk",
+				"added": 1462869442
+			}
+		],
+		"7_16tWPYFLbad3R8iGcMuetyiwC2q5qXp45T": [
+			{
+				"comment_id": 2,
+				"body": "prank",
+				"added": 1462869488
+			}
+		]
+	},
+	"comment_vote": {}
+}

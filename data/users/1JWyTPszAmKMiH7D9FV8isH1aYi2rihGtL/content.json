@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HIDApsQgY1kKYVI3OzUZyptJB79j82jEwRLXZL2V9UIP+iTnTQvE1JOOMd42vGOC7R5ZpEDVR+wpETSqaBvXdy0=",
+ "cert_user_id": "caesarserino@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "23dbbd879d1cd09c5ac6406649d5aa125a13eed13ae72897252a29d0b80386e8",
+   "size": 963
+  }
+ },
+ "inner_path": "data/users/1JWyTPszAmKMiH7D9FV8isH1aYi2rihGtL/content.json",
+ "modified": 1458938310.446898,
+ "signs": {
+  "1JWyTPszAmKMiH7D9FV8isH1aYi2rihGtL": "G4GSoCHEh0kra8C84v+wCny4lk05wi5vrJCxqEcFGI2VAvJBImhwWv/W692rNdnGTbo62wixWvP8P1acd+X7cEA="
+ }
+}

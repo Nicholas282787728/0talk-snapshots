@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HOznCq8wm/HobUINGUV/OHB6NPEnKVBh0AhogPknZDGrfAW15c3GnNpImx5NBkS3nAa31SMiKSfFEYUP+k9UR7Y=",
+ "cert_user_id": "fuckfacebook@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "30049854370458e4ac6f66a3c2639d048f00f74966da693ba6eb3a40797dff64",
+   "size": 240
+  }
+ },
+ "inner_path": "data/users/12LedBkGiLfYt6aRk9JhLusyjBNQW6QZJa/content.json",
+ "modified": 1468773369.904,
+ "signs": {
+  "12LedBkGiLfYt6aRk9JhLusyjBNQW6QZJa": "HMGrq+mYTx7WDpnw771nBA/S8E3OJjUAvUlmALtv0VzAG5KQYnEvJl1h7mvFHAnIn71PPc6vVkNh8Y8xazAyOew="
+ }
+}

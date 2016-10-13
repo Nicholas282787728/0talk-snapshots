@@ -1,0 +1,15 @@
+{
+ "cert_auth_type": "web", 
+ "cert_sign": "HFUleOySVATItbgnjGVVMeu6opaHKyo5kj1WK76kxbLUNto86myl46kJ98PrST1Z6tuR5Te9ENDFX2xvUf/8YL8=", 
+ "cert_user_id": "rcastano@zeroid.bit", 
+ "files": {
+  "data.json": {
+   "sha512": "da1b2f3c429d3bfcbd99113791334ec9a37b827b6ec847425d90a7ab51cca234", 
+   "size": 1455
+  }
+ }, 
+ "modified": 1453181967.878253, 
+ "signs": {
+  "1254yKPQxGEL7qEkTgig8dGZAhbW6TyQ4f": "G/IyYJRKWeOerHUSxKyzWUsVZ/BWbsw7MGPBRDALIipxtNSbjKoQ4Xl1gus2qhjFtmio1mBgQrZvYOqKzlKamz0="
+ }
+}

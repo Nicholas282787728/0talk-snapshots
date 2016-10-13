@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "GzGYGFv0vfad9phveCl63Xf1O9KEA9H9qOUrD4k0WKUZ6SOTjwshOm39mvZzK+oZ1wyEWLdKVOXUMvUVwANkwTA=",
+ "cert_user_id": "faze@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "a1e780991f6e3e37e203ad96e8f38c7b23bb9ebda129a86db962fb8f4530a593",
+   "size": 387
+  }
+ },
+ "inner_path": "data/users/16cy6RFfpfS5tApfsSGkdcaE8JcCU1LARN/content.json",
+ "modified": 1459288351.680895,
+ "signs": {
+  "16cy6RFfpfS5tApfsSGkdcaE8JcCU1LARN": "G/PWAmrvhdIuPjWIcnGUh7nDiaAswo9XAGCjFaeywbCGME0SrJ52Rzodsk9AZxW8ZSaZJADtE5z+Ds6j5X/fUH8="
+ }
+}

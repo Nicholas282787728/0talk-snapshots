@@ -1,0 +1,15 @@
+{
+ "cert_auth_type": "web", 
+ "cert_sign": "G8elbcaaWpnfweQJmROWMmgguueWKg2Qpz0FO4YqPueNOOA3fBUeklyxw3uqRGLRk+cUF6dXkD/Nn3iiptUWnjg=", 
+ "cert_user_id": "tutturu@zeroid.bit", 
+ "files": {
+  "data.json": {
+   "sha512": "1855f01258b56e90a4f467a68f33bd5b9c058695f9c87893fac3487b8779cb91", 
+   "size": 273
+  }
+ }, 
+ "modified": 1454709726.324248, 
+ "signs": {
+  "1LyYvjLgj8X5T8HMkcKVCnSVdT4kPpt6tJ": "G73y0sfT8P25f4l+4nwc89+dU1/GAmZbQc7Z6Qg7OeEqwt+uX2EEQH6sRPh2loMm8hysquNG8wU2YZmEfzPC3lo="
+ }
+}

@@ -1,0 +1,16 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 2,
+	"comment": {
+		"4_1Ci5Y4TxZwY1SQhvQR7Ttbdyyai4WRV5TU": [
+			{
+				"comment_id": 1,
+				"body": "i don't like systemd but i never successfully got gentoo to install on a VM :(\ninstalling linux is 2 hard mom",
+				"added": 1468085242
+			}
+		]
+	},
+	"comment_vote": {}
+}

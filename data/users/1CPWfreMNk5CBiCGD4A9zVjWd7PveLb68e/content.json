@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HCjfoaLIlsotw/gngyIVmoTETspY69KqXb3ab0/4UI+dnfgWi0tXGNHV05ef+8vzC77Ldsg4H1AUXnQIpZWPZmo=",
+ "cert_user_id": "relixx@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "866e66d625e5a4c0a7e0c9ce89b144fda783914bb70f3659e51f5277fb33cd2a",
+   "size": 270
+  }
+ },
+ "inner_path": "data/users/1CPWfreMNk5CBiCGD4A9zVjWd7PveLb68e/content.json",
+ "modified": 1462514275.200118,
+ "signs": {
+  "1CPWfreMNk5CBiCGD4A9zVjWd7PveLb68e": "Gy3iWx7AhuyPYRE+F6eY5ZqSKUP2QSBXsnpvpT6nqCrbXPcMv56dOOfjn9/LyC001NsnPOtg/KwpZMpZe5FNoDI="
+ }
+}

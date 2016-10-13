@@ -1,0 +1,23 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "Telegram for ZeroNet?",
+			"body": "Someone have a group or channel about ZeroNet in telegram?",
+			"added": 1468643310
+		}
+	],
+	"topic_vote": {},
+	"next_comment_id": 2,
+	"comment": {
+		"2_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": [
+			{
+				"comment_id": 1,
+				"body": "Brazil!",
+				"added": 1468643453
+			}
+		]
+	},
+	"comment_vote": {}
+}

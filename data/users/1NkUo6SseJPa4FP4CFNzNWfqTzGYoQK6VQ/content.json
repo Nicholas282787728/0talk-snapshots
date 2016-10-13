@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HLpZe1MSIJctN9GUyGWufrvnjfA+qS5ks460jbQHDfVBYAUrdefRbkVd9eCq4BsfQeQ2A51uAzzJ7z4w/bfbekE=",
+ "cert_user_id": "dankestdungeon@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "04e1b5af461d822b6534f79c02a54043743107623c96ca5cb855c0615b39049d",
+   "size": 2939
+  }
+ },
+ "inner_path": "data/users/1NkUo6SseJPa4FP4CFNzNWfqTzGYoQK6VQ/content.json",
+ "modified": 1472644525.545323,
+ "signs": {
+  "1NkUo6SseJPa4FP4CFNzNWfqTzGYoQK6VQ": "G/Xvbj/Oa21Etswh0iQvI6GXOkL2WmsGnurb/JT/48P04Zw6nmVd54nGEzQP9eq7mHVc3X5buzmNryhKMUhInOA="
+ }
+}

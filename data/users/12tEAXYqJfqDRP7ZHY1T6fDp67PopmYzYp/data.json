@@ -1,0 +1,57 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 9,
+	"comment": {
+		"1_19hZjnvGuFY2sB3nDpX6869nJgkXURTvxX": [
+			{
+				"comment_id": 1,
+				"body": "Oh my, the JIDF is here too?",
+				"added": 1457304301
+			}
+		],
+		"2_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": [
+			{
+				"comment_id": 2,
+				"body": "Im the only one that thinks this may become big in the future?",
+				"added": 1457304410
+			},
+			{
+				"comment_id": 3,
+				"body": "This just need a bit more PR. Also, is not very user friendly for beginners.\nI for example, dont know how to reply to you makewebfre4all",
+				"added": 1457304518
+			},
+			{
+				"comment_id": 4,
+				"body": "> [makewebfree4all](#comment_3_1KgQL2XWR5VjHFgBQMM7BcD2S43m2v7qK6): but if this becomes big,  the amounts of money spent to control it will increase too...\n\nI doubt it woud take too much time before the cryptography of this was broke by both NSA and MI5. Those guys dont fuck around.\nNot that I have something to hide anyways.",
+				"added": 1457304656
+			},
+			{
+				"comment_id": 5,
+				"body": "> [makewebfree4all](#comment_4_1KgQL2XWR5VjHFgBQMM7BcD2S43m2v7qK6): exactly my point. But not only those big know companies will try to crack this beautiful thing. Underground hackers that would love to make profit from exploits.\n\nThis is part of the game, I suppose. Ppl will always try to profits somehow. Is the human nature.\nAt least using individualized cryptography, they may have a hard work cracking down the whole thing",
+				"added": 1457305134
+			},
+			{
+				"comment_id": 6,
+				"body": "> [makewebfree4all](#comment_5_1KgQL2XWR5VjHFgBQMM7BcD2S43m2v7qK6): let´s hope that helps ZeroNet running for a long time, before it eventually falls to the hands of the government or smt alike.\n\nOk bro, good talking to you.\nNow I will explore the other options of this thing.\n\nSee ya.",
+				"added": 1457305401
+			}
+		],
+		"7_17fgJ3tZjhM7HCkTkd5TWf2BLLWmhRKcXB": [
+			{
+				"comment_id": 7,
+				"body": "I can only assume that you are asking what we will do if ppl start sharing child pornography around here. I asked this myself before coming in here. And the anwser is that there is no answer.\nWe all know what is right and wrong, and like they said \"Vox Populi, Vox Dei\". Those users will be cast out by the others. THe problem here is the system itself. If there are no admins, them who will ban this kind of material? The awnser is no one. \nLike the problem Apple is facing right now against the US goverment, the only way to have control over the system ( including ZeroNet) would be by allowing a backdoor to exploited. But if you do this, the entire system will crumble at the first attck of any goverment.\nThis may become a darknet in the future. Maybe since everybody here ppers the website, we ( as in everybody)should have control of what our computers will accept as material. Like, an option where I will accept every information except pictures and movies. This would be a way to avoid child pornography, random acts of violence and monetary scam.",
+				"added": 1457305835
+			}
+		],
+		"1_1AkE5mjeYRiQLGF8Q6NmGvpkm1kk1R6zMe": [
+			{
+				"comment_id": 8,
+				"body": "Not sure if such a thing would work. I mean. Imagine the ammount of data that would be uploaded to our computers by other users. Just one movie in BluRay would be something like 8Gb. And since we are a descentralized system, the entire thing would crimble unless they use a server dedicated for this. But this would be too expensive and would take the purpose of the Zero ecosystem.\nIf you want a Youtube, just go to Youtube. I think the purpose of this tech is to both creat conten for free and be used a free speech plataform, in the mold of the old 4chan (when it was really free).",
+				"added": 1459269200
+			}
+		]
+	},
+	"comment_vote": {}
+}

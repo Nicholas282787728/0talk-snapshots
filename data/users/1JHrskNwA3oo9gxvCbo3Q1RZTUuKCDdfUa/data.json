@@ -1,0 +1,150 @@
+{
+	"next_topic_id": 4,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "The ZeroNet Archive - Please seed and help register the history of ZeroNet",
+			"body": "http://127.0.0.1:43110/1ARCHYFfke9k3Jbj9uVXmbeDV9XueK3hLA",
+			"added": 1470938570
+		},
+		{
+			"topic_id": 2,
+			"title": "[Developing a site] How link to folders?",
+			"body": "In my site I'm trying to point to a folder with index.html, but ZeroNet can't. How can I point to folders? Or any-like system?",
+			"added": 1471012010
+		},
+		{
+			"topic_id": 3,
+			"title": "[Developing a site] Mergeable sites",
+			"body": "The mergeable sites are separated? How they communicate with the main site? How can I implement it in the simplest way or where I can read about it?",
+			"added": 1471012072
+		}
+	],
+	"topic_vote": {
+		"1_1JHrskNwA3oo9gxvCbo3Q1RZTUuKCDdfUa": 1,
+		"4_13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ": 1,
+		"2_1JHrskNwA3oo9gxvCbo3Q1RZTUuKCDdfUa": 1,
+		"3_1JHrskNwA3oo9gxvCbo3Q1RZTUuKCDdfUa": 1,
+		"8_19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ": 1,
+		"1_1EBRsDJo4qKthFXgCDGnGEXZxdwhGrtLp2": 1,
+		"1_1Dj5WCaPV2r18QcDQFHmyx2HnGmwMJce9b": 1
+	},
+	"next_comment_id": 20,
+	"comment": {
+		"1_1JHrskNwA3oo9gxvCbo3Q1RZTUuKCDdfUa": [
+			{
+				"comment_id": 1,
+				"body": "Please comment here with your feedbacks, how it is working for you, etc.",
+				"added": 1470939242
+			},
+			{
+				"comment_id": 2,
+				"body": "> [astzor](#comment_32_1LfQ8dwqkqkGQNCg1kBevHPxjvTRJTQYBz): No Peers Found\n\n18 peers now. I've updated. Please share with your friends. Please suggest me good sites for snapshot.",
+				"added": 1470951268
+			},
+			{
+				"comment_id": 3,
+				"body": "> [zerocrat](#comment_10_1M4Ab8CUu3byziHVvNXLHmPezC4Lg9hvNJ): Do you mean archive services?\n> https://archive.is/https://archive.org/web/http://megalodon.jp/\n\nYes, but for work in ZeroNet.",
+				"added": 1470963760
+			},
+			{
+				"comment_id": 4,
+				"body": "> [quadrangle](#comment_30_1CTut2qbaj54ZjNoYeuWSGwV75iVieKY6N): I've got a much better address that you could use\n> 1ARK1VER6eZvBiCrfQJnfQZJfroZx2ycnb\n\nHow can I use it?",
+				"added": 1470963824
+			},
+			{
+				"comment_id": 6,
+				"body": "> [p2p](#comment_191_13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ): Great!I'v shared an automated rsync snapshot script here http://127.0.0.1:43110/Talk.ZeroNetwork.bit/?Topic:4_13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJBut my personal machine is not running 7*24. If your machine always keeps running and your snapshots are easily accessed by other people, it would be much better.Maybe you can snapshot all the ZeroTalk clones of other languages whose links are at the top of this page.\n\nThanks. I've wrote you a email.",
+				"added": 1471011134
+			},
+			{
+				"comment_id": 12,
+				"body": "> [quadrangle](#comment_31_1CTut2qbaj54ZjNoYeuWSGwV75iVieKY6N): I emailed you the keys. I'm not exactly sure since I'm terrible at this webdev stuff but I think you have to switch out the address with the new one and the old private key with the new one.\n> I don't know if this is bad security wise and if it is you should probably just generate your own custom address but it just seemed like the perfect address.\n\nThanks :)\nTo increase security, how can I change the private key?",
+				"added": 1471015453
+			},
+			{
+				"comment_id": 13,
+				"body": "> [quadrangle](#comment_32_1CTut2qbaj54ZjNoYeuWSGwV75iVieKY6N): You can't, they are linked. You have to use vanitygen to generate a new address and private key together.\n\nHow can I use vanitygen to generate a custom address?",
+				"added": 1471016315
+			},
+			{
+				"comment_id": 14,
+				"body": "> [quadrangle](#comment_33_1CTut2qbaj54ZjNoYeuWSGwV75iVieKY6N): https://en.bitcoin.it/wiki/Vanitygen\n> You download it, then assuming it's the windows version you cd into the folder and type oclvanitygen 1<YOURSTRINGHERE> to use your GPU or vanitygen 1<YOURSTRINGHERE> to use your CPU, GPU is way faster\n> The longer the string, the harder it is to find the address so the longer it is. I got lucky with that address since it was 6 characters entered but it just happened to get that R as well which would add something like 10 hours to the generation time normally at full GPU usage. 6 characters only takes around 5 minutes and anything shorter is almost instant.\n\nThanks, I've now generated. How can I apply my generated address in ZeroNet?",
+				"added": 1471017398
+			},
+			{
+				"comment_id": 15,
+				"body": "> [revolutionary](#comment_14_1JHrskNwA3oo9gxvCbo3Q1RZTUuKCDdfUa): Thanks, I've now generated. How can I apply my generated address in ZeroNet?\n\nHi, I've successfully published: http://127.0.0.1:43110/1ARCHYFfke9k3Jbj9uVXmbeDV9XueK3hLA/\nThanks for your help! :D",
+				"added": 1471019669
+			},
+			{
+				"comment_id": 16,
+				"body": "> [revolutionary](#comment_15_1JHrskNwA3oo9gxvCbo3Q1RZTUuKCDdfUa): Hi, I've successfully published: http://127.0.0.1:43110/1ARCHYFfke9k3Jbj9uVXmbeDV9XueK3hLA/Thanks for your help! :D\n\nFor who whant know how use VanityGen for create site with custom address:\nSimply generate your address, anotate the generated address and the private key, create a new folder (in data folder) named as your generated address, access your new site, in sidebar sign with your private key and then publish.",
+				"added": 1471019788
+			}
+		],
+		"4_13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ": [
+			{
+				"comment_id": 5,
+				"body": "Nice! Thanks. But this don't matter my project.",
+				"added": 1471010728
+			},
+			{
+				"comment_id": 7,
+				"body": "I've wrote you a email.",
+				"added": 1471011149
+			}
+		],
+		"1_1HvZzixBMnPehyouwx83zNYK3E97MrUVxS": [
+			{
+				"comment_id": 8,
+				"body": "> [deafboy](#comment_32_1xf9XC4Nsa7YfQWFiK6xGsNDJA3AaCTUa): I often wonder who exactly is the \"we\" in statements like this.\n\nI agree. He is homophobic, WE not.",
+				"added": 1471011645
+			},
+			{
+				"comment_id": 9,
+				"body": "> [betatester2](#comment_12_1C6qdRAX8iYqSB7TfUxk91yW8Y2SBKNgfA): I'm very saddened to see such an homophobic comment in ZeroNet. I’m using ZeroNet almost since day one and was hoping it would attract educated .\nZeroNet is the place for people that are sad about our system. I agree, here isn't place for homophobic comments.",
+				"added": 1471011706
+			},
+			{
+				"comment_id": 10,
+				"body": "We do not have a reputation system, yet. But if have - I'm sure the reputation of a homophobic like you - will be more low than the reputation of a gay!",
+				"added": 1471011777
+			},
+			{
+				"comment_id": 11,
+				"body": "ZeroNet is place of truly open minded people. Here isn't your place.",
+				"added": 1471011879
+			}
+		],
+		"8_19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ": [
+			{
+				"comment_id": 17,
+				"body": "How can I implement the merge feature to my website?\nWill be nice a feature in ZeroNet for receive notifications in Hello page :D",
+				"added": 1471023663
+			}
+		],
+		"1_1EBRsDJo4qKthFXgCDGnGEXZxdwhGrtLp2": [
+			{
+				"comment_id": 18,
+				"body": "There a secret order that is on top of all world.",
+				"added": 1471043721
+			}
+		],
+		"1_1Dj5WCaPV2r18QcDQFHmyx2HnGmwMJce9b": [
+			{
+				"comment_id": 19,
+				"body": "> [gdfsgsdfg](#comment_1_1B6K3CdEdkDqn2vbe4sURDAGMV1xeFpf3t): That's just communist nonsense.What men need to do, and some already do so, is either find ways to generate electricity or go without.  For six thousand years man did not use electricity.  It is not the \"end-all-be-all.\"And if a man is not willing to purify water for his family, or find clean water then he is not noble or decent.\n\n\"That's just communist nonsense.\"\nFrom a man with the name \"gdfsgsdfg\", that was possible wrote with your head on keyboard instead of fingers, is compreensive your comment. Please return to surfacenet, you capitalist plague!",
+				"added": 1471043957
+			}
+		]
+	},
+	"comment_vote": {
+		"1_1JHrskNwA3oo9gxvCbo3Q1RZTUuKCDdfUa": 1,
+		"165_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf": 1,
+		"12_1C6qdRAX8iYqSB7TfUxk91yW8Y2SBKNgfA": 1,
+		"32_1xf9XC4Nsa7YfQWFiK6xGsNDJA3AaCTUa": 1,
+		"13_1BFTNXtYQDMCurqyg45KLmsV6oJD7bQSsH": 1,
+		"19_1JHrskNwA3oo9gxvCbo3Q1RZTUuKCDdfUa": 1
+	}
+}

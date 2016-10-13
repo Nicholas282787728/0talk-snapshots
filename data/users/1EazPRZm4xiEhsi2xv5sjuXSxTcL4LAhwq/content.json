@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "G6S/h8gUvTqIAEjkX/GI26HAU57U17CU+0h/3Uz2eGrwp7YmtEPDC59WKNK7Mqmlxth9MlNGm81zvNNAPRPb1wM=",
+ "cert_user_id": "icaroperseo@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "20b7f411518294e3a8c1eddbcf62a3a2faac462c8078b52728220ebf6d08788d",
+   "size": 209
+  }
+ },
+ "inner_path": "data/users/1EazPRZm4xiEhsi2xv5sjuXSxTcL4LAhwq/content.json",
+ "modified": 1457586276.062393,
+ "signs": {
+  "1EazPRZm4xiEhsi2xv5sjuXSxTcL4LAhwq": "HAbsyqveN9Tx0DS6C/yTNh3/tisn7zvXaf24rVyn9lNpYeN5TBBkR/zb7UFvIyRFhoouRN5kIq3L0r7FkAeRprE="
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HIvyKcbw5+PFPHJhGA770QhmwhFPwBIutgN9TZbCGA0lFef6QNNxanhtIiEP2izzPOIgyeFSFyltEzf0CjcTsLE=",
+ "cert_user_id": "orangedugongo@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "a1efb79e386ce9aa7c2f07c1eab9b50818544a59a6630a09e824092b84de84a6",
+   "size": 449
+  }
+ },
+ "inner_path": "data/users/17Y76A97fwqtoTXaCedsmzsFL1D2VcwMnL/content.json",
+ "modified": 1458164749.003591,
+ "signs": {
+  "17Y76A97fwqtoTXaCedsmzsFL1D2VcwMnL": "G4Tgcghvy93F6ZxlqWi27Ce9WRbuIBWN9+zB/2uiyNJOz7gYUXC49ho0HjOPVl0pKJFFzztPGg+Z/lmSrVmlR4Y="
+ }
+}

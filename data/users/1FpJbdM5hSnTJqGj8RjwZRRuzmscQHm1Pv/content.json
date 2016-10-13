@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HPDKDFYWDfMLwPQ06+DoDUbM9CXzVlD8WiOGi0lEGPcK8RyXjWMqYNp2bC9ca/3J1Wp4oOul2qZY5SamJ+Zsh/M=",
+ "cert_user_id": "lasgaemelasuda@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "e574267031d27608295490286a3d409bac225a40d886703070f0b1385a9473b4",
+   "size": 239
+  }
+ },
+ "inner_path": "data/users/1FpJbdM5hSnTJqGj8RjwZRRuzmscQHm1Pv/content.json",
+ "modified": 1457703865.745,
+ "signs": {
+  "1FpJbdM5hSnTJqGj8RjwZRRuzmscQHm1Pv": "HA8jRCliWy1Daa2jKgDFCTLOjUI96vOrHk43dDqGHBcCnkb5nrb1GIIvDTIxuzP0u0fLnoQF+BvkmgGxkEw3fYE="
+ }
+}

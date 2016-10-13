@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "GzyJR+pvXiT1XwhoSlmPDFnQwoojTb1X6om3/hrELGSinvBHUNx0ZRxjprCoWVhFV62V8mY1EdNGBTlr/uehDTQ=",
+ "cert_user_id": "leak@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "1511b6ce6b23eeca3b10ceda08c9ab8e27d9cc2d090652fa11283a7f4720f943",
+   "size": 240
+  }
+ },
+ "inner_path": "data/users/1GkdTjqkb4Xqy6hRDd7Ma6uVVLX5uNLQz4/content.json",
+ "modified": 1473324677.814885,
+ "signs": {
+  "1GkdTjqkb4Xqy6hRDd7Ma6uVVLX5uNLQz4": "HPtSad1qjcFDy1Aqp9nC2E8c6be9s6E/KgaKS629vU3BqQn1TrkooK7IlrxhGHEdAiOPZXWHaEWrSIlDvuLXssk="
+ }
+}

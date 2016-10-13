@@ -1,0 +1,28 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "¿Quién habla español?",
+			"body": "¿Listos para crakear?",
+			"added": 1459272941
+		}
+	],
+	"topic_vote": {},
+	"next_comment_id": 3,
+	"comment": {
+		"1_19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ": [
+			{
+				"comment_id": 1,
+				"body": "¿Por qué no hay películas en español?",
+				"added": 1459273025
+			},
+			{
+				"comment_id": 2,
+				"body": ":v",
+				"added": 1459273250
+			}
+		]
+	},
+	"comment_vote": {}
+}

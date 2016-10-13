@@ -1,0 +1,16 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 2,
+	"comment": {
+		"1_16m4KFYTxwbNsMUau3t493txwvHxnwb3b9": [
+			{
+				"comment_id": 1,
+				"body": "is that site dead already ?",
+				"added": 1457870743
+			}
+		]
+	},
+	"comment_vote": {}
+}

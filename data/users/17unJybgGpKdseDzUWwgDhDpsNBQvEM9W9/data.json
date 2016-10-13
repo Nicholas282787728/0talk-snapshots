@@ -1,0 +1,21 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 3,
+	"comment": {
+		"1_1MhL8nWAcuB5YxbhyYgEHNvsToUtQutRVs": [
+			{
+				"comment_id": 1,
+				"body": "It's the size of your data.json file. Check out your local copy of ZeroNet\\data\\1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT\\data\\users\n\nLimits can be increased by the admin, I suppose by adding to permissions.\n\ndata/users/content.json:  \"permission_rules\": {\ndata/users/content.json:   \".*\": {\ndata/users/content.json:    \"files_allowed\": \"data.json\",\ndata/users/content.json:        \"max_size\": 20000\ndata/users/content.json:   },\ndata/users/content.json:      \"bitid/.*@zeroid.bit\": { \"max_size\": 40000 },\ndata/users/content.json:      \"bitmsg/.*@zeroid.bit\": { \"max_size\": 15000 }\ndata/users/content.json:  },\ndata/users/content.json:  \"permissions\": {\ndata/users/content.json:   \"bad@zeroid.bit\": false,\ndata/users/content.json:      \"nofish@zeroid.bit\": { \"max_size\": 100000 }\ndata/users/content.json:  }",
+				"added": 1457069190
+			},
+			{
+				"comment_id": 2,
+				"body": "Sorry that was from the git repo, you can see some users have their quota raised in the actual content.json:\n  \"permission_rules\": {\n   \".*\": {\n    \"files_allowed\": \"data.json\",\n    \"max_size\": 40000\n   },\n   \"bitid/.*@zeroid.bit\": { \"max_size\": 40000 }\n  },\n  \"permissions\": {\n   \"bad@zeroid.bit\": false,\n   \"ekaterina@zeroid.bit\": { \"max_size\": 100000 },\n   \"gomzik@zeroid.bit\": { \"max_size\": 200000 },\n   \"muja@zeroid.bit\": { \"max_size\": 100000 },\n   \"nippletwister@zeroid.bit\": { \"max_size\": 100000 },\n   \"nofish@zeroid.bit\": { \"max_size\": 200000 },\n   \"o4zw5vmpoz5hz78z@zeroid.bit\": { \"max_size\": 100000 },\n   \"oracle@zeroid.bit\": { \"max_size\": 100000 },\n   \"ow@zeroid.bit\": { \"max_size\": 100000 },\n   \"p2p@zeroid.bit\": { \"max_size\": 100000 },\n   \"zerobunker@zeroid.bit\": { \"max_size\": 100000 },\n   \"zeronews@zeroid.bit\": { \"max_size\": 200000 },\n   \"zozon@zeroid.bit\": { \"max_size\": 100000 }\n  }",
+				"added": 1457069306
+			}
+		]
+	},
+	"comment_vote": {}
+}

@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HGaLy5hUIHch3bBEQ/3ieSKszO+KXFj+slxFy6AD14H6LvLj/xPgoU8ZZqoYcO36gyHgHvUu0+KBzTHCpAN8DPs=",
+ "cert_user_id": "twinkle@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "4cba333ca9ba81d53dc6d793d0c5950b3d6af88b446a46c36c42a4db0a87a6d2",
+   "size": 241
+  }
+ },
+ "inner_path": "data/users/19nkQRgGbwDC9kHmH9SswPM9N1KKHRZBqt/content.json",
+ "modified": 1460962524.00371,
+ "signs": {
+  "19nkQRgGbwDC9kHmH9SswPM9N1KKHRZBqt": "G+RUYkoYt5cYYxaU/MqDeK8Z2CHt7IU7yUFSo5KaRHM57b9SPYR04Xi+ixwN4fvwHm/Tf1fvwopzEDXNrpa1vIc="
+ }
+}

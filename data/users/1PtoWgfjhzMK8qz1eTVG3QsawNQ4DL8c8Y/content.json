@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "G3i5Lutl6HfwaMxP1+ZQXvQrD0Be7bOaKrJFHYPOqhUvgg7o6uVWWhbHoT2/qTgKqAPnB7bJiYGN0iNpPvCjDLw=",
+ "cert_user_id": "preacher@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "0579fd28e600fea7324b08569168e16865cf5357f62e0602ddfc8ef6cc37493e",
+   "size": 2352
+  }
+ },
+ "inner_path": "data/users/1PtoWgfjhzMK8qz1eTVG3QsawNQ4DL8c8Y/content.json",
+ "modified": 1457291288.657286,
+ "signs": {
+  "1PtoWgfjhzMK8qz1eTVG3QsawNQ4DL8c8Y": "G89qkLuLJO+p4ALXTbfvsDNw3k2pwB4ciuj78stBrhto5NjznlttMXvMHQNZJ5XrfRiwojEroPs0Q9xQf3EjrPs="
+ }
+}

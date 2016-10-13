@@ -1,0 +1,15 @@
+{
+ "cert_auth_type": "web", 
+ "cert_sign": "HLDa2JXia44cisCDEhxIBQlF8sT6wgXwakUT8OuPcExePtnBL/y5y2fE2BVcIFk83kST2I7s5koEAg5+QKoQb3M=", 
+ "cert_user_id": "crotok@zeroid.bit", 
+ "files": {
+  "data.json": {
+   "sha512": "9f058fb958c40044f9d7000e1d613f856ee66d9b7ecb4e6fb94f82782f5f39d8", 
+   "size": 425
+  }
+ }, 
+ "modified": 1457024438.89033, 
+ "signs": {
+  "16iT9innDdczniwDgxp7FSfDNqKiYA1Qdz": "HDUR5O/gAF2NeWUkAMs2QjDi+cO5uJmbw/Wn1954DGb2QWAdVOsIWYq9qprHv3iA75BrJIHHZ4UFUSymOkstYHc="
+ }
+}

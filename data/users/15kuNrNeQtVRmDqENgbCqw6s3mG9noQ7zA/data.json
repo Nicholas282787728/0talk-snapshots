@@ -1,0 +1,77 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "FBI Drops its Case Against Apple",
+			"body": "https://threatpost.com/fbi-drops-its-case-against-apple/116918/\nYeah find some smaller players to pester fucking FBI.\nApple will sell even more phones....",
+			"added": 1458608278
+		}
+	],
+	"topic_vote": {},
+	"next_comment_id": 10,
+	"comment": {
+		"1_1JQmAwSmx4VFEbYchZGAwqC9QppdKBENsb": [
+			{
+				"comment_id": 1,
+				"body": "start  with python2 ......py",
+				"added": 1458602522
+			},
+			{
+				"comment_id": 5,
+				"body": "> [splitfire](#comment_4_14gGPfCHoaUU7PizjB6PaUmM6pZ5YV5H4f): https://aur.archlinux.org/packages/zeronet-git works perfectly for me. try to read entire thread there\n\nso true  :)",
+				"added": 1458688180
+			}
+		],
+		"1_1FQzw6BBWb8DqSgT3uMsMpcWu3uz48bEDX": [
+			{
+				"comment_id": 2,
+				"body": "> [plavojabuka](#comment_2_158KZsYQsNp4j4kiPrkqXvTPRewEXeP24W): the creator of that site put up the private key so that the community could publish whatever they wanted to that site.   if you look at  data/1FqhRosMouo37Z8iDpLTEPvfznBq1b4N4w/index.html you can see that someone just edited the html to be that pic which can be found with a quick google search.tl:dr the fbi didnt seize anything its just a pic.\n\nx2 look at the pic.name didn't even toke the courtesy to rename it properly 2",
+				"added": 1458687055
+			}
+		],
+		"1_15kuNrNeQtVRmDqENgbCqw6s3mG9noQ7zA": [
+			{
+				"comment_id": 3,
+				"body": "Well whatever the deal is they turbo fixed the known flaws :)\nhttps://threatpost.com/apple-patches-serious-imessage-crypto-flaws/116906/",
+				"added": 1458687355
+			}
+		],
+		"2_16odYTnUpF26qivssGsSuwpLgdMQkvK8qh": [
+			{
+				"comment_id": 4,
+				"body": "Targeting innocent working people is the lowest form of getting a message out. \nEven Rats are smarter.",
+				"added": 1458688068
+			}
+		],
+		"10_17i7Y7r8nTaCfLbCAuaKyc4R5BbKZYU2Hr": [
+			{
+				"comment_id": 6,
+				"body": "runbox.com",
+				"added": 1458704003
+			}
+		],
+		"4748_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG": [
+			{
+				"comment_id": 7,
+				"body": "fuck the dutch mentality, remember diginotar ssl's, there all short term thinking wannabe's and will bravely do what the established order will ask of them.",
+				"added": 1458940455
+			}
+		],
+		"4744_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG": [
+			{
+				"comment_id": 8,
+				"body": "for now maybe...",
+				"added": 1458940539
+			}
+		],
+		"1_1BQg5MQZ63aEQZMzLEXP6yY3hsgznKpaps": [
+			{
+				"comment_id": 9,
+				"body": "Arch is the only 1 for me",
+				"added": 1458940734
+			}
+		]
+	},
+	"comment_vote": {}
+}

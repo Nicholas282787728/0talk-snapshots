@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "G7i/Bc0M8bRLJFAfb+PGiEeGlsShojIskMLfL4wfTd0EZn2XDPvjT0L6SPYhGG7gpzuR9sh9tiaxByT7j4c+oCU=",
+ "cert_user_id": "excel000@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "f3bfd38824ce002ad08ca69998c4d8ecc1fa7d7c7dad91cb0e464115b8278372",
+   "size": 603
+  }
+ },
+ "inner_path": "data/users/1Cq3f8r7jiiYuVJfrTDUrenioiRn9TMASV/content.json",
+ "modified": 1473437742.723,
+ "signs": {
+  "1Cq3f8r7jiiYuVJfrTDUrenioiRn9TMASV": "G4/pT/FavRNgL9DN1DG3FdmkeslnlEzIr2JXXWyL+EBRJpbB55JIPA2h/lAdhLwXHObz6attIYtTdJzmbuqUS1M="
+ }
+}

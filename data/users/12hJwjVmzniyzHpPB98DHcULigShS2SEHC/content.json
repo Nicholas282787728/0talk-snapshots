@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "G5qLnkbTS0V9cOQ9lKZ7Bk2mEutMLEima1Xx75MqhCWrd/1yiKmUNPau5DYKd1agFsyYSCWD4tPd203rWSu40Pk=",
+ "cert_user_id": "computerfreak6@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "3d4d440b0e43aed0156d1be334b13935b32166643fd599cd578ba1dcf327a6ec",
+   "size": 485
+  }
+ },
+ "inner_path": "data/users/12hJwjVmzniyzHpPB98DHcULigShS2SEHC/content.json",
+ "modified": 1457805234.452226,
+ "signs": {
+  "12hJwjVmzniyzHpPB98DHcULigShS2SEHC": "GzUcegW2YkexLKaU8pH38XK9DwAygFTNHxuNGPpgDAob6uFNRwy+Oa8YWvHpXD36pLU4kF9ZuY/ajnZY2a66/lk="
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HKwencOKVheSyTZih3Nj0v7kva5vf9TTkUfOnhKVrBMDgvkz7dEFw1y1P1atGMGfKZNyBfoPBPKZ29HFxjfWGXo=",
+ "cert_user_id": "haskell@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "ed9f73c52aa0ed94b76c3c67aac80bd18faa1356034c7ca40c81f9c084442510",
+   "size": 1653
+  }
+ },
+ "inner_path": "data/users/1KA9sLxVY9KBmdEV73UqXXQhDe4ZS8k3LY/content.json",
+ "modified": 1468486270.590595,
+ "signs": {
+  "1KA9sLxVY9KBmdEV73UqXXQhDe4ZS8k3LY": "HD3aTwt+OpEi10Hho4hQrONj42zdkiAS/Utd7CKec+yVrrG/P05EZckRxOtB7myhPHnVBOXmzaSDiPYVQBdomUE="
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HKxk4DM/wHpLc5qFuzQvDrk8+iAsoBop+XLVDAJPw+yIuubv47gzIpoY6dYA1P/o0JQ8Quj0ZBX3kkb5vSsTUpI=",
+ "cert_user_id": "fafa@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "aeb7ff041dc3b9aaac13357f0f1dda348c1fd6fe47bc172a1a13dea2f5565af6",
+   "size": 242
+  }
+ },
+ "inner_path": "data/users/12WM9WbJjNB7QfmZTxSrYZkGhpuBv8spJi/content.json",
+ "modified": 1461124137.041,
+ "signs": {
+  "12WM9WbJjNB7QfmZTxSrYZkGhpuBv8spJi": "G/xd6OAB5q4npzL5+ZsyakZ3fzkdb8MOeFjgdOOkpo1tHHEm1VQz0+Iiva/vRk1iOLkA721jtYxuYRRPV2ha5TM="
+ }
+}

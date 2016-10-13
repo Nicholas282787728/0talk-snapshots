@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "G8xcDfGyIE3qvLGU21enREkxJ1r1Vx7mncU2cEZs5X5/Tscx+hWwTG/digyT42AEYHKoHV4Caes4XvpagLfQJZw=",
+ "cert_user_id": "veckoff@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "a8045ef2a99fd28244dc314dad69281c5f2475cf203dc13da4c7c3a8fba9bd0a",
+   "size": 270
+  }
+ },
+ "inner_path": "data/users/136Gy1TgLoykTBJzWfBCcmVrctB4VzNCPU/content.json",
+ "modified": 1470706201.724,
+ "signs": {
+  "136Gy1TgLoykTBJzWfBCcmVrctB4VzNCPU": "G3j8L7saKOw+Ssap5xCzJLNXx312X3M63AlRnca9T14c0HDQ8FgHIWhCOKn9ayXkFiHlYDTlfsPl3asIDHlhVTM="
+ }
+}

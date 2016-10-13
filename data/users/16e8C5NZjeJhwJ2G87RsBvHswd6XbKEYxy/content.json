@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HO3nJF8rB/KkY5nFJ6PGz7i0NMIhUUjXWMEEpl/3AzznJRON6f4X5GqO8lZ03SwuWRFnyOfkY9s9MGhpmgH+8cw=",
+ "cert_user_id": "poliszzimniok@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "5f924641330836484a9b56bd6701006233c85b45cad7b07f56f5f417c907e164",
+   "size": 861
+  }
+ },
+ "inner_path": "data/users/16e8C5NZjeJhwJ2G87RsBvHswd6XbKEYxy/content.json",
+ "modified": 1456912487.042,
+ "signs": {
+  "16e8C5NZjeJhwJ2G87RsBvHswd6XbKEYxy": "G9Zm/vHgk8fER7dAy8IHjCCTxcmxBFAt/3rCKUvoBKQSAD0I33MeD8qJ9Qi86pPg4D6WJolp31Aew+o5ulxG2OU="
+ }
+}

@@ -1,0 +1,23 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 3,
+	"comment": {
+		"1_19ayk8E29EihqeEqZCXFpanBQm9Z63USEB": [
+			{
+				"comment_id": 1,
+				"body": "Hi，比特币爱好者：）",
+				"added": 1460010720
+			}
+		],
+		"1_18jipjDsfAxAuq4ixbi2w24xJrYVfTYFPn": [
+			{
+				"comment_id": 2,
+				"body": "Beijing, China",
+				"added": 1460014405
+			}
+		]
+	},
+	"comment_vote": {}
+}

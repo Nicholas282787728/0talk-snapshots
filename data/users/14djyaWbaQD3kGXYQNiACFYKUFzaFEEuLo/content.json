@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "Gw452S7EHDnVHV0CQxIRKCJZajdwRet+Btdpmxl52F51OZOfenvraZjW9+4dsDf+YwJXj4kVn7wRV2XP8yBbqJA=",
+ "cert_user_id": "vultraz@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "4f51e2a02e52a098442575f2dd59277822bc15ba75681b58e642129b95e7e5bd",
+   "size": 1022
+  }
+ },
+ "inner_path": "data/users/14djyaWbaQD3kGXYQNiACFYKUFzaFEEuLo/content.json",
+ "modified": 1472990120.787,
+ "signs": {
+  "14djyaWbaQD3kGXYQNiACFYKUFzaFEEuLo": "G7D5QQdqAvwifr1Ec29vmPlY1CrvjPanAExMmn6thU+Vmw7m+iobqYj4B3/4lUJffS8nJeSt1Hzyd0rh3Vjssb0="
+ }
+}

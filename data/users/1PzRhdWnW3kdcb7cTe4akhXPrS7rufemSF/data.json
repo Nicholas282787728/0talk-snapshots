@@ -1,0 +1,19 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {
+		"2_1GCsW9TFfjDsvcdmKPADq1n8Q3ha72UtDQ": 1,
+		"3_168qV1Xxp2EyszrzdECLUwXrn9wGYjDdar": 1
+	},
+	"next_comment_id": 2,
+	"comment": {
+		"2_1GCsW9TFfjDsvcdmKPADq1n8Q3ha72UtDQ": [
+			{
+				"comment_id": 1,
+				"body": "Definitely Ruby!",
+				"added": 1456994876
+			}
+		]
+	},
+	"comment_vote": {}
+}

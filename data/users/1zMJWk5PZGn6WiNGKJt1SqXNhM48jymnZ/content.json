@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HEZvqNnZ5LutPPBUp8svYNIUfkMHfaObVpUUDauE5U98YSdQiuup9aVzWls5VrvVHWAvWnv8B/enoEyJRt54z3Q=",
+ "cert_user_id": "lepisma@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "73054ab22daaa5d1ba6d6722a4591363083a271df69bc501190daaf8fc94517f",
+   "size": 162
+  }
+ },
+ "inner_path": "data/users/1zMJWk5PZGn6WiNGKJt1SqXNhM48jymnZ/content.json",
+ "modified": 1456995195.052,
+ "signs": {
+  "1zMJWk5PZGn6WiNGKJt1SqXNhM48jymnZ": "HN4xsTcI1Z8xAwz++0kqaw45HW7G8Rq5L6+8SJ1uC+jUa8dL6Ktqd3ik/Vj2MuFEYTf2iR07Gz/nyXVkoSwqHOs="
+ }
+}

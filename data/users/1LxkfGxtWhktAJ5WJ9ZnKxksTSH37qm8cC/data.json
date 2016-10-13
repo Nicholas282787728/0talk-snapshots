@@ -1,0 +1,196 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "Big File Splitting Test",
+			"body": "I created a site to test my experimental script of downloading big files (currently 5MB). Can anyone have a look and test it out?\nhttp://127.0.0.1:43110/1CiDoBP8RiWziqiBGEd8tQMy66A6fmnw2V/",
+			"added": 1472389975
+		}
+	],
+	"topic_vote": {
+		"7_1CHcEy3SYsQvrW9uskKTZxUWj97BmZmvfa": 1
+	},
+	"next_comment_id": 30,
+	"comment": {
+		"4_1EMpuiFM1NLZmAVyoAWnwi8VwiZVV4dcnN": [
+			{
+				"comment_id": 1,
+				"body": "I suggest the site owner record each player's input and replay most players' route when we play it. Then, we can see thousands of birds crashing into pipes. //",
+				"added": 1459086787
+			}
+		],
+		"10_1MEWJRMLgvofqG9Mbsb2Rc4hFFyv7HeRx7": [
+			{
+				"comment_id": 2,
+				"body": "The Deep Dark Fantasy.",
+				"added": 1459129034
+			},
+			{
+				"comment_id": 3,
+				"body": "The Deep Dark Fantasy.",
+				"added": 1467645087
+			}
+		],
+		"1_1PPVb3FDDiNyNqbdb5UAv8ykEC1K1Nwquy": [
+			{
+				"comment_id": 4,
+				"body": "They are .bit domains of NameCoin. http://127.0.0.1:43110/blog.0list.bit/",
+				"added": 1472393339
+			}
+		],
+		"1_1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC": [
+			{
+				"comment_id": 5,
+				"body": "> [tkarita](#comment_119_1GervYZoP82e8X1Rgc4wyMkJY2zSsJuq8t): Nice.  In Firefox, the embedded player vanishes just after downloading, which makes the file difficult to play.  It seems to be reassembled successfully, though.\n\nI added a link to download the file. Could you see it now?",
+				"added": 1472398217
+			},
+			{
+				"comment_id": 7,
+				"body": "> [tkarita](#comment_122_1GervYZoP82e8X1Rgc4wyMkJY2zSsJuq8t): Oops, I missed this.  The download link works well enough.  Is Firefox ignoring the usual methods for setting a default filename?\n\nYes. It is possibly a bug.",
+				"added": 1472482420
+			},
+			{
+				"comment_id": 8,
+				"body": "> [waterrabbit](#comment_7_1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC): Yes. It is possibly a bug.\n\nIt is probably a bug of Firefox. The renaming works well in Chrome.",
+				"added": 1472520377
+			},
+			{
+				"comment_id": 10,
+				"body": "> [tkarita](#comment_123_1GervYZoP82e8X1Rgc4wyMkJY2zSsJuq8t): The video works better.  Strangely, Firefox's HTML5 player controls don't work, but \"play\" from the context menu does.  What are you using to chop up the files and hash the pieces?\n\nPython.",
+				"added": 1472541010
+			},
+			{
+				"comment_id": 12,
+				"body": "http://127.0.0.1:43110/1CiDoBP8RiWziqiBGEd8tQMy66A6fmnw2V/\nFirefox users can now play the video when it is still being downloaded.\nThe player will show up when the first 1/5 of the progress bar has been filled.\n\nPlease click on the links labelled **Stream** if you would like to test this feature. I was not realized that the first two videos are not streaming friendly.\n\nThere is a Chrome bug that prevents the program from accessing Source Buffer in a sandboxed iframe. That bug has been found and reported several years ago, but not yet been fixed.",
+				"added": 1472737040
+			},
+			{
+				"comment_id": 13,
+				"body": "Thanks everyone who has been testing and seeding it. It is 50MB now, if you download **all** of the files.",
+				"added": 1472737117
+			},
+			{
+				"comment_id": 21,
+				"body": "http://127.0.0.1:43110/1CiDoBP8RiWziqiBGEd8tQMy66A6fmnw2V\nNow the big file streaming script is checking the hash of the big, reassembled file in a Web Worker.\n\nI tested it against a 200MB file. When the hash of the big file was being checked, the web page still responded to scrolling and video seeking.\n\nThough it is not necessary to check the hash of the reassembled file, I worked out a way to use Web Workers in ZeroNet's `iframe` without running into any cross origin errors.\n\nIf a cross origin error causes `new Worker(\"async-hash.js\");` and `importScripts('asmcrypto.js');` to fail, putting the content of the script into a `blob:` URL can bypass this error.",
+				"added": 1473599513
+			},
+			{
+				"comment_id": 23,
+				"body": "http://127.0.0.1:43110/1CiDoBP8RiWziqiBGEd8tQMy66A6fmnw2V\nThe MP4 multiplexer, written completely in JavaScript, is finally live on my website!\nIf you are using **Firefox**, you can **play any video** on that page as you are **buffering** it.",
+				"added": 1473925027
+			}
+		],
+		"1_1JecQYorYpL9F9vArLj13LKvc3v3iSdDHA": [
+			{
+				"comment_id": 9,
+				"body": "> [kuuuurija](#comment_1_1JecQYorYpL9F9vArLj13LKvc3v3iSdDHA): Thanks.But it will also block my access to regular internet, right?\n\nYes. (so I use two browsers)",
+				"added": 1472540979
+			}
+		],
+		"6_1KzaKud9cUZB7HcgHnhrZqyuq2NnTeW6PR": [
+			{
+				"comment_id": 11,
+				"body": "> [jarmund](#comment_4_1CiHRyU3rHFGR1rEyTPDYH7xjN99iPZkBJ): Why? I'm not a Tor users but I don't know why is it a problem to have many Tor users on Zeronet?\n\nZeroNet's --proxy and --tor options do not work together, ~~so if you are using Tor, your will be connecting to Tor users only.~~\n\nIf more non-Tor users come, there can be more active seeders on the clear net.\nIf more Tor users come, there can be more active seeders on the Tor network.",
+				"added": 1472642129
+			}
+		],
+		"5_1C6qdRAX8iYqSB7TfUxk91yW8Y2SBKNgfA": [
+			{
+				"comment_id": 14,
+				"body": "> [nofish](#comment_748_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): ZeroNet does not modify your browser, so if any of the sites has files linked from the clearnet, then your browser will use standard connection. To avoid this you can run ZeroNet is Tor browser.\n\nYeah, blame your browser... or simply, set your proxy to `0.0.0.0 : 6666`, no proxy for `127.0.0.1`",
+				"added": 1473125288
+			},
+			{
+				"comment_id": 15,
+				"body": "Have a look at Erkan's blog. http://127.0.0.1:43110/zeroblog.bit/?Post:60:protect+yourselves:+set+a+non-working+proxy\n\nHe wrote a blog for people who are highly paranoid, like me, but it's a pity that he is too busy in his real world life to continue writing now.",
+				"added": 1473125492
+			},
+			{
+				"comment_id": 17,
+				"body": "If you are really paranoid, being afraid of javascript exploits, you can also use a virtual machine.",
+				"added": 1473250927
+			}
+		],
+		"1_1JgHfDK4eojCkVZHKey9hiMAcAc9mxMUK2": [
+			{
+				"comment_id": 16,
+				"body": "[ZeroBlog Lab](/1CiDoBP8RiWziqiBGEd8tQMy66A6fmnw2V/)",
+				"added": 1473126259
+			}
+		],
+		"2_19M1DT5vruSATEcbEczYRwCk2uPuLcATBa": [
+			{
+				"comment_id": 18,
+				"body": "Nofish, the ZeroNet developer, is working on it.",
+				"added": 1473297567
+			}
+		],
+		"2_1NLKyC1Eq7gZeRKZ6oPN45wMWorx9yFWUW": [
+			{
+				"comment_id": 19,
+				"body": "Clone this site.",
+				"added": 1473312346
+			}
+		],
+		"1_15WJPhvY6MCRGdWoJXsLUE7FjhWXsTjN6V": [
+			{
+				"comment_id": 20,
+				"body": "It works like a Bitcoin wallet.",
+				"added": 1473516249
+			}
+		],
+		"1_1DBjD2Xf1DymmjxEi5K7aeoaRByAAXBvFW": [
+			{
+				"comment_id": 22,
+				"body": "Click on the \"up vote\" button to up vote. Click on it again to cancel your vote.",
+				"added": 1473778384
+			}
+		],
+		"1_1LE1ngFyG62KJC1Q7G2xyZGjaB2QubXSi9": [
+			{
+				"comment_id": 24,
+				"body": "> I think the solution to that would be to have multiple people who know the private key, all over the world .\nBesides it, at least one people must make an announcement to tell visitors to backup the site and stop accepting site updates (pause)",
+				"added": 1474501178
+			}
+		],
+		"1_1NmwA9EFPu94QaN7yMYpzu2iSg1dGAYV6n": [
+			{
+				"comment_id": 25,
+				"body": "`wget --no-check-certificate `\n\nAre you sure?",
+				"added": 1475517486
+			}
+		],
+		"1_1Nv4Sz7ExDb5tJBZt27RwWWkUvQ8JFosFM": [
+			{
+				"comment_id": 26,
+				"body": "ZeroNet has an [\"optional\" file](https://zeronet.readthedocs.io/en/latest/site_development/content_json/#optional) feature. An optional file is not downloaded and saved until a site visitor wants to see it.\n\nZeroNet also keeps track of site size and inform site visitors to increase the size limit.",
+				"added": 1475952410
+			}
+		],
+		"4_1CHcEy3SYsQvrW9uskKTZxUWj97BmZmvfa": [
+			{
+				"comment_id": 27,
+				"body": "Hi, here is the homepage of project ZeroMux as well as my personal blog: http://127.0.0.1:43110/1CiDoBP8RiWziqiBGEd8tQMy66A6fmnw2V/\nThe big files on the site are marked as \"optional\" If you like to, please also help distribute the big files.",
+				"added": 1475952930
+			}
+		],
+		"8_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": [
+			{
+				"comment_id": 28,
+				"body": "> [redpill](#comment_1_1HRqipL1thbTsztjAvhN76qkzQBZ1k93nJ): How do we know this isn't a joint effort project prism  like honeypot project?\n\nSource code: https://github.com/HelloZeroNet",
+				"added": 1475955763
+			}
+		],
+		"2_137PNA5gLgCTLZTBtzUqCmMoZ752NQGQSJ": [
+			{
+				"comment_id": 29,
+				"body": "<meta name=\"referrer\" content=\"no-referrer\">\n<link href=\"./css/font-awesome-4.0.3.css\" rel=\"stylesheet\" crossorigin=\"anonymous\">\nHave a try...",
+				"added": 1476307933
+			}
+		]
+	},
+	"comment_vote": {
+		"19_1EZG8eDkCFvNkYxpHmr2WbGWcSxAsRfqTT": 1
+	}
+}

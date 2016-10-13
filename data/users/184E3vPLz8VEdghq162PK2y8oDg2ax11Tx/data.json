@@ -1,0 +1,22 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {
+		"1_1B3Qp9qTd3Yw6iYbwdu3ay9Q4hvV9cbtyx": 1
+	},
+	"next_comment_id": 2,
+	"comment": {
+		"1_1B3Qp9qTd3Yw6iYbwdu3ay9Q4hvV9cbtyx": [
+			{
+				"comment_id": 1,
+				"body": "https://www.youtube.com/watch?v=-r-B1uOj0W4 this talk by one of PPP is pretty good, and there's resources that will point you further at the end. Have fun :)",
+				"added": 1456996802
+			}
+		]
+	},
+	"comment_vote": {
+		"4_1PJVSC1FHaZpkkbZqVGJcMrKrYTGmYN6rM": 1,
+		"1_184E3vPLz8VEdghq162PK2y8oDg2ax11Tx": 1,
+		"12_1PX7VW6xfccTT2tNUTwrYKJpGsGfrnoJfP": 1
+	}
+}

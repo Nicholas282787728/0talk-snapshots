@@ -1,0 +1,24 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "Automatic opening of web interface on start should be configurable from that interface",
+			"body": "Users may not use default browser for Zeronet or not want another start page tab on every restart. It also kills automation (however, anyone who understands the need for automatic daemon management is probably capable of editing one line in start.py).",
+			"added": 1459234962,
+			"parent_topic_uri": "2_18rFd7W9y5QGQEVXaCoJV7jyt7D8aN156h"
+		}
+	],
+	"topic_vote": {},
+	"next_comment_id": 2,
+	"comment": {
+		"10_1MEWJRMLgvofqG9Mbsb2Rc4hFFyv7HeRx7": [
+			{
+				"comment_id": 1,
+				"body": "“Deep web” and “dark net” are now meaningless media terms to use in clickbait headers and vain sensationalist articles. The fact that seemingly technical people participate in such bullshit discussions is a downer. Go read some papers on Freenet or Tor to understand how little can actually be made anonymous and private.",
+				"added": 1459232914
+			}
+		]
+	},
+	"comment_vote": {}
+}

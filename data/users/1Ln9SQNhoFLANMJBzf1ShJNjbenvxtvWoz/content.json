@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "G6xwMR9xLI4nT+qDHlOHkzZPzJG6Wb8V3x0/oPjbM5JQX+ZFFwl38oj19WfOFlm5frmITfMlQbGFFrcbeU4/B2M=",
+ "cert_user_id": "donaldtrump@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "04f3edf05b1e7394213082750f17281cf356112edd782c76a54c78469559828c",
+   "size": 300
+  }
+ },
+ "inner_path": "data/users/1Ln9SQNhoFLANMJBzf1ShJNjbenvxtvWoz/content.json",
+ "modified": 1464050767.175,
+ "signs": {
+  "1Ln9SQNhoFLANMJBzf1ShJNjbenvxtvWoz": "HHO62Wv0BYQuFtSlsLI3RuutGxFQBRR9ehYTeEEJQWq/nZHc2IS/S42tvszpeROg8KlLZT0jjtUuCskP/xBVPS0="
+ }
+}

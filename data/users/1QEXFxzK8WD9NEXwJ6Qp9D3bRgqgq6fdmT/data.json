@@ -1,0 +1,33 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 5,
+	"comment": {
+		"2_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": [
+			{
+				"comment_id": 1,
+				"body": "Looks amazing so far. I have not been able to get the ZeroMail to work yet, but I assume it's still under development.",
+				"added": 1454027597
+			},
+			{
+				"comment_id": 2,
+				"body": "Anybody here?",
+				"added": 1454183608
+			}
+		],
+		"1_1Ao1FGCWvNNwf4Y4KMKJp9HgPbseU7gE31": [
+			{
+				"comment_id": 3,
+				"body": "Several good apps you can use for encrypted Voip, including Tox over Tor, or Bittorrent Bleep. Not sure if Bleep can be configured to work over Tor though.",
+				"added": 1457143442
+			},
+			{
+				"comment_id": 4,
+				"body": "Bleep can do VOIP from mobile device. Tox only works for text messaging from mobile device, but does video/audio from PC.",
+				"added": 1457143492
+			}
+		]
+	},
+	"comment_vote": {}
+}

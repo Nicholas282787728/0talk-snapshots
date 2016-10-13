@@ -1,0 +1,23 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "Earthnet - Group",
+			"body": "Discussion board.\nhttp://127.0.0.1:43110/16ybaY9D2XhhCk5GqjpAmBXJ7DXcsMtrkH/",
+			"added": 1457805234
+		}
+	],
+	"topic_vote": {},
+	"next_comment_id": 2,
+	"comment": {
+		"1_19oTjiELVv5NKUxcchx4F7vyoznBfgodur": [
+			{
+				"comment_id": 1,
+				"body": "no problem ;) \nWhy should i create a Blog? There is a chat now inside :D",
+				"added": 1457797649
+			}
+		]
+	},
+	"comment_vote": {}
+}

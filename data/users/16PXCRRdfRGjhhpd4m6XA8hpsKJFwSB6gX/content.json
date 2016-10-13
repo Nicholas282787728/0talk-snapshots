@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HJilOpailYhHkzu9NWphutDBC5885ObLLIz4ouI8QgU7VecYjBw7E9dEFofSCxZKstmG1i2LPEIBulHFF3+W84w=",
+ "cert_user_id": "greengiant@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "d9bc11641994975901de1bf74338d9bbb2942d677fd2cd2b373dacdf73fbb58a",
+   "size": 652
+  }
+ },
+ "inner_path": "data/users/16PXCRRdfRGjhhpd4m6XA8hpsKJFwSB6gX/content.json",
+ "modified": 1472524057.165855,
+ "signs": {
+  "16PXCRRdfRGjhhpd4m6XA8hpsKJFwSB6gX": "G6JIMv+RlYvffB3aOVJRRJm2fZTr9YiKik4y1IlBjS8JYI0bPKuGLjd3XV2ZDsV2uiygS+lb1m2PIFZm3NoY9DU="
+ }
+}

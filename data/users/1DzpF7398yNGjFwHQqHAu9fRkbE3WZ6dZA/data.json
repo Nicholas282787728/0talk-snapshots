@@ -1,0 +1,30 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "How to disable tor connection? I want to surf zeronet sites more fastly, I needn't anonymity.",
+			"body": "In china ,tor connection is Unstable。It affect Chinese users' Experience on zeronet.",
+			"added": 1464873719
+		}
+	],
+	"topic_vote": {},
+	"next_comment_id": 3,
+	"comment": {
+		"1_1DzpF7398yNGjFwHQqHAu9fRkbE3WZ6dZA": [
+			{
+				"comment_id": 1,
+				"body": "ok,thx",
+				"added": 1465211091
+			}
+		],
+		"2_1BG8WrV2VY1bNjQiKR4tcL52FAw6Y6BoJ8": [
+			{
+				"comment_id": 2,
+				"body": "我觉得，Zeronet的最大意义不是去中心化，而是可以抗击审查。这一点对于天朝来说，意义重大。当然zeronet网络若想要发展，壮大，需要有多个数据中心强力做种的，每时每刻都要在线，就像现在的中心化网站一样。而不是依靠用户来做种，来存储网站内容。去中心化只为抗击审查，而不是为了节省服务器的开支。当然，毫无疑问，zeronet网站可以大大的节省数据中心的花费，至少80%以上。\n试想一下，如果谷歌的数据中心全部都可以通过BT的方式来访问数据，那么谷歌的数据中心成本将只需现有成本的20%以下。",
+				"added": 1467369018
+			}
+		]
+	},
+	"comment_vote": {}
+}

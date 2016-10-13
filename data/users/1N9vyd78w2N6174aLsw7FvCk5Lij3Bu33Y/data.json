@@ -1,0 +1,73 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "Anyway to have a full blown reddit clone",
+			"body": "I think it would be a good idea to have a complete clone of reddit, working on ZeroNet",
+			"added": 1457078451
+		}
+	],
+	"topic_vote": {
+		"2_1KJFB4SEHaHCY11HMKsMGyth1mXKb3R5oY": 1,
+		"1_149Lc5r63oF2drRtd1pokm5G7M49DhhMji": 1
+	},
+	"next_comment_id": 9,
+	"comment": {
+		"2_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": [
+			{
+				"comment_id": 1,
+				"body": "test",
+				"added": 1457075184
+			},
+			{
+				"comment_id": 2,
+				"body": "yup no spam control, this no bueno",
+				"added": 1457075204
+			}
+		],
+		"3_1MxdAjWgnqwCaunGHmhY39tVR51qV3peJL": [
+			{
+				"comment_id": 3,
+				"body": "how trustworthy are you odd?",
+				"added": 1457075649
+			},
+			{
+				"comment_id": 4,
+				"body": "odd: we'll get back to sending my site money as test soon, it is not finished, but i should have something up shortly, to test the hypothesis. As far as profiting, the ideas are endless: gambling on sports events, playing any kind of game vs other another player for money, etc. like hendrix said selling goods, legal or otherwise.",
+				"added": 1457077931
+			}
+		],
+		"1_1BGaNcH1UBqAdatPbT3YssmPRVdhepMNPW": [
+			{
+				"comment_id": 5,
+				"body": "seems to be working fine on openVPN",
+				"added": 1457079182
+			}
+		],
+		"1_1N9vyd78w2N6174aLsw7FvCk5Lij3Bu33Y": [
+			{
+				"comment_id": 6,
+				"body": "> [gp](#comment_2_1LVL5r7L5AwFk7waWmBwuVZ8Fcg9NDxakY): Reddit is already full of clowns, but I guess you mean \"clone.\"\n\ncorrected ¯\\_(ツ)_/¯",
+				"added": 1457079634
+			}
+		],
+		"7_1MxdAjWgnqwCaunGHmhY39tVR51qV3peJL": [
+			{
+				"comment_id": 7,
+				"body": "First things first, i love it so far!\nDownvotes please. If not downvotes, i know this is really out there, but!!! since this all can run off bitcoins, maybe charge someone a quarter equivalent for their upvote, and gift someone a quarter equivalent for receiving upvoted comments.",
+				"added": 1457079944
+			}
+		],
+		"2_1Hcc6FX8CaRnXcGC4EYZ4NjrR2yfxuUHW8": [
+			{
+				"comment_id": 8,
+				"body": "So it appears to be to be more complicated on Google Chrome, But just by clicking the link on Firefox works fine. Of course, like scrub said, first you need a Torrent Client",
+				"added": 1457491017
+			}
+		]
+	},
+	"comment_vote": {
+		"2_1LVL5r7L5AwFk7waWmBwuVZ8Fcg9NDxakY": 1
+	}
+}

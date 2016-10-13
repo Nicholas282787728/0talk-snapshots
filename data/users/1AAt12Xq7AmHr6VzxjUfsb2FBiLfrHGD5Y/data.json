@@ -1,0 +1,28 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 3,
+	"comment": {
+		"3_19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ": [
+			{
+				"comment_id": 1,
+				"body": "eai galera!",
+				"added": 1470247615
+			},
+			{
+				"comment_id": 2,
+				"body": "http://127.0.0.1:43110/14D629iCuy1a7UnCXtuERLrcJstfwLN3SK/  -  acessa meu blog de putaria",
+				"added": 1470247662
+			}
+		]
+	},
+	"comment_vote": {
+		"1_1AAt12Xq7AmHr6VzxjUfsb2FBiLfrHGD5Y": 1,
+		"2_1AAt12Xq7AmHr6VzxjUfsb2FBiLfrHGD5Y": 1,
+		"2_17GoSBQa419SCrJkj4djvTAgRFCDWHKuM3": 1,
+		"1_17GoSBQa419SCrJkj4djvTAgRFCDWHKuM3": 1,
+		"3_1DXgw1bgGQFU9kcLS2ADfRwr85rBs663We": 1,
+		"1_18QuVmYM9QpWgx9Dg2tz9EbHasTWjsZqAb": 1
+	}
+}

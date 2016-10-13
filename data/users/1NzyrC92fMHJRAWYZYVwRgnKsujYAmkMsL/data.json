@@ -1,0 +1,16 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 2,
+	"comment": {
+		"4_1Ci5Y4TxZwY1SQhvQR7Ttbdyyai4WRV5TU": [
+			{
+				"comment_id": 1,
+				"body": "I personally like Arch Linux. Pacman has never let me down, and it's been an overall comfy experience. I would like to tried Gentoo sometim. I'm not sure how I feel about compiling everything though.",
+				"added": 1468082797
+			}
+		]
+	},
+	"comment_vote": {}
+}

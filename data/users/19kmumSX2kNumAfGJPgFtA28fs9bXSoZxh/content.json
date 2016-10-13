@@ -1,0 +1,15 @@
+{
+ "cert_auth_type": "web", 
+ "cert_sign": "GzaNhFccjJDUWZgKvIpG+4Pt39c2sX6WLJ/NkXrFdz/34w2DBEbOPwlWqDlRvFnywa/I07vnrACkbHYls0XAXwU=", 
+ "cert_user_id": "quisp@zeroid.bit", 
+ "files": {
+  "data.json": {
+   "sha512": "d2201ac94c4eb98514388fa81a8d8e9b68890d419f910f3b0a55c1bdedfec7b5", 
+   "size": 737
+  }
+ }, 
+ "modified": 1451401959.459, 
+ "signs": {
+  "19kmumSX2kNumAfGJPgFtA28fs9bXSoZxh": "HI6hcd99B844QvO/Tev/FRez7npWgPvzUmZXM32orh523zoXkcVsXYiC6Fn6gS0jEUJHlULv6TjaD04t5g5k3u8="
+ }
+}

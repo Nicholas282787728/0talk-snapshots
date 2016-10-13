@@ -1,0 +1,162 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "Attempt to use Git over ZeroNet",
+			"body": "I believe that it would be great if we could host Git repositories on ZeroNet. So I made an attempt. I created a Git remote helper named `git-remote-zeronet` which is modified from `git-remote-testgit.sh`, with the ability to auto sign & publish site after pushing, and accepts URLs like `zeronet::SITE_ADDRESS` as remote address. The site must contain a `git` directory with a bare Git repository inside. I'd prefer creating one site for each repo rather than using optional files to build a GitHub-like site.\n\nThis works really well. The only thing you need is enough peers hosting the repo. However, ZeroNet is not for large files, neither is Git for.\n\nHere is an [example](/1xxooZ7s8iDz3u56i5mNQ1XGmwF8Zvnw9/), with details on how to clone such a Git repo and how to set up your own Git repo on ZeroNet. I also made a mirror of the main ZeroNet repo at [here](/1FMH8JKKPMY4ToNYNVVo4bGNJwgh6Abzh/), as another example 😅\n\nThe next step may be implementing a gitweb-like frontend page with pure JavaScript Git parser. For now, ZeroNet is enough for hosting small projects with Git ",
+			"added": 1462455312
+		}
+	],
+	"topic_vote": {},
+	"next_comment_id": 23,
+	"comment": {
+		"1_1EUyJtat7mbu5wMcR6nrJTPBBRons1mtMA": [
+			{
+				"comment_id": 1,
+				"body": "Well just a couple of days ago.",
+				"added": 1461469190
+			}
+		],
+		"54_1GtJqyJRsuZhmxVtw5USgvqGbUmVH7EmBD": [
+			{
+				"comment_id": 2,
+				"body": "I wonder if it is possible to link to another Zite's resources (all.js etc.) from a Zite. If so, multiple Zites with the same program can share some of their files.",
+				"added": 1461832245
+			},
+			{
+				"comment_id": 4,
+				"body": "> [nofish](#comment_627_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): It's disabled, because it would result in more centralization, would add security problems (if site got compromised all of other sites that using the same resource will be also compromised) and there would be no real benefits from it.\n\nThat makes sense. If decentralization is at the top priority, we should not worry too much about duplicated files because that is the way how decentralization works.",
+				"added": 1461834206
+			},
+			{
+				"comment_id": 5,
+				"body": "> [yo](#comment_42_1GtJqyJRsuZhmxVtw5USgvqGbUmVH7EmBD): nah the file or has the hash required or does not have the hash required, there is no way to fake sha512\n\nMaybe a filesystem that supports compression is a good choice for 0net users.",
+				"added": 1461834346
+			}
+		],
+		"4_1By85xCDz7VyZEq9WjmhtbNaPKimQwhPLp": [
+			{
+				"comment_id": 3,
+				"body": "If someone owns all your identity files, he can actually be \"you\" anywhere.",
+				"added": 1461832486
+			},
+			{
+				"comment_id": 6,
+				"body": "> [frayoshi](#comment_6_1By85xCDz7VyZEq9WjmhtbNaPKimQwhPLp): yes, that's even worse than I described...maybe a co-ownership with other properly protected accounts could help in saving owned websites.. nothing to do with the \"corrupted\" account, unfortunately..\n\nActually this remains a problem in any decentralized technology. I don't think there will ever be any working solution to this.",
+				"added": 1461841814
+			}
+		],
+		"7_1By85xCDz7VyZEq9WjmhtbNaPKimQwhPLp": [
+			{
+				"comment_id": 7,
+				"body": "Happy Internet Day 😂",
+				"added": 1462023245
+			}
+		],
+		"1_1PjeSCAGvzNm4UxEqydwzCgQwCXEKc8ikf": [
+			{
+				"comment_id": 8,
+				"body": "Do you connect to the Internet via your phone's cellular network? If so, it is highly possible that you have no public IP address.",
+				"added": 1462070137
+			}
+		],
+		"4_1LRrd96P7FiTcsyNXVzPM5jtpQoH1B4gYf": [
+			{
+				"comment_id": 9,
+				"body": "I'd say that you'll need an auto-backup tool or just use Btrfs to versionize the storage of ZeroNet.",
+				"added": 1462073030
+			}
+		],
+		"1_1ARmoCDkmZkYWAMCipxPqbUoT4akypoPoE": [
+			{
+				"comment_id": 10,
+				"body": "Life is based on hopes, so when you see no hope why don't you find some hopes yourself e.g. getting involved in the development of some software projects like 0net 😂",
+				"added": 1462170569
+			}
+		],
+		"5443_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG": [
+			{
+				"comment_id": 11,
+				"body": "They should mind more how to defeat the terrorists rather than how to ban the freedom of innocent people.",
+				"added": 1462170723
+			}
+		],
+		"1_16S7cvRVax2agHYdAcWDRicQdZXZ6PAhmt": [
+			{
+				"comment_id": 12,
+				"body": "test",
+				"added": 1462202636
+			}
+		],
+		"2_1ByLrbHjTpxyUG53vPzuhbkEWqcwpNypuH": [
+			{
+				"comment_id": 13,
+				"body": "It's several hours.",
+				"added": 1462203628
+			}
+		],
+		"1_19arYgVKguUamTqtYGu6T9FSUsr19CyEcG": [
+			{
+				"comment_id": 14,
+				"body": "I do not think ZeroNet can handle a game that needs to be realtime. But if we can connect to every client that is playing the game, it should be possible, but this is beyond the current architecture of ZN.",
+				"added": 1462360875
+			}
+		],
+		"1_19VtgWtroLMHZUcd9YNhmiDYwGQn19Q9mj": [
+			{
+				"comment_id": 15,
+				"body": "In an anonymous network, you should not expect seeing anyone who publicly announce his/her gender.",
+				"added": 1462415896
+			}
+		],
+		"1_1FCh6BDFNzbVvrjdkWaRW3w6dqK8Jys5Lf": [
+			{
+				"comment_id": 16,
+				"body": "ZeroNet 并不是为了匿名性而生。",
+				"added": 1462415986
+			}
+		],
+		"1_1DXR2Di8Ks9JijfNycWErpenoxxchrdWBB": [
+			{
+				"comment_id": 17,
+				"body": "> [redacted](#comment_40_19qsuxKBkNZWYft3epWgn6u3gG82sQHs6n): Nice! I'd been signing and publishing manually and had been thinking about doing this with a post-commit hook. BTW mine is also browsable with a web browser, though I'm also generating the index manually right now. http://localhost:43110/1AZ9fPvDPmCPdcbEt37YW2bDtdNx3h5RmG/?Post:17:Browsable+Git+Repositories+in+ZeroNet\n\nI Googled for a Git parser in JS yesterday and found some libraries. If these libraries are efficient enough, it's better than generating an index file for each repo.",
+				"added": 1462530590
+			},
+			{
+				"comment_id": 20,
+				"body": "Well I need more peers for the ZeroNet git mirror now 😂",
+				"added": 1462586942
+			}
+		],
+		"43_1GtJqyJRsuZhmxVtw5USgvqGbUmVH7EmBD": [
+			{
+				"comment_id": 18,
+				"body": "> [erkan](#comment_142_1H8oKiRa7fGgUqS1hpUtaSYLvAqkaknbkf): To all of you who say ZeroNet can not be blocked/shutdown/...:\n> did you see yet G011 from ZeroSecurity?If I were the Chinese government, I'd start by blocking/redirecting those 8 trackers first.\n\nBut ZeroNet has .onion trakers 😂",
+				"added": 1462540610
+			}
+		],
+		"5_1P8VJL2iKWfUB4hqQkrFdXCbC8RrimAZoZ": [
+			{
+				"comment_id": 19,
+				"body": "> [namecoinfontas](#comment_12_1P8VJL2iKWfUB4hqQkrFdXCbC8RrimAZoZ): thanks alot for talking me through it for now ive decided to delete one of the videos to make the site smaller and was able to publish it. INCREASE YOUR SITE SIZE LIMITS PEOPLE, im going to  post some cool anime music videos and stuff if you do!\n\nYou should add optional flag to those large files.",
+				"added": 1462586813
+			}
+		],
+		"5_16tWPYFLbad3R8iGcMuetyiwC2q5qXp45T": [
+			{
+				"comment_id": 21,
+				"body": "Forward that port on the router",
+				"added": 1462604904
+			}
+		],
+		"7_16tWPYFLbad3R8iGcMuetyiwC2q5qXp45T": [
+			{
+				"comment_id": 22,
+				"body": "It's possible if FBI can find out the creator of the site. If you want to publish illegal contents on ZeroNet, you still need Tor though.",
+				"added": 1462876218
+			}
+		]
+	},
+	"comment_vote": {}
+}

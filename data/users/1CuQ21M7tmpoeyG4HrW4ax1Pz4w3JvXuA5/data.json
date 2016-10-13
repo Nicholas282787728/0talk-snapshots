@@ -1,0 +1,53 @@
+{
+	"next_topic_id": 3,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "newbie",
+			"body": "where do i have to put --tor always in?",
+			"added": 1452935834
+		},
+		{
+			"topic_id": 2,
+			"title": "WebRTC",
+			"body": "Why not WebRTC?",
+			"added": 1453282366
+		}
+	],
+	"topic_vote": {},
+	"next_comment_id": 6,
+	"comment": {
+		"1_1CuQ21M7tmpoeyG4HrW4ax1Pz4w3JvXuA5": [
+			{
+				"comment_id": 1,
+				"body": "> [nofish](#comment_190_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): You have to open a command line and start zeronet using it or create a zeronet.conf file to the same directory where your zeronet.py with the content of:\n> [global]\n> tor = always\n> After that you can check on page http://127.0.0.1:43110/Stats if your IP is different than your original. (First line)\n\nthx very much",
+				"added": 1452961730
+			}
+		],
+		"2_16iYwD5U2fNoS22p6447J7992iL3DHjSHY": [
+			{
+				"comment_id": 2,
+				"body": "can i use zeronet with tor and the tor browser bundle or would this compremise things?",
+				"added": 1453196492
+			},
+			{
+				"comment_id": 3,
+				"body": "> [nofish](#comment_192_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): Yes, you can also use it in Tor browser, to make it work you need to go to about:preferences#advanced > Settings... > And add 127.0.0.1 to No Proxy for field\n\nno, i mean having both started at the same time",
+				"added": 1453199041
+			}
+		],
+		"2_1CuQ21M7tmpoeyG4HrW4ax1Pz4w3JvXuA5": [
+			{
+				"comment_id": 4,
+				"body": "even if it would be not as secure it still would open zeronet to a far more reach",
+				"added": 1453357488
+			},
+			{
+				"comment_id": 5,
+				"body": "> [nofish](#comment_195_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): It's already possible to reach the network without installing anything, eg.: http://bit.no.com:43110/talk.zeronetwork.bit/?Topic:2_1CuQ21M7tmpoeyG4HrW4ax1Pz4w3JvXuA5/WebRTC\n> The problem is it would not be less secure, but a security disaster: any site would able to stole your private key, so able to modify/delete your sites or content.\n\nis it also selfupdating?",
+				"added": 1453448900
+			}
+		]
+	},
+	"comment_vote": {}
+}

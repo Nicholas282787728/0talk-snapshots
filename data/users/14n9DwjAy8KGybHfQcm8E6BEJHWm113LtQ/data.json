@@ -1,0 +1,23 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 3,
+	"comment": {
+		"1_18jipjDsfAxAuq4ixbi2w24xJrYVfTYFPn": [
+			{
+				"comment_id": 1,
+				"body": "> [darkstratus](#comment_11_1FieP4c1gxFme5webFJB9x5ZPBXdR6p3Fs): Brazil",
+				"added": 1460333319
+			}
+		],
+		"2_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": [
+			{
+				"comment_id": 2,
+				"body": "oi",
+				"added": 1463953222
+			}
+		]
+	},
+	"comment_vote": {}
+}

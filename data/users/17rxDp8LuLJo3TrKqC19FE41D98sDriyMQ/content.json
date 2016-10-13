@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HEmndKr+X2l6wg/tNMwBqVfQTTkxpL9nkkoz7r2ExAveFgCKjXt/kocgdjc/rl1ZtAI1sIVhCwUnmQkFBD/qphU=",
+ "cert_user_id": "rinodrummer@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "c6adf026b4e849f56d99da2690054c21627cd588ad9aa08d3e0e5798523c85e2",
+   "size": 3880
+  }
+ },
+ "inner_path": "data/users/17rxDp8LuLJo3TrKqC19FE41D98sDriyMQ/content.json",
+ "modified": 1475424368.73525,
+ "signs": {
+  "17rxDp8LuLJo3TrKqC19FE41D98sDriyMQ": "G8HWaM/qcQxln5WL1ng6GmI7KejkEXAjKvfHXQiRQ1IPSKjYArrATqOdR48KXqpeVsuY86+HVA+M4e7K6qZLN34="
+ }
+}

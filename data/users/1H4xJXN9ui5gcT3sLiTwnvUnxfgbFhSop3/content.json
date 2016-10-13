@@ -1,0 +1,15 @@
+{
+ "cert_auth_type": "web", 
+ "cert_sign": "G7xlsjVUXvq/btxq4F12IPmS6KLyu/Xos49cupTEhrLMyNwRPEuJxItDuVHG9pP+XqqclpKzJnRBg88vDbKz5zc=", 
+ "cert_user_id": "syntacticsugar@zeroid.bit", 
+ "files": {
+  "data.json": {
+   "sha512": "a5a31369bae4943f668f395b0418934edcd0e2c82c6e47e68a02ea94c7bf88ee", 
+   "size": 270
+  }
+ }, 
+ "modified": 1454178993.022392, 
+ "signs": {
+  "1H4xJXN9ui5gcT3sLiTwnvUnxfgbFhSop3": "HM+mRECeAjBN+xasInbivUf/I1bruZlRH3DApVNqGHfbBWhePdTh1HOtsA5vJIaVzyHhMov5jBjOl9E3D/hfrLk="
+ }
+}

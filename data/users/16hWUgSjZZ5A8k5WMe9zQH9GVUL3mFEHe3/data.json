@@ -1,0 +1,32 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {
+		"1_1BQg5MQZ63aEQZMzLEXP6yY3hsgznKpaps": 1
+	},
+	"next_comment_id": 4,
+	"comment": {
+		"1_1BQg5MQZ63aEQZMzLEXP6yY3hsgznKpaps": [
+			{
+				"comment_id": 1,
+				"body": "lubuntu",
+				"added": 1457459402
+			}
+		],
+		"1_1LnyrYbdxDU1K78nEYVZkfJ1Q4SYP1ukFV": [
+			{
+				"comment_id": 2,
+				"body": "> [thevideovault](#comment_8_1DfkDpkeDXGbHJ2ZT31DPvYr5xR59Jr8BA): Adding my vote AGAINST the addition of a downvote button. All it does is make popular posts get pushed down the page. If a post has people talking, it should be on top.\n\nSo... Are you *downvoting* this idea? :P",
+				"added": 1457459571
+			}
+		],
+		"1_1LNroaTxHDoVxmh4noLEDGMTgUtovmyEAc": [
+			{
+				"comment_id": 3,
+				"body": "> [tailorvj](#comment_2_1LNroaTxHDoVxmh4noLEDGMTgUtovmyEAc): hmmm, interesting. I would post a huge warning about this on every app running on proxy servers. It's a major security issue\n\nI think it's kind of implied that when you use a proxy you don't really have any kind of privacy except for end to end encryption... You're asking someone to be a middle man, so you must trust the proxy for anything you would trust that middle man.",
+				"added": 1457871249
+			}
+		]
+	},
+	"comment_vote": {}
+}

@@ -1,0 +1,23 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 3,
+	"comment": {
+		"2_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": [
+			{
+				"comment_id": 1,
+				"body": "where is my mind",
+				"added": 1473199391
+			}
+		],
+		"1_1ELBjparWRzWWptstDfNtKyY2E5mHtL5J4": [
+			{
+				"comment_id": 2,
+				"body": "> [counterinitiate](#comment_2_1KujWmU9iTGYy2HM531ot55EuyW1uiPWcw): Tell me about Bane. Why does he wear the mask?\n\nMany years ago, during a time of\n           plague, Bane was attacked by other\n           prisoners. The doctor's fumbling\n           attempts to repair the damage left\n           him in perpetual agony. The mask\n           holds his pain at bay.",
+				"added": 1473200407
+			}
+		]
+	},
+	"comment_vote": {}
+}

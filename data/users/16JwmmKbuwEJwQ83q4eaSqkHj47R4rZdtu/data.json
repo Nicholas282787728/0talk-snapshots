@@ -1,0 +1,18 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 2,
+	"comment": {
+		"1_1Dme3quDw9tNTjMSk6RWcBJqHchi96vi6S": [
+			{
+				"comment_id": 1,
+				"body": "Complimenti al genio ungherese per aver ideato e messo a disposizione questo luogo criptato !!! \nGratulálok a magyar géniusz, amiért létre és hozzáférhetővé kell tenni ezt a helyet titkosított !!!",
+				"added": 1450432906
+			}
+		]
+	},
+	"comment_vote": {
+		"1_16JwmmKbuwEJwQ83q4eaSqkHj47R4rZdtu": 1
+	}
+}

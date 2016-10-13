@@ -1,0 +1,18 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 2,
+	"comment": {
+		"1_1EUyJtat7mbu5wMcR6nrJTPBBRons1mtMA": [
+			{
+				"comment_id": 1,
+				"body": "This page, linked from Reddit: https://medium.com/world-bug-repository/zerosearch-a-google-for-the-decentralized-web-b940ee66d9f3",
+				"added": 1457026960
+			}
+		]
+	},
+	"comment_vote": {
+		"2_1MEWJRMLgvofqG9Mbsb2Rc4hFFyv7HeRx7": 1
+	}
+}

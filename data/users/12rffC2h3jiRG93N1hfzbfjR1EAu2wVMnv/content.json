@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HBj22DZjyCKnqTYdbT2ztC0snkpMElMBHh9KaHxPZ9Yg1z0SqPy7u53h7+7oeNzVHmLY3oux4E0Hl3jxWh9YoYI=",
+ "cert_user_id": "retrohacker@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "7cb76d3092235a8c14b99e5d8c9c0b4e07cd32a58832e5d461a120482892ce99",
+   "size": 272
+  }
+ },
+ "inner_path": "data/users/12rffC2h3jiRG93N1hfzbfjR1EAu2wVMnv/content.json",
+ "modified": 1459396356.43635,
+ "signs": {
+  "12rffC2h3jiRG93N1hfzbfjR1EAu2wVMnv": "HKuyStI4S+QUxu6SXT2mkGDZ6DGP7Db+96wdqR9B8IPvC3RWgjRc5KEA8aK90GeIKY9fTuxUjDN5PfRn/iSCxvs="
+ }
+}

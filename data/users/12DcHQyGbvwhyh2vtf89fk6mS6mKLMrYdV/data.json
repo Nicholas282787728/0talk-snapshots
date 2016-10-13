@@ -1,0 +1,16 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 2,
+	"comment": {
+		"1_1JwPt5UVWZobrAntVKtqoZ6ChqGGq4DvNK": [
+			{
+				"comment_id": 1,
+				"body": "The DHT can be used to replace trackers, although it can be slow to find peers.",
+				"added": 1456939581
+			}
+		]
+	},
+	"comment_vote": {}
+}

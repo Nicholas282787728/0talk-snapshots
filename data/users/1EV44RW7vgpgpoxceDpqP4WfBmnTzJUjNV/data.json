@@ -1,0 +1,28 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "The zeronet site you create today might still be online in 100 years (showerthought)",
+			"body": "On the traditional world wide web, the most websites live only as long as there is someone paying the hosting bills. On zeronet, a website theoretically can still be around in 100 years, as long as there are seeders.",
+			"added": 1462292740
+		}
+	],
+	"topic_vote": {},
+	"next_comment_id": 3,
+	"comment": {
+		"1_1EV44RW7vgpgpoxceDpqP4WfBmnTzJUjNV": [
+			{
+				"comment_id": 1,
+				"body": "> [frayoshi](#comment_9_1By85xCDz7VyZEq9WjmhtbNaPKimQwhPLp): If we succeed in making It more and more popular.. It is true ;)But if people change their computer the probably won't backup the ZeroNet folder, so everything saved before becomes lost forever if they don't longer visit that website.....\n\nYeah, but remember, it takes only one seeder to keep a site alive.",
+				"added": 1462299937
+			},
+			{
+				"comment_id": 2,
+				"body": "According to the following page from 2008, the average lifespan of a (traditional) web page is 44-75 days. \nhttp://www.webcitation.org/5ZfVriLFd",
+				"added": 1462436649
+			}
+		]
+	},
+	"comment_vote": {}
+}

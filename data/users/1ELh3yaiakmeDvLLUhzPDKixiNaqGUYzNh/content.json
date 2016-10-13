@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "G/XDG+py/VjIqTnpxCj9vaqLBMWoSZ/wwVzU1qrr7pd1zvr/a1h6KBE9UrTl2rm5k3m4j4Xoo6Nkcfu5MmYh99Y=",
+ "cert_user_id": "forge@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "9e29b571ee4a2e14d974cfef85faa3c91c70256ee18c46dc911ef5844269b0bf",
+   "size": 315
+  }
+ },
+ "inner_path": "data/users/1ELh3yaiakmeDvLLUhzPDKixiNaqGUYzNh/content.json",
+ "modified": 1457206663.846,
+ "signs": {
+  "1ELh3yaiakmeDvLLUhzPDKixiNaqGUYzNh": "HLcdizS6r1bIfPvrywau2IUUDIKwbCVdZXr8Na0e6WKEyTmjFIVHEQ1nHJLuFCioYl1RysTXT4AggE30hBvGOTY="
+ }
+}

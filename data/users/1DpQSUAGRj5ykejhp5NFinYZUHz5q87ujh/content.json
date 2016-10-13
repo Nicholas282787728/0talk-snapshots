@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HF376YN5u8+DTTLrVPmttL7I4wjUz6r/wVhw6y27Xu1zAORdQCZReXXqeeim+mbZG4Q5XnTfrfYDKjemjAV2sYY=",
+ "cert_user_id": "anime@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "5ca04be22328fc78fd5dddcdede4f13870ffacfb041d5f6f0ac4ec69b89ab920",
+   "size": 2188
+  }
+ },
+ "inner_path": "data/users/1DpQSUAGRj5ykejhp5NFinYZUHz5q87ujh/content.json",
+ "modified": 1470749848.868,
+ "signs": {
+  "1DpQSUAGRj5ykejhp5NFinYZUHz5q87ujh": "G7XomKQpXcrf7M1hAv6SJpGeFevGLcCDhYiaUp3gXnQRugKeMPCtYjC2kaBTRF0eSGCApM7QiAm1myFHdTfE3ws="
+ }
+}

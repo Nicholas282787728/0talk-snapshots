@@ -1,0 +1,15 @@
+{
+ "cert_auth_type": "web", 
+ "cert_sign": "G2+Ze0TPuqy8X8YLz6XfjzVXnIpq2GNOBVmRTC3J/NPlbHJD9a3Sp0s08HfhHdQGpa/gCUi1DTdKKRzNe+N/bJk=", 
+ "cert_user_id": "geobor@zeroid.bit", 
+ "files": {
+  "data.json": {
+   "sha512": "2682b2597e96e062c4a248f24721ead8f88c31e51a6f0de8df22e3c1339ce9f8", 
+   "size": 1519
+  }
+ }, 
+ "modified": 1453828058.777, 
+ "signs": {
+  "14kxkh1pLNYuCwCZ161HCQkSjvWW29ybNz": "G2DxQWDYKy9boWsseOef9jnEnoJgjBtXJkQDz96eNfqpxFKweW/2cqaxdrrZoJ2M5zVQ8luKvlg9nLToyeD8/XM="
+ }
+}

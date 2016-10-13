@@ -1,0 +1,25 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "Confused",
+			"body": "How does ZeroNet work without being connected to the internet?\nLike do you have to be connected to the router or not?\nCan someone please explain this?!",
+			"added": 1471211302
+		}
+	],
+	"topic_vote": {
+		"1_1APbko6uK9fwwZoqB5LKgFeqWdF3SDLw4k": 1
+	},
+	"next_comment_id": 2,
+	"comment": {
+		"1_1APbko6uK9fwwZoqB5LKgFeqWdF3SDLw4k": [
+			{
+				"comment_id": 1,
+				"body": "> [kaffie](#comment_156_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh): You have to be connected online to download sites for the first time, and to receive updates from other users. However, after you visit a site, you do not need an internet connection to browse the site, as it's all being served from your own computer.\n> So say you download a bunch of sites when at home on your internet connection, and then go somewhere without wifi. You can still read the sites/content you've downloaded (visited before) even without a connection. However, updates won't happen until you're connected online again.\n\nThank you so much.\nThat really helps me understand this.\nIs it possible to make my own version of ZeroNet for a few friends of mine to use?",
+				"added": 1471213515
+			}
+		]
+	},
+	"comment_vote": {}
+}

@@ -1,0 +1,52 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "Video Stream, and bring any existing P2P resource to ZeroNet",
+			"body": "Hello everyone, I've hacked a P2P bridge helper (universal_p2p)，with this (runs on your website's visitor's PC) ，you can just stream any bittorrent content in ZeroNet page. not only Video, but also any resource in torrent. you can try this demo page(18x):\n\nhttp://127.0.0.1:43110/1LcQTyUYkq3n458rkHVQxhHyvUdmSYFURd/?Post:22\n\n\nhow does it done: universal_p2p is just a p2p download client，but it expose a simple http interface (127.0.0.1:7788) to access content so you can makes it work in any ZeroNet page. it's very easy to use,   you can streaming video in your ZeroNet page with normal html 5 video tag , just makes src points to :\n\nhttp://127.0.0.1:7788/bittorrent/v0/stream/ad486605e8234ef13d78ccd0806fefbadf464d86/DOBM-01.mp4\n(ad486605e8234ef13d78ccd0806fefbadf464d86 is the info hash part of magnet link)\n\nit will treate ad486605e8234ef13d78ccd0806fefbadf464d86 as magnet infoHash , then streaming and downloading the DOBM-01.mp4 file in it. \n\nor you can simple access\nhttp://127.0.0.1:7788/bittorrent/v0/stream/ad486605e8234ef13d78ccd0806fefbadf464d86\nthis simply streaming the largest file in torrent (which is OK for most video usage)\n\nor you can access\nhttp://127.0.0.1:7788/bittorrent/v0/stream/magnet%3A%3Fxt%3Durn%3Abtih%3Aad486605e8234ef13d78ccd0806fefbadf464d86%26dn%3DDOBM-01-SD/DOBM-01.mp4\nto archieve the same goal\n(info hash part can also be a encodeURIComponent(magnetlink) )\n\nall resource is readed by browser , so you must make sure resource is understood by browser. (mp4 for video, mp3 for audio, jpg/bmp/gif/png for image)\n\n",
+			"added": 1464833683
+		}
+	],
+	"topic_vote": {},
+	"next_comment_id": 7,
+	"comment": {
+		"3_16tWPYFLbad3R8iGcMuetyiwC2q5qXp45T": [
+			{
+				"comment_id": 1,
+				"body": "> [43110](#comment_5_16tWPYFLbad3R8iGcMuetyiwC2q5qXp45T): 是才知道。。。。汗\n你再去查查山西省省长是谁..",
+				"added": 1462664478
+			}
+		],
+		"1_13EDCw412fCWqTmR4RxRw99aEd2ucYzDyM": [
+			{
+				"comment_id": 2,
+				"body": "you may try this page \nhttp://192.168.1.11:43110/1LcQTyUYkq3n458rkHVQxhHyvUdmSYFURd/?Post:22\n(currently only 1 18x video showed, but will add ability of your request later)\nit use normal bittorrent ，so requires you download and run a small helper. but it's faster than webtorrent since it has more peers.",
+				"added": 1464835226
+			}
+		],
+		"1_17qLXXw5HAJkUYDfDeSJdP4g5YhDNbDo1R": [
+			{
+				"comment_id": 3,
+				"body": "> [testingzeronet12](#comment_16_1CMjV2r4EBpFt8VCcWWZKDysZXPcPExRNN): can we work together? I want to release a website on ZeroNet like YouTube but with streaming video from BitTorrent or WebTorrent. I think we are trying to achieve the same thing and I think we can work together. See my website: http://127.0.0.1:43110/1AtRr9BPxKkPswG4uKn17bht2JCdv2cMqt/\n> Can you send me an email? My ID is on zeroid.bit is: testingzeronet12\n\nGlade to, I've visited your site before and it's greate , I've considered webtorrent too.\n\nwebtorrent \npros:\n1. needs browser only\n2. no cache ,no disk usage\n\ncons:\n1. site developer have to add special logic for webtorrent\n2. after closing browser, downloaded data lost.\n3. needs someone run webtorrent-hybrid or special bt client  to seed, or webtorrent can not play anything.\n\nI think cons 3 should be resolved first, or no one seeding, no video can be played. if we want to solve it ,we must run webtorrent-hybrid on many nodes first , but after some try, I've found:\n1. webtorrent-hybrid binary is big, and needs Xvfb on headless linux.  \n2. if visitor can not see video first ,they will give up. so you should prepare a fallback, which is download webtorrent-desktop.\n3. but if you suggest user download webtorrent-desktop, pros 1 lost.\n\nso I'd prefer a \"client helper\" , my universal_p2p project:\npros:\n1. site developer use normal html tag, just access normal http address\n2. no matter page refresh or browser close, cache data reserved, fast load.\n3. already have many nodes\n4. can support different p2p protocol(currently only bittorrent supported)\n\ncons:\n1. needs download first (but if you provides webtorrent-desktop as fallback, it's same)\n2. consume disk for cache (GC function not tested yet, but user can delete anything in cache dir)\n3. \"bad\" site can request unused torrent, which flushing visitor's client helper. client helper can not tracing which site current download request from. \n\nI've considered tribler too. \npros:\n1. built-in tor support, Anonymity\n2. supports normal bittorrent\n3. written in python , same as ZeroNet, can be integrate easily\n4. supports webtorrent (not confirmed, but I've seen wss:// trackers in log)\n\ncons (for me only):\n1. libtorrent and python binary ,dependency needs packed together, which I'm not familar at all.\n2. I need to adapte a http frontend for it , I didn't program python before (neither do Go, but go-peerflix already provides almost every bits which I need)\n3. I've consider to intergate ipfs too, which already have similar function (access through local http), It's also Go",
+				"added": 1464913964
+			},
+			{
+				"comment_id": 4,
+				"body": "> [testingzeronet12](#comment_16_1CMjV2r4EBpFt8VCcWWZKDysZXPcPExRNN): can we work together? I want to release a website on ZeroNet like YouTube but with streaming video from BitTorrent or WebTorrent. I think we are trying to achieve the same thing and I think we can work together. See my website: http://127.0.0.1:43110/1AtRr9BPxKkPswG4uKn17bht2JCdv2cMqt/\n> Can you send me an email? My ID is on zeroid.bit is: testingzeronet12\n\nI think the best choice is a small client helper (best to distribute with zeronet) which supports local cache/access /webtorrent together ,someone run it for fast access, and someone can also use webtorrent. but currently no project provides this function. what I can do is to make a quick prototype, let user and ZeroNet developer test and decide. \n\nI'm very glade to makes my project used/tested by your site,  any suggestion welcome.",
+				"added": 1464914999
+			},
+			{
+				"comment_id": 5,
+				"body": "> [testingzeronet12](#comment_21_1CMjV2r4EBpFt8VCcWWZKDysZXPcPExRNN): Can you help me integrate some streaming videos on my blog? I am happy to try out your code.\n\nI've add a stream video demo page here:\nhttp://192.168.1.11:43110/1LcQTyUYkq3n458rkHVQxhHyvUdmSYFURd/?Post:22\nhopes this demo page can help you\n\nwarning:it's a porn video (it has many seeds so you can try it easier)!\n\n\nto use this helper to do video stream:\n\n1. you(or anyone want to watch streaming video) must download the stream helper binary for your os  and run it(it's in my demo page)\n\n2. you can use normal html5 video tag and points its src attribute to following:\n\nhttp://127.0.0.1:7788/bittorrent/v0/stream/<infoHash or encodeURIComponent(magnetlink)>/<fileName.mp4 or just leave empty(auto select largest file)>\n\nfor example if a bittorrent resource is\n\nmagnet:?xt=urn:btih:4753a3b5347a8f4f02a85a76a3814ffae337fc4b&dn=Captain+America+Civil+WAR+2016+HD-TC+x264+AC3-CPG&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969\n\nthe infohash is 4753a3b5347a8f4f02a85a76a3814ffae337fc4b ,your html5 video tag\nsrc should be\nhttp://127.0.0.1:7788/bittorrent/v0/stream/4753a3b5347a8f4f02a85a76a3814ffae337fc4b\n\nnow everything should work.(this is just a example, you must assume the video file in torrent is .mp4 ,which is supported by most browser video tag)\n\n\nif this is a popular bittorrent resource, you don't need to do anything, the helper(which runs on your visitor's PC) will download resource and stream it\n\nor you can make a torrent for your video,then conver it to magnet link(there're many tools and sites for this). but since this is not a popular resource (only you to be the init seed), you must seeding this, the longer time the better (to keep it accessable anytime).one more visitor watch it, one more seed.",
+				"added": 1465075662
+			},
+			{
+				"comment_id": 6,
+				"body": "> [sqbing](#comment_2_1D6JTFd6et7AMotZSjcc9eaBbWKQRMiiC4): why you always try to watch p2p video content in browser? redirect magnet url to a separate client will be better and easier, right?\n\nvideo stream is only one usage. with universal_p2p help, you can make a site which support lots of big-files. for example, you can make a gallery which reads lots image from torrent, use a mp3 in torrent as your site's BGM, or render visitor's comments on video stream. of course use client downloading anything and read from is easier, but it does nothing to do with ZeroNet's site development.",
+				"added": 1465414226
+			}
+		]
+	},
+	"comment_vote": {}
+}

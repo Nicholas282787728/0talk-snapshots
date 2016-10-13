@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "G2Fbu5Tf6tSHgJU2UaXnhes+k7A59GaIq8tfowYx3GGEfX0mWoPAAjt8zU0wIqmxHEZbwvqlliVT8r15/2M5YBs=",
+ "cert_user_id": "thevideovault@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "1bf69dd2f6477b52638c70e2a3b91d52304ca9a1f47b95542a89c1f1855bbc2b",
+   "size": 7287
+  }
+ },
+ "inner_path": "data/users/1DfkDpkeDXGbHJ2ZT31DPvYr5xR59Jr8BA/content.json",
+ "modified": 1457878597.297798,
+ "signs": {
+  "1DfkDpkeDXGbHJ2ZT31DPvYr5xR59Jr8BA": "HPWacaPa+jFtPzChWhoR5d64WbrBWOLN2vBEaOgYIZ8WRPlH5FvRsJZgITTHJ+hzHvvTTty637C9Q5iibgISZDM="
+ }
+}

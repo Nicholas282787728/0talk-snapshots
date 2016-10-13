@@ -1,0 +1,25 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 3,
+	"comment": {
+		"1_17dEBAxTcyJg38KfNtCvYWp7fddLKHv4rc": [
+			{
+				"comment_id": 1,
+				"body": "> [miklosh](#comment_1_1FfJqTpKxtW6jzKnHLpUswhWHwwtYTz5YK): http://127.0.0.1:43110/1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h/?RedditNsfwGifs\n\nNice",
+				"added": 1456975073
+			}
+		],
+		"2_1GCsW9TFfjDsvcdmKPADq1n8Q3ha72UtDQ": [
+			{
+				"comment_id": 2,
+				"body": "elixir",
+				"added": 1456975462
+			}
+		]
+	},
+	"comment_vote": {
+		"1_1FfJqTpKxtW6jzKnHLpUswhWHwwtYTz5YK": 1
+	}
+}

@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HFQsqib2g5Xrjdvnv19L0+XhcMaOJjLCmxD0XIXQCtqKaYRkhyGJXHkGeKhiBRcNL7punFGSk/aDheTfv2iVNZM=",
+ "cert_user_id": "eniigma@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "d8d7faa3493d5d8037606d3795c3493fa60ca4a55c1946fb6931e1bb217b4f0d",
+   "size": 306
+  }
+ },
+ "inner_path": "data/users/1C4Av5VQ4Xp5CxqyMfN6yEPwVY56H2c8GT/content.json",
+ "modified": 1457227918.737927,
+ "signs": {
+  "1C4Av5VQ4Xp5CxqyMfN6yEPwVY56H2c8GT": "G/TAOnhpVLf8BH9mt62IaGBauK3I1PVFQ8fHdYkbMw7Mm3NCznFNPrLxmobfZIQd9oiPp6kM20bQmsOXk3zsDbE="
+ }
+}

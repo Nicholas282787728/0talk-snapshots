@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HNggDh89q44vMcuCmPM+FMBhC07BPuDwepty0A+cg5Lh4IZd7O5rLQgOHHOEE2bd7k7KElpsnrvScBnRcaxiqHw=",
+ "cert_user_id": "hypershock@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "97be65def17da1c95a668177ecc63aaa48eb25b18c4e9f9effa4e500aa482ee9",
+   "size": 255
+  }
+ },
+ "inner_path": "data/users/13U4Yg8gUd4w4Mo19FncEH2LnnmChV41Tu/content.json",
+ "modified": 1457379403.115,
+ "signs": {
+  "13U4Yg8gUd4w4Mo19FncEH2LnnmChV41Tu": "G2xJZm2/P6A9NDiCzfDLgEv59IvXgnXc9JQ02cHSCUxY4w/FgDM4Zh/nB84QFjMpTw7t/3Iafoo01iPKkZCY5Bc="
+ }
+}

@@ -1,0 +1,31 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 4,
+	"comment": {
+		"1_1Dg5EwremnCBAkBQSVoXcL4Mp2eSUuCRvn": [
+			{
+				"comment_id": 1,
+				"body": "¡Hola mundo!",
+				"added": 1457111142
+			},
+			{
+				"comment_id": 2,
+				"body": "> [dp](#comment_4_14g55bURX2a2oMcopHeEBHWZRgPGgnaLjp): ¿Qué tal?\n\nMuy bien :)",
+				"added": 1457115773
+			},
+			{
+				"comment_id": 3,
+				"body": "> [dp](#comment_4_14g55bURX2a2oMcopHeEBHWZRgPGgnaLjp): ¿Qué tal?\n\nMuy bien :)",
+				"added": 1457123314
+			}
+		]
+	},
+	"comment_vote": {
+		"1_1C6de54CHt5yb6ujiXpdkHQG9if1dD282n": 1,
+		"3_1E1PGsCSCNzkP8xmx8awJ2hho3cPdsN4FF": 1,
+		"4_14g55bURX2a2oMcopHeEBHWZRgPGgnaLjp": 1,
+		"1_1HwDXzAszTiEGQ5QmFNTNqcTs61csYrFif": 1
+	}
+}

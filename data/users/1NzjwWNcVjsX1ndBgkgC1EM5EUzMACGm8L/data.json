@@ -1,0 +1,160 @@
+{
+	"next_topic_id": 9,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "Video Streaming test",
+			"body": "http://127.0.0.1:43110/14weBe8CQHen9U1LG4gE2bxg76QMCGsQoS\nThis is a test for the download speed. Pls coment if you had problems loading videos.",
+			"added": 1457468450
+		},
+		{
+			"topic_id": 2,
+			"title": "The Hateful Eight Streeming test",
+			"body": "http://127.0.0.1:43110/14weBe8CQHen9U1LG4gE2bxg76QMCGsQoS",
+			"added": 1457594934
+		},
+		{
+			"topic_id": 3,
+			"title": "Edit all.js",
+			"body": "How do i edit this file? i want to add video.js to my blog/futurepage",
+			"added": 1457668543
+		},
+		{
+			"topic_id": 4,
+			"title": "The pirate bay - AFK 720p STREAM",
+			"body": "Join the testing stream, give feedback!\nhttp://127.0.0.1:43110/1NXZEk3SupketTvbRxaXCERa1E9Es9hi4a",
+			"added": 1457774242
+		},
+		{
+			"topic_id": 5,
+			"title": "how can i add a coment section to my page? with auth process?",
+			"body": "In my page i want to add a section where visitors can addd comments over different content. i think this needs an auth process, how can i do this?",
+			"added": 1458072124
+		},
+		{
+			"topic_id": 6,
+			"title": "STREAMING",
+			"body": "Im working on a streaming page and i would apreciate some help from experts! Leave a comment!\nhttp://127.0.0.1:43110/14ETRYjD3XREhoCzaSfJ2fsrQHbX9kzMkh/",
+			"added": 1458169499
+		},
+		{
+			"topic_id": 7,
+			"title": "How can i add comments to my page?",
+			"body": "",
+			"added": 1458270057,
+			"parent_topic_uri": "3_1PVcdu7USZH2kHMETbqDYLPjJZKCDWM52k"
+		},
+		{
+			"topic_id": 8,
+			"title": "search over forum",
+			"body": "it would be nice to have a search button to avoid asking the same things again and again! this was asked before?",
+			"added": 1458580910,
+			"parent_topic_uri": "3_1PVcdu7USZH2kHMETbqDYLPjJZKCDWM52k"
+		}
+	],
+	"topic_vote": {
+		"1_1NzjwWNcVjsX1ndBgkgC1EM5EUzMACGm8L": 1
+	},
+	"next_comment_id": 17,
+	"comment": {
+		"2_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": [
+			{
+				"comment_id": 1,
+				"body": "http://127.0.0.1:43110/14weBe8CQHen9U1LG4gE2bxg76QMCGsQoS",
+				"added": 1457468476
+			},
+			{
+				"comment_id": 2,
+				"body": "how much time does it takes to update my blog? in another computer i cant see it up to date...",
+				"added": 1457476641
+			}
+		],
+		"1_1NzjwWNcVjsX1ndBgkgC1EM5EUzMACGm8L": [
+			{
+				"comment_id": 3,
+				"body": "Test",
+				"added": 1457477226
+			}
+		],
+		"2_1NzjwWNcVjsX1ndBgkgC1EM5EUzMACGm8L": [
+			{
+				"comment_id": 4,
+				"body": "Please post problems you find!",
+				"added": 1457596776
+			}
+		],
+		"3_1NzjwWNcVjsX1ndBgkgC1EM5EUzMACGm8L": [
+			{
+				"comment_id": 5,
+				"body": "In Windows 10, in a terminal i go to the ZN folder and \"zeroney.py --debug\". I get the following error \"\n\n File \"C:\\Users\\Tomas\\Desktop\\ZeroBundle\\ZeroNet\\zeronet.py\", line 9\n    print \"- Starting ZeroNet...\"\n                                                ^\nSyntaxError: Missing parentheses in call to 'print'",
+				"added": 1457678027
+			}
+		],
+		"2_1MahZJTzjoEMMCv2jBReDWhyNGRhN5tvDq": [
+			{
+				"comment_id": 6,
+				"body": "http://127.0.0.1:43110/165eqHdoQfyf7CVGqtVCGNDvMBZhwVSJBL",
+				"added": 1457759279
+			}
+		],
+		"4_1NzjwWNcVjsX1ndBgkgC1EM5EUzMACGm8L": [
+			{
+				"comment_id": 7,
+				"body": "Problem persist?",
+				"added": 1457796538
+			},
+			{
+				"comment_id": 8,
+				"body": "Yes, the full screen problem is because ZN is programmed as an iframe sanboxed window with the full screen option disable for security reasons. Im trying to find a fix for this!",
+				"added": 1457889013
+			}
+		],
+		"5_1NzjwWNcVjsX1ndBgkgC1EM5EUzMACGm8L": [
+			{
+				"comment_id": 9,
+				"body": "i want the hard way xD",
+				"added": 1458073008
+			},
+			{
+				"comment_id": 10,
+				"body": "Thanks, i wanted this finger point answer.",
+				"added": 1458074067
+			},
+			{
+				"comment_id": 11,
+				"body": "I had a while seeing the ZeroBlog source code and working with it, but cant figure it out. Can i have some help, i need a comment section to be add on every \"content page\" that will have my page, i cant use the blog template because my page wont have \"posts\" it will have little content links. I dont need the following functions, just auth, and leave a coment the same as a blog, i think this is possible and its easier than the things im trying out. I think the only information i need for the db is user_id (who comments), comment_id, content_id (content where comment is located), time when commented was posted . Can i have some help please? I ve been with this like 10hrs now :S",
+				"added": 1458111456
+			},
+			{
+				"comment_id": 12,
+				"body": "Think about a play website, when you pop up the movie windows, under the quality options, you could add a comment",
+				"added": 1458111695
+			}
+		],
+		"8_1CMYxdit4qq9QGk9DYRu2ruRPd2YDGckH8": [
+			{
+				"comment_id": 13,
+				"body": "Like!",
+				"added": 1458153899
+			}
+		],
+		"6_1NzjwWNcVjsX1ndBgkgC1EM5EUzMACGm8L": [
+			{
+				"comment_id": 14,
+				"body": "Changed, now streaming Concussion 720p YIFY STREAM.",
+				"added": 1458187976
+			},
+			{
+				"comment_id": 15,
+				"body": "i have done some modifications! pls tell me what you think!",
+				"added": 1458266410
+			},
+			{
+				"comment_id": 16,
+				"body": "Soon i'll start looking for uploaders! If u r interested leave a comment!",
+				"added": 1458603597
+			}
+		]
+	},
+	"comment_vote": {}
+}

@@ -1,0 +1,15 @@
+{
+ "cert_auth_type": "web", 
+ "cert_sign": "G672j/0wD9hLT+yW3GQilKoS4StFpbrCHVuO6KORZCOd3Rt7w1KWMnFWc8hWaep5Meoo1UF/vpftEW6e7gXYw90=", 
+ "cert_user_id": "janetdoe@zeroid.bit", 
+ "files": {
+  "data.json": {
+   "sha512": "f4aa018275fbf62124ee7a9a84639cdc6e651c0d512962fec4699891a6dc0d16", 
+   "size": 569
+  }
+ }, 
+ "modified": 1454674785.953581, 
+ "signs": {
+  "14oqzN7fCAtc3RPUWL4sKqEfkVFYHbZyyF": "G+EySPGUVcFMB37cuJMyTyGnyl7fV0g4LvWAtVOlykW5GHgIL7rF0oXrbeIinbEA2Xpvxjf8dhrQJSeFsdd7TQ8="
+ }
+}

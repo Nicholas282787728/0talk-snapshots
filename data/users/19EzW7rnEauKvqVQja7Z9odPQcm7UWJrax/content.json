@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HIKW6npsCbwH2Ux0DmFcyMZM6h9p8H3Bz64PnxxBDYL3yNTKVvrtGlHKtrsCX+Gp2fS3uESBGrTMd1YeRXW+y0M=",
+ "cert_user_id": "sonatagreen@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "d2c3f849dc5e1990680e1ab40091b412a196dbfd35d77a8eab278a01f9bc9ff8",
+   "size": 1665
+  }
+ },
+ "inner_path": "data/users/19EzW7rnEauKvqVQja7Z9odPQcm7UWJrax/content.json",
+ "modified": 1466172933.447639,
+ "signs": {
+  "19EzW7rnEauKvqVQja7Z9odPQcm7UWJrax": "G21ZE5GrWBaNBD5Kpp97kMBo+P85/estuXRNOgoIvIF17KJZ7xqhUwplLLZjW+HlRgtTLQprnKZLAxCe+M1kkB0="
+ }
+}

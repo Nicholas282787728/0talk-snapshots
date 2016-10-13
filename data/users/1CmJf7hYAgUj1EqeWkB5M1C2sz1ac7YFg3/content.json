@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HCtBEG6FPGoEDZbVEOaBF7nQRi92zkOBxzJLk1kYP4HZ34XWF7svcA6NHOS9qt75lF9VtbRsxf4BeznrR2Hywjc=",
+ "cert_user_id": "brandocalrissian@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "55fcfb7ee20df66d0c094e420a83396e896a80accbb764ef4f19cfa5ba1497b7",
+   "size": 209
+  }
+ },
+ "inner_path": "data/users/1CmJf7hYAgUj1EqeWkB5M1C2sz1ac7YFg3/content.json",
+ "modified": 1456824559.312,
+ "signs": {
+  "1CmJf7hYAgUj1EqeWkB5M1C2sz1ac7YFg3": "HBgm81kmbjeVWq9vbu+jLZ1T7wRzXcmFfeSEcH/bPK0pm5uegekj9+o8eT8nc/XHe6mXk9CE4x54xszVbeI+SVI="
+ }
+}

@@ -1,0 +1,55 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 9,
+	"comment": {
+		"2_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": [
+			{
+				"comment_id": 1,
+				"body": "test?",
+				"added": 1457304450
+			},
+			{
+				"comment_id": 2,
+				"body": "well, it would be awesome if it did.",
+				"added": 1457304526
+			},
+			{
+				"comment_id": 3,
+				"body": "> [razkal](#comment_2_12tEAXYqJfqDRP7ZHY1T6fDp67PopmYzYp): Im the only one that thinks this may become big in the future?\n\nbut if this becomes big,  the amounts of money spent to control it will increase too...",
+				"added": 1457304576
+			},
+			{
+				"comment_id": 4,
+				"body": "> [razkal](#comment_4_12tEAXYqJfqDRP7ZHY1T6fDp67PopmYzYp): I doubt it woud take too much time before the cryptography of this was broke by both NSA and MI5. Those guys dont fuck around.Not that I have something to hide anyways.\n\nexactly my point. But not only those big known companies will try to crack this beautiful thing. Underground hackers that would love to make profit from exploits.",
+				"added": 1457305099
+			},
+			{
+				"comment_id": 5,
+				"body": "> [razkal](#comment_5_12tEAXYqJfqDRP7ZHY1T6fDp67PopmYzYp): This is part of the game, I suppose. Ppl will always try to profits somehow. Is the human nature.At least using individualized cryptography, they may have a hard work cracking down the whole thing\n\nlet´s hope that helps ZeroNet running for a long time, before it eventually falls to the hands of the government or smt alike.",
+				"added": 1457305415
+			},
+			{
+				"comment_id": 6,
+				"body": "hiello",
+				"added": 1457379763
+			}
+		],
+		"1_1FoCQCBaoX3Fi85goewPLRLr1mxFqmCKNU": [
+			{
+				"comment_id": 7,
+				"body": "Hello from Portugal. You know, the piece of land attached to spain that everbody thinks it belongs to spain.",
+				"added": 1457382011
+			}
+		],
+		"1_1FEwrHgDUC1ziFNjfPWxLsVmxsLUYEkPn6": [
+			{
+				"comment_id": 8,
+				"body": "Brasileiros que por aqui passam, digam-me, que acham do acordo ortográfico entre portugal e brasil? (P.S. Eu sou de portugal)",
+				"added": 1457382174
+			}
+		]
+	},
+	"comment_vote": {}
+}

@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HIs18gwhoqEQF9tT9TSF7G6WCZwWbxtQMFZbwfQXS8cViO//vPGLeiPd0vK6NLskPcgRIfv0dwwAYoNzfEQepFY=",
+ "cert_user_id": "azenet@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "6eb9135298b512d87959846a89d92e78ba0bfb7e8398b66c320472e971483a3b",
+   "size": 1619
+  }
+ },
+ "inner_path": "data/users/1KMjDiMh4s8dWLxk3zSPQ1w8gSPyL5oUf8/content.json",
+ "modified": 1456873507.8,
+ "signs": {
+  "1KMjDiMh4s8dWLxk3zSPQ1w8gSPyL5oUf8": "G0zeHMeGSa86+JnE523LDoIX8dHxuvwng7nN0jnBMLtpaNPobBYJugypNbDYpYg3cnmro0XySq4E0Gc7EhXqj/8="
+ }
+}

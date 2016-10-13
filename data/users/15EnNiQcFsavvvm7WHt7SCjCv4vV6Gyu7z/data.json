@@ -1,0 +1,70 @@
+{
+	"next_topic_id": 5,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "Seeding",
+			"body": "I'm running ZeroNet on a server and I'm not impressed by the incoming outgoing data ratio. Is there anyway to increase seeding?",
+			"added": 1456933660
+		},
+		{
+			"topic_id": 2,
+			"title": "ZeroNet + Meshnet",
+			"body": "Are there any attempts at running Zeronet on a physical Meshnet? Like Hyperboria or just plain CJDNS. That would truly be decentralised and censorship-resistant network",
+			"added": 1456933892
+		},
+		{
+			"topic_id": 3,
+			"title": "Howto retain ZeroID on multible installations",
+			"body": "How do I reinstall ZeroNet, without losing my ZeroID?",
+			"added": 1456938777
+		},
+		{
+			"topic_id": 4,
+			"title": "Carlsson",
+			"body": "Han kom som ett yrväder en aprilafton och hade ett höganäskrus i en svångrem om halsen.",
+			"added": 1456995787
+		}
+	],
+	"topic_vote": {
+		"1_15EnNiQcFsavvvm7WHt7SCjCv4vV6Gyu7z": 1,
+		"2_15EnNiQcFsavvvm7WHt7SCjCv4vV6Gyu7z": 1,
+		"3_15EnNiQcFsavvvm7WHt7SCjCv4vV6Gyu7z": 1,
+		"4_15EnNiQcFsavvvm7WHt7SCjCv4vV6Gyu7z": 1
+	},
+	"next_comment_id": 5,
+	"comment": {
+		"2_15EnNiQcFsavvvm7WHt7SCjCv4vV6Gyu7z": [
+			{
+				"comment_id": 1,
+				"body": "> [nofish](#comment_379_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): There is a meshproject that using zeronet:https://github.com/bashrc/freedombone/blob/1b983df895af0bbcb9415dc8f99d041319006eb9/src/freedombone-meshweb\n\nAh, Freedombone. I knew about that one. I own a BeagleBone and am a great fan of bashrc's work with Freedombone. I used it a bit when it was a lot more simplistic.\n\nIncidentally, I'm running my ZeroNet instance on my BeagleBone, does the job great!",
+				"added": 1456938562
+			}
+		],
+		"3_15EnNiQcFsavvvm7WHt7SCjCv4vV6Gyu7z": [
+			{
+				"comment_id": 2,
+				"body": "> [nofish](#comment_381_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): backup your data dir (data/user.json to be more specific)\n\nThanks, any idea on how to do that in an already started docker container?",
+				"added": 1456939947
+			},
+			{
+				"comment_id": 3,
+				"body": "> [garou](#comment_3_1C6JtzttTcB1nd8Q8JZYDHriciPz3kvLqV): I did running docker exec -i zeronet_docker_name_here /bin/bashand tail -n 100 /root/data/users.jsonso copied manualy...\n\nI just ran 'docker cp containerID /path/to/file /path/on/host' seems to work",
+				"added": 1456941581
+			},
+			{
+				"comment_id": 4,
+				"body": "> [drapslaget](#comment_3_15EnNiQcFsavvvm7WHt7SCjCv4vV6Gyu7z): I just ran 'docker cp containerID /path/to/file /path/on/host' seems to work\n\n `docker cp containerID:/path/to/file /path/on/host` is the correct command",
+				"added": 1456941664
+			}
+		]
+	},
+	"comment_vote": {
+		"379_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"381_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"3_1C6JtzttTcB1nd8Q8JZYDHriciPz3kvLqV": 1,
+		"4_1C6JtzttTcB1nd8Q8JZYDHriciPz3kvLqV": 1,
+		"382_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"2_1Mqgr6o8oMEzh7stxEsF7CwDChK68Wn5dX": 1
+	}
+}

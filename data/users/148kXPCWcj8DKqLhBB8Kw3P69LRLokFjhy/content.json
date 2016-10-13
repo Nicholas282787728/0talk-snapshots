@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "G5Z64aW7ZK3hAfSWSrAvWvHL3uINrAceDtCCDMO76UgsF5Vj8ttggPARCly7bS43sVF2aYM3EK/vA2WMt/ezD1Q=",
+ "cert_user_id": "holastre@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "25c1ed4b95aa1790ea940da055b74abf4ae5cbebd8e530814d916ca34cab1d08",
+   "size": 325
+  }
+ },
+ "inner_path": "data/users/148kXPCWcj8DKqLhBB8Kw3P69LRLokFjhy/content.json",
+ "modified": 1457565141.418,
+ "signs": {
+  "148kXPCWcj8DKqLhBB8Kw3P69LRLokFjhy": "HG3+oEYvMBBTrHeOSZ0WU5Bk1MrFEjTnWeQsq1P7gIqXsJzyenS1eTIjHC/m6W37kQ2QmcI01l/DQjk+agDFSwU="
+ }
+}

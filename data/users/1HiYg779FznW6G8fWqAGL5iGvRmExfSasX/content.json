@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "bitmsg",
+ "cert_sign": "GyHqWBKfZAXfQkZnZjfl//5TtTLiX/LS1dvLDD3k7YWybVSLsbz7lufXo4QYYBpeAI+qMbn59nRqQNdQqgXWrEI=",
+ "cert_user_id": "kuroto@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "68570313fabdf2d9eac869176487fc0c12f4f5f9996ec7a0e498ecc2d5f0acf7",
+   "size": 2707
+  }
+ },
+ "inner_path": "data/users/1HiYg779FznW6G8fWqAGL5iGvRmExfSasX/content.json",
+ "modified": 1471657869.9448,
+ "signs": {
+  "1HiYg779FznW6G8fWqAGL5iGvRmExfSasX": "HH5ipb2B8l9BUMfk2xahFWJl/IARpOrGTEBUCqAu1EEueGGQNCZ9yEAh9+C6l7T12GCiceihNRGRzC0rQKlIZQw="
+ }
+}

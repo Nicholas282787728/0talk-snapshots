@@ -1,0 +1,30 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 4,
+	"comment": {
+		"2_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": [
+			{
+				"comment_id": 1,
+				"body": "this is awesome",
+				"added": 1456949742
+			}
+		],
+		"1_1yq6ABe15TborB8sGQb1pGcZgUd6eu3WJ": [
+			{
+				"comment_id": 2,
+				"body": "The domain registry used is namecoin, \"a decentralized open source information registration and transfer system based on the Bitcoin cryptocurrency.\" read some more at https://namecoin.info/\n\nBasically, without having your private key, they can't censor your domain out of the domain registry.",
+				"added": 1456950209
+			}
+		],
+		"14_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf": [
+			{
+				"comment_id": 3,
+				"body": "I was linked to the torrentfreak article from hacker news (https://news.ycombinator.com).",
+				"added": 1456950437
+			}
+		]
+	},
+	"comment_vote": {}
+}

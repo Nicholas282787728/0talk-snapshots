@@ -1,0 +1,32 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 4,
+	"comment": {
+		"1_18jipjDsfAxAuq4ixbi2w24xJrYVfTYFPn": [
+			{
+				"comment_id": 1,
+				"body": "China",
+				"added": 1458998464
+			}
+		],
+		"1_1BQg5MQZ63aEQZMzLEXP6yY3hsgznKpaps": [
+			{
+				"comment_id": 2,
+				"body": "Archlinux!",
+				"added": 1458998494
+			}
+		],
+		"1_1EFyYHRG136W3HscisQ8ig1MutG6zT3zbV": [
+			{
+				"comment_id": 3,
+				"body": "话说zeronet的缓存文件是存在哪的？",
+				"added": 1459000614
+			}
+		]
+	},
+	"comment_vote": {
+		"3_17GoSBQa419SCrJkj4djvTAgRFCDWHKuM3": 1
+	}
+}

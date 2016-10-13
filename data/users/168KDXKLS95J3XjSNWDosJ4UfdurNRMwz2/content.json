@@ -1,0 +1,15 @@
+{
+ "cert_auth_type": "web", 
+ "cert_sign": "G6l1KhiKsFXP3e5ADM2EmIVmTTXAYAWQBY0qqXo1ET3Ka04CGGeCXWtti9ZfSAz001FYg3sbOi2PVhiEJFoLBX8=", 
+ "cert_user_id": "veryflying@zeroid.bit", 
+ "files": {
+  "data.json": {
+   "sha512": "4bf6a745a2493a50a7e00a471f75e5ec4d3941afc305f5a314ba55aed83cec61", 
+   "size": 240
+  }
+ }, 
+ "modified": 1453198502.546, 
+ "signs": {
+  "168KDXKLS95J3XjSNWDosJ4UfdurNRMwz2": "HPOnnl9/9tcXa5g4V3eVst7JH1AwD8EMtKKOhWHJQhn37mlLPAoeBSgJXbaDapklY0u4xjVJ6lMcnl4tOWg+WbM="
+ }
+}

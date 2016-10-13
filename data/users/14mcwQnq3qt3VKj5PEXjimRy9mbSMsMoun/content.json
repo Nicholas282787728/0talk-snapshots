@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "Gy2kngl1R8qe8GzyfsYyJyekN1+BBB1AKzqJILjeMcdnDmz2a0q2Brzd9aVVQkziLVC2QPeNGDg1HJ4xLvd2Txs=",
+ "cert_user_id": "steamer074@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "bf7edc2be437d900d21f45fdd696946d4d02e808217431b8f33e94eeda2d21f5",
+   "size": 1164
+  }
+ },
+ "inner_path": "data/users/14mcwQnq3qt3VKj5PEXjimRy9mbSMsMoun/content.json",
+ "modified": 1466553647.912,
+ "signs": {
+  "14mcwQnq3qt3VKj5PEXjimRy9mbSMsMoun": "G6U6XrtHyz4pK4RynaCSbjf0sV6KP0dn4Fl5sF+J6OQr+OFRfuYH3FhrP+Q3x38dLT7xuZY4OylUEaSipgF/gPM="
+ }
+}

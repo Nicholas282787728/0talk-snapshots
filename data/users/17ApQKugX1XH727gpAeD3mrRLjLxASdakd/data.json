@@ -1,0 +1,52 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "Social networks",
+			"body": "I think it would be great to set up a social network in Zeronet.\nCould it be possible to set up a Diaspora, or a Friendica, or a Hubzilla/Redmatrix pod/hub in here?",
+			"added": 1457058878
+		}
+	],
+	"topic_vote": {},
+	"next_comment_id": 7,
+	"comment": {
+		"1_1GG2zSSdoGqykuSqXrsnSo6JSgZ2UqMahu": [
+			{
+				"comment_id": 1,
+				"body": "I was wondering about that myself :-)",
+				"added": 1457052176
+			},
+			{
+				"comment_id": 2,
+				"body": "Also, I think it would be great if there could be a way for play to stream the videos, like popcorntime does :-)\nBut I suppose that's difficult in a browser, especially since we are using different browsers",
+				"added": 1457054147
+			}
+		],
+		"3_1LPrQCYEyVA3Pz3gEVEf7Qc2z12QGNCSbd": [
+			{
+				"comment_id": 3,
+				"body": "It is a bitcoin wallet, right?",
+				"added": 1457057844
+			}
+		],
+		"1_17ApQKugX1XH727gpAeD3mrRLjLxASdakd": [
+			{
+				"comment_id": 4,
+				"body": "@ripper234\nYes, there are a lot of them. It's just that the ones I mentioned are in a \"federation\" with each other",
+				"added": 1457069321
+			},
+			{
+				"comment_id": 5,
+				"body": "> [ripper234](#comment_5_1MxdAjWgnqwCaunGHmhY39tVR51qV3peJL): Isn't Diaspora dead? I haven't heard of the others.\n> I happen to know the CEO of Synereo, that's why I plugged in - I told him today he should take a SERIOUS look at ZeroNet.\n\nNope, I don't think it's dead, in fact it must be the most well known of most of the decentralized networks I have seen.\nSynereo seems beautiful, I 'll check it out soon.",
+				"added": 1457073052
+			}
+		],
+		"1_1HcK5Hw1rPZeYdgTmqJGrVG2tSyR9Ke2Gt": []
+	},
+	"comment_vote": {
+		"3_15YUzYgogtiHYqXP5HXtdLS2dLZuxnvuRQ": 1,
+		"3_1MxdAjWgnqwCaunGHmhY39tVR51qV3peJL": 1,
+		"5_1MxdAjWgnqwCaunGHmhY39tVR51qV3peJL": 1
+	}
+}

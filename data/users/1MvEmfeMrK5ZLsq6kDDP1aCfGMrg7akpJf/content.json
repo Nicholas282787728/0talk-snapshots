@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "G3EWGQNUTxRlgtByaOaQMrPob4gOMtjckjyaqTXPnj0j4cvJ3zTPuF5ASAbET2wVgiHxn2ojx06G+X/Zleq5D1o=",
+ "cert_user_id": "thestormaker@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "f74b220d73e526189ad15de65ef79387a695b9e26d04f3a1be78042343c491b8",
+   "size": 292
+  }
+ },
+ "inner_path": "data/users/1MvEmfeMrK5ZLsq6kDDP1aCfGMrg7akpJf/content.json",
+ "modified": 1464958382.609,
+ "signs": {
+  "1MvEmfeMrK5ZLsq6kDDP1aCfGMrg7akpJf": "HMuKTD0Tfao/9K6vE5LMpHz+hCCMv4cc5Egzrzp7pZH0+XH48O2H1LkMytVmqVwa0gpWAgpVZzum4u0GfozSfrA="
+ }
+}

@@ -1,0 +1,16 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 2,
+	"comment": {
+		"1_13jLz92kNNVJPG2AgUr83SzTwfsS8RUrcG": [
+			{
+				"comment_id": 1,
+				"body": "> [kaffie](#comment_102_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh): To have accurate searching of content within the page, you have to have that content accessible. Google does this by essentially cacheing the entire internet. This is not really a solution for a ZeroNet site. Something like Zearch tried this, and it doesn't work out too well. One solution could be to have sites update a 'metadata' field in the content.json. Then all a crawler would have to do is grab that metadata and appropriately search it. But that requires site owners to participate.\n> So far, all the search engines (with the exception of Zearch) simply use curated tags. But perhaps there's a better solution. We'll see.\n\nI think the best solution for text search would be to use bloom filters (e.g. https://www.stavros.io/posts/bloom-filter-search-engine/)",
+				"added": 1459020803
+			}
+		]
+	},
+	"comment_vote": {}
+}

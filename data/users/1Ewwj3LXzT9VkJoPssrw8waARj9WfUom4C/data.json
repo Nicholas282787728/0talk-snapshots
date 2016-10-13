@@ -1,0 +1,18 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 2,
+	"comment": {
+		"1_17dEBAxTcyJg38KfNtCvYWp7fddLKHv4rc": [
+			{
+				"comment_id": 1,
+				"body": "> [ripper234](#comment_2_1MxdAjWgnqwCaunGHmhY39tVR51qV3peJL): :(:(:(:(:(\n\nדי מגעיל",
+				"added": 1457290814
+			}
+		]
+	},
+	"comment_vote": {
+		"2_1MxdAjWgnqwCaunGHmhY39tVR51qV3peJL": 1
+	}
+}

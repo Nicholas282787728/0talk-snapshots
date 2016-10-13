@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "GwAMb3MzvIbeEe8Ccidk9auzqlj/mxvWEuZiuk80R7/WUx5cu0NKGtnZNYo7sDBz9eKqSFTPnhV7D6rNR9NNP2I=",
+ "cert_user_id": "flakka@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "924307cb649354cdcf9d6f7d70abc6b5aeabe6a694aa4aca038ae4895f38dbf4",
+   "size": 239
+  }
+ },
+ "inner_path": "data/users/1HhteMKKVc7dWDoyroYUzADKVAYEvPexW/content.json",
+ "modified": 1460550623.878,
+ "signs": {
+  "1HhteMKKVc7dWDoyroYUzADKVAYEvPexW": "HJKVyoZgkz/to6fzXjg1jifbo5MUr9hSx/AmweQkfboVfyTDq25TlLAwPz21pByR31EtP1OulbaO0BdzoN2tVts="
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "G6bTEAynP2fdDYY5cImey1aTHM/sXnOOdZRSJE+AlXx6vktfoSEieUCJBsIMI0Unw2eXT5oTusPFOMuHzXUU4aE=",
+ "cert_user_id": "danielalberto@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "9aef986ed26dfe2704aab7fa9a4bc374ebf01a4bbb54966b88bfffae17344089",
+   "size": 321
+  }
+ },
+ "inner_path": "data/users/1CWRomNuQj9PcaehomU9b12F4wXQDXmekt/content.json",
+ "modified": 1461870020.575339,
+ "signs": {
+  "1CWRomNuQj9PcaehomU9b12F4wXQDXmekt": "HGaU9WZFMlHhTWlojbKUpKEgbcJbGD/FEPiqOUQlzma2LoKLgvcIrIjPtbJnDEic6f6dXPtKGZfYZoamnOr6Jh4="
+ }
+}

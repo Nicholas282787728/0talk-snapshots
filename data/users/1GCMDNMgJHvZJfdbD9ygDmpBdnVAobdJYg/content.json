@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "bitmsg",
+ "cert_sign": "HN80+RK9qy7FSkkgqCsG4+vm3PGB4mHpL98PLhDqqQ7a7LfdA4++GNjoUl1KXvKRU28RV4mf3gN2LOAHD5N4Jgw=",
+ "cert_user_id": "cannonfodder@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "68c75b465c5444721e5374d957baf71b1b9945d9aed55592d4d41c559d930437",
+   "size": 18178
+  }
+ },
+ "inner_path": "data/users/1GCMDNMgJHvZJfdbD9ygDmpBdnVAobdJYg/content.json",
+ "modified": 1474778935.62909,
+ "signs": {
+  "1GCMDNMgJHvZJfdbD9ygDmpBdnVAobdJYg": "GyMSgfML+LRFkRkcBOOJlL7c07xFXJghXzBMES5iOQFnr4SsGAQNoqv+2XCfcRRMrybEnypZWaIBhdggGkLTmdI="
+ }
+}

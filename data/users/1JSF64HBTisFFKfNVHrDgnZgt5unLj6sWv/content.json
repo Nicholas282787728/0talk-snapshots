@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "GzxOh94pBVlQ1XuE8QIMb0tPmWWXB0U61f/x67YWwd7N9WJ658PE/h426KLT9S4boWpJNidTJyAHr3Lu+xtaZec=",
+ "cert_user_id": "sudoreboot@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "f5610078258ed0c8832eef2373266bad31aa8edb2cd37a445c610ad2fd0daeba",
+   "size": 300
+  }
+ },
+ "inner_path": "data/users/1JSF64HBTisFFKfNVHrDgnZgt5unLj6sWv/content.json",
+ "modified": 1471157020.963369,
+ "signs": {
+  "1JSF64HBTisFFKfNVHrDgnZgt5unLj6sWv": "HGTXs/u3ihu2HS5KN+JiyNDCOHvgb8z56aJoPj8NUYnbhMfkp2I+TZOIOwlaKUOCOn//huKRd9JrsT2D8ZYENoE="
+ }
+}

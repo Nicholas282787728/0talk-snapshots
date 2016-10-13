@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "G6EGlDZDL1ENNXmkUHgnEeNI8VMZ50SaUnRf+MxUTrOh/CAF7jaT/mGkahwTEapVOKlYI0HsSSK0JPWTrsodQnU=",
+ "cert_user_id": "mantis@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "639d855a21bfeda9130f3b834ed8962234c906423ad564fdf476a7bfac205b3f",
+   "size": 346
+  }
+ },
+ "inner_path": "data/users/1Hn18o1uQYZQYSxYE3MhwiWSDCfwcbcp9z/content.json",
+ "modified": 1457502136.495,
+ "signs": {
+  "1Hn18o1uQYZQYSxYE3MhwiWSDCfwcbcp9z": "HKPFEJRtRDp2og9I+6YmfRzo595avvASkMeUZlq8yoffo3CdWEaNhdKPWCe3VMT30am0FMqHbOenyDSOKCEfQqQ="
+ }
+}

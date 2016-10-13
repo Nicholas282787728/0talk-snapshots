@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HMcKlaeOPpJurSM1zymixUR/TJNVCdljI6EcFxKx3lJmzpdXjQ8SSUsWZw4xrt/rsfpCWMsx8tHQfmnxlH+5mtM=",
+ "cert_user_id": "danzonova@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "af48865f62ba9749696fa204a06a37a0c06cb430048904367183667f320e80c8",
+   "size": 749
+  }
+ },
+ "inner_path": "data/users/19XWDBAeuP4d4wnbK8fDSyRL5cm6aaM3i/content.json",
+ "modified": 1462394841.649,
+ "signs": {
+  "19XWDBAeuP4d4wnbK8fDSyRL5cm6aaM3i": "G8LrJAjUI0nAlF9o2NR+EQ5CXdvmus7p4Z3SbqbcFVdMU98OAgO2vmmmyRfUY+uC8XMPo7qZktSmBEUpc5/My2k="
+ }
+}

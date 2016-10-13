@@ -1,0 +1,25 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 3,
+	"comment": {
+		"1_18jipjDsfAxAuq4ixbi2w24xJrYVfTYFPn": [
+			{
+				"comment_id": 1,
+				"body": "Canada Sorry :)",
+				"added": 1460502284
+			}
+		],
+		"1_1KdVeashoiPjj79tVUmAy8cBYjwxfZNe1e": [
+			{
+				"comment_id": 2,
+				"body": "My favorite video game right now is Starcraft II but I also enjoy Witcher. I play Witcher when I want to waste a couple of hours turn into days and Starcraft when I only have a few hours.",
+				"added": 1460502498
+			}
+		]
+	},
+	"comment_vote": {
+		"467_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1
+	}
+}

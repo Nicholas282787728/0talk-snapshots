@@ -1,0 +1,25 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {
+		"1_1J977d47QgTcnJwZ3u67h3wX9ysJTNpfLL": 1,
+		"1_1CoVAt2jBzV4Na6nX3VG1JSfjS8fwse1Z9": 1,
+		"4_17VwZEfWSUWb5RHkK9m1odnDdBfvjTL6Cp": 1,
+		"9_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1
+	},
+	"next_comment_id": 2,
+	"comment": {
+		"1_1Gb4DzrdjGBCiTnVyZRB2CHfdSnBfb4FY1": [
+			{
+				"comment_id": 1,
+				"body": "> [ulrichard](#comment_15_1PSaHi14Xh4Kjo3yyjDgbRtj4YLQgWV4QJ): I know there are some programs that can detect nudity and such stuff in images. I wonder if that's open source. If so, you could run it over the zeronet cache from time to time to see if there is something you don't want, and then delete it. I mean it wouldn't be cool if some crap was hidden in a popular zite that lots of people seed.\n\nYup. http://luthuli.cs.uiuc.edu/~daf/papers/ko5.pdf",
+				"added": 1472105532
+			}
+		]
+	},
+	"comment_vote": {
+		"5_1GervYZoP82e8X1Rgc4wyMkJY2zSsJuq8t": 1,
+		"10_19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ": 1,
+		"6_1CFhytwoGGPNqmueehPqotaf2iG9uxD98e": 1
+	}
+}

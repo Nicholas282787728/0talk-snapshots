@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HGBKqvReLeIsk3JsCzxzVkYuyFqs/WOzEqbE+wVDwwPp2QJ08PoAK57shim+TI0OpZKx/Y++leHEy4fXRuizCIU=",
+ "cert_user_id": "moon7river@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "f2de820839a9f0dc3adffc9c5c220324834f13237fcc181b9bb4826182db12df",
+   "size": 242
+  }
+ },
+ "inner_path": "data/users/1EY227aKRRhpeLtXNGA21BE89FS4ViAzfH/content.json",
+ "modified": 1461265139.47,
+ "signs": {
+  "1EY227aKRRhpeLtXNGA21BE89FS4ViAzfH": "GwQ31TPRSxNkYsV586VtgSJCaHBuLt9SQX2GQs68ftziHtEwA/zv0mV96fw6UpWzeU+gSt8xGrvGagnYrwzlDKk="
+ }
+}

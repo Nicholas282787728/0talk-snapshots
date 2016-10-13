@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HChKuNqu+JIOMw+qbRdsmbp+4ZMmPicrd/DmFqHYArjY72wJxu2eYNB2eOOtcriv8h2VhCZDcnUJE/Ml0m876/0=",
+ "cert_user_id": "ukjet@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "d6c2d391ff282620a8c3a1d441c0dd5314ed3c50f071633183ac68e14dbed4b6",
+   "size": 250
+  }
+ },
+ "inner_path": "data/users/1M5VteaGEsC4c26fkG1D3J3pWCVRDVMtrB/content.json",
+ "modified": 1456872755.208,
+ "signs": {
+  "1M5VteaGEsC4c26fkG1D3J3pWCVRDVMtrB": "G07o+B3LYsRCDzkWJpCejq519w9TbEqI3eQI5SOCBzTCfUMAvjWOPMOZWAR5L2W0T6rp8xLgiBhuIcdTldm5dKQ="
+ }
+}

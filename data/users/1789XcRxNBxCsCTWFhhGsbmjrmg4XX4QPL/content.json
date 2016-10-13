@@ -1,0 +1,15 @@
+{
+ "cert_auth_type": "web", 
+ "cert_sign": "G718JJ0Kf1BhFBjHpS/8KQdXbrRSN0jJopygqIeobuy4GWDAe0Pu+wgcXMm0XZ74Oox4hoiHEDjhIolBnqSSTSA=", 
+ "cert_user_id": "eosphor@zeroid.bit", 
+ "files": {
+  "data.json": {
+   "sha512": "5d1a5e036d308333ea5959bbcffe79cbdadc101275b2ac9cc1e694747425a5e0", 
+   "size": 513
+  }
+ }, 
+ "modified": 1453752268.836833, 
+ "signs": {
+  "1789XcRxNBxCsCTWFhhGsbmjrmg4XX4QPL": "HLMewHfiHZCshEQN6FyDPxfx3W6guu9THHjRLxOJMWyGcxRQShHHdacJ8dSsH06U5/wxloK0RPxyiMYSkJp+d+s="
+ }
+}

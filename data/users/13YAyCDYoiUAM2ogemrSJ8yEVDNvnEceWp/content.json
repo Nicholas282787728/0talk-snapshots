@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HHMnrmswWnnidkxLclQG0VzJoJkhZ0q3BL5e5rS1HRLcERDykBx/iG8mL7EeHplHuVY2aBQGcoix2zE6Q1HjtKU=",
+ "cert_user_id": "stroopwafel@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "6bc21500253da813ebd3117910b79e475b3f7f83955a2d1f52cd1a8f086fd000",
+   "size": 2709
+  }
+ },
+ "inner_path": "data/users/13YAyCDYoiUAM2ogemrSJ8yEVDNvnEceWp/content.json",
+ "modified": 1470675435.794,
+ "signs": {
+  "13YAyCDYoiUAM2ogemrSJ8yEVDNvnEceWp": "G8hR/XSJpa2FBetCLSJ+v7Q/HxhBpClhY0wJuKg5qSS072LzWDrvvsfVgx1w9csP88a5dqA5OCJh1cEq+0PyG7M="
+ }
+}

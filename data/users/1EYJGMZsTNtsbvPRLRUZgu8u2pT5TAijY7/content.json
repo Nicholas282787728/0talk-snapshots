@@ -1,0 +1,15 @@
+{
+ "cert_auth_type": "web", 
+ "cert_sign": "G1DIQvn71oPfJEifxU4UfoodTwCQP0SUA7v5wPGbq15dW3/T1TG98nohBY/C827PMNZyB+TDPqbKW/G9gGDQ8HI=", 
+ "cert_user_id": "inteluga@zeroid.bit", 
+ "files": {
+  "data.json": {
+   "sha512": "d821ea1bcad84457e3d6f42f39c40753b8a898259d30fa2478cac9d5ab583534", 
+   "size": 162
+  }
+ }, 
+ "modified": 1457023667.23, 
+ "signs": {
+  "1EYJGMZsTNtsbvPRLRUZgu8u2pT5TAijY7": "G5K1ySK7bfoEVBBG1DMLu2RpiU+IyGSwt011GSTkDX51JQQ2/gA9uLRFnPekuBYgNEXghHGrYrz146iZWtswzEo="
+ }
+}

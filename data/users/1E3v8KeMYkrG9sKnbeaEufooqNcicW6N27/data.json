@@ -1,0 +1,21 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "What do you think so far?",
+			"body": "Tell me what you think about Zeronet so far.",
+			"added": 1467029214
+		}
+	],
+	"topic_vote": {
+		"1_1E3v8KeMYkrG9sKnbeaEufooqNcicW6N27": 1
+	},
+	"next_comment_id": 1,
+	"comment": {},
+	"comment_vote": {
+		"36_1KdnTJVBGzEZrJppFZtzfG9chukuMv8xSb": 1,
+		"1_1MY28MHHizBvsiRNfXjmcL2H2mgTRjd3Pg": 1,
+		"1_19gBx9XfbNtn42bdsvh9rsHSMLuQdyiUNS": 1
+	}
+}

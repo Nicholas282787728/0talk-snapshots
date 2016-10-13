@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HFxCCJWjD8LOMAoPWbDRAZLn9qO2IPINg/Y0ZrooNhFd7aXORgA+gL5pmolr0SnBIPw0Vbf8wea3q/QgW2Dkc/U=",
+ "cert_user_id": "rpdillon@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "96f5e6b2b5fd7fba303022059ae6c1e6a77a86be678f1338be1199e85da72570",
+   "size": 207
+  }
+ },
+ "inner_path": "data/users/1A7PkzaAbqKSRbmZG1QmPkoGsUDnFyoC6a/content.json",
+ "modified": 1468646307.025558,
+ "signs": {
+  "1A7PkzaAbqKSRbmZG1QmPkoGsUDnFyoC6a": "G5yUIPz0LDW/Ylhr7r27eqHOxbvdQoAP6dZign3JLYvRzZMs15SkG2b0BUURatRbbZ7V/kxjb4VwCoHKDt594sw="
+ }
+}

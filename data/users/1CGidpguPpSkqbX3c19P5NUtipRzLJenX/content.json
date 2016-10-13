@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HDCVB/XTuFmwD9veIAnze88Yt9MYyO5hQDyeN2BWqx5/SCZCrjebUCF+5q2AEV2a2RoweNrKRnXqGkYip55rrNU=",
+ "cert_user_id": "apoapostolov@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "fada67cea1a82862f1e693ce237f8c68d656cd661effa25e01b4116980e721bb",
+   "size": 1587
+  }
+ },
+ "inner_path": "data/users/1CGidpguPpSkqbX3c19P5NUtipRzLJenX/content.json",
+ "modified": 1457037551.227,
+ "signs": {
+  "1CGidpguPpSkqbX3c19P5NUtipRzLJenX": "HBzOZ6kn14rQLCyFTPPIpQk6ODs4+9Iyb8Fx+8DQC53263/PFhVvinu1++S8jSg3N3xLcyBr/fmEpJp57ZJ2fWs="
+ }
+}

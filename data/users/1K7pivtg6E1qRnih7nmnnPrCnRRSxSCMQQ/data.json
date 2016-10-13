@@ -1,0 +1,16 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 2,
+	"comment": {
+		"1_1B6K3CdEdkDqn2vbe4sURDAGMV1xeFpf3t": [
+			{
+				"comment_id": 1,
+				"body": "> [furburb](#comment_1_1F1zfoai6i629oFmUa6EyQyQR8Atj7XjnV): Maidsafe's alpha is out now. It's really clean, fast, and works like a charm. Definitely a good alternative to Znet. So far, it seems like they're doing what Malestrom attempted to do.\n\nhow can i run it on linux? i cant find a run command after installing it",
+				"added": 1471278022
+			}
+		]
+	},
+	"comment_vote": {}
+}

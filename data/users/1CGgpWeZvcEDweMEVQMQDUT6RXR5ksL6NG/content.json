@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "G49aIaqSjhOz0I1LV3p17py01zZGNBXG3XMi5wkTuyfVOZyQ0zgZbPqRV3VU7DXaWMR6V0O9JyOQJ5sGE+UMcZw=",
+ "cert_user_id": "jamaicangold@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "0698e92524491ae4acc2d571aeaffde70b2076bf1d4cc0ea673e1f89c47337fd",
+   "size": 480
+  }
+ },
+ "inner_path": "data/users/1CGgpWeZvcEDweMEVQMQDUT6RXR5ksL6NG/content.json",
+ "modified": 1463305490.481067,
+ "signs": {
+  "1CGgpWeZvcEDweMEVQMQDUT6RXR5ksL6NG": "G0f7XzbZPp1Jxp4DW29h70Mz0J+VxafhJWy/cBBlrP3gIn/BZSv8A5I1lcDzkTBKYsvuqsgxEaqEKLcvTUnv5y0="
+ }
+}

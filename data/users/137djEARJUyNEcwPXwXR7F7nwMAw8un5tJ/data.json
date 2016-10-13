@@ -1,0 +1,131 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {
+		"2_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"1_19y2tY5XJRD3YqFYn9vVgsq74nWBTPUcgv": 1,
+		"2_1BY3fbfkw2w8oDtpbjbEQQbpmNzrWL4BqN": 1,
+		"4_1LPrQCYEyVA3Pz3gEVEf7Qc2z12QGNCSbd": 1,
+		"3_13JhM5L4pzMvS3TSwfNRgE65ne8GT7EHR9": 1,
+		"7_14XxpXNGMLsyeQxikacrbQnAFXVyhN5Ngx": 1,
+		"2_15ymkjUYJS6tjUC35AekGMExZMN6iks8ma": 1,
+		"2_1PtoWgfjhzMK8qz1eTVG3QsawNQ4DL8c8Y": 1,
+		"1_1PtoWgfjhzMK8qz1eTVG3QsawNQ4DL8c8Y": 1,
+		"1_1ELh3yaiakmeDvLLUhzPDKixiNaqGUYzNh": 1,
+		"5_1LPrQCYEyVA3Pz3gEVEf7Qc2z12QGNCSbd": 1,
+		"1_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG": 1,
+		"1_1Kg7CXZM5h3wTPENsTDwWUmRBf9VhYy2cW": 1,
+		"1_1FbEENPR12D1yfqWWszQfNgb1Tu5TecMFV": 1,
+		"1_1DcDDitsjFJohvwonPmpibRChmA7uGxqL7": 1,
+		"1_1BhtLu1iKdZ2HaBNUrDdmwqF11ZC4y3zL": 1,
+		"1_13JhM5L4pzMvS3TSwfNRgE65ne8GT7EHR9": 1,
+		"2_13JhM5L4pzMvS3TSwfNRgE65ne8GT7EHR9": 1,
+		"3_1P97itWECWCYp7D73wY4GaTKUyUo4A3Pcf": 1,
+		"1_1E1PGsCSCNzkP8xmx8awJ2hho3cPdsN4FF": 1,
+		"3_1JHQA9oFkFpFFRiscyT4N71AKLWg46pQ92": 1,
+		"1_18SV5U2zbB3EjxYCBTQzwakTKRjf81AfPQ": 1,
+		"1_154jAWx5PDRmvF4txGHo4Edw1BpduhDyvw": 1
+	},
+	"next_comment_id": 26,
+	"comment": {
+		"2_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": [
+			{
+				"comment_id": 1,
+				"body": "░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░\n░░░░░▒▓▓█▒▒█▒▓▓░██▒▓█░░█▓▓█░░█▓░▒█░█▓▒▓▒▓▓█▓▓░░░░░░░░░░\n░░░░░░░█▓░▒█▒▒▒░██░▒█░█▓░░▒█░██▓░█░█▒▒▒░░░█░░░░░░░░░░░░\n░░░░░▒█▓░░▒█▒▒▒░██▒█▓░██░░██░█░███░█▒▒▒░░░█░░░░░░░░░░░░\n░░░░░▓█▓▓▒░█▒▓▓░▓▒░░█░░▓▓▓▓░░▓░░▓▓░▓▓▓▓▒░░█░░░░░░░░░░░░\n░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░\n░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░\n░░░░░░░░░░░░░▒▒▓▓▓▓▓▒░░░░░░░░▒▒▒▓▓▓▒▒▒░░░░░░░░░░░░░░░░░\n░░░░░░░░░░░▒██▓▓▓▓▓▓▓█▓▒░░░▓▓█▓▓▒▒▒▒▒▓▓▒░░░░░░░░░░░░░░░\n░░░░░░░░░░██▓▓▓▓▓▓▓▓▓▓▓█▓░█▓▓▓▓▒▒▒▒░░░▒▓▒░░░░░░░░░░░░░░\n░░░░░░░░░▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒░▒▓▒░░░░░░░░░░░░░\n░░░░░░░░▒█▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▓░░░░░░░░░░░░░\n░░░░░░░░▓█▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▓▒░░░░░░░░░░░░\n░░░░░░░░▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▓▒░░░░░░░░░░░░\n░░░░░░░░▒█▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▓░░░░░░░░░░░░░\n░░░░░░░░░▓█▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▓▒░░░░░░░░░░░░░\n░░░░░░░░░░▓█▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▓█▒░░░░░░░░░░░░░░\n░░░░░░░░░░░▓█▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▓▓█▒░░░░░░░░░░░░░░░\n░░░░░░░░░░░░▒█▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▓▓▓▓▓▒░░░░░░░░░░░░░░░░\n░░░░░░░░░░░░░░▓█▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░\n░░░░░░░░░░░░░░░▒▓█▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓█▓░░░░░░░░░░░░░░░░░░░░\n░░░░░░░░░░░░░░░░░▒▓█▓▓▓▓▓▓▓▓▓▓▓▓▓▒░░░░░░░░░░░░░░░░░░░░░\n░░░░░░░░░░░░░░░░░░░▒▓█▓▓▓▓▓▓▓▓▓▒░░░░░░░░░░░░░░░░░░░░░░░\n░░░░░░░░░░░░░░░░░░░░░▒▓▓█▓█▓▒░░░░░░░░░░░░░░░░░░░░░░░░░░\n░░░░░░░░░░░░░░░░░░░░░░░░▒▓▒░░░░░░░░░░░░░░░░░░░░░░░░░░░░",
+				"added": 1457110083
+			},
+			{
+				"comment_id": 3,
+				"body": "НУ ТАК СДОХНЕШЬ ОТ СТАРОСТИ, БОЛЕЗНЕЙ И СМЕРТИ НЕ ВЫЧИСЛИВ ПРОТЕИНЫ В BOINC А МОГ БЫ СТАТЬ БЕССМЕРТНЫМ",
+				"added": 1457116311
+			},
+			{
+				"comment_id": 4,
+				"body": "НУ ТАК ВЫЧИСЛЯТЬ НУЖНО ДО БЕССМЕРТИЯ",
+				"added": 1457116333
+			},
+			{
+				"comment_id": 5,
+				"body": "PROTEINE INSAIDERS \nhttp://127.0.0.1:43110/0chan.bit/?/rus/thread/0883888b9d8d86eb84043b125d219c17",
+				"added": 1457116957
+			},
+			{
+				"comment_id": 6,
+				"body": "http://127.0.0.1:43110/0chan.bit/data/users/137djEARJUyNEcwPXwXR7F7nwMAw8un5tJ/344a74aa03a4a370371f1dc5bdfe024c.jpg",
+				"added": 1457121668
+			},
+			{
+				"comment_id": 15,
+				"body": "КТО ХОЧЕТ ПРОДВИНУТЬ ЗЕРО НЕТ В РУНЕТЕ КИДАЙТЕ КАРТИНКУ НА ФОРУМЫ И ЧАТЫ! \nРАСПРОСТРАНЯЙТЕ ИНФОРМАЦИЮ В https://2ch.hk/b И https://2ch.hk\n\nhttp://127.0.0.1:43110/0chan.bit/data/users/137djEARJUyNEcwPXwXR7F7nwMAw8un5tJ/14932485b88d2dcbb3edc3e6101109af.jpg",
+				"added": 1457193992
+			},
+			{
+				"comment_id": 16,
+				"body": "When I'm not calculates PROTEINS death came to Grandpa\nWhen I'm not calculates PROTEINS death came to her grandmother.\nWhen I'm not calculates PROTEINS death came to his parents.\nWhen I'm not calculates PROTEINS death came to the best of friends.\nWhen I'm not I calculate PROTEINS death came to my girlfriend, because the disease were stronger than her mind and body.\nBut when no one left to be calculated protein - And death came to me.\n\nBOINC / ROSETTA HOME\nКОГДА Я НЕ ВЫЧИСЛЯЛ ПРОТЕИНЫ СМЕРТЬ ПРИШЛА К ДЕДУШКЕ\nКОГДА Я НЕ ВЫЧИСЛЯЛ ПРОТЕИНЫ СМЕРТЬ ПРИШЛА К БАБУШКЕ. \nКОГДА Я НЕ ВЫЧИСЛЯЛ ПРОТЕИНЫ СМЕРТЬ ПРИШЛА К РОДИТЕЛЯМ.\nКОГДА Я НЕ ВЫЧИСЛЯЛ ПРОТЕИНЫ СМЕРТЬ ПРИШЛА К ЛУЧШИМ ДРУЗЬЯМ.\nКОГДА Я НЕ ВЫЧИСЛЯЛ ПРОТЕИНЫ СМЕРТЬ ПРИШЛА К МОЕЙ ДЕВУШКЕ, ПОТОМУ ЧТО БОЛЕЗНЬ ОКАЗАЛОСЬ СИЛЬНЕЙ ЕЁ РАЗУМА И ТЕЛА. \nНО КОГДА УЖЕ НЕКОМУ БЫЛО ВЫЧИСЛЯТЬ ПРОТЕИНЫ - СМЕРТЬ ПРИШЛА И КО МНЕ. \n\nBOINC/ROSETTA HOME",
+				"added": 1457207113
+			},
+			{
+				"comment_id": 17,
+				"body": "ФЕОДАЛИСТЫ МОНОПОЛИСТЫ ХОТЯТ ЧТО БЫ СДОХЛИ ОТ СМЕРТИ И НЕ ВЫЧИСЛЯЛИ ПРОТЕИНЫ В BOINC ROSETTA HOME\nСЕБЕ ОНИ НА СЧЕТА МИЛЛИАРДЫ НАЧИСЛЯЮТ ПРОСТО ТАК, А ВЫ РАБОТАЕТЕ ЗА ДЕНЬГИ! И ПОЛУЧАЙТЕ ХУЙ!\nКОПИТЕ НА ЖИЛЬЕ 20 ЛЕТ! ВАС ОБНУЛЯТ!\nДЕБИЛОИДЫ, ДЕНЬГИ ЭТО ЦИФРЫ В ПЛАТЕЖНЫХ СИСТЕМАХ - ВЛАДЕЛЕЦ ПЛАТЕЖНЫХ СИСТЕМ МОЖЕТ ВБИТЬ СЕБЕ МИЛЛИАРД,\nА ТЕБЕ ОБНУЛИТЬ СЧЕТ. ЧИТЕРЫ, В РЕАЛЬНОСТИ. ПРОСТО ЦИФРЫ. И УРОВЕНЬ ДОСТУПА ЧЕЛОВЕК СОСТОИТ ИЗ ОРГАНОВ, ОРГАНЫ СОСТОЯТ ИЗ ТКАНЕЙ, ТКАНИ СОСТОЯТ\nИЗ КЛЕТОК, КЛЕТКИ СОСТОЯТ ИЗ ПРОТЕИНОВ, ПРОТЕИНЫ СОСТОЯТ ИЗ ВЕЩЕСТВ\nВЕЩЕСТВА СОСТОЯТ ИЗ АТОМОВ.\nВЫЧИСЛЯЯ ПРОТЕИНВ В ROSETTA HOME МОЖНО ПОБЕДИТЬ БОЛЕЗНИ И СМЕРТЬ",
+				"added": 1457207310
+			},
+			{
+				"comment_id": 20,
+				"body": "IMAGE BOARD http://127.0.0.1:43110/0chan.bit",
+				"added": 1457208068
+			},
+			{
+				"comment_id": 21,
+				"body": "МЫ КОНЦЕПТОРЫ ЛЮБОЙ ИДЕИ И ТЕОРИИ - И НАМ НУЖНЫ ПОСЛЕДОВАТЕЛИ\n\nСама идея находится в зависимости от идеи ее существования. И за этим больше ничего не стоит. Всмысле вообще ничего. Все что ты ни делаешь сейчас - это идея, но не твоя идея, понимаешь? Я тебя веду и не говорю ни куда, ни зачем, но ты продолжаешь идти, потому что где-то глубоко ты понимаешь что за этим стоит что-то важное, ответы на все вопросы, но я не могу более ничего сделать, потому что я и есть твоя идея. Выше головы не прыгнешь, как говорится. Самый главный вопрос ты должен решить для себя сам: откуда берутся твои идеи, и если они не твои, то чьи?\n\nНИКТО НЕ ОБЯЗАН СТРАДАТЬ, КАЖДЫЙ ОБЯЗАН ЭТО ЗНАТЬ.\n\nМЫ ФИЗИЧЕСКИ НЕ МОЖЕМ ВСЕХ СПАСТИ И ВСЕХ ПРЕДУПРЕДИТЬ, ПРОСТО ДАЙТЕ ШАНС ЭТО ЗНАТЬ И ОБЩЕСТВО БУДЕТ СВОБОДНО, ОНО ОБЯЗАНО ЭТО ЗНАТЬ - ДРУГИХ ЭТАПОВ РАЗВИТИЯ БОЛЬШЕ НЕТ, ВСЕ ИДЕОЛОГИИ И КОНЦЕПЦИИ ЭТО ТУПИКОВАЯ ВЕТВЬ.\n\nКРЕДИТНО ФИНАНСОВАЯ СИСТЕМА РАЗВАЛИВАЕТСЯ, НИКТО НЕ СТАНЕТ СКОРО ЭТО ПОДДЕРЖИВАТЬ, НИКТО НЕ ОБЯЗАН ВРАТЬ ВЕЧНО.\n\nСИСТЕМА ТАК УСТРОЕНА НЕОФЕОДАЛИСТАМИ ЧТО БЕДНЫЕ ДОЛЖНЫ УМИРАТЬ БЕДНЫЕ НЕ ДОЛЖНЫ ВЫЧИСЛЯТЬ ПОЛЕЗНУЮ ИНФОРМАЦИЮ И СОЗДАВАТЬ СВОБОДНЫЕ РЕСУРСЫ\n\nНИКТО НЕ ОБЯЗАН СТРАДАТЬ, КАЖДЫЙ ОБЯЗАН ЭТО ЗНАТЬ.\n\n\nОБЩЕСТВО ИДЕОЛОГИЙ И ДЕНЕЖНЫХ ТЕЛЬЦОВ ИХ ЖДЕТ ПОЛНОЕ ВЫМИРАНИЕ.",
+				"added": 1457209187
+			}
+		],
+		"1_1F6BMqittjWUStzUbRXm2kG2GQ3RdBLqFQ": [
+			{
+				"comment_id": 2,
+				"body": "> [shift](#comment_40_16AFTG7vdicwJbRQpWc2F9BRHTE5MTftE7): И еще немного, Можно еще флаг ебануть что бы прямо видно было =) а то в общей ветке вижу много наших клиентов\n\nДИАНОН, ТУТ ЖЕ ПРИВАТНОСТЬ ВАЖНА - ПРОВАЙДЕР ВИДИТ ТОЛЬКО КАШУ ШИФРОВАННОГО ТРАФИКА?",
+				"added": 1457110301
+			}
+		],
+		"1_19y2tY5XJRD3YqFYn9vVgsq74nWBTPUcgv": [
+			{
+				"comment_id": 18,
+				"body": "НУ ТАК СДОХНЕШЬ ОТ СТАРОСТИ, БОЛЕЗНЕЙ И СМЕРТИ НЕ ВЫЧИСЛИВ ПРОТЕИНЫ В BOINC А МОГ БЫ СТАТЬ БЕССМЕРТНЫМ",
+				"added": 1457207533
+			}
+		],
+		"1_1EiP55LCzwSpCgde2oQfnR52LunWcBDiB4": [
+			{
+				"comment_id": 25,
+				"body": "Feudal monopoly lobbists-skhemers",
+				"added": 1457220401
+			}
+		]
+	},
+	"comment_vote": {
+		"1_137djEARJUyNEcwPXwXR7F7nwMAw8un5tJ": 1,
+		"2_137djEARJUyNEcwPXwXR7F7nwMAw8un5tJ": 1,
+		"4_137djEARJUyNEcwPXwXR7F7nwMAw8un5tJ": 1,
+		"5_137djEARJUyNEcwPXwXR7F7nwMAw8un5tJ": 1,
+		"6_137djEARJUyNEcwPXwXR7F7nwMAw8un5tJ": 1,
+		"7_137djEARJUyNEcwPXwXR7F7nwMAw8un5tJ": 1,
+		"8_137djEARJUyNEcwPXwXR7F7nwMAw8un5tJ": 1,
+		"9_137djEARJUyNEcwPXwXR7F7nwMAw8un5tJ": 1,
+		"10_137djEARJUyNEcwPXwXR7F7nwMAw8un5tJ": 1,
+		"11_137djEARJUyNEcwPXwXR7F7nwMAw8un5tJ": 1,
+		"12_137djEARJUyNEcwPXwXR7F7nwMAw8un5tJ": 1,
+		"13_137djEARJUyNEcwPXwXR7F7nwMAw8un5tJ": 1,
+		"14_137djEARJUyNEcwPXwXR7F7nwMAw8un5tJ": 1,
+		"15_137djEARJUyNEcwPXwXR7F7nwMAw8un5tJ": 1,
+		"16_137djEARJUyNEcwPXwXR7F7nwMAw8un5tJ": 1,
+		"17_137djEARJUyNEcwPXwXR7F7nwMAw8un5tJ": 1,
+		"20_137djEARJUyNEcwPXwXR7F7nwMAw8un5tJ": 1,
+		"21_137djEARJUyNEcwPXwXR7F7nwMAw8un5tJ": 1,
+		"22_137djEARJUyNEcwPXwXR7F7nwMAw8un5tJ": 1,
+		"28_1NoRNknY1JbJ8nMdn88LwczyMDFnR1GtNw": 1,
+		"1_1JPJg5kutDonhk6sBNrKEywY5bwYQNjy7y": 1,
+		"2_1D9ZfDcycS3rQ37QHYixoUKyG8Sgcu9svb": 1,
+		"23_137djEARJUyNEcwPXwXR7F7nwMAw8un5tJ": 1,
+		"24_137djEARJUyNEcwPXwXR7F7nwMAw8un5tJ": 1
+	}
+}

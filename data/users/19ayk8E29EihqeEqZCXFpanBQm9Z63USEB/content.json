@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HNCOS3D+lAiGNQEna8mVOSdbDQcLhDOQe8ZOScVdTqyMHL8AmhXvB5wBwar+uSGf6ZSFmYppus5dzW8lsbqYTpc=",
+ "cert_user_id": "pineapple@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "fab0b27b71de300c1c508a3a41237f095385d57c1424c63774013a74d9220c86",
+   "size": 1890
+  }
+ },
+ "inner_path": "data/users/19ayk8E29EihqeEqZCXFpanBQm9Z63USEB/content.json",
+ "modified": 1461162856.143,
+ "signs": {
+  "19ayk8E29EihqeEqZCXFpanBQm9Z63USEB": "G9KNALZaSzwt1NnVadcqI+9mHANVspp54EqIMuHhFWySx4bmGZKWzptkw+0r4JW/xKz/nSPOeLlH/nskSqOOyRk="
+ }
+}

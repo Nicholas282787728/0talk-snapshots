@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "Gyl538ZMsGUC9OGWubKDknYvKigywZS4D+EcnD8qykq7Ja/GPp6xBp11Mwbvde6xfohD2CIfyB4I3Nj8688jAj0=",
+ "cert_user_id": "romeopapa@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "1ce564eb114cbf60e6cb37e81f01cf68c474dd9534d65f2f679676744bf58230",
+   "size": 301
+  }
+ },
+ "inner_path": "data/users/1PNQJPZzGcz44omEo3se5rnujbGv3WPW2q/content.json",
+ "modified": 1458363433.280329,
+ "signs": {
+  "1PNQJPZzGcz44omEo3se5rnujbGv3WPW2q": "Gz9/PIfjW7HTs1uxx0g0CZmhFnB1dKTyJRpSEhhWuIM+44Z6E5DLmNlj11m+cUQCOyJ6x9pumNuEPy/IwwYEL08="
+ }
+}

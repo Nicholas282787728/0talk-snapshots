@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "G7Y6ANaqYUdKFCXQKr+XoRy11V33b98jh7+ZlUXoX9+YvJINGTW4uWFE19QddFJmfWVmr+uqIxHhyeEndRqoe0Y=",
+ "cert_user_id": "ronittos@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "3b1a4ee57aed0daa2e922ebcb131995883bdf3eb3f3afef2b0c37d65b77e46da",
+   "size": 244
+  }
+ },
+ "inner_path": "data/users/1PaWq9ADRMm6KgMC9pnPap2wEaXn59Ywae/content.json",
+ "modified": 1459984644.884,
+ "signs": {
+  "1PaWq9ADRMm6KgMC9pnPap2wEaXn59Ywae": "G9UFPBOwkIsVlUOIJdcL4WQPYpDpTzWt6Yphz9ewJlDu6JfvY4gYMSR+6z6iBrlKZ1iP3wnS71dq161OEXqnkOI="
+ }
+}

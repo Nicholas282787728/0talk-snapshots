@@ -1,0 +1,47 @@
+{
+	"next_topic_id": 3,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "What could Zeronet be used for ?",
+			"body": "Pros :\n+ easy to setup\n+ easy to use\n+ easy to create a website\n\nCons :\n- less anonymous than Freenet or i2p, even with Tor integration\n- can't work without Javascript, infection vector\n- everything looks \"official\" compared to IPFS\n\nAs I see it, it could be used as a nice website hosting platform for normies that couldn't buy a server. I say normies because even if it's easy to create a website, possibilities are limited. On the other hand, IPFS directly serves files and has gateways to HTTP.",
+			"added": 1455475443
+		},
+		{
+			"topic_id": 2,
+			"title": "Make a Zeronet file hosting service ?",
+			"body": "Wouldn't it be interesting to let users upload files without having to create an entire website for it, just by clicking on a button ? It could be kinda easy to do it in js, no ?",
+			"added": 1455558356
+		}
+	],
+	"topic_vote": {
+		"2_1PPqTMbH8Uwrk496grUVuBk57dSoeU9hig": 1,
+		"14_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf": 1,
+		"1_1LxrhkW4oNs2psLiQNm1Ppk2YbCLyJbC62": 1
+	},
+	"next_comment_id": 4,
+	"comment": {
+		"14_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf": [
+			{
+				"comment_id": 1,
+				"body": "> [zozon](#comment_64_1QBLGLcgKfcpfLmiDYuDzUKVXFfmTAew55): Freenet :)\n\nIs Freenet active these days ?",
+				"added": 1455563915
+			},
+			{
+				"comment_id": 2,
+				"body": "> [zozon](#comment_90_1QBLGLcgKfcpfLmiDYuDzUKVXFfmTAew55): Its usable, its is just slow by concept (FN). I'd say this is something I'd use on weekend when I have time.0net is daily thing. Come check, eventually write, go...I do not find it more secure. Like there is nothing secure about signing Microsoft EULA, so there is nothing safe about warning page that content may be harmful. Here you do not sign the content and view it, overthere you sign for content and again view it.... yes you are warned... (but each time?)\n\nYou couldn't limit Freenet to that. We can say that 0-Net is censorship-proof, and Freenet NSA-proof. They have different points depending on what you want to do.",
+				"added": 1455576676
+			}
+		],
+		"20_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf": [
+			{
+				"comment_id": 3,
+				"body": "Looks like pure copy/paste",
+				"added": 1455623674
+			}
+		]
+	},
+	"comment_vote": {
+		"1_1PPqTMbH8Uwrk496grUVuBk57dSoeU9hig": 1
+	}
+}

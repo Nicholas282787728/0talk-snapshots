@@ -1,0 +1,18 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 2,
+	"comment": {
+		"1_1ASQXi7waaCUePWHbbsM2LSPVZ8dHGm7LQ": [
+			{
+				"comment_id": 1,
+				"body": "You mean hackers, not crackers.",
+				"added": 1457534587
+			}
+		]
+	},
+	"comment_vote": {
+		"1_1EtRhLYL2MQk5jvEYdy9NkKLEBUAwAjGRf": 1
+	}
+}

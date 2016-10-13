@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HPHHs6CBqR0urEZmv1bggOgHbzi2xV1N5Fg4uu8hBbk3F2Q/QCXYJqCogbIWpTf8LpT+tze00RSKVqNlmoP/kA0=",
+ "cert_user_id": "tetrix@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "0b02ff9734eb6988e7c93149fcacff888a3d7c0efe2768c469c7e612ecae1ecd",
+   "size": 528
+  }
+ },
+ "inner_path": "data/users/14U2zXausMv3wECwBu4KgM8TvijDRzvV6U/content.json",
+ "modified": 1457612344.53,
+ "signs": {
+  "14U2zXausMv3wECwBu4KgM8TvijDRzvV6U": "GyOMKVOnUHj/NZ7iS6edOLmkzRxSrMC0EqYWiyt0u7dLU1ipkbXSTxmurHb/kbY8JpMWc2ebaErA/IJ5tcb2oM4="
+ }
+}

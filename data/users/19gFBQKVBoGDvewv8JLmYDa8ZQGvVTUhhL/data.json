@@ -1,0 +1,57 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 8,
+	"comment": {
+		"1_1GHF28rHoAH3fBV1W9sHwWBxNAur9RGXD5": [
+			{
+				"comment_id": 1,
+				"body": "salu2 desde spain",
+				"added": 1456975425
+			}
+		],
+		"1_1KxKnpWUqwV3CX5XFg8knPxGWooudicgeH": [
+			{
+				"comment_id": 2,
+				"body": "not 4 me",
+				"added": 1456975888
+			}
+		],
+		"1_15ymkjUYJS6tjUC35AekGMExZMN6iks8ma": [
+			{
+				"comment_id": 3,
+				"body": "I think I've read this script yesterday and this is for using always the proxy used by Tor in the browser you installed ZeroNet, not implies that is gonna open TorBrowser when you click a link to 127.0.0.1 and so on, but I'm not sure",
+				"added": 1457023295
+			},
+			{
+				"comment_id": 4,
+				"body": "> [theta](#comment_2_15ymkjUYJS6tjUC35AekGMExZMN6iks8ma): Okay, so they only option I have is to set the TorBrowser as my default browser for everything?\n\nYou could save the main menu of ZeroNet as a favourite site and open it up only In Tor, use the regular browser for everything else\n\nPersonally I'm using Chrome here, I would only change if I'd see it as a very recommend step for privacy, but for the moment...",
+				"added": 1457025144
+			},
+			{
+				"comment_id": 6,
+				"body": "my point is, how you establish your \"threat model\" as you say? I run the Tor Always option in my ZeroNet client through Chrome, and knowing that my IP could be leaked outside here visiting a site I have to ask myself how much that would concern me, I mean, I have not surfed a lot the deep web with Tor but here in ZeroNet for the moment it seems there's no creepy/illegal things around, even the point is if I'm not wrong, that if you see content that you don't like you can immediatly stop peering that content",
+				"added": 1457036636
+			}
+		],
+		"1_1N1WCav1oetiu7QpKNXmsfxpeGrEtZ3gCe": [
+			{
+				"comment_id": 5,
+				"body": "http://127.0.0.1:43110/1Mr5rX9TauvaGReB4RjCaE6D37FJQaY5Ba this is a bit stronger engine",
+				"added": 1457033904
+			}
+		],
+		"3_1CMYxdit4qq9QGk9DYRu2ruRPd2YDGckH8": [
+			{
+				"comment_id": 7,
+				"body": "can I ask why would you want to turn them into pics? I know maybe it's something cryptography-related but I got curious :P",
+				"added": 1457037037
+			}
+		]
+	},
+	"comment_vote": {
+		"12_15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ": 1,
+		"67_1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD": 1
+	}
+}

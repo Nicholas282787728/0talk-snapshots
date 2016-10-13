@@ -1,0 +1,23 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 3,
+	"comment": {
+		"2_1Frg5nFndHFkmUaaGK7Qr46dRLX8a2BhBT": [
+			{
+				"comment_id": 1,
+				"body": "I know only this way: \n1. Shut down zeronet \n2. In your zeronet directory, move the file data/users.json out of its folder (or rename it, e.g. users.json.billy)\n3. Start zeronet \n4. Register a new username \n\nIf you want to switch to your old username: shut down zeronet and replace the new users.json with your old one.",
+				"added": 1460398051
+			}
+		],
+		"1_1XGf6G78ZwZwz4FeZBtmzxtKAsTicgaBN": [
+			{
+				"comment_id": 2,
+				"body": "Untested: \nhttp://cryptorials.io/how-to-make-money-from-unused-hard-drive-space-on-your-computer/",
+				"added": 1460485657
+			}
+		]
+	},
+	"comment_vote": {}
+}

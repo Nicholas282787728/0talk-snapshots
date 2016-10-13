@@ -1,0 +1,23 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "Nederlandstalige community - Dutch speaking community",
+			"body": "Welkom!\nJe ziet het al, dit is dé plaats voor alle Nederlandstaligen!",
+			"added": 1462721880
+		}
+	],
+	"topic_vote": {},
+	"next_comment_id": 2,
+	"comment": {
+		"1_1QzGdg6Xhn5F7E7kwyYQ2Si1FnEgBcu3q": [
+			{
+				"comment_id": 1,
+				"body": "Iemand hier die Nederlands spreekt.",
+				"added": 1462721924
+			}
+		]
+	},
+	"comment_vote": {}
+}

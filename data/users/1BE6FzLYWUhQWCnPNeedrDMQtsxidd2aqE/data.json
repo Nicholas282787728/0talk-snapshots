@@ -1,0 +1,57 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "DİSTRUBUTED EKŞİ NETWORK",
+			"body": "EKŞİ NETWORK KURULMA OLASILIĞI ÜZERİNE...",
+			"added": 1457361875
+		}
+	],
+	"topic_vote": {},
+	"next_comment_id": 8,
+	"comment": {
+		"1_1BE6FzLYWUhQWCnPNeedrDMQtsxidd2aqE": [
+			{
+				"comment_id": 1,
+				"body": "Bu sistemi anlayan ve kodlama bilgisi olan arkadaşlar github kursa en iyisi olacak. gerekirse zeronet ekibi i,le konuyu da tartışabilirler.",
+				"added": 1457362035
+			},
+			{
+				"comment_id": 2,
+				"body": "haz> [lastzerobender](#comment_1_13x4dJHJWUzcRW5HY423y62HFghELBjU9c): sistem hazır dediler geldik... neresinden tutalım..\n\nhazır değil hacı. mesele şu ki. \n\nönce bir domain yaratmak lazım. \n\nsonra ekşi scripti buraya uydurmak lazım.\n\nkısacası gerçek programcılar lazım. \n\nsiz yazabiliyor musnuz?",
+				"added": 1457363805
+			},
+			{
+				"comment_id": 3,
+				"body": "> [lastzerobender](#comment_1_13x4dJHJWUzcRW5HY423y62HFghELBjU9c): sistem hazır dediler geldik... neresinden tutalım..\n\nburada domain alınabiliyor. hosting dokümantasyonu da var. ama ekşi script içinde bayağı bir değişiklik gerekecek galiba. hatta belki de yeniden yazmak gerek.",
+				"added": 1457363917
+			},
+			{
+				"comment_id": 4,
+				"body": "> [erkan](#comment_14_1H8oKiRa7fGgUqS1hpUtaSYLvAqkaknbkf): Selam! şu ekşi scripti nerde? bir bakim hele\n\ndaha yok yazılmasını bekeyeceğz. bu da biraz muzun sürecek.",
+				"added": 1457364541
+			},
+			{
+				"comment_id": 5,
+				"body": "ekşisözlük scripti buraya uyarlanabilir mi? bunu biraz tartışmamız gerek. gördğm kadarıyla güncellemeler biraz yavaş geliyor. zeronet içerisinde yazarların etkileşimini sekteye uğratacak kadar yavaş olması sıkıntı olmazsanırım. zaten ekşi içinde hızın artması ekşiyi sözlük olmaktan çıkartan nedenlerden biri. ekşi ağır derecede javascript ve ajaxkullanıyor sanırım. \n\nzeronet bir web sitesinde hangi elemanları destekliyor? örneğin ajax destekleniyor mu? html5 destekleniyor mu? ekşi sözlükte olan ve buraya uyarlanamayacak ne var merak ediyorum doğrusu.",
+				"added": 1457364976
+			},
+			{
+				"comment_id": 6,
+				"body": "bu arada sözlük scriptleri google ile kolaylıkla bulunabilir.\n\nhttps://www.google.com.tr/search?q=s%C3%B6zl%C3%BCk+scripti&oq=s%C3%B6zl%C3%BCk+scripti&aqs=chrome..69i57.4307j0j1&sourceid=chrome&es_sm=93&ie=UTF-8",
+				"added": 1457365080
+			},
+			{
+				"comment_id": 7,
+				"body": "> [en](#comment_1_15d2p8otu3fW9trEsqAFQssRLAa6ha2XTS): selam e1011001, ben \"en.\", belki hatırlarsın meritokrasinin retroshare'ı da kullandığı zamanlar kitap alıp düzenliyordum filan...\n> neyse yazdıklarını da okuyunca bu zero neymiş diye bakayım dedim. ulotrix'e de selamlar bu arada, o da hatırlar belki ;)\n> sadece bir sözlük okuyucusu olarak; sözlük sansürüne/baskısına karşı gösterdiğiniz direnç de takdir edilesi gerçekten.\n> selamlar saygılar, en.\n\nteşekkür ederim.",
+				"added": 1457371350
+			}
+		]
+	},
+	"comment_vote": {
+		"1_13x4dJHJWUzcRW5HY423y62HFghELBjU9c": 1,
+		"14_1H8oKiRa7fGgUqS1hpUtaSYLvAqkaknbkf": 1,
+		"15_1H8oKiRa7fGgUqS1hpUtaSYLvAqkaknbkf": 1
+	}
+}

@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "G8zwoHCpxc5qaYbXdY+NSUsnk3mbLDPzpDCI06E+Sr198GgdDoPpEjk3Dt1ZUp1T5xpWZSmnVCpK6EQRR/7kba0=",
+ "cert_user_id": "trupmusic@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "511871bed64501a3d2909d1cdee85e5405c02b6e8a033ee97062c5c935e217fc",
+   "size": 1322
+  }
+ },
+ "inner_path": "data/users/14eUCVpQR3kAgx1MAps9VFtUUofLGmZZ1S/content.json",
+ "modified": 1466479875.221,
+ "signs": {
+  "14eUCVpQR3kAgx1MAps9VFtUUofLGmZZ1S": "HOKvRU0hgQ0o+Cbevc4y9P8PHKspzcSeP7BJkNreGgo8Cm8mpyCcucShXuiaK25OX27b3l7NWVIamAm9Sd4t0gY="
+ }
+}

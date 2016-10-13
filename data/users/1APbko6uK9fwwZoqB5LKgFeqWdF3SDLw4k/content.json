@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HAFSQ+W+iM1KIvBqOkt1dsp2YnlMDBZzwIxTRNsUKgxruIWzTiFfNorbM4vZTywVQfeTzKgIMdRgyyUoLsbNbOw=",
+ "cert_user_id": "purpledrank@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "87053909a7db5ef97b7969c3fddb0219653d2ea3c768505ff870c0c4d7ecac1a",
+   "size": 1267
+  }
+ },
+ "inner_path": "data/users/1APbko6uK9fwwZoqB5LKgFeqWdF3SDLw4k/content.json",
+ "modified": 1471213515.050322,
+ "signs": {
+  "1APbko6uK9fwwZoqB5LKgFeqWdF3SDLw4k": "GywKG8VQXtCaKOPJccA7gSCTSB3WNe3k9cinytAH5qrnp1dbLXsyMfYOuaBMY98R1bdSKmQ4GuRGotVYq80EN4k="
+ }
+}

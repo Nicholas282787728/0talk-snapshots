@@ -1,0 +1,49 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "Optional Files",
+			"body": "Hi, I'm trying to create a website with many images. Is this a good idea to host in zeronet, since it seems everyone has to download everything hosted on the site.\n\nI found that I can set optional files in the content.json - but I'm not sure how to use it or if it is the feature I'm searching. Is there more documentation on this? Or does someone have a better idea?",
+			"added": 1457611583
+		}
+	],
+	"topic_vote": {
+		"1_15SARKNuSBuSxuKe1xqevx3H3pSEep5TgR": 1
+	},
+	"next_comment_id": 5,
+	"comment": {
+		"1_15SARKNuSBuSxuKe1xqevx3H3pSEep5TgR": [
+			{
+				"comment_id": 1,
+				"body": "> [nofish](#comment_471_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): it's pretty easy you have to specify the path of the files you want to be optional in content.json, eg.:\"optional\": \"data/images/.*\", sign + publish the site and you done.\n\nI just added `\"optional\": \".*\\\\.(png|jpg|gif)\",` to my data/users/content.json, signed and published it - but now I get a „invalid key“ error.\n\nHere is the debug output:\n```\n[15:55:27] Site:[…] data/users/15SARKNuSBuSxuKe1xqevx3H3pSEep5TgR/content.json 597c3291f43b75010a7398b658677bdb-thumb.jpg: File not allowed\n[15:55:27] Site:[…] Sign failed: Invalid content\n```",
+				"added": 1457622313
+			},
+			{
+				"comment_id": 2,
+				"body": "I tried to add it manually to the user's content.json - after that it worked.\nBut since the user's content.json is automatically generated - how do I insert it for new users?",
+				"added": 1457653581
+			},
+			{
+				"comment_id": 3,
+				"body": "> [nofish](#comment_479_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): Simply use fileWrite to create content.json, then sign it.\n\nHi, sorry for being so incompetent. I'm not sure how to create the content.json via fileWrite. Should I create the file directly? How do I know what content it should have?\n\nThank you for your previous help!",
+				"added": 1459372167
+			},
+			{
+				"comment_id": 4,
+				"body": "> [nofish](#comment_580_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): Only insert the settings you want to modify: {\"optional\": \".*\\.(png|jpg|gif)\"} the rest will be filled when executing sitesign\n\nJust to make sure that I'm using siteSign correctly. Currently, I create a content.json with `{\"optional\": \".*\\.(png|jpg|gif)\"}` as content:\n\n```\ncontent_path = \"data/users/#{@site_info.auth_address}/content.json\"\nraw_json = unescape(encodeURIComponent(JSON.stringify({\"optional\": \".*\\\\.(jpg|png|gif)\"}, undefined, '\\t')))\n                Page.cmd \"fileWrite\", [content_path, btoa(raw_json)], (write)  => \n```\nafter that I try to sign the content.json:\n\n```\n                        Page.cmd \"siteSign\", { inner_path: content_path }, (basicResponse) => \n```\n\nThis step fails on other clients (= not the page owner) with this error message:\n```\n[02:38:54] Site:[…]Loading json file to db: data/users/[USERID]/content.json\n[02:38:54] Site:[…] WebSocket handleRequest error: KeyError: 'modified' in UiWebsocket.py line 98 > UiWebsocket.py line 176 > UiWebsocket.py line 387 > ContentManager.py line 171\n```",
+				"added": 1459385179
+			}
+		]
+	},
+	"comment_vote": {
+		"471_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"1_15SARKNuSBuSxuKe1xqevx3H3pSEep5TgR": 1,
+		"474_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"2_15SARKNuSBuSxuKe1xqevx3H3pSEep5TgR": 1,
+		"479_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"3_15SARKNuSBuSxuKe1xqevx3H3pSEep5TgR": 1,
+		"580_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"4_15SARKNuSBuSxuKe1xqevx3H3pSEep5TgR": 1
+	}
+}

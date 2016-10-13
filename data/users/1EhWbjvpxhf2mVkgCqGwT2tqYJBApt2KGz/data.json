@@ -1,0 +1,21 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 3,
+	"comment": {
+		"2_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": [
+			{
+				"comment_id": 1,
+				"body": "Hi, this is a test message. \n<script>\n    alert(\"Nice to meet you. This is a naive Cross-Site Scripting test.\");\n</script>",
+				"added": 1458546608
+			},
+			{
+				"comment_id": 2,
+				"body": "Sziasztok :)",
+				"added": 1458546680
+			}
+		]
+	},
+	"comment_vote": {}
+}

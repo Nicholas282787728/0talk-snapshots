@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HH8ZFXQ6ecw9jAf05jsxOi5aOjwSOz5H3jlYbbZ707p7Ei7rCW7jHvNI4RFT095HIAhUn916jDV4yltrqGF0kxc=",
+ "cert_user_id": "hexonity@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "58032b123424f92e6ef16d1266d6b0b6e687c09520f3273f8ca747afcad0ff7b",
+   "size": 240
+  }
+ },
+ "inner_path": "data/users/1JxTQc59qmBZJycbcL3FQ2LmG3Q55v5pSA/content.json",
+ "modified": 1466743610.659723,
+ "signs": {
+  "1JxTQc59qmBZJycbcL3FQ2LmG3Q55v5pSA": "HBOiNOxNg05R+3shFc+YCwCgSgGP+LhM+i3DGDUGPP0CxFhIwpnN2Mxhet/LysFG6dJ7kTFs6ga/OKSPMhshCQ4="
+ }
+}

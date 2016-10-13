@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HG8Cv2ndLNGTT/kgyiCeTDSq95oDilQZYe9yfu5L8Eh8U3Zvh98E7mQjyM6NRRpPlEfBPSjVA9g+jqxr9W+kT1k=",
+ "cert_user_id": "theredneck@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "9f2812bfc963c64e0c96d4fd2a3379fb2405990b5151c017895d1c03d078cd0b",
+   "size": 808
+  }
+ },
+ "inner_path": "data/users/17W25Fwx1UP2k8wa1aigpLQGWWW4atEFSX/content.json",
+ "modified": 1473314348.665,
+ "signs": {
+  "17W25Fwx1UP2k8wa1aigpLQGWWW4atEFSX": "HJIe7lR8GujxeM6h5WGweQk76WeVvdz+UXlNzEqPx13yylPKm7Yk65OAHZ8N4Vrfv69MLnPAmmSBFmcYcBD71qc="
+ }
+}

@@ -1,0 +1,16 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 2,
+	"comment": {
+		"1_1DUt2hdvamdyX1LtRC6YqoyUPRqGEJGdYY": [
+			{
+				"comment_id": 1,
+				"body": "kek",
+				"added": 1466743610
+			}
+		]
+	},
+	"comment_vote": {}
+}

@@ -1,0 +1,16 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 2,
+	"comment": {
+		"1_1AJBNQqksAgywJ423u3EiibH624TZBXvT2": [
+			{
+				"comment_id": 1,
+				"body": "Yes, it should work. Give it a try.",
+				"added": 1459396356
+			}
+		]
+	},
+	"comment_vote": {}
+}

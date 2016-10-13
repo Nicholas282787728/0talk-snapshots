@@ -1,0 +1,16 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 2,
+	"comment": {
+		"1_14hiNi2B2XEnvPSwetWUfzimNXQ1Keahnm": [
+			{
+				"comment_id": 1,
+				"body": "This might be something to do on a college campus, or perhaps some other area though this is probably not something we should advertise until the platform is more mature in my opinion. Feel free to do so if you wish though, ZeroNet is decentralized so worst-case scenario the load will increase on the distributed network.",
+				"added": 1473243747
+			}
+		]
+	},
+	"comment_vote": {}
+}

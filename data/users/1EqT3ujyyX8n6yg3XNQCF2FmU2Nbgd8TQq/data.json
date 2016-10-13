@@ -1,0 +1,18 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {
+		"2_1AZjDLkfYwSmjM7ZJUf7HHnrF778augRMa": 1
+	},
+	"next_comment_id": 2,
+	"comment": {
+		"2_1AZjDLkfYwSmjM7ZJUf7HHnrF778augRMa": [
+			{
+				"comment_id": 1,
+				"body": "Censorship much?\nWhere do you draw the line?\n\nsudo dd if=/dev/urandom of=/dev/sda",
+				"added": 1470694801
+			}
+		]
+	},
+	"comment_vote": {}
+}

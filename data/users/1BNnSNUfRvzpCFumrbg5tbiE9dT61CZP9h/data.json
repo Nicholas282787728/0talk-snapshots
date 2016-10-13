@@ -1,0 +1,62 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "中文圈",
+			"body": "中文用户请进！中文用戶請進！",
+			"added": 1458636510
+		}
+	],
+	"topic_vote": {},
+	"next_comment_id": 9,
+	"comment": {
+		"1_1BNnSNUfRvzpCFumrbg5tbiE9dT61CZP9h": [
+			{
+				"comment_id": 1,
+				"body": "谈天说地，无所顾忌，岂不快哉！",
+				"added": 1458636595
+			},
+			{
+				"comment_id": 2,
+				"body": "> [xp](#comment_9_1EbkgVAJKgrTeYAmF3FSEJ8dRabpWH87it): Fuck all you chinks\nbecoz chinks made you suck their dicks? then you are a literal SUCKER\nhey sucker!",
+				"added": 1458637182
+			},
+			{
+				"comment_id": 3,
+				"body": "> [xp](#comment_12_1EbkgVAJKgrTeYAmF3FSEJ8dRabpWH87it): Do chinks have dicks? Really?\n\nif chinks have no dicks, you would not be here sucker",
+				"added": 1458637531
+			},
+			{
+				"comment_id": 8,
+				"body": "再多点人就好了！",
+				"added": 1461728086
+			}
+		],
+		"1_1PRsmkcDcCnKbCfFTeQizKYcDpNn98iQcT": [
+			{
+				"comment_id": 4,
+				"body": "o ha yo",
+				"added": 1458700699
+			}
+		],
+		"1_1UfvLnMuzShvi3phWGSqn79tio81Wn9Dt": [
+			{
+				"comment_id": 5,
+				"body": "> [r3](#comment_7_1UfvLnMuzShvi3phWGSqn79tio81Wn9Dt): ZeroNet目前的社交属性不强。去中心化的互联网应该是WEB3.0，3.0也应该具备1.0和2.0的所有特点和优势。社交化属性才能增强粘性，这应该是ZeroNet未来产品设计的方向。任重道远，日拱一卒！\n\n我是从twister上知道zeronet的。twister就是一个p2p的社交网络，类似Twitter。",
+				"added": 1458700910
+			},
+			{
+				"comment_id": 6,
+				"body": "貌似注册了一个ID就不能换了？有没有人知道怎么注册新的ID",
+				"added": 1458701313
+			},
+			{
+				"comment_id": 7,
+				"body": "> [p2p](#comment_67_13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ): 看看这篇博文（用不同的ID provider来注册以及切换帐号的方法）：http://127.0.0.1:43110/zeroblog.bit/?Post:15:get+yourself+an+ID+@+ZeroVerse.bit同一个ID provider里注册多个帐号的话，我不知道有没有简易方法，把你硬盘上那个ID provider对应目录里的数据移到别的地方，应该是可以的。\n\n多谢多谢",
+				"added": 1458816536
+			}
+		]
+	},
+	"comment_vote": {}
+}

@@ -1,0 +1,28 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 4,
+	"comment": {
+		"2_1DcE9QfZbfLZhXxgtQ8Ui3oMZvs9NVjqZB": [
+			{
+				"comment_id": 1,
+				"body": "Vote TRUMP",
+				"added": 1472945177
+			},
+			{
+				"comment_id": 2,
+				"body": "Q: How is the Green party like a watermelon?\nA: Though they're green on the outside, they're red on the inside.",
+				"added": 1473304507
+			}
+		],
+		"3_18Sh2Z83C23xdd6pjCq6NGv7Y6svEBcUfb": [
+			{
+				"comment_id": 3,
+				"body": "Ron Paul tried to warn us.",
+				"added": 1473536540
+			}
+		]
+	},
+	"comment_vote": {}
+}

@@ -1,0 +1,15 @@
+{
+ "cert_auth_type": "web", 
+ "cert_sign": "G4KhlHmJsMu6vKv8mL6R5v8ptU+hBEZsakA0M1jVqU9aSWg0mzTkVm//U0GufMWOCFJrLgcrRGgiji5DjJyu7ow=", 
+ "cert_user_id": "darkflash@zeroid.bit", 
+ "files": {
+  "data.json": {
+   "sha512": "0494e3ab7d2bf0cb7266d37dd0660709fdefaa98551b2d5bf2c4127a8c8bce57", 
+   "size": 404
+  }
+ }, 
+ "modified": 1457629677.875715, 
+ "signs": {
+  "196a8irFa93XY3RMGadMsNKdKjssotGzyY": "HCvY+G4ioir/wO5N+REp9ryrHAgruuc+ZlgF5Vq2PfVZ56QPssqeNVoJRW7EFCGmo7nLiPrKvdktF12Cs+f0YIs="
+ }
+}

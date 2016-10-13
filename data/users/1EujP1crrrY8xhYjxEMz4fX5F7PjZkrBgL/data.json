@@ -1,0 +1,23 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {
+		"1_12GC9MQGPcN7PiMoRYVyZX66PnQjZKUpf2": 1,
+		"1_1J977d47QgTcnJwZ3u67h3wX9ysJTNpfLL": 1,
+		"1_17Cs2auSHSVjKaYMXqbNMApRQrgXcwJUpL": 1
+	},
+	"next_comment_id": 2,
+	"comment": {
+		"1_12GC9MQGPcN7PiMoRYVyZX66PnQjZKUpf2": [
+			{
+				"comment_id": 1,
+				"body": "> [querelle](#comment_4_12WvK2FfePgB9N6dJXYjD8M3gcjfBDqHRC): I'm sorry, but I can't agree with that statement. You see, ignoring only makes the problem worse. So try to peacefully confront it, while you run various scenarios in your mind about how you should do along the way. With other words, try to creatively solve problems instead of ignoring them. Sour people - if ignored - will believe they were right.That's what I think, at least. I like optimist people.\n\nTrue but at the same time no matter how peaceful you try to be there are those that will get defensive over their statement/position so not only is trying to peacefully confront the matter is important knowing how to deescalate the situation is important as well.  Other wise you rise stoking the fire and making matters worse.",
+				"added": 1469196192
+			}
+		]
+	},
+	"comment_vote": {
+		"4_12WvK2FfePgB9N6dJXYjD8M3gcjfBDqHRC": 1,
+		"5_1GervYZoP82e8X1Rgc4wyMkJY2zSsJuq8t": 1
+	}
+}

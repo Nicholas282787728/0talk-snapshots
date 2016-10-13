@@ -1,0 +1,28 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "Where is my private key stored while using bit.no.com proxy?",
+			"body": "I'm wondering how this very update is being done while not running my own node of the network",
+			"added": 1457866921
+		}
+	],
+	"topic_vote": {},
+	"next_comment_id": 3,
+	"comment": {
+		"1_1LNroaTxHDoVxmh4noLEDGMTgUtovmyEAc": [
+			{
+				"comment_id": 1,
+				"body": "> [nofish](#comment_498_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): It's in proxy's memory\n\nCan anyone (server admin or other) hijack my id?",
+				"added": 1457868581
+			},
+			{
+				"comment_id": 2,
+				"body": "> [nofish](#comment_499_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): Yes, the admin able to access your account if he/she wants.\n\nhmmm, interesting. I would post a huge warning about this on every app running on proxy servers. It's a major security issue",
+				"added": 1457869791
+			}
+		]
+	},
+	"comment_vote": {}
+}

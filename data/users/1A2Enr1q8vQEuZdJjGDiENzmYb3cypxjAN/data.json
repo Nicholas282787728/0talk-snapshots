@@ -1,0 +1,23 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "Merged mining (namecoins) with Antminer",
+			"body": "Do anyone has experience with it?\nHow to install any packages to antminer system?\n\nP.S. S7 model",
+			"added": 1457696585
+		}
+	],
+	"topic_vote": {},
+	"next_comment_id": 2,
+	"comment": {
+		"1_1A2Enr1q8vQEuZdJjGDiENzmYb3cypxjAN": [
+			{
+				"comment_id": 1,
+				"body": "thank you!\nhave found one pool http://mmpool.org/main will try it.\n\nDo you have any information about firmware change? I would like to install some software (vpn) to allow remote control via ssh",
+				"added": 1457697215
+			}
+		]
+	},
+	"comment_vote": {}
+}

@@ -1,0 +1,25 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "Where are ZeroID's located?",
+			"body": "I believe they are central but central to where? If local, where are they located on my computer, I can't find it? If remote, doesn't that completely compromise the point of a decentralized network?",
+			"added": 1468752268
+		}
+	],
+	"topic_vote": {
+		"1_1E6f6MCHnpXBqTwj6uii8pApfQuuasR48U": 1
+	},
+	"next_comment_id": 2,
+	"comment": {
+		"2_1LfQ8dwqkqkGQNCg1kBevHPxjvTRJTQYBz": [
+			{
+				"comment_id": 1,
+				"body": "> [chinabiz](#comment_36_1DWrKbEomgBLHjczm1HkP556Vg68ewDmyd): I'm living in China and yeah, since Mr Xi came to power they've gone above and beyond with censorship.For me, zeronet has been working flawlessly despite various times of the year when censorship has increased such as June 4th time and so on.People here want a way to vent, or express opinions openly without the fear of being shutdown, censored, or even fined and/or put in prison.\n\nMy heart goes out to you. We don't hear these stories first hand because you have no way of sending them to us. Though I knew censorship existed in China, I have never known the extent of it as so little information is available and when it is governments comply with the Chinese government to keep trade relations strong.\n\nWould you mind expressing what day-to-day internet usage is like in China, the consequences of certain actions which would be protected (in western society at least) by freedom of expression and so forth?",
+				"added": 1468696158
+			}
+		]
+	},
+	"comment_vote": {}
+}

@@ -1,0 +1,23 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 3,
+	"comment": {
+		"4_1EUyJtat7mbu5wMcR6nrJTPBBRons1mtMA": [
+			{
+				"comment_id": 1,
+				"body": "yes",
+				"added": 1457175433
+			}
+		],
+		"2_1DcDDitsjFJohvwonPmpibRChmA7uGxqL7": [
+			{
+				"comment_id": 2,
+				"body": "perhaps you want to delete file data/users.json\nor move to another place",
+				"added": 1457187848
+			}
+		]
+	},
+	"comment_vote": {}
+}

@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HEzlhizV+Sy6iUskekAXKQZ9yjoyXJ/P0cCZUjUgQU/UNdo6c1Zg2oWfVF7sZk7+rW/DggQ5HFXSgX/z2tK5pRg=",
+ "cert_user_id": "joedotdunne@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "09ff580f0d5fd480c57836152f420b8149fee1743d4b3d305f2a6138e1c26b5b",
+   "size": 362
+  }
+ },
+ "inner_path": "data/users/1HUcb3CxEYsKmTbQcWtMfLrrThBgopC4ax/content.json",
+ "modified": 1456948981.308,
+ "signs": {
+  "1HUcb3CxEYsKmTbQcWtMfLrrThBgopC4ax": "G68g/SStb4bspUNPcqToEQ26DXBcYu/jtu4rIcagWX9BPii7FtSSp84Ado6IL4IlH+NyGxpJpEl9Om5sipgWxQc="
+ }
+}

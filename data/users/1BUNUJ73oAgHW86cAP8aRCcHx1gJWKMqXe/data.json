@@ -1,0 +1,38 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "Interplanetary Communication with ZeroNet",
+			"body": "I've been thinking how a decentralized internet could be immensely useful when it comes to communications with other planets and the Moon. Everyone with their own local copy (because storage is CHEAP) and whoever gets an updated data slug first shares it over their local network. Anyone want to help me work on this? Mail me - znnausfl@zeroid.bit",
+			"added": 1450798460
+		}
+	],
+	"topic_vote": {},
+	"next_comment_id": 5,
+	"comment": {
+		"1_1BUNUJ73oAgHW86cAP8aRCcHx1gJWKMqXe": [
+			{
+				"comment_id": 1,
+				"body": "EXTREMELY basic info here - \nhttp://127.0.0.1:43110/1KaFKN9kbshJ9BZPxVaH1UuahTAztkVia1",
+				"added": 1450800762
+			},
+			{
+				"comment_id": 2,
+				"body": "Censorship will always be an issue, but that's why multiple connections should be established.",
+				"added": 1450802658
+			},
+			{
+				"comment_id": 3,
+				"body": "> [oracle](#comment_52_1ED3Ho3kmzaKiECtyuqSjDpoE47rKuXeP): If you contact E.T. by chance, can you please tell him to bring me some space weed, that shits the funk.\n\nSure, give me some latinum and I'll head right over to Space Snoop.\n\nRegion/Zone switching is a good idea.",
+				"added": 1450805167
+			},
+			{
+				"comment_id": 4,
+				"body": "I have gotten a bit more interest than I thought I would - Thanks everybody.\n\nIf anyone else would care to contribute just say so or send a message.",
+				"added": 1450889860
+			}
+		]
+	},
+	"comment_vote": {}
+}

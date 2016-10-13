@@ -1,0 +1,26 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {
+		"2_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1
+	},
+	"next_comment_id": 3,
+	"comment": {
+		"2_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": [
+			{
+				"comment_id": 1,
+				"body": "Test message from here🌍...",
+				"added": 1459883016
+			},
+			{
+				"comment_id": 2,
+				"body": "> [ach](#comment_1_11KMQLoBUDU1XgKEWwLKChpvmfo4gjYUg): Test message from here🌍...\n\nEverywhere 💻",
+				"added": 1459883208
+			}
+		]
+	},
+	"comment_vote": {
+		"1_11KMQLoBUDU1XgKEWwLKChpvmfo4gjYUg": 1,
+		"2_11KMQLoBUDU1XgKEWwLKChpvmfo4gjYUg": 1
+	}
+}

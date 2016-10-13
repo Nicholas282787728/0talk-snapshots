@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HPgwt8ZNOYCc0nTwGVevjk1A94ZcRIfRaszY+0A2a4APVOMVSnu9BtAiwUtyqSJkmoZhpuk9czDoKXxY7YWyAC8=",
+ "cert_user_id": "acehigh@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "36bd23b373cddb5726fbec6e25a07fcdbb69fece1a99488f09b373261433ca59",
+   "size": 6705
+  }
+ },
+ "inner_path": "data/users/1Kg7CXZM5h3wTPENsTDwWUmRBf9VhYy2cW/content.json",
+ "modified": 1457785413.632,
+ "signs": {
+  "1Kg7CXZM5h3wTPENsTDwWUmRBf9VhYy2cW": "HJBEcj2zumR5MOQap1noRdcUFGM8xlBTCIg++k8QTBjcSTbVd2mZx2PNrVbiBSTqNxIs+PS2kdPwY1DLAUywqio="
+ }
+}

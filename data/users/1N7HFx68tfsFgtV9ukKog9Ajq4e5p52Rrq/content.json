@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HH7WstjRE0gV3j76/Qe3QqyqZfo/OI/0ibVg30ppko5LI4e+22QoVWyzeD9Kep4oVSiBpVIbUOSqulYyjVd/VVk=",
+ "cert_user_id": "coppertone@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "eda3af1571adbfe0d1772cf861b25e8bcf56d4ceea60bec0312d5c05da536dfe",
+   "size": 276
+  }
+ },
+ "inner_path": "data/users/1N7HFx68tfsFgtV9ukKog9Ajq4e5p52Rrq/content.json",
+ "modified": 1471014143.596,
+ "signs": {
+  "1N7HFx68tfsFgtV9ukKog9Ajq4e5p52Rrq": "HIp+PxYWdG0wpNl4R4+3sqlUlebk1vGPY1fqAwI9RqHUPHWxoABWuh9K+EYYrH/x//IK6jPGwenRIbDqcHkhrKs="
+ }
+}

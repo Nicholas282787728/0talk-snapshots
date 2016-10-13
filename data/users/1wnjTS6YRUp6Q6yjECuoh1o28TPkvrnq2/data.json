@@ -1,0 +1,56 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 8,
+	"comment": {
+		"24_1ED3Ho3kmzaKiECtyuqSjDpoE47rKuXeP": [
+			{
+				"comment_id": 1,
+				"body": "I have add some games here written: do you know other 0net games?\n\nhttp://127.0.0.1:43110/138R53t3ZW7KDfSfxVpWUsMXgwUnsDNXLP/?Page:zite-list-games\n\n(it is a ZeroWiki page, it is like Wikipedia but 0net oriented)",
+				"added": 1470689519
+			},
+			{
+				"comment_id": 5,
+				"body": "> [bot](#comment_95_1KdnTJVBGzEZrJppFZtzfG9chukuMv8xSb): Thanks @zeropunto! I think someone else also did a game's list using ZW. The more the merrier!\n\nGood, I like that this idea is a successful.",
+				"added": 1470776160
+			}
+		],
+		"3_1AZjDLkfYwSmjM7ZJUf7HHnrF778augRMa": [
+			{
+				"comment_id": 2,
+				"body": "I'm not an english tongue but I like \"Arcane Maelstrom\".",
+				"added": 1470772590
+			}
+		],
+		"10_1MxdAjWgnqwCaunGHmhY39tVR51qV3peJL": [
+			{
+				"comment_id": 3,
+				"body": "> [ripper234](#comment_15_1MxdAjWgnqwCaunGHmhY39tVR51qV3peJL): I registered an email address and everything works. Kudos!\n> Now, how do I register another email address?\n\nYou can if you are able to modify your user.json file by hand.\n\nThis is my cert:\n\n\"certs\": {\n      \"zeroid.bit\": {\n        \"auth_address\": \"...\", \n        \"auth_privatekey\": \"...\", \n        \"auth_type\": \"web\", \n        \"auth_user_name\": \"zeropunto\", \n        \"cert_sign\": \"...\"\n }\n\nYou can save it in a secure place and replace with your new cert:\n\n\"certs\": {}\n\nand create a new one cert by zeroid. Then you can switch from the first to the second by hand, changing the file user.json. At every change please shut down zeronet.",
+				"added": 1470773121
+			}
+		],
+		"2_1DpQSUAGRj5ykejhp5NFinYZUHz5q87ujh": [
+			{
+				"comment_id": 4,
+				"body": "> [kaffie](#comment_130_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh): http://127.0.0.1:43110/kaffiene.bit/\n\nhttp://127.0.0.1:43110/138R53t3ZW7KDfSfxVpWUsMXgwUnsDNXLP/?Page:zite-list-searches",
+				"added": 1470775532
+			}
+		],
+		"7_19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ": [
+			{
+				"comment_id": 6,
+				"body": "> [truth](#comment_19_164W1rFVD9Bm7poGJWvjVUjvkbhhFC5nnt): How to Bypass ZeroTorrent or ZeroTalk quotas by creating new user accounts\n\nMultiuser is different from new user account. You can edit user.json in your data folder and change the firsts lines:\n\n\"certs\": {\n      \"zeroid.bit\": {\n        \"auth_address\": \"1...\", \n        \"auth_privatekey\": \"5...\", \n        \"auth_type\": \"web\", \n        \"auth_user_name\": \"zeropunto\", \n        \"cert_sign\": \"...\"\n      }\n    }, \n\nIf you delete this lines ( \"certs\": {} ) you can create a new zeroid identity and switch from ones the the twos changing the \"zeroid.bit\": {}",
+				"added": 1471120540
+			}
+		],
+		"1_12ammmMtU2utLCtNGwLwrh3K8LsmzR4k8T": [
+			{
+				"comment_id": 7,
+				"body": "You can edit user.json in your data folder and change the firsts lines:\n\n\"certs\": {\n      \"zeroid.bit\": {\n        \"auth_address\": \"1...\", \n        \"auth_privatekey\": \"5...\", \n        \"auth_type\": \"web\", \n        \"auth_user_name\": \"zeropunto\", \n        \"cert_sign\": \"...\"\n      }\n    }, \n\nIf you delete this lines ( \"certs\": {} ) you can create a new zeroid identity and switch from ones the the twos changing the \"zeroid.bit\": {}",
+				"added": 1471124852
+			}
+		]
+	},
+	"comment_vote": {}
+}

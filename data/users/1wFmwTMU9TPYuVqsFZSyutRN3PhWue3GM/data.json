@@ -1,0 +1,42 @@
+{
+	"next_topic_id": 4,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "ZeroFanFiction",
+			"body": "New Fanfiction Zite. mail me at lupinsansei@zeroid.bit if you want to contribute.",
+			"added": 1470638068
+		},
+		{
+			"topic_id": 2,
+			"title": "How do you get private key from a cloned site?",
+			"body": "how do you do this i have tried everything! Pls help!!",
+			"added": 1470886289
+		},
+		{
+			"topic_id": 3,
+			"title": "How do you change signature from content.json to private key?",
+			"body": "i have no idea",
+			"added": 1470887262
+		}
+	],
+	"topic_vote": {},
+	"next_comment_id": 3,
+	"comment": {
+		"2_1JXFzMzrQTJCiGw36YNQGg2Tmt1hTHy7ZT": [
+			{
+				"comment_id": 1,
+				"body": "hellloooo!!",
+				"added": 1469949626
+			}
+		],
+		"2_1wFmwTMU9TPYuVqsFZSyutRN3PhWue3GM": [
+			{
+				"comment_id": 2,
+				"body": "> [kaffie](#comment_139_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh): In your zeronet folder, look for a file called 'users.json'. Open that, and look for your site. There should be an entry called 'privatekey'. That's your private key for signing the site. Should be there for cloned sites.\n\nTHANKS!!!",
+				"added": 1470887028
+			}
+		]
+	},
+	"comment_vote": {}
+}

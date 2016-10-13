@@ -1,0 +1,25 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "Reddit substitute - Anarcho_Capitalism",
+			"body": "",
+			"added": 1465764716
+		}
+	],
+	"topic_vote": {
+		"1_1Dkwk3P3rH26ecGJ25yawmTLDY7GoFP9LS": 1
+	},
+	"next_comment_id": 2,
+	"comment": {
+		"1_1Dkwk3P3rH26ecGJ25yawmTLDY7GoFP9LS": [
+			{
+				"comment_id": 1,
+				"body": "> [trashish](#comment_7_1JpAsfEeBYdr8U3DtAzj8SyczL5Gx1EtQ9): I wish too\n\nJust testing respond function :)",
+				"added": 1465802758
+			}
+		]
+	},
+	"comment_vote": {}
+}

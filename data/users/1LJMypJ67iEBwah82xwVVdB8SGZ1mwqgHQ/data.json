@@ -1,0 +1,150 @@
+{
+	"next_topic_id": 9,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "How do I check how anonymous my connection is when using ZeroNet and Tor?",
+			"body": "How do I check how anonymous my connection is when using ZeroNet and Tor?",
+			"added": 1457536194
+		},
+		{
+			"topic_id": 2,
+			"title": "zeronet.py siteCreate not working on Linux",
+			"body": "I am trying to create my first site using Ubuntu, and tried the following command \"zeronet.py siteCreate\".  But I got a message saying \"command not found\".  What am I doing wrong?",
+			"added": 1457608251
+		},
+		{
+			"topic_id": 3,
+			"title": "Anonymity challenge",
+			"body": "This is an anonymity challenge.\n\nCan you figure out where I am? \n\nI've just created a very basic HTML page, and want to know if it is possible for anyone to figure where the author of the page is located on the planet.\n\nThis is the page in question: http://127.0.0.1:43110/1HqojhAwNv7ikKPZFxvaZzfqJyYhZkk3g5\n\nHint: AFAIK, I have made a mistake with my anonymity, so it shouldn't be impossible to figure this out.\n\nGood luck!",
+			"added": 1457689001
+		},
+		{
+			"topic_id": 4,
+			"title": "Why is my actual IP address being shown, even though I have tor enabled?",
+			"body": "When I go to this site: http://127.0.0.1:43110/1Ey8WR7e3quTdPTMZZKDdqw2U6JG3zvkHe\n\nThe IP address shown is different than IP address shown on this site: http://127.0.0.1:43110/Stats\n\nBoth IP addresses above are different from my actual IP address, which I can see on this site: https://www.iplocation.net/\n\nMy question is, why does it show a different IP address on my laptop on all 3 sites, but when I try the same test on my home desktop computer, it shows my actual IP address on all 3 site?\n\nWhen using my laptop, I tether through my phones internet connection.  When using my computer desktop computer, I connect to the home router using a wired connection.\n\nThanks.",
+			"added": 1457878979
+		},
+		{
+			"topic_id": 5,
+			"title": "Using ZeroID on multiple computers.",
+			"body": "How do I make use of the same zeroid on multiple computers?",
+			"added": 1458034278
+		},
+		{
+			"topic_id": 6,
+			"title": "Deleting a ZeroNet site",
+			"body": "If I create a ZeroNet site which is seeded by 1000 seeders, if I delete the site, does the site get deleted from the 1000 seeders too?  Or does the site remain active until all the seeders chose to delete the site from the local machines?",
+			"added": 1458819222
+		},
+		{
+			"topic_id": 7,
+			"title": "TOX.CHAT",
+			"body": "What do you guys think of tox.chat?  Any good as a bittorrent type p2p skype alternative?  Allows text, voice, video and file transfer, all apparently in a p2p torrent style manner.",
+			"added": 1459343932
+		},
+		{
+			"topic_id": 8,
+			"title": "ZeroNet + Tor Browser",
+			"body": "Why is ZeroNet no longer working in Tor Browser?",
+			"added": 1461940572
+		}
+	],
+	"topic_vote": {
+		"2_1LJMypJ67iEBwah82xwVVdB8SGZ1mwqgHQ": 1,
+		"3_1LJMypJ67iEBwah82xwVVdB8SGZ1mwqgHQ": 1,
+		"1_1EgYg1XAxktqWHWC1aTWQoToF6Mr5QmEWq": 1
+	},
+	"next_comment_id": 15,
+	"comment": {
+		"1_1LJMypJ67iEBwah82xwVVdB8SGZ1mwqgHQ": [
+			{
+				"comment_id": 1,
+				"body": "> [angristan](#comment_62_1MEWJRMLgvofqG9Mbsb2Rc4hFFyv7HeRx7): Loop what IP have here http://127.0.0.1:43110/Stats\n\nThanks.",
+				"added": 1457540895
+			},
+			{
+				"comment_id": 2,
+				"body": "> [nofish](#comment_465_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): You can use https://technet.microsoft.com/en-us/sysinternals/processexplorer.aspx to view the connections it using.\n\nI'm using Linux.",
+				"added": 1457540911
+			},
+			{
+				"comment_id": 3,
+				"body": "> [redfish](#comment_6_1KGozab6jp6jA6zVM8cTFdzMmBasriNP4f): If you run zeronet with '--tor always' then it should only connect via tor.On Linux, you can check incoming and outgoing connections and listening ports using 'lsof -i -n -P', look for python2 for zeronet, it should only listen on local interface and all connections should be to localhost (127.0.0.1), which is how Tor connections appear.On Windows... good luck with toy operating systems ;)\n\nI'll give it a go.  Thanks.",
+				"added": 1457540944
+			}
+		],
+		"2_1LJMypJ67iEBwah82xwVVdB8SGZ1mwqgHQ": [
+			{
+				"comment_id": 4,
+				"body": "> [erkan](#comment_29_1H8oKiRa7fGgUqS1hpUtaSYLvAqkaknbkf): Do you have python (version2) installed?Try the command to see: \"which python\".\n> If you see a line returned,start this command:\"python zeronet.py siteCreate\"\n\nJust tried that and I got:\n\nuser1@laptop:~/Downloads/ZeroBundle/ZeroNet$ which python\n/usr/bin/python\nuser1@laptop:~/Downloads/ZeroBundle/ZeroNet$ python zeronet.py siteCreate\n- Starting ZeroNet...\nTraceback (most recent call last):\n  File \"zeronet.py\", line 15, in main\n    import main\n  File \"src/main.py\", line 8, in <module>\n    import gevent\nImportError: No module named gevent\nuser1@laptop:~/Downloads/ZeroBundle/ZeroNet$ \n\nIt doesn't seem to have generated the public/private key, so I am assuming something is still being done wrong by me.",
+				"added": 1457609023
+			},
+			{
+				"comment_id": 5,
+				"body": "> [basxto](#comment_20_1PVcdu7USZH2kHMETbqDYLPjJZKCDWM52k): Are you in the folder of zeronet?\n> I have to do\n> cd $(ZERONET_PATH);sudo python2 ./zeronet.py siteSign ${ZERONET_ID}\n\nI'm in the following folder:\n\nuser1@laptop:~/Downloads/ZeroBundle/ZeroNet$\n\nuser1@laptop:~/Downloads/ZeroBundle/ZeroNet$ ls -l\ntotal 80\ndrwxrwxr-x 16 user1 user1  4096 Mar 10 11:25 data\n-rw-rw-r--  1 user1 user1   585 Mar  9 13:22 Dockerfile\n-rw-rw-r--  1 user1 user1 18027 Mar  9 13:22 LICENSE\ndrwxrwxr-x  2 user1 user1  4096 Mar 10 11:21 log\ndrwxrwxr-x 15 user1 user1  4096 Mar  9 13:22 plugins\n-rw-rw-r--  1 user1 user1  6885 Mar  9 13:22 README.md\n-rw-rw-r--  1 user1 user1    36 Mar  9 13:22 requirements.txt\ndrwxrwxr-x 18 user1 user1  4096 Mar  9 13:22 src\n-rw-rw-r--  1 user1 user1   214 Mar  9 13:22 start.py\ndrwxrwxr-x  4 user1 user1  4096 Mar  9 13:22 tools\n-rw-rw-r--  1 user1 user1  2489 Mar  9 13:22 update.py\n-rw-rw-r--  1 user1 user1  1196 Mar  9 13:22 Vagrantfile\n-rw-rw-r--  1 user1 user1    21 Mar  9 13:42 zeronet.conf\n-rw-rw-r--  1 user1 user1  1863 Mar  9 13:22 zeronet.py\n-rw-rw-r--  1 user1 user1  1752 Mar  9 13:22 zeronet.pyc\nuser1@laptop:~/Downloads/ZeroBundle/ZeroNet$ \n",
+				"added": 1457609171
+			},
+			{
+				"comment_id": 6,
+				"body": "> [basxto](#comment_21_1PVcdu7USZH2kHMETbqDYLPjJZKCDWM52k): did you use ./zeronet.py?\n\nJust tried it:\n\nuser1@laptop:~/Downloads/ZeroBundle/ZeroNet$ python ./zeronet.py siteCreate\n- Starting ZeroNet...\nTraceback (most recent call last):\n  File \"./zeronet.py\", line 15, in main\n    import main\n  File \"./src/main.py\", line 8, in <module>\n    import gevent\nImportError: No module named gevent\nuser1@laptop:~/Downloads/ZeroBundle/ZeroNet$ \n\nGet same issue when I replace python with python2.",
+				"added": 1457609395
+			},
+			{
+				"comment_id": 7,
+				"body": "> [erkan](#comment_30_1H8oKiRa7fGgUqS1hpUtaSYLvAqkaknbkf): you didn't install the dependencies needed\n> read the github page how to do that, please\n\nThat was it.  Thanks for the help!",
+				"added": 1457610018
+			}
+		],
+		"3_1LJMypJ67iEBwah82xwVVdB8SGZ1mwqgHQ": [
+			{
+				"comment_id": 8,
+				"body": "> [ks](#comment_17_14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx): “No peers found”…\n\nIt's showing as 4 peers connected on my screen...?  Plus I'm seeding the page right now.",
+				"added": 1457692775
+			},
+			{
+				"comment_id": 9,
+				"body": "> [ks](#comment_19_14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx): Except it cannot find content.json.\n\nOkay, this is a failed experiment then.  Back to the drawing board.  I'll be back asap for attempt 2.  Thanks for the feedback.",
+				"added": 1457695905
+			},
+			{
+				"comment_id": 10,
+				"body": "> [ks](#comment_20_14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx): I got it this time, and I am seeding.\n\nNice, thanks!",
+				"added": 1457696037
+			},
+			{
+				"comment_id": 14,
+				"body": "Is it safe to assume that the test was a 100% success in that no one was able to figure out where I am, even though I made a mistake when setting up my anonymity?",
+				"added": 1458555489
+			}
+		],
+		"1_1BQg5MQZ63aEQZMzLEXP6yY3hsgznKpaps": [
+			{
+				"comment_id": 11,
+				"body": "> [krlf](#comment_6_18RfVGME7R14BmGRcbVbZ1RaHoaeBEKtZ3): I run it under Linux and I use it under Windows.\n\nSo only 1 person here using Windows so far?",
+				"added": 1457697289
+			}
+		],
+		"4_1LJMypJ67iEBwah82xwVVdB8SGZ1mwqgHQ": [
+			{
+				"comment_id": 12,
+				"body": "> [nofish](#comment_501_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): ZeroNet does not modify your internet or browser settings, so you need to use Tor browser if you want to hide your IP from javascripts inserted into ZeroNet pages.\n\nI can't seem to get tor browser to work with zeronet.  I have tried adding 127.0.0.1 to the \"no proxy for\" section in the advanced options of the tor browser, but it just tried loading the page and never stops.",
+				"added": 1457884365
+			}
+		],
+		"1_1H8igzd23YbSUqucNFPg25nKtNgcPcwssE": [
+			{
+				"comment_id": 13,
+				"body": "> [paradoxeuh](#comment_1_1H8igzd23YbSUqucNFPg25nKtNgcPcwssE): This website should allow users to add subtitles/content\n\nBest thing about zeronet is, if you have the know how, you can simply clone the website, and add the new functionality yourself!",
+				"added": 1458034230
+			}
+		]
+	},
+	"comment_vote": {
+		"7_1LJMypJ67iEBwah82xwVVdB8SGZ1mwqgHQ": 1,
+		"20_14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx": 1,
+		"17_14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx": 1,
+		"18_14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx": 1,
+		"19_14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx": 1
+	}
+}

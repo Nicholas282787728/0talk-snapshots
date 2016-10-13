@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "G28vckLOHonNZUuIMs70ywj3VoBWClyexap0KnsAvQ9XwEJRgxmPCXJ+8SOhrFL73cljo05nXqJngUOBz/Gp+1Q=",
+ "cert_user_id": "krossbow@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "6bc4e5760007ad02d3181cbe1f2698f1690c2634aa249ef00593ded08fbbc3f6",
+   "size": 289
+  }
+ },
+ "inner_path": "data/users/1Nw4KZAAVNKG5JQYcPtD7iJbYmjmB1LFMq/content.json",
+ "modified": 1459977206.902,
+ "signs": {
+  "1Nw4KZAAVNKG5JQYcPtD7iJbYmjmB1LFMq": "HFqJLZ8Nd515H7/jSWwCVk9XAKKsenTVGWxRKVdaKneLCIY6iWoKK6lRyOU9Ape1rsrgdQR4KizozmiuVKAxxuo="
+ }
+}

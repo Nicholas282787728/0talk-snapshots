@@ -1,0 +1,15 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "TruCrypt",
+			"body": "For some of the content I've come across on ZeroNet, you may need to use trucrypt to protect yourself in the long run. Zeronet does not ask your permission to add a new site. Once your curiosity gets the better of you, and you click that link, it's automatically added. I'm worried about the over reaching authoritarians and the 7 year old tattle tale rats who like spoiling everything for everyone else.",
+			"added": 1471985467
+		}
+	],
+	"topic_vote": {},
+	"next_comment_id": 1,
+	"comment": {},
+	"comment_vote": {}
+}

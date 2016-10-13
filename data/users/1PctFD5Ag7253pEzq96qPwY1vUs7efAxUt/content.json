@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "G09+MRuKXDwAg0TP2g1i7Cayemg7Mzl+TwLo3BGnStQErIll/XIIPNdIetogId2GCtI2GZsy+M3A1DZ3cCnc6yg=",
+ "cert_user_id": "jarmark@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "fa781f88fc32e529691d8d3b9e40b925c006bd724f6a6de908f985f4ee14db47",
+   "size": 250
+  }
+ },
+ "inner_path": "data/users/1PctFD5Ag7253pEzq96qPwY1vUs7efAxUt/content.json",
+ "modified": 1471455415.689,
+ "signs": {
+  "1PctFD5Ag7253pEzq96qPwY1vUs7efAxUt": "GwHIrjIhwLO3ZT550XsbpsU3aAoiJ2GfQGISucO31i3wH8oXQ/rs7fugSb19zECOkiYyXIlxDBfoAILB9+As7tc="
+ }
+}

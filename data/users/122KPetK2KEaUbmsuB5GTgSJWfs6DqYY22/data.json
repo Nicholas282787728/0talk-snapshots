@@ -1,0 +1,21 @@
+{
+	"next_topic_id": 3,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "ayuda",
+			"body": "como acedo a play",
+			"added": 1459342975
+		},
+		{
+			"topic_id": 2,
+			"title": "porno?",
+			"body": "",
+			"added": 1460557987
+		}
+	],
+	"topic_vote": {},
+	"next_comment_id": 1,
+	"comment": {},
+	"comment_vote": {}
+}

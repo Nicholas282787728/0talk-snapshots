@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "G6RrqZW+vwhDmmW9g1znlERIhV7fdtq93UEWKHeIAvixFiQg4tL1MCnkeZsWiwxeC0ZT0zCd68AaTkET7CqNVP4=",
+ "cert_user_id": "totallynormalguy@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "c1d534f5a47a94cb47a2ec8413ed3081106c6bb6d12955a8d0e5535b83792493",
+   "size": 311
+  }
+ },
+ "inner_path": "data/users/1MxinCGP4R54Rxxmig41K132aGrUJgwq4A/content.json",
+ "modified": 1473062266.396,
+ "signs": {
+  "1MxinCGP4R54Rxxmig41K132aGrUJgwq4A": "G1pNIZRmj+7wsn6X7DCEbEhbgtgjnWjlUrBAi23CGlEncvqgBMMdGXMXaaOiKYBysU1jiSl5PjqyK8aXsSL0+Gw="
+ }
+}

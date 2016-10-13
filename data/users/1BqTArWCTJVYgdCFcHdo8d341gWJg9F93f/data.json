@@ -1,0 +1,19 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "Internet-facing Zeronet site",
+			"body": "Is it possible to create an internet-facing Zeronet site which updates with content from Zeronet and supports both Zeroid users and open internet users to comment/contribute? If so, how would we go about this?",
+			"added": 1464384594,
+			"parent_topic_uri": "3_1PVcdu7USZH2kHMETbqDYLPjJZKCDWM52k"
+		}
+	],
+	"topic_vote": {
+		"9_1LRrd96P7FiTcsyNXVzPM5jtpQoH1B4gYf": 1,
+		"3_1PVcdu7USZH2kHMETbqDYLPjJZKCDWM52k": 1
+	},
+	"next_comment_id": 1,
+	"comment": {},
+	"comment_vote": {}
+}

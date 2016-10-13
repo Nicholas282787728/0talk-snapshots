@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "GzyKnQI+TJJZLren2juFxCafur/lMepDBMImcFa131UIEWLjSZMb6+A0w2Hqh2wk7PUVLHMLTbmAbKOWtAikEpU=",
+ "cert_user_id": "shunin@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "4dc559949f8ee95b345f9b00a454cddea64db83d3b1b479ef05278b760bcc734",
+   "size": 249
+  }
+ },
+ "inner_path": "data/users/14wqLL1ueKkZQmaEBYcLrkMVBdxry1J73u/content.json",
+ "modified": 1462550341.302,
+ "signs": {
+  "14wqLL1ueKkZQmaEBYcLrkMVBdxry1J73u": "HN2eZBlWfAZQSL4Ea6W3GAGgcCJp1/eIRnZ2NGz6kuUtG/G8tYR+dd/JpeegmW3fl56uVxkESlPnGbgnz9iFRng="
+ }
+}

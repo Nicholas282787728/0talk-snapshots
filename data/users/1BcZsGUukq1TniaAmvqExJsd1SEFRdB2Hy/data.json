@@ -1,0 +1,23 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "NES Games work on zero.pags.to, but not local 127.0.0.1?",
+			"body": "Can play for example Bubble Bobble on zero.pags.to:\nhttp://zero.pags.to:43110/19za8TViGJF4xdvkQHLXK2UCb2gLC1nSVT\n\nbut playing inside zeronet gives me only errors (ROM not found):\nhttp://127.0.0.1:43110/19za8TViGJF4xdvkQHLXK2UCb2gLC1nSVT\n\nAnyone confirm or have an idea why?",
+			"added": 1454267127
+		}
+	],
+	"topic_vote": {},
+	"next_comment_id": 2,
+	"comment": {
+		"1_1BcZsGUukq1TniaAmvqExJsd1SEFRdB2Hy": [
+			{
+				"comment_id": 1,
+				"body": "Ah, thanks for the info!\n\nSo it only works because zeropags doesnt have \"latest\" zeronet?\n(Btw. on zeropags homepage it says v0.3.5 (r830) and \"latest 0.3.2\" - what does that mean?)",
+				"added": 1454271398
+			}
+		]
+	},
+	"comment_vote": {}
+}

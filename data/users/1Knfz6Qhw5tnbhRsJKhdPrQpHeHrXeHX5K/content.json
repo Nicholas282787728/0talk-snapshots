@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "bitmsg",
+ "cert_sign": "HNk1A6FoAR3IexZD/nW6HRYbqc5z4wMJNQZIyrNII0nABA+4ZLk9fa5jjpkxB2zB85zAnaS5hePTe8cP9GwxR6E=",
+ "cert_user_id": "mellnik@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "f541e6791092f6de5569e1878c04fb2d2666705b5beb4e71aca9c4f73b94f484",
+   "size": 242
+  }
+ },
+ "inner_path": "data/users/1Knfz6Qhw5tnbhRsJKhdPrQpHeHrXeHX5K/content.json",
+ "modified": 1462810919.561,
+ "signs": {
+  "1Knfz6Qhw5tnbhRsJKhdPrQpHeHrXeHX5K": "G70HNwR7SsVzgY9ShJYwr+yOI+a8x7el95gvajJOexBqStzr2z1BAduVyjBJgtjTGaL5NZisRCTp0AZuX+fkEBE="
+ }
+}

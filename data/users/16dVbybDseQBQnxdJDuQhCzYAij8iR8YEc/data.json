@@ -1,0 +1,153 @@
+{
+	"next_topic_id": 3,
+	"topic": [
+		{
+			"topic_id": 2,
+			"title": "ZeroTalk sync Problems",
+			"body": "the zerotalk isnt up-to-date on local device compared to my proxy (less threads, direct access to these 'hidden' threads just show partial comments)\nand how does the users.json work if i insert zeroid cert at public proxy? multiuser is active but import of the priv-key isnt importing zeroid. am i  right that this key works after cert insert or just for everyone accessing the proxy?",
+			"added": 1448105256
+		}
+	],
+	"topic_vote": {},
+	"next_comment_id": 22,
+	"comment": {
+		"3_168qV1Xxp2EyszrzdECLUwXrn9wGYjDdar": [
+			{
+				"comment_id": 1,
+				"body": "/1KUR242vYb5BDAiLkfa321fXfsDr5vBj3i\nthis is a combination of over 19 hostname lists-\nit'll keep most dangerous sites out of your range, and ads should be gone too",
+				"added": 1442770761
+			}
+		],
+		"5_1JdoX9KdJeRVjN9zvK8N9C5jybEHzZe8n": [
+			{
+				"comment_id": 2,
+				"body": "welcome to the network :)\nu should check allready created topics next time, look:\n/Talk.ZeroNetwork.bit/?Topic:3_168qV1Xxp2EyszrzdECLUwXrn9wGYjDdar/NEW+WEBSITE+share+it+here",
+				"added": 1442952260
+			}
+		],
+		"4_1JdoX9KdJeRVjN9zvK8N9C5jybEHzZe8n": [
+			{
+				"comment_id": 3,
+				"body": "*Peered*\nbtw this is an discussion thread right? otherwise should be posted on\n/Talk.ZeroNetwork.bit/?Topic:3_168qV1Xxp2EyszrzdECLUwXrn9wGYjDdar/NEW+WEBSITE+share+it+here",
+				"added": 1442952449
+			}
+		],
+		"1_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": [
+			{
+				"comment_id": 4,
+				"body": "ability of a signature would be great , most creators could use it to advert page links",
+				"added": 1442952565
+			}
+		],
+		"10_1PNyuY1iZqXBpft4ArouqcnE4pNRGYij5i": [
+			{
+				"comment_id": 5,
+				"body": "works nice for me, these proxies seems to have problems peering some new discovered pages",
+				"added": 1443026679
+			},
+			{
+				"comment_id": 9,
+				"body": "heres a fresh one ive created today\n45.63.123.191:43110\nlocation: japan\nrunning with active security solutions which will delete malicious files on change.",
+				"added": 1444935618
+			},
+			{
+				"comment_id": 10,
+				"body": "> [heathenman](#comment_9_16dVbybDseQBQnxdJDuQhCzYAij8iR8YEc): heres a fresh one ive created today45.63.123.191:43110location: japanrunning with active security solutions which will delete malicious files on change.\n\nnow available over zero.pags.to:43110\nive deactivated the menu action cause pages got deleted",
+				"added": 1445030078
+			}
+		],
+		"3_1ED3Ho3kmzaKiECtyuqSjDpoE47rKuXeP": [
+			{
+				"comment_id": 6,
+				"body": "im fascinated of reactos but it needs much more devs",
+				"added": 1443028853
+			}
+		],
+		"4_1ED3Ho3kmzaKiECtyuqSjDpoE47rKuXeP": [
+			{
+				"comment_id": 7,
+				"body": "the alt argument gaves an alternate text if image cant load, your code looks like youve tried to link directly with an img tag.",
+				"added": 1444515793
+			}
+		],
+		"1_1EgHYvFHeuRQ4HSde9YTrjsGkSAW39U14b": [
+			{
+				"comment_id": 8,
+				"body": "ive tried to import zeronet-master to qpython but it fails on user rights to install libraries over pypi. there are other python apps ported for android, maybe someone can get it working",
+				"added": 1444516023
+			}
+		],
+		"1_14mWrAYpbKKX33SrrSx36zybyNUxcZAbmk": [
+			{
+				"comment_id": 11,
+				"body": "all sites on zeronet are opensourced cause the whole data got transfered on seeding. all files that arent included inside content.json , arent needed to get it working (except the owner will host itself, this could mean template will work decentral but not the whole service if owner is offline)\nso feel free to look inside your data folder and discover some code",
+				"added": 1445092375
+			}
+		],
+		"1_1QGWjfYfANXvVDaHaH8n5w86KWkKcjiAoE": [
+			{
+				"comment_id": 12,
+				"body": "how can we change the default page like zeronet.classcoder.com did ? changes on 1EU1tbG9oC1A8jz2ouVwGZyQ5asrNsE4Vr\nof course wont resist an update or restart",
+				"added": 1445170597
+			},
+			{
+				"comment_id": 13,
+				"body": "t> [nofish](#comment_94_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): There is a command line switch for this:   --homepage address    Web interface Homepage (default: 1EU1tbG9oC1A8jz2ouVwGZyQ5asrNsE4Vr)\n\nthanks. zerohello cant be copied? ive downloaded source over github no sites were shown.",
+				"added": 1445184479
+			}
+		],
+		"2_16dVbybDseQBQnxdJDuQhCzYAij8iR8YEc": [
+			{
+				"comment_id": 14,
+				"body": "ok , have to try that. zeroid just shows get auth cert for new generation",
+				"added": 1448109093
+			}
+		],
+		"4_1QH84f44yLPvMjMua9s7iM7c4RoJNZ2nTp": [
+			{
+				"comment_id": 15,
+				"body": "heathenman\ncontact for bphf and zero.pags.to proxy (&of course my other projects outside of zeronet)\nbtw: proxy is up-to-date , gnusocial on pags.to working again, yacy restarted (crashes very often) , bphf 131215 out now",
+				"added": 1450021745
+			},
+			{
+				"comment_id": 16,
+				"body": "no, its copy&paste update notification to all posted mailnames cause theoretical these users want a contact. btw i think the username suggestion in the @ form could lead to unwanted messages.\nmaybe otoman will look for external input methods to enable possibility of an automatic process & maillist support (multi recipients)",
+				"added": 1450135909
+			}
+		],
+		"1_1MBZrgSwMQMRnMFjQkw2JpwdWRaKo7Eb55": [
+			{
+				"comment_id": 17,
+				"body": "there was\n/Talk.ZeroNetwork.bit/?Topic:10_1PNyuY1iZqXBpft4ArouqcnE4pNRGYij5i/List+of+public+zeronet+proxies\ntheme got lost in time ;)",
+				"added": 1450387368
+			},
+			{
+				"comment_id": 18,
+				"body": "> [dividedby0](#comment_7_16iYwD5U2fNoS22p6447J7992iL3DHjSHY): http://45.63.123.191:43110\n\nthis is zero.pags.to 's ip ;)\nlike\nhttp://70.37.165.32 - zeronet.classcoder.com\n&\nhttp://5.101.103.222:43110 - bit.no.com",
+				"added": 1450568630
+			}
+		],
+		"3_1MS7WkWAZUSohgV5uUF2Ze3kdbifi4J82L": [
+			{
+				"comment_id": 19,
+				"body": "the spider needs an inbuild version of the wrapper_nonce and wrapper_key generation , this will build a one time access to the inner content. you can test this if you open the page source code and search for <!-- Site info --> section.\ntheres document.getElementById(\"inner-iframe\").src = \">>copy this<<\"\nnow paste in browser, add an >>&<< and add the key from wrapper_key = \">>here<<\" behind. this opens the actual page without a frame , but if you reload or want a look inside source (which a spider would crawl) , youll get wrapper nonce error-> cause its the wrong key now.",
+				"added": 1450792062
+			}
+		],
+		"2_1PaX4LQSsjsJvTNqfZbAApgmgzBJjrkRqZ": [
+			{
+				"comment_id": 21,
+				"body": "> [switch](#comment_1_1PDeGMWW6badM8gzU6eApYMiFpJfXJNQXb): is it down? But how can something be down in a P2P NET? :O\n\nno peers , page needs online authority or bad code ;)\nlooks cribbled from here too:\nQmWFeo9dk11wJ4CqanHCFXCQQKt6wDbzEz6XSB5FpwYGYg\nits an image ipfs hash, you can view it on\nhttps://ipfs.pics/\nhttps://ipfs.io/ipfs/\n& maybe http://ipfs.nwps.ws/ [server having problems atm]\njust insert hash behind.",
+				"added": 1450806845
+			}
+		]
+	},
+	"comment_vote": {
+		"1_16dVbybDseQBQnxdJDuQhCzYAij8iR8YEc": 1,
+		"18_1PNyuY1iZqXBpft4ArouqcnE4pNRGYij5i": 1,
+		"19_1JdoX9KdJeRVjN9zvK8N9C5jybEHzZe8n": 1,
+		"18_1JdoX9KdJeRVjN9zvK8N9C5jybEHzZe8n": 1,
+		"94_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"96_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1
+	}
+}

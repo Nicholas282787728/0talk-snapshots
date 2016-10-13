@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HHktjrB2w0eb+cJze3BLhEhEL+nLHeG+nuOmj4e6WpwZK7w0bdDkq7kgL3dJq8XrqmxNcngWLLDO6L2GwukCdlQ=",
+ "cert_user_id": "uurtech@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "cad6f6e793c0ba792f825cbb0f0e4795dcefcec143feb2567d681f0348429a4b",
+   "size": 366
+  }
+ },
+ "inner_path": "data/users/1HDF4asYpz2szTLFruz28ZBaGsC1pX1Cfz/content.json",
+ "modified": 1457387234.038,
+ "signs": {
+  "1HDF4asYpz2szTLFruz28ZBaGsC1pX1Cfz": "HLPbXHUJ4zdXeb6gtPMEq9OcBKmU8xx7+g9QfAq/fuDxEAtTrpzEwTORiLTT6jZTOTGd0gJ2p8KM5g8gTBfTsnw="
+ }
+}

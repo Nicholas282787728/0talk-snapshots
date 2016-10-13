@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "G0K6EPX9WfhwXHDhkFm+SqC+4hdKZDE3bgGsWJHAZBiSE77T4KpRErz744YKxyio4cXRdiiq1rwj/QTWRkFNj6s=",
+ "cert_user_id": "kopykate@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "649c11c257fb1cb842cdc13dff0b6e959013d9752e6ad329cf1340de4fa4e2a9",
+   "size": 31654
+  }
+ },
+ "inner_path": "data/users/16w7UuJAHbt8YBa8zxHS7UFk9mq8Q5DpE4/content.json",
+ "modified": 1476352068.866268,
+ "signs": {
+  "16w7UuJAHbt8YBa8zxHS7UFk9mq8Q5DpE4": "G/GlQ+HgAXazjIozfMDswtZ0maz/UfYwIYKxuA3uSkTiatFIt/qugqgLvbsfLu7exjfVA3CQR3h8SXUdp9Ixy3s="
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HNafQqBp2G/BPWq91cbeM6y+oitC8YLYrrMNN9IC3y3Vyzr64wB8289d96B/pjZNM0Icpu1WMzERsZRxwepyClg=",
+ "cert_user_id": "chatobond@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "fd25b64f80da733b91b1147473111ae76c43f4f514247c6d5e79b25f5a272168",
+   "size": 162
+  }
+ },
+ "inner_path": "data/users/17VvJphF32vgKxY5GpgRTUD7Lg25qxAiUn/content.json",
+ "modified": 1458403600.868,
+ "signs": {
+  "17VvJphF32vgKxY5GpgRTUD7Lg25qxAiUn": "Gy/LzU5L3GDT3gT3kDWc5T7LhLgMvGodCT1RFKLCQ1OHJ8fwMNns7q3WsVPFJdSMJAqQkVwrdYp0+RXjV5kzRKI="
+ }
+}

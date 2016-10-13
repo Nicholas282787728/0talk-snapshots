@@ -1,0 +1,155 @@
+{
+	"next_topic_id": 5,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "Let's create a positive and friendly community.",
+			"body": "Kat fell down recently. It had one of the best communities for warez.\nPeople went there everyday not just to download things, but to discuss and share and make acquaintances.\nZeroNet is not kat. It's something new, a new subset of the internet that abandons that awful server-client topology.\nSo Let's make ZeroNet a place that people want to visit, let's abandon all that bad energy that people seem to want to insert when they feel anonymous and unmoderated, and let us seed the good things.\nThere will always be people who will try to abuse this system for their own agendas. Don't let them win. We are the internet.",
+			"added": 1469152124
+		},
+		{
+			"topic_id": 3,
+			"title": "Why are some sites cloneable and some aren't?",
+			"body": "I've noticed I can clone ZeroTalk, but cannot clone ZeroTorrent, which is essentially a fork of ZeroTalk. Why is that?",
+			"added": 1469441593
+		}
+	],
+	"topic_vote": {
+		"1_12GC9MQGPcN7PiMoRYVyZX66PnQjZKUpf2": 1,
+		"1_13o2BgF1FL4bwNSGMVySUjQmKMMkj9vFTK": 1
+	},
+	"next_comment_id": 22,
+	"comment": {
+		"1_12GC9MQGPcN7PiMoRYVyZX66PnQjZKUpf2": [
+			{
+				"comment_id": 1,
+				"body": "> [qu363c](#comment_2_112GGMvUJbBTCtQu8UUSYpo8UjLdo1B73n): You are the bad energy. You are anonymous. You are abusing this system for your own social justice regressive agenda. You want a safe space? Stick to Facebook and Twitter. Or better yet, just turn off your computer.\n\nWhoa man, relax. I'm just here to have a good time. And regarding anonymousy; I don't understand you, ZeroNet practically encourages users to be anonymous by turning tor on by default (at least on windows).\nAlso, I'm not saying anyone has to be anonymous, do what you like. I'm not trying to force my opinions on you. All I said was that we should build a friendly community.",
+				"added": 1469162876
+			},
+			{
+				"comment_id": 2,
+				"body": "> [dxtjgxz](#comment_3_1EN9Ape9Gbe2FAcP8qNWsyvg7x7z92LhA7): So basically it's just a public \"please don't be dicks and fuck this up for everybody\" kind of thing?\n> But seriously, trying to control a mass of people, especially when they are relatively anonymous is kind of a stupid idea.\n\nCan never control a mass of people.  And like I said, people will probably try to use it for malicious intent. But it doesn't have to fuck it for all of us. Tor is used for some terrible things, but it's also used for whistle-blowing, and circumventing censorship. All I'm saying is that we can create a good community that will bring more good people. Then again, you might say I'm being outright optimistic. And I'm also quite new here, but I have been seeing a majority of people here being decent so far. So I don't think we should be pessimistic about the direction of this platform.",
+				"added": 1469167317
+			},
+			{
+				"comment_id": 3,
+				"body": "> [tk6znreaerujvrfk](#comment_24_13t2ME4cTtkxrwPeugeZgdJF5Kg7C5CSEy): But how do you police the police when they hold all the power? We can not imbue a limited few with power. We've tried it before, its called a dictatorship.\n> I know this is only a forum and not a political system but the same logic applies. If democracy can't decide (because everyone disagrees) anarchy must replace it. And that is what this forum is, anarchy, not that bad really is it?\n\nThis platform is very young, and I imagine that different devs will use it for different applications. Personally I'm very curious about the new social app that is nearly finished. has a form of permissions, groups, etc.\nWe could build better communities if we had just a little bit more control over content.\nI think we should be able to find a scenario where we have a lot of control over what we share and see, and still not censor anyone. I'd like to have more control over what content I share personally, such as being able to not seed a certain post in a forum, or a comment in the chat. That way people won't have to seed content they don't want to seed in a website they do want to seed. I'm not sure if that's plausible though. It might be just impossible architecture-wise.",
+				"added": 1469253292
+			}
+		],
+		"1_1CoVAt2jBzV4Na6nX3VG1JSfjS8fwse1Z9": [
+			{
+				"comment_id": 4,
+				"body": "> [cannonfodder](#comment_21_1GCMDNMgJHvZJfdbD9ygDmpBdnVAobdJYg): I've been running tvepisodes.bit for listings of TV torrents/magnets. I also insert many of the TV episodes into Freenet and provide the keys for fully decentralized and anonymous file downloads. Unfortunately I sourced from kat.cr so I'm looking for a new source now. It shows the concept of a ZeroNet hosted site is workable for magnets.\n\nThis is quite impressive. Thank you for your efforts. Have you tried sourcing from tpb?",
+				"added": 1469255254
+			},
+			{
+				"comment_id": 9,
+				"body": "> [cannonfodder](#comment_22_1GCMDNMgJHvZJfdbD9ygDmpBdnVAobdJYg): I'm looking for a new source at the moment and will be trying tpb, ettv, amongst others. Longer term I think I'll pull data from the bittorrent DHT directly as an additional source.\n\nredacted",
+				"added": 1469349043
+			},
+			{
+				"comment_id": 12,
+				"body": "> [z3r0c00l](#comment_34_1CoVAt2jBzV4Na6nX3VG1JSfjS8fwse1Z9): EZTV group no longer exist.The site you are referring to has been taken over by scammers and is no longer safe to use. - It's scam!Same goes for new Yifi site (YTS.ag) which is also linked to EZTV scammers (same group basically).. I would strongly advise everyone against using any of those sites.\n\nI was aware that the domain changed hands, but not that it is run by scammers. I wonder what kind of scam are they running?\nIf you think about it, most torrent sites have changed hands/or seized. The Piratebay was originally run by an organization. Most (if not all) of the original members left and it was taken down numerous times. But The Piratebay still exists whilst  the same people aren't running it, and no one calls it a scam.\nDemonoid used to be one of the most popular websites around. It had a lively community and pretty much everything. Got taken down in Ukraine and then it changed hands and came back. Same database, different people.\nSometimes it's the original members, and sometimes it's someone else who seized it or stole/bought the database somehow.\nBut to say it's a scam. Well, I'd ask you to be more specific, how it is a scam?\n\np.s, I redacted my link per your request.",
+				"added": 1469605218
+			},
+			{
+				"comment_id": 13,
+				"body": "Thanks for clarifying z3r0c00l & cannonfodder. It seems to me like It's just assholes who fuck other people over because they want more money. I won't use a website run by people who fuck other scene members and groups over for money.\nPersonally, I think it's problematic that site owners make revenue on their torrent sites through ads.\nThat revenue sometimes gets to millions of dollars per year. It's not a matter of covering server costs, domains, etc. Which could probably be covered by donations anyway.\nAnd you might get to the point where you say to yourself, It's fine when you torrent shit for fun, everyone gets their media freely. But when someone becomes really rich off your sharing, are you still okay with it?",
+				"added": 1469696490
+			},
+			{
+				"comment_id": 14,
+				"body": "> [cannonfodder](#comment_25_1GCMDNMgJHvZJfdbD9ygDmpBdnVAobdJYg): You would be very disappointed in the amount of donations received by sites. It's very difficult. You have to be like ad companies - putting the donation in peoples face, making the experience not so good for those that don't donate - to even get a trickle.\n> Given the potential downsides of getting caught I don't have a problem with the Kat founder making money.\n\nYou make a good point. The problem is that people like the kat founder keep getting caught. Their websites keep getting compromised when they get taken down. Our privacy suddenly amounts to nothing, and the people who run these sites basically lose all their money and spend years in prison.\nBut if no one made any money, there would be almost zero incentive for these sites to be taken down.\nThis leads me to believe that ZeroNet or something like-ZeroNet is the only option for ending that vicious cycle.\nBecause, no server costs, no domain costs, the users are the website, can't be taken down, almost no monetization options.\n\nOf course, if no one makes any money, what would be the incentive for a dev to create such a platform within Zero?\nThey'd have to do it for fun, or maybe because of their beliefs.",
+				"added": 1469782453
+			},
+			{
+				"comment_id": 15,
+				"body": "> [72](#comment_14_14Ph48APoNHojAArCqa6FAwXiobE9JByCy): Quarkgate I have to disagree, a huge pressure is not from watching people gain financially but by MPAA and Hollywood refusing to adapt their business  models and lobbying for these arrests. \n> Running a torrent site is more of  an activist program then a monetary one. For the risk and work it pays very little.At least that is what I understood most torrent admins to be activists that believe in open information.\n\nSupposedly, Kat made 20m dollars a year. Piratebay makes 200m dollars a year.\nPersonally, I can't even fathom anyone making 200 million a year.\nEven if it was just 1,000,000$ a year, what you say about it pays little is way off.\nAs for high risk, sure. It's high risk. It also pays insanely to very few people. The mods probably just get a wage. But someone up there is raking all the money. \n\nHollywood and MPAA don't sue a thousand people for seeding a torrent. They sue the guy who makes all the money from it.",
+				"added": 1469786251
+			},
+			{
+				"comment_id": 16,
+				"body": "> [72](#comment_18_14Ph48APoNHojAArCqa6FAwXiobE9JByCy): I recommend listening to  https://torrentfreak.com/steal-show-s01e14-kickasstorrents/ which this discuss this very topic precisely. \n> \"In this episode of STEAL THIS SHOW, we invite Peter Sunde, co-founder of The Pirate Bay, Andrew Norton, US Pirate Party chairman, and Gary Fung, founder of isoHunt, to discuss this critical event, its significance for the torrent community, and implications for the world of P2P. \"\n>  They are definitely well versed and experts in this subject.They go over it in detail better than I a regular user ever could. Also this podcast if how I discovered play, a great podcast to keep up with the pirating community.\n> If your busy I will try to sum up what they said.\n> 1 - Those figures are estimates2 - They don't account for any cost of doing business which is huge. Server costs, CDN, staff etc...3 - If it were very lucrative a lot more people would run these huge sites.\n> They must make some money, but, how much is not entirely clear.\n\nThat's a nice podcast. did you listen to 13:36?  He asks \"Do you have 150m$ lying around?\" \"No comment.\"\nThat guy was a political figure that was supposed to be transparent.\nEstimates are very high, and the fact is they *do* make **some** money. And they're not very transparent about how much. So let's face it. \"Gary\" probably has millions of dollars lying around.",
+				"added": 1469789119
+			}
+		],
+		"1_13o2BgF1FL4bwNSGMVySUjQmKMMkj9vFTK": [
+			{
+				"comment_id": 5,
+				"body": "Also, if you guys are looking for regular torrent sites outside of ZeroNet;\nhttps://thepiratebay.org/ ( obviously )\nhttps://www.limetorrents.cc/ ( I found this one recently, and it seems quite nice )\nhttps://eztv.ag/ ( for tv shows )\nhttps://www.demonoid.pw/ ( closed community, registration is usually opened since the last takedown )\nhttps://www.nyaa.se/ ( anime )\nhttp://1337x.to/ ( no https encryption )\nhttps://rarbg.to/ ( this is what play is based on )",
+				"added": 1469284108
+			}
+		],
+		"1_1BFTNXtYQDMCurqyg45KLmsV6oJD7bQSsH": [
+			{
+				"comment_id": 6,
+				"body": "Me too.",
+				"added": 1469342390
+			}
+		],
+		"1_1ZoUGtp8YwvCHZWR9mAxha5ksM4jCiof9": [
+			{
+				"comment_id": 7,
+				"body": "Haven't tried it but it looks fishy to me. They have a twitter account, a facebook account. But no real public face. It's not a transparent open source project. I'm going to avoid it.",
+				"added": 1469346393
+			},
+			{
+				"comment_id": 8,
+				"body": "My concerns is that this is a company that just popped up. Who's the ceo? Do they have a public face?\nDo they keep logs on users?\nAlso, bittorrent doesn't mask your ip. not by default. ZeroNet is custom tailored to mask your ip using onion services. Besides for that \"256bit SSL\" encryption they mention, they don't seem to provide any more information regarding to how they protect your identity.",
+				"added": 1469348391
+			}
+		],
+		"3_12GC9MQGPcN7PiMoRYVyZX66PnQjZKUpf2": [
+			{
+				"comment_id": 10,
+				"body": "> [methodx](#comment_5_1CFhytwoGGPNqmueehPqotaf2iG9uxD98e): You can clone any site on ZeroNet manually if you copy the source code in your /data/ folder.\n\nIf you can clone a website manually disregarding the wishes of the owner, what's the point of not allowing cloning?",
+				"added": 1469516728
+			}
+		],
+		"3_13y1BVkYsWXbNMjdk2PrRVwpuXqohTRNHi": [
+			{
+				"comment_id": 11,
+				"body": "> [negabit](#comment_1_1ELrvskr1xGbmZpbTWS9mC9U8fBouk1Em2): TAILS without a doubt. You can find it here: http://localhost:43110/zerolinux.bit/\n\nNice site, It has magnet links to pretty much every common distribution. Totally seeding that.",
+				"added": 1469519824
+			}
+		],
+		"1_1MZ697S3uwCpZD4zSq51NHJDrj7CWxsmd3": [
+			{
+				"comment_id": 17,
+				"body": "The problem is, that there is no cloneable torrent site on zero. ZeroTorrent is great, and could be adaptable to a comics community easy. Problem is, the site owner of ZeroTorrent did not decide to share a cloneable version.\nIt shouldn't even be so hard to make. It's a clone of ZeroTalk. You can clone ZeroTalk yourself, and try to adapt it.",
+				"added": 1470091969
+			},
+			{
+				"comment_id": 18,
+				"body": "> [tkarita](#comment_30_1GervYZoP82e8X1Rgc4wyMkJY2zSsJuq8t): ZeroTorrent is in data/192dZ1EG5tU7PnCfuwGMDEBrr2eLqvs4t3.  It just can't be copied from the ZeroNet interface.\n\nI tried to manually copy the data from that folder into a folder where I have my own site hosted. It almost works, but when I add the magnet link to it it doesn't get included in the post that is created on my site. (although the post is in fact created) Do you know why by any chance?",
+				"added": 1470095249
+			},
+			{
+				"comment_id": 19,
+				"body": "> [tkarita](#comment_33_1GervYZoP82e8X1Rgc4wyMkJY2zSsJuq8t): Actually, you can clone ZeroTorrent by adding\n> \n> to its content.json and restarting ZeroNet.  The missing file updates have to be dealt with somehow, but ZeroNet only requires the file list to be complete.\n\nnofish (the main dev) clarified that the site owner needs to provide his own \"blank slate\" for the site. source:\nhttp://127.0.0.1:43110/Talk.ZeroNetwork.bit/?Topic:3_12GC9MQGPcN7PiMoRYVyZX66PnQjZKUpf2/Why+are+some+sites+cloneable+and+some+aren+t\n\nI'll give what you said a go though, see if it changes something.\nEDIT:I tried it, and it didn't work...",
+				"added": 1470098612
+			},
+			{
+				"comment_id": 20,
+				"body": "I finished cloning and got a : index.html download failed",
+				"added": 1470099154
+			}
+		],
+		"4_12GC9MQGPcN7PiMoRYVyZX66PnQjZKUpf2": [
+			{
+				"comment_id": 21,
+				"body": "that doesn't seem that different than using sockets in python or twisted. I think my problem is mostly with how it all comes together.. The whole platform.",
+				"added": 1470110446
+			}
+		]
+	},
+	"comment_vote": {
+		"5_13o2BgF1FL4bwNSGMVySUjQmKMMkj9vFTK": 1,
+		"3_1K6T3br1ScYp3ypiDeN6rbfqMvUmiKUyP1": 1,
+		"6_19d3ftg54Fik3dfu55GNYxtDJ9tc3K1NKq": 1,
+		"5_1CFhytwoGGPNqmueehPqotaf2iG9uxD98e": 1,
+		"703_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"706_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1
+	}
+}

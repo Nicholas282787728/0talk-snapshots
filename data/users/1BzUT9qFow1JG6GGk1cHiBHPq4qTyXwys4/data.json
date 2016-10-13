@@ -1,0 +1,30 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "ZeroNet and big sites",
+			"body": "How exactly does this service work with big sites. Say I wanted to create zerotube, obviously you can't expect every user to seed every video. Even without video content, it can quickly become too much for a single user to host. But as far as I see, everything is hosted on every single peer.",
+			"added": 1456951461
+		}
+	],
+	"topic_vote": {},
+	"next_comment_id": 3,
+	"comment": {
+		"1_1BzUT9qFow1JG6GGk1cHiBHPq4qTyXwys4": [
+			{
+				"comment_id": 1,
+				"body": "Ah that makes sense. Hopefully it gets added in the future.",
+				"added": 1456951881
+			}
+		],
+		"1_1MEWJRMLgvofqG9Mbsb2Rc4hFFyv7HeRx7": [
+			{
+				"comment_id": 2,
+				"body": "Sites are limited of how much they can take up of your space and you can delete them if you want.",
+				"added": 1457020402
+			}
+		]
+	},
+	"comment_vote": {}
+}

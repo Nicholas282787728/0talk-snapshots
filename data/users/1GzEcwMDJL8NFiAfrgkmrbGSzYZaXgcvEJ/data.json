@@ -1,0 +1,18 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {
+		"1_1ATG1fuopoWWvSbwU99cWx2RQxLexG5ENq": 1
+	},
+	"next_comment_id": 2,
+	"comment": {
+		"14_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf": [
+			{
+				"comment_id": 1,
+				"body": "reddit",
+				"added": 1456868131
+			}
+		]
+	},
+	"comment_vote": {}
+}

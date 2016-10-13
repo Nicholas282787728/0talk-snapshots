@@ -1,0 +1,25 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "How to export ZeroID cert?",
+			"body": "So I want to move my certification with my, so I can recieve email in other ZeroNet nodes. Is there any way to do it?",
+			"added": 1456951173
+		}
+	],
+	"topic_vote": {
+		"1_1LkALePmhKJCYQKgBETFB62xf43yDsDCAe": 1
+	},
+	"next_comment_id": 2,
+	"comment": {
+		"1_1NibKcCcidCHue94Rhr7F4Gvu3Lg6FAESp": [
+			{
+				"comment_id": 1,
+				"body": "How can I export my identity? (more of a ZeroId Question)",
+				"added": 1456950957
+			}
+		]
+	},
+	"comment_vote": {}
+}

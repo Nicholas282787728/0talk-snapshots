@@ -1,0 +1,23 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "Encrypted | Web Designer",
+			"body": "http://127.0.0.1:43110/1JKKd6DUhaNvWVuaBtNHS948og3JNd7qZM",
+			"added": 1456955010
+		}
+	],
+	"topic_vote": {},
+	"next_comment_id": 2,
+	"comment": {
+		"3_168qV1Xxp2EyszrzdECLUwXrn9wGYjDdar": [
+			{
+				"comment_id": 1,
+				"body": "Encrypted | Web Designer http://127.0.0.1:43110/1JKKd6DUhaNvWVuaBtNHS948og3JNd7qZM",
+				"added": 1456955380
+			}
+		]
+	},
+	"comment_vote": {}
+}

@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HPOHWlLmS8KwdvmqfyW+m27hRwDlkWTuVYIJ8To7jnc8CBt9TAnJLA/RqrkUaSXFz3BXL0w8RUuqq8H+mtNQ5Zg=",
+ "cert_user_id": "ibrahimabdeen84@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "80fe95b8d2e96bdd1e52ae78dc2d4210958bbab049644b831a55f7fb30f004a9",
+   "size": 361
+  }
+ },
+ "inner_path": "data/users/1Gtn7r5hpLTqZFPCc2xBMderLg7RY3sc9t/content.json",
+ "modified": 1458728935.089,
+ "signs": {
+  "1Gtn7r5hpLTqZFPCc2xBMderLg7RY3sc9t": "G4X+BIzhR+P5fAE4rov54zt0oJV8Qf4A7mRDH3N9jTLsQVuThFhbE9bV9TlGFytOx7/dNnz+1l5J6GaUhLBKB0M="
+ }
+}

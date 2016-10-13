@@ -1,0 +1,30 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 4,
+	"comment": {
+		"12_1CMjV2r4EBpFt8VCcWWZKDysZXPcPExRNN": [
+			{
+				"comment_id": 1,
+				"body": "Check out storj.io, perhaps using their API would help",
+				"added": 1468419621
+			}
+		],
+		"4_1PSaHi14Xh4Kjo3yyjDgbRtj4YLQgWV4QJ": [
+			{
+				"comment_id": 2,
+				"body": "For production? Would you trust it not to come own at any point?",
+				"added": 1468419758
+			}
+		],
+		"1_15JNF8bdyG4zEWVASsgbkFirzM6gyYpSBA": [
+			{
+				"comment_id": 3,
+				"body": "Tox and Signal",
+				"added": 1468476024
+			}
+		]
+	},
+	"comment_vote": {}
+}

@@ -1,0 +1,49 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 7,
+	"comment": {
+		"1_1JoZwCfTAAey51Mzt81ms5yZguBTuQVK7B": [
+			{
+				"comment_id": 1,
+				"body": "成功注册到免费bit域名 http://127.0.0.1:43110/chzj.bit",
+				"added": 1463567412
+			}
+		],
+		"9_16tWPYFLbad3R8iGcMuetyiwC2q5qXp45T": [
+			{
+				"comment_id": 2,
+				"body": "成功注册到免费bit域名 http://127.0.0.1:43110/chzj.bit",
+				"added": 1463567423
+			}
+		],
+		"1_14139fxEEc7VuHVxvK2UqYSeX3rJqiADVY": [
+			{
+				"comment_id": 3,
+				"body": "成功注册到免费bit域名 http://127.0.0.1:43110/chzj.bit",
+				"added": 1463567453
+			}
+		],
+		"1_13wnc2eN1gESSYNwsogugYC76N6cXfsVL2": [
+			{
+				"comment_id": 4,
+				"body": "成功注册到免费bit域名 http://127.0.0.1:43110/chzj.bit",
+				"added": 1463567485
+			}
+		],
+		"2_1NL5YZdozXc6ZNzKm78H4SjSMabyzV16YX": [
+			{
+				"comment_id": 5,
+				"body": "成功注册到免费bit域名 http://127.0.0.1:43110/chzj.bit",
+				"added": 1463567510
+			},
+			{
+				"comment_id": 6,
+				"body": "zeronet开的网站是无法被删除的，你本地电脑删除了，但是其他的节点没有被删除，你的网站就永远都被留在了网络上。",
+				"added": 1463567554
+			}
+		]
+	},
+	"comment_vote": {}
+}

@@ -1,0 +1,25 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "This is a test message",
+			"body": "Nice to test this.",
+			"added": 1468739535
+		}
+	],
+	"topic_vote": {
+		"1_17tLRGP27CwbmVTe7Hm8BKj8eTP9tXAkoA": 1
+	},
+	"next_comment_id": 2,
+	"comment": {
+		"2_1LfQ8dwqkqkGQNCg1kBevHPxjvTRJTQYBz": [
+			{
+				"comment_id": 1,
+				"body": "It is inevitable for Zeronet to gain traction. And it will grow faster.",
+				"added": 1468739633
+			}
+		]
+	},
+	"comment_vote": {}
+}

@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "G9yahvw/JFODx7Sr1pQfY55oitbKb50AMfwqfNnozbxX+NfGIoYD6+MX4FufunGY3aiix59N7Cml2YJ7QMyT91k=",
+ "cert_user_id": "pesticide@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "ecb950042056ab4d1d4bf4ddb8f0a0fde88b997c40c8635aad0b9533ae911c95",
+   "size": 452
+  }
+ },
+ "inner_path": "data/users/1Eec7Brcy9PKqghLyTocYPMNxQvMUudsRE/content.json",
+ "modified": 1457878697.614,
+ "signs": {
+  "1Eec7Brcy9PKqghLyTocYPMNxQvMUudsRE": "G57PHr0MWzts+IyZg4lyqRCbhQHoUWT3RrOw3HmDnpwg+Hv1rK+gXj/zS9JB9Ukd5AqnZTcGXbjksgh9TQqVVVU="
+ }
+}

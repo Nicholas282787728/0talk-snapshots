@@ -1,0 +1,176 @@
+{
+	"next_topic_id": 5,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "Testing Zeronet/IPFS combo",
+			"body": "http://127.0.0.1:43110/1Es1kGhjNSAZzEfdPyJrYG71aj25ewrMkM/\n\nRun IPFS, test out the players on my site. \nFeel free to pin the hashes to help keep them alive too!\n\nPlease comment to let me know if everything worked well :)",
+			"added": 1466799607
+		},
+		{
+			"topic_id": 2,
+			"title": "\n",
+			"body": "",
+			"added": 1467055403
+		},
+		{
+			"topic_id": 3,
+			"title": "The IPFS Multi-Media Database Project",
+			"body": "Movies, Music, and Shows available for immediate streaming. Right now, the library is small but I hope that changes as everyone begins submitting content!\n\nhttp://127.0.0.1:43110/1LbcXQXDQrzEdu4ABj1hKvQb4R4F3MRYcw/\n\nMore updates to come as I move along, I just felt the site is usable enough to open up and let you guys try it out!",
+			"added": 1467243759
+		},
+		{
+			"topic_id": 4,
+			"title": "Is anyone working on a better ZeroTalk Alternative?",
+			"body": "This platform isn't really good for open discussions. Older talks get buried and newer talks get bumped up top. What would prevent someone from using this system to manipulate the topics, all they'd need is a bot to run and comment on topics they want to be seen first.",
+			"added": 1467317951
+		}
+	],
+	"topic_vote": {
+		"1_15k25aCTwyHfXnqtqpRvBbkDz5ka7gFuuU": 1,
+		"9_1CMjV2r4EBpFt8VCcWWZKDysZXPcPExRNN": 1,
+		"3_15k25aCTwyHfXnqtqpRvBbkDz5ka7gFuuU": 1,
+		"3_1BLPKyrF2D4ertte6JnAa6oWAMYzZGwKQz": 1
+	},
+	"next_comment_id": 22,
+	"comment": {
+		"8_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": [
+			{
+				"comment_id": 1,
+				"body": "> [greatagain](#comment_2_1GMhZGJsYFtB9DDF1DzBvYiGu6bGiYeiDx): There is any way to retrieve a zeromail account?\n\nIf you lost your data/users.json file, I don't believe so.",
+				"added": 1466809853
+			},
+			{
+				"comment_id": 9,
+				"body": "Attempting to follow along with the tutorial here: http://127.0.0.1:43110/Blog.ZeroNetwork.bit/?Post:46:ZeroNet+site+development+tutorial+2 \n\nI can't seem to sign data/users/content.json, the console just outputs\nSite: data/users/content.json: No rules\nSite: Sign failed: Invalid content\n\nI've done some searching around and still have not found an answer.",
+				"added": 1467055471
+			},
+			{
+				"comment_id": 10,
+				"body": "> [nofish](#comment_697_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): Are you sure you have modified your root content.json? (Does it has the \"includes\": json node?) Have you tried to restart your zeronet client?\n\nI ended up deleting my root content.json and re-signing to get a fresh one, that fixed the issue.",
+				"added": 1467121009
+			}
+		],
+		"6_178NSuZP2hH2vHhNX6vsHceh5sjPkDrLiH": [
+			{
+				"comment_id": 2,
+				"body": "> [testingzeronet12](#comment_36_1CMjV2r4EBpFt8VCcWWZKDysZXPcPExRNN): A question about IPFS. It may be based on my misunderstanding but here goes. IPFS is like a global decentralised P2P cloud storage, made up of nodes who host distributed content. Each file served has it's own unique hash.\n> Would it be possible for all nodes to come together and ban particular files hosted on the IPFS network by forbidding its hash? So wouldn't this be a type of censorship?\n\nIPFS will allow blacklisting of hashes and has proposed the idea to build one to block illegal content at the gateway, this is just so they can comply with requests for content notice take downs. Its not censorship since users on the network will have to opt-in to the blacklist so they can't view possibly dangerous content.",
+				"added": 1466889091
+			},
+			{
+				"comment_id": 4,
+				"body": "> [testingzeronet12](#comment_37_1CMjV2r4EBpFt8VCcWWZKDysZXPcPExRNN): Thanks. Where can I read up about this proposal? I haven't really followed the debates taking place within the IPFS developer community and I am not sure where I can read up about this blacklisting.\n\nhttps://github.com/ipfs/faq/issues/9\n\nI'm still fairly new to it too and just have been playing around with the network for a couple weeks.",
+				"added": 1466906021
+			},
+			{
+				"comment_id": 6,
+				"body": "> [testingzeronet12](#comment_39_1CMjV2r4EBpFt8VCcWWZKDysZXPcPExRNN): This one is interesting also. In essence, what it means is that IPFS is not uncensorable. It can be censored if all nodes within the network share blocklists of forbidden content. And IPFS developers are actively building-in capability to make this process easier: https://github.com/ipfs/faq/issues/36\n> There is also talk that a blocklist will be universally hard-coded into the software which can be auto-updated. This means even those people who planned to have nodes which don't subscribe to blocklists will also be forced to subscribe to blocklists. Looks like it is not uncensorable at all.\n\nI believe, and hope, the devs understand how much censoring or adding the ability to easily censor will affect them and their project. Hard-coded blocklists will quickly kill support for the project and likely sprout a new project based off of IPFS to make censorship harder/impossible.\n\nI think opt-in blocklists are the way to go if there has to be a blocklist.  Having every node adopting an opt-in blocklist sounds nearly impossible, there will always be access to \"blocked content\". \n\nAlthough, if you think about it, a blocklist seems entirely impossible. If I host a file that gets blocked, I'll just change the file ever so slightly so it gets a new hash that is unblocked. This would result in over-population of both a blocklist and IPFS's network itself. So, attempting to censor the network will simply be circumvented but at a cost to how much the network can store.",
+				"added": 1466971016
+			},
+			{
+				"comment_id": 7,
+				"body": "> [testingzeronet12](#comment_40_1CMjV2r4EBpFt8VCcWWZKDysZXPcPExRNN): I agree that blocklists, if they are to be implemented, should only be done so they are voluntary, and that no built-in incentive scheme is implemented to make people do blocklists because it's in their interests. On the other hand, taking the project offshore may help. I suspect the US government saw the potential of uncensorable internet and had a word with Juan Bennet.\n> I think though with the ever-changing hashes that you propose as a workaround, it may seem like a monumental task. This is because such blocklists may be based off merkle trees in the same way that the Blockchain compresses historical information into a merkle tree. This means the blocklist can stores many decades worth of data before it becomes unweildy.\n> I think the technology should be forked and taken to a jurisdiction where there is no pressure to implement blocklists. or at least where blocklists are done voluntarily only.\n\nAs much as I'd like to believe our friends at the alphabet agencies haven't gotten their grubby hands involved with IPFS, I think you may be right to be suspicious. Maybe the best solution for them would be to shut down gateways entirely and require IPFS to get content from it. This would solve the hypothetical sting operation at brought up at https://github.com/ipfs/faq/issues/36.\n\nIdeally, ZeroNet and IPFS should be merged into one single network/protocol with full Tor support and full censorship prevention/easy circumvention. That would be a great recipe for a fully anonymized and speedy network.",
+				"added": 1466973203
+			},
+			{
+				"comment_id": 12,
+				"body": "> [up4](#comment_40_1BLPKyrF2D4ertte6JnAa6oWAMYzZGwKQz): Meanwhile, I have updated libzeronet's status page. I don't think IPFS should merge with ZeroNet as both projects have very different objectives. I think ZeroNet should improve on its file sharing I/O performance. But it is a performance issue and not an architectural one. That is what I am working on with libzeronet.\n\nI believe hosting content directly on zeronet could be dangerous and will very quickly fill up user hard drives. Imagine a site owner having his keys compromised or some exploit being found and every single user who is connected to that site suddenly downloads a ton of illegal content without even knowing.\n\nIPFS is a superior method of content hosting, the lack of Tor support is a shame though. Being able to choose which large files you host is incredibly important in my opinion, you also gain the ability to fetch content incredibly quickly with IPFS at the moment. Although I'm sure libzeronet will fix the performance issue, I'm curious as to how you intend for content to be hosted, especially large files.",
+				"added": 1467143882
+			},
+			{
+				"comment_id": 13,
+				"body": "> [up4](#comment_41_1BLPKyrF2D4ertte6JnAa6oWAMYzZGwKQz):  For that, IPFS is fine. Right now, ZeroNet is perfect for text and image content where every file is less than 1MB. I want to improve on the 1MB limit because I think video bloggers and artists with disruptive things to say have nowhere to go and ZeroNet only needs small (performance) adjustments to make them feel welcome. That is what I want to work on. This is the use case I want to support.\n\nI totally agree with you there, this would be an amazing place for content like that! I was thinking more along the lines of very large files, this however, is incredibly realistic and would definitely help more supporters come flocking to ZeroNet!",
+				"added": 1467147708
+			}
+		],
+		"1_15k25aCTwyHfXnqtqpRvBbkDz5ka7gFuuU": [
+			{
+				"comment_id": 3,
+				"body": "> [testingzeronet12](#comment_38_1CMjV2r4EBpFt8VCcWWZKDysZXPcPExRNN): where is is best to run it? I don't really understand all of this properly. The guidance notes said to run it from %PATH so I did?\n\nFollow along with the alpha demo on their website https://www.ipfs.io, that should get you up and running.",
+				"added": 1466904316
+			},
+			{
+				"comment_id": 8,
+				"body": "> [tagh74y](#comment_1_1Baweszia4vsYK8J5DeUX9YmBjh4HuR4Aa): I'm getting a grey box with a cross in the middle saying No Video with supported Format and MIME Type found\n\nAre you running the IPFS daemon? I only get that when the daemon is down.",
+				"added": 1467040999
+			}
+		],
+		"5_1GCMDNMgJHvZJfdbD9ygDmpBdnVAobdJYg": [
+			{
+				"comment_id": 5,
+				"body": "Granted it's not the same level of anonymization, I have not had any issues using IPFS through a VPN to hide my ip address. What I hope to see some day is a full merge between the IPFS and ZeroNet and Tor networks into one full distributed internet. Easy anonymization, difficult to censor, speedy file transfers, and essentially free content hosting.",
+				"added": 1466964877
+			}
+		],
+		"1_12xXVxkjN2oM6hwtzaSSJxAaiT7VW51VHQ": [
+			{
+				"comment_id": 11,
+				"body": "I'd recommend using Signal over WhatsApp simply because WhatsApp is owned by Facebook, they're not really all that known for being respectful of privacy or honest at all.",
+				"added": 1467123750
+			}
+		],
+		"9_1CMjV2r4EBpFt8VCcWWZKDysZXPcPExRNN": [
+			{
+				"comment_id": 14,
+				"body": "I would love to see this become a reality if it is possible!",
+				"added": 1467241510
+			},
+			{
+				"comment_id": 16,
+				"body": "> [testingzeronet12](#comment_47_1CMjV2r4EBpFt8VCcWWZKDysZXPcPExRNN): \n> Imagine this XMPP server being a server hosted by yourself whose address can be shared privately. This can mean we make temporary XMPP servers.\n> If it's possible to host your own database-driven Justpaste.it clones such as: http://127.0.0.1:43110/1MgHVPCE1ve6QfKrgsqCURzRj72HrRWioz/\n> Then it's possible to host XMPP servers.\n> This would be a great way to avoid spying by the state due to the use of Tor, and the ephemeral nature of P2P datasharing. Because there would be no centralised server, we can also avoid the issue of metadata being tracked.\n\nI like the idea but wouldn't that be tricky? What if someone somehow connects to your chatroom and then download the logs from there. If the logs are encrypted, they still have the data and the code that would be used to decrypt it, wouldn't cracking it a bit easier?",
+				"added": 1467320802
+			}
+		],
+		"3_15k25aCTwyHfXnqtqpRvBbkDz5ka7gFuuU": [
+			{
+				"comment_id": 15,
+				"body": "> [o4zw5vmpoz5hz78z](#comment_116_1KTjPe9MxoYkcXj78GuZgCcj3R3f3Twh7r): i try to fetch the site only one peer yet\n> could you download your site on one of the public proxys?\n\nShould be accessable now, its got 7.",
+				"added": 1467259418
+			}
+		],
+		"1_1PHF6D1FxGbiFVt5RbPPKFXoV8xK9ESgTA": [
+			{
+				"comment_id": 17,
+				"body": "Malicious site",
+				"added": 1467670643
+			}
+		],
+		"10_1MEWJRMLgvofqG9Mbsb2Rc4hFFyv7HeRx7": [
+			{
+				"comment_id": 18,
+				"body": "ZeroNet is considered a darknet, all a darknet basically is a network that requires special software to access(Tor, ZeroNet, I2P) are all darknets. \n\nThe deep web is just pages on the internet unable to be indexed by a search engine.",
+				"added": 1467819011
+			}
+		],
+		"1_1AhXDbKvcLap7TcS2542J7bFYzKHM3xeRU": [
+			{
+				"comment_id": 19,
+				"body": "I find it hard to think of Anarchism working as a long-term solution. Some people will always look for someone to follow or be subservient to, just as some will look for someone to manipulate or turn into a servant for their own goals. Anarchism is flawed because it operates on the notion that humanity is always going to do the right thing.\n\nAnarchists like to believe everyone is capable of doing the same things and could easily make a life for themselves. The reality is that there are stupid people, there are incompetent people, and there are mentally challenged/ill people. How will those people make a life for themselves? For them it'd just be easier to follow someone else or follow orders to survive. Suddenly you see people gaining large followings because they are really good at telling people what to do/how to survive. These people clearly have gained power and will likely establish rules/regulations to be followed. Suddenly you have a government forming around a few people, they may be come allied, they may fight and if they fight then they personally wouldn't fight. Instead, they'd use their followers and believers to fight.\n\nAnarchy is not a sustainable government, it is only meant to be a period between governments.",
+				"added": 1467819826
+			}
+		],
+		"3_1BLPKyrF2D4ertte6JnAa6oWAMYzZGwKQz": [
+			{
+				"comment_id": 20,
+				"body": "I'm interested, have you gotten any other replies about people coming? Try posting the site around reddit too to get people interested.",
+				"added": 1467819972
+			}
+		],
+		"1_15B3N5kBvnaMAv6ufCmSLf4BzexsZw66tS": [
+			{
+				"comment_id": 21,
+				"body": "Run a tor node",
+				"added": 1468015030
+			}
+		]
+	},
+	"comment_vote": {
+		"39_1CMjV2r4EBpFt8VCcWWZKDysZXPcPExRNN": 1,
+		"40_1CMjV2r4EBpFt8VCcWWZKDysZXPcPExRNN": 1,
+		"1_1EfPTPhKFoQm7RYuV8o1Po7huGKpBN9RYU": 1,
+		"41_1BLPKyrF2D4ertte6JnAa6oWAMYzZGwKQz": 1,
+		"47_1CMjV2r4EBpFt8VCcWWZKDysZXPcPExRNN": 1,
+		"14_15k25aCTwyHfXnqtqpRvBbkDz5ka7gFuuU": 1,
+		"18_15k25aCTwyHfXnqtqpRvBbkDz5ka7gFuuU": 1
+	}
+}

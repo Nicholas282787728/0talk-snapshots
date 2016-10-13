@@ -1,0 +1,63 @@
+{
+	"next_topic_id": 3,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "Cloning Zite: Where is the private key",
+			"body": "I know I can publish or modify a new site with a private key. But, the private key of a cloned zite is unknown. How the zite edition is granted?\n\nIs the private key related with BIP32? How it works?",
+			"added": 1470842060,
+			"parent_topic_uri": "3_1PVcdu7USZH2kHMETbqDYLPjJZKCDWM52k"
+		},
+		{
+			"topic_id": 2,
+			"title": "Important files to save in ZeroNet?",
+			"body": "I'm moving from my Desktop to my Laptop. I've created some webs and I wonder if I need some private keys from my user to identify me with zeroid.bit\n\nDo I need to save my own sites? (the original sites with all the files?). What files I need if I want to install ZeroNet from scratch? What files are recommended to save? Thank you!",
+			"added": 1471518624
+		}
+	],
+	"topic_vote": {},
+	"next_comment_id": 7,
+	"comment": {
+		"4_1BFTNXtYQDMCurqyg45KLmsV6oJD7bQSsH": [
+			{
+				"comment_id": 1,
+				"body": "Reputation systems are implemented in many p2p protocols. It is good and protect against attacks. You can stay open, decentraliced, uncensored... but have the option to reward his behaviour and highlight him as a trusted user.",
+				"added": 1470789198
+			}
+		],
+		"6_1GervYZoP82e8X1Rgc4wyMkJY2zSsJuq8t": [
+			{
+				"comment_id": 2,
+				"body": "**Same error here.** I don't know why, my content.json is signed an published (log says). But in ZeroHello it shows *1 update failed* after some time trying. In my zite, the plugin in the right sidebar says: `Missing files: content.json`",
+				"added": 1470789582
+			},
+			{
+				"comment_id": 3,
+				"body": "> [zeronauta](#comment_2_163sF1Kdsd5LdpjAXDKBshdEBNJH6PUqvg): Same error here. I don't know why, my content.json is signed an published (log says). But in ZeroHello it shows 1 update failed after some time trying. In my zite, the plugin in the right sidebar says: Missing files: content.json\n\n**Edit**-- I can access `/content.json` is there any other content.json? Or maybe only me can access it?",
+				"added": 1470840766
+			}
+		],
+		"3_13Mt8T2256Uz4GHk9B4XvKqyz37wPgA26q": [
+			{
+				"comment_id": 4,
+				"body": "> [kickasstorrents](#comment_5_1D6Pn4487L8QyFtVSU14nxxtnfEgEs2Ny1):  I'm writing a Node.js script to get the latest torrents from the database, get the number of peers / seeders and then update and sign the data.json file.\n\nIt sounds interesting. Maybe I would use it in the future.",
+				"added": 1470846771
+			}
+		],
+		"1_163sF1Kdsd5LdpjAXDKBshdEBNJH6PUqvg": [
+			{
+				"comment_id": 5,
+				"body": "Thank you!",
+				"added": 1470855429
+			}
+		],
+		"1_1L56HBBtEbSL8aHaL5DcjSgrpsoVmZen5B": [
+			{
+				"comment_id": 6,
+				"body": "Too much hot here! I need the beach :P",
+				"added": 1471518678
+			}
+		]
+	},
+	"comment_vote": {}
+}

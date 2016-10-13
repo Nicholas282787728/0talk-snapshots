@@ -1,0 +1,15 @@
+{
+ "cert_auth_type": "web",
+ "cert_sign": "HDA4TbDhXg/cvqvESf4q//USjz6yI+u4X6Ihg04Jq99GZrkcboLxHQL4gLMtis5kvFrc5PzbRwuzU5L7lKVjq2s=",
+ "cert_user_id": "bert@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "edac3fdf196890fa262dfd472f81716594e0420b2de274108c76113e10bd9118",
+   "size": 1416
+  }
+ },
+ "modified": 1455551628.563,
+ "signs": {
+  "1FJFF8d4B5LQ9jJinqBRxqCR7RHbHPxBfv": "G1p7HRQ9wBJuS0NaCgNOdJ0C4kNRR7tRze8GglHsRY7wKsoJQADMVwQgyPdc+q6ZaJR/R3Ek63OIneyZyyG+TYM="
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "G7s7+kPBwG7+vZkXFIxO2ZHAPKD9t75PPwCLQSO1pIhyS7aCOVvlCYisQkfv4mg3LUSU3X41LiB8vJjUNwGGDa8=",
+ "cert_user_id": "cantonstate@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "75263898b237099b01d0b14b89d3b2725f4918fa7ea0aad31157c3e342fe989a",
+   "size": 307
+  }
+ },
+ "inner_path": "data/users/1Hw2CYawgBfoMZ3EurmHAnRS9Yy5N7cZvC/content.json",
+ "modified": 1472495123.644721,
+ "signs": {
+  "1Hw2CYawgBfoMZ3EurmHAnRS9Yy5N7cZvC": "HKoO/quUmuc5riNiTzL2agnv7EhHV3u1qaQhIO7ZvlUCLPYXazYn3Lgf489xGtfA6/7uQ/8IVKkEUhHd+6PkTyg="
+ }
+}

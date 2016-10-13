@@ -1,0 +1,49 @@
+{
+	"next_topic_id": 3,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "Does bitcoinforks.bit resolve for anyone?",
+			"body": "I'm having problems it, http://127.0.0.1:43110/bitcoinforks.bit/ gives me:\n\nNot Found\n\n/bitcoinforks.bit/\n\nOther .bit domains resolve for me.\nIs is a problem that i didn't specify any \"ns\" entry in the .bit domains value?",
+			"added": 1471113790
+		},
+		{
+			"topic_id": 2,
+			"title": "URL rewriting from 'it' to 'it/' possible in ZeroNet site?",
+			"body": "I am wondering if some URL rewriting possible in ZeroNet site?\n\nMy simple static site has localized language subfolders:\n\nit/\nde/\nes/\n\nI don't have navaids from main page yet, so I ask people to type in the URL with the language-specific suffix.\n\nBut if they forget the trailing /  , they get 'page not found'.\n\nCan I somehow rewrite the URL (or is there another simple way to fix this that will reliably work?)\n\nThanks for any advice!",
+			"added": 1471242831
+		}
+	],
+	"topic_vote": {},
+	"next_comment_id": 5,
+	"comment": {
+		"1_1GzycmSBHvHfdNe1tUQHsDfDEpBgvBatXQ": [
+			{
+				"comment_id": 1,
+				"body": "Thanks a lot!",
+				"added": 1471114503
+			},
+			{
+				"comment_id": 2,
+				"body": "> [nofish](#comment_724_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): your domain's json is invalid, you can validate it using eg.: https://jsonformatter.curiousconcept.com/\n\nOk - I tried that, and it said the JSON is valid according to RFC 4627\n\nstill confused...",
+				"added": 1471114972
+			},
+			{
+				"comment_id": 3,
+				"body": "> [nofish](#comment_724_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): your domain's json is invalid, you can validate it using eg.: https://jsonformatter.curiousconcept.com/\n\nok, i get it, you didn't mean the content.json but the domain. Right, I'll fix that - thanks again!",
+				"added": 1471115149
+			}
+		],
+		"2_1GzycmSBHvHfdNe1tUQHsDfDEpBgvBatXQ": [
+			{
+				"comment_id": 4,
+				"body": "> [nofish](#comment_731_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): use http://127.0.0.1:43110/yoursite/?es/anything instad of http://127.0.0.1:43110/yoursite/es/anything, and then you can handle the url in javascript\n\nSweet tip, thanks!",
+				"added": 1471255794
+			}
+		]
+	},
+	"comment_vote": {
+		"26_19arYgVKguUamTqtYGu6T9FSUsr19CyEcG": 1,
+		"146_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1
+	}
+}

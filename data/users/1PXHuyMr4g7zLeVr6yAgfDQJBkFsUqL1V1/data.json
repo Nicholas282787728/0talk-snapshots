@@ -1,0 +1,91 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 15,
+	"comment": {
+		"1_1PcZp2QH1vFVxr6Kz7X527mVx7Nj6P7xBb": [
+			{
+				"comment_id": 1,
+				"body": "You can find all the options, including \"tor disable\", in \"src\\Config.py\".\n\nIf not using tor, I highly recommend you use a VPN.",
+				"added": 1456963742
+			}
+		],
+		"1_1BGaNcH1UBqAdatPbT3YssmPRVdhepMNPW": [
+			{
+				"comment_id": 2,
+				"body": "Working great here as well.",
+				"added": 1456965419
+			},
+			{
+				"comment_id": 3,
+				"body": "For Windows users, I highly recommending doing this to be sure it works only when VPN is enabled: http://practicalrambler.blogspot.com/2011/01/windows-7-firewall-how-to-always-use.html",
+				"added": 1456965472
+			},
+			{
+				"comment_id": 8,
+				"body": "scrub, using CyberGhost client or OpenVPN? What error do you get? Browser? Try different browser? Clear cache?",
+				"added": 1457073104
+			},
+			{
+				"comment_id": 9,
+				"body": "See anything else in \\ZeroNet\\log\\debug.log ?",
+				"added": 1457073495
+			},
+			{
+				"comment_id": 10,
+				"body": "You have access to the hardware? Sounds like firewall or router, etc. What do you mean by \"all ports opened\". Which distro? Did you restart ZeroNet after making any and all changes?",
+				"added": 1457141023
+			},
+			{
+				"comment_id": 11,
+				"body": "@scrub, that looks like it's just 1 single peer that is timing out, probably because of closed port on peer's end. Might want to try using OpenVPN instead. Not too difficult to setup. Lots of guides out there and CyberGhost provides ready made config files.",
+				"added": 1457141142
+			},
+			{
+				"comment_id": 12,
+				"body": "shevek, use OpenVPN client.\n\nAssuming, you are on Windows:\n\nFirst do this: http://practicalrambler.blogspot.com/2011/01/windows-7-firewall-how-to-always-use.html\n\nDo that for zeronet\\ZeroNet\\tools\\tor\\tor.exe and zeronet\\Python\\python.exe. This will insure all traffic is routed via PIA. Will protect you in the event VPN drops. All traffic to zeronet will stop in that case.\n\nOnce that is done. Run OpenVPN client and connect to PIA. Then start ZeroNet.\n\nVerify on http://127.0.0.1:43110/Stats that IP Address listed is that of PIA.",
+				"added": 1457190160
+			},
+			{
+				"comment_id": 14,
+				"body": "In that case, I believe you can use iptables to route the traffic correctly.\n\nSee step 4: https://www.raspberrypi.org/forums/viewtopic.php?f=36&t=81657\n\nThat topic is probably a good place to ask instead of here.\n\nOr this topic over at PIA: https://www.privateinternetaccess.com/forum/discussion/3093/raspberry-pi-issues-solved/p2",
+				"added": 1457199205
+			}
+		],
+		"2_1KJFB4SEHaHCY11HMKsMGyth1mXKb3R5oY": [
+			{
+				"comment_id": 4,
+				"body": "Zero Mail is listed twice:\n\nZero Mail - mail, p2p, messaging\nZero Mail - mail,p2p,messaging",
+				"added": 1457069835
+			},
+			{
+				"comment_id": 5,
+				"body": "Yeah, I see that now.",
+				"added": 1457070341
+			}
+		],
+		"3_1ADB7TdX2fVbTsWBoMe9yBTmVXTbb33b4R": [
+			{
+				"comment_id": 6,
+				"body": "Just delete the folders in data when done. And the two log files.",
+				"added": 1457072186
+			}
+		],
+		"1_19KjJXTkb6bLafLJsfVBf5v127H4RYKABM": [
+			{
+				"comment_id": 7,
+				"body": "Could try running Tor with obfuscation: https://www.torproject.org/projects/obfsproxy.html.en\n\nI bet you could find a few ways out.\n\nMost IT people allow their fav sites. TeamViewer.com blocked? OpenVPN traffic blocked? Try UTP port 53 to make it look like DNS traffic?\n\nSee if https://privatoria.net/ is blocked. It's not on most block lists and you get 8 hours for free. I was able to use it with Tor when using UTP port 53 to get around filtering.\n\nBTW most Tor blocks rely on list of published exit nodes. Create your own private one and not have it published and use it. :)\n\nAlmost always a way out if you try hard enough. ;) Learn about the IT peeps. See what their fav sites are.\n\nTry some network scans to see if any hidden ip address ranges you might be able to get on. Capture some packets with Wireshark to see if you can find some new paths out the network.\n\nAnd on and on it goes.. Dont give up..",
+				"added": 1457072832
+			}
+		],
+		"2_1KMxiVcvnJ2vFFGWNYhujgFNWYvNrxdVmo": [
+			{
+				"comment_id": 13,
+				"body": "There is also: http://popcorntime-online.io/\n\nNeed to bring that here to ZeroNet. But use https://playback.media/ instead.",
+				"added": 1457190431
+			}
+		]
+	},
+	"comment_vote": {}
+}

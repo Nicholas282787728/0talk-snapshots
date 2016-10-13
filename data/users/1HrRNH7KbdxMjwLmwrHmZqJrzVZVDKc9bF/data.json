@@ -1,0 +1,208 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "A request for features like blacklist and Reputation Ranking.",
+			"body": "For anyone who creates a zite or two in the zeronet, some self-protecting measures shall be available, like \"filtering bad users\" or \"rogue zites exploiting some 0day vulnerabilities\", these functions shall be controlled totally by the users who want to block something all for themselves. No censorship doesn't mean you give up your own choice and protection, plus th ability to do.\n\nI got this idea from the following post:\nhttp://127.0.0.1:43110/Talk.ZeroNetwork.bit/?Topic:4_1BFTNXtYQDMCurqyg45KLmsV6oJD7bQSsH/We+need+a+reputation+system\n\nHere, by \"filtering bad users\", I means those spammers backed up by rogue goverments, such as communist totalitarian goverment in China, islamic totalitarian regimes in the middle east, neo-authoritarian dictatorship like PUTLER in Russia, and neo-totalitarian dictatorship like House Kim in North Korea.\n\nThese well-funded locusts can eat an individual dissendant's blogzite within minutes, even by purely manual spammings, deep web or not. That's why a blacklist function for any individual zite is so important, which can stop some evil agents immediately if the victim wants to do so. The blacklist can also work for the users who don't want to access certain zites.\n\nI think Filtering by keys shall be enough for the blacklist to function from the start.\n\nIn case those spammers flood the zeroID service to obtain new IDs infinitely, there shall be a rule to dump those useless IDs purely registered for evil purpose. Maybe based on a time span of no activity? Or some reputation ranking system? Say, once a spammer be flagged as \"rogue\", by a number of individual sites, then it is automatically wiped for good from zeroID.\n\nThe reputatioin ranking and blacklist are critically essential functions for dissendants and those anti-authoritarian types. And most importantly, anyone in zeronet shall not be defenseless.",
+			"added": 1469410762
+		}
+	],
+	"topic_vote": {},
+	"next_comment_id": 33,
+	"comment": {
+		"4_1BFTNXtYQDMCurqyg45KLmsV6oJD7bQSsH": [
+			{
+				"comment_id": 1,
+				"body": "I think by \"filtering bad users\", he/she means those spammers backed up by rogue goverments, such as communist totalitarian goverment in China, islamic totalitarian regimes in the middle east, neo-authoritarian dictatorship like PUTLER in Russia, and neo-totalitarian dictatorship like House Kim in North Korea.\n\nThese well-funded locusts can eat an individual dissendant's blogzite within minutes, even by purely manual spammings, deep web or not. That's why a blacklist function for any individual zite is so important, which can stop some evil agents immediately if the victim wants to do so. The blacklist can also work for the users who don't want to access certain zites.\n\nI think Filtering by keys shall be enough for the blacklist to function from the start. \n\nIn case those spammers flood the zeroID service to obtain new IDs infinitely, there shall be a rule to dump those useless IDs purely registered for evil purpose. Maybe based on a time span of no activity? Or some reputation ranking system? Say, once a spammer be flagged as \"rogue\",  by a number of individual sites, then it is automatically wiped for good from zeroID.\n\nThe reputatioin ranking and blacklist are critically essential functions for dissendants and those anti-authoritarian types.",
+				"added": 1469407589
+			}
+		],
+		"4_1Ci5Y4TxZwY1SQhvQR7Ttbdyyai4WRV5TU": [
+			{
+				"comment_id": 3,
+				"body": "Both are bad for production, either for an application developer or someone use the system as a productive platform.\n\nGentoo and Arch are good for learners who are interested in OS. And Gentoo might be good for system programmers, who specialized in kernel, OS, and security.\n\nIf you want to learn something deep, starting from Gentoo is good. After that, if you decide to learn deeper stuff about OS, then Linux From Scratch is for you.",
+				"added": 1469408635
+			}
+		],
+		"3_1BFTNXtYQDMCurqyg45KLmsV6oJD7bQSsH": [
+			{
+				"comment_id": 4,
+				"body": "I doubt you will receive honest answers here, even if they are, you can't be sure.\n\nAn anonymous poll is what you can get closest to reality.",
+				"added": 1469408933
+			}
+		],
+		"1_1GcHyprZfthQCYjj26euQ3K1XCDBdTagqY": [
+			{
+				"comment_id": 5,
+				"body": "As a foreigner to US, I say Trump does know what reality is, what white lefties want reality be, and what real people in reality want.\n\nFortunately for the whole world, US citizens are not like German people, who force the victims appologize to Islamic rapists. A Schizophrenian Nation the Germany has become, because of the stupid political correctness, which reinforces my belief that stupidity is the ultimate evil, the Satan dwells in everyone's mind, the 666 everybody got a soft spot for, and the final end to mankind, perhaps not as we knew.",
+				"added": 1469409893
+			},
+			{
+				"comment_id": 12,
+				"body": "Well, with the mysterious death of Seth Conrad Rich, Trump looks even cooler bringing up the Russian, due to the relatively uncool look of Hillary.",
+				"added": 1469755258
+			}
+		],
+		"1_1Fjh1KmN2Qt2vEBYYg5BxWNbjqPMofMcYJ": [
+			{
+				"comment_id": 6,
+				"body": "kat.am welcomes you.",
+				"added": 1469492358
+			}
+		],
+		"1_1HrRNH7KbdxMjwLmwrHmZqJrzVZVDKc9bF": [
+			{
+				"comment_id": 7,
+				"body": "> [ks](#comment_144_14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx): Banning individual users can be done in zeronet/${data_dir}/${site_address}/data/users/content.json — at least for some kind of zites (e.g., zites based on ZeroBlog). I don't quite see why it ought to be possible to ban “rogue sites”. If nobody seeds them their data won't be propagated. So if you don't like a zite, simply remove it from your seeding list.\n\nThanks for the heads up. Will certainly use it.\n\nSorry to be vague, by \"rogue sites\" I mean \"known attacking sources\" like those warnings about certain sites done by mozilla firefox or Google, or like a shared ipfilter by eMule and variants of eMule to block bad dogs. You can also use the ranking system on certain files in the eMule to remind people of the fake, viruses, and trojans stuff.",
+				"added": 1469492728
+			},
+			{
+				"comment_id": 11,
+				"body": "> [z3r0c00l](#comment_35_1CoVAt2jBzV4Na6nX3VG1JSfjS8fwse1Z9):  People who consider that a form of \"cruel censorship\" can simply avoid his site and enjoy the rest of uncensored zeronet...\n\nExactly my point, the site owner should have the power of saving personal time and maintaining a private space without being invaded defenselessly.",
+				"added": 1469695954
+			},
+			{
+				"comment_id": 16,
+				"body": "> [newuser123](#comment_16_1PCPuVtFv8apVpXYbc46wHugNhFUVQ6KCv): History, both recent and long past disagrees with you.Censorship has a long history of being started with seemingly harmless/sensible/good intentions and ending with complete blackouts - it's not hypothetical if it has already happened countless times before, with one of the more recent examples being the normal-net we used to use without censorship.\n\nWell, before saying something as high as Logic, please clarify fundamental details, where the Devil is always in.\nIf I go to a book store, can't I have some choice to dump some junk and pick up those that really matter to me?\nIf I go to a cinema, can't I have some choice NOT to buy it?\nIf I hate to watch a channel, can't I shut it down or turn to other stuff?\n\nAnd you, sir, you simply want to rob me of my own power to choose, so Your propaganda rules, Your political correctness dominates, and my life withers as an unimportant and irrelevant piece of junk flying out of the window.\n\nIf that's your point, according to you words exactly it is, then you are my worst enemy. You are as bad as the antihuman communist party which is now ruling China, the ultimate cage where I was born, grew up and still being trapped in.\n\nI don't care about Your intention, whether it really exists in your void soul or be stuffed in by some idiot white leftie polititians, I care about my own freedom to choose, my own freedom to express, and my own ability to maintain it. And I fight anything that is against them, be it Nazi, Islam, Communists and Totalitarianists in China,  Liberals in US, or some small shit as you spitted.",
+				"added": 1470274945
+			},
+			{
+				"comment_id": 23,
+				"body": "> [rkshow](#comment_2_1HvZzixBMnPehyouwx83zNYK3E97MrUVxS): this idiot wants censorship,   graveyardswatch get out of zeronet, if you want all those already established things. you idiot are in the wrong part of the Internet. I speak for everybody from ZeroNet developers and users. fuck off.\n\nWell, you definitely don't represent me and a lot of other people I know in person. My cat might be interested in a toy like you, since you are as empty as her rat doll, a fact which is demonstrated by your inferior capacity for words, not mentioning sentences.",
+				"added": 1471004855
+			}
+		],
+		"3_1CoVAt2jBzV4Na6nX3VG1JSfjS8fwse1Z9": [
+			{
+				"comment_id": 9,
+				"body": "Oh, yeah? So you can enforce your political correctness to destroy another sane men's sane world?\n\nAs a Chinese living under the totalitarian regime of the anti-human communist party, I'd say, you sire just did what communists, the ultimate totalitarianism lovers, have always been dreaming for since they were born: mental self-castration, as their first step of hoarding sustainable idiot labor.",
+				"added": 1469582857
+			}
+		],
+		"3_13y1BVkYsWXbNMjdk2PrRVwpuXqohTRNHi": [
+			{
+				"comment_id": 10,
+				"body": "IMHO, I believe the weakest section of security is always the name for human users.\n\nFor normal desktop users, any well maintained distro, such as Fedora, CentOS, Debian, or Ubuntu, is safe enough. If you are seriously concerned, try the Snowden way, use Debian and put all secrets in the encrypted virtual machines dwelling in your debian system, with passphrases in your memory as the only key.",
+				"added": 1469584086
+			}
+		],
+		"1_1CJoRKtTrkCDDExSc2YDyJew3SNm943rK": [
+			{
+				"comment_id": 13,
+				"body": "Guess the game mechanism has to be turn-based.",
+				"added": 1469773535
+			}
+		],
+		"1_19RagxAc2n7zYdfbfda2Zc4dRoHRJzyAxo": [
+			{
+				"comment_id": 14,
+				"body": "Moral or not, my mental health rules, which demands mandatorily an environment devoid of ads.",
+				"added": 1469863277
+			}
+		],
+		"1_1Buq4fyG8B3MxAvs7h4bASyWbrKFxmg4CJ": [
+			{
+				"comment_id": 15,
+				"body": "See, that's why I keep talking about blacklist, simply because it is absolutely necessary for a sane network to function in a sane manner without being infected by brainless lunatics.",
+				"added": 1470272890
+			}
+		],
+		"1_19ty8kLAFjGjoDGv4JrgMeYPqd4gQG6Hvc": [
+			{
+				"comment_id": 17,
+				"body": "@ds, @sssc, @fuckyo\n\nThree IDs maintained by the same person-shaped creature are running at the same time, I guess VM tech does help.",
+				"added": 1470374128
+			}
+		],
+		"1_1GH5MK7TbSzDpre9PETw5xPXD9Z8apoogG": [
+			{
+				"comment_id": 18,
+				"body": "> [tkarita](#comment_51_1GervYZoP82e8X1Rgc4wyMkJY2zSsJuq8t): Does someone understand why the Chinese users would support IS?\n\nBecause he might be an Islamic Fundamentalist, or simply phishing.",
+				"added": 1470374792
+			}
+		],
+		"2_1AZjDLkfYwSmjM7ZJUf7HHnrF778augRMa": [
+			{
+				"comment_id": 19,
+				"body": "Well, no, Tor, Zeronet, Freenet, Encryption, Steganography, even ice picks, kitchen knives, US dollars, etc. can aid the most evil criminals in this world, shall we ban cooking all together to prevent crimes? Shall we eliminate civilizations so nobody can commit a crime with these tools coming from civilization?\n\nIf you want to fight for world peace, go after Nuclear Bombs, Bio & Chem weapon researchers, terminator developers, etc. Your life can be much meaningful.",
+				"added": 1470535049
+			},
+			{
+				"comment_id": 21,
+				"body": "> [beoxoeb](#comment_6_1AZjDLkfYwSmjM7ZJUf7HHnrF778augRMa): I know bad things happens because bad people find the way to do it, tools are tools, is more about how we use them, I totally agree, what  I meant is that I don't wanna be a \"node\" if the net is using me to transmit something i don't want, is mandatory having some way to control what is being stored/transmitted in our PC using this decentralized networks, because if not we can end distributing terrible things like CP without even noticing it, contributing to the problem\n\nThere is NO WAY that you can be no part of it. \n\nYou work, you pay your tax, willingly or not, you support the social system, you enforce the institution, which then supports all criminals, or sinners according to your perception, who are willing to use the system.\n\nTo a more fundamental degree, you breathe, you shit, you metabolize, the simple fact that your life existing as a part  of all lives on earth, is to support the ecological system by offering very tiny contribution to the ecological cycle, which ultimately is an absolutely divine force supporting those STUFF you don't want to be a part of.\n\nThere is no personal Eden, to live is to sin. If you really want something peaceful to the soul, try writing some novels, building the world you want in your own tiny creation, instead of hoping a world not in your control to adapt around you.\n\nLearn more, instead of dwelling on some solid concepts, will bring understanding.",
+				"added": 1470536541
+			}
+		],
+		"1_16urzDUk5S1EYSaL8XGaJav7BicYSnsxe3": [
+			{
+				"comment_id": 20,
+				"body": "There is minetest, a clone of minecraft, in the linux OS.",
+				"added": 1470535195
+			}
+		],
+		"2_12yaKkoqVKBUi66uB5pYXamWguKFaWdDnx": [
+			{
+				"comment_id": 22,
+				"body": "Even if someone gives you another proxy, it will soon be blocked too.\n\nTry using Zeronet through Tor.",
+				"added": 1471004545
+			}
+		],
+		"1_1Dj5WCaPV2r18QcDQFHmyx2HnGmwMJce9b": [
+			{
+				"comment_id": 24,
+				"body": "Well, earth is NOT free to exist, it requires at least a sun, a moon, a solar system, a galaxy, a cosmos...and unknown things no body knows how many.\n\nTaking anything as granted, IS the start of destruction. Human history never gets tired of watching naive types burning alive, without the knowledge who ever had started the undying fire.\n\nAnd as a Chinese, I do appreciate these two quotes, which, according to my humble opinion and life experience, are worth more than any genius stateman's capacity for populism:\n\nThe road to Hell is paved with good intentions. \nIf in doubt, go to Germany now please.\n\nThe Heaven is full of good works. \nIf in doubt, go to Germany now, and listen to old Germans talking about how Germany was rebuilt and thrived.",
+				"added": 1471005691
+			},
+			{
+				"comment_id": 25,
+				"body": "> [revolutionary](#comment_19_1JHrskNwA3oo9gxvCbo3Q1RZTUuKCDdfUa): \"That's just communist nonsense.\"From a man with the name \"gdfsgsdfg\", that was possible wrote with your head on keyboard instead of fingers, is compreensive your comment. Please return to surfacenet, you capitalist plague!\n\nTo negate some idea of truth, by attacking the person saying it instead of saying something solid yourself, is the exact antihuman communist way of propaganda, since they never had, never have, nor will ever have something true about the world. What communists or some eggheads as you are capable of is only one thing, to lie, until death.\n\nYour words are exact Antihuman Totalitarian Communist Regime nonsense I have been hearing since I was born in China, and keep on hearing it everyday on all the so called media controlled by the Communist Party.",
+				"added": 1471068565
+			},
+			{
+				"comment_id": 26,
+				"body": "> [starcodesys](#comment_3_1Dj5WCaPV2r18QcDQFHmyx2HnGmwMJce9b): Well thank God the rest of the Cosmos doesn't see things our way. I'm sure, they're waiting for us to see things their way, and they're working towards those goals, at a heightened pace, all now. Ya'atay. That's good.\n\nFrom your saying, I am not sure you really have a God or faith within, might be just some naive wishful thinking derived from incapacity of self-esdeem.\n\nWhat You do in this thread is ONLY putting the responsibility on anything except yourself, and God, Cosmos, and Humanity, are mere words to you and can mean anything you wish at any moment, which, ultimately, might indicate something that is really harmful rooted deep in your psyche.",
+				"added": 1471068974
+			},
+			{
+				"comment_id": 28,
+				"body": "> [starcodesys](#comment_7_1Dj5WCaPV2r18QcDQFHmyx2HnGmwMJce9b): The idea of free energy for all sounds foreign and infringing to commerce, yet it exists inside of us all, throughout the solar system, and more so in the center of the galaxy, where darkness does not exist.\n\nBetter seek professional help now, before it's too late.\n\nAccording to all high school textbooks, the center of the galaxy is a Black Hole, I guess the Event Horizon awaits you light seekers. \n\nBon voyage! Messieurs et Mesdames.",
+				"added": 1471164370
+			}
+		],
+		"1_1EBRsDJo4qKthFXgCDGnGEXZxdwhGrtLp2": [
+			{
+				"comment_id": 27,
+				"body": "Those who only dare to say something as revolution in a dark web are mindless cowards, who can only understand the power in number, rather than faith, and cowards can never be anything other than pieces of treadstone in any revolution happened in human history.",
+				"added": 1471069655
+			}
+		],
+		"1_1M3WXb3DtLL9zsRy4ECqemV7ZyA4u4FNFU": [
+			{
+				"comment_id": 29,
+				"body": "If you are paranoid about anonymity, use Tor as your proxy for Zeronet.",
+				"added": 1471247566
+			}
+		],
+		"1_1BG8WrV2VY1bNjQiKR4tcL52FAw6Y6BoJ8": [
+			{
+				"comment_id": 30,
+				"body": "举的bt这个例太搞笑。",
+				"added": 1472003979
+			}
+		],
+		"1_1NqBBGk69vKmEpN4EHafCeUQh8veeyysTj": [
+			{
+				"comment_id": 31,
+				"body": "VPN business in India is gonna boom.",
+				"added": 1472004110
+			},
+			{
+				"comment_id": 32,
+				"body": "What about my torrent downloader, I use utorrent.\nI have a static ip. is it safe?\nI use windscribe to anonymize when i search for torrents but torrent downloads are slow.\ni have torrent connection set to encryption forced and\nreport ip as fake one. i also have ipfilter.dat added.\n\nWith a static or dynamic ip, you are NOT safe, since they all come from you ISP. Certain monitoring policy may be applied any moment.\n\nSurfing for a magnetic link is easy and can be down in safety through a proxy, or multiple proxies if you wish.\n\nIf you want to be safe downloading/uploading, choose something other than torrent, like i2p BT, it is encryped, distributed, no evidence of copyrighted stuff transmission can be retrieved in the middle. But it is damn slow and has a very small user base.\n\nOr try Perfect Dark, it is developed to bypass such issues.\n\nEasist way? Pick a VPN provider outside India.",
+				"added": 1472005516
+			}
+		]
+	},
+	"comment_vote": {}
+}

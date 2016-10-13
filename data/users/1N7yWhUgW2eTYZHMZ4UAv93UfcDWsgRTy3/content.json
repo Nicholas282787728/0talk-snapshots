@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "G77+XuMW8WXhu5g4k5h5qFrP9r54bE5vyqvD8n9SK+sbtZ6tAe1s9QajVk3og5WttDzvyV1HKW9S1Nm2BiZM/jc=",
+ "cert_user_id": "thegarcia@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "c1a5cb18085fa66d0188527cc5c055f28a7ba361bb50f65d784f70ca5cd3d43f",
+   "size": 116
+  }
+ },
+ "inner_path": "data/users/1N7yWhUgW2eTYZHMZ4UAv93UfcDWsgRTy3/content.json",
+ "modified": 1459138650.31,
+ "signs": {
+  "1N7yWhUgW2eTYZHMZ4UAv93UfcDWsgRTy3": "G+tKwNgq0+wbe6nmls9Usb7DX/w8NoJORn4b2rbeiDuaYT9prqOn9BCYhBh6DySTQPWOvrzCB/Qt7id8alnEpac="
+ }
+}

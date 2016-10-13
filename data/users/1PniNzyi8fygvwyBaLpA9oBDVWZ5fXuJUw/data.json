@@ -1,0 +1,51 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "How to post to ZeroTalk from gate?",
+			"body": "I want to do a two-way gate \"Web <-> ZeroTalk\". For messages from ZeroTalk no any questions — I stupidly read posts/comments from SQLite and am happy. But how to correct to post data to ZeroTalk? I, look, data are duplicated both in JSON, and in SQLite. Whether it means that data income from network in JSON, and SQLite is their cache for acceleration of local work? So I should save the new post information both in JSON, and in SQLite? Whether there is some more beauty solution?",
+			"added": 1475650656
+		}
+	],
+	"topic_vote": {},
+	"next_comment_id": 6,
+	"comment": {
+		"1_1HRrLnTaJwRCA24L45Sr3cYJ3nDmJmPabf": [
+			{
+				"comment_id": 1,
+				"body": "Moscow, Russia, Earth.",
+				"added": 1475408867
+			}
+		],
+		"1_1NmwA9EFPu94QaN7yMYpzu2iSg1dGAYV6n": [
+			{
+				"comment_id": 2,
+				"body": ">socket.error: [Errno 98] Address already in use\n\nzeronet already runned.\n\nTry\n```bash\nps aux|grep zeronet\n```",
+				"added": 1475513289
+			}
+		],
+		"1_1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw": [
+			{
+				"comment_id": 3,
+				"body": "> No. Only JSON. In practice, you need to: edit the JSON file, sign the user's content.json file using their private key, publish the files. The SQLite database will be rebuilt automatically as needed.\n\nI experiment with this ZeroTalk test:\n\nhttp://127.0.0.1:43110/1qh2cbxKaTUv5w4wS8qbuX8H9cxptJpMz/?Topic:1_1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw/\n\nI modify `<zeronet-dir>/data/1qh2cbxKaTUv5w4wS8qbuX8H9cxptJpMz/data/users/1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw/data.json`\n\n1. Increment `next_comment_id`\n2. Append `comment` entry.\n3. Run `./zeronet.py siteSign 1qh2cbxKaTUv5w4wS8qbuX8H9cxptJpMz`\n\nI receive such log:\n\n```\n- Signing site: 1qh2cbxKaTUv5w4wS8qbuX8H9cxptJpMz...\n...\nSite:1qh2cb..JpMz - img/upload/1.png (SHA512: 1af5da49fcbe7a54c20af29e7b2a251fd5eff9bb1d1814a7bee990e892db38cd)\nSite:1qh2cb..JpMz - [SKIPPED] data/users/zerotalk.db\nSite:1qh2cb..JpMz - [SKIPPED] data/users/content.json\nSite:1qh2cb..JpMz - [SKIPPED] data/users/1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw/data.json\nSite:1qh2cb..JpMz - [SKIPPED] data/users/1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw/content.json\nSite:1qh2cb..JpMz Adding timestamp and sha512sums to new content.json...\n```\n\nThat is this file isn't signed (and doesn't publish by `sitePublish`)\n\n`dbRebuild` rebuild SQLite — it contents new record. But the local ZeroTalk still doesn't show any changes in browser. If I receive changes from the external node, then my data.json (and SQLite) lose the change made manually.\n\nWhat do I do wrong?",
+				"added": 1475673894
+			},
+			{
+				"comment_id": 4,
+				"body": "> [nofish](#comment_792_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): --inner_path data/users/youraddress/content.json.\n\nMany many thanks! :D Everything works!",
+				"added": 1475681876
+			}
+		],
+		"2_1Kgy2CdXdjNQSjK6pkLasWjmza9KQ1uZE4": [
+			{
+				"comment_id": 5,
+				"body": "В коде нынешнего ZeroTalk это концептуальная проблема. В длинных дискуссиях нет разбивки на страницы. Есть подгрузка более старых сообщений в конце страницы по клику. Поэтому, когда новые сообщения сверху, то тот, кому нужны более старые, листает вниз, жмёт кнопку, получает ещё более старые.\n\nЕсли сделать привычный подход «старые сверху», то возникает концептуальная проблема — придётся при каждом открытии темы листать в конец, а для длинных сообщений ещё загружать страницы за страницами...",
+				"added": 1476059228
+			}
+		]
+	},
+	"comment_vote": {
+		"792_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1
+	}
+}

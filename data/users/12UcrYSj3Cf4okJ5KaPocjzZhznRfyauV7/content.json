@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HN/rfui/z3jtL+452SD+jBArdTFzbv6whtsUBBE/zF5c+jwN+BFZzUYL3HlGTLr5sIlp2XDpAenN6UVxV0N6sUM=",
+ "cert_user_id": "ngiga@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "1ea852e7d5d7bc5b54cc1a130c0002c52bdb32a77e33a1bb8b62221d4f9c9178",
+   "size": 300
+  }
+ },
+ "inner_path": "data/users/12UcrYSj3Cf4okJ5KaPocjzZhznRfyauV7/content.json",
+ "modified": 1465592724.437,
+ "signs": {
+  "12UcrYSj3Cf4okJ5KaPocjzZhznRfyauV7": "HEE2QfPO8zT8vgdQatbmvV4IpEt3KGPjdGIb90y4e2wjQMVxTqc8MiTXBx0vjTojNte+jREjzpZnZDYcjAHMFAU="
+ }
+}

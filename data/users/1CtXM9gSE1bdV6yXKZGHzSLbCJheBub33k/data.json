@@ -1,0 +1,25 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 3,
+	"comment": {
+		"2_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": [
+			{
+				"comment_id": 1,
+				"body": "Allow me to introduce myself. My name is espectalll. I am grateful to meet all of you, my dear gentlemen. Recently, I decided to land on the marvelous territories of ZeroNet and experiment along with you, my fellow participants, on the decentralization of human interaction networks with this peculiar yet attractive attempt. This is my way to commence such an exciting experiment.\n\nThis is a test.\n\nCheers :3\n\nP.S.: This is an edited test as well.",
+				"added": 1473756855
+			}
+		],
+		"8_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": [
+			{
+				"comment_id": 2,
+				"body": "Quick question (which I think I already know the answer for, but will ask anyway): if I create a website and I want to release its source code, yet I don't want the \"published version\" to be modified by third-parties, how much should I share of my `content.json`?",
+				"added": 1473960970
+			}
+		]
+	},
+	"comment_vote": {
+		"2_14fqKU29AzUdrnp57GDJe8pc96qLCbX7HQ": 1
+	}
+}

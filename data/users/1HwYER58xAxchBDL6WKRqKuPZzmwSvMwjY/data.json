@@ -1,0 +1,175 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {
+		"1_158KZsYQsNp4j4kiPrkqXvTPRewEXeP24W": 1,
+		"1_16Qxab7SNiZ2R9xV1tJQLXbCiWiXyxeELZ": 1,
+		"1_1EbkgVAJKgrTeYAmF3FSEJ8dRabpWH87it": 1,
+		"1_16Sj4y8f1gVgm4kB8jcuh6HsW2MqJwGonF": 1,
+		"1_1CcJZEvu57ZqSDjWDEJCAGEWzHQ7uXKKNR": 1,
+		"1_17oYQdLkvyzEVPH3hXRtK3ru4FLNKZUD3b": 1
+	},
+	"next_comment_id": 19,
+	"comment": {
+		"2_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": [
+			{
+				"comment_id": 1,
+				"body": "testing",
+				"added": 1441473152
+			},
+			{
+				"comment_id": 4,
+				"body": "lmao",
+				"added": 1441482675
+			}
+		],
+		"1_168qV1Xxp2EyszrzdECLUwXrn9wGYjDdar": [
+			{
+				"comment_id": 2,
+				"body": "ZeroNet needs more content, not more promotion.",
+				"added": 1441473531
+			}
+		],
+		"1_158KZsYQsNp4j4kiPrkqXvTPRewEXeP24W": [
+			{
+				"comment_id": 3,
+				"body": "Can you see the ip of the seeder? yes, as far as I can tell you can with the current way it's done on defaults.",
+				"added": 1441473659
+			}
+		],
+		"1_1Ba8QbZfBsteofAHFerLuYFUxTBZgWBiLH": [
+			{
+				"comment_id": 5,
+				"body": "It has potential but until it's anonymous by default it's not going to be popular",
+				"added": 1441537894
+			}
+		],
+		"1_16Qxab7SNiZ2R9xV1tJQLXbCiWiXyxeELZ": [
+			{
+				"comment_id": 6,
+				"body": "> [gkittz](#comment_2_17iY4QsDEmdCkJywu7Nds2svrDJDEQ24bh): That means, I'm hosting the whole zerotalk site right now?? That would make it impossible to load big sites? won't it...\n\nthis is also a problem that i see too, not sure how all this would scale up.\n\non the topic of censoring content, it's done because zeronet isn't anonymous by default, having zeronet use i2p by default would be teh awesome.\n",
+				"added": 1441546178
+			}
+		],
+		"2_1PaX4LQSsjsJvTNqfZbAApgmgzBJjrkRqZ": [
+			{
+				"comment_id": 7,
+				"body": "index page not found\nD:",
+				"added": 1441546230
+			}
+		],
+		"13_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf": [
+			{
+				"comment_id": 8,
+				"body": "Ethereum is kinda lame to be honest. The mining has ending and every interaction on the network is transaction of the ethereum currency, it's going to be hoarded like there's no tomorrow. Cool concept, piss poor execution, hyped and overrated.",
+				"added": 1455365397
+			}
+		],
+		"2_1EUyJtat7mbu5wMcR6nrJTPBBRons1mtMA": [
+			{
+				"comment_id": 9,
+				"body": "> [muja](#comment_41_17i7Y7r8nTaCfLbCAuaKyc4R5BbKZYU2Hr): Yes. If you remove the data/users.json file another one will be created when you start zeronet again. Or rename plugins/disabled-Multiuser to plugins/Multiuser to use the multiuser mode.\n\nToday I learned about multiuser",
+				"added": 1456871284
+			}
+		],
+		"1_16Hg8ux8t4gqZjGgiEUWQ8xAsqJrtJv7MC": [
+			{
+				"comment_id": 10,
+				"body": "> [elitememer](#comment_4_16Hg8ux8t4gqZjGgiEUWQ8xAsqJrtJv7MC): I think contributing to it will make a nice side project. How many of you have forked the git repo? (i)\n\nWhy does forking the repo help if you're not going to contribute changes?",
+				"added": 1456922369
+			}
+		],
+		"1_16k9pNCerEdsZvWU82HMesThKFo9fofRfz": [
+			{
+				"comment_id": 11,
+				"body": "> [qwq](#comment_2_12aKxtoG2jLFZAJnd4A2yqEjMQ9H7wyk6Y): He's the guy who killed Hitler. Hitler's awesome!\n\nThis actually has been shown to be false, according to the FBI, Hilter escaped to south america and eventually died of old age. The allies needed the war to be over so they said that he committed suicide.",
+				"added": 1456924727
+			}
+		],
+		"1_1EUyJtat7mbu5wMcR6nrJTPBBRons1mtMA": [
+			{
+				"comment_id": 12,
+				"body": "> [meow](#comment_1_12qWC8zAEZsNSKxb9XsVUpck8V4N93yg7x): HN\n\nthere's a HN article now?",
+				"added": 1456942116
+			}
+		],
+		"1_1LnyrYbdxDU1K78nEYVZkfJ1Q4SYP1ukFV": [
+			{
+				"comment_id": 13,
+				"body": "it's called \"not upvoting\"",
+				"added": 1457042661
+			}
+		],
+		"2_15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ": [
+			{
+				"comment_id": 14,
+				"body": "Zeronet's Tor support works just fine.\n\nFor vpn tunnel proxy I'd suggest mullvad.",
+				"added": 1457094434
+			}
+		],
+		"4337_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG": [
+			{
+				"comment_id": 15,
+				"body": "> [basxto](#comment_7_1PVcdu7USZH2kHMETbqDYLPjJZKCDWM52k): zeronet could have it's part in this\n\nno, it's been going on since before the zeronet event",
+				"added": 1457132962
+			}
+		],
+		"1_1PaX4LQSsjsJvTNqfZbAApgmgzBJjrkRqZ": [
+			{
+				"comment_id": 16,
+				"body": "> 2015\n\nBUT IT'S THE CURRENT YEAR",
+				"added": 1457485047
+			}
+		],
+		"2_1GCsW9TFfjDsvcdmKPADq1n8Q3ha72UtDQ": [
+			{
+				"comment_id": 17,
+				"body": "I really like Go, since 1.6 they has got inline assembler :-DDDDDDDDDDDDDDdd",
+				"added": 1457704139
+			}
+		],
+		"4565_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG": [
+			{
+				"comment_id": 18,
+				"body": "since when is being normal \"dark social\"?",
+				"added": 1458080721
+			}
+		]
+	},
+	"comment_vote": {
+		"1_12HTPzQjWn9V57oxH7fA5KV3PQZ5vuj2Fm": 1,
+		"11_1MS7WkWAZUSohgV5uUF2Ze3kdbifi4J82L": 1,
+		"6_1C6qdRAX8iYqSB7TfUxk91yW8Y2SBKNgfA": 1,
+		"1_181YXxwQVkuv4DMs8knjHxpyhoy35UHhHB": 1,
+		"10_1MS7WkWAZUSohgV5uUF2Ze3kdbifi4J82L": 1,
+		"1_15U9B1nHWyoZ4xpgnmUatrwBuY5t351hAC": 1,
+		"5_13P8oKB5LtAYbe2mvfR71s9TPNy4sMk8bc": 1,
+		"2_1EGe7R2GN9UpNHzPifRfk8LzTGgbfWHaFS": 1,
+		"2_17iY4QsDEmdCkJywu7Nds2svrDJDEQ24bh": 1,
+		"7_1P7F9po18mshkbRG5zEVV47vHtLEX19QJa": 1,
+		"2_14yb6qdkbYmhqt6rVxUqXo65s4i63BffAr": 1,
+		"76_1QBLGLcgKfcpfLmiDYuDzUKVXFfmTAew55": 1,
+		"42_1KwTTgPRSTHFmmJAFBt6kQfdyNeSM5KJuH": 1,
+		"2_13NzkresWLd7Eda21KhEWox3BqrASnVTyD": 1,
+		"41_17i7Y7r8nTaCfLbCAuaKyc4R5BbKZYU2Hr": 1,
+		"1_1MyH4f3ULCxmuCD8C2juAfjMn9j4xhdm44": 1,
+		"11_1APx2pf1wNGFz4mWCN2sFzrtTGzrLKZUQ2": 1,
+		"2_16e8C5NZjeJhwJ2G87RsBvHswd6XbKEYxy": 1,
+		"3_19KtmLJftUcLg5ZtwmAfe616J2vp6iJBHU": 1,
+		"1_1DfkDpkeDXGbHJ2ZT31DPvYr5xR59Jr8BA": 1,
+		"4_1KVbKJBqXdkUr4ogZGJEjDFsm2y9vtX8Bj": 1,
+		"52_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1,
+		"437_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"9_1GNdkBSxTw6SpRdGHxDCyfANXnwi7FG7rJ": 1,
+		"2_1D7uESYtAKV36MVPGJZXuE7LUKbLwfo4dX": 1,
+		"8_1H8oKiRa7fGgUqS1hpUtaSYLvAqkaknbkf": 1,
+		"440_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"48_1MEWJRMLgvofqG9Mbsb2Rc4hFFyv7HeRx7": 1,
+		"27_17fgJ3tZjhM7HCkTkd5TWf2BLLWmhRKcXB": 1,
+		"450_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"1_1JSHueop4ha51Hu23EV6oGE43PCZ6HCt8o": 1,
+		"9_1JoKQwXPzK8uyvMCRcwvMSAJPD5S4aH5Vt": 1,
+		"467_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"25_16iYwD5U2fNoS22p6447J7992iL3DHjSHY": 1
+	}
+}

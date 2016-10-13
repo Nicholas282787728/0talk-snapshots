@@ -1,0 +1,35 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "Cyberpunk Pulp Fiction",
+			"body": "The air was heavy, the weight pushed on my lungs like nothing I had felt before. I felt panicked and rushed. I needed to get out of there, just being in the club made me feel paranoid. But I couldn't leave... Not yet.\n\nAs I gestured to the bartender for another whisky two high ranking SecuriCore Clerics walk in carrying their government issued StunRods.\n\nI kept telling myself \"the risk is high but the pay is huge\". No matter how you look at it - I shouldn't have been there. I needed to cool off. Unwind. Unplug. My ThermoSynth had been playing up since tuesday but I hadn't had time to fix it.\n\nThe club was heaving, it felt like a jungle made of neon lights and flesh. Sweat was pouring off of the non bio-synthed limbs on the dance floor and the smell of oil and solder was rife. The sign on the wall behind the bartender said WC.\n\n\"This has to be done fast\", I thought. I didn't have much time and the systems would be down for about 4 minutes max. I ran my arm against the WC entry point and the windowed HoloScreen flashed \"Have a beautiful day. Remember to wash your hands!\".\n\nWith a click the door slid upwards at a pace. Inside the restroom it was damp, the only sounds were my breathing and the dull thud and hum of the club outside. The noise cancelling insulation coupled with the heavy steel door made the room almost like a separate building to the rest of the night club. I cautiously checked the stalls, even though there was no signs of danger - I learned from my mistakes. The final stall door swung closed as I pressed the StimSwitch on the side of my left temple, my vision rebooted and went black and white. I scan the immediate area for infra-red IDs.\n\nEmpty. The switch on my temple popped back out with a heavy dull click and my vision returned to normal. My IR augmentation was modded to auto disable when there are no IDs within a 5 meter radius. Despite this I pressed the switch in again. You can never be too sure.\n\nStill Empty.\nclick\n\nRelieved, I locked the restroom door, plugged the NeuralJack extension wire into the port on the wall, this gives me a direct interface with my neuralcortex. Jacking in always made me shiver, from the neck to the spine... The first time I did it, I thought I had permanent nerve damage.\nMy cortex interface wasn't special, a limited edition model T101; it was bulky and worn with a bog standard comms chip - first generation, hell... They were on 4th gen systems already.\nIt had zero sensory capabilities and the voice module was already burned when I had it installed so I have to use hand gestures like people back in the turn of the century. It did have one redeeming feature though - it was limited edition and worth a few credits, they only ever made 100,000 in brushed chrome and I was lucky enough to win one by entering a competition through CorticalFM. There's no way I could have actually afforded one - they're over ¥4m!\nOnce the shiver had subsided I heard a familiar voice.\n\n\"Welcome agent Drayton. Please enter your NCID\"\n\nThat wasn't me. I'm not Drayton. I might have Drayton’s eyes and fingerprints, but I wasn't him.\nI entered my Neural Cortex ID and gestured a reverse-L to confirm. The network authenticated my ident and verified my user access. Accessing the exploit network from my HUD made the interface project onto my optical nerve; overlaying my vision. The complete login sequence was slow that evening, it took about 3.5 seconds.\n\n**Init software v0.4b**   \n**Calibrating optical FOV...**   \n**Indexing Virtual Pixel System...**   \n**System boot complete...**   \n**Welcome Agent #89391 - Drayton. Travis.**   \n\nKnock\nKnock\n\nI pulled the data-chip out of my wrist bag and slid it inside of my card port embedded on the side of my wrist. I watched it download 50 teraflops of data on my HUD. 19.6 nanoseconds. Needs cleaning.\n\nI deleted the original file. Job was complete.\n\nKnock\nKnock\n\n\"Hey, you gonna be long buddy!?\"\n\nBANG!\n\n\"Dude, come ON man. We wanna get our WetWare(tm) on bro!\"\n\nAddicts.\nWasters.\n\nI kept quiet. Now I just had to get out of the club and back to the Corportaion HQ before they find me and what I have done. I jacked out, disconnecting my Modem from the connection abruptly, causing my balance to tip slightly. I steadied myself and tidied myself up; being in the system always makes me sweat and get of breath. Wiping the sweat off my brow, I unlocked and opened the bathroom door.\n\n\"About frakin' time, we was goin' swirly - gotta getta WetWare SimStim fix\".\n\nJunkies.\nParasites.\n\nThey pushed past me into the nearest stall; you could hear their bad neural circuits spark as they jacked in. I turned my back to them and walk around the corner. The barmaid was gesturing towards the WC entrace, two SecuriCore Clerics turn their heads in unison and walk towards me.\n\n[ STATE YOUR BUSINESS CITIZEN ]\n\nI breathe deeply.\n\n[ STATE YOUR BUSINESS CITIZEN ]\n\nI glance at the clock on the wall... 14 seconds to go... I hold my breath and wait...\n\n[ STATE YOUR BUSINESS CITIZEN OR YOU WILL BE STRIPED FOR DECLASSIFICATION. ]\n\nThe windows of the club shatter and RGB light from the neon signs breaks through the window frames. The lights go dark and the circuits of the SecuriCore Clerics sparked and caught fire.",
+			"added": 1466764337
+		}
+	],
+	"topic_vote": {
+		"1_16wMMcRDY8DNi5GeyVoYchf4749u8gKDn6": 1,
+		"2_1DqP4N3Nxp9RQQGuqrX5eCqE6t3gWNJXr": 1
+	},
+	"next_comment_id": 3,
+	"comment": {
+		"1_17gEFavobc7RsKNGbSzZwoSZ6jNB7hT2KN": [
+			{
+				"comment_id": 1,
+				"body": "I made this for this reason: http://127.0.0.1:43110/13TL1Grj6fwLXRGxiYPjpTFZqWqFsVZhox/",
+				"added": 1466521611
+			},
+			{
+				"comment_id": 2,
+				"body": "> [fav](#comment_1_17gEFavobc7RsKNGbSzZwoSZ6jNB7hT2KN): thx, I'm a windows pleb however...\n> import gevent\n> ImportError: No module named gevent\n> are the errors I got.\n\nI had this issue as well, I found that reinstalling python, pip and gevent fixed the problem. It's a fucking nightmare though, someone needs to build *proper* python tools rather than this \"class\" based commandline shit.",
+				"added": 1466609056
+			}
+		]
+	},
+	"comment_vote": {
+		"2_13NJuU9nw3cFSVoETCkN6BCv5s5v5V2ngA": 1,
+		"1_16wMMcRDY8DNi5GeyVoYchf4749u8gKDn6": 1,
+		"2_16wMMcRDY8DNi5GeyVoYchf4749u8gKDn6": 1
+	}
+}

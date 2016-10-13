@@ -1,0 +1,50 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "Porozmawiajmy po polsku",
+			"body": "Hej! Póki co nigdzie nie widziałem aktywności Polaków w 0necie, więc niniejszym otwieram pierwszy polski temat na ZeroTalku. :)",
+			"added": 1457110510
+		}
+	],
+	"topic_vote": {
+		"3_1NRTwjkXBxbeyrWhUvik7pLVoxWtsSjHQi": 1,
+		"1_1LxrhkW4oNs2psLiQNm1Ppk2YbCLyJbC62": 1,
+		"4_1KcPohxmuqiNShTaAzJZLndm5aWtBZLuJn": 1,
+		"1_17ApQKugX1XH727gpAeD3mrRLjLxASdakd": 1
+	},
+	"next_comment_id": 5,
+	"comment": {
+		"1_1NK48tpcLLQzcbN6kCin4ZkMQosBd133PG": [
+			{
+				"comment_id": 1,
+				"body": "Bump.",
+				"added": 1457793931
+			},
+			{
+				"comment_id": 2,
+				"body": "Prace nad Twitterem dla 0netu trwają. Ja z kilkoma osobami robię odpowiednik IRC-a (lub może Slacka). Mój waży niecałe 300MB, a seeduję kilkanaście stron. Również obawiam się że w przyszłości to będzie znaczący problem. Ale hej, pewnie po prostu będziemy trzymać u siebie interesujące fragmenty sieci, do tego aktualne wersje Zeronetu nie kompresują danych (spora część to tekst, który można dobrze skompresować).",
+				"added": 1457801294
+			},
+			{
+				"comment_id": 3,
+				"body": "Niespecjalnie, wsparcie dla prawdziwych backendów będzie dopiero wprowadzone (interpreter musi być na każdym nołdzie)",
+				"added": 1457804772
+			},
+			{
+				"comment_id": 4,
+				"body": "@1NpNCPy[…] To strona computerfreaka. Ma co do niej duże plany, zobaczymy co z tego będzie.\nZa pomocą zdecentralizowanego zeroID też można się logować do różnych platform.",
+				"added": 1457823275
+			}
+		]
+	},
+	"comment_vote": {
+		"1_1PBXqFewt3Y4KxdCKBbH3XUydM9BNMHLNW": 1,
+		"47_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"11_1GNdkBSxTw6SpRdGHxDCyfANXnwi7FG7rJ": 1,
+		"74_1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD": 1,
+		"467_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"1_1KJXCaoXfmNJDFV9JpQB1Aq3wNDbxDBVBy": 1
+	}
+}

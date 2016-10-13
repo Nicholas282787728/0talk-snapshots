@@ -1,0 +1,163 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "Does anybody have a good explaination for how merger sites such as ZeroMe work?",
+			"body": "I'm honestly confused as to how it works. Here are a few of the questions I have.\n1. If I am seeding a hub, am I by default able to view it in ZeroMe?\n2. When I post something, does it go to the first hub I joined, or does it go to all of them?\n3. If it only goes to one hub, am I able to switch which hub I post to?\n4. Am I only allowed to have a profile on one hub or do I have a profile on all of my hubs?\n5. Can I comment on somebody's post from a different hub? What happens if they aren't seeding the particular hub that I joined first? What would happen?\n\nI'm interested in how merger sites work and if anybody could tell me or provide a link to some documentation where it explains these things it would be greatly appreciated.",
+			"added": 1471559928
+		}
+	],
+	"topic_vote": {
+		"2_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"1_12GC9MQGPcN7PiMoRYVyZX66PnQjZKUpf2": 1,
+		"6_1LfQ8dwqkqkGQNCg1kBevHPxjvTRJTQYBz": 1,
+		"1_1aDHG1wjqZ9BuF1PoPwtPqZsrnu7NZHGR": 1,
+		"1_13y1BVkYsWXbNMjdk2PrRVwpuXqohTRNHi": 1,
+		"1_1Fjh1KmN2Qt2vEBYYg5BxWNbjqPMofMcYJ": 1,
+		"1_19RagxAc2n7zYdfbfda2Zc4dRoHRJzyAxo": 1,
+		"1_1GervYZoP82e8X1Rgc4wyMkJY2zSsJuq8t": 1,
+		"3_1PVcdu7USZH2kHMETbqDYLPjJZKCDWM52k": 1,
+		"1_15zYrGJKfXo6XXU6rBUsuU3cTgpJkDuQYA": 1,
+		"1_12xwWp1qTmxEXMxVxrG3AQKPk6MUWjQjM7": 1,
+		"2_14dWJrtWbw6sQKHgfeukbzBDJvBSnfRnTw": 1,
+		"2_13U9mRgV3bdkXiNXjMZeBWTcSHZjgNmk2z": 1,
+		"1_13Cqt2MSFS6eu4cbVuByZBuULrEAcZAqFG": 1
+	},
+	"next_comment_id": 18,
+	"comment": {
+		"2_1J7dTw3ZsXUsXzpBqVWVj5aXRUMsMC6Nfc": [
+			{
+				"comment_id": 1,
+				"body": "> [antifa](#comment_6_18rFd7W9y5QGQEVXaCoJV7jyt7D8aN156h): They use some weird homebaked encryption. We really need a slick, modern communication client\n\nTelegram has some really good features that I wish existed in other messaging clients, it's a shame it isn't as secure as it could be. Honestly just feels like wasted potential at this point to me.",
+				"added": 1469146879
+			},
+			{
+				"comment_id": 2,
+				"body": "> [smiba](#comment_2_1FuufvPjG7U2JYz8GKyJthajxLXGELqccQ): People keep saying telegram is not secure but I've yet to see anyone break their security. They even got a $100k (iirc) reward for the first one to break their encryption\n\nhttp://www.cryptofails.com/post/70546720222/telegrams-cryptanalysis-contest",
+				"added": 1469146943
+			}
+		],
+		"1_12GC9MQGPcN7PiMoRYVyZX66PnQjZKUpf2": [
+			{
+				"comment_id": 3,
+				"body": "> [quarkgate](#comment_1_12GC9MQGPcN7PiMoRYVyZX66PnQjZKUpf2): Whoa man, relax. I'm just here to have a good time. And regarding anonymousy; I don't understand you, ZeroNet practically encourages users to be anonymous by turning tor on by default (at least on windows).Also, I'm not saying anyone has to be anonymous, do what you like. I'm not trying to force my opinions on you. All I said was that we should build a friendly community.\n\nSo basically it's just a public \"please don't be dicks and fuck this up for everybody\" kind of thing?\n\nBut seriously, trying to control a mass of people, especially when they are relatively anonymous is kind of a stupid idea.",
+				"added": 1469165254
+			},
+			{
+				"comment_id": 11,
+				"body": "> [quarkgate](#comment_3_12GC9MQGPcN7PiMoRYVyZX66PnQjZKUpf2): This platform is very young, and I imagine that different devs will use it for different applications. Personally I'm very curious about the new social app that is nearly finished. has a form of permissions, groups, etc.We could build better communities if we had just a little bit more control over content.I think we should be able to find a scenario where we have a lot of control over what we share and see, and still not censor anyone. I'd like to have more control over what content I share personally, such as being able to not seed a certain post in a forum, or a comment in the chat. That way people won't have to seed content they don't want to seed in a website they do want to seed. I'm not sure if that's plausible though. It might be just impossible architecture-wise.\n\nThey could always do something that a particular post would be retrieved from a few peers when viewed and then just be seeded from that point on. However there would always be the option to seed everything like there is now. Not only would this allow for people to avoid CP, it would larger file-size sites (such as video sharing sites) to exist as well without having all of the peers having to waste their hard drive space. Probably the only issue I can think of off the top of my head is that content publishing would require certain seeders that were willing to automatically start seeding everything as soon as it came out. Either way though, ZeroNet needs a method of handling websites that would have large files stored on them without filling up a user's hard drive.",
+				"added": 1469502810
+			}
+		],
+		"1_1LoJbTYXRJ9x7pEy5ojKhpAXct85SgsZgZ": [
+			{
+				"comment_id": 4,
+				"body": "It's from Netflix, and with all of the shady things they've been doing (such as the whole 1080p Edge thing) I'm not willing to put the time in, and I'm certainly not giving them any money.",
+				"added": 1469165456
+			}
+		],
+		"2_12a5bEEVXyvu1jer6JpujSPra1A21wKcQT": [
+			{
+				"comment_id": 5,
+				"body": "> [glitchbyte](#comment_3_12a5bEEVXyvu1jer6JpujSPra1A21wKcQT): because alot of us came from /g/\n\nAnd whose fault is that?",
+				"added": 1469165576
+			},
+			{
+				"comment_id": 8,
+				"body": "> [glitchbyte](#comment_6_12a5bEEVXyvu1jer6JpujSPra1A21wKcQT): No you dumbass, I knew that, I'm saying about what specifically.\n\nhttp://boards.4chan.org/g/thread/55680384",
+				"added": 1469186379
+			},
+			{
+				"comment_id": 9,
+				"body": "> [captainplanet](#comment_5_1Ea7uVcuWTBiBAN1XCV7asaMaFBYPWbpAm): Fuckface, dumbass... Ah yes, this feels like home.\n\nwell, that is the internet for ya\n\n> [glitchbyte](#comment_7_12a5bEEVXyvu1jer6JpujSPra1A21wKcQT): def. They are fucking annoying. We can have fun here right? right...\n\nsounds great",
+				"added": 1469231011
+			}
+		],
+		"1_1aDHG1wjqZ9BuF1PoPwtPqZsrnu7NZHGR": [
+			{
+				"comment_id": 6,
+				"body": "I'm not sure where else it would be",
+				"added": 1469165882
+			}
+		],
+		"5_1LfQ8dwqkqkGQNCg1kBevHPxjvTRJTQYBz": [
+			{
+				"comment_id": 7,
+				"body": "Wouldn't it be better to host something like this on ZeroNet itself? Considering that ZeroBoard already exists, it shouldn't be difficult to do.",
+				"added": 1469166015
+			}
+		],
+		"1_13y1BVkYsWXbNMjdk2PrRVwpuXqohTRNHi": [
+			{
+				"comment_id": 10,
+				"body": "I can't think of any better options off the top of my head. Despite how insecure tor is nowadays, it still provides a little bit of protection from spying.",
+				"added": 1469231101
+			}
+		],
+		"2_1NdoQ5cbxAuyjw5QVFaFA4jujtj8BX5Vnd": [
+			{
+				"comment_id": 12,
+				"body": "What is there to test? It seems to work fine for me.",
+				"added": 1469576720
+			}
+		],
+		"1_1GervYZoP82e8X1Rgc4wyMkJY2zSsJuq8t": [
+			{
+				"comment_id": 13,
+				"body": "Based on how ZeroNet works, your content was submitted to the peers you were connected with at that time successfully, however the peers you downloaded the copy of the site after deleting and resyncing did not yet have your comment. There is no solution to this except to just wait for your comment to move across the peers until it gets back to you.\n  \nUnless of course you meant that ALL of your comments disappeared which would most likely be an issue with the site itself and how it handles content submission.",
+				"added": 1469750713
+			}
+		],
+		"1_19RagxAc2n7zYdfbfda2Zc4dRoHRJzyAxo": [
+			{
+				"comment_id": 14,
+				"body": "> [bmo](#comment_1_15HtoZZhqyYzQRhCjNxRZoXyYmLu75oy8n): The Internet existed before ads.  It can exist without ads.  If your business model is such that you can't get donations/subscriptions in exchange for use of the website without ads (or Ads Fewer on Wonkette, for example) then your content isn't that worthwhile, is it?\n\nZeroNet doesn't need ads, especially because there are no central servers that have to be hosted and paid for. Instead of viewing ads, we seed sites. While ZeroNet users are technically still supporting the site, they are doing it in a way that is difficult to profit off of, which could cause the side effect of stopping sites from being run for a profit alone. Whether or not this is a good thing is the real question.",
+				"added": 1470099275
+			}
+		],
+		"1_13Mt8T2256Uz4GHk9B4XvKqyz37wPgA26q": [
+			{
+				"comment_id": 15,
+				"body": "Site won't load for me at all, no matter which browser I use.",
+				"added": 1470451940
+			}
+		],
+		"1_1L56HBBtEbSL8aHaL5DcjSgrpsoVmZen5B": [
+			{
+				"comment_id": 16,
+				"body": "> [quadrangle](#comment_37_1CTut2qbaj54ZjNoYeuWSGwV75iVieKY6N): See you next year\n\nI will check for him next year if I still am posting here then",
+				"added": 1471483518
+			}
+		],
+		"1_13Cqt2MSFS6eu4cbVuByZBuULrEAcZAqFG": [
+			{
+				"comment_id": 17,
+				"body": "I think he's signed in to everything on bit.no.com. ZeroMe has it logged in too and the ID is accessible from everywhere.",
+				"added": 1471730125
+			}
+		]
+	},
+	"comment_vote": {
+		"19_1LfQ8dwqkqkGQNCg1kBevHPxjvTRJTQYBz": 1,
+		"2_15uyVfraAZ5w5DXB3TJ32NetwMm4UdUQ3Z": 1,
+		"3_13o2BgF1FL4bwNSGMVySUjQmKMMkj9vFTK": 1,
+		"2_13o2BgF1FL4bwNSGMVySUjQmKMMkj9vFTK": 1,
+		"41_1DWrKbEomgBLHjczm1HkP556Vg68ewDmyd": 1,
+		"1_1Lp5DWWdGmdKmiG9nUvVEMY9WLkV3SZcAn": 1,
+		"2_1K6T3br1ScYp3ypiDeN6rbfqMvUmiKUyP1": 1,
+		"2_1NhxEZGje74GQWUdX4frXE3TUg8evizrSS": 1,
+		"3_12eZquYQsyuR9bkYhYkTSVoze83osSGRQx": 1,
+		"1_14Ztiu3VJBAAdbNr6EwDtKS6Xg7JTCFxtp": 1,
+		"1_15HtoZZhqyYzQRhCjNxRZoXyYmLu75oy8n": 1,
+		"117_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1,
+		"5_1CTut2qbaj54ZjNoYeuWSGwV75iVieKY6N": 1,
+		"8_1CTut2qbaj54ZjNoYeuWSGwV75iVieKY6N": 1,
+		"61_1GervYZoP82e8X1Rgc4wyMkJY2zSsJuq8t": 1,
+		"4_1DpQSUAGRj5ykejhp5NFinYZUHz5q87ujh": 1,
+		"13_1JF3eQjW4voiKdcvCkMXvUx5bLmZAiVdyi": 1,
+		"37_1CTut2qbaj54ZjNoYeuWSGwV75iVieKY6N": 1,
+		"6_13U9mRgV3bdkXiNXjMZeBWTcSHZjgNmk2z": 1,
+		"4_1FEikAyxCNPJcW996B69r5UFg29yfq579m": 1
+	}
+}

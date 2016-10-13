@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "GzN1pk7h+43XIBgslRpXHunWnczEFM/L2pNetWio9GsKrG/r+xDLIF69ADW4Sn3X6epbqPmlOpg/ZMv8pdJ8SZo=",
+ "cert_user_id": "patchworx@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "abd592e4b989747f9fa284883b24e3a22641b6e49b2f4afa7fd23b970a1f6124",
+   "size": 305
+  }
+ },
+ "inner_path": "data/users/1Kjyysz8ZYEmrf5UPUqLWVcpG59X98JUtw/content.json",
+ "modified": 1473136154.63,
+ "signs": {
+  "1Kjyysz8ZYEmrf5UPUqLWVcpG59X98JUtw": "HEOmmD4p04nI3LxSX6NctQibo2A0tc2E/xXL/OO2CASGv73hoeg0zo1XGOS3C9++OGGA95cllGV0N/vlqxnMZb4="
+ }
+}

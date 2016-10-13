@@ -1,0 +1,23 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "Learning how the database system works",
+			"body": "I'm probably sounding like a total noob, but after reading the Docs multiple times I still can't seem to grasp how it works. Does anyone have a bare basic example.\n\nSuch as something that shows how to have database entries that only a certain user can write on (such as for a profile), having database entries that anyone can write in, and preventing loads of spam entries into the database (if that's possible with the API).",
+			"added": 1456198523
+		}
+	],
+	"topic_vote": {},
+	"next_comment_id": 2,
+	"comment": {
+		"26_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf": [
+			{
+				"comment_id": 1,
+				"body": "Maybe it would be possible to use the API to create an anti-spam bot for your site, although the bot would have to be centralized.",
+				"added": 1456352261
+			}
+		]
+	},
+	"comment_vote": {}
+}

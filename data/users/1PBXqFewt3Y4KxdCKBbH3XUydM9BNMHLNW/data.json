@@ -1,0 +1,51 @@
+{
+	"next_topic_id": 3,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "Torrent^ZERO (Torrents updated hourly)",
+			"body": "http://127.0.0.1:43110/1K2jQdBFNFUHhGrAv8g9Z2Ln4BNcQdqhBb",
+			"added": 1456999028
+		},
+		{
+			"topic_id": 2,
+			"title": "File invalid?",
+			"body": "Site:1K2jQd..qhBb [FAILED] *:15441: {'to': 1, 'cmd': 'response', 'error': 'File invalid'}\n\nHow to fix ?",
+			"added": 1457004455
+		}
+	],
+	"topic_vote": {
+		"1_1PBXqFewt3Y4KxdCKBbH3XUydM9BNMHLNW": 1
+	},
+	"next_comment_id": 5,
+	"comment": {
+		"1_1JU8zQ7nZGRU2HvXxrSM9S341gufgzvwtt": [
+			{
+				"comment_id": 1,
+				"body": "ZeroNet allows you to publish static and dynamic sites.\n\nAlthough ZeroNet can't run scripting languages like PHP or Ruby, you can create dynamic sites using ZeroNet's API (called ZeroFrame), JavaScript (or CoffeeScript) and the built-in SQL database.",
+				"added": 1457000317
+			}
+		],
+		"1_1PBXqFewt3Y4KxdCKBbH3XUydM9BNMHLNW": [
+			{
+				"comment_id": 2,
+				"body": "sorry fixed :)",
+				"added": 1457000425
+			},
+			{
+				"comment_id": 3,
+				"body": "> [smallfrog](#comment_6_1ARYQJCvFL9sbxiQWyKAuZkTTKbft8d8aZ): Could you elaborate a bit on how the entries are generated? Also a little category filter would be nice :)\n\nwe do index dht (millions of hashes per sec) -> http://dht.x4b.pw/, then recognize software and etc ... working on cats :D",
+				"added": 1457001448
+			},
+			{
+				"comment_id": 4,
+				"body": "> [smallfrog](#comment_7_1ARYQJCvFL9sbxiQWyKAuZkTTKbft8d8aZ): In javascript? Sounds like a nice application for a ZeroNet page as well, distribute the analysis then combine the results for each peer...\n\nnope not in js :D its too much to discuss it there anyway here is the update ;)\n\nBASE INDEX:\nhttp://127.0.0.1:43110/1K2jQdBFNFUHhGrAv8g9Z2Ln4BNcQdqhBb/index.html\n\nCaTEGORIES:\nhttp://127.0.0.1:43110/1K2jQdBFNFUHhGrAv8g9Z2Ln4BNcQdqhBb/ALL.html\nhttp://127.0.0.1:43110/1K2jQdBFNFUHhGrAv8g9Z2Ln4BNcQdqhBb/Movies.html\nhttp://127.0.0.1:43110/1K2jQdBFNFUHhGrAv8g9Z2Ln4BNcQdqhBb/TV.html\nhttp://127.0.0.1:43110/1K2jQdBFNFUHhGrAv8g9Z2Ln4BNcQdqhBb/Music.html\nhttp://127.0.0.1:43110/1K2jQdBFNFUHhGrAv8g9Z2Ln4BNcQdqhBb/Games.html\nhttp://127.0.0.1:43110/1K2jQdBFNFUHhGrAv8g9Z2Ln4BNcQdqhBb/Applications.html\nhttp://127.0.0.1:43110/1K2jQdBFNFUHhGrAv8g9Z2Ln4BNcQdqhBb/Books.html\nhttp://127.0.0.1:43110/1K2jQdBFNFUHhGrAv8g9Z2Ln4BNcQdqhBb/Anime.html\nhttp://127.0.0.1:43110/1K2jQdBFNFUHhGrAv8g9Z2Ln4BNcQdqhBb/Other.html\nhttp://127.0.0.1:43110/1K2jQdBFNFUHhGrAv8g9Z2Ln4BNcQdqhBb/XXX.html",
+				"added": 1457003235
+			}
+		]
+	},
+	"comment_vote": {
+		"4_1ARYQJCvFL9sbxiQWyKAuZkTTKbft8d8aZ": 1,
+		"5_1ARYQJCvFL9sbxiQWyKAuZkTTKbft8d8aZ": 1
+	}
+}

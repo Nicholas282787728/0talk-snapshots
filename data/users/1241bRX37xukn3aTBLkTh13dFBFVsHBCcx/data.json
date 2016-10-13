@@ -1,0 +1,20 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {
+		"1_1JQmAwSmx4VFEbYchZGAwqC9QppdKBENsb": 1,
+		"1_15kuNrNeQtVRmDqENgbCqw6s3mG9noQ7zA": 1,
+		"1_1BQg5MQZ63aEQZMzLEXP6yY3hsgznKpaps": 1
+	},
+	"next_comment_id": 2,
+	"comment": {
+		"1_1JQmAwSmx4VFEbYchZGAwqC9QppdKBENsb": [
+			{
+				"comment_id": 1,
+				"body": "I've used both the \"zeronet\" and \"zeronet-git\" packages from the AUR. (I just installed the \"zeronet\" package today on an Arch Raspberry Pi).  What kind of issues are you having? Package failing to build? \n\nAfter installing it, you should start it via systemd (systemctl start zernet.service), not manually. You also may want to enable the systemd service file so it starts on boot.",
+				"added": 1458563416
+			}
+		]
+	},
+	"comment_vote": {}
+}

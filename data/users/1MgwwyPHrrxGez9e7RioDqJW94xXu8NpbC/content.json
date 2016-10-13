@@ -1,0 +1,15 @@
+{
+ "cert_auth_type": "web", 
+ "cert_sign": "HI69UJIHvl+zz9QYxXLFJ+vcDJ4IuGyYrL3KlGGT7X53PI7gl/CUnoegN82FabCPY4Yy7cBNvugpGyGdLFKzcEM=", 
+ "cert_user_id": "endomorphosis@zeroid.bit", 
+ "files": {
+  "data.json": {
+   "sha512": "b28c5ff84f68f3680d75633656ade37e5fe897e37027378e9e4698465ac8f6ba", 
+   "size": 242
+  }
+ }, 
+ "modified": 1456977004.390016, 
+ "signs": {
+  "1MgwwyPHrrxGez9e7RioDqJW94xXu8NpbC": "GxiXc6XebEHOHr5nqWMjuztHqLxh/3uVDZyBO3780DqDAW+sJ5YXMueXIWEPw+XDSGB8RtuJzUbFBH3ixPMmTMI="
+ }
+}

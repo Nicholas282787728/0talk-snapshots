@@ -1,0 +1,23 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "So is this supposed to be clear of censor?",
+			"body": "How will that work if ultimately the domain registry is handled by and can be censored by the creators of this service?",
+			"added": 1456949887
+		}
+	],
+	"topic_vote": {},
+	"next_comment_id": 2,
+	"comment": {
+		"1_1yq6ABe15TborB8sGQb1pGcZgUd6eu3WJ": [
+			{
+				"comment_id": 1,
+				"body": "> [lint](#comment_2_18jiuMEFFvYp1asdmcaZ8YvdjPS9aZCcfJ): The domain registry used is namecoin, \"a decentralized open source information registration and transfer system based on the Bitcoin cryptocurrency.\" read some more at https://namecoin.info/\n> Basically, without having your private key, they can't censor your domain out of the domain registry.\n\nThank you, that's what I wanted to know, just a matter of time before questionable content can be found here, if it isn't here already.",
+				"added": 1456950787
+			}
+		]
+	},
+	"comment_vote": {}
+}

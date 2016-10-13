@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "Gx2QjLddwBIRxdJ3ORFtRrVNxqOlsR3d1DcEUcjawIwrcuDl61v5KVwXJ7cNV4aobSZJcP3lNwEVgsgLEtW2Fwg=",
+ "cert_user_id": "tinkerstone@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "9040793de85f730e82e4e66bfc22ac76ae839fa30d84d591de8febe3046e33ec",
+   "size": 250
+  }
+ },
+ "inner_path": "data/users/17kBhTQjP8ng3qC6L8wTbexNn8nGxPx2QP/content.json",
+ "modified": 1466831577.899,
+ "signs": {
+  "17kBhTQjP8ng3qC6L8wTbexNn8nGxPx2QP": "HNyVIvvQ+Cg18E54aCAhn+94WubZPbpXFPjJrcdvgOXfMwk4bfyUmJkuVRZlTJIb0pOINa5bL4vzXsHD9dtau9o="
+ }
+}

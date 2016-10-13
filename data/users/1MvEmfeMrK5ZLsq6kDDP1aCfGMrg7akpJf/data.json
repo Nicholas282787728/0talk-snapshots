@@ -1,0 +1,16 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 2,
+	"comment": {
+		"1_1FKNdvxJJGCu1KupdqZtSPEe2uCjqZs45s": [
+			{
+				"comment_id": 1,
+				"body": "Biensur que c est QUI, mais sans point d interrogation.",
+				"added": 1464958382
+			}
+		]
+	},
+	"comment_vote": {}
+}

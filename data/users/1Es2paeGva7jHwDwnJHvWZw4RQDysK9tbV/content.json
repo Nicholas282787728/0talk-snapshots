@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "G9+C0YM3a6NBSma2o9WWFXDOzwnqcyQBlmVwvbeQ5z2Eizx8+1UHURm/wTJGPBr3O88BAuUVVvt9IEaOUiHchNc=",
+ "cert_user_id": "disney@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "e44919761fc08bf5027bebc7a420f2184427a906e6ea8e06d041cbd0c6c96265",
+   "size": 210
+  }
+ },
+ "inner_path": "data/users/1Es2paeGva7jHwDwnJHvWZw4RQDysK9tbV/content.json",
+ "modified": 1462083108.34,
+ "signs": {
+  "1Es2paeGva7jHwDwnJHvWZw4RQDysK9tbV": "G3h4+SKxCdb9ERjmE1BOGEMP0dNZP0yab3ZaKz4RorZrS3NFFZZgLzCMd+HwD+XWaEB/38UplNmXrrUI4J6qpYE="
+ }
+}

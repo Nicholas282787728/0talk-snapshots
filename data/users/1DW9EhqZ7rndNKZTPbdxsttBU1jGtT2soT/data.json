@@ -1,0 +1,48 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 7,
+	"comment": {
+		"2_1AZjDLkfYwSmjM7ZJUf7HHnrF778augRMa": [
+			{
+				"comment_id": 1,
+				"body": "Ah great, more of the \"only evil people use Tor\" mantra. Does better encryption and privacy allow people to access things like CP? yes it does, but that's the price of freedom.",
+				"added": 1470516093
+			},
+			{
+				"comment_id": 2,
+				"body": "Honestly, I'd much rather the devs work on improving and testing the security/encryption rather than trying to start censoring content. There are two reasons behind this, A) If the crypto and security is good enough, others won't know that you're hosting potentially illegal content in the first place and B) Sure, most people can agree that censoring CP is reasonable, but that starts a slippery slope towards more censorship. First against things which aren't actually illegal, just questionable or representing opinions that others don't like, then suppressing unwanted content.",
+				"added": 1470580170
+			},
+			{
+				"comment_id": 3,
+				"body": "> [paintninja](#comment_11_12EgeG4vgNHzuPJYZqVJQwy2W9vkywbQQu): Personally I'm happy with ZeroNet's security and encryption. I just wish they would add gzip support so the bandwidth and storage requirements aren't so high... If we had gzip support on ZeroNet we would likely have much higher storage allowances on sites like this one and ZeroMail. And as an added bonus, zites would download faster on first-time visits.\n> I don't see ZeroNet aiming to be an entirely anonymous solution, and I'm fine with that. I myself would prefer having some moderation by pseudo-anonymity rather than people feeling like they can do whatever they want with no consequences. I don't even want to accidentally come across stuff like the op mentions, once I see it I might not be able to unsee it.\n\nIf you don't want anonymity and privacy go back to the clearnet. The whole point of making something decentralized is to avoid censorship and increase privacy as no central organization or company can decide to reveal who you are or tell you what you can do.",
+				"added": 1470580584
+			},
+			{
+				"comment_id": 4,
+				"body": "> [paintninja](#comment_12_12EgeG4vgNHzuPJYZqVJQwy2W9vkywbQQu): But I like the benefits that decentralized networking brings outside of anonymity. Having sites consistently load instantly after my first visit while still always being up-to-date, being able to view them offline seamlessly, being able to start up my own website without any special software or cost, never having my site crash due to unexpected load or being inaccessible when my server's down. Never having to need an email and verify it just to make an account, never having to login everywhere with separate accounts to do simple things like write a comment... ZeroNet does so much more than the current clearnet can.\n\nThen you better learn to live that some people can and will use it for things you disagree with.",
+				"added": 1470582078
+			},
+			{
+				"comment_id": 5,
+				"body": "> [newuser123](#comment_17_1PCPuVtFv8apVpXYbc46wHugNhFUVQ6KCv): Another angle to consider is the scope of the internet itself.Since the internet and by extension zero-net spans almost the entire planet, you're going to find not all countries have the same laws everywhere - making it very difficult determine what is a crime and what is not.\n> Plus, these days .govs seems to be ignoring their own laws and doing whatever they please while making up new laws by the minute, so try not to be too hard on criminals - chances are while you were reading this, your .gov made a new law making you a criminal for whatever reason.\n> p.s: Before you say it, yeah,yeah I know you didn't do anything wrong - that's what they all say.\n\nThis is also an excellent point, what is illegal in one country might be what we take for granted in another. Sure most of us on here could all agree to remove/block CP from Zeronet. Fine. However in another country maybe they all agree that marijuana is awful and that must be blocked too. Which country do you listen to?\n\nUltimately people having access to or committing acts which you don't agree with is just the cost of doing business on a platform made to be free of censorship. So here's an idea, just don't go seeking it out.",
+				"added": 1470599011
+			}
+		],
+		"1_1JYAaUBXsh3DrN8UZHz4suAUVXzV3X15QL": [
+			{
+				"comment_id": 6,
+				"body": "A lot of VPN providers claim that they do not keep logs of your browsing, and I'm sure that most VPS providers would do the same with regards to your network usage. However, you can't really verify either claim.",
+				"added": 1470662795
+			}
+		]
+	},
+	"comment_vote": {
+		"19_1HrRNH7KbdxMjwLmwrHmZqJrzVZVDKc9bF": 1,
+		"93_1CMjV2r4EBpFt8VCcWWZKDysZXPcPExRNN": 1,
+		"17_1PCPuVtFv8apVpXYbc46wHugNhFUVQ6KCv": 1,
+		"20_1PCPuVtFv8apVpXYbc46wHugNhFUVQ6KCv": 1
+	}
+}

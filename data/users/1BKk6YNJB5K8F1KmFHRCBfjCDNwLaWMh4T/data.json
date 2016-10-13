@@ -1,0 +1,33 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 5,
+	"comment": {
+		"1_1MDFGD6PJsZLnTg8Y9BcZKTPfKHMRrTL83": [
+			{
+				"comment_id": 1,
+				"body": "额，各位这个东东应该算是一个deepweb吧！？",
+				"added": 1460789548
+			}
+		],
+		"1_1UfvLnMuzShvi3phWGSqn79tio81Wn9Dt": [
+			{
+				"comment_id": 2,
+				"body": "签到\n\n话说这个东东目测并没有完全完整运行tor的样子。",
+				"added": 1460789774
+			},
+			{
+				"comment_id": 3,
+				"body": "另外一种形势的 DeepWeb 吧！？基于P2P，但是不理解用Tor的意义……如果有朋友知道麻烦解释下～",
+				"added": 1460789843
+			},
+			{
+				"comment_id": 4,
+				"body": "> [megadotzip](#comment_1_1FNAnUPGmoyEDRRuarrNnxTBQhmoSWBWSJ): 这个怎么玩，哇哈哈，好奇\n\n应该就是类似聊天。不过Zero更像是一个Deepweb，通过p2p和tor实现的。",
+				"added": 1460790168
+			}
+		]
+	},
+	"comment_vote": {}
+}

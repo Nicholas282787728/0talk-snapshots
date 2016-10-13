@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "GyQnaQ/DJR/9fxnssCzAD5BzZoqTsN88ZXvYfCoK8O1Hkt+B+NHogsIST2TSl2MjdYR7DBrMqmch2Slavh3ZS1c=",
+ "cert_user_id": "thegroff@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "4b614618708e2c3c5b66419263c78b16f16e157c20de0aeb5fe3027a240e302a",
+   "size": 386
+  }
+ },
+ "inner_path": "data/users/1HqUgneDmJsnBvd8QC4VQfJc9YA3xQuTFE/content.json",
+ "modified": 1456961264.535914,
+ "signs": {
+  "1HqUgneDmJsnBvd8QC4VQfJc9YA3xQuTFE": "G3Qz47fO0g3P7zYpJRzG1EIaassVgCODGt+LeXapA0ky6aSqE8rhPrlI8YlJ77bZn3E+jOXLjOkJZ2iypSpzcCo="
+ }
+}

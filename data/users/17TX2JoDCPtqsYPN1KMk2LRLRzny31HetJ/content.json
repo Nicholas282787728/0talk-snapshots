@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "G/G4NL9hjgTU3H++DaxUswj7Sz1EIA5cO5NPf/YkYQdNGhtvuiyAQjMFnCDCPvDhXB+jrfHEHHN7ptaZGVtdTy4=",
+ "cert_user_id": "cronianice@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "acc01478ce4b386f66dabdcd10bccabddcf8c28a25f0260cea115e02241ff538",
+   "size": 287
+  }
+ },
+ "inner_path": "data/users/17TX2JoDCPtqsYPN1KMk2LRLRzny31HetJ/content.json",
+ "modified": 1471758533.289144,
+ "signs": {
+  "17TX2JoDCPtqsYPN1KMk2LRLRzny31HetJ": "HHQ8TxOZkITAYBONllXbpoEkhe0SqVEulmDOcxr74YxGxus4R6+rjIbveJ7xpJay5hCCWSdwSUk57Sr5NEB9qlY="
+ }
+}

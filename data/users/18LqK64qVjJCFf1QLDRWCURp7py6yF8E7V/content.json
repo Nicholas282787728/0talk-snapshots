@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "G1k3x7O6DgQQyApPjkpkadl0RthQ0vo+pvSvewALZxU2VbQMTY3jrJLVE5twLsjRX35xZKdTw4iouGTtAXiedlQ=",
+ "cert_user_id": "wololegend@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "d8bf61702527374e26542ccb051cd6fcb22b1a19549f8e71baefa57c8f96e75c",
+   "size": 992
+  }
+ },
+ "inner_path": "data/users/18LqK64qVjJCFf1QLDRWCURp7py6yF8E7V/content.json",
+ "modified": 1460413920.89,
+ "signs": {
+  "18LqK64qVjJCFf1QLDRWCURp7py6yF8E7V": "G1uEfQeRrcyY42/WdGwVb2sBbAAvkyAgtg9/y1hdvflxWxGsm0NWti0s6SUweVTkFHDk1dHYLgwH+xnQgCYxxpA="
+ }
+}

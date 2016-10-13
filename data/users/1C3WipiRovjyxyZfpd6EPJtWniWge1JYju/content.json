@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HGJIVSHR9tdqjIBCCB1GSDl00/8X6mF/5WatlFgf52z0vU+5pOkqYjkl7FrCuUxlQIOZ8eO/QwH/rDY0OHE5Lo0=",
+ "cert_user_id": "nerd@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "e0490ae2d9ce1ee3acffa5b525a4c1dc92cc14a912fe640dc6ff2f54542fcb73",
+   "size": 501
+  }
+ },
+ "inner_path": "data/users/1C3WipiRovjyxyZfpd6EPJtWniWge1JYju/content.json",
+ "modified": 1457298893.825034,
+ "signs": {
+  "1C3WipiRovjyxyZfpd6EPJtWniWge1JYju": "G4fZUZYNdhVnYwFV+YeZaRJ5d1sGKJu+UShKcYW8UehvXrdzt8p8L68ZrCqnD3DUb8chzyfYUhaYzqLqCptMXRI="
+ }
+}

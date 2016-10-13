@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HIG5+2mb/NJAVAeAtrr+vj8v65eAKtZY3zYVxP31UNxOe4Jfglt4pjoUSzg0lZgi22FcBHBU/Cq1RVi3r0/Crk8=",
+ "cert_user_id": "davincilord@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "9c01f5f7a3252e57361adfc9ff39c8326a1fc3e90aa4e0f6ae6fd13f4e5b84cc",
+   "size": 251
+  }
+ },
+ "inner_path": "data/users/1Q6TBs2ERunLTFDrQmabk2GvVQTiz3cd1s/content.json",
+ "modified": 1457698261.357969,
+ "signs": {
+  "1Q6TBs2ERunLTFDrQmabk2GvVQTiz3cd1s": "HKtT/XXbUtYPBUKEhR1Z7sKl2VT7gRF5nWKVr1xG+QiqEemyZy0uwSY8yI1E3FF3ufueJuSthpRwFqYG9OuYzro="
+ }
+}

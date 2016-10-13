@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HDc1ZIY4WN1lAvcMDwxxJkGTWxd/mGsNNX1PMJFzT6Xj5walg+CUHwtpuIm4C6GMp7jjN/x4PPtVehfE6WmLw2g=",
+ "cert_user_id": "paradoxeuh@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "541bb81e9744c9f1195372d45db8a6e71b66f5d0a69b7f2a2d75470ea6dea5fd",
+   "size": 387
+  }
+ },
+ "inner_path": "data/users/1H8igzd23YbSUqucNFPg25nKtNgcPcwssE/content.json",
+ "modified": 1458032235.684161,
+ "signs": {
+  "1H8igzd23YbSUqucNFPg25nKtNgcPcwssE": "Gy3ed4CfQ4cH1SzHtWHzgzBxyPJuDgHI2aC3BNoaHbVISUE1w1gcBWO3g6uT9lJ96OnZa5X8FtovW/Z5yeJzeDU="
+ }
+}

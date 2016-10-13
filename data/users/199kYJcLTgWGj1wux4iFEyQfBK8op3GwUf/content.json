@@ -1,0 +1,15 @@
+{
+ "cert_auth_type": "web", 
+ "cert_sign": "HEsF4sxI53QT0xN5TR5JRS49A7KknhMtM/NS5AhQCWzP5kSjaEQS6ilT2/oySINod6xUbTaVFeUwEEuMUNSz/TY=", 
+ "cert_user_id": "tylerconsole@zeroid.bit", 
+ "files": {
+  "data.json": {
+   "sha512": "93247183c51a1f4fb8569b3b9187aec409f69ab6ee7bfd30994c8806d45326da", 
+   "size": 285
+  }
+ }, 
+ "modified": 1457160874.295353, 
+ "signs": {
+  "199kYJcLTgWGj1wux4iFEyQfBK8op3GwUf": "G6fXupQUN9oeEJLIZoYU7QM5qN4Efsw3uDbZIwc49g4avioTLs1otS2TuN268KUoLysXh/WXxy69ZxrDw9AYfFg="
+ }
+}

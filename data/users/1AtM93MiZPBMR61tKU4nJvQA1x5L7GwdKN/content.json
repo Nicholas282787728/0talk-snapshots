@@ -1,0 +1,15 @@
+{
+ "cert_auth_type": "web", 
+ "cert_sign": "G4fsLZ7qw9qAz+V8K/PFlPWiLMmrzslGxhzjzZmwNurCZy/yz3Q6K9aBfN2p4PDflSNjisda+lZQ6UsXPd1Ps0U=", 
+ "cert_user_id": "picchio@zeroid.bit", 
+ "files": {
+  "data.json": {
+   "sha512": "0bc2843fad4ffb093c9c2c321e93fbc38c9cc7ddad09fa00d092d01dea7b6ed8", 
+   "size": 851
+  }
+ }, 
+ "modified": 1450312200.842352, 
+ "signs": {
+  "1AtM93MiZPBMR61tKU4nJvQA1x5L7GwdKN": "G4ZxrtwqoiOVY/ftvrS2G8lXBQ4zYz76QkJiait6HYSgR/2hu7N1NotVta526IgsfMhvHpUi/vZ4WlpKCDv898E="
+ }
+}

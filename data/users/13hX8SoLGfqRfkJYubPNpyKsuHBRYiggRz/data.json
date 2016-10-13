@@ -1,0 +1,18 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {
+		"1_1GCsW9TFfjDsvcdmKPADq1n8Q3ha72UtDQ": 1
+	},
+	"next_comment_id": 2,
+	"comment": {
+		"4_1PX7VW6xfccTT2tNUTwrYKJpGsGfrnoJfP": [
+			{
+				"comment_id": 1,
+				"body": "everything you buy is currently logged, tracked, and stored on various servers i.e gov, credit card, bank/debit cards, etc. These logs are also shared with the marketing industry.",
+				"added": 1456970974
+			}
+		]
+	},
+	"comment_vote": {}
+}

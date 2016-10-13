@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HHn8+jCbH5G1uLqvHg5nAUVKoI6gjSPI7KXMkfteNZZVsFtOtLjHkH72OZNcg/c/RAQlGCW0uXGdQebjDKgvY00=",
+ "cert_user_id": "killingjoke@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "393d52ae9a82a970918a783606d106e76cfdce007ff71ee346c50decc7078a39",
+   "size": 291
+  }
+ },
+ "inner_path": "data/users/114sHWydVp4kpPC5xKnv1iMU4A7HAcKvnm/content.json",
+ "modified": 1472912402.105,
+ "signs": {
+  "114sHWydVp4kpPC5xKnv1iMU4A7HAcKvnm": "G4RwUwHJOD8PmYlpyKcS5X5utdjMA71EZHHDsnTkqZq7PjEuc94qip1nlQmq4XczPqaYWWJMHSicrpSrmVVvads="
+ }
+}

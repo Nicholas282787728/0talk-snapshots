@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "GwjtsGHxg6lqbbwQe12fC3/m0uUk8sy8FGmfFw1aLZnKV8ndeyk39TSC5OHeyMCLoZefhzerlRTzK/S9LuXGggg=",
+ "cert_user_id": "lordnikon@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "7b9817e34bd5f384cef89d718d143a3f59f495009f8a81e6bffa0d960c1cbe40",
+   "size": 240
+  }
+ },
+ "inner_path": "data/users/1FS2NkaN4g8HvYZkkRCVY1iWmV71tJU6n2/content.json",
+ "modified": 1472052417.793636,
+ "signs": {
+  "1FS2NkaN4g8HvYZkkRCVY1iWmV71tJU6n2": "GzShQ03AFf3NyxjbVYt00e2cmzuS/ZlE0I1z5Tq23LCD371kkBQHSrY3dDze2j+IcoTKBKtcg1mAHLSEESa2X4A="
+ }
+}

@@ -1,0 +1,30 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "Logging in, new device.",
+			"body": "How does zeronet distinguish my identity, or log in. And how do you log back in with the same identity on a new device?",
+			"added": 1457470121
+		}
+	],
+	"topic_vote": {},
+	"next_comment_id": 3,
+	"comment": {
+		"2_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": [
+			{
+				"comment_id": 1,
+				"body": "9",
+				"added": 1457353358
+			}
+		],
+		"1_12xtj36axnhJ5M7jfCQNfDbMYK7hg7uvjM": [
+			{
+				"comment_id": 2,
+				"body": "thanks, and also is there a way to enable multiuser",
+				"added": 1457471246
+			}
+		]
+	},
+	"comment_vote": {}
+}

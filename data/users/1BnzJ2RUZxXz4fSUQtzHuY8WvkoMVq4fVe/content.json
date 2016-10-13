@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "G5b09LEuZY/1SOEB6aihbQl1wDQmZFycim142APowpB3P1QQps2JKEIyfBM13Rnph2nWKmBvy/9Zzkbu1KTAcKE=",
+ "cert_user_id": "berenluth@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "c1b5c93431ab3ac3cf0cf85bf323a4b44193a5f65f50c009b9d7e6b87949fc37",
+   "size": 242
+  }
+ },
+ "inner_path": "data/users/1BnzJ2RUZxXz4fSUQtzHuY8WvkoMVq4fVe/content.json",
+ "modified": 1465389677.659,
+ "signs": {
+  "1BnzJ2RUZxXz4fSUQtzHuY8WvkoMVq4fVe": "HNtFZQkAybJStGzcbxSHBUjSYBm0F8PAifG/Mor9rglT93cZMJiLGUdm3BTfKQwyaERLA24mmeSfROuUg8NUleg="
+ }
+}

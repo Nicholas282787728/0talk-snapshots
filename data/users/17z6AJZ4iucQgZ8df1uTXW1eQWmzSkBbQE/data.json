@@ -1,0 +1,18 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {
+		"1_1MtAfPUXCiZYVLjjUjBWmmYGzZ6j3aQYfG": 1
+	},
+	"next_comment_id": 2,
+	"comment": {
+		"1_1MtAfPUXCiZYVLjjUjBWmmYGzZ6j3aQYfG": [
+			{
+				"comment_id": 1,
+				"body": "I hear that NSA is able to track every computer & phone based on their MAC addresses",
+				"added": 1457351909
+			}
+		]
+	},
+	"comment_vote": {}
+}

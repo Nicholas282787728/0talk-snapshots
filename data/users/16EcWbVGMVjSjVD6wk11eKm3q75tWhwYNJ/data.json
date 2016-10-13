@@ -1,0 +1,23 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 3,
+	"comment": {
+		"1_1EUyJtat7mbu5wMcR6nrJTPBBRons1mtMA": [
+			{
+				"comment_id": 1,
+				"body": "i find this in a post of pplware blog.",
+				"added": 1457026995
+			}
+		],
+		"1_1C3v8nTmMJReshHQxX1Di6D8nmMYfdpspA": [
+			{
+				"comment_id": 2,
+				"body": "Sim, garanto que Português há cá! :)",
+				"added": 1457027058
+			}
+		]
+	},
+	"comment_vote": {}
+}

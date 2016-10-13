@@ -1,0 +1,59 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "BitTorrent Filesystem",
+			"body": "I found this application that mount .torrent files as read-only disks: https://github.com/johang/btfs\nI'm going to give it a try with some torrents from [zerotorrent](/192dZ1EG5tU7PnCfuwGMDEBrr2eLqvs4t3)",
+			"added": 1451769232
+		}
+	],
+	"topic_vote": {
+		"3_1KcPohxmuqiNShTaAzJZLndm5aWtBZLuJn": 1
+	},
+	"next_comment_id": 7,
+	"comment": {
+		"1_1MKjzLUa2FnZt7ZNjHemEeeh3APtDNnLzb": [
+			{
+				"comment_id": 1,
+				"body": "ah! je commençais a croire que j'étais le seul français de ce reseau ^^\nPerso j'utilise ZeroNet depuis quelque temps pour heberger mon site web (l'adresse c'est /vulonkaaz.bit si vous avez vraiment du temps à perdre) je trouve qu'il y a pas assez de site francophone sur ce reseau, faudrait qu'on fasse un zerotalk FR ou un truc du genre",
+				"added": 1443276969
+			},
+			{
+				"comment_id": 2,
+				"body": "Je viens de faire un ZeroTalk pour les utilisateurs francophones: /1Vp5LH4wegCaqeB72yMw2jgNdVm4aR7ET",
+				"added": 1443277194
+			},
+			{
+				"comment_id": 3,
+				"body": "> [kdy](#comment_1_1JCkFnBnHvGy4ZPyHTyKFB5Nkynq2XE9H9): Dommage, je trouves pas de peers personnellement.Sinon francophone aussi, la Suisse vous passe le bonjour ! o/\n\nle truc c'est que je peut me connecter a ZeroNet que le week end du coup je peut pas seed le site en semaine",
+				"added": 1443864116
+			}
+		],
+		"1_1NVf2GWG9BTq8HFUumUbfp9N9HmYwZpkSv": [
+			{
+				"comment_id": 4,
+				"body": "there is no real directory for websites but when people create a new website here they usually speak about it on ZeroTalk and ZeroBoard. You can also check ZeroName that list every sites on ZeroNet that have a domain name",
+				"added": 1448124554
+			}
+		],
+		"1_18NqMTQeSD7cAKEcnAdFEBQYJCxHgFXSzk": [
+			{
+				"comment_id": 5,
+				"body": "just do ctrl-c in the terminal window where you started zeronet",
+				"added": 1450715437
+			}
+		],
+		"1_1FXEbfoHUqHpjVSJKSP6XvxVVfb4chmGGH": [
+			{
+				"comment_id": 6,
+				"body": "fgtrhjhyj",
+				"added": 1451313436
+			}
+		]
+	},
+	"comment_vote": {
+		"9_1QGWjfYfANXvVDaHaH8n5w86KWkKcjiAoE": 1,
+		"4_18NqMTQeSD7cAKEcnAdFEBQYJCxHgFXSzk": 1
+	}
+}

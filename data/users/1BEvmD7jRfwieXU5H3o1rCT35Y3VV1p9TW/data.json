@@ -1,0 +1,97 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {
+		"1_1FbEENPR12D1yfqWWszQfNgb1Tu5TecMFV": 1
+	},
+	"next_comment_id": 15,
+	"comment": {
+		"14_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf": [
+			{
+				"comment_id": 1,
+				"body": "on a site named : http://torrentfreak.com",
+				"added": 1457084614
+			},
+			{
+				"comment_id": 2,
+				"body": "> [dadix](#comment_1_1BEvmD7jRfwieXU5H3o1rCT35Y3VV1p9TW): on a site named : http://torrentfreak.com\n\nthe articol is here: https://torrentfreak.com/play-p2p-impossible-shutdown-160301/",
+				"added": 1457084712
+			}
+		],
+		"1_1FbEENPR12D1yfqWWszQfNgb1Tu5TecMFV": [
+			{
+				"comment_id": 3,
+				"body": "> [logicalorange](#comment_2_13syaoxirqdMSmWwU3sUvPx58F3zQFKHz1): tot nu am inteles cum creezi un site pe sistemu asta, unde tii fisierele sursa cum faci designul?\n\nuite aici cateva tutoriale: https://www.youtube.com/watch?v=NVg3s9bFQ0w&list=PLgFqcJDOq2q5orC1U4IvDBMpjezKt-X4E&index=1",
+				"added": 1457085669
+			},
+			{
+				"comment_id": 4,
+				"body": "cum se face un site :http://127.0.0.1:43110/13x71nc7fju6afMqpEPfcu3Gx9Z5hNhH48/?Post:5:How+To:+custom+ZeroNet+addresses+using+Vanitygen+\nalt torrent cu filme, muzica, programe, tot ce vreti :) :  http://127.0.0.1:43110/1K2jQdBFNFUHhGrAv8g9Z2Ln4BNcQdqhBb/ALL.html",
+				"added": 1457086035
+			},
+			{
+				"comment_id": 5,
+				"body": "> [petre](#comment_2_1LukMF8t8bMtnVPMzYfdt4QgfLcrUkNmSe): hmmm. aveți site-uri?\n\neu nu am , parca as face unul despre videoproiectoare  dar am asa o lene   ...\n\n\n**edit**:  am clonat un site, am scris vreo 3 randuri , acum vreau sa-l sterg dar nu stiu cum. Ma gandeam sa fac ceva\ngen forum dar nu mi-a reusit. :) Poate candva o sa fie vreun buton si dintr-un click o sa putem instala ceva gen mybb, asa ca pe siteurile de hosting.  ",
+				"added": 1457109768
+			},
+			{
+				"comment_id": 6,
+				"body": "@ovidiu de acolo se sterge din lista dar nu de tot, e ca si cum l-ai scoate din bookmarkt. Cica trebuie sa sterg manual un folder.",
+				"added": 1457164872
+			},
+			{
+				"comment_id": 11,
+				"body": "@petre Eu nu sunt programator asa ca ... nu.",
+				"added": 1457191936
+			},
+			{
+				"comment_id": 14,
+				"body": "acum am instalat zeronet pe windows dar il mut pe Trisquel . Nu imi place Ubuntu.",
+				"added": 1457258351
+			}
+		],
+		"7_1MxdAjWgnqwCaunGHmhY39tVR51qV3peJL": [
+			{
+				"comment_id": 7,
+				"body": "You can see a nice cms here: http://livestreetcms.ru/   for some inspiration  :)",
+				"added": 1457167870
+			}
+		],
+		"1_18gxSTCDsizAsHe6UjBP5VJu8AeokVhStc": [
+			{
+				"comment_id": 8,
+				"body": "there is another one called Torrent^ZERO :   http://127.0.0.1:43110/1K2jQdBFNFUHhGrAv8g9Z2Ln4BNcQdqhBb/ALL.html",
+				"added": 1457180202
+			}
+		],
+		"2_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": [
+			{
+				"comment_id": 9,
+				"body": "how to embed an image from an external url ?",
+				"added": 1457181725
+			},
+			{
+				"comment_id": 12,
+				"body": "@scrub @crypton thanks but is not working:\n<img src=\"http://g04.a.alicdn.com/kf/HTB11L7XJpXXXXbBXFXXq6xXFXXXW/Brand-New-2015-Newest-Cheerlux-C6-LCD-mini-projector-LED-beamer-priyector-HD-best-for-home.jpg\"></img>",
+				"added": 1457192659
+			}
+		],
+		"1_1DcDDitsjFJohvwonPmpibRChmA7uGxqL7": [
+			{
+				"comment_id": 10,
+				"body": "I think zeromail is not working at this momment, I have the same problem",
+				"added": 1457182332
+			}
+		],
+		"1_17ApQKugX1XH727gpAeD3mrRLjLxASdakd": [
+			{
+				"comment_id": 13,
+				"body": "yes , a social network will be good but how about zeronet to work on android ? A social network without mobility what is it?",
+				"added": 1457194299
+			}
+		]
+	},
+	"comment_vote": {
+		"3_1MhL8nWAcuB5YxbhyYgEHNvsToUtQutRVs": 1
+	}
+}

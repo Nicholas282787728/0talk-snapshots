@@ -1,0 +1,25 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "Merger sites coming soon!",
+			"body": "Amazing stuff, thanks to @nofish (main developer)\nhttp://127.0.0.1:43110/Blog.ZeroNetwork.bit/?Post:87:Upcoming+feature:+Merger+sites\n\nTrack progress here https://github.com/HelloZeroNet/ZeroNet/issues/232",
+			"added": 1467318769
+		}
+	],
+	"topic_vote": {},
+	"next_comment_id": 2,
+	"comment": {
+		"4_15k25aCTwyHfXnqtqpRvBbkDz5ka7gFuuU": [
+			{
+				"comment_id": 1,
+				"body": "Lots is being done by @nofish himself, take a look at a recent post he made \nhttp://127.0.0.1:43110/Blog.ZeroNetwork.bit/?Post:87:Upcoming+feature:+Merger+sites\n\nAmazing stuff",
+				"added": 1467318640
+			}
+		]
+	},
+	"comment_vote": {
+		"2_13NJuU9nw3cFSVoETCkN6BCv5s5v5V2ngA": 1
+	}
+}

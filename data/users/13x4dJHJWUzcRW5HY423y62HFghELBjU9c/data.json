@@ -1,0 +1,16 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 2,
+	"comment": {
+		"1_1BE6FzLYWUhQWCnPNeedrDMQtsxidd2aqE": [
+			{
+				"comment_id": 1,
+				"body": "sistem hazır dediler geldik... neresinden tutalım..",
+				"added": 1457363612
+			}
+		]
+	},
+	"comment_vote": {}
+}

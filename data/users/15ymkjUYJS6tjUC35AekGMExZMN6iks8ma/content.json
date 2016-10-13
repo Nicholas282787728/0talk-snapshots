@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HOU4oNOYhjiDdF+H7Z8KZ0cq7tb0H9W4UZHD/UqCjFWy+ubhhDSljut1iZdPYlnf5AioSt+nzdMIwjWlJqgvEsk=",
+ "cert_user_id": "theta@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "f50d8b84a8c30a623066c3dd9d22b684328fd8702af1a3e3065067f3bdbba0e2",
+   "size": 14798
+  }
+ },
+ "inner_path": "data/users/15ymkjUYJS6tjUC35AekGMExZMN6iks8ma/content.json",
+ "modified": 1459558411.224026,
+ "signs": {
+  "15ymkjUYJS6tjUC35AekGMExZMN6iks8ma": "HKTTk6wf/04yUSgTykf151oPbUYRT5BRCk2G/TyD6vtqM6HIIuFvudKNLQSwsW6VMO5IH1D/lYlSfxCOs3buJHI="
+ }
+}

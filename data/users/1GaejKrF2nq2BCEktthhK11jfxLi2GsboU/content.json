@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "G30af995gPo/GzweI0ERTx+QoJApoYbMA+j/MgBd+8mHLrMwL2/V1bJkWIGjeVyqjGD08+irE9oc+JJBDnFo70U=",
+ "cert_user_id": "darkmatter@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "7cbdc4305bd3b3497d7026cfb091c15f051ab3a18c1d42036f0b7cf34960a678",
+   "size": 2017
+  }
+ },
+ "inner_path": "data/users/1GaejKrF2nq2BCEktthhK11jfxLi2GsboU/content.json",
+ "modified": 1459824890.864,
+ "signs": {
+  "1GaejKrF2nq2BCEktthhK11jfxLi2GsboU": "G9PpUT2Jzup8yznUW+7pTYCvW+Nb9ytU0czV9jv1ZoiCzZukihS3jRr9AVf8KX84vQlKpQtFl6v2I8A/m95mlqA="
+ }
+}

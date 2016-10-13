@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "G7wz6fxlVWe3AILzRdomcJaLkaI9GhnG7xKAS/5DG5icr/u2zk0dbZKoAhuBSO6pZvsFHHSrHkDtsCYd4WLxYow=",
+ "cert_user_id": "hightechlowlife@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "db6c5439b1b11d3515900dc30c6acb8e51f32b7f092173bd1b2d3a4416ac58a4",
+   "size": 162
+  }
+ },
+ "inner_path": "data/users/1E3jeRa9JjsdtcxyZE2oDmgpbsz2jHVJM2/content.json",
+ "modified": 1462386829.03486,
+ "signs": {
+  "1E3jeRa9JjsdtcxyZE2oDmgpbsz2jHVJM2": "G2vPOhWKbx+eNuTZHucq5Pynsq2OnNu+eWtunzvGwV2v0YtoW9k7wWRwoZ6CXVuPHnpYTmP1PBs4spDRAgT36gQ="
+ }
+}

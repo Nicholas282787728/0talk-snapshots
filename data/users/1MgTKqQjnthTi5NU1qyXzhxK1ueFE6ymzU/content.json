@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "GxPYR4SKxrVV5wQmtskuuTeUvZSY4I3LmrYYPkJOAqoUH7HRYTwPsME7VLUsNkHV3ZfK+BWS9m7tC1hiayMXcQE=",
+ "cert_user_id": "kike0killer@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "777f92ba571f50a920633079a84f3ff3265198b35189ff752a87d1dee48a4a76",
+   "size": 209
+  }
+ },
+ "inner_path": "data/users/1MgTKqQjnthTi5NU1qyXzhxK1ueFE6ymzU/content.json",
+ "modified": 1458559938.619,
+ "signs": {
+  "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT": "GxmXK3dQdDTyiRWAo5e7k+c9zJVJtY3+ApJ4HLg74VwxLaJEmzRGMSma8ULBktyz2q0pyUYkbozrJsSJwmg7KcY="
+ }
+}

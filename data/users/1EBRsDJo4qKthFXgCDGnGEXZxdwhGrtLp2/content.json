@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "GxnLAMSp0m5tE+jUWCqY5/JQntKjfiVWVQIw1GIQHTY4wPvBtNJKKzkZNkvpklW47sURChy68WSGI3TB3h60R4c=",
+ "cert_user_id": "renegadepatriot@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "37e194d8f36add115dfe9893baeb2f00fefc80eeeee3dc877970c50e5012afee",
+   "size": 1650
+  }
+ },
+ "inner_path": "data/users/1EBRsDJo4qKthFXgCDGnGEXZxdwhGrtLp2/content.json",
+ "modified": 1471195316.989,
+ "signs": {
+  "1EBRsDJo4qKthFXgCDGnGEXZxdwhGrtLp2": "G5IDoBIxwlvnpFehp5+HO/Rh9hqi+YGJjiukwOosgBteyCHaUlTXBmnzZsuz+IIeHNPsFfRwL2u2a3kim5U3nDE="
+ }
+}

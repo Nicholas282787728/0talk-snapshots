@@ -1,0 +1,25 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "Issues with site creation",
+			"body": "Something strange just happened to my last blog, so it didn't let me update it anymore. I've tried to create a new one, but apparentely, it cannot be viewed by anyone else but me.\n\nThis message appears when I try to publish my new blog.\n\n\"No peers found, but your content is ready to access.\"\n\nWhen I give the blog's address to some friend, it shows the \"there are no peers\" message.\n\nMy site link is this:\nhttp://127.0.0.1:43110/19KdvvYVFWuNPHQ2t8KVPtyS4jDUn19QKo\n\nPS: I've downloaded the new version of zeronet via wget and then I deleted the last folder and created a new one by extracting the tar file just on the same location last folder of zeronet-master was. Did I do anything wrong?\n\nI apreciate your answers.",
+			"added": 1455084576
+		}
+	],
+	"topic_vote": {},
+	"next_comment_id": 2,
+	"comment": {
+		"1_1PGFKCfMSL1QdudndfYCo4mGM8E8XKzMMG": [
+			{
+				"comment_id": 1,
+				"body": "Thanks! it works now, I couldn't figure out what the problem was, but the site have peers now. o.O",
+				"added": 1455160225
+			}
+		]
+	},
+	"comment_vote": {
+		"1_1G9k1Ti6kSNtYS4nqtTY8nz5SN3VxoVBAb": 1
+	}
+}

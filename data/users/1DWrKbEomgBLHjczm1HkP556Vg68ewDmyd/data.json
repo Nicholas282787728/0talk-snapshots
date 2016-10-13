@@ -1,0 +1,273 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "One-time-pad encryption",
+			"body": "If anybody is interested this is a nice little project:\nhttp://www.red-bean.com/onetime/",
+			"added": 1468333082
+		}
+	],
+	"topic_vote": {
+		"1_15PP551ddZo9KHDNfpE3YXkG7M7yZj5aTR": 1,
+		"1_1FWsCi4sgjq9PyF3fdirysiehYVn162NGW": 1,
+		"6_13hcYDp4XW3GQo4LMtmPf8qUZLZcxFSmVw": 1
+	},
+	"next_comment_id": 41,
+	"comment": {
+		"2_1MxejC3wJ1PB6QbLwL7g3HzC4ZPojJogD3": [
+			{
+				"comment_id": 1,
+				"body": "https://bitmessage.ch/\nThis might be a good start...but best to use it with tor..",
+				"added": 1463902981
+			}
+		],
+		"1_1NNECDmooAnYQUPpAwiqVmzmsbAELYhQTN": [
+			{
+				"comment_id": 2,
+				"body": "lol, yeah, best you don't go to them websites. A scam if I've ever seen one...",
+				"added": 1464302326
+			}
+		],
+		"1_1GNgaj5EqkzqYECYbXa889fGLyuseHRi3t": [
+			{
+				"comment_id": 3,
+				"body": "Seriously, BTsync?\nyou should change over to syncthing!\nhttps://www.syncthing.net/",
+				"added": 1464418963
+			}
+		],
+		"1_134tqSwDpKTdoPABqGskg1YMNptAxfu3Lh": [
+			{
+				"comment_id": 4,
+				"body": "tox is pretty awesome isn't it? ;-)",
+				"added": 1464949746
+			},
+			{
+				"comment_id": 14,
+				"body": "> [cloudhero](#comment_2_1HHx8ndzv5HniuG3CHmBWJyXnBcnXgnShX): hi there - this seems like a cool idea, but why not just use Ricochet or BitMessage? Genuinely curious :)\n\nWhy not use all of them, let people choose how they want to contact you, or which suits their needs best ;-)",
+				"added": 1466216698
+			},
+			{
+				"comment_id": 15,
+				"body": "> [t3mm13n37](#comment_1_1L5qJn5EFwBHGEhrJHS6it7J3Su2P4Spt4): How do you find your key? I'm new to qTox.\n\nAt the top left where your chosen display name is, click on it and it will open a window on the right with all your details.",
+				"added": 1466216765
+			},
+			{
+				"comment_id": 16,
+				"body": "Why doesn't somebody start a zeronet group chat on tox?",
+				"added": 1466217102
+			}
+		],
+		"1_122hyNA3DyHqMJxEv4ijw4mCAZ3upn8R9J": [
+			{
+				"comment_id": 5,
+				"body": "cannot access it from here.",
+				"added": 1465703800
+			},
+			{
+				"comment_id": 6,
+				"body": "> [inkscription](#comment_1_122hyNA3DyHqMJxEv4ijw4mCAZ3upn8R9J): Do you get any kind of error?\n\nStandard Chromium \"This site cannot be reached\" message.",
+				"added": 1465704521
+			},
+			{
+				"comment_id": 7,
+				"body": "> [inkscription](#comment_1_122hyNA3DyHqMJxEv4ijw4mCAZ3upn8R9J): Do you get any kind of error?\n\nI have better success with: http://127.0.0.1:43110/19J7kir9KuNWtKLtnx5mH9ZGd6wzxszWYk/\nIt seems to have found 3 peers but it's not downloading the page",
+				"added": 1465704677
+			}
+		],
+		"5_178NSuZP2hH2vHhNX6vsHceh5sjPkDrLiH": [
+			{
+				"comment_id": 8,
+				"body": "Microsoft once referred to Linux as a cancer.... Steve Bullmer: \"Linux is a cancer that attaches itself in an intellectual property sense to everything it touches\", that's not including the part where he said that Linux users were a bunch of communist thieves, I rest my case...",
+				"added": 1465898883
+			}
+		],
+		"1_18AAv2MxpUxLjG6U64nucoBg833eTaR83u": [
+			{
+				"comment_id": 9,
+				"body": "Sent, no idea if you have received it or not.",
+				"added": 1465909915
+			}
+		],
+		"2_1ET7iT2Cot3uksKiR9TEvj5RSpqRUgJiso": [
+			{
+				"comment_id": 10,
+				"body": ".json download failed...",
+				"added": 1466057837
+			}
+		],
+		"1_1JWy7zt6aDhpnDQ7fmsKUqNu8LzeoT1VRa": [
+			{
+				"comment_id": 11,
+				"body": "> [fr33d0m](#comment_2_1JWy7zt6aDhpnDQ7fmsKUqNu8LzeoT1VRa): this is my ZeroBlog: http://127.0.0.1:43110/1CgeBQ7qTstV5iHMRyKpq8JvT8Qto1Gb1Y/\n\nQuestion: Why is the Anonymail unable to send or receive mail.\nQuestion: Why can one not change the Anonymail password.\nQuestion: Why doesn't anybody respond to requests for information about stuff like the above questions.\nQuestion: Is it a honeypot operation?",
+				"added": 1466212607
+			},
+			{
+				"comment_id": 12,
+				"body": "Correct me if I'm wrong, but the other person must delete it in their sent folder for it to delete in your inbox, and therefore all the peers who are storing your email.\nFrom my experience, if you delete the mail from your inbox, and it's still available in the other person's sent folder, and you shutdown zeronet, then restart it/reconnect, the email comes back again to your inbox from the sender and peers.",
+				"added": 1466212781
+			}
+		],
+		"7_1LJMypJ67iEBwah82xwVVdB8SGZ1mwqgHQ": [
+			{
+				"comment_id": 13,
+				"body": "Why doesn't somebody start a zeronet - tox group chat?",
+				"added": 1466216606
+			}
+		],
+		"10_1FTFKztuv4Z5uy6iS83k9hB2xtS6yFnDxx": [
+			{
+				"comment_id": 17,
+				"body": "+1",
+				"added": 1466344765
+			}
+		],
+		"1_14eUCVpQR3kAgx1MAps9VFtUUofLGmZZ1S": [
+			{
+				"comment_id": 18,
+				"body": "lol, are you going to use QQ international?\nWhy not register on the PC first and just use the details on your phone?\nBTW, if you use QQ international, you do know that neither the PC version nor the Android version have been updated since 2014, that's about 2.5 years without any security, or any other updates, period.",
+				"added": 1466420138
+			},
+			{
+				"comment_id": 19,
+				"body": "> [trupmusic](#comment_1_14eUCVpQR3kAgx1MAps9VFtUUofLGmZZ1S): hi bro.,thanks for the reply. i  like a chinese girl .i  know her QQ number.so i need one, can u help me?i will pay u.pls\n\nAsk her if she uses Wechat (wexin in Chinese) it is also incredibly popular in China and almost everybody has it, try registering that first, if it works, great.\n\nPM me about it @ chinabiz on zeromail",
+				"added": 1466421698
+			}
+		],
+		"3_1JpAsfEeBYdr8U3DtAzj8SyczL5Gx1EtQ9": [
+			{
+				"comment_id": 20,
+				"body": "Pink bunny rabbits?",
+				"added": 1466488034
+			}
+		],
+		"1_1DUt2hdvamdyX1LtRC6YqoyUPRqGEJGdYY": [
+			{
+				"comment_id": 21,
+				"body": "lol",
+				"added": 1466633916
+			}
+		],
+		"1_1PHF6D1FxGbiFVt5RbPPKFXoV8xK9ESgTA": [
+			{
+				"comment_id": 22,
+				"body": "I think we can do without the ISIS propaganda, sick people they are...",
+				"added": 1467628185
+			}
+		],
+		"1_1EnWNsQYovZrxBjDiDHtP1TT7BsJ1Dd6md": [
+			{
+				"comment_id": 23,
+				"body": "For as long as people want to keep developing it, and as long as people want to keep using it.",
+				"added": 1467892076
+			}
+		],
+		"1_15JNF8bdyG4zEWVASsgbkFirzM6gyYpSBA": [
+			{
+				"comment_id": 24,
+				"body": "Wechat is NOT e2e encrypted, be careful with that. The day China allows it's citizens privacy on that level is the day that all hell freezes over.\nTelegram is one to stay away from because it has it's own homemade protocol which hasn't been proven yet like OTR has. There have been many vulnerabilities discovered it in, and many flaws in the app itself such as not deleting self-destructing messages properly.\nSignal is open source and probably the most trusted of them all, I'd use that, it allows you to verify the other person via a fingerprint.\nWhatsApp uses the Signal protocol and you can also verify the other person the same way as Signal, but WhasApp is closed/proprietary software, I use WhatsApp for family back in the UK, it's adequate and secure enough for that.\n\nFor local communication here in China I have setup my own ejabberd server in a VB and I use that with conversations for mobile communications, which also has OTR and OMEMO protocols built in, the latter is the same protocol used in Signal and WhatsApp and now seems to be the new standard for messaging encryption, taking over from OTR simply because it allows offline messages and group chats, which is what OTR falls short on.\n\nFor the PC I use a mixture of apps, they are pidgin with OTR for friends that like something easier to use and setup, and retroshare and bitmessage for friends who are a little more technically able.",
+				"added": 1468190091
+			},
+			{
+				"comment_id": 25,
+				"body": "> [197](#comment_10_15JNF8bdyG4zEWVASsgbkFirzM6gyYpSBA): Thanks for sharing. I do get jealous that you have at least WhatsApp for backup. With Pub-sub Accounts and Circle, WeChat has built up strong network effect so I don't think I can migrate my family to WhatsApp.\n> \n> I'd appreciate a lot if you could offer some experience on running VM instance of ejabberd or share your instance. I'd love to chat more about privacy aware technical solutions. If I have the honor, my jabber ID is 3534 at jabber.at.\n> \n> Also of interest are ways to convince friends to use Signal and XMPP. I've found Jitsi to be more feature-rich out of the box, but still, network effect is strong. The fact that Signal Desktop is on Google Chrome Webstore which is blocked doesn't help.\n\nSignal is good, very good, but it relies on GCM (Google Cloud Messaging network) for push delivery, which is mostly blocked in China, although you do receive messages via Signal, you don't usually receive the new message notifications, and that goes for any messaging app that relies on GCM, such as Surepsot.\n\nWhatsapp at the least use their own push network, as far as I can tell, my push notifications have never failed while in China. You don't have to get family to migrate, just use whatsapp as an alternative for more private stuff if you need to along side wechat, you can download the APK directly and sideload it onto an Android device, whatsapp will then update itself when needed.\n\nYou can contact me on zeromail at chinabiz, or on bitmessage at BM-NBEzNpescY4BCsqpB9T8E8xsVLiw6zDq",
+				"added": 1468217853
+			},
+			{
+				"comment_id": 30,
+				"body": "> [antifa](#comment_3_18rFd7W9y5QGQEVXaCoJV7jyt7D8aN156h): F-Droid has a libre version with all the crap removed\n\nSurespot, yes, but you don't receive new message notifications because they've removed the GCM components. \nI don't think Signal is available on f-droid.\nConversations is available on f-droid.",
+				"added": 1468276260
+			},
+			{
+				"comment_id": 33,
+				"body": "> [xivap](#comment_2_1EtRNxxZF7PdRNU5ka1yiAbAL9mbzKWnaE): This probably wouldn't sound appealing to the type of users who use 0net, but you might use the open-source replacement for the proprietary google framework microG. You can use apps which rely on the Play Services and GCM with slightly more privacy (I'm not implying it's 100% private, but it sure as hell is better privacy-wise). \n> Or you could just avoid using Google services at all, but then, you're severely limiting your phone's capabilities.\n\nExactly, I think the individual has to decide where they sit, all or nothing, or in the middle.\nIt's a shame that OpenWhisper systems has completely blocked installation of Signal without the GCM components, I tried it using the APK share app from f-droid, and on installation it complains that Google Play isn't installed and the installer quits the process and you're left with nothing.\n\nAs for microG, I'll look into that, I'd be interested in an alternative myself.",
+				"added": 1468319119
+			}
+		],
+		"11_1CMjV2r4EBpFt8VCcWWZKDysZXPcPExRNN": [
+			{
+				"comment_id": 26,
+				"body": "The connection to my peer uses: TLSv1.2: DHE-RSA-AES256-GCM-SHA384\nthe \"E\" in DHE means ephemeral (forward secrecy) which is pretty secure.\nand authentication with PGP keys.\nData such as messages and settings I think are encrypted locally too",
+				"added": 1468242454
+			},
+			{
+				"comment_id": 27,
+				"body": "> [neonet](#comment_27_15ATNsS6aHGvBg5xoMP94sXpNaLX4fSHjN): Where can I find this info? On the http://127.0.0.1:43110/Stats page it only shows Crypt: ['tls-rsa'] for me\n\nVery sorry, I was referring to retroshare..\nBut the stats page for me shows: ECDHE-RSA-AES128-GCM-SHA256 (also ephemeral)",
+				"added": 1468275392
+			},
+			{
+				"comment_id": 28,
+				"body": "> [testingzeronet12](#comment_52_1CMjV2r4EBpFt8VCcWWZKDysZXPcPExRNN): So is this like OTR? It would be great if Retroshare used OMEMO encryption as that is meant to be the new gold standard for forward-secrecy encryption, plus also comes with an ability to encrypt group chat, file-sharing and working over Tor.\n> Having all that in one little package combined in with Retroshare's serverless P2P swarm which eliminates metadata, and it seems like it can be made into a gold standard group collaborative technology.\n\nXMPP and other instant messenger services use a central server to communicate, the connection to that server likely uses TLS which is encrypted and in most cases nowadays uses forward secrecy.\n\nBut, the server administrator and company still have access to plaintext data that is stored on the server, or the server logs if enabled, OTR and OMEMO were solutions to encrypt end to end to stop the administrator/company having access to these communications and/or being able to hand them over to a third party.\n\nRetroshare enables a direct peer to peer, or as the retroshare devs like to say friend to friend connection, there is no central server, therefore removing the need for OTR/OMEMO, in this case TLS with forward secrecy serves this need perfectly. Retroshare is end to end encrypted",
+				"added": 1468276009
+			},
+			{
+				"comment_id": 29,
+				"body": "> [antifa](#comment_2_18rFd7W9y5QGQEVXaCoJV7jyt7D8aN156h): you should never use telegram at all\n\nI agree with antifa on this one, never use Telegram, ever.",
+				"added": 1468276176
+			},
+			{
+				"comment_id": 31,
+				"body": "> [neonet](#comment_28_15ATNsS6aHGvBg5xoMP94sXpNaLX4fSHjN): Did you change the defaults for TLS encryption ?\n\nI haven't changed anything on zeronet or retroshare beyond the standard install. I'm using Antergos OS, I don't know if it's different between systems.",
+				"added": 1468276394
+			},
+			{
+				"comment_id": 32,
+				"body": "> [neonet](#comment_29_15ATNsS6aHGvBg5xoMP94sXpNaLX4fSHjN): OK, thanks. Do you run Tor?\n\nI do use Tor, but in China it can be a little difficult at times because the Great-firewall actively blocks nodes in real time, I have the best success using the Azure and Amazon cloud settings.",
+				"added": 1468276587
+			}
+		],
+		"1_1DWrKbEomgBLHjczm1HkP556Vg68ewDmyd": [
+			{
+				"comment_id": 34,
+				"body": "> [neonet](#comment_3_15ATNsS6aHGvBg5xoMP94sXpNaLX4fSHjN): Pretty interesting, but not practical I think.\n\nIt's fun to play with and adds a new dynamic to encryption ;-)",
+				"added": 1468363448
+			},
+			{
+				"comment_id": 35,
+				"body": "> [haskell](#comment_10_1KA9sLxVY9KBmdEV73UqXXQhDe4ZS8k3LY): would be cool if you also wrote an OTP cracker\n\nIf used correctly, would be impossible to crack, but as neonet said, in many cases impractical, but not all cases :-D",
+				"added": 1468389797
+			}
+		],
+		"2_1LfQ8dwqkqkGQNCg1kBevHPxjvTRJTQYBz": [
+			{
+				"comment_id": 36,
+				"body": "I'm living in China and yeah, since Mr Xi came to power they've gone above and beyond with censorship.\nFor me, zeronet has been working flawlessly despite various times of the year when censorship has increased such as June 4th time and so on.\nPeople here want a way to vent, or express opinions openly without the fear of being shutdown, censored, or even fined and/or put in prison.",
+				"added": 1468553671
+			},
+			{
+				"comment_id": 37,
+				"body": "> [zernetuser](#comment_2_1CDHP6bHeYDxZEK3n4Me7pbT8rwYTH7q7K): We the Chinese people are the largest user group of anti-censorship software. Why do you ignore us?\n\nMaybe because most people can't write or read Chinese?",
+				"added": 1468560812
+			}
+		],
+		"24_1CMYxdit4qq9QGk9DYRu2ruRPd2YDGckH8": [
+			{
+				"comment_id": 38,
+				"body": "We have more information, but we also have more censorship and disinformation, and manipulation by the media and government, that's why decentralised networks like this are becoming popular.",
+				"added": 1468628736
+			}
+		],
+		"4_1LfQ8dwqkqkGQNCg1kBevHPxjvTRJTQYBz": [
+			{
+				"comment_id": 39,
+				"body": "doesn't seem accessible..",
+				"added": 1468762156
+			}
+		],
+		"6820_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG": [
+			{
+				"comment_id": 40,
+				"body": "lol, lifelock haha.\nThat's the one where the CEO put his social security number on the advertisements and ended up being the victim of fraud like a dozen times because of it.\n\nLifelock is a fraud, and probably this article too",
+				"added": 1468822611
+			}
+		]
+	},
+	"comment_vote": {
+		"18_15ATNsS6aHGvBg5xoMP94sXpNaLX4fSHjN": 1,
+		"25_15ATNsS6aHGvBg5xoMP94sXpNaLX4fSHjN": 1,
+		"1_12sgExvJYNdTWKUEvQTN14fPQnGUvSzsSn": 1,
+		"11_1KA9sLxVY9KBmdEV73UqXXQhDe4ZS8k3LY": 1,
+		"1_1Bs3oRKhWkqBLhevc8bn3dddaDeKLWWS2D": 1,
+		"17_13hcYDp4XW3GQo4LMtmPf8qUZLZcxFSmVw": 1
+	}
+}

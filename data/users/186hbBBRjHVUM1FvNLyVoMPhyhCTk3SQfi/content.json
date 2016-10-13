@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "Gw62Di1V4l7fNeq97v8JedBxgRjUwgT+z/3k8Gg/wylChoz7x/1FglrTazPKeSSOu4/K5nkUPoAzoBMDaO76e4M=",
+ "cert_user_id": "darktwistedmind@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "92b35aa481eafa82f4def290712cd4febda7f3dc878286398e4ff08f607e8f98",
+   "size": 256
+  }
+ },
+ "inner_path": "data/users/186hbBBRjHVUM1FvNLyVoMPhyhCTk3SQfi/content.json",
+ "modified": 1458353496.036,
+ "signs": {
+  "186hbBBRjHVUM1FvNLyVoMPhyhCTk3SQfi": "HL4z5QgS99vlSa2nqSOlT+lOVeIwaYcVeSZJtHS4CfRAQyt9eBkQbmzQw2O656D2DkzjfO0XdNTanAYkar0fL2k="
+ }
+}

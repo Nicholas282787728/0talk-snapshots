@@ -1,0 +1,70 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {
+		"1_1Gi8nZ1ameytALsu5HeTbr2dXKEL3r2iwD": 1,
+		"3_1MUqdrFhphoWYBHRgnKFnVR5DrsQ1Lx35V": 1,
+		"1_1NyFX6DUcyMs3S76Vz8X7ssDLC4uCCA1YM": 1,
+		"3_168qV1Xxp2EyszrzdECLUwXrn9wGYjDdar": 1,
+		"1_1N5Rs6CHsGPdDB1y3JqjYm9SLSWUTkjwEF": 1
+	},
+	"next_comment_id": 9,
+	"comment": {
+		"1242_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG": [
+			{
+				"comment_id": 1,
+				"body": "yeah, fake password for £2,000. Good luck with that :D",
+				"added": 1441981604
+			}
+		],
+		"2_14yb6qdkbYmhqt6rVxUqXo65s4i63BffAr": [
+			{
+				"comment_id": 2,
+				"body": "> [nofish](#comment_62_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): Big media file hosting not solved yet, but it will be. :)\n> Currently you can use WebTorrent to embed media files from torrent network.\n\nCould you point out how will big files be hosted?",
+				"added": 1442063445
+			},
+			{
+				"comment_id": 4,
+				"body": "> [nofish](#comment_64_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): My idea: Site would able to define optional files which is not downloaded automatically. These files would end in a cache folder which has user-defined maxmum size, if this limit reached the best seeded file would be deleted automatically.\n\nOK, this is going to work for huge static sites, but not sure about sites with users-generated content:\n - If the site defines the optional files, the users will not be able to upload stuff - am I correct?\n - Things that are downloaded are not always worthy to be stored. My understanding is that seeders should be able to decide whether to keep something or delete it. I.e. instead of \"Like\" button there will be \"Seed\" button :)\n\n",
+				"added": 1442073404
+			},
+			{
+				"comment_id": 5,
+				"body": "> [nofish](#comment_65_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): It would be possible to include optional files in user's content.json files, but the uploaded files this way would not be auto-downloaded by everyone only if they request it (eg. viewing the image from browser).\n\nMmm not sure if I understand correctly: what is the difference between optional files defined by site owner and optional files by site users? They are both downloaded only when requested, right?\n\n> The initial distribution could be problematic this way (after the upload you have to wait until some ppl want to see it), but to avoid this there could be \"super peers\" on high speed connection who is automatically downloads every new file and keeps it until the distribution is guaranteed.\n> My other idea to solve the initial seed problem: you would be able to friend or subscribe users and if he/she uploads a new file your client automatically downloads it and helping the distribution this way.\n\nI wouldn't worry that much about initial seeding. The creator of content will have to seed his/her work if he/she wants the content to reach the public. Seems natural.\n\n",
+				"added": 1442096411
+			},
+			{
+				"comment_id": 6,
+				"body": "No, actually there are use-cases when initial seed will be a problem. For example when sharing data only with friends ( like in my very raw idea for social network in ZeroNet -> http://localhost:43110/1DTWwMfKA1qYNdPM9nbnY6Eu7MfVorHDHA/?Post:3:Thinking+about+a+face+book+in+ZeroNet )\n\nYou idea for subscribers who automatically redistribute the files is great!",
+				"added": 1442096847
+			}
+		],
+		"3_168qV1Xxp2EyszrzdECLUwXrn9wGYjDdar": [
+			{
+				"comment_id": 3,
+				"body": "my tech blog with some brainstorming about ZeroNet: [/1DTWwMfKA1qYNdPM9nbnY6Eu7MfVorHDHA](/1DTWwMfKA1qYNdPM9nbnY6Eu7MfVorHDHA)",
+				"added": 1442066121
+			},
+			{
+				"comment_id": 7,
+				"body": "> [incivist](#comment_2_1KKNe3dZCgnUHevwK28FerqHYEn96gWcEE): http://127.0.0.1:43310/incivist.bit\n> Many would call me an asshole, but really, I just write my opinions, uncensored. If you are a pussy, don't visit.\n\n~~Now I realize the host and port part may defer from user to user, so when creating links to ZeroNet sites better use only the path~~ - [/incivist.bit](/incivist.bit) (well, you have to use the markdown to make it real link)\n\nEdit: no, use http://127.0.0.1:43110 - see above",
+				"added": 1442586222
+			},
+			{
+				"comment_id": 8,
+				"body": "> [nofish](#comment_72_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): It's better to use links with http://127.0.0.1:43110, its automatically converted to the right host:port. The /[siteaddress] does not works if you are using the chrome extension that map domains to real http://[sitedomain].\n\nWorks like charm indeed. My bad\n",
+				"added": 1442676196
+			}
+		]
+	},
+	"comment_vote": {
+		"2_1D2mVUwho6go5TnzQuqLGBA8T1GzC1y2L4": 1,
+		"8_1HtGfHk2MuqcB5nYXZ6b2NajXJLoxfq7XS": 1,
+		"55_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"62_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"65_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"68_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"69_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"131_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1
+	}
+}

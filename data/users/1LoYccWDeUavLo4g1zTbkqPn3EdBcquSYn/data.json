@@ -1,0 +1,15 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "zeronet behind apache proxy",
+			"body": "Hi all,\n\nDo you know whether it's possible to configure zeronet behind an apache configured as proxy (on a remote system) ?\n\nI still get an error:\n\"Connection with UiServer Websocket was lost. Reconnecting...\"\n\nThank you in advance.\nBR",
+			"added": 1457451451
+		}
+	],
+	"topic_vote": {},
+	"next_comment_id": 1,
+	"comment": {},
+	"comment_vote": {}
+}

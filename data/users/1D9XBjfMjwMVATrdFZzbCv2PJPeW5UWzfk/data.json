@@ -1,0 +1,21 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 3,
+	"comment": {
+		"1_1MDFGD6PJsZLnTg8Y9BcZKTPfKHMRrTL83": [
+			{
+				"comment_id": 1,
+				"body": "不太会用",
+				"added": 1460946505
+			},
+			{
+				"comment_id": 2,
+				"body": "数据保存在哪？",
+				"added": 1460946682
+			}
+		]
+	},
+	"comment_vote": {}
+}

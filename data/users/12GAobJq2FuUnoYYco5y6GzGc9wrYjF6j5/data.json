@@ -1,0 +1,35 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {
+		"3_1QBLGLcgKfcpfLmiDYuDzUKVXFfmTAew55": 1
+	},
+	"next_comment_id": 4,
+	"comment": {
+		"4_1Ci5Y4TxZwY1SQhvQR7Ttbdyyai4WRV5TU": [
+			{
+				"comment_id": 1,
+				"body": "Currently an Arch user. Never used Gentoo to comment on this.",
+				"added": 1468159920
+			}
+		],
+		"1_16SHqxwSkfr3HFnhAq4AxsZ9TaoLzpPmGu": [
+			{
+				"comment_id": 2,
+				"body": "> [effekt](#comment_26_1PX7VW6xfccTT2tNUTwrYKJpGsGfrnoJfP): My issue with anarchism is that it wants to jump straight to a stateless society. A state is a means of enforcing one class's will onto other classes. Anarchists aren't taking the state for the working class to enforce its will on the other classes, the working class's will to do away with class antagonisms. I essentially went from Anarchism to Communism in my thinking because it is just too easy for the capitalists to regroup and seize power again.\n\nExactly! In fact the objective of both Anarchism and Communism are same. A Stateless, classless society and people free from exploitation. The transformation theories are the one that matters. Capitalism and State, both are well organized. A look into history shows us that for all the transformation of societies from one mode to another mode, the alternative mode should be built into the existing model. Capitalism utilized feudalism's tools, structure and policies to build itself.\n\nIt did not happen like, hey people come take a look here, this is capitalism, we built it. Now let's go there and follow it. No, it did not happen that way.\n\nAnd btw, Hello Comrades!",
+				"added": 1468160764
+			}
+		],
+		"3_1QBLGLcgKfcpfLmiDYuDzUKVXFfmTAew55": [
+			{
+				"comment_id": 3,
+				"body": "Download and read the Telekommunist Manifesto, if you have not read it yet!\nhttp://telekommunisten.net/the-telekommunist-manifesto/",
+				"added": 1468161097
+			}
+		]
+	},
+	"comment_vote": {
+		"118_1KTjPe9MxoYkcXj78GuZgCcj3R3f3Twh7r": 1,
+		"26_1PX7VW6xfccTT2tNUTwrYKJpGsGfrnoJfP": 1
+	}
+}

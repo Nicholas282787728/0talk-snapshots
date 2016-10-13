@@ -1,0 +1,25 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {
+		"1_1BLSfwetc4h7aeMefKcM4ahu8mK1LVNiqF": 1
+	},
+	"next_comment_id": 3,
+	"comment": {
+		"1_1BLSfwetc4h7aeMefKcM4ahu8mK1LVNiqF": [
+			{
+				"comment_id": 1,
+				"body": "Nice!",
+				"added": 1461203738
+			}
+		],
+		"43_1GtJqyJRsuZhmxVtw5USgvqGbUmVH7EmBD": [
+			{
+				"comment_id": 2,
+				"body": "> [idlesong](#comment_8_1L4fuhUB75eAdVbDY9AJ4z2i2dwMho7MV8): Zeronet is a p2p network, I think it's different than normal hidden circumvention servers. In other words, Zeronet has a lot of hidden circumvention servers. Block all the Zeronet servers will be a big cost for GFW.\n\nyou are right!",
+				"added": 1461206732
+			}
+		]
+	},
+	"comment_vote": {}
+}

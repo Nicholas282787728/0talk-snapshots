@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HN2MrX+cQefQghbUYoFx5xCKh4m7hUHI3C7blG/35wcPR5NVLg/2/0uiTG4lA1YXsFqEnr81VUzGeeiqXNCYAgY=",
+ "cert_user_id": "opetantont@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "d98c2b5a81f88d05361a2f929970e7a99dba666033e8448cb6f8bf6c8f6116b3",
+   "size": 289
+  }
+ },
+ "inner_path": "data/users/1LeTb71VL1YTG4h69qTCbyapHigzx3oM8e/content.json",
+ "modified": 1457260281.464648,
+ "signs": {
+  "1LeTb71VL1YTG4h69qTCbyapHigzx3oM8e": "G/rhqYfREPdR3RnWcNMBIINs7K+KND9zRQMzm0OWHLFuZQfBpoVZ0HEmwkqRFnyTpR5hTilJ3nsPYs+EdhB2eqk="
+ }
+}

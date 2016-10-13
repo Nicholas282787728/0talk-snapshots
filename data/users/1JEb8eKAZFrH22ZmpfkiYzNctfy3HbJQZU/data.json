@@ -1,0 +1,40 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 5,
+	"comment": {
+		"2_1KMxiVcvnJ2vFFGWNYhujgFNWYvNrxdVmo": [
+			{
+				"comment_id": 1,
+				"body": "Someone should write popcorn-time as a web application and host it here (or use the same premise for a new service).",
+				"added": 1457151984
+			}
+		],
+		"1_1JxycrsLzVrPA247VxtPuwfdQBA6BJrSQ3": [
+			{
+				"comment_id": 2,
+				"body": "If tech continues in the anonymous and decentralization direction for the masses then the future looks brighter. There will be a war for adoption though, the US media has already done their best to paint BTC as a \"currency for criminals and terrorists\".",
+				"added": 1457154300
+			}
+		],
+		"1_18jipjDsfAxAuq4ixbi2w24xJrYVfTYFPn": [
+			{
+				"comment_id": 3,
+				"body": "127.0.0.1 and some pine trees next door",
+				"added": 1459130505
+			}
+		],
+		"4_18sw1reMFB1fpxc4vjfjoCrLaFs8UbMeQH": [
+			{
+				"comment_id": 4,
+				"body": "> [thisguy1337](#comment_27_16bxMyoL49mWYhcZKBYVBT5zEFW9SQpiao): Why not donate it to Zeronet...http://zeronet.readthedocs.org/en/latest/help_zeronet/donate/\n\nI'm not needy enough to ask for $10, and I am very needy. thisguy gets it.",
+				"added": 1459130740
+			}
+		]
+	},
+	"comment_vote": {
+		"18_17tRugXJrS18zKWVEYqZCPisSTk43hqUzx": 1,
+		"27_16bxMyoL49mWYhcZKBYVBT5zEFW9SQpiao": 1
+	}
+}

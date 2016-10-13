@@ -1,0 +1,15 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "Problems writing to ZeroBoard",
+			"body": "Hi, after having problems getting an username on ZeroID (I had to use BitMessage, because of \"undefined error\"), I can't post to ZeroBoard \"undefined error\". Does anybody know how I can solve this error ?\n\nUsing Tor always, Port closed.\n\nThank you !",
+			"added": 1455034259
+		}
+	],
+	"topic_vote": {},
+	"next_comment_id": 1,
+	"comment": {},
+	"comment_vote": {}
+}

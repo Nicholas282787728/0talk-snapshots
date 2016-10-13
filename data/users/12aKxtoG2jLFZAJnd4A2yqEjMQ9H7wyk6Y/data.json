@@ -1,0 +1,27 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 3,
+	"comment": {
+		"2_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": [
+			{
+				"comment_id": 1,
+				"body": "hows the weather guys",
+				"added": 1456900829
+			}
+		],
+		"1_16k9pNCerEdsZvWU82HMesThKFo9fofRfz": [
+			{
+				"comment_id": 2,
+				"body": "He's the guy who killed Hitler. Hitler's awesome!",
+				"added": 1456923420
+			}
+		]
+	},
+	"comment_vote": {
+		"96_168qV1Xxp2EyszrzdECLUwXrn9wGYjDdar": 1,
+		"50_1ADB7TdX2fVbTsWBoMe9yBTmVXTbb33b4R": 1,
+		"424_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1
+	}
+}

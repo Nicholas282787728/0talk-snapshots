@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "G4DW3eLW6ZPdLKQ9ew9oPXaQNNPILmBjAK+ggeC5yWIr1aYOH/Bsl7E0fB8tyNpvY8y3EBK6QMZFXkSsx+62pxI=",
+ "cert_user_id": "skehmatics@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "2b21cc4d2b9ecc073dcbfb4c46c491c5c280aca9cb3486be636fdab53da874bb",
+   "size": 246
+  }
+ },
+ "inner_path": "data/users/1MQGiSmsioVacTwRW13cQjSsnHnzbCC6wF/content.json",
+ "modified": 1470898546.071837,
+ "signs": {
+  "1MQGiSmsioVacTwRW13cQjSsnHnzbCC6wF": "HJId5MEIyGtbv+ZaHbWXOPd02ZMo4SRB4iAHJeu8AoWjn+eExIUJpovWt4HdIfXUFC1rTu2Sot73IMg79Y5+vtk="
+ }
+}

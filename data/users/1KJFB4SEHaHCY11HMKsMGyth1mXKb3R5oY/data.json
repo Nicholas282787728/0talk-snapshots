@@ -1,0 +1,56 @@
+{
+	"next_topic_id": 3,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "VPN help",
+			"body": "I have a vpn subscription that supports p2p traffic and my zeronet is hosted on a remote machine. How can I make the VPN and zeronet work together and still be able to acces zeronet on lan.",
+			"added": 1457027429
+		},
+		{
+			"topic_id": 2,
+			"title": "Search engine on zeronet here!",
+			"body": "http://127.0.0.1:43110/zerosearch.bit",
+			"added": 1457034013
+		}
+	],
+	"topic_vote": {
+		"1_1CcJZEvu57ZqSDjWDEJCAGEWzHQ7uXKKNR": 1,
+		"1_12fNTMaQH1mN5bPehdvkNgTAVxzQXop87e": 1
+	},
+	"next_comment_id": 5,
+	"comment": {
+		"1_1CcJZEvu57ZqSDjWDEJCAGEWzHQ7uXKKNR": [
+			{
+				"comment_id": 1,
+				"body": "But as you see I host zeronet on a remote machine so I acces the lan so it would be very helpful if the browser changed the addres automaticly for me instead of 127.0.0.1 to 192.168.1.101 so i won't have to deal with that. Plus the browser should have some integration to the websites to the thingie in the upright dissapears and get's into the browsers ui so it will integrate with zeronet. Plus to support directly the address and to have some default websites on it and also make the part with website of the homepage integrated into the browser.",
+				"added": 1457026843
+			}
+		],
+		"2_15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ": [
+			{
+				"comment_id": 2,
+				"body": "cactusvpn.com",
+				"added": 1457028540
+			}
+		],
+		"1_1HcCbQWH3xuquT5Z2S4nTk7fqAyoM2AWpi": [
+			{
+				"comment_id": 3,
+				"body": "U are extremely stupid. U only modified the proxies files. It's only the proxies fault. Anyways...",
+				"added": 1457033530
+			},
+			{
+				"comment_id": 4,
+				"body": "> [ekaterina](#comment_71_1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD): Yes but you do realize that you basically went into an IRC chat, told people \"I'm a great 1337 hacker\" and someone told you \"Oh yeah, show me, hack me, my IP is 127.0.0.1\" and after a few hours you came back and said \"Shit, I just formatted my own harddrive!\" :P Like crypton said you changed the local files of the proxy, you did not get another peer to accept the changes.\n> Sorry, that is of course a bit exaggerated, no offense meant, just joking around :) It is good that you found this problem so whoever owns that proxy can fix it. It's just not a problem for anyone who actually uses ZeroNet.\n> And really calling this hacking is like calling microwaving food cooking.\n\nYou're so right. HEHE!",
+				"added": 1457034506
+			}
+		]
+	},
+	"comment_vote": {
+		"69_1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD": 1,
+		"3_1KJFB4SEHaHCY11HMKsMGyth1mXKb3R5oY": 1,
+		"70_1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD": 1,
+		"71_1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD": 1
+	}
+}

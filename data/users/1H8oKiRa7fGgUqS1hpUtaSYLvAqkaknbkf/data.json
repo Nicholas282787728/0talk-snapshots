@@ -1,0 +1,1138 @@
+{
+	"next_topic_id": 10,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "Can I limit the amount of connections in ZeroNet ?",
+			"body": "... via zeronet itself ? \n\ne.g. as shown in http://127.0.0.1:43110/Stats\n\"Connections (XX, total made: YYY):\"\n\nwhere XX has a limit",
+			"added": 1457026165
+		},
+		{
+			"topic_id": 2,
+			"title": "What people write/think about ZeroNet in their blogs",
+			"body": "There are now 9 ZeroNet blogs (1) listed with people's impressions/ideas about ZN. \nI hope it inspires some of you to also start a blog of your own. \n\n(1) http://127.0.0.1:43110/ZeroBlogs.bit",
+			"added": 1457192939
+		},
+		{
+			"topic_id": 3,
+			"title": "Do you have media news (ZeroNet or otherwise)?",
+			"body": "Feel free to share them at (1).\nHere's an example (2) how a \"daily summary\" looks like.\n\nThanks.\n\n(1) http://127.0.0.1:43110/ZeroMedia.bit\n(2) http://127.0.0.1:43110/zeroblog.bit/?Post:9:ZeroMedia+Daily+%282016+March+7%29",
+			"added": 1457455647
+		},
+		{
+			"topic_id": 4,
+			"title": "yourID@ZeroVerse.bit (make yourself another ZeroID)",
+			"body": "What does this mean?\n** **\nI have now 2 IDs (see [drop down box](http://127.0.0.1:43110/zeroblog.bit/img/2016-03-11_zeroverse00.png)):\n `erkan@zeroid.bit` AND\n `erkan@ZeroVerse.bit`\n\n** **\nSee the picture tutorial here (1).\n ** **\n(1) http://127.0.0.1:43110/zeroblog.bit/?Post:15:get+yourself+an+ID+@+ZeroVerse.bit",
+			"added": 1457664170
+		},
+		{
+			"topic_id": 5,
+			"title": "I am lost in the loop, (a)mazing",
+			"body": "hehe",
+			"added": 1458207040,
+			"parent_topic_uri": "6_1PVcdu7USZH2kHMETbqDYLPjJZKCDWM52k"
+		},
+		{
+			"topic_id": 6,
+			"title": "Help testdrive MAIL@zeroverse please !",
+			"body": "Today [mail@zeroverse](/mail.zeroverse.bit) was started.\n\n[Here](/zeroblog.bit/?Post:52:explore+MAIL.zeroverse.bit) are some pictures and feature descriptions.\n\nI'd appreciate when your try it out and provide feedback.\n\nThank you!",
+			"added": 1459259320
+		},
+		{
+			"topic_id": 7,
+			"title": "Do you know articles, news about ZeroNet?",
+			"body": "Would be great if you can share, so we can add them at:\n[ZeroPress](/ZeroPress.bit)",
+			"added": 1459533535
+		},
+		{
+			"topic_id": 8,
+			"title": "Our security in ZeroNet!",
+			"body": "Hi,\n\nplease check [ZeroSecurity](/zerosecurity.bit) and suggest more/other issues/fixes to the list.\n\nIt includes a list of issues in general for ZeroNet, as well as for specific ZeroNet sites/apps.\n\nThanks!",
+			"added": 1459898426
+		},
+		{
+			"topic_id": 9,
+			"title": "ZeroNet apps/sites that use encryption",
+			"body": "Do you know ZeroNet apps/sites that encrypt data?\n\nLet's increase the list: [ZeroEncryption](/zeroencryption.bit)",
+			"added": 1461275217
+		}
+	],
+	"topic_vote": {
+		"6_1H8oKiRa7fGgUqS1hpUtaSYLvAqkaknbkf": 1,
+		"8_1H8oKiRa7fGgUqS1hpUtaSYLvAqkaknbkf": 1,
+		"9_1H8oKiRa7fGgUqS1hpUtaSYLvAqkaknbkf": 1,
+		"25_1JHQA9oFkFpFFRiscyT4N71AKLWg46pQ92": 1
+	},
+	"next_comment_id": 166,
+	"comment": {
+		"1_1A6hcWNpQ9SSLoTTpuT19VsVQ6WCVRkyen": [
+			{
+				"comment_id": 1,
+				"body": "24 mins passed, no reply from echobot\n\nI am also a new user\nFeel free to send me a test message so I see it works, thx: erkan@zeroid.bit",
+				"added": 1457019798
+			},
+			{
+				"comment_id": 2,
+				"body": "Thx for the info.\n\nWaiting for a fix then.\nAs feedback: ZeroMail was what I wanted to try first as new user from ZeroNet\n\n> [hello](#comment_2_15YUzYgogtiHYqXP5HXtdLS2dLZuxnvuRQ): It does not work currently for new users: https://github.com/HelloZeroNet/ZeroMail/issues/3",
+				"added": 1457025744
+			},
+			{
+				"comment_id": 4,
+				"body": "Interestingly, now I got mails and also can send",
+				"added": 1457035778
+			}
+		],
+		"1_154jAWx5PDRmvF4txGHo4Edw1BpduhDyvw": [
+			{
+				"comment_id": 3,
+				"body": "here are some mentioned: http://127.0.0.1:43110/Talk.ZeroNetwork.bit/?Topic:2_15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ/ZeroNet+proxy",
+				"added": 1457033807
+			}
+		],
+		"2_1FKv8ekYrPvVxZASX4Rk6EYQYpASnHaiXn": [
+			{
+				"comment_id": 5,
+				"body": "It seems it is not allowed when you use a proxy. What happens when you try this on your local zeronet instance?",
+				"added": 1457106219
+			}
+		],
+		"1_11pADbvn3XmFZ5sbM9ZANRb5Gv9igHLCF": [
+			{
+				"comment_id": 6,
+				"body": "tell us first, what you read already (which links), and where you have problems or need help getting zeronet going",
+				"added": 1457111486
+			}
+		],
+		"3_1EUyJtat7mbu5wMcR6nrJTPBBRons1mtMA": [
+			{
+				"comment_id": 7,
+				"body": "ZeroMail uses ECIES for secret exchange and AES256 for message encoding. More in the docs at zeronet.readthedocs.org",
+				"added": 1457136189
+			}
+		],
+		"2_15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ": [
+			{
+				"comment_id": 8,
+				"body": "Here (1) is a list for the proxies. If you know more, please share so it gets updates. (1) http://127.0.0.1:43110/ZeroProxies.bit",
+				"added": 1457188896
+			}
+		],
+		"1_1EiP55LCzwSpCgde2oQfnR52LunWcBDiB4": [
+			{
+				"comment_id": 9,
+				"body": "(Why) are these the only options?",
+				"added": 1457214757
+			}
+		],
+		"1_18SV5U2zbB3EjxYCBTQzwakTKRjf81AfPQ": [
+			{
+				"comment_id": 10,
+				"body": "Thank you, this is now also listed at http://127.0.0.1:43110/ZeroProxies.bit",
+				"added": 1457250723
+			}
+		],
+		"2_1Kg7CXZM5h3wTPENsTDwWUmRBf9VhYy2cW": [
+			{
+				"comment_id": 11,
+				"body": "Thank you for starting a blog, acehigh. \nIt's now included also in this list (1).\n\nKeep on blogging.\n\n(1) http://127.0.0.1:43110/ZeroBlogs.bit",
+				"added": 1457251576
+			}
+		],
+		"1_16KXPTbZn8PHFDcyeRaeQuKmNNFk55nrzP": [
+			{
+				"comment_id": 12,
+				"body": "Did you see \"Mirroring web sites\" yet ? http://127.0.0.1:43110/Talk.ZeroNetwork.bit/?Topic:3_1EMpuiFM1NLZmAVyoAWnwi8VwiZVV4dcnN/Mirroring+web+sites",
+				"added": 1457292935
+			}
+		],
+		"1_1CNiX9xPnDGd9wAVyFdmJAq6cz1gpRkcpn": [
+			{
+				"comment_id": 13,
+				"body": "as said in chat: I can see all those links above. I have also posted to this user what was mentione don github. I have suggested the user may go to an internet cafe or a friend to clarify if it works there (also not)",
+				"added": 1457357212
+			}
+		],
+		"1_1BE6FzLYWUhQWCnPNeedrDMQtsxidd2aqE": [
+			{
+				"comment_id": 14,
+				"body": "Selam! şu ekşi scripti nerde? bir bakim hele",
+				"added": 1457364323
+			},
+			{
+				"comment_id": 15,
+				"body": "tamam, anladim",
+				"added": 1457364604
+			}
+		],
+		"5_13vL6ARzDm7215jaRjFvAATfkxBriSnGmb": [
+			{
+				"comment_id": 16,
+				"body": "Hi @me2016, your chatroom is now also listed at: http://127.0.0.1:43110/zerochatrooms.bit",
+				"added": 1457365969
+			}
+		],
+		"1_1EqRTFLe3aeLBGPMMqW7r8mFxLXuEhsCMm": [
+			{
+				"comment_id": 17,
+				"body": "+1 \"A microblogging app\"",
+				"added": 1457366586
+			},
+			{
+				"comment_id": 18,
+				"body": "it's delayed, see my comment from 2 days ago here: http://127.0.0.1:43110/ZeroBlog.bit/?Post:2:Will+ZeroNet+make+me+leave+twister+",
+				"added": 1457368575
+			}
+		],
+		"1_1FoCQCBaoX3Fi85goewPLRLr1mxFqmCKNU": [
+			{
+				"comment_id": 19,
+				"body": "Hallo from Germany :-)",
+				"added": 1457374011
+			},
+			{
+				"comment_id": 20,
+				"body": "Same. How did you find us?",
+				"added": 1457374502
+			},
+			{
+				"comment_id": 21,
+				"body": "it is. good that you are here. the longer you stay away from facebook the better for you",
+				"added": 1457374875
+			}
+		],
+		"2_1FoCQCBaoX3Fi85goewPLRLr1mxFqmCKNU": [
+			{
+				"comment_id": 22,
+				"body": "did you read the FAQ yet?\n\nhttp://zeronet.readthedocs.org/en/latest/faq/#how-can-i-create-a-new-zeronet-site",
+				"added": 1457377364
+			}
+		],
+		"1_1PVcdu7USZH2kHMETbqDYLPjJZKCDWM52k": [
+			{
+				"comment_id": 23,
+				"body": "I'd assume that ZN is resistant to internet \"hickups\". \nDid you try already what happens when you stop tor - let's say for 2 mins - while running ZN ? \n(restarting Tor won't take you 2 mins)",
+				"added": 1457382030
+			}
+		],
+		"1_1DXgw1bgGQFU9kcLS2ADfRwr85rBs663We": [
+			{
+				"comment_id": 24,
+				"body": "You can NOT currently send a mail from ZeroMail to gmail. There would be some kind of gateway needed to do that. \n\nFeel free to check out: http://127.0.0.1:43110/Mail.ZeroNetwork.bit",
+				"added": 1457479494
+			}
+		],
+		"6_1MEWJRMLgvofqG9Mbsb2Rc4hFFyv7HeRx7": [
+			{
+				"comment_id": 25,
+				"body": "I also had a \"invalid private key\" here (1). Who knows, perhaps it's some quota limit? (1) https://github.com/HelloZeroNet/ZeroMail/issues/6",
+				"added": 1457531908
+			}
+		],
+		"8_17fgJ3tZjhM7HCkTkd5TWf2BLLWmhRKcXB": [
+			{
+				"comment_id": 26,
+				"body": "Sounds like you want to do a new issue at (1). \n\nI prefer there because here on ZeroTalk it will just get lost in the \"stream\" over time. \nI mean, we don't have even search (2) yet. \n\n(1) https://github.com/HelloZeroNet/ZeroTalk/issues (2) https://github.com/HelloZeroNet/ZeroTalk/issues/10",
+				"added": 1457532828
+			}
+		],
+		"1_1PrEU3jo5aME6pebitM8DJ3Pm4KnsmzfpT": [
+			{
+				"comment_id": 27,
+				"body": "hi @kira, how is it going and how did you find us?",
+				"added": 1457540804
+			}
+		],
+		"3_1GtJqyJRsuZhmxVtw5USgvqGbUmVH7EmBD": [
+			{
+				"comment_id": 28,
+				"body": "Please have a look at (1). There are listed the \"official\" channels, as well as \"community kind of ways\". (1) http://127.0.0.1:43110/zerosupport.bit",
+				"added": 1457599974
+			}
+		],
+		"2_1LJMypJ67iEBwah82xwVVdB8SGZ1mwqgHQ": [
+			{
+				"comment_id": 29,
+				"body": "Do you have python (version2) installed? \nTry the command to see: \"which python\".\n\nIf you see a line returned, \nstart this command: \n\"python zeronet.py siteCreate\"",
+				"added": 1457608392
+			},
+			{
+				"comment_id": 30,
+				"body": ">ImportError: No module named gevent\nyou didn't install the dependencies needed\n\nread the github page how to do that, please",
+				"added": 1457609464
+			}
+		],
+		"2_1G1yCPeGqsu3Hv2w93MXyhW271WZUnBN4t": [
+			{
+				"comment_id": 31,
+				"body": "on which OS are you?\n\nin the simplest way, just copy that file elsewhere, so you can copy it back",
+				"added": 1457610857
+			},
+			{
+				"comment_id": 32,
+				"body": "I have no windows, but: \nthe data folder is in the folder where your zeronet.py is located",
+				"added": 1457611217
+			}
+		],
+		"1_145RMBphDHxfAeUP5YPjozVkSMSw1GppVA": [
+			{
+				"comment_id": 33,
+				"body": "Only the English wikipedia consists of ca. 49 GB database alone :-) \n\nIf you want to mirror only a few pages, you can do that with wget for example as static version page(s).\nSee the FAQ how to make a new page",
+				"added": 1457615963
+			}
+		],
+		"4_1H8oKiRa7fGgUqS1hpUtaSYLvAqkaknbkf": [
+			{
+				"comment_id": 34,
+				"body": "Just logged in at ZeroMail and got the \"Successful registration!\" mail.\n\nNow I am waiting for/if echobot replies to me",
+				"added": 1457666714
+			},
+			{
+				"comment_id": 35,
+				"body": "Well, I see no message in both accounts.\n\nI think it's better, to NOT USE IT with ZeroMail, until the admin looks at it.\nI don't want to break ZeroMail :-(\n\nBut the other sites, like the [chat rooms](/zerochatrooms.bit) work nicely.",
+				"added": 1457667225
+			},
+			{
+				"comment_id": 36,
+				"body": "Yeah, when I enter erkan@something.com in the To:-field it gets deleted. \n\nI assume \n1. @ZeroVerse.bit has to be added there also in data/ZeroMail_hash/data/users/content.json (currently only zeroid is in the \"cert_signers\")\n2. and then some new code(?) which allows email between different ID providers (from zeroid to zeroverse)",
+				"added": 1457667663
+			},
+			{
+				"comment_id": 37,
+				"body": "added now also a section \"II. site admins: how to enable ZeroVerse.bit for your site\"",
+				"added": 1457669522
+			},
+			{
+				"comment_id": 38,
+				"body": "bitmessage: you need it only once, for registering. After that, not anymore. \n\nFurther tests with @kaffie and @doublec (thx to both of you) showed: \nthat I as admin had to make changes on ZeroMedia.bit for them to edit with the new ID from ZeroVerse.bit\n(see section \"II. site admins: how to enable ZeroVerse.bit for your site\" in my blog)\n\nSo, you can only use it where the site admins enable also ZeroVerse as ID provider.\n\nBUT: to all of you, go ahead and test the new ID on the ZeroMedia.bit (where I as admin enabled access with the new ID)",
+				"added": 1457678147
+			},
+			{
+				"comment_id": 43,
+				"body": "We've optimized this more, and the tutorial has been detailed...\n\nIt's verified now that this new ID works with blogs and chats, see: http://127.0.0.1:43110/zeroblog.bit/?Post:19:sites+which+support:+ID+@+ZeroVerse.bit",
+				"added": 1457815560
+			}
+		],
+		"2_1LZbdpKVACfmxW5vffrcwAGugNwcWxuyKu": [
+			{
+				"comment_id": 39,
+				"body": "@einfachertest kannst du mal ein Bild posten, was du genau meinst? Wahrscheinlich eien Seite, wo die Aktivitaeten gelistet sind (Beitraege, Kommentare, ...), ein Bild hinzugefuegt werden kann und so etwas, ja?",
+				"added": 1457801934
+			},
+			{
+				"comment_id": 40,
+				"body": "@all he wants that users get a profile page where activities and such are listed (I assume), as example he says like on youtube",
+				"added": 1457802012
+			},
+			{
+				"comment_id": 41,
+				"body": "@einfachertest falls ja: im Moment gibt es so etwas nicht, aber man kann das manuell machen. Siehe zB meinen Blog (1). Da ist ein Bild und die Blogpostings koennte man einzeln auf einer Seite zusammenfassen. (1) http://127.0.0.1:43110/zeroblog.bit/",
+				"added": 1457802178
+			},
+			{
+				"comment_id": 49,
+				"body": "verstehe, ich habe hier mal einen Bug eingetragen: https://github.com/HelloZeroNet/ZeroTalk/issues/13",
+				"added": 1457898667
+			}
+		],
+		"1_1BBgFTTUGGerJGQZwPs9nG2ty3xtiWbUJh": [
+			{
+				"comment_id": 42,
+				"body": "what is munch?",
+				"added": 1457812702
+			},
+			{
+				"comment_id": 44,
+				"body": "We are bad, aren't we? :-(\n\n@pietroos Are you asking how many people like this project? \nIf so, you could e.g. check out at some places how large the activity is? e.g. check out: http://127.0.0.1:43110/ZeroSupport.bit",
+				"added": 1457815829
+			}
+		],
+		"1_1NbgdUUvruDbj7iiQYtZF7HdsYFH5vvpjm": [
+			{
+				"comment_id": 45,
+				"body": "you can go to (1) and verify that the IP listed there is different than your real IP. (1) http://127.0.0.1:43110/Stats",
+				"added": 1457859816
+			},
+			{
+				"comment_id": 46,
+				"body": "also: \n\nmake sure you read the appropriate section in the FAQ:\nHow to use ZeroNet in Tor browser?\nHow to use ZeroNet with Tor?\nHow to make ZeroNet work with Tor under Linux?\nhttp://zeronet.readthedocs.org/en/latest/faq/",
+				"added": 1457860223
+			}
+		],
+		"1_1PoJALTLYV3CvytpitHoXDsjEhs44bhBZU": [
+			{
+				"comment_id": 47,
+				"body": "I have now sent a Zmail 11 mins ago, and am still waiting. Should have been replied by now",
+				"added": 1457875687
+			},
+			{
+				"comment_id": 48,
+				"body": "sent now a 2nd msg to bot, and now I got my 1st and 2nd mail immediately",
+				"added": 1457879394
+			}
+		],
+		"1_1FGs1Gjnx5nQnfR8X1jXdS1fUyy46iWht4": [
+			{
+				"comment_id": 50,
+				"body": "Welcome to zeronet :-)",
+				"added": 1457946522
+			}
+		],
+		"1_1JgnSzfqoK7wmgWxZgpm89n9zS7J9YoUMt": [
+			{
+				"comment_id": 51,
+				"body": "welcome, @marcolo we see your testing",
+				"added": 1457954864
+			}
+		],
+		"5_1LRrd96P7FiTcsyNXVzPM5jtpQoH1B4gYf": [
+			{
+				"comment_id": 52,
+				"body": "can't connect also, page says:\n\n Connecting...\nPeers found: 2\nPeers found: 3\nPeers found: 8\ncontent.json download failed",
+				"added": 1457955623
+			},
+			{
+				"comment_id": 53,
+				"body": "now it worked for me",
+				"added": 1457955846
+			},
+			{
+				"comment_id": 54,
+				"body": "a question: http://127.0.0.1:43110/138R53t3ZW7KDfSfxVpWUsMXgwUnsDNXLP/?Page:erkan",
+				"added": 1457955861
+			},
+			{
+				"comment_id": 55,
+				"body": "Please, put all those suggestions below in a bug tracker, they won't be the only suggestions to come. Thanks",
+				"added": 1457961952
+			},
+			{
+				"comment_id": 56,
+				"body": "> RT @kaffie Huh. It'd be kind of silly to have a decentralized web where you're not allowed to copy things.\n\nYeah, if you make ZeroNet apps/sites, one should be (mentally) ready that they are copied. It's for the community.",
+				"added": 1457967010
+			},
+			{
+				"comment_id": 57,
+				"body": "@basxto CC: yeah, not giving a licence FORCES people to ask, because it's then under normal copyright. By giving a licence one explicitly helps people reusing it faster",
+				"added": 1457967277
+			},
+			{
+				"comment_id": 58,
+				"body": "@ekaterina of course, people must decide themselves. What I or others say is our opinion (only)",
+				"added": 1457969376
+			},
+			{
+				"comment_id": 82,
+				"body": "> @thisguy1337 ZeroGit, where?\n\nit's planned, see the road map [here](/Talk.ZeroNetwork.bit/?Topic:6_17n5jg4bBEoWodXDf8L4Y2u88ShagS272Y/Is+there+a+road+map+for+ZeroNet)",
+				"added": 1458677971
+			}
+		],
+		"1_1EhfaHKzaz88Gv65BhYSbwJqsUVnG2Y9aF": [
+			{
+				"comment_id": 59,
+				"body": "what exactly do you mean? detail more, please",
+				"added": 1457977755
+			}
+		],
+		"2_1MuqWEiJ8VCCZMHZ6hcJW35RMEgm7VVED5": [
+			{
+				"comment_id": 60,
+				"body": ".bit: go to zeroname (1) (1) http://127.0.0.1:43110/1Name2NXVi1RDPDgf5617UoW7xA6YrhM9F",
+				"added": 1458029073
+			}
+		],
+		"1_1BbnL8Wc4M5QgnVjqTwHbgPgj2PbJ1vtje": [
+			{
+				"comment_id": 61,
+				"body": "you can find search engines at http://127.0.0.1:43110/zerofind.bit",
+				"added": 1458030465
+			}
+		],
+		"1_1Hubnr4FtBAmKd8JXDnEn2Dy5eq4h19RGX": [
+			{
+				"comment_id": 62,
+				"body": "On which OS are you? The file users.json is in the directory data which is located where your zeronet.py is. One reason fro a backup: what happens if your HD gets damaged ?",
+				"added": 1458043867
+			}
+		],
+		"12_1PX7VW6xfccTT2tNUTwrYKJpGsGfrnoJfP": [
+			{
+				"comment_id": 63,
+				"body": "I have read now (1). Why were you asking? (1) https://en.wikipedia.org/wiki/The_Fourth_Political_Theory",
+				"added": 1458064015
+			}
+		],
+		"5_1NzjwWNcVjsX1ndBgkgC1EM5EUzMACGm8L": [
+			{
+				"comment_id": 64,
+				"body": "> i want the hard way xD\n\n1. make a prototype in java\n2. print the code\n3. discuss it with some strangers on the street\n4. implement their ideas into the java\n5. repeat step3+4 5 times\n6. throw all away\n7. think about an easier way",
+				"added": 1458073244
+			}
+		],
+		"1_1EgYg1XAxktqWHWC1aTWQoToF6Mr5QmEWq": [
+			{
+				"comment_id": 65,
+				"body": "see https://www.reddit.com/r/zeronet/comments/4ao8n6/how_will_zeronet_handle_large_websites/",
+				"added": 1458146618
+			},
+			{
+				"comment_id": 68,
+				"body": "@bukaking indeed.\nor: @ jamesheald just edited it :-( this would be not nice, actually.",
+				"added": 1458148773
+			},
+			{
+				"comment_id": 69,
+				"body": "my sources say: \nit was the NSA \n\n(they are trying to seed quarrel among us)",
+				"added": 1458149699
+			}
+		],
+		"1_1CWttfFnJgQmZifX8FbZn9dZ3xaTfooSJd": [
+			{
+				"comment_id": 66,
+				"body": "I assume you get this here?\nCan you reproduce this?\n\nAlso, check at that moment your console or debug.log: perhaps it provides some more info.",
+				"added": 1458147506
+			},
+			{
+				"comment_id": 67,
+				"body": "I guess it could be then that ZeroBoard is \"too slow\". More we will know when you check the logs (see below comment)",
+				"added": 1458148610
+			}
+		],
+		"12_14XxpXNGMLsyeQxikacrbQnAFXVyhN5Ngx": [
+			{
+				"comment_id": 70,
+				"body": "Also: OneName’s Blockstore is much less secure than Namecoin (2015 Sep)\n\nhttp://blog.namecoin.org/post/130158040415/onenames-blockstore-is-much-less-secure-than",
+				"added": 1458209406
+			}
+		],
+		"4_1JHQA9oFkFpFFRiscyT4N71AKLWg46pQ92": [
+			{
+				"comment_id": 71,
+				"body": "Does i2p allow access to the normal internet from its own network? then it should be no problem.\n\ncheck the command line help, there you can define trackers:\n                  [--trackers [protocol://address [protocol://address ...]]]\n                  [--trackers_file path]",
+				"added": 1458241674
+			}
+		],
+		"1_1Da4ebREvCs4FX8pME6HGhuS8yqMHvPw8r": [
+			{
+				"comment_id": 72,
+				"body": "I have one made in ZN, but it does not take the changes. One has to edit with TiddlyDesktop (whcih can then overwrite the old wiki). A little cumbersome, but works.\n\nThere's also another kind of wiki, see http://127.0.0.1:43110/138R53t3ZW7KDfSfxVpWUsMXgwUnsDNXLP/?Page:home",
+				"added": 1458250237
+			}
+		],
+		"1_1DpjGe8YZWP3idvaNTbBbHzuda341g4W2k": [
+			{
+				"comment_id": 73,
+				"body": "Ciao, \ncheck out the faq (1), and this tutorial (2)\n\n(1) http://zeronet.readthedocs.org/en/latest/site_development/getting_started/\n(2) http://127.0.0.1:43110/Blog.ZeroNetwork.bit/?Post:43:ZeroNet+site+development+tutorial+1",
+				"added": 1458334153
+			}
+		],
+		"1_1NpWusk2WKVyyNtwEsDFhFLsXrBaToas66": [
+			{
+				"comment_id": 74,
+				"body": "hello, we see your test",
+				"added": 1458380658
+			}
+		],
+		"1_17d8biWB6b4QwDQ4zRHPRtZjcToMCyvjQD": [
+			{
+				"comment_id": 75,
+				"body": "I can only speak for myself.\n** **\nFor me it is a tool to be able to self-host. I used other tools to do that before (1). \nIt can not replace the common net now, because it sits \"on top of the net\", it's not the net itself (cables, wlan, ...)\nWhat people can do is build apps with it, that may replace other services from the clearnet, so our dependency on it gets less and less over time\n** **\nWe also should all have an idea about how we want to share resources here (2). \n** **\n\nAnd, btw, what are your ideas about what you ask us ?\n** **\n** **\n\n** **\n(1) http://127.0.0.1:43110/zeroblog.bit/?Post:35:Do+I+miss+the+pre-ZeroNet+time+\n(2) http://127.0.0.1:43110/zeroblog.bit/?Post:37:Thoughts+about+ZeroNet+(opensource,+licence,+...)",
+				"added": 1458444169
+			}
+		],
+		"7_1KTjPe9MxoYkcXj78GuZgCcj3R3f3Twh7r": [
+			{
+				"comment_id": 76,
+				"body": "Can you put the link to the ZN site here (or the image on ZN)? Then we could tell what numbers we see\n\n( /me doesn't like clicking into the clearnet)",
+				"added": 1458466250
+			},
+			{
+				"comment_id": 77,
+				"body": "Also, you should list some other site's peer number (e.g. ZeroTalk), so it can be compared. Perhaps you have that in the pic, then ignore please",
+				"added": 1458466570
+			}
+		],
+		"1_18rFd7W9y5QGQEVXaCoJV7jyt7D8aN156h": [
+			{
+				"comment_id": 78,
+				"body": "Are you using in your browser private mode or so?\n\nRT @basxto favourites are stored in localstorage. therefore this won't work  if you surf in private mode or something",
+				"added": 1458624410
+			}
+		],
+		"16_14XxpXNGMLsyeQxikacrbQnAFXVyhN5Ngx": [
+			{
+				"comment_id": 79,
+				"body": "look in the plugins directory of your ZN, there is a dir with \"disabled-UiPassword\", when you enable this it should do what you want (didn't try myself)",
+				"added": 1458645154
+			}
+		],
+		"6_1JHQA9oFkFpFFRiscyT4N71AKLWg46pQ92": [
+			{
+				"comment_id": 80,
+				"body": "The link says: \"Not found\"\nCan you check the link again? I didn't find such a post in the blog when I scrolled first page either.\n\nIf someone is interested in our view (we 3 came from twister to ZN), see:\n[Do I miss the pre-ZeroNet time ?](/zeroblog.bit/?Post:35:Do+I+miss+the+pre-ZeroNet+time+)\n[Goodbye, Twister!](/kappasigma.bit/?Post:13:Goodbye,+Twister!)",
+				"added": 1458647394
+			}
+		],
+		"1_1NLgFk1wAvq64yghgHGQMM99uhaxc6NCzZ": [
+			{
+				"comment_id": 81,
+				"body": "Is this your own ZN you experience that?\n\nI have seen this often with the [proxies](/zeroproxies.bit). In that case, it'd be great to inform the operator.",
+				"added": 1458654583
+			}
+		],
+		"8_17n5jg4bBEoWodXDf8L4Y2u88ShagS272Y": [
+			{
+				"comment_id": 83,
+				"body": "@ bukaking keep up the good work. I will make a link to here from https://github.com/cgm616/0rc/issues/6",
+				"added": 1458682195
+			}
+		],
+		"8_1NzjwWNcVjsX1ndBgkgC1EM5EUzMACGm8L": [
+			{
+				"comment_id": 84,
+				"body": "it is even reported in the bug tracker: https://github.com/HelloZeroNet/ZeroTalk/issues/10",
+				"added": 1458682627
+			}
+		],
+		"10_17i7Y7r8nTaCfLbCAuaKyc4R5BbKZYU2Hr": [
+			{
+				"comment_id": 85,
+				"body": "I like that @a4io5ziuf436y0df has thrown in ZeroMail :-)\n\nThere is [this](https://github.com/HelloZeroNet/ZeroNet/issues/65) feature request: adding BitMessage support to ZeroMail.\nAnd BitMessage can via gateways (1) receive/send \"stinky-normal\" emails with the outside world, from inside BM. \n\nSo, you are \"safe\" as long as you are \"inside BM/ZeroMail\" over tor (and communicate with BM/ZM users). \nThe gateway option is basically only for the transition period, \nbecause most likely not all your email contacts will follow you (at begin).\nThis should be in your mind when you communicate with the \"normal emails\".\n\nbtw: BM has also Thunderbird integration\n\nMore about ZeroMail's and BM's tech [here](/zeroblog.bit/?Post:30:ZeroMail+and+BitMessage+differences+)\n\n** **\n\n(1) I know 2 gateways, but they want money. But I am sure the gateway can also be done via self-host way",
+				"added": 1458727465
+			}
+		],
+		"10_1MEWJRMLgvofqG9Mbsb2Rc4hFFyv7HeRx7": [
+			{
+				"comment_id": 86,
+				"body": "define what is \"the deep web\" for you?",
+				"added": 1458737569
+			}
+		],
+		"6_18rFd7W9y5QGQEVXaCoJV7jyt7D8aN156h": [
+			{
+				"comment_id": 87,
+				"body": ">Is there a way to block that with uBlock or uMatrix?\n\nset in your browser's proxy settings a non-working proxy. That should help that only 127.0.0.1 works",
+				"added": 1458767039
+			}
+		],
+		"2_13BepSu3vkeSQB3ZWkCDg7Lu5w64tfpeTa": [
+			{
+				"comment_id": 88,
+				"body": "> This isn't good...\n\nCan you explain why you think like that?\nCheck out also: [Thoughts about ZeroNet (opensource, licence, ...)](/zeroblog.bit/?Post:37:Thoughts+about+ZeroNet+%28opensource,+licence,+...%29)",
+				"added": 1458823902
+			},
+			{
+				"comment_id": 89,
+				"body": "> what do you think if i clone your site and i use it for do mistakes\n\nThank God, I am not in medical, legal/lawyer business ;-)\nAnd, thank God, my most important sites have a .bit domain\n\n**Well, BUT I know what you mean: impersonating and stuff like that could be done \"easily\"**\nThe most recent example I have in mind is: shapeshift.io and shapeshit.io",
+				"added": 1458825199
+			}
+		],
+		"1_1JUpDSHYzrNk5idwwA5csnzJbcoB2zLUC4": [
+			{
+				"comment_id": 90,
+				"body": "please see the FAQ: \nhttp://zeronet.readthedocs.org/en/latest/using_zeronet/create_new_site/",
+				"added": 1458896331
+			}
+		],
+		"1_1NV87VmSkezRyz8NbFpdkYJsJUSfXx7LJa": [
+			{
+				"comment_id": 91,
+				"body": "Try to do [this](/zeroblog.bit/?Post:31:How+to+make+sure+your+site+is+always+reachable+), \nI assume you have a similar problem like the description in last link there?",
+				"added": 1458924371
+			},
+			{
+				"comment_id": 92,
+				"body": "loading your site works for me: it says now: initial sync in progress\n\nsometimes it's best to wait a few mins, until network hiccups are solved",
+				"added": 1458925058
+			}
+		],
+		"1_13jLz92kNNVJPG2AgUr83SzTwfsS8RUrcG": [
+			{
+				"comment_id": 93,
+				"body": "> @lifent seem's these search engine can't index all contents, it's not full-text index?\n\nPerhaps it will come soon, who knows?\n\nFull index needs space.\nStandard setting of a site here has 10 MB, which ofc, can be increased, which I then don't load. Better is: one can set \"optional file setting\", and files are loaded on request",
+				"added": 1458987201
+			},
+			{
+				"comment_id": 94,
+				"body": "> is there any android or iOS solution?\nwell, somehow, see e.g. [this](/1CiAFnnf6kb2G1GzDV1FhttTWNxCa4mShn/?Post:38:ZeroNet+on+Android+%28easy+way%29#Comments)\n\nAlso, keep in mind:\nRT @nofish it will eat your battery. so remote installation (eg using an rpi) is the recommended way",
+				"added": 1458989172
+			}
+		],
+		"1_18jipjDsfAxAuq4ixbi2w24xJrYVfTYFPn": [
+			{
+				"comment_id": 95,
+				"body": "Look behind you: I am there ;-)",
+				"added": 1459027300
+			}
+		],
+		"24_1ED3Ho3kmzaKiECtyuqSjDpoE47rKuXeP": [
+			{
+				"comment_id": 96,
+				"body": "ddi you try this game already_ it has a highscore: http://127.0.0.1:43110/16nsEmQ1ErcdNRpe7zmSg5eF2Y1zQpuURp",
+				"added": 1459027453
+			}
+		],
+		"1_1KwF7Y9SQ6BeLSgAST4Et56X7v1RGEsNEz": [
+			{
+				"comment_id": 97,
+				"body": "In theory only this one (1).\nBut it doesn't hurt to backup all first, until you have verified that (1) works...\n\n(1) http://zeronet.readthedocs.org/en/latest/faq/#can-i-use-the-same-username-on-multiple-machine",
+				"added": 1459281123
+			}
+		],
+		"6_15ymkjUYJS6tjUC35AekGMExZMN6iks8ma": [
+			{
+				"comment_id": 98,
+				"body": "Can you check your log, if you have reached the [max limit](/zeroblog.bit/??Post:24:ZeroNet+apps+have+a+max+limit+for+user+contributions+%28Content+sign+failed:+invalid+private+key%29) size?",
+				"added": 1459302217
+			}
+		],
+		"6_1H8oKiRa7fGgUqS1hpUtaSYLvAqkaknbkf": [
+			{
+				"comment_id": 99,
+				"body": "> @basxto: Switching users is buggy\n\nYes, no risk to lose one's identity anymore. With ZeroVerse one can now **easily switch** one's persona. Also, previous \"solutions\" required that one had to close the running ZN first.\n\n>@ax: The same goes with the Zeroverse ID, what is the advantage in having two ID systems?\n\n1. \"The reason is most likely, because people don't know \"the fact that ZeroID goes outside should be properly disclosed on the page. (Especially if it's by design)\" (1) \nZeroVerse is FORCING users to NOT **leak** their info (and also informing them **why** (2)).\" (written [here](/1K28kQFMquNzto2iQf4GGjr6oFUbC1NddE/?Poll:3-1H8oKiRa7fGgUqS1hpUtaSYLvAqkaknbkf))\n\n2. **anonymity**\n\"Votes are tied to your ZeroID, they are pseudonymous, not anonymous. With a little bit of work someone can find out what you (your ZeroID) voted for.\" (see ZeroPolls' top message)\nCurrently, with a few sql commands, I can make a profile of each voter at ZeroPoll and extrapolate info from this.\nBut soon \"you can make a throwaway account for doing things (like voting here) that you don't want tied to your main account\" (written [here](/1K28kQFMquNzto2iQf4GGjr6oFUbC1NddE/?Poll:3-1H8oKiRa7fGgUqS1hpUtaSYLvAqkaknbkf))\n\n\n\nmail.zeroverse.bit\n\nBefore announcing it to the public I've talked with @nofish (the admin of ZeroMail) about a \"clone\". My idea was actually, to include ZeroVerse in ZeroMail, but he said:\n\"I think a separate ZeroMail clone is a better idea currently\".\n\n\n> @ax: Correct me if I am wrong but isn't Zeromail already a distributed service/system? There is no hierarchy in nodes as far as I'm aware, we the nodes ARE Zeromail. Having everyone using Zeromail helps with providing cover traffic/plausible deniability.\n\nCurrently all ZeroNet sites have 1 problem: they have a **\"powerful\" admin**. There are different reasons why e.g. Mr. Murphy (or staff of 3-letter agencies, ...) can visit them, or not. But when he does and a sitePublish is done, data is manipulated/lost. All other nodes will update their versions when the central node tells it.\n\nWhen people want to go elsewhere in the ZN network, they have to start with a fresh mailbox. Their **data** does not walk with them automatically. It's kept in the \"big silo\".\nSee [this picture](http://i.imgur.com/UVp8Hr9.jpg): when I see the current mail systems it looks to me like A: centralized. \ne.g. it is not like this that everyone can set up their own email-server (barack@obama.com) and communicate with others (michelle@thebestwife.com)\nBut mail.zeroverse.com does allow at least now: \nmisterO@zeroid.bit can exchange emails with ladyM@zeroverse.bit\n\nAnd people should not take the **storage size** lightly. I'm a power user, and I get hit all the time from the limits ([limit in ZeroMail](/zeroblog.bit/?Post:30:ZeroMail+and+BitMessage+differences+), in [chat](/zeroblog.bit/??Post:24:ZeroNet+apps+have+a+max+limit+for+user+contributions+%28Content+sign+failed:+invalid+private+key%29))\nProbably only a few of you can imagine how it feels right now, to not play Goethe (a la: Sorry, I need more time with my reply, because I have to perfect it with less. In this case: hm, which email should I delete now?)\n\nWhen I delete mails, they get **also deleted** on the receiver side, which is - well... \nyou decide if that's good or not. At least it is confusing.\n",
+				"added": 1459303456
+			},
+			{
+				"comment_id": 152,
+				"body": "status after 4 weeks:\n\n- 139 accounts\n- 76% use zeroID\n- liked most: de-centralization, anonymity/privacy\n\nread more [here](/zeroblog.bit/?Post:70:after+4+weeks:+mail@zeroverse)",
+				"added": 1461844972
+			}
+		],
+		"1_187cAJeVzcheVP5rTwX5LfcCfr2YBVus8w": [
+			{
+				"comment_id": 100,
+				"body": "Perhaps some of the Spanish speakers here can help you: \n[ZeroTalk en espanol](/165eqHdoQfyf7CVGqtVCGNDvMBZhwVSJBL)",
+				"added": 1459306442
+			}
+		],
+		"2_1AkE5mjeYRiQLGF8Q6NmGvpkm1kk1R6zMe": [
+			{
+				"comment_id": 101,
+				"body": "probably it was not allowed in the json file, but:\nall files are also available in your data folder, so: \nyou can manually clone them",
+				"added": 1459317967
+			}
+		],
+		"7_1LJMypJ67iEBwah82xwVVdB8SGZ1mwqgHQ": [
+			{
+				"comment_id": 102,
+				"body": "It works nicely, has static builds which made it even for a friend who is just a windows user easy to make a call under his new linux.\n\nBUT:\nI remember hearing about binary blobs in tox. (1)\n\nAnd then there was also the drama that the main dev took (some of) the funding for personal issues. But I think the community has made sure that such things won't happen anymore\n\n(1) TODO: Can't search for a link right now.",
+				"added": 1459344615
+			}
+		],
+		"2_1L5rGDgTs4W2V7gekSvJNhKa7XaHkVwotD": [
+			{
+				"comment_id": 103,
+				"body": "I assume you are talking about the ones which are in the MORE-menu on top left here?\n\nThe forums existed, and were created by \"normal\" ZN users, and then @nofish added them.\n\nIf you speak Polish, you could also start one.",
+				"added": 1459627919
+			}
+		],
+		"1_1mrFbgzkZRbkFemBU3ipHJdr27fJevfRQ": [
+			{
+				"comment_id": 104,
+				"body": "[ZeroBundle](/zeroblog.bit/?Post:49:ZeroBundle:+also+for+linux32) works on windows, OS X, linux (32+64bit)\n\nThe update commands @musickiller wrote about are for linux (e.g. debian, ubuntu)",
+				"added": 1459668688
+			}
+		],
+		"1_1DVD9gfgFAYrc5EN7T9qJnEKpeY6eBKwEs": [
+			{
+				"comment_id": 105,
+				"body": "What are your commandline options in ZeroNet to invoked Tor exactly?\n\nSee also the FAQ:\nhttp://127.0.0.1:43110/17Kom2G5qNDc6NaQwv445h1gFzxkY3ZtZe/faq/",
+				"added": 1459752233
+			}
+		],
+		"2_1KRDb5SVJe8Gjy9eYEQz62tJv73vavZdUn": [
+			{
+				"comment_id": 106,
+				"body": "Yes, I bought them. \n(I could also have bought them, but not associate the zeronet attribute to the .bit domain, and just register it with no info than a BitMessage address as the sellers would do)\n\n** **\n\nSo, did you read what is written at:\n&nbsp;&nbsp;-  [15GAu5QYg34TLzD4b2WMpZSid9S2K6M54h](/15GAu5QYg34TLzD4b2WMpZSid9S2K6M54h) and\n&nbsp;&nbsp;- [part II](/zeroblog.bit/?Post:42:Why+can%27t+you+register+the+.bit+domain+yourself+) ?\nDoes my intent come through?",
+				"added": 1459770973
+			}
+		],
+		"1_19kqvePfkBvsbPwuuDTv3xp7J6Th1c97p9": [
+			{
+				"comment_id": 107,
+				"body": "looked quickly at their homepage, they don't seem to offer the source?",
+				"added": 1459798126
+			}
+		],
+		"10_1LRrd96P7FiTcsyNXVzPM5jtpQoH1B4gYf": [
+			{
+				"comment_id": 108,
+				"body": "@dividedby0 you should update your blog software: \none can not follow you (to see your new blog posts in the internal newsfeed)",
+				"added": 1459857255
+			}
+		],
+		"1_14MrxSzhaSXiFwsAbyhwtipmU3Lh55Xcrr": [
+			{
+				"comment_id": 109,
+				"body": "@mylifewaiting what are you testing exactly? And for what kind of people are you waiting for? can we help you somehow?",
+				"added": 1459864277
+			}
+		],
+		"2_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": [
+			{
+				"comment_id": 110,
+				"body": "test",
+				"added": 1460029341
+			}
+		],
+		"8_1H8oKiRa7fGgUqS1hpUtaSYLvAqkaknbkf": [
+			{
+				"comment_id": 111,
+				"body": "> @someperson Is any of this relevant when running ZeroNet through Tor?\n\nYes.\n\nAlso, see my comments about Tor (and its weaknesses in the note (B)).\n\n** **\nQuestion: if Tor would be the saviour to some of those issues, \nwhy does zeronet.py not **force** its users to **only run with tor** ?\nE.g. for ZeroBundle users: tor could be included. The security of the ZeroNet users should have prio, always.\n** **\n\n\n\n",
+				"added": 1460136224
+			},
+			{
+				"comment_id": 112,
+				"body": "@vlad20012 thank you, for reporting this into the bugtracker",
+				"added": 1460158176
+			},
+			{
+				"comment_id": 116,
+				"body": "> @musickiller hey, what about using ZN with Tor browser? This way all the plugins that are left alive, will transmit wrong IP! Ta-da, problem with IP solved, no fake proxy needed and all clearnet stuff is available!! =D\n\n\nIf they can transmit IP, then they can transmit also OTHER INFO about you, easily.\n\n** **\nI don't want to fully audit each ZN site first, just because I allow clearnet access for them.\nI block clearnet access first (G001): \nif something doesn't work, I will see what it tried to send to elsewhere (where also others spy on, not only the site admin, in the worst case).\n** **\nAnd as stated in G013: \na site admin can also change the code easily - for let's say 1h (A) - and revert back to the original code (B). \nYou won't know that, except you do regular backups for each site via cron.\nAnyways, your ZN client - an obedient slave - is set up so, that it will update at (A) and (B), \nand God alone knows what it has done/sent in that time...\n\nSo, one of the best things to do is:\nclone the apps, but also be prepared to [merge new stuff in the future](/zeroblog.bit/?Post:4:imagine+you+have+a+known+bug+in+your+cloned+ZeroNet+app...)",
+				"added": 1460196068
+			},
+			{
+				"comment_id": 118,
+				"body": "> @vlad20012 #331 just closed\n\nGreat, moved G006 to the archive.\nThanks @nofish",
+				"added": 1460225382
+			}
+		],
+		"5_15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ": [
+			{
+				"comment_id": 113,
+				"body": "See [ZeroTodos](/1B8LmXYHzMGZzcRWoidAQb5SmKSyfjN63f):\n\n\"Your todos are encrypted using the encryption functionality provided by the ZeroNet API, using ECIES (Elliptic Curve Integrated Encryption Scheme).\"",
+				"added": 1460185872
+			},
+			{
+				"comment_id": 114,
+				"body": "> @musickiller How do you manage to be everywhere? =D Or is it just your special ZeroNet ability?)\n\nDid you just hear a sound behind you?\nThat was me, too! ;-)",
+				"added": 1460189183
+			},
+			{
+				"comment_id": 115,
+				"body": "> @musickiller I need some secure place to store info away from corporations...\n\nIf ZeroTodos (with its 30.0kb storage) is not to your liking:\nyou can always use [mail@zeroverse](/mail.zeroverse.bit) for that, by sending mails to yourself. \nYou have 1953K storage there ;-)",
+				"added": 1460192082
+			}
+		],
+		"1_1MA9FAQkvuKGyyr29ecGJ3FtMjPKBtJhpU": [
+			{
+				"comment_id": 117,
+				"body": "Thank you for this, your search is now also listed at: [ZeroFind](/zerofind.bit)",
+				"added": 1460207163
+			}
+		],
+		"1_1XGf6G78ZwZwz4FeZBtmzxtKAsTicgaBN": [
+			{
+				"comment_id": 119,
+				"body": "think about this:\nwhat kind of services are in need for people who have money? \n\nnow try to make those for bitcoin",
+				"added": 1460314613
+			}
+		],
+		"1_1K7fPamTWE8J9ogsdFoyjmtjq1FjBeRQGW": [
+			{
+				"comment_id": 120,
+				"body": "depends on what \"it\" is",
+				"added": 1460314635
+			}
+		],
+		"1_1MZ6f3V1cBuhNwzajMVPu8vb1wRt1p6dpt": [
+			{
+				"comment_id": 121,
+				"body": "Thanks, added to [ZeroProxies](/zeroproxies.bit) and [ZeroFind](/zerofind.bit).",
+				"added": 1460359231
+			}
+		],
+		"2_1DpaSfcvYquSq5SGZZYA4ghtzjs6CmsZNV": [
+			{
+				"comment_id": 122,
+				"body": "You don't need to open that port to blog or use any other ZeroNet sites.\n\nIf you want to open it anyways, see here:\nhttp://zeronet.readthedocs.org/en/latest/faq/#do-i-need-to-have-a-port-opened",
+				"added": 1460706117
+			}
+		],
+		"1_1FgJdqM6ETZ9GpVbRFijXwV19pjBCqoo6p": [
+			{
+				"comment_id": 123,
+				"body": "welcome to ZeroNet :-)",
+				"added": 1460712648
+			}
+		],
+		"1_19Vndr5JwcmQX6nPNSqyRzJ6bdkW4k2sQo": [
+			{
+				"comment_id": 124,
+				"body": "Can you try also if this bug appears with another browser ?",
+				"added": 1460716450
+			},
+			{
+				"comment_id": 126,
+				"body": "@linuser hi, can you reproduce the bug also?",
+				"added": 1460717031
+			}
+		],
+		"1_16BPSuvKAPChKCgSoj228bisoo6jyrA6m3": [
+			{
+				"comment_id": 125,
+				"body": "And is it even a brave one?\nhttps://en.wikipedia.org/wiki/Brave_New_World",
+				"added": 1460716627
+			}
+		],
+		"2_1KdnTJVBGzEZrJppFZtzfG9chukuMv8xSb": [
+			{
+				"comment_id": 127,
+				"body": "Did you try with another browser: does it work there?",
+				"added": 1460725743
+			},
+			{
+				"comment_id": 128,
+				"body": "I don't know since I don't know where that bitcoin thing is you talk about, so we could check",
+				"added": 1460728512
+			},
+			{
+				"comment_id": 130,
+				"body": "I see.\nI get as message in FF: adress not recognized\n\nI assume that will only work when you have also bitcoin installed? \nor at least associated an app (e.g. bitcoin) on your system which can interact (with FF?) when you click that button",
+				"added": 1460786080
+			}
+		],
+		"1_1AomBwXowJrXzterN42XEEysh332BrmuJW": [
+			{
+				"comment_id": 129,
+				"body": "ok.\nbut:\nwhere is the site ?",
+				"added": 1460784125
+			}
+		],
+		"3_13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ": [
+			{
+				"comment_id": 131,
+				"body": "My best guess would have been the [ZeroBundle](/zeroblog.bit/?Post:49:ZeroBundle:+also+for+linux32)\nbut if it is a dependency which python requires: well, ...\n\nTBH, I'd not use Windows, and \"freer OS\" instead. \nAlso, one can always use a virtual machine to run apps, e.g. ZeroNet in it",
+				"added": 1460790920
+			}
+		],
+		"1_13Rt7AyjDq6hy1JuNm3AFCraE5EeX8BkSg": [
+			{
+				"comment_id": 132,
+				"body": "@pr complete address is:\n1PLAYgDQboKojowD3kwdb3CtWmWaokXvfp",
+				"added": 1460917151
+			}
+		],
+		"1_1Mk3gERhxwDymiFMnmMgpdwxYBPWNk6mmj": [
+			{
+				"comment_id": 133,
+				"body": "1. first rule of the Illuminati: as member and non-member you deny our existence\n2. your application just got disqualified (and can not be accepted anymore)",
+				"added": 1460957604
+			}
+		],
+		"1_17gtVTjEtBAXfFBJ3JFkBffNz1bqmA6wf": [
+			{
+				"comment_id": 134,
+				"body": "if you have no backup of that file anymore, you have lost your ID :-(\n\nsee also: \"IMPORTANT: after registering!\" in the [ZeroVerse FAQ](/zeroverse.bit/faq.html)",
+				"added": 1460962088
+			}
+		],
+		"2_1GtJqyJRsuZhmxVtw5USgvqGbUmVH7EmBD": [
+			{
+				"comment_id": 135,
+				"body": "> @lukipuki slightly unrelated question: Why is this post here showing up in my newsfeed / ZeroHello but I cannot find it on ZeroTalk?\n\nProbably you typed a key into the new search function? can you verify please?\nI have added [this bug](https://github.com/HelloZeroNet/ZeroHello/issues/8)",
+				"added": 1460985241
+			}
+		],
+		"3_1FieP4c1gxFme5webFJB9x5ZPBXdR6p3Fs": [
+			{
+				"comment_id": 136,
+				"body": "@darkstratus try also the seeder from [How to make sure your site is always reachable?](/zeroblog.bit/?Post:31:How+to+make+sure+your+site+is+always+reachable+)\nand wait 5-10 mins",
+				"added": 1461003678
+			}
+		],
+		"43_1GtJqyJRsuZhmxVtw5USgvqGbUmVH7EmBD": [
+			{
+				"comment_id": 137,
+				"body": "@pycole\n\n\"It's the default Google Analytics map with a hue rotation, and a blurred layer on top with white as alpha and \"darken only\" blending mode. Made with Gimp\"\n\nhttps://www.reddit.com/r/zeronet/comments/4fd5aw/is_zeronet_more_popular_in_china_over_50_of_all/",
+				"added": 1461126324
+			},
+			{
+				"comment_id": 138,
+				"body": "yes, every proxy is supporting ZN: http://127.0.0.1:43110/ZeroProxies.bit",
+				"added": 1461138024
+			},
+			{
+				"comment_id": 139,
+				"body": "Also, one could wonder how sharing data with Google really helps ZN, \ne.g. piwik could be used instead",
+				"added": 1461139908
+			},
+			{
+				"comment_id": 142,
+				"body": "To all of you who say ZeroNet can not be blocked/shutdown/...:\n\ndid you see yet G011 from [ZeroSecurity](/zerosecurity.bit)?\nIf I were the Chinese government, I'd start by blocking/redirecting those 8 trackers first.",
+				"added": 1461220289
+			},
+			{
+				"comment_id": 144,
+				"body": "> @shift thats why we need DHT in network\n\ntbh, my experiences with Kademlia DHT were not nice: \nI had delays like >1 week often:\nhttp://skilledtests.com/wiki/Twister_experience#dhtget:_takes_too_long_to_receive_.28A_sends_to_B.2C_on_same_pc.29",
+				"added": 1461233550
+			}
+		],
+		"1_1Ja2gA7t3Kc2CLL5GgVGr7pJTmTxdVygmS": [
+			{
+				"comment_id": 140,
+				"body": "see step2 [here](/zeroblog.bit/?Post:67:How+to+create+a+ZeroNet+site+): go into that directory and for doing \" pics, text and video\" you can just use HTML (search the internet for html howtos).\nYou can also program in coffeescript/JS (search also for howtos)",
+				"added": 1461217965
+			},
+			{
+				"comment_id": 143,
+				"body": "step by step...\nFirst, make a simple, static html site: so you know all is working well on your end\nLater we can progress to the \"higher levels\"",
+				"added": 1461222397
+			}
+		],
+		"2_1Mk3gERhxwDymiFMnmMgpdwxYBPWNk6mmj": [
+			{
+				"comment_id": 141,
+				"body": "I am not sure if I understand:\n\n1. you want to open a ZeroNet page from Vietnam? \n\nif so: install ZN or use a [proxy](/zeroproxies.bit)\n\n2. or put  alin k on a ZN page to a page into the normal internet ?",
+				"added": 1461218038
+			}
+		],
+		"9_1H8oKiRa7fGgUqS1hpUtaSYLvAqkaknbkf": [
+			{
+				"comment_id": 145,
+				"body": "added: NullPaste\nwhich has a private mode selectable (it'll be then: encrypted and unlisted)",
+				"added": 1461323157
+			}
+		],
+		"1_1J7dTw3ZsXUsXzpBqVWVj5aXRUMsMC6Nfc": [
+			{
+				"comment_id": 146,
+				"body": "move the mouse around the area, then you will see a pencil symbol with which you can edit the area",
+				"added": 1461433782
+			}
+		],
+		"1_1By85xCDz7VyZEq9WjmhtbNaPKimQwhPLp": [
+			{
+				"comment_id": 147,
+				"body": "there is archive.org",
+				"added": 1461530926
+			}
+		],
+		"3_1By85xCDz7VyZEq9WjmhtbNaPKimQwhPLp": [
+			{
+				"comment_id": 148,
+				"body": "it is a joke.\n\nsomeone created it once and also released the site's private key and people overwrote it with fun stuff",
+				"added": 1461651942
+			}
+		],
+		"2_1By85xCDz7VyZEq9WjmhtbNaPKimQwhPLp": [
+			{
+				"comment_id": 149,
+				"body": "The problem seems fixed: his blog can be loaded over a proxy.",
+				"added": 1461652100
+			}
+		],
+		"25_1JHQA9oFkFpFFRiscyT4N71AKLWg46pQ92": [
+			{
+				"comment_id": 150,
+				"body": "So, (some of) the problems for ZeroNet to tackle are: \n(distributed) storage, \ni2p, encryption, \ndependency on JS\n?",
+				"added": 1461669152
+			}
+		],
+		"1_1AqK1c8An79SF2yAE6PCL6zvDkU1BQZenM": [
+			{
+				"comment_id": 151,
+				"body": "do you see any error message?\ndid you try in another browser?\nwhat do your ZeroNet logs tell at that moment?",
+				"added": 1461736768
+			}
+		],
+		"1_1Nhc87fApEuLfZev9tu5wFnVt2CLpPjB1W": [
+			{
+				"comment_id": 153,
+				"body": "/me wonders why you make 5 posts with just a dot in it?",
+				"added": 1461853251
+			}
+		],
+		"1_1CWRomNuQj9PcaehomU9b12F4wXQDXmekt": [
+			{
+				"comment_id": 154,
+				"body": "What means messaging for you ?\n\nYou have the choice between [mail](/zeroencryption.bit), [chat](/zerochatrooms.bit).\n\nA social app like \"twitter\" is on the [roadmap](/zeroblog.bit/?Post:44:ZeroNet+roadmap)",
+				"added": 1461870443
+			}
+		],
+		"8_1LJMypJ67iEBwah82xwVVdB8SGZ1mwqgHQ": [
+			{
+				"comment_id": 155,
+				"body": "\"no longer\": when was the last time it worked?\nare you running the same versions (ZeroNet and tor browser) since then?\n\nIf yes: did you change something else on your system?\n\nAlso, how do you know it doesn't work, actually? like [this](/zeroblog.bit/?Post:22:Does+your+ZeroNet+really+use+Tor+)?",
+				"added": 1461941217
+			},
+			{
+				"comment_id": 156,
+				"body": "I see now, 3 days ago, a new Tor browser was released: v5.5.5\n\nAre you using that?",
+				"added": 1461941377
+			}
+		],
+		"7_1By85xCDz7VyZEq9WjmhtbNaPKimQwhPLp": [
+			{
+				"comment_id": 157,
+				"body": "happy Internet Day :-)",
+				"added": 1462007021
+			}
+		],
+		"8_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": [
+			{
+				"comment_id": 158,
+				"body": "> @12134 Do have google serach in zero net? I mean the global level context search.\n\nSee [ZeroFind](/zerofind.bit): there are internal/external search engines, as well as indexing ones.\nAnd very likely NSA, google, ... do index already ZeroNet, e.g. via the [proxies](/zeroproxies.bit)",
+				"added": 1462031280
+			},
+			{
+				"comment_id": 161,
+				"body": "> @zxwanghongyi How to use zeronet on Android mobile phone\n\nThere are somewhat solutions to access it, e.g. [this](/1CiAFnnf6kb2G1GzDV1FhttTWNxCa4mShn/?Post:38:ZeroNet+on+Android+%28easy+way%29), or remote (you could access via browser your ZN from home)",
+				"added": 1462167634
+			}
+		],
+		"4_1NibKcCcidCHue94Rhr7F4Gvu3Lg6FAESp": [
+			{
+				"comment_id": 159,
+				"body": "Here are some security issues already listed: [ZeroSecurity](/zerosecurity.bit)",
+				"added": 1462031456
+			}
+		],
+		"2_1P8VJL2iKWfUB4hqQkrFdXCbC8RrimAZoZ": [
+			{
+				"comment_id": 160,
+				"body": "Can you donate that first to Zeronet ?",
+				"added": 1462129995
+			},
+			{
+				"comment_id": 162,
+				"body": "> @ballsweat whats the point of this group?\n\nscam ?",
+				"added": 1462219598
+			}
+		],
+		"1_19jY7u41PdsoRuWKac3bU78SCsDVZFGucd": [
+			{
+				"comment_id": 163,
+				"body": ">I bet there many people who don't know what to do if this content sign error pops up, and therefore just stop using zeromail. \n\nPlease see also this bug: https://github.com/HelloZeroNet/ZeroMail/issues/6\n\nSee [How different is mail@zeroverse from ZeroMail?](http://127.0.0.1:43110/mail.zeroverse.bit/faq.html):\nmail@zeroverse offers more standard storage space, without need for interaction. For reasonable requests the limit can be made even higher.",
+				"added": 1462444044
+			}
+		],
+		"1_12dctSb6GMpcRWnHjMXmEMrv3QvtHWpj2o": [
+			{
+				"comment_id": 164,
+				"body": "all search engines: [zeroFind](/zerofind.bit)\nall proxies: [zeroProxies](/zeroproxies.bit)",
+				"added": 1462444237
+			}
+		],
+		"1_16JexJdvqRHRobrHnkbSWmdC8pfkkQzmiU": [
+			{
+				"comment_id": 165,
+				"body": "use the seeder or the proxies, as mentioned below.\n\n[How to make sure your site is always reachable?](http://127.0.0.1:43110/zeroblog.bit/?Post:31:How+to+make+sure+your+site+is+always+reachable+)",
+				"added": 1462793882
+			}
+		]
+	},
+	"comment_vote": {
+		"11_1PX7VW6xfccTT2tNUTwrYKJpGsGfrnoJfP": 1,
+		"393_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"415_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"50_17i7Y7r8nTaCfLbCAuaKyc4R5BbKZYU2Hr": 1,
+		"39_14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx": 1,
+		"27_16bxMyoL49mWYhcZKBYVBT5zEFW9SQpiao": 1,
+		"49_14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx": 1,
+		"15_1D7DRHxZ8WMHLvkyaVWEZsdAZSQvLY5JQM": 1,
+		"138_1H8oKiRa7fGgUqS1hpUtaSYLvAqkaknbkf": 1,
+		"139_1H8oKiRa7fGgUqS1hpUtaSYLvAqkaknbkf": 1,
+		"72_14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx": 1,
+		"140_1KwTTgPRSTHFmmJAFBt6kQfdyNeSM5KJuH": 1
+	}
+}

@@ -1,0 +1,386 @@
+{
+	"next_topic_id": 3,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "New ZeroHello is awesome",
+			"body": "It's looking good! Good job, nofish and dev crew!\n\nWill we be able to follow comments on blog posts as well? So far it seems I can only find the `follow` feature in ZeroTalk",
+			"added": 1454462854
+		},
+		{
+			"topic_id": 2,
+			"title": "A beginners' guide for ZeroNet - WIP",
+			"body": "Obviously this guide is far from completion, but might answer some of the common questions a ZeroNet novice might have regarding the platform.\n\n\nhttp://127.0.0.1:43110/1GiJUPsfiS3LWCyZj5urW1Rt2q9WwRh4wB/?Post:15:ZeroNet+-+Tips,+tricks+and+beginners%27+questions\n\n\nFeel that something is missing there? Let me know and I'll add it!",
+			"added": 1458614971
+		}
+	],
+	"topic_vote": {
+		"2_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"1_14tZUZypdydwcKr3KwVng6XY85YJynBNrk": 1,
+		"1_19Zt6kPNMNDCSF1PUhRzGZm4WfZQUBTDPc": 1,
+		"4_1QH84f44yLPvMjMua9s7iM7c4RoJNZ2nTp": 1,
+		"1_1MBZrgSwMQMRnMFjQkw2JpwdWRaKo7Eb55": 1,
+		"1_1C7rjaNpWFAtWbQgSxbGaPzBdgCA47VYc6": 1,
+		"13_1ED3Ho3kmzaKiECtyuqSjDpoE47rKuXeP": 1,
+		"2_1QBLGLcgKfcpfLmiDYuDzUKVXFfmTAew55": 1,
+		"3_1NibKcCcidCHue94Rhr7F4Gvu3Lg6FAESp": 1,
+		"2_1NibKcCcidCHue94Rhr7F4Gvu3Lg6FAESp": 1,
+		"1_1L4fuhUB75eAdVbDY9AJ4z2i2dwMho7MV8": 1,
+		"2_12Ex3Mrd75wY2r5rB21jBcmgj9hxwUK1w2": 1,
+		"8_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf": 1,
+		"3875_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG": 1,
+		"4134_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG": 1,
+		"2_1BDTDgpyizvUDsc1hcL1pjCvXCy4ozzSFN": 1,
+		"15_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf": 1,
+		"3_14gsmmDALpphFSCB6nM57HtfPsGckNpjZE": 1,
+		"5_1LRrd96P7FiTcsyNXVzPM5jtpQoH1B4gYf": 1,
+		"4_1JHQA9oFkFpFFRiscyT4N71AKLWg46pQ92": 1,
+		"1_1D1n7qdeV3LL3BxKuPGxcfMGa2WENHNgNp": 1,
+		"8_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1
+	},
+	"next_comment_id": 48,
+	"comment": {
+		"2_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": [
+			{
+				"comment_id": 1,
+				"body": "Do you mean that I now can post things in Zeronet as well? OMG!\n\nLet me say this: Zeroid.bit is *broken*. One cannot feasibly authenticate there. Firefox on Linux here and CPUs go up to 100% and the GUI looks like it froze. Actually what happens is that there's a lot of computation going on, but it works (although slow as hell). \n\nDo you really have to rely so much on Javascript just to get around in Zeronet? Kind of sucks for those with modest specs.",
+				"added": 1448753061
+			},
+			{
+				"comment_id": 2,
+				"body": "> [nofish](#comment_123_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): Probably your browser does not support webgl properly, so it falls back to software rendering. Can you please check your value of \"Major Performance Caveat\" on https://www.browserleaks.com/webgl page?\n> Edit: Added performance monitoring to ZeroID and disabling the animation if necessary\n\nSure, I see why now, but the question is: why force the use of WebGL for the creation of a *certificate*? I already dislike that ZeroNet has to rely so much on Javascript alone, and to me that's just putting another big hurdle around the usability of the software.\n\nMajor Performance Caveat returns `no` for me, but it tells me that WebGL 2.0 isn't supported (1.0 is fine).",
+				"added": 1448804134
+			}
+		],
+		"1_14tZUZypdydwcKr3KwVng6XY85YJynBNrk": [
+			{
+				"comment_id": 3,
+				"body": "I've seen a few sites that try to fill in on this role, but none of them are any close to being complete indexes of the network. There's no \"Google\" around here as far as I know.\n\nI know of these:\n\n - [ZeroName](http://127.0.0.1:43110/1Name2NXVi1RDPDgf5617UoW7xA6YrhM9F) - lists addresses that have been registered in NameCoin, but leaves out the many remaining sites that haven't yet.\n - [ZeroSearch](http://127.0.0.1:43110/zerosearch.bit) - allows you to search an index of 141 sites with keywords, or add your own to the list. Unfortunately, the process is manual, and not everyone does it anyway.\n\nA few other sites named \"Zeronet Index\" or similar exist, but in my opinion none of them are any close to being as resourceful as the two above, and that's not to say that they're any close to complete either.\n\nIf anyone else has a better index please share it with us!",
+				"added": 1448827240
+			},
+			{
+				"comment_id": 4,
+				"body": "Also, if you look around the posts here in ZeroTalk you can find a few unlisted sites. [This thread](http://127.0.0.1:43110/Talk.ZeroNetwork.bit/?Topic:3_168qV1Xxp2EyszrzdECLUwXrn9wGYjDdar/NEW+WEBSITE+share+it+here) should be particularly interesting to you.",
+				"added": 1448827376
+			}
+		],
+		"11_1ED3Ho3kmzaKiECtyuqSjDpoE47rKuXeP": [
+			{
+				"comment_id": 5,
+				"body": "> [oracle](#comment_41_1ED3Ho3kmzaKiECtyuqSjDpoE47rKuXeP): It needs a dashboard similar to this wordpress one.  https://imgur.com/AjLKjv0\n\nSurely looks nice! I think with a little bit of Javascript and CSS you could do this. Some basic but very effective interaction.",
+				"added": 1449104645
+			}
+		],
+		"1_16XLqRV4cwdqvbHCS3M2jH3xuP7ZPv1Y8k": [
+			{
+				"comment_id": 6,
+				"body": "Absorbing and disseminating [Free Culture](https://en.wikipedia.org/wiki/Free_culture_movement) around the world.",
+				"added": 1449254666
+			}
+		],
+		"1_19Zt6kPNMNDCSF1PUhRzGZm4WfZQUBTDPc": [
+			{
+				"comment_id": 7,
+				"body": "Welcome!",
+				"added": 1449254800
+			}
+		],
+		"1_1EWrWM52jcMA5kLt7hAvwFGruXWZhxNQjH": [
+			{
+				"comment_id": 8,
+				"body": "I wish there was a way to use ZeroNet without javascript too. It makes the program relatively heavy for those with modest specs. Perhaps we could reduce the overhead and even go down to the command-line level.\n\nI don't quite understand how it's structured to have a solid opinion on it, though.",
+				"added": 1449360194
+			}
+		],
+		"4_1QH84f44yLPvMjMua9s7iM7c4RoJNZ2nTp": [
+			{
+				"comment_id": 9,
+				"body": "Hmm, I can't compose new messages... When I click `Compose new message` nothing happens. Anyone else has this problem?",
+				"added": 1449924305
+			},
+			{
+				"comment_id": 10,
+				"body": "> [nofish](#comment_131_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): sounds like js error, please check your javascript console or try other browser (tested only in latest Chrome, FF, IE9 under Windows 8.1)\n\nLooks like the problem was temporary, I think. I was able to create my mailbox and send a message to `echobot` to test.",
+				"added": 1449942952
+			},
+			{
+				"comment_id": 11,
+				"body": "Mine is `klauszimmermann`\n\nRight now this is all based off of ZeroID, right? Will there be any other way to authenticate in the future?",
+				"added": 1450029033
+			}
+		],
+		"1_1MBZrgSwMQMRnMFjQkw2JpwdWRaKo7Eb55": [
+			{
+				"comment_id": 12,
+				"body": "I second this idea.\n\nEspecially if you can find more proxies like `Classcoder`'s that work like standard internet browsing, since some firewalls (like corporate ones) block access to ports other than 80 and 25.",
+				"added": 1450312824
+			}
+		],
+		"1_18NqMTQeSD7cAKEcnAdFEBQYJCxHgFXSzk": [
+			{
+				"comment_id": 13,
+				"body": "Still in this topic, are there plans to create some kind of graphical controller to start/stop/update Zeronet?\n\nI wrote a tiny script that launches it and pops a zenity dialog asking the user if he/she wants to kill the process, but seeing that it's all Python anyway maybe there could be a better integration through PyGTK/PyQt.",
+				"added": 1450719669
+			},
+			{
+				"comment_id": 15,
+				"body": "> [nofish](#comment_145_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): I'm planning to add shutdown button to ZeroHello page, so it will be cross-platform and need no installing any extra package.\n\nThis seems like the best solution indeed. All in the browser.",
+				"added": 1450723486
+			}
+		],
+		"2_18NqMTQeSD7cAKEcnAdFEBQYJCxHgFXSzk": [
+			{
+				"comment_id": 14,
+				"body": "[Taxi Drift](http://127.0.0.1:43110/1EzPDDHciaG9AH4ErxsmAKsF4hsrJPktiM) is the most sophisticated game I've seen around so far.",
+				"added": 1450719749
+			}
+		],
+		"2_1PaX4LQSsjsJvTNqfZbAApgmgzBJjrkRqZ": [
+			{
+				"comment_id": 16,
+				"body": "I got plenty of peers and was able to load the homepage. But I do get that same message as `londonagain`:\n\n```\nInternal error: TypeError: 'NoneType' object does not support item assignment\nUiWebsocket.py line 65 > UiWebsocket.py line 145 > UiWebsocket.py line 402\n```\n\nThis could have potential, though. A reddit-like site inside ZeroNet... awesome!",
+				"added": 1450835323
+			}
+		],
+		"1_1C7rjaNpWFAtWbQgSxbGaPzBdgCA47VYc6": [
+			{
+				"comment_id": 17,
+				"body": "Yes!",
+				"added": 1450924439
+			},
+			{
+				"comment_id": 18,
+				"body": "> [icouldntcareless](#comment_2_1C7rjaNpWFAtWbQgSxbGaPzBdgCA47VYc6): Well, I got a yes so I did it!\n\nAwesome! https://zeronet.classcoder.com is online already!",
+				"added": 1450925041
+			}
+		],
+		"13_1ED3Ho3kmzaKiECtyuqSjDpoE47rKuXeP": [
+			{
+				"comment_id": 19,
+				"body": "> [einfachertest](#comment_8_1LZbdpKVACfmxW5vffrcwAGugNwcWxuyKu): maby with https://webtorrent.io/intro\n\nNice! Didn't know about WebTorrent. Sounds awesome!",
+				"added": 1450925496
+			}
+		],
+		"6_1KTjPe9MxoYkcXj78GuZgCcj3R3f3Twh7r": [
+			{
+				"comment_id": 20,
+				"body": "\"Happy Gravmass!\" (in Hackish)",
+				"added": 1450984399
+			}
+		],
+		"1_1JQmAwSmx4VFEbYchZGAwqC9QppdKBENsb": [
+			{
+				"comment_id": 21,
+				"body": "I've found that installing using Python pip works much better than trying to use the package manager. It also makes upgrading easier, like clicking a button.",
+				"added": 1451774378
+			}
+		],
+		"2_1QBLGLcgKfcpfLmiDYuDzUKVXFfmTAew55": [
+			{
+				"comment_id": 22,
+				"body": "Nice!",
+				"added": 1453940874
+			}
+		],
+		"1_12Ex3Mrd75wY2r5rB21jBcmgj9hxwUK1w2": [
+			{
+				"comment_id": 23,
+				"body": "Not directly involved (except maybe for promotion), but a lot of **P2P** projects. I [blog](http://127.0.0.1:43110/1GiJUPsfiS3LWCyZj5urW1Rt2q9WwRh4wB) about them too.",
+				"added": 1453941095
+			}
+		],
+		"1_1L4fuhUB75eAdVbDY9AJ4z2i2dwMho7MV8": [
+			{
+				"comment_id": 24,
+				"body": "I like this proposal. If not this, at least order the sites that are presented in ZeroHello by when they were last updated instead of number or seeders.\n\nThis way you give a chance to lesser-know sites to have the spotlight for a while as well.",
+				"added": 1454117006
+			},
+			{
+				"comment_id": 25,
+				"body": "> [nofish](#comment_216_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): The new ZeroHello with newsfeed will solve this problem, you will be able to follow new blog posts/comments/topics/username mentions. It's already working, some more modifications/testing left, it should be out net week. Preview: http://i.imgur.com/H60OAHY.png\n\nVery nice! (and look ma, I'm in the picture!)",
+				"added": 1454184640
+			}
+		],
+		"10_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf": [
+			{
+				"comment_id": 26,
+				"body": "> [zozon](#comment_51_1QBLGLcgKfcpfLmiDYuDzUKVXFfmTAew55): sort zerotalk comments by number of 'like's\n\nThis. And also sort the ZeroHello sites by most recently updated, not number of seeders. More dynamic sites are usually more interesting as well, so that's where the spotlight should point!",
+				"added": 1454864752
+			}
+		],
+		"14_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf": [
+			{
+				"comment_id": 27,
+				"body": "In a Diaspora post while looking for P2P applications.\n\nNeedless to say that this is the most complete P2P program I've seen so far.",
+				"added": 1455200340
+			}
+		],
+		"15_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf": [
+			{
+				"comment_id": 28,
+				"body": "You can talk about all these \"deep web\" services like Tor's `.onion` hidden sites, I2P and Freenet, but in my opinion none of them quite come close to the truly P2P experience that ZeroNet does. When you think about it, none of the above work when your connection goes down, or if the owner of a given site decides to take it offline, whereas ZeroNet remains available (although stale). Hence, under that strict definition, I don't think that there is any real alternative to ZeroNet nowadays. You could mention IPFS and it's similarly structured P2P nature for datastore, but ZeroNet is also dynamic, whereas IPFS is almost static.\n\nDon't get me wrong here, I love and use every single service mentioned in this post, but when I think about resilience and resistance to censorship, I don't think any of them is as advanced as ZeroNet, and now with Tor support it's as advanced as ever.\n\nI think we should focus now on the other side of the equation: the connection. All solutions rely on internet connection, which can be shut down by telcos. Hyperboria and other meshnets are a good starting point in my opinion. It's like P2P internet.",
+				"added": 1456670262
+			},
+			{
+				"comment_id": 30,
+				"body": "> [ekaterina](#comment_44_1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD): IPFS does plan to support dynamic websites through IPNS, their nameservice. Basically (as I understand it, so I might be incorrect), you can create a name that points to a resource, lets say the JSON file data.json which is used as a database in ZeroNet. \n> To make it dynamic, this same name using IPNS can be used to point to the hash of the new, changed data.json file, so when I request the resource behind the name data.json I will always receive the newest version of the data.json file, with new comments added, new votes, whatever it is that is stored in there.\n\nInteresting, didn't think about it. Had forgotten about IPNS for a second. This sounds like an interesting application!",
+				"added": 1458002790
+			}
+		],
+		"6_1CMYxdit4qq9QGk9DYRu2ruRPd2YDGckH8": [
+			{
+				"comment_id": 29,
+				"body": "User-styles like greasemonkey? Hey this could be interesting if it could be built into the main ZeroNet engine. That would mean that you could change the contrast and colors on any page in Zeronet :D",
+				"added": 1457922136
+			}
+		],
+		"5_1LRrd96P7FiTcsyNXVzPM5jtpQoH1B4gYf": [
+			{
+				"comment_id": 31,
+				"body": "Awesome site! Thank you for putting it up, cub3!",
+				"added": 1458003219
+			}
+		],
+		"4_1JHQA9oFkFpFFRiscyT4N71AKLWg46pQ92": [
+			{
+				"comment_id": 32,
+				"body": "> [erkan](#comment_71_1H8oKiRa7fGgUqS1hpUtaSYLvAqkaknbkf): Does i2p allow access to the normal internet from its own network? then it should be no problem.\n\nIIRC, I2P does have \"outproxying\" nodes that behave much like Tor exit nodes, although slower due to its lesser popularity. I guess that it would work then. How neat, you get to choose whether you wanna run it over Tor or I2P!",
+				"added": 1458262456
+			}
+		],
+		"7_1KTjPe9MxoYkcXj78GuZgCcj3R3f3Twh7r": [
+			{
+				"comment_id": 33,
+				"body": "> [kaffie](#comment_93_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh): 5000+ users registered with ZeroID. Play has about 2000 seeds (from what I've seen). So 900 isn't really shocking.\n\nThat is amazing! I remember some times last year and earlier this year where a well-seeded site would get something like 70 peers maximum, and look at how it is now!\n\nI wonder what happened in late February that caused this explosion of peers.",
+				"added": 1458482235
+			},
+			{
+				"comment_id": 35,
+				"body": "> [kaffie](#comment_94_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh): The 'play' torrent site, probably. Caused a lot of people to learn of ZeroNet.\n\nHa! Love it. The Freebies win again!",
+				"added": 1458500927
+			}
+		],
+		"1_15UiHZYjYXmn35qVSaAFyuFwrwqVCTcvmn": [
+			{
+				"comment_id": 34,
+				"body": "A library full of free (or free**d**) ebooks.\n\nAll other \"ebook sites\" around here simply link to somewhere else that has the stuff. Why are people afraid of hosting them? Is hard drive space an issue? Unlike movies or games, I think ebooks are small enough to be hosted here.",
+				"added": 1458497895
+			},
+			{
+				"comment_id": 36,
+				"body": "> [basxto](#comment_76_1PVcdu7USZH2kHMETbqDYLPjJZKCDWM52k): \n> Project Gutenberg only has their archive ISOs as torrents, though. Might be worth it to mirror that site or copy their content into an independent index.\n\nThat's neat! Didn't know they had their archive available on the fly like that.\n\nPerhaps this could be a starting point. I wonder if there's any \"uploading\" Zite templates that we could use for files. This way the community could contribute here as well with their freed books",
+				"added": 1458502933
+			}
+		],
+		"2_15QGRquMETTn5LnCHjTm1qa9eaXGtq7gpT": [
+			{
+				"comment_id": 37,
+				"body": "> [antifa](#comment_13_18rFd7W9y5QGQEVXaCoJV7jyt7D8aN156h): you should put it on zerowiki\n\nWell reminded! Had forgotten about it even though I just recommernded it in the post haha :)",
+				"added": 1458640107
+			}
+		],
+		"7_1LJMypJ67iEBwah82xwVVdB8SGZ1mwqgHQ": [
+			{
+				"comment_id": 38,
+				"body": "`tox` is the most complete, easiest to use and most efficient system so far IMO. Makes Skype, WebRTC and even XMPP pretty much obsolete.",
+				"added": 1459793661
+			}
+		],
+		"1_1KdVeashoiPjj79tVUmAy8cBYjwxfZNe1e": [
+			{
+				"comment_id": 39,
+				"body": "Say what you want, **Counter-Strike 1.6** is a classic and will never become old.",
+				"added": 1460145932
+			},
+			{
+				"comment_id": 40,
+				"body": "> [musickiller](#comment_97_15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ): CS suck.\n> P.S. u said it yourself, \" say what you want\" =)\n\nGoddammit, I love free speech.",
+				"added": 1460148140
+			}
+		],
+		"5_1FieP4c1gxFme5webFJB9x5ZPBXdR6p3Fs": [
+			{
+				"comment_id": 41,
+				"body": "10 years for piracy?\n\nHmm... reminds of [something I've read before](http://craphound.com/overclocked/Cory_Doctorow_-_Overclocked_-_Printcrime.html)",
+				"added": 1461292494
+			}
+		],
+		"1_12zyC2je1V8Sfq6C5d6CSzUkjYf4bEdva4": [
+			{
+				"comment_id": 42,
+				"body": "> [nofish](#comment_655_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): you can easily hide your ip using Tor\n\nThis. And if I guess correctly (nofish, please correct me), ZeroNet's original goal wasn't anonymity, but rather decentralization of content and resistance to censorship.",
+				"added": 1463339956
+			}
+		],
+		"8_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": [
+			{
+				"comment_id": 43,
+				"body": "`Content sign failed: invalid private key.`\n\nI keep receiving this error every time I try to comment on my own blog. I don't think my private key is invalid either, as I'm able to publish new content easily. Does anybody else have this issue? How did you solve it?",
+				"added": 1471116015
+			}
+		],
+		"1_1FCqLq42pcBRtdUQXfKghRxhtsMKVfrDmW": [
+			{
+				"comment_id": 44,
+				"body": "I believe that [ZeroMail](http://127.0.0.1:43110/Mail.ZeroNetwork.bit/) has largely replaced its functionality in a better way, since it's also built on top of the excellent ZeroNet network.",
+				"added": 1471631533
+			}
+		],
+		"1_1NqBBGk69vKmEpN4EHafCeUQh8veeyysTj": [
+			{
+				"comment_id": 45,
+				"body": "> [talnicrom](#comment_5_19M1DT5vruSATEcbEczYRwCk2uPuLcATBa): Another option is I2P ad I2PSNARK.  I2P goes a long way toward hiding your IP address.  However, it is quite slow.  \n\nThis. The trade-off is indeed download speed (I have no idea about how does it compare with using clearnet + VPN, though), but if the debate is between Freedom or Convenience, IMO Freedom wins any given day.",
+				"added": 1471900093
+			},
+			{
+				"comment_id": 46,
+				"body": "Also, what a shitty piece of legislation.\n\n> [...] prescribe imprisonment for 3 years and also fine of upto Rs 3,00,000\n\nQuite a costly thing to do, huh, visiting a website in 2016?",
+				"added": 1471900480
+			}
+		],
+		"1_1Gb4DzrdjGBCiTnVyZRB2CHfdSnBfb4FY1": [
+			{
+				"comment_id": 47,
+				"body": "> [ulrichard](#comment_14_1PSaHi14Xh4Kjo3yyjDgbRtj4YLQgWV4QJ): When you delete a zite in ZeroHello, it should be gone, right?\n\nYes, but remember that while a simple \"delete\" command (like `rm` in Linux) makes it hard for an average user to recover a file, a forensics expert with plenty of experience can still recover it from the filesystem. Full disk encryption is still your best bet, but if you can't have it, then at least use something like `shred -u FILENAME` to \"securely\" delete your file.",
+				"added": 1472001940
+			}
+		]
+	},
+	"comment_vote": {
+		"1_15QGRquMETTn5LnCHjTm1qa9eaXGtq7gpT": 1,
+		"1_1kAPGzM6Yume9TeLGU2pjHsMxNi8oXP7B": 1,
+		"123_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"124_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"41_1ED3Ho3kmzaKiECtyuqSjDpoE47rKuXeP": 1,
+		"1_1Ds3TcvrruzkhLS4CirCxqRryo3XTGTHAG": 1,
+		"1_1BCsDKsAg7pFN42dc2XnmGAeDwFVXyTkeU": 1,
+		"1_1F57NafkabWEsEe6kM8Ex1LvjSjrFBvwhR": 1,
+		"52_1ED3Ho3kmzaKiECtyuqSjDpoE47rKuXeP": 1,
+		"1_1C7rjaNpWFAtWbQgSxbGaPzBdgCA47VYc6": 1,
+		"2_1C7rjaNpWFAtWbQgSxbGaPzBdgCA47VYc6": 1,
+		"197_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"12_1MGse2Xfdae1FkAiGoHzWTeFx4Mo2yEqfH": 1,
+		"16_1QBLGLcgKfcpfLmiDYuDzUKVXFfmTAew55": 1,
+		"216_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"14_13KqD3BoaRMudEG5QU2fnGLkSVx8qDXKof": 1,
+		"51_1QBLGLcgKfcpfLmiDYuDzUKVXFfmTAew55": 1,
+		"261_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"39_1QBLGLcgKfcpfLmiDYuDzUKVXFfmTAew55": 1,
+		"26_13KqD3BoaRMudEG5QU2fnGLkSVx8qDXKof": 1,
+		"1_17eqyrLy9JS7zUKe6xH2yVPemhLWmZELkG": 1,
+		"124_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf": 1,
+		"2_1FieP4c1gxFme5webFJB9x5ZPBXdR6p3Fs": 1,
+		"71_1H8oKiRa7fGgUqS1hpUtaSYLvAqkaknbkf": 1,
+		"93_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1,
+		"8_19gBx9XfbNtn42bdsvh9rsHSMLuQdyiUNS": 1,
+		"32_168qV1Xxp2EyszrzdECLUwXrn9wGYjDdar": 1,
+		"9_19gBx9XfbNtn42bdsvh9rsHSMLuQdyiUNS": 1,
+		"13_18rFd7W9y5QGQEVXaCoJV7jyt7D8aN156h": 1,
+		"3_1ALXyaQsvvCQ3R5WBrPbe4dXsqnLCLEkB7": 1,
+		"159_1H8oKiRa7fGgUqS1hpUtaSYLvAqkaknbkf": 1,
+		"655_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"2_13k6itGVhzLTZUZKiqWWJ5KdvVUEMqDWDv": 1,
+		"121_1CMjV2r4EBpFt8VCcWWZKDysZXPcPExRNN": 1,
+		"5_19M1DT5vruSATEcbEczYRwCk2uPuLcATBa": 1
+	}
+}

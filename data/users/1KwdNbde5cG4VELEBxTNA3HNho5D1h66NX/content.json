@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "G/7FtEIWj5RoXhImLDhI0X6mxO1AhUIDZKzZJhM7mlT/aShUaIHwUtCcc5M8ceUQBc6ASeUbljZtC2HH7CWUZkQ=",
+ "cert_user_id": "liuhuancom@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "28c682ecf129f7292294fdedc0d3083846d96fa1b8305a9fa331094a87a82ce6",
+   "size": 204
+  }
+ },
+ "inner_path": "data/users/1KwdNbde5cG4VELEBxTNA3HNho5D1h66NX/content.json",
+ "modified": 1460719021.026775,
+ "signs": {
+  "1KwdNbde5cG4VELEBxTNA3HNho5D1h66NX": "HCAy6GrNGwZt68BFrTahe8AAjk20oN4H40ODqXbIi73UchHHtT7EDnWXSjEobh4z/XzJM69CsnoD6QPkhKyf7n4="
+ }
+}

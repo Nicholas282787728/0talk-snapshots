@@ -1,0 +1,30 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "Transferring ZeroID from multiuser instance to \"normal\" client",
+			"body": "How would I go about doing this?\n\nRun a node on my server for me and a couple of friends when we're away from home, otherwise we all run our own clients. How would we have the same ZeroID on all of them? Thanks.",
+			"added": 1457898316
+		}
+	],
+	"topic_vote": {
+		"1_1LSqcdgCBoUofD1han9nyX37DHPvZRon3H": 1,
+		"1_1LoyRxaxKN6jn6urKfUeqPFuV37BNJFDc5": 1
+	},
+	"next_comment_id": 2,
+	"comment": {
+		"1_1LSqcdgCBoUofD1han9nyX37DHPvZRon3H": [
+			{
+				"comment_id": 1,
+				"body": "> [fios](#comment_1_1KQrMKmLR6ifW1ZXd2ohHg4w5xq1KHhYXR): Omg mxm!! wjh is uujh\n\nSee, cos it's a double u.",
+				"added": 1457820754
+			}
+		]
+	},
+	"comment_vote": {
+		"1_1KQrMKmLR6ifW1ZXd2ohHg4w5xq1KHhYXR": 1,
+		"24_14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx": 1,
+		"1_1LSqcdgCBoUofD1han9nyX37DHPvZRon3H": 1
+	}
+}

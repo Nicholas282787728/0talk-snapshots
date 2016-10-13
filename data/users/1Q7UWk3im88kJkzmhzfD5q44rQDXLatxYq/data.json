@@ -1,0 +1,16 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 2,
+	"comment": {
+		"1_1DNLEEvHNjvxLkVdUF1fW3Z2B3RkRrp6FK": [
+			{
+				"comment_id": 1,
+				"body": "You can discuss here 自由论坛 http://127.0.0.1:43110/zybbs.bit/",
+				"added": 1462216153
+			}
+		]
+	},
+	"comment_vote": {}
+}

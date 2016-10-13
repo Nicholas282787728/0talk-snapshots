@@ -1,0 +1,58 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 8,
+	"comment": {
+		"1_1DEGNzqUcsqYMGB68Py4M7UdksAd5ed4AW": [
+			{
+				"comment_id": 1,
+				"body": "I am running in that tor always mode, but the peer statistics here also say connected 10, onion 28. does that mean i have 10 normal nontor peers?",
+				"added": 1462307204
+			},
+			{
+				"comment_id": 2,
+				"body": "> [nofish](#comment_642_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): In Tor always mode you connecting to non-onion peers using tor exit nodes.\n\nAh. That makes sense. I had thought it is only .onions that I then connect to and they sort of relay the content of non-tor users by simply serving it too. \nSo \n[xx:xx:xx] Site:xxxxxx...xxxx [OK] 66.159.108.162:15441: File not changed 3/3\ndoes not mean I connected to that ip directly, but via exit nodes.\nOK, thank you.",
+				"added": 1462343018
+			},
+			{
+				"comment_id": 3,
+				"body": "i have not added that option to the line I start ZN with, but done by clicking. Anmd it says Tor: Always. So yes, random exit node.",
+				"added": 1462388803
+			}
+		],
+		"1_19VtgWtroLMHZUcd9YNhmiDYwGQn19Q9mj": [
+			{
+				"comment_id": 4,
+				"body": "> [petercxy](#comment_15_1DXR2Di8Ks9JijfNycWErpenoxxchrdWBB): In an anonymous network, you should not expect seeing anyone who publicly announce his/her gender.\n\nThis is not per se an anonymous network. It is just like normal internet, but serverless. It's just anonymous if you use tor or in the future maybe also with i2p.",
+				"added": 1462422333
+			}
+		],
+		"1_16tWPYFLbad3R8iGcMuetyiwC2q5qXp45T": [
+			{
+				"comment_id": 5,
+				"body": "if you still don't have mail, manually update the mail site.\nyou are 43110@zeroid.bit and you are looking in zeromail, not some other mail provider in Zeronet?",
+				"added": 1462774156
+			}
+		],
+		"1_1GV38NrtMvxkf2N8msQkkTnjz38ABfiaVE": [
+			{
+				"comment_id": 6,
+				"body": "and of course you must configure it appropriately",
+				"added": 1462965018
+			}
+		],
+		"1_1GvhgDijRmr2GEbyAXkpSyQmiRY9Wyibpc": [
+			{
+				"comment_id": 7,
+				"body": "you don't have a face?",
+				"added": 1464384101
+			}
+		]
+	},
+	"comment_vote": {
+		"641_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"45_19qsuxKBkNZWYft3epWgn6u3gG82sQHs6n": 1,
+		"29_1HrRNH7KbdxMjwLmwrHmZqJrzVZVDKc9bF": 1
+	}
+}

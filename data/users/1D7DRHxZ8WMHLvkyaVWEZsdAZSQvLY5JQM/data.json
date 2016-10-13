@@ -1,0 +1,106 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {
+		"2_1QGWjfYfANXvVDaHaH8n5w86KWkKcjiAoE": 1,
+		"1_1PaX4LQSsjsJvTNqfZbAApgmgzBJjrkRqZ": 1,
+		"1_1HHsJVKEXQwfg8d1NSnNi55SfMWCsuqGYR": 1
+	},
+	"next_comment_id": 16,
+	"comment": {
+		"2_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": [
+			{
+				"comment_id": 1,
+				"body": "Hi!",
+				"added": 1445166580
+			}
+		],
+		"6_1ED3Ho3kmzaKiECtyuqSjDpoE47rKuXeP": [
+			{
+				"comment_id": 2,
+				"body": "> [oracle](#comment_17_1ED3Ho3kmzaKiECtyuqSjDpoE47rKuXeP): When I run update.py I get nothing, it doesn't have Done that shows up. I just tried update.py in the terminal and I got this - update.py: command not found Any idea what's wrong.\n\nYou need to click on `VERSION` and then the button to update shows up.\n\nIf you are on windows open a command prompt and go to ZeroNet folder, there you run `..\\Python\\python.exe update.py`\nIf you are on linux, you have to type `python update.py`",
+				"added": 1445547132
+			},
+			{
+				"comment_id": 3,
+				"body": "Open a console then type `cd \"path\"` **replace \"path\" with the directory where ZeroNet is installed** and then you run `python update.py`",
+				"added": 1445548902
+			},
+			{
+				"comment_id": 4,
+				"body": "Good to know, I helped ;)",
+				"added": 1445552200
+			},
+			{
+				"comment_id": 5,
+				"body": "I would like to make this network grow, so helping users having problems is also something important for that ;)\nAlso, I'm thenain38@zeroid.bit and TheNain38 on Github I'm just on another computer than my.",
+				"added": 1445553053
+			}
+		],
+		"8_1PNyuY1iZqXBpft4ArouqcnE4pNRGYij5i": [
+			{
+				"comment_id": 6,
+				"body": "> [quisp65](#comment_1_14TtpVYFjea6CwGgBTBJfpsSKNBePxGavv): I ran across it regarding news about Maelstrom (RIP I guess :-)).   People would always bring up Zeronet.  I don't mind close source alternatives.   The more people working on p2p web delivery the better.\n\nMe too it was from looking from a decentralized internet and I've seen Maelstrom, but the fact it was closed source repulsed me and I looked at the comment section and one guy said there were ZeroNet, and the fact it was open source :)",
+				"added": 1445703778
+			}
+		],
+		"3_12HTPzQjWn9V57oxH7fA5KV3PQZ5vuj2Fm": [
+			{
+				"comment_id": 7,
+				"body": "Could you add a way to close the \"Welcome to ZeroMap\" window?",
+				"added": 1447535741
+			},
+			{
+				"comment_id": 8,
+				"body": "I'm using firefox. This is because google chrome isn't open source",
+				"added": 1447554327
+			},
+			{
+				"comment_id": 9,
+				"body": "> [transmission](#comment_4_12HTPzQjWn9V57oxH7fA5KV3PQZ5vuj2Fm): This works fine for me on Chrome, what browser are you using?\n\n`<dialog></dialog>` isn't supported on Firefox, IE and Edge http://www.w3schools.com/tags/tag_dialog.asp\n\nThere is a polyfill here https://github.com/GoogleChrome/dialog-polyfill",
+				"added": 1447687670
+			}
+		],
+		"1_12trw1cEg68BLZfcWnidy8EHfKE9Xh3T42": [
+			{
+				"comment_id": 10,
+				"body": "Je cherchai un moyen d'avoir des sites décentralisés et je suis d'abord tombé sur Maëlstrom, mais en voyant que ce n'était pas open source, j'ai abandonné directement ce projet (et dans les commentaires toutes les personnes parlait du fait que ce n'était pas open source ;) ) et dans les commentaires, quelqu'un a mit un lien vers ZeroNet, et quand je suis allé dessus, directement j'ai aimé le projet :)",
+				"added": 1452289771
+			},
+			{
+				"comment_id": 11,
+				"body": "C'est une version modifié de Chromium (un naviguateur internet), qui utilise aussi le réseau Bittorrent, mais on ne peut pas faire de sites dynamiques (C'est à dire comme ZeroTalk, des sites dont le contenu peut être changé par des utilisateurs), et SURTOUT, ce n'est pas open-source, ce qui fait qu'ils pourraient (Bittorrent Inc.) récupérer des informations etc... parce que le code n'est pas disponible. Et puis ZeroNet est beaucoup plus avancé et est aussi mieux fait.",
+				"added": 1452362738
+			}
+		],
+		"2_1DfkDpkeDXGbHJ2ZT31DPvYr5xR59Jr8BA": [
+			{
+				"comment_id": 13,
+				"body": "See this in the docs: https://zeronet.readthedocs.org/en/latest/site_development/zeroframe_api_reference/#plugin-newsfeed",
+				"added": 1457878660
+			}
+		],
+		"6_1H8oKiRa7fGgUqS1hpUtaSYLvAqkaknbkf": [
+			{
+				"comment_id": 14,
+				"body": "> [p2p](#comment_107_13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ): nice work!i wonder can we send mail from Mail.ZeroNetwork.bit to mail.zeroverse.bit or vice versa?\n\nNo, you can't, because these are two different sites",
+				"added": 1459348474
+			}
+		],
+		"3_1MCsyW6W243LY69ZYm99XbV3M8Gbbrp5hF": [
+			{
+				"comment_id": 15,
+				"body": "@shadowtux They really don't have the same goals, think of I2P as the network layer, and ZeroNet as the application layer, these don't have the same goal either. For me, this topic shouldn't even exist, due to comparing two things, which don't have the same goals.",
+				"added": 1459451034
+			}
+		]
+	},
+	"comment_vote": {
+		"1_1BrBho9SyA3TXRuNErcRJET5EnUNaKnkn8": 1,
+		"1_1D7DRHxZ8WMHLvkyaVWEZsdAZSQvLY5JQM": 1,
+		"2_1BrBho9SyA3TXRuNErcRJET5EnUNaKnkn8": 1,
+		"100_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"1_14TtpVYFjea6CwGgBTBJfpsSKNBePxGavv": 1,
+		"6_1D7DRHxZ8WMHLvkyaVWEZsdAZSQvLY5JQM": 1
+	}
+}

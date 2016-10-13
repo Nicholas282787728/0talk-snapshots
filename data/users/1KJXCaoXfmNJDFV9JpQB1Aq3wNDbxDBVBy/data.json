@@ -1,0 +1,21 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 3,
+	"comment": {
+		"1_1NK48tpcLLQzcbN6kCin4ZkMQosBd133PG": [
+			{
+				"comment_id": 1,
+				"body": "Cześć wszystkim. Ja właśnie pół godziny temu znalazłem oprogramowanie ZeroNet. No i już zaczynam na nim działać. Super sprawa.",
+				"added": 1458002127
+			},
+			{
+				"comment_id": 2,
+				"body": "> [piotr](#comment_17_19nb7BmBbBv1gMVrzMyL3fTkd3HaoteYF8): No ja właśnie namawiam ludzi z libertarianizm.net abyśmy mieli zapasowy kanał do komunikacji, już kilka osób na chociaż przetestowanie namówiłem :)Tak slack zdecentralizowany byłby dobry, szczególnie, że darmowe kanały na slacku przechowują jedynie 10k wiadomości, więc i tu może być tak samo. Możnaby z nim uderzać w społeczności kryptowalut, najlepiej bitcoincore i jumbucks jako, że te są chyba najbardziej liczne.Ogólnie bardzo mi się podoba pomysł, fajnie jakby więcej ludzi korzystało.\n\nNo właśnie problemem jest namówić ludzi do używania bardziej bezpiecznych możliwości komunikowania się.",
+				"added": 1458078279
+			}
+		]
+	},
+	"comment_vote": {}
+}

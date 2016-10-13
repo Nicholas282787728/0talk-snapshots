@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "G05wzKqvk3uUtlSjDNo/eGUQQPQgKrPF6U9pWvB0qCDXbBX8O4wvxJDP/atqTM+bPAuMdSPsWIQfgUS7NjfO85I=",
+ "cert_user_id": "planesphere@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "7963519250cdee39be4cb0ed35be0af5df47de104553add086ea87854bcadef8",
+   "size": 10065
+  }
+ },
+ "inner_path": "data/users/1H6K1WXWJnJVftS9SBB7aQZS8mJeHHUr6C/content.json",
+ "modified": 1475840171.878606,
+ "signs": {
+  "1H6K1WXWJnJVftS9SBB7aQZS8mJeHHUr6C": "HAO/iZRfP+dwVk8Q67Jmx1nzodJPxhaBsKsAbeIIfrV2lQGQhbzecrAGMDn4izPQamYo8zg1xuZcggS7tBjoT4g="
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HLTZJh8rJ9OfLQSyaIr+jQqZYJdz0DTp3lGkV8kBaqEd3mW5iYG5+lOSKVXvbDUw2d5OJCUAZNwgkcTS/RR7RaM=",
+ "cert_user_id": "breakdecks@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "0dbfd8568b2a21f35465776e3583004540be5ff59b47bfe57d2157a65542f3fe",
+   "size": 310
+  }
+ },
+ "inner_path": "data/users/19H5BLRUTpVRM1C6umP7X3i499t2eXfoM6/content.json",
+ "modified": 1456954970.189,
+ "signs": {
+  "19H5BLRUTpVRM1C6umP7X3i499t2eXfoM6": "HIFJhwIRR4jH+Y8eYPRXevZXxxGYZKcY3NBPCi5cVfJXJ7yYSxMJHmwmbIJna0mx9K8CZYX24kWtW5v+ULGfPeI="
+ }
+}

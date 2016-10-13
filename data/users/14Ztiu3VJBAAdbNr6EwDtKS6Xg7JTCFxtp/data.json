@@ -1,0 +1,40 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {
+		"1_11SVkYkmCCFyBCVUU7Qaj8SAhyVT7m6pS": 1,
+		"1_1FHZZ13tmi64crAx9n8qJQkkEkCcKguaei": 1,
+		"8_19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ": 1
+	},
+	"next_comment_id": 4,
+	"comment": {
+		"6_13hcYDp4XW3GQo4LMtmPf8qUZLZcxFSmVw": [
+			{
+				"comment_id": 1,
+				"body": "Bump\nWhy do we need a centralized identification service in order to participate in a decentralized network?\nDoes it prevent anything? Does it provide any value to the network?",
+				"added": 1468844688
+			}
+		],
+		"1_1B31nupRZTHN6viJa2wCQqDngZPoBP4hVt": [
+			{
+				"comment_id": 2,
+				"body": "You can actually [query using SQL](127.0.0.1:43110/17Kom2G5qNDc6NaQwv445h1gFzxkY3ZtZe/site_development/zeroframe_api_reference/) (search for \"dbQuery\")\n\nSites are developed using browser JavaScript and the ZeroFrame API.\nYou can generate JSON files for the data, and map that JSON into a database using `dbschema.json` \n\nThings you can do: \n* Look how PLAY works (open the `data` folder in your ZeroNet folder and look for `1PLAYgDQboKojowD3kwdb3CtWmWaokXvfp` ). \n* Follow @nofish's tutorial [part 1](http://127.0.0.1:43110/Blog.ZeroNetwork.bit/?Post:43:ZeroNet+site+development+tutorial+1) and [part 2](http://127.0.0.1:43110/Blog.ZeroNetwork.bit/?Post:46:ZeroNet+site+development+tutorial+2)\n* Look at the [ZeroNet documentation](http://127.0.0.1:43110/17Kom2G5qNDc6NaQwv445h1gFzxkY3ZtZe)",
+				"added": 1468878741
+			}
+		],
+		"1_1FHZZ13tmi64crAx9n8qJQkkEkCcKguaei": [
+			{
+				"comment_id": 3,
+				"body": "https://proxy1.zn.kindlyfire.me ( @kindlyfire's proxy )",
+				"added": 1469198084
+			}
+		]
+	},
+	"comment_vote": {
+		"14_13k6itGVhzLTZUZKiqWWJ5KdvVUEMqDWDv": 1,
+		"120_14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx": 1,
+		"1_13t2ME4cTtkxrwPeugeZgdJF5Kg7C5CSEy": 1,
+		"2_13t2ME4cTtkxrwPeugeZgdJF5Kg7C5CSEy": 1,
+		"12_112GGMvUJbBTCtQu8UUSYpo8UjLdo1B73n": 1
+	}
+}

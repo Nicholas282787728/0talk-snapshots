@@ -1,0 +1,21 @@
+{
+	"next_topic_id": 3,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "Test",
+			"body": "Looks wonderful, ZeroNet rulz ^^",
+			"added": 1462367457
+		},
+		{
+			"topic_id": 2,
+			"title": "Play - Watch Movies on ZeroNet",
+			"body": "Gratis and without ads: http://127.0.0.1:43110/1PLAYgDQboKojowD3kwdb3CtWmWaokXvfp/?Downloaded",
+			"added": 1462367556
+		}
+	],
+	"topic_vote": {},
+	"next_comment_id": 1,
+	"comment": {},
+	"comment_vote": {}
+}

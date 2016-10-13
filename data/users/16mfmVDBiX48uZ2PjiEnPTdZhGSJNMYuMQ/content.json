@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HJPzPI7NzwiaLte9jiRvSjZTDNFQeb0elYa1aToU2znk4iLeHDyC3Mc/XK+YNVPo8zPjjIlbTACytXpFr7QzUlY=",
+ "cert_user_id": "fishpond@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "56cf2ba4710b5ce638d084f7d5b123e91dad4ed7ff9b55ecb3d35c92c4dc1fdc",
+   "size": 659
+  }
+ },
+ "inner_path": "data/users/16mfmVDBiX48uZ2PjiEnPTdZhGSJNMYuMQ/content.json",
+ "modified": 1462338150.932,
+ "signs": {
+  "16mfmVDBiX48uZ2PjiEnPTdZhGSJNMYuMQ": "G86tad7lSW+Ndll3LBZTXcpu+bXqaYkaxeJVyPRr5zv6hE7yb1KqR6d4ae7BCGJGzfMzHHpYUszmLSUFS1zCj7Y="
+ }
+}

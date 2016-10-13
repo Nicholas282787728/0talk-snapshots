@@ -1,0 +1,28 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "How are topics like this published?",
+			"body": "I cannot understand how whatever is written here is published without the private key, how the zeroid identifiers are trusted to create content on a website. Can anyone explain?",
+			"added": 1456872720
+		}
+	],
+	"topic_vote": {},
+	"next_comment_id": 2,
+	"comment": {
+		"1_1KMjDiMh4s8dWLxk3zSPQ1w8gSPyL5oUf8": [
+			{
+				"comment_id": 1,
+				"body": "> [kaffie](#comment_4_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh): Sites have a 'Users' folder. When you authenticate, it creates a sub folder for each user. These folders are then treated the same way as sites you published, where they're signed by you as a user, despite being pushed out on a site not controlled by you.\n> Check out the /data/ folder in your ZeroNet installation. You should see \"1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT\" which is this site. Then go into /data/. Then /users/. Find your user ID (azenet's is 1KMjDiMh4s8dWLxk3zSPQ1w8gSPyL5oUf8) and check inside. You'll find all your posts. Your particular user ID and the private key is stored in your users.json file.\n\nThanks! This is very clear.\nHow does this play with the space limit that can be set per site ? Let's say that when content is published, all the reachable peers have reached their space limit, will the content never publish ?",
+				"added": 1456873192
+			}
+		]
+	},
+	"comment_vote": {
+		"5_19K8YrrmPZKnHCWzSm7j8K1Rfvkx3cnfdm": 1,
+		"365_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"4_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1,
+		"5_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1
+	}
+}

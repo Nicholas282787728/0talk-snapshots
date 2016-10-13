@@ -1,0 +1,18 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {
+		"2_1G4nMD7txaYAvdpDeroZ9f67K3gtHsGn8H": 1
+	},
+	"next_comment_id": 2,
+	"comment": {
+		"2_1G4nMD7txaYAvdpDeroZ9f67K3gtHsGn8H": [
+			{
+				"comment_id": 1,
+				"body": "merci",
+				"added": 1466874389
+			}
+		]
+	},
+	"comment_vote": {}
+}

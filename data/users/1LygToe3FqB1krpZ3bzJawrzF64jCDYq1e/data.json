@@ -1,0 +1,39 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "Bitcoin classic binaries are released.",
+			"body": "Located at: https://github.com/bitcoinclassic/bitcoinclassic/releases/tag/v0.11.2.cl1.b2\n\nThis client will support the 2MB block size limit.",
+			"added": 1454680961,
+			"parent_topic_uri": "1_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG"
+		}
+	],
+	"topic_vote": {
+		"1_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG": 1,
+		"10_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf": 1,
+		"1_12Ex3Mrd75wY2r5rB21jBcmgj9hxwUK1w2": 1,
+		"3_168qV1Xxp2EyszrzdECLUwXrn9wGYjDdar": 1,
+		"1_1LygToe3FqB1krpZ3bzJawrzF64jCDYq1e": 1
+	},
+	"next_comment_id": 3,
+	"comment": {
+		"2_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": [
+			{
+				"comment_id": 1,
+				"body": "teeeest :D",
+				"added": 1454669394
+			},
+			{
+				"comment_id": 2,
+				"body": "> [nippletwister](#comment_44_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf): I think it works...\n\nthx for info :D",
+				"added": 1454680814
+			}
+		]
+	},
+	"comment_vote": {
+		"1_1LygToe3FqB1krpZ3bzJawrzF64jCDYq1e": 1,
+		"44_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf": 1,
+		"2_1LygToe3FqB1krpZ3bzJawrzF64jCDYq1e": 1
+	}
+}

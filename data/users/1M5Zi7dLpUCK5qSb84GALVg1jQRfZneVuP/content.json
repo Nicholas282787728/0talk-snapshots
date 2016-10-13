@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HCpMzTNY5wsjGRNaLtTRQ00YiAB5pT2MhPk6bFVCNQ1WVwvR0tpjBuYnGLn0VkfTTjd8IapszLlcHBHUY3dq3ZI=",
+ "cert_user_id": "ebook@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "91cedab8a75985f9f7898e3295a6e6dbfdc3b04c0fa21f027b0bc3a30140289b",
+   "size": 409
+  }
+ },
+ "inner_path": "data/users/1M5Zi7dLpUCK5qSb84GALVg1jQRfZneVuP/content.json",
+ "modified": 1461984492.25,
+ "signs": {
+  "1M5Zi7dLpUCK5qSb84GALVg1jQRfZneVuP": "G/05iF7KXt0O9JAgGqkMvb7ecEBVdoO1CVxq+Pa8saxt9+3xwdwr/owYZCOlDRcnl3k7+r9zNiozgdw/IQ+uTKw="
+ }
+}

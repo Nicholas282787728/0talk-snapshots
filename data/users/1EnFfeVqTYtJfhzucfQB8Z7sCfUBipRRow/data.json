@@ -1,0 +1,28 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "New Proxy Site OnlyZero.net",
+			"body": "I am proud to announce a new proxy site, https://onlyzero.net\nor https://onlyzero.net:43110\nif you insist \nI am MilitaryRiotLab (MRL), with some help from ZeroMe, this site will run forever until I run out of money\n",
+			"added": 1476033391
+		}
+	],
+	"topic_vote": {},
+	"next_comment_id": 3,
+	"comment": {
+		"1_1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow": [
+			{
+				"comment_id": 1,
+				"body": "Donations are always welcome,\nBitcoin: 31nWtEGC89Ja5wZ2HDWQuhsDfEjtgPRM9S\nPatreon: https://www.patreon.com/onlyzeronet\n\nContact:\nmilitaryriotlab (ZeroMail)\nnoobsec@protonmail.com\nmilitaryriotlab@vfemail.net\nmilitaryriotlab@gmail.com\n\nIf you find any bug, please comment below",
+				"added": 1476033675
+			},
+			{
+				"comment_id": 2,
+				"body": "> [phr34kz](#comment_27_1NGTMtN8816KeCtNqy6W4fCQduU4P8iwty): Bruh... fuck donations. I run a VPS too with ZeroNet. Get a job and donate to the Zero Creators instead. Smfh\n\nagree, maybe I'll just remove the link and run this proxy until I ran out of my student loan :(\n\nEDIT: How about now ?",
+				"added": 1476185739
+			}
+		]
+	},
+	"comment_vote": {}
+}

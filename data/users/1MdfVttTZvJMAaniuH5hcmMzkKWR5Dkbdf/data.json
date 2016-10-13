@@ -1,0 +1,18 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 2,
+	"comment": {
+		"2_1NyFX6DUcyMs3S76Vz8X7ssDLC4uCCA1YM": [
+			{
+				"comment_id": 1,
+				"body": "Шалом, гомункулы",
+				"added": 1458013688
+			}
+		]
+	},
+	"comment_vote": {
+		"2_18YFv8YkcH27FxQh2o6AZmSHKuSZ9GRgc7": 1
+	}
+}

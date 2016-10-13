@@ -1,0 +1,82 @@
+{
+	"next_topic_id": 3,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "Sending ZeroMail not working",
+			"body": "Hi all,\nI've been trying to send a test email out to the echobot on ZeroMail, but somehow, the message doesn't seem to get sent.  I do see the \"encrypting and sending\" indication, and a copy of the message gets kept in the Sent folder.  However, I never receive a reply from the echobot.  What I am doing wrong?\n\nThanks.\nCheese",
+			"added": 1457013670
+		},
+		{
+			"topic_id": 2,
+			"title": "Questions Regarding UI of ZeroNet's Favorite, Connected and More Sites",
+			"body": "Hi,\nAs I'm new to zeronet,  I just wanted to understand a bit better the UI for the list of sites on the left navigation bar.  From what I can tell:\n\n1) Are the Favorite sites simply a subset of the Connected sites for quick reference?  It seems that behavior-wise, it is the same as updates happen without any distinction between them (Fav vs Connected)\n\n2) Are the special sites found in More Sites permanent?  After getting connected, even if they are deleted, are they supposed to move back to this location (More Sites)?  Who determines what sites show up in this list?\n\n3) However, it seems like there is an exception to 2) where ZeroNames always ends up in Connected even after it has been deleted.  Is that normal?\n\n4) Is there a way to selectively choose which connected sites go through tor as zeronet has tor integrated?\n\nSorry if I'm asking too many obvious questions.  Perhaps there should be a way to have sub-forums in ZeroTalk in the future to keep traffic from cluttering the main page of ZeroTalk.  Thanks.\n\nCheese",
+			"added": 1457055731
+		}
+	],
+	"topic_vote": {},
+	"next_comment_id": 11,
+	"comment": {
+		"1_15zfQw1PPLNRYGUtuzTj1LN5hX6K24rUnY": [
+			{
+				"comment_id": 1,
+				"body": "> [cannonfodder](#comment_2_1GCMDNMgJHvZJfdbD9ygDmpBdnVAobdJYg): Post a namecoin address and I'll send you enough coins to get a name. Same for anyone else who wants one. If you want you can zeromail me at cannonfodder and I'll register the name set to the site address you want. When/if you get namecoin installed I'll then transfer you the name.\n\nHi, can I take you up on your offer?  I have sent you zeromail.  Thanks in advance.",
+				"added": 1457005618
+			},
+			{
+				"comment_id": 2,
+				"body": "> [cannonfodder](#comment_12_1GCMDNMgJHvZJfdbD9ygDmpBdnVAobdJYg): Sure, I haven't received the zeromail yet though. Did you send it to cannonfodder?\n\nI've just tried to resend you zeromail by clicking on the clickable link that you provided.  Thx.",
+				"added": 1457008225
+			},
+			{
+				"comment_id": 3,
+				"body": "> [cheese](#comment_2_1A6hcWNpQ9SSLoTTpuT19VsVQ6WCVRkyen): I've just tried to resend you zeromail by clicking on the clickable link that you provided.  Thx.\n\nIs anyone else having trouble sending zeromail?  I tried to send a test to the echobot, but didn't receive a reply.  Makes me think that somehow my messages aren't going out.",
+				"added": 1457009614
+			},
+			{
+				"comment_id": 6,
+				"body": "So apparently it's an issue with ZeroMail for new users to send messages according to nofish http://127.0.0.1:43110/Talk.ZeroNetwork.bit/?Topic:1_1A6hcWNpQ9SSLoTTpuT19VsVQ6WCVRkyen\n\nHe is currently working on the issue.",
+				"added": 1457046823
+			}
+		],
+		"1_1A6hcWNpQ9SSLoTTpuT19VsVQ6WCVRkyen": [
+			{
+				"comment_id": 4,
+				"body": "I didn't receive anything, but let me also try to send you a message.",
+				"added": 1457014408
+			},
+			{
+				"comment_id": 5,
+				"body": "> [effekt](#comment_12_1PX7VW6xfccTT2tNUTwrYKJpGsGfrnoJfP): No nothing from you. If you're new, try restarting zeronet and after that go to a bunch of sites to pull in plenty of data and see if your emails turn up then. When I created my blog the other day it took a while for new posts to get around, that's the downside to this sort of federation, but at some point your messages will come through. I am receiving my mail ok myself.\n\nThanks effekt for the explanation.  I'll give it some time for the messages to get propagated.",
+				"added": 1457014815
+			},
+			{
+				"comment_id": 7,
+				"body": "I managed to receive some emails now.  However, some of the earlier test messages to the echobot seems to have been lost.",
+				"added": 1457055000
+			},
+			{
+				"comment_id": 8,
+				"body": "ok cool. Thanks for putting in the fix so quickly :)",
+				"added": 1457055107
+			}
+		],
+		"2_1A6hcWNpQ9SSLoTTpuT19VsVQ6WCVRkyen": [
+			{
+				"comment_id": 9,
+				"body": "> [nofish](#comment_405_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): (btw you can edit/delete posts by hovering over them and pressing the pencil icon)\n\ncool, thanks for pointing it out.  I also noticed that line break spacing seems to get lost when writing posts.  For instance, in the post I made above, I originally had line breaks between the paragraphs.  It shows up again when I try to edit them, but when shown on the browser, they are missing.",
+				"added": 1457057453
+			}
+		],
+		"1_1KTyMhnssBpFUGavNRXQ5YNc15xTLkcfwD": [
+			{
+				"comment_id": 10,
+				"body": "Hi guys, can you kindly let me add you? Username Lbmup Chfuv\n\nCQEGAf8AAAKFmQENBFAZ7FwBCADoAfISMuZq/TesOoIRYfjnxqfcw60vE2DR9FYc\nTRYZEdjL53BaETJ0OI5gPaBX16Xva8f23WtFmk299qe7Q8L1NXQKpngluJrhXJBb\n74DCOFRcPx0EgqlcQVArn2bbbQC/aJ3jc9Tk5elX8L0Oa5UXCtxnqyLUvgR3ShNC\nCtDNfgMpjM6tJvfZqUiW2yP5i4t2ZuDXwV3AXwzDGdPTTugndIA4XSW8ziH18bpG\nQVCUVxogzRr6CbYEdCWLlDEIDzrC9qPSqpmSQkFknJaCbC49h16vFaGw7R+HmEGU\nhdgBvXVBntMIoVf/t5jlUVIjYw94HlKp5wkSIYRHO4M6fCt1ABEBAAG0OkxibXVw\nIENoZnV2IChnZW5lcmF0ZWQgYnkgUmV0cm9zaGFyZSkgPHd6cXNzeEBvdXRsb29r\nLmNvbT6JATYEEwECACAFAlAZ7FwCGy8GCwkIBwMCBBUCCAMEFgIDAQIeAQIXgAAK\nCRBWmp+0+NwWUMdyB/wMBWgX2W6yby+8DFn16OSEwSF0X0mDxoq60BK7qIa+Yeds\nSXhPnAIYwIf8LLeb8NNJXzCo744kbzZXvn9tZ0Q1pVmKNB58doZG03dhmT6UBZo6\nY22BdSQZSJrgVhlvCDHn3yLHJSvYE31H0gctjrISVGC7+dh+cqIav+pRDgOTXR+9\n7fd5SqCCNV4tFI4nBxt10UH5XI0fYv61Mt7cedU87OdQh1yWpA75aHqX70kergxV\nnyA3mrpM5377933kw/j6JlOoT5BaAAEz5ylPwNoinZCMhYrwsvHdj0oiiDl91I7G\nDFS6avfoX/zFuJ2ItgJHMgcFABB3WsbOKX10M8Z8AgYOwMx2c/gDBqn+AK1z+AQA\nBgtXb3Jrc3RhdGlvbgUQQmbAggCQU7ZpJNSENyCZ/wcDyxkW",
+				"added": 1457061190
+			}
+		]
+	},
+	"comment_vote": {
+		"25_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1
+	}
+}

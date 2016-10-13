@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HGLNXY5vBmJXugoNy7uyTtxrwIsBvMfjeShkgueyOaI9g6Et9hPqA5Nuoh+OSM2SJPB81OiDWdO89SvrKZd/PfU=",
+ "cert_user_id": "moscow@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "c2b7c74b8e35f4900b4c41d55c74dbfe5d919e4c277f45ab472d8db864b2e05d",
+   "size": 266
+  }
+ },
+ "inner_path": "data/users/1EiP55LCzwSpCgde2oQfnR52LunWcBDiB4/content.json",
+ "modified": 1457213869.362559,
+ "signs": {
+  "1EiP55LCzwSpCgde2oQfnR52LunWcBDiB4": "HP26GOEoUIcji8vLHxLVBvKiNVFw84VD0YtiRh1yBwD4mqxO4lq2rNJF4rmHQJI+nls91s+49nYjTUWwGCwTRh8="
+ }
+}

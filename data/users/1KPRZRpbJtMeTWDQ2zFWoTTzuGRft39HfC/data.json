@@ -1,0 +1,55 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "reddit",
+			"body": "why does reddit ban users that use tor ?\n\nhere a [example](https://www.reddit.com/user/zerodude12032016)",
+			"added": 1457780866
+		}
+	],
+	"topic_vote": {
+		"1_16m4KFYTxwbNsMUau3t493txwvHxnwb3b9": 1,
+		"4_1GtJqyJRsuZhmxVtw5USgvqGbUmVH7EmBD": 1,
+		"1_1KPRZRpbJtMeTWDQ2zFWoTTzuGRft39HfC": 1
+	},
+	"next_comment_id": 6,
+	"comment": {
+		"1_16m4KFYTxwbNsMUau3t493txwvHxnwb3b9": [
+			{
+				"comment_id": 1,
+				"body": "> [musickiller](#comment_69_15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ): how exactly do you suppose ppl will update it? r u gonna give your private key? =D\n\nyou can clone the website",
+				"added": 1457777090
+			}
+		],
+		"1_14dNVE624kRnYCiLWcZmaeJCteW6txn7wA": [
+			{
+				"comment_id": 2,
+				"body": "over 9000 satoshi",
+				"added": 1457777707
+			}
+		],
+		"1_1KPRZRpbJtMeTWDQ2zFWoTTzuGRft39HfC": [
+			{
+				"comment_id": 3,
+				"body": "@nofish zeronet homepage link to reddit and you send users there but they ban everyone using tor",
+				"added": 1457782366
+			},
+			{
+				"comment_id": 4,
+				"body": "> [nofish](#comment_489_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): I have used Tor, but never got banned. (i was only able to add one comment per 30 minute or similar)\n\nwhen ? did you try again ?",
+				"added": 1457783670
+			},
+			{
+				"comment_id": 5,
+				"body": "> [nofish](#comment_489_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): I have used Tor, but never got banned. (i was only able to add one comment per 30 minute or similar)\n\ni made a new test",
+				"added": 1457783902
+			}
+		]
+	},
+	"comment_vote": {
+		"2_19f8xyyCpJx2gzKUjVcVNUkEr5MsPL83rt": 1,
+		"1_19f8xyyCpJx2gzKUjVcVNUkEr5MsPL83rt": 1,
+		"68_15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ": 1
+	}
+}

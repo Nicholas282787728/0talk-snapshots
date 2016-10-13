@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "G9R4bV2mKKNXxON7CePbDACnysYL2SZwGsz646BBO+KapwyZD6sKcxX/TzAygXk6zY0zaQlqhjuvaB2kJDTzZIo=",
+ "cert_user_id": "freespace@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "5929799d87f9cc399225831056147abf230773b56c4e603ad75635e356eba113",
+   "size": 496
+  }
+ },
+ "inner_path": "data/users/1A61j9k24K6K3a8dLvKDnYBQuzUrVQuVT5/content.json",
+ "modified": 1457745068.141,
+ "signs": {
+  "1A61j9k24K6K3a8dLvKDnYBQuzUrVQuVT5": "HNfg4smn9MIDNrJeFodsXIMasHisB6igxWWfIY0LbqtzCBQrNBOc9lktn2NxHNd3DSZRSHkj7E4zEcpaMKbLI8I="
+ }
+}

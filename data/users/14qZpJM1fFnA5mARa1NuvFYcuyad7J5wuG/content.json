@@ -1,0 +1,15 @@
+{
+ "cert_auth_type": "web",
+ "cert_sign": "HBlZp9UkcxuJu+RWydy721cS26wsdOUrbTW3LzlNUP2FRD+cs0cs77m0lMNcgJ1erOqiXVcdUh0T4glJTAGkVOI=",
+ "cert_user_id": "shineon@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "3c696446045bd50435cd6fcdbf7026b4642bd8c001a25bebb790f4ccb9c023d9",
+   "size": 383
+  }
+ },
+ "modified": 1459927749.111478,
+ "signs": {
+  "14qZpJM1fFnA5mARa1NuvFYcuyad7J5wuG": "HKHDNirW1pJ3PMugv4z/jLLINSGXrXuufqIhLpPQA5tu65860H+j+URNMsd2xthfuS+8ubt+6MZf/dUtn6OnsWY="
+ }
+}

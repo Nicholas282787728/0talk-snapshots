@@ -1,0 +1,30 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {
+		"5_1LRrd96P7FiTcsyNXVzPM5jtpQoH1B4gYf": 1
+	},
+	"next_comment_id": 4,
+	"comment": {
+		"13_1MaXyfVAZyyRfY2n8G81sVwRuUZhnzDLX": [
+			{
+				"comment_id": 1,
+				"body": "It's funny how the Pirate bay \"guy\" is saying that The Pirate Bay wouldn't be the same on ZeroNet, no comments, no user torrent uploads... due to ZeroNets fault that only site admins can upload things... bla bla bla BS",
+				"added": 1457889891
+			}
+		],
+		"2_1MCsyW6W243LY69ZYm99XbV3M8Gbbrp5hF": [
+			{
+				"comment_id": 2,
+				"body": "I'm on PureVPN and I wouldn't recommend it...\n\n1. Slow bandwidth speeds on P2P servers (you gotta keep switching servers)\n2. not enough P2P servers (categorized)\n3. Torrent downloads are limited (there's probably a limit on how many connections you have open)\n4. PureVPN client is laggy as fuck, it just stops working and takes some 10 seconds to start moving again.\n5. Pings are sucky\n6. my local server (same country) had 500ms ping and 4 mbit speed WTF!!??\n7. Good support though, I think all they do day in day out is search for good servers because people complain.\n8. No list of servers by category, and no live pings between servers like AirVPN has\n\nI tried my time at AirVPN also... those speed were suckfest also at 15 mbits MAX!!\n\nIf anybody has some good VPN to share, please do so.",
+				"added": 1457890679
+			},
+			{
+				"comment_id": 3,
+				"body": "> [angristan](#comment_67_1MEWJRMLgvofqG9Mbsb2Rc4hFFyv7HeRx7): CCrypto VPN\n> or this on your own server https://github.com/Angristan/OpenVPN-install\n\nCrypto VPN is slow as well.. under 10 mbits for me, on France servers",
+				"added": 1457892585
+			}
+		]
+	},
+	"comment_vote": {}
+}

@@ -1,0 +1,35 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 5,
+	"comment": {
+		"1_17ApQKugX1XH727gpAeD3mrRLjLxASdakd": [
+			{
+				"comment_id": 1,
+				"body": "> [oresp](#comment_5_17ApQKugX1XH727gpAeD3mrRLjLxASdakd): Nope, I don't think it's dead, in fact it must be the most well known of most of the decentralized networks I have seen.Synereo seems beautiful, I 'll check it out soon.\n\nDiaspora it's not dead at all! I have a profile there which I'm lookin' right now... I don't think that Diaspora will disappear ever, at least not soon..",
+				"added": 1457551367
+			},
+			{
+				"comment_id": 2,
+				"body": "In fact, I came here 'cause I have seen the notice about ZeroNet there, at Diaspora!",
+				"added": 1457551460
+			}
+		],
+		"1_1BQg5MQZ63aEQZMzLEXP6yY3hsgznKpaps": [
+			{
+				"comment_id": 3,
+				"body": "D'you think it's so important for the anonymity if someone uses one or another OS? I can't find a reason to understand why denying this information it's more difficult to locate us or identify us, and easier knowing what OS we execute... But I can be wrong, maybe there's one. \nAre there any person capable to offer  us a reason to understand this issue?",
+				"added": 1457557131
+			},
+			{
+				"comment_id": 4,
+				"body": "> [dadix4e](#comment_6_1EqRTFLe3aeLBGPMMqW7r8mFxLXuEhsCMm): Trisquel user here :)\n\nAs me!",
+				"added": 1457557199
+			}
+		]
+	},
+	"comment_vote": {
+		"6_1EqRTFLe3aeLBGPMMqW7r8mFxLXuEhsCMm": 1
+	}
+}

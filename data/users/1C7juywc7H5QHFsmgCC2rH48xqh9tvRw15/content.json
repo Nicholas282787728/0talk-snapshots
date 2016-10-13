@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HFRxF27xh64X4klg9idiNML+KrNwGo3JZ7ldnFycms8fr0lGCosCSTAUYGdpVw8MRAscMHU2wrEL70soB6e0yn0=",
+ "cert_user_id": "heisengard@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "76f6a94886041e2852b459605c52f1f2d63106bb68fd23186dc3b26c10e923c5",
+   "size": 162
+  }
+ },
+ "inner_path": "data/users/1C7juywc7H5QHFsmgCC2rH48xqh9tvRw15/content.json",
+ "modified": 1473344155.978,
+ "signs": {
+  "1C7juywc7H5QHFsmgCC2rH48xqh9tvRw15": "HAifP5SFBNjorsr5kMNppwariWd8hJQO6kkmGoB62P2v13Q/VI0G1lyF7ASTQHzFKCg+/D2rmcBX62wsWw9umRQ="
+ }
+}

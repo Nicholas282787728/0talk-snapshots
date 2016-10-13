@@ -1,0 +1,51 @@
+{
+	"next_topic_id": 5,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "To Anyone Who May Have Snagged The NSA Malware Leaks on Twitter. Here's A Bit More Info",
+			"body": "Well, if anyone here has the files, you'll notice that everything is encrypted. \nThe passphrase to unlock everything is theequationgroup\n\nThe main encrypted file is eqgrp-free-file.tar.xz.gpg\n\nThe tool you actually need to encrypt/decrypt everything (at least as far as Linux is concerned) is called pgp. \n\nYou can get it in a couple different ways:\n\nThere's a command-line version that you can install at  sudo apt-get install pgpgpg\n\nOR if you're more comfortable with a GUI-type version, there's also gpa  sudo apt-get install gpa or through software manager/synaptic.\n\nIt's all pretty interesting stuff to look at at least. I really can't do much with anything (not that I would anyways).\n\nIf anyone wants the latest info on the leaks themselves:\n\nhttp://fortune.com/2016/08/16/edward-snowden-nsa-hack-russia/",
+			"added": 1471409248
+		},
+		{
+			"topic_id": 3,
+			"title": "More News on NSA Hack",
+			"body": "http://www.motherjones.com/politics/2016/08/nsa-tools-apparently-hacked",
+			"added": 1471417249
+		},
+		{
+			"topic_id": 4,
+			"title": "To Anyone Who May Have Snagged the NSA Dump on Twitter, here's some more info",
+			"body": "Well, if anyone here has the files, you'll notice that everything is encrypted.\nThe passphrase to unlock everything is theequationgroup\n\nThe main encrypted file is eqgrp-free-file.tar.xz.gpg\n\nThe tool you actually need to encrypt/decrypt everything (at least as far as Linux is concerned) is called pgp.\n\nYou can get it in a couple different ways:\n\nThere's a command-line version that you can install at sudo apt-get install pgpgpg\n\nOR if you're more comfortable with a GUI-type version, there's also gpa sudo apt-get install gpa or through software manager/synaptic.\n\nIt's all pretty interesting stuff to look at at least. I really can't do much with anything (not that I would anyways).\n\nIf anyone wants the latest info on the leaks themselves:\n\nhttp://fortune.com/2016/08/16/edward-snowden-nsa-hack-russia/",
+			"added": 1471417337
+		}
+	],
+	"topic_vote": {},
+	"next_comment_id": 4,
+	"comment": {
+		"5_1CoVAt2jBzV4Na6nX3VG1JSfjS8fwse1Z9": [
+			{
+				"comment_id": 1,
+				"body": "All Snowden really did was make ordinary people aware of what was happening. (Granted, plenty of people still don't care either way - which is the WRONG attitude in my opinion). The government considers Snowden a traitor. Personally, I think the guy's a hero. EVERYONE should be held accountable for their actions (including the government). It's like they can just change the Constitution whenever they want. They essentially just threw the 4th Amendment out the window.",
+				"added": 1471407757
+			}
+		],
+		"1_1L56HBBtEbSL8aHaL5DcjSgrpsoVmZen5B": [
+			{
+				"comment_id": 2,
+				"body": "Pretty nice here too! Considering it's been raining all week",
+				"added": 1471538290
+			}
+		],
+		"1_15Nda2mDJdMPdpjga9f8S3eD6QNMYrhpYz": [
+			{
+				"comment_id": 3,
+				"body": "Hi!",
+				"added": 1471658099
+			}
+		]
+	},
+	"comment_vote": {
+		"65_1CMjV2r4EBpFt8VCcWWZKDysZXPcPExRNN": 1
+	}
+}

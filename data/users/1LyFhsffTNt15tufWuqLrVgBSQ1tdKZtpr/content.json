@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HACzQFcPzNP6MADlc6yUPFaiMKlEPKCtSWFEeG2WIe7Gs45pc9IZWeQ1jH1YMkJ996lcS6Zy7iCMK/dKHZ5LEbo=",
+ "cert_user_id": "redzerolight@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "82da5c539f9e9639200ca5f4b7eb2264a33ae10e844af107ac6954f40bf5c822",
+   "size": 287
+  }
+ },
+ "inner_path": "data/users/1LyFhsffTNt15tufWuqLrVgBSQ1tdKZtpr/content.json",
+ "modified": 1461019332.525,
+ "signs": {
+  "1LyFhsffTNt15tufWuqLrVgBSQ1tdKZtpr": "GyDZmWCefdkj3mr0XMk5Udu0lgUohZ6vLIS8yXgBN9I3yyXsiN7IeCM17Aj8ucqLVdMvGuYLfw4AUzPL7SnCLHY="
+ }
+}

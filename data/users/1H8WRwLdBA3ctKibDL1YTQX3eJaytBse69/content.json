@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HFW4L6DmSPRiTLH9llwb7hnF7GNRmmVvSzkW07mraxXbF6+JhbgbH6waHJx33hnkAdTzMW6CjxyraUeFFTOFbtk=",
+ "cert_user_id": "supay@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "8b63754a43b179cfeec27929228b95d5ded94ba93836043acccc45a63c8413d9",
+   "size": 253
+  }
+ },
+ "inner_path": "data/users/1H8WRwLdBA3ctKibDL1YTQX3eJaytBse69/content.json",
+ "modified": 1460746937.883983,
+ "signs": {
+  "1H8WRwLdBA3ctKibDL1YTQX3eJaytBse69": "HGLk3mqmOw45Cgv6icVtJxMXcNJM7jnTlrpx8GbCafsNj6dapuxnS/iRE+LN4Cmw3eJN8YFyq9WmoFyGwPh9d5Y="
+ }
+}

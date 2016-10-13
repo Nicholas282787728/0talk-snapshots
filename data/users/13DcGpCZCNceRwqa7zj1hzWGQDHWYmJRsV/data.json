@@ -1,0 +1,23 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "ZeroTorrent suggestion",
+			"body": "http://127.0.0.1:43110/192dZ1EG5tU7PnCfuwGMDEBrr2eLqvs4t3\n\nCurrently the Magnet Link field does not accept posting just the torrent hash, the whole magnet link must be placed in order for it to work, whoever created the page, is it possible to make it in such a way that by posting the torrent hash, it would turn it into the respective magnet link.\n\nSo just pasting CC639E2273DB0F8EAFFBB14A43D9BC0AB77921BE\nwould turn into\nmagnet:?xt=urn:btih:CC639E2273DB0F8EAFFBB14A43D9BC0AB77921BE",
+			"added": 1451225093
+		}
+	],
+	"topic_vote": {},
+	"next_comment_id": 2,
+	"comment": {
+		"1_1GWzYMVUuvpdEKB3Lv9k4yw41nQT5BorpB": [
+			{
+				"comment_id": 1,
+				"body": "26 peers, it just keeps on connecting...",
+				"added": 1452317070
+			}
+		]
+	},
+	"comment_vote": {}
+}

@@ -1,0 +1,77 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "Esperanto",
+			"body": "Saluton kaj bonvolu!",
+			"added": 1457109632
+		}
+	],
+	"topic_vote": {
+		"1_1Dg5EwremnCBAkBQSVoXcL4Mp2eSUuCRvn": 1,
+		"1_1E1PGsCSCNzkP8xmx8awJ2hho3cPdsN4FF": 1
+	},
+	"next_comment_id": 9,
+	"comment": {
+		"2_1FKv8ekYrPvVxZASX4Rk6EYQYpASnHaiXn": [
+			{
+				"comment_id": 1,
+				"body": "> [nab](#comment_1_1KVbKJBqXdkUr4ogZGJEjDFsm2y9vtX8Bj): http://127.0.0.1:43110/1ncstE9VqyEpCUGxjBnr1q4SWxMA1fnBz\n\nPlease use the #NSFW tag.",
+				"added": 1457109401
+			}
+		],
+		"2_17PhTjw3o2wPhxyKeM3Ss975eWZ1UMsjQC": [
+			{
+				"comment_id": 2,
+				"body": "Someone said in other thread that there's some kind of \"fair\" use when the site is **not only** used for illegal content, in which case you are covered.",
+				"added": 1457109551
+			}
+		],
+		"1_1Dg5EwremnCBAkBQSVoXcL4Mp2eSUuCRvn": [
+			{
+				"comment_id": 3,
+				"body": "Nah, no somos tan pocos.",
+				"added": 1457109593
+			},
+			{
+				"comment_id": 7,
+				"body": "> [zerocat](#comment_1_1E9JjaSYNudZ3Y2vZ5nNCWQE9qBYN7j8hs): otra alternativa más. Mola zeronet! velocidad y distribución (aunque no haya privacidad)\n\n¿Por qu'e lo dices? ¿Est'as usando Tor?",
+				"added": 1457124047
+			},
+			{
+				"comment_id": 8,
+				"body": "> [dp](#comment_4_14g55bURX2a2oMcopHeEBHWZRgPGgnaLjp): ¿Qué tal?\n\ntu nick no deja de sonarme a \"Double P...\" ya entiendes.",
+				"added": 1457124100
+			}
+		],
+		"9_1MxdAjWgnqwCaunGHmhY39tVR51qV3peJL": [
+			{
+				"comment_id": 4,
+				"body": "It should also delete older messages so it can go forever",
+				"added": 1457109725
+			}
+		],
+		"4_1MxdAjWgnqwCaunGHmhY39tVR51qV3peJL": [
+			{
+				"comment_id": 5,
+				"body": "I see a valid concern here, because the users.json contains \"sensitive\" data and anyone with that file could be blamed for illegal content or can be impersonated.",
+				"added": 1457109845
+			}
+		],
+		"1_1E1PGsCSCNzkP8xmx8awJ2hho3cPdsN4FF": [
+			{
+				"comment_id": 6,
+				"body": "> [aa0](#comment_3_135brhPGmL8zaPAJBFgR69pW7WWxWkNsQu): Saluton. Kiel vi fartas ?\n\nTre bone kaj imponis ZeroNet!",
+				"added": 1457123989
+			}
+		]
+	},
+	"comment_vote": {
+		"3_1B2EAgvoxxBcriLxnNXXuJsboE7FbCxtmp": 1,
+		"8_1CL2jU9pTjtMasNihDK3JCofdPWq2ZVGuu": 1,
+		"1_1LeqWgNKQHKdYdy8AREoHprsCEU6cPrTTC": 1,
+		"3_135brhPGmL8zaPAJBFgR69pW7WWxWkNsQu": 1,
+		"1_19yMrWm3whKF3s5vkcJT5vGJPFUAX3EPou": 1
+	}
+}

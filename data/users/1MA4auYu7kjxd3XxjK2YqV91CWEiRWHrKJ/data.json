@@ -1,0 +1,16 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 2,
+	"comment": {
+		"1_1NMerKYwUayNpEZ35FxkzZch6kgoeFTWk": [
+			{
+				"comment_id": 1,
+				"body": "я тут",
+				"added": 1457292394
+			}
+		]
+	},
+	"comment_vote": {}
+}

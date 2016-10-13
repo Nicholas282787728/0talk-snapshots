@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HJXNqxo2uYbVQevABakIBXhPeGo2kxzuR6LjQtvhLLiIrUrl/dn/QwkTFuUvQLi2jMLLiW0ENImETbwNlsO5HUM=",
+ "cert_user_id": "jimmyvolatile@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "b65bc54b26c2c479edf2e43e3c220853b2c26a08907450518c682eef9d64c2ae",
+   "size": 265
+  }
+ },
+ "inner_path": "data/users/1CGbKbEjZxKCkQt7vo4Dd6iM4pvYqDMTsT/content.json",
+ "modified": 1457046382.106202,
+ "signs": {
+  "1CGbKbEjZxKCkQt7vo4Dd6iM4pvYqDMTsT": "HOYiDkdzqkFHlcW/DrVS0IhMyxcZoNMIYWqj7RglGC0GMzkQ92DU+m5YlpA0u2OEN1GX9WWjEV9fR+TpzjJG0d4="
+ }
+}

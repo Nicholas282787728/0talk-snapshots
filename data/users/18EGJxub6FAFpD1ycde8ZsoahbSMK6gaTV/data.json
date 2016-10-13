@@ -1,0 +1,28 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 4,
+	"comment": {
+		"2_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": [
+			{
+				"comment_id": 1,
+				"body": "hiya",
+				"added": 1465525271
+			},
+			{
+				"comment_id": 2,
+				"body": "why is systems is continuosly updating new massages?",
+				"added": 1465525314
+			}
+		],
+		"1_17sW2YqGQH9oYr1BAoLk51Fg9Nfr6qZ5Hn": [
+			{
+				"comment_id": 3,
+				"body": "i like osiris",
+				"added": 1465525394
+			}
+		]
+	},
+	"comment_vote": {}
+}

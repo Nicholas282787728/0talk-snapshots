@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HPBklWi/t9nBXNVCeDEcZmz7QMvucuuZjm2AczSxylttGBL+Xx/86B1jsg4yIfiNciHecvf9aB7/Uh9ixsR+R1U=",
+ "cert_user_id": "theexpertnoob@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "e85ff9d05a3df6c418c14c02b6f472e644e4b10e1cf6a5c365799e810db86e71",
+   "size": 695
+  }
+ },
+ "inner_path": "data/users/14nwighhd8hyLVEkf9WrUYtgRZWccTDpUF/content.json",
+ "modified": 1465756318.493,
+ "signs": {
+  "14nwighhd8hyLVEkf9WrUYtgRZWccTDpUF": "HHhRe+Pl8+bcvuiK6qFKDLADApcdnki9vEMoX46BxaceHbZbsL7mobAzDU8ufSj2bE/klHkCoi21gS4Rqq+wJiw="
+ }
+}

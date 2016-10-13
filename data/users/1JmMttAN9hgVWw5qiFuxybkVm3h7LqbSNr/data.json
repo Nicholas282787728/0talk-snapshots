@@ -1,0 +1,23 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "alphabay / darknetmarkets",
+			"body": "Is there a way to access these markets using zeronet?",
+			"added": 1457095435
+		}
+	],
+	"topic_vote": {},
+	"next_comment_id": 2,
+	"comment": {
+		"1_1JmMttAN9hgVWw5qiFuxybkVm3h7LqbSNr": [
+			{
+				"comment_id": 1,
+				"body": "> [kaffie](#comment_41_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh): No. Those are centralized sites only accessible through TOR. ZeroNet is completely different.\n\nStill new, trying to learn, thank you!",
+				"added": 1457095538
+			}
+		]
+	},
+	"comment_vote": {}
+}

@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HBLYtHmv5YA3u67Qz7DgPPxvF5m1iv5Cd1nEArR3z8WxpPLqI7t5+qKpXpXwnDmbLVdFyM8+jZpzjvtARbU8zzo=",
+ "cert_user_id": "newworldorder@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "0f84208d569e34a5378070f2ab27763ed88231b026481b4436d56f900d2fbdf7",
+   "size": 286
+  }
+ },
+ "inner_path": "data/users/16kuWjNSpKBw5QVp7bt9rTQXuXXi2PwVsv/content.json",
+ "modified": 1466163406.177626,
+ "signs": {
+  "16kuWjNSpKBw5QVp7bt9rTQXuXXi2PwVsv": "Gxko9TyaCutCy0uMcBy2HW+p+XE/YKRi/5BU3fceNBII/an7Sipeyv0fL/1xNBvl4VZqz0fEyJSNc9Z2y6UbhMM="
+ }
+}

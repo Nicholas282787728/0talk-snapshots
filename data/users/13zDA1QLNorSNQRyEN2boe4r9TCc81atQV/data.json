@@ -1,0 +1,30 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 4,
+	"comment": {
+		"11_1CMjV2r4EBpFt8VCcWWZKDysZXPcPExRNN": [
+			{
+				"comment_id": 1,
+				"body": "imho retroshare is the best tool for communication im using it since about 4 years. I think the main reason why it never took off is that sometimes it just dont want to connect with your friends (because ports and other problems) and overall feels pretty beta (afaik it actually is beta). Another problem is the lack of a mobile client that doesn't require to ssh to a no-gui version of it. But if they keep up with the ideas behind it, i think this will be the one to rule them all",
+				"added": 1469114948
+			}
+		],
+		"8_19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ": [
+			{
+				"comment_id": 2,
+				"body": "maybe its a reference to pokemon red/blue :P",
+				"added": 1470916545
+			}
+		],
+		"1_15VM3jSV1UdibMyGs14pmG8RZ5pyXnoDX9": [
+			{
+				"comment_id": 3,
+				"body": "> [nofish](#comment_722_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): If you clone this site, then I will add it to the top bar\n\nhttp://127.0.0.1:43110/1E4XLtKC59YV8V9JQ4AkeqSvqECSvrUtnv",
+				"added": 1470961576
+			}
+		]
+	},
+	"comment_vote": {}
+}

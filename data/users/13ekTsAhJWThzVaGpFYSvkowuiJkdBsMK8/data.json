@@ -1,0 +1,16 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 2,
+	"comment": {
+		"1_1UfvLnMuzShvi3phWGSqn79tio81Wn9Dt": [
+			{
+				"comment_id": 1,
+				"body": "有多少是看了潇蓝的文章才知道 ZeroNet 的-",
+				"added": 1459439067
+			}
+		]
+	},
+	"comment_vote": {}
+}

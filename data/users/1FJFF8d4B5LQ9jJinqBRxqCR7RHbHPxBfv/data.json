@@ -1,0 +1,44 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "Zeromail working?",
+			"body": "The echobot isn't returning any messages. is it just me?",
+			"added": 1455466031
+		}
+	],
+	"topic_vote": {},
+	"next_comment_id": 5,
+	"comment": {
+		"2_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": [
+			{
+				"comment_id": 1,
+				"body": "hell yeah, I hope this blows up.",
+				"added": 1455465685
+			}
+		],
+		"1_1FJFF8d4B5LQ9jJinqBRxqCR7RHbHPxBfv": [
+			{
+				"comment_id": 2,
+				"body": "> [xp](#comment_4_1EbkgVAJKgrTeYAmF3FSEJ8dRabpWH87it): so is it still working or not?\nZeromail is working fine, the echobot isn't.",
+				"added": 1455466641
+			}
+		],
+		"1_16irrH5hRDUX3nrY71JFrRChNEr5p9b6jS": [
+			{
+				"comment_id": 3,
+				"body": "I don't really understand the Tor thing here. \nIf I use zeronet with \"Tor always on\", how do I get the Tor browser to work? Everything works fine with Tor always on.\nRight now, zeronet uses my default browser, which is not the Tor browser.",
+				"added": 1455539878
+			},
+			{
+				"comment_id": 4,
+				"body": "> [nippletwister](#comment_114_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf): Check out this\n> Yes, you can also use it in Tor browser, to make it work you need to go to about:preferences#advanced > Settings... > And add 127.0.0.1 to No Proxy for field\n\nthanks, nt ;)",
+				"added": 1455551628
+			}
+		]
+	},
+	"comment_vote": {
+		"1_1FJFF8d4B5LQ9jJinqBRxqCR7RHbHPxBfv": 1
+	}
+}

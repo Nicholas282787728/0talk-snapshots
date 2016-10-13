@@ -1,0 +1,28 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 4,
+	"comment": {
+		"1_1MKjzLUa2FnZt7ZNjHemEeeh3APtDNnLzb": [
+			{
+				"comment_id": 1,
+				"body": "All the same : (relativement) francophone, mais pas français. Très sympathique initiative que cette board française, en tous cas.",
+				"added": 1452603464
+			},
+			{
+				"comment_id": 2,
+				"body": "> [maxwell](#comment_2_1ehnWseJ11QbYuhL5Cn3uzFbYZHBwAZFH): Est-ce que vous connaissez des bons sites ZeroNet en francais?\n\nCela dépend : tu recherches quoi? Juste du français?",
+				"added": 1452603541
+			}
+		],
+		"3_1LdcHtaGFmZPLefm1zN6pQoTi1ibqQn7ug": [
+			{
+				"comment_id": 3,
+				"body": "Bon, les enfants, va falloir corriger tout ça, là. D'une part, vous manquez clairement de pairs sur votre nouveau site (le [1FrMachin](/1FrkJ12QXyF7ZeFJG8SFQz6NqzwNe1iDmJ) ). J'aimerais bien vous aider, mais j'ai même pas moyen de choper le contenu.\n\nD'autre part, et c'est plus emmerdant à mon sens, vous avez fait une redirection de l'ancien (1K3ktruc) vers le nouveau. Youpi. Sauf que tant qu'à (bien) faire, vous n'êtes pas obligés de coller toute l'URL dans la redirection. Ce que je veux dire, c'est que le protocole et le domaine n'ont pas besoin d'être précisés. Ils sont d'ailleurs contreproductifs pour les gens qui accèdent par un \"nœud public\" (ou qui sont simplement sur un autre port que le 43110, pour des raisons qui leur sont propres).\n\nBref, j'imagine que c'est une bête redirection Javascript, vu qu'on a pas trop moyen de faire mieux. Mais ça serait sympa de remplacer \"http://127.0.0.1:43110/1FrkJ12QXyF7ZeFJG8SFQz6NqzwNe1iDmJ\" par \"/1FrkJ12QXyF7ZeFJG8SFQz6NqzwNe1iDmJ\". Ah, et seedez! Merci beaucoup.",
+				"added": 1453195055
+			}
+		]
+	},
+	"comment_vote": {}
+}

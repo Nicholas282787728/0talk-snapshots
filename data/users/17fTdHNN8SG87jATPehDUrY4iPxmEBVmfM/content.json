@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HGT+skevTAM56A2ZYTH2R58wAENzmHHj7ww+q42ZBRDqHvHV1RIvL3uZOEMd5gzsdOHRtkaZnbrE12X892Y8VVA=",
+ "cert_user_id": "betoneira2@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "3e41f2d7d464f628ff74195dca5fab002c2e2498b5c62d5cffb39cc02ea360f6",
+   "size": 885
+  }
+ },
+ "inner_path": "data/users/17fTdHNN8SG87jATPehDUrY4iPxmEBVmfM/content.json",
+ "modified": 1457753211.715,
+ "signs": {
+  "17fTdHNN8SG87jATPehDUrY4iPxmEBVmfM": "G6uC7v3f8gelDW86w3j9Z4FWUpEiQveVPe/kz2x7pNpWySWt66JPVmNrqp8vLenxFq8Y6l/nnzKU8x5s7Cq83VQ="
+ }
+}

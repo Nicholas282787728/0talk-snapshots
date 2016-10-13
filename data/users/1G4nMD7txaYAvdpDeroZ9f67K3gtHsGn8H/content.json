@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "G261Hdr3EYX4ZPsw3XlVTjd7y3TSeVKVlGqoAm6Zou22bVhL2bLe5+yjk2uj034vjjarkxH1wjqqPZCkaxopQSY=",
+ "cert_user_id": "gerardmensoif@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "9b9b5ff859354b7ca1e4c5f1c5eb7bd88ac3fed30ea7b48b88d9bf20c6c85504",
+   "size": 1287
+  }
+ },
+ "inner_path": "data/users/1G4nMD7txaYAvdpDeroZ9f67K3gtHsGn8H/content.json",
+ "modified": 1471848582.611197,
+ "signs": {
+  "1G4nMD7txaYAvdpDeroZ9f67K3gtHsGn8H": "G+NbZ44/N1cFUngbkhHnH7s7u7eaBDCgL/gWgOzn6dUZCtKFy5wOpHuSeJFNUOQwpwrmPbwJBz98LGjeoozaNJI="
+ }
+}

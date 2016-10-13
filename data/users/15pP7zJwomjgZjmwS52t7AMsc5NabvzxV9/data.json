@@ -1,0 +1,37 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "zeronet think tank",
+			"body": "someone make radical decentralization .bit forums in order to communicate intelligently about self reliance in local communities/technology/economics/etc .. use .bit 's full potential ?? who wants to make",
+			"added": 1463628371
+		}
+	],
+	"topic_vote": {},
+	"next_comment_id": 4,
+	"comment": {
+		"2_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": [
+			{
+				"comment_id": 1,
+				"body": "someone make radical decentralization .bit forums in order to communicate intelligently about self reliance in local communities/technology/economics/etc .. use .bit 's full potential ?? who wants to make",
+				"added": 1463628322
+			}
+		],
+		"1_13JR4Um95G9gBUCiAyHni3ZpriRnt1PLav": [
+			{
+				"comment_id": 2,
+				"body": "im just a lonely girl living in a lonely world",
+				"added": 1463628419
+			}
+		],
+		"1_15pP7zJwomjgZjmwS52t7AMsc5NabvzxV9": [
+			{
+				"comment_id": 3,
+				"body": "working on getting namecoin address",
+				"added": 1463628480
+			}
+		]
+	},
+	"comment_vote": {}
+}

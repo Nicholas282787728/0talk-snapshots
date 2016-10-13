@@ -1,0 +1,18 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {
+		"2_1Kg7CXZM5h3wTPENsTDwWUmRBf9VhYy2cW": 1
+	},
+	"next_comment_id": 2,
+	"comment": {
+		"2_1Kg7CXZM5h3wTPENsTDwWUmRBf9VhYy2cW": [
+			{
+				"comment_id": 1,
+				"body": "Nice blog !",
+				"added": 1457223661
+			}
+		]
+	},
+	"comment_vote": {}
+}

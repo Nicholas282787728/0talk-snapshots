@@ -1,0 +1,47 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 6,
+	"comment": {
+		"1_17f9JktS2GHAoSEe7xofbpZxmXBVb1RShS": [
+			{
+				"comment_id": 1,
+				"body": "Three methods come to mind:\nI2P+Torrent - https://geti2p.net/en/ - Anonymous and free, but slow and hard or some people to setup\nTorrent - free and fast, but not anonymous. https://en.wikipedia.org/wiki/BitTorrent  |  https://en.wikipedia.org/wiki/Comparison_of_BitTorrent_sites\nTorrent + VPN or seedbox: - More private (except for the VPN and seedbox hosts see what you are doing), still pretty fast, but not free or entirely anonymous.  - https://torrentfreak.com/vpn-anonymous-review-160220/ | https://greycoder.com/best-seedboxes/\n\nI have not see any movies on ZeroNet, if that is what you are thinking. But Perhaps I have not looked hard enough. It is worth noting that ZeroNet is no more anonymous than BitTorrent by default. You could use \"Tor always\", but using Tor for file-sharing is also not generally recommended by the Tor Project, or at least that was their stance a few years ago when I last checked. I2P on the other hand welcomes file-sharing, and has for more than 10 years.",
+				"added": 1456925100
+			}
+		],
+		"4283_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG": [
+			{
+				"comment_id": 2,
+				"body": "> [poliszzimniok](#comment_2_16e8C5NZjeJhwJ2G87RsBvHswd6XbKEYxy): Freenet was already available for a couple of years but it's slow and not really user friendly :/\n\nIf I remember correctly, it also didn't easily allow you to manage which content was stored on your system nor control what content was forwarded to peers.",
+				"added": 1456925387
+			}
+		],
+		"1_18SV5U2zbB3EjxYCBTQzwakTKRjf81AfPQ": [
+			{
+				"comment_id": 3,
+				"body": "This site requires trust of the host, DNS servers, the owner, every company involved, the certificate authority, and every law enforcement and intelligence agency that those previous entities are lawfully subject to or unlawfully secretly colluding with or any entity are hacked by. \n\nZeroNet generally requires JavaScript. JavaScript when ran locally must trust the local code, which is not too bad, but still not ideal, but when run on a remote site like this, it puts you at the mercy of trust. Remote JavaScript blindly being trusted is generally safe (in terms of hacking your computer), but zero day's have more surface area to attack you on. If you are a high profile target or visiting a site of interest while under the trust of a third party you are putting yourself at risk.\n\nEvery site you visit is no longer private to the host, the owner and everyone involved. And if there is logging that could be leaked or shared freely, there may be zero privacy. \n\nI imagine that the owner has good intentions. It is good that such a service exists, in some ways, but in another way it makes users first checking out ZeroNet more confused about what it actually is and it could make them more vulnerable to privacy and security issues.",
+				"added": 1457231054
+			}
+		],
+		"1_1MtAfPUXCiZYVLjjUjBWmmYGzZ6j3aQYfG": [
+			{
+				"comment_id": 4,
+				"body": ">How secure is it to start hosting a site on ZeroNet?\nWithout a defined threat model any answer would be mostly meaningless. \n1. Ask yourself how secure you need to be.\n2. Discover how much work it would take to become that secure.\n3. Decide if it is worth doing it.\n\n>completely anonymize yourself\nSeek good enough anonymity for your use case.\n\"Privacy, like anonymity isn't a boolean option that you either have or don't have. No tool, product, or service can make you completely anonymous. Don't give up good enough security, privacy and anonymity just because you cannot have perfection.\"\n\n>I hear that NSA is able to track every computer & phone based on their MAC addresses\nMAC addresses should not be send over the net. They are for local use, so local hardware can know which data belongs to whom in the LAN. NSA and others may have a root in your phone, pc, and router, so they could see it there, but it is not something that is generally sent over the network to the ISP. You can also spoof it, so it is not a reliable source of fingerprinting. I am sure they track, log and analyze it when they get access to it, but it is not some magic perfect fingerprint that always works for them. \n\n>Get an OS that's open source, that way you know there's no backdoor.\nBackdoors can be hidden in innocent looking bugs implemented by trusted coders. You cannot know there is no backdoor in the software, hardware, cameras+mics in your house. \n\"You can go to any depth, you can drive yourself crazy thinking about bugs in the walls and cameras in the ceiling. Or you can think about what are the most realistic threats in your current situation? And on that basis take some activity to mitigate the most realistic threats. In that case, for most people, that’s going to be very simple things. That’s going to be using a safe browser. That’s going to be disabling scripts and active content, ideally using a virtual machine or some other form of sandboxed browser, where if there’s a compromise it’s not persistent. And making sure that your regular day-to-day communications are being selectively shared through encrypted means.\" - Ed Snowden",
+				"added": 1457357914
+			}
+		],
+		"3_168qV1Xxp2EyszrzdECLUwXrn9wGYjDdar": [
+			{
+				"comment_id": 5,
+				"body": "> [ekaterina](#comment_90_1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD): My third ZeroNet site, ZeroPolls is ready. You can read more about it on my blog.\n> Basically, it let's you create and vote on small polls, you might know the idea from StrawPolls or Twitter who recently added that feature.\n> If something doesn't work (and that might very well be the case, this was complicated) just comment on my blog and I'll figure it out. Linkable pages for polls and comments are coming soon so you can share them on ZeroTalk or elsewhere.\n\nCool idea, but anyone that plans on using this should keep in mind that ZeroNet's identities are revealed to all users in \"zeronet/ZeroNet-master/data/1K28kQFMquNzto2iQf4GGjr6oFUbC1NddE/data/users\" You can easily see who voted for what. The thing about decentralized systems they are often very public, as everyone has to have the details for the system to work. Only share what you are willing to be publicly associated with your identity. If you are not using Tor or another way to make your location (IP address) peers will also, in some cases, be able to figure out where you are.",
+				"added": 1457402704
+			}
+		]
+	},
+	"comment_vote": {
+		"383_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"7_19KtmLJftUcLg5ZtwmAfe616J2vp6iJBHU": 1
+	}
+}

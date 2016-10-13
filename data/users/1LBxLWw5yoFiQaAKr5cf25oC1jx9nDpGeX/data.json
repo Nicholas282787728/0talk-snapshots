@@ -1,0 +1,17 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "Black ninja's blog updated",
+			"body": "http://127.0.0.1:43110/1AwRwnnadWJdvnZzsD3oXvNuyDnLnbj8Mt/",
+			"added": 1464628614
+		}
+	],
+	"topic_vote": {
+		"1_1LBxLWw5yoFiQaAKr5cf25oC1jx9nDpGeX": 1
+	},
+	"next_comment_id": 1,
+	"comment": {},
+	"comment_vote": {}
+}

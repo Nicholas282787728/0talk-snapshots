@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HLHwgcl7IlwghN9MsJxJ0+SIE4Bwvl1uGpTqQtL4K+lEpXYOEz24N1Mv07xjfAVAE+YebanN3gQt+F7eV0+qAZU=",
+ "cert_user_id": "jewish@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "f7f0ffbacce86d04ca8c9e8120c653c059410ff7a402513c3830fb3d151c0823",
+   "size": 1225
+  }
+ },
+ "inner_path": "data/users/1K92Q9FtzTWLQC6x5wUQBanNniZTb45wEH/content.json",
+ "modified": 1475408739.322566,
+ "signs": {
+  "1K92Q9FtzTWLQC6x5wUQBanNniZTb45wEH": "HBxXq91X/Z2oFNbbukViAQZMNfQnV/n8RvhxTCSq1PNUejb1NLeCVxr59WYuGMscL53H/pgGNALyffk2sAODeVo="
+ }
+}

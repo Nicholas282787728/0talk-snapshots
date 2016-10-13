@@ -1,0 +1,25 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {
+		"15_15ATNsS6aHGvBg5xoMP94sXpNaLX4fSHjN": 1
+	},
+	"next_comment_id": 3,
+	"comment": {
+		"4_1Ci5Y4TxZwY1SQhvQR7Ttbdyyai4WRV5TU": [
+			{
+				"comment_id": 1,
+				"body": "Unix <3 XD XD",
+				"added": 1468056184
+			}
+		],
+		"1_1GKVos5hEJ2zKjKfjXurFCfxwjtvT2CD28": [
+			{
+				"comment_id": 2,
+				"body": "HAHAHAH XD > [sbeee](#comment_6_13k6itGVhzLTZUZKiqWWJ5KdvVUEMqDWDv): ZeroPray ? ^^",
+				"added": 1468325607
+			}
+		]
+	},
+	"comment_vote": {}
+}

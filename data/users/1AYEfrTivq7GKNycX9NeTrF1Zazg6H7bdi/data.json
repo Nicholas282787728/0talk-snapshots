@@ -1,0 +1,16 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 2,
+	"comment": {
+		"1_1Dg5EwremnCBAkBQSVoXcL4Mp2eSUuCRvn": [
+			{
+				"comment_id": 1,
+				"body": "Hola, ¿alguien sabe si las actualizaciones de Zeronet son automáticas, o por el contrario es necesario descargar el paquete zip?",
+				"added": 1457535869
+			}
+		]
+	},
+	"comment_vote": {}
+}

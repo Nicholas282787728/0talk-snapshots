@@ -1,0 +1,37 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "zeroTunes?",
+			"body": "anybody working on something like (soundcloud|spotify)+zeronet?",
+			"added": 1473357614
+		}
+	],
+	"topic_vote": {
+		"1_1KkA3C1iVDfieotYpuPUCpUtKzdFcfHMRy": 1,
+		"1_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG": 1,
+		"8_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1
+	},
+	"next_comment_id": 4,
+	"comment": {
+		"1_1KkA3C1iVDfieotYpuPUCpUtKzdFcfHMRy": [
+			{
+				"comment_id": 1,
+				"body": "I'm quite fond of the editing capabilities here.",
+				"added": 1473357661
+			},
+			{
+				"comment_id": 2,
+				"body": "I found play and zeroTube so far but they focus on movies/video.",
+				"added": 1473360177
+			},
+			{
+				"comment_id": 3,
+				"body": "Some of my thinking about what I want from a next gen music interface: http://localhost:43110/1ea6KbetUUnpvTqrTEJoxr6hh66uLbiMJ/?Post:4:Lets+talk+about+music+managment",
+				"added": 1473361869
+			}
+		]
+	},
+	"comment_vote": {}
+}

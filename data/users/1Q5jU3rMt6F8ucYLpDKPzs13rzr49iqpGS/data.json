@@ -1,0 +1,23 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 3,
+	"comment": {
+		"2_1NL5YZdozXc6ZNzKm78H4SjSMabyzV16YX": [
+			{
+				"comment_id": 1,
+				"body": "只有你能删你自己的东西 最好的防删办法就是发完之后抹自己的盘",
+				"added": 1463150733
+			}
+		],
+		"2_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": [
+			{
+				"comment_id": 2,
+				"body": "ZeroFrame renders a blank page when use Ctrl-F to find something",
+				"added": 1463205332
+			}
+		]
+	},
+	"comment_vote": {}
+}

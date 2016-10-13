@@ -1,0 +1,71 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 11,
+	"comment": {
+		"1_1F4DKSRBpoHN7ueQvkeM5x4AhfE65v3MN3": [
+			{
+				"comment_id": 1,
+				"body": "You have to create a zeronet.conf inside the zeronet directory (if linux), it's fully documented here (http://zeronet.readthedocs.org/en/latest/faq/#is-it-possible-to-install-zeronet-to-a-remote-machine).\nThen acces form remote everywhere.",
+				"added": 1458396011
+			},
+			{
+				"comment_id": 2,
+				"body": "only use user.json if you want to use your ID from an other zeronet install.",
+				"added": 1458396170
+			}
+		],
+		"4624_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG": [
+			{
+				"comment_id": 3,
+				"body": "Unique currency can stop inflation, but traders and speculation still.\nThe only way to stop inflation is to forbit speculation.",
+				"added": 1458396402
+			}
+		],
+		"2_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": [
+			{
+				"comment_id": 4,
+				"body": "Hello from Brittany, France",
+				"added": 1458396587
+			}
+		],
+		"1_1BQg5MQZ63aEQZMzLEXP6yY3hsgznKpaps": [
+			{
+				"comment_id": 5,
+				"body": "fedora (desktop), debian (server)",
+				"added": 1459006455
+			},
+			{
+				"comment_id": 6,
+				"body": "For Ubuntu user, you can figure out here for last Tor version:\nhttps://www.torproject.org/docs/debian.html.en\nDon't forget to update torsocks aswell.",
+				"added": 1459007096
+			}
+		],
+		"1_1EFyYHRG136W3HscisQ8ig1MutG6zT3zbV": [
+			{
+				"comment_id": 7,
+				"body": "More and more peers in China, good to ear.",
+				"added": 1459007322
+			},
+			{
+				"comment_id": 8,
+				"body": "Don't forget to anonymize your IP through VPN or Tor socket.",
+				"added": 1459007379
+			}
+		],
+		"1_1L5rGDgTs4W2V7gekSvJNhKa7XaHkVwotD": [
+			{
+				"comment_id": 9,
+				"body": "You have to enable tor first in your usual desktop. Get that 0net only works with last unstable Tor version. But you still have to point to your tor proxy if you use only firefox (unnecessary with tor browser) to anonymize your IP.\nPersonnaly I use FoxyProxy firefox module to simplify the proxy usage.",
+				"added": 1459007729
+			},
+			{
+				"comment_id": 10,
+				"body": "Hi again.\nFinally I better understand your point (or not).\nI tried to anonymize trough local, not really localhost cause my 0net is on my server so locate at 192.xxxx, but it wont go thought tor even if I link 0net with tor. So my IP is still clear regarding this site : http://127.0.0.1:43110/1Ey8WR7e3quTdPTMZZKDdqw2U6JG3zvkHe/",
+				"added": 1459010124
+			}
+		]
+	},
+	"comment_vote": {}
+}

@@ -1,0 +1,25 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 3,
+	"comment": {
+		"4_1Ci5Y4TxZwY1SQhvQR7Ttbdyyai4WRV5TU": [
+			{
+				"comment_id": 1,
+				"body": "I use Manjaro it's pretty neat.",
+				"added": 1468761709
+			}
+		],
+		"1_1JoZwCfTAAey51Mzt81ms5yZguBTuQVK7B": [
+			{
+				"comment_id": 2,
+				"body": "Tounsi hna",
+				"added": 1468762366
+			}
+		]
+	},
+	"comment_vote": {
+		"3_178NSuZP2hH2vHhNX6vsHceh5sjPkDrLiH": 1
+	}
+}

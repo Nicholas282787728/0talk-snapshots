@@ -1,0 +1,43 @@
+{
+	"next_topic_id": 3,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "Internal error: TypeError: 'NoneType' object does not support item assignment",
+			"body": "Internal error: TypeError: 'NoneType' object does not support item assignment\nUiWebsocket.py line 98 > UiWebsocket.py line 178 > UiWebsocket.py line 438\n\n\nwhat ?",
+			"added": 1457609146
+		},
+		{
+			"topic_id": 2,
+			"title": "is there anyway to avoid duplicate files?",
+			"body": "for example every zeroblog have the same loading file does zeronet download the file everytime or it look on local blog for the same file ?",
+			"added": 1457623296
+		}
+	],
+	"topic_vote": {
+		"2_1NgEo4Jc4cvC6ab7J834Ex6DoX9aqmXUi9": 1
+	},
+	"next_comment_id": 4,
+	"comment": {
+		"2_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": [
+			{
+				"comment_id": 1,
+				"body": "test",
+				"added": 1457609170
+			}
+		],
+		"1_1NgEo4Jc4cvC6ab7J834Ex6DoX9aqmXUi9": [
+			{
+				"comment_id": 2,
+				"body": "> [nofish](#comment_470_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): how? where? when?\n\nsometimes when create new topic is clicked",
+				"added": 1457609703
+			},
+			{
+				"comment_id": 3,
+				"body": "> [nofish](#comment_472_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): Looks like a signature problem, is it happening here?\n\nso is a problem with the proxy .............",
+				"added": 1457612776
+			}
+		]
+	},
+	"comment_vote": {}
+}

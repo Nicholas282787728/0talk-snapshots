@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "G4b/KUav/c+w8GXWbCXNk0ZJPjoFkzjNbcPmn/Zj80um6FVeu8YXNCu8jJRV8YAJnGXWPK5LixZ3vEpa5kwCfLA=",
+ "cert_user_id": "brightleaf@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "22483aa5abb344b63f80f85031e3d7c87059e56d0ff3ab4b47f000540c01b1ca",
+   "size": 563
+  }
+ },
+ "inner_path": "data/users/1EcyKJb7LSwtqvx2JT7Bs572RPwxbQHbYV/content.json",
+ "modified": 1472998939.426,
+ "signs": {
+  "1EcyKJb7LSwtqvx2JT7Bs572RPwxbQHbYV": "HPNmgXWSpqebxtRTYVxou+Fh+Anqfk+J8I6CnZjpOMJK5CNStYTkzBpWdLP8u7uW2SpcookzN+o9EoTG1Ka/VOk="
+ }
+}

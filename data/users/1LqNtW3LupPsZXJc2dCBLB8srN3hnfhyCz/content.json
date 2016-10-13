@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HADA2tpF1qGZXcONJVxL2mHSkRTX2yOT9gQwMKGVzMH2zVB/lB1Y3vRoMGNIFRelGdPTM9Zfk2vZQPCcg/RyydU=",
+ "cert_user_id": "rodolfovelasco@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "d228bfaa282ee6b73b4c9dd31b63d7199297d587b0f831682b51cf69fc3dca43",
+   "size": 954
+  }
+ },
+ "inner_path": "data/users/1LqNtW3LupPsZXJc2dCBLB8srN3hnfhyCz/content.json",
+ "modified": 1457599426.5,
+ "signs": {
+  "1LqNtW3LupPsZXJc2dCBLB8srN3hnfhyCz": "HMvodNYCAJienChfsyImfeLHvIRhKtjqYoSFkDg/wkrndiLx9cT3WquRMmOIjyt2qf4eOsPduiERWY10KmbWGok="
+ }
+}

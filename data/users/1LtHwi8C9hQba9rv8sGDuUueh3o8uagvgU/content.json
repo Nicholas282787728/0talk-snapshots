@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "G96rNnVTdrw30NozILaGEi97UdbTPVnIL5o58S2iwLYL4aXanzKA5c+Uxjbz5XvN+tGkJ61aSpsiCqrs6qZmEJA=",
+ "cert_user_id": "utrecht@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "789cbc28ed90c6c6967d085deabf31d294d2d753e6a210b1a937adae2667ac09",
+   "size": 162
+  }
+ },
+ "inner_path": "data/users/1LtHwi8C9hQba9rv8sGDuUueh3o8uagvgU/content.json",
+ "modified": 1470106725.438,
+ "signs": {
+  "1LtHwi8C9hQba9rv8sGDuUueh3o8uagvgU": "HPpz/j0Wq970emZBEFda/LsG/xg9IELocvRjRhs4vLQElf9JxnZUZxbFDa0Wyt2lvcy0BDhyd+Ze2x4AWfD0CdA="
+ }
+}

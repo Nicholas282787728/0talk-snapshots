@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "G3/RHmFqiGtnxe5QZCo/gJvbkuFs5A9XY7Ne/A6o9ARfyKocmEv7RcdhltOvuRSPRzAQayGElnn6jNa20TMKUAU=",
+ "cert_user_id": "viciousway@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "1921164513c9af5c2112ef13887eb2b3806225d1ee9ade578de05178aa77c257",
+   "size": 207
+  }
+ },
+ "inner_path": "data/users/1CpD9pJGi6NgHTJvp9ag9HtmvXow5XHebE/content.json",
+ "modified": 1470178208.935,
+ "signs": {
+  "1CpD9pJGi6NgHTJvp9ag9HtmvXow5XHebE": "HOPcLxH2OIWu++fGagEKvQeeQFJeOqJlP81eCHn8oCvnyp4wOQKx6cvgQlQClNogOYR0a5mWIfEvJjehjsGP12A="
+ }
+}

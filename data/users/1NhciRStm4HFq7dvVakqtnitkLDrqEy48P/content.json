@@ -1,0 +1,15 @@
+{
+ "cert_auth_type": "web", 
+ "cert_sign": "HE2tet5UvLHE9wMvGxQR19WzizWOeXFMxJEZFyysXmjIf3tgdnhsj2S30OC3oW1VHOBnIXqn5FWkp7MdHd/GKpU=", 
+ "cert_user_id": "meh123@zeroid.bit", 
+ "files": {
+  "data.json": {
+   "sha512": "9ec3b6ae67741456cbbb2533af220b0220383ddd78e26bdb0dacea814aa1f30e", 
+   "size": 162
+  }
+ }, 
+ "modified": 1450448973.619855, 
+ "signs": {
+  "1NhciRStm4HFq7dvVakqtnitkLDrqEy48P": "G5jkxJ7/rE6UyhGYztVZYFtjglSX6Q4bJdMgXxes+wBi7PLc7iabx4RcvX8btBOUcEuDn1v4ahpnQB14beitBcg="
+ }
+}

@@ -1,0 +1,242 @@
+{
+	"next_topic_id": 12,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "GZero - a Google for the Decentralized Web",
+			"body": "https://medium.com/world-bug-repository/zerosearch-a-google-for-the-decentralized-web-b940ee66d9f3#.qng13v1fi",
+			"added": 1457064719
+		},
+		{
+			"topic_id": 2,
+			"title": "For the first time in a while now, I bought a major amount of bitcoins",
+			"body": "Bullish due to:\n\n1. VISA is looking for a blockchain dev - https://www.cryptocoinsnews.com/visa-looks-senior-develope…/\n\n2. Zeronet. Just wow.\n\n3. Classic, Core ... whoever \"wins\" this, Bitcoin will be stronger in a few months.\n\n4. I'm hypo-manic right now so take all this with a grain of salt ;)",
+			"added": 1457071714
+		},
+		{
+			"topic_id": 3,
+			"title": "Monitization for Zero Websites?",
+			"body": "What are some monitization strategies for someone building a site on Zeronet?",
+			"added": 1457072384
+		},
+		{
+			"topic_id": 4,
+			"title": "How do I back up my data?",
+			"body": "ZeroMail just told me:\n\n\"Ps: To keep you identity safe don't forget to backup your data/users.json file!\"\n\nLet's ELI5 this: How should a Windows user backup their data? How often? Can he configure ZeroNet to just work off his dropbox? (That data should be encrypted & password protected if backed up to a 3rd party!)",
+			"added": 1457072989
+		},
+		{
+			"topic_id": 5,
+			"title": "Bot to autopost ZeroTalk to reddit/r/zeronet",
+			"body": "Could this be done?\n\n(maybe to /r/zerotalk, actually)\n\nThis can expose the content here externally.",
+			"added": 1457073205
+		},
+		{
+			"topic_id": 6,
+			"title": "Feedback for ZeroSearch",
+			"body": "This thread gathers all feedback for the ZeroSearch team",
+			"added": 1457073364
+		},
+		{
+			"topic_id": 7,
+			"title": "Feedback for ZeroTalk",
+			"body": "This thread gathers all feedback for the ZeroTalk team",
+			"added": 1457073448
+		},
+		{
+			"topic_id": 8,
+			"title": "URL Redirection",
+			"body": "Could someone \"register\" the zero/talk domain and point it towards zero/Talk.ZeroNetwork.bit?\n\nSomething like a URL redirect?\n\nIt would be really cool to just type zero/talk into my browser (with the chrome extension) and get to ZeroTalk.",
+			"added": 1457073896
+		},
+		{
+			"topic_id": 9,
+			"title": "ZeroNet Slack",
+			"body": "https://www.hamsterpad.com/chat/zeronet",
+			"added": 1457074111
+		},
+		{
+			"topic_id": 10,
+			"title": "ZeroMail support thread",
+			"body": "Post support questions about ZeroMail here. Hopefully someone will answer ;)",
+			"added": 1457092937
+		},
+		{
+			"topic_id": 11,
+			"title": "ZeroNet Community Primer",
+			"body": "https://docs.google.com/document/d/1To4omFUya29SdU3mehuii87vMBc0U15VxlsLMFca1Fc/edit#",
+			"added": 1457152168
+		}
+	],
+	"topic_vote": {
+		"1_1MxdAjWgnqwCaunGHmhY39tVR51qV3peJL": 1,
+		"2_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"14_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf": 1,
+		"2_1KJFB4SEHaHCY11HMKsMGyth1mXKb3R5oY": 1,
+		"1_17dEBAxTcyJg38KfNtCvYWp7fddLKHv4rc": 1,
+		"1_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG": 1,
+		"1_1EodDJ57gSDT7FB1VmxRWecRfytuxRicPA": 1,
+		"9_1PX7VW6xfccTT2tNUTwrYKJpGsGfrnoJfP": 1,
+		"1_17ApQKugX1XH727gpAeD3mrRLjLxASdakd": 1,
+		"4317_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG": 1,
+		"4316_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG": 1,
+		"4315_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG": 1,
+		"4314_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG": 1,
+		"3_1ADB7TdX2fVbTsWBoMe9yBTmVXTbb33b4R": 1,
+		"2_1MxdAjWgnqwCaunGHmhY39tVR51qV3peJL": 1,
+		"5_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1,
+		"3_1NRTwjkXBxbeyrWhUvik7pLVoxWtsSjHQi": 1,
+		"2_1GCsW9TFfjDsvcdmKPADq1n8Q3ha72UtDQ": 1,
+		"6_1MxdAjWgnqwCaunGHmhY39tVR51qV3peJL": 1,
+		"7_1MxdAjWgnqwCaunGHmhY39tVR51qV3peJL": 1,
+		"1_14TaqTfnP3spTKup7oay3T6EnKArDnijDG": 1,
+		"1_15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ": 1,
+		"2_1PxoifFb2bXeMVcRE6T39Az8jSbhkpxpoY": 1,
+		"1_1A6hcWNpQ9SSLoTTpuT19VsVQ6WCVRkyen": 1,
+		"1_1N9vyd78w2N6174aLsw7FvCk5Lij3Bu33Y": 1,
+		"4_1MxdAjWgnqwCaunGHmhY39tVR51qV3peJL": 1,
+		"10_1MxdAjWgnqwCaunGHmhY39tVR51qV3peJL": 1,
+		"1_18NAazqd14AcVXdCqN29NTUrxSLGyPy5gB": 1,
+		"1_1D7uESYtAKV36MVPGJZXuE7LUKbLwfo4dX": 1,
+		"11_1MxdAjWgnqwCaunGHmhY39tVR51qV3peJL": 1,
+		"1_19hZjnvGuFY2sB3nDpX6869nJgkXURTvxX": 1,
+		"1_19y2tY5XJRD3YqFYn9vVgsq74nWBTPUcgv": 1,
+		"1_1674XymFPbmAXh78xEpt3Pehtko6i2kvtA": 1
+	},
+	"next_comment_id": 18,
+	"comment": {
+		"2_1KJFB4SEHaHCY11HMKsMGyth1mXKb3R5oY": [
+			{
+				"comment_id": 1,
+				"body": "Integrate it into Zeronet homepage!\n\nAlso, pagerank.\n\nhttps://medium.com/world-bug-repository/zerosearch-a-google-for-the-decentralized-web-b940ee66d9f3#.qng13v1fi\n\nAlso, are you looking for investors?",
+				"added": 1457064877
+			}
+		],
+		"1_17dEBAxTcyJg38KfNtCvYWp7fddLKHv4rc": [
+			{
+				"comment_id": 2,
+				"body": "> [temictiloni](#comment_3_1FZEy84vtsSkneNiXJpZMb6sM9c5my9S3J): http://www.m.goringa.net/posts/imagenes/12750/Visceras-Femeninas.html\n\n:(:(:(:(:(",
+				"added": 1457065098
+			}
+		],
+		"1_17ApQKugX1XH727gpAeD3mrRLjLxASdakd": [
+			{
+				"comment_id": 3,
+				"body": "http://www.synereo.com/ should integrate with it.",
+				"added": 1457065285
+			},
+			{
+				"comment_id": 5,
+				"body": "> [oresp](#comment_4_17ApQKugX1XH727gpAeD3mrRLjLxASdakd): @ripper234Yes, there are a lot of them. It's just that the ones I mentioned are in a \"federation\" with each other\n\nIsn't Diaspora dead? I haven't heard of the others.\n\nI happen to know the CEO of Synereo, that's why I plugged in - I told him today he should take a SERIOUS look at ZeroNet.",
+				"added": 1457072788
+			}
+		],
+		"2_1GCsW9TFfjDsvcdmKPADq1n8Q3ha72UtDQ": [
+			{
+				"comment_id": 4,
+				"body": "C#/Scala/Cofeescript/Javascript.\n\nDefinitely not HTML, I can't stand that shit.",
+				"added": 1457072566
+			}
+		],
+		"6_1MxdAjWgnqwCaunGHmhY39tVR51qV3peJL": [
+			{
+				"comment_id": 6,
+				"body": "I posted about Synereo sometime ago in ZeroTalk, which I supposed is one of the sites you index.\nI searched for it now, and couldn't find it.\n\nIs this a bug? What am I missing?",
+				"added": 1457073414
+			}
+		],
+		"7_1MxdAjWgnqwCaunGHmhY39tVR51qV3peJL": [
+			{
+				"comment_id": 7,
+				"body": "Why can I upvote my own thread?",
+				"added": 1457073482
+			},
+			{
+				"comment_id": 8,
+				"body": "I should auto-follow any thread I create.",
+				"added": 1457073500
+			},
+			{
+				"comment_id": 9,
+				"body": "You guys rock!!!!",
+				"added": 1457073512
+			},
+			{
+				"comment_id": 10,
+				"body": "When will I be able to view a list of all the posts I've created on ZeroTalk?",
+				"added": 1457073574
+			},
+			{
+				"comment_id": 12,
+				"body": "> [scrub](#comment_35_1ADB7TdX2fVbTsWBoMe9yBTmVXTbb33b4R): And comment.\n\nCommenting on my own thread makes sense, voting on my own does not. Just copy reddit functionality.",
+				"added": 1457074214
+			},
+			{
+				"comment_id": 13,
+				"body": "When typing a comment, press TAB then space to submit it.\n(Didn't work when I tried it now)",
+				"added": 1457074247
+			},
+			{
+				"comment_id": 14,
+				"body": "Allow me to delete my posts & comments from ZeroTalk.\n(Deletion doesn't prevent someone from caching the content themselves, just effectively hides them).\n\nWhile we're at it, allow me to edit my posts.",
+				"added": 1457074315
+			}
+		],
+		"2_1MxdAjWgnqwCaunGHmhY39tVR51qV3peJL": [
+			{
+				"comment_id": 11,
+				"body": "@odd - I believe that private blockchains will need to 'back' their value in some major public blockchain/s like Bitcoin.",
+				"added": 1457073971
+			}
+		],
+		"10_1MxdAjWgnqwCaunGHmhY39tVR51qV3peJL": [
+			{
+				"comment_id": 15,
+				"body": "I registered an email address and everything works. Kudos!\n\nNow, how do I register another email address?",
+				"added": 1457092962
+			},
+			{
+				"comment_id": 16,
+				"body": "> [ripper234](#comment_15_1MxdAjWgnqwCaunGHmhY39tVR51qV3peJL): I registered an email address and everything works. Kudos!\n> Now, how do I register another email address?\n\nI guess this is actually a question for ZeroID, right?",
+				"added": 1457093033
+			}
+		],
+		"1_19hZjnvGuFY2sB3nDpX6869nJgkXURTvxX": [
+			{
+				"comment_id": 17,
+				"body": "בהחלט\n\nהנה מה שאני חושב על זה.\n\nhttps://medium.com/@ripper234/the-future-is-sad-terrifying-and-wonderful-9034f297fed0#.uvf8th61p\n\nחוצמזה, יש זירונט ישראלי\n\nhttps://www.facebook.com/groups/158507544535680/",
+				"added": 1457251904
+			}
+		]
+	},
+	"comment_vote": {
+		"1_1NRTwjkXBxbeyrWhUvik7pLVoxWtsSjHQi": 1,
+		"1_18CyibCYsfP4JKBgmi2Gu8UjkHeyW8Q6Fw": 1,
+		"2_1Ns49ghhugceiVKRy8k7sbJXYKpaQSgWQ7": 1,
+		"3_1MhL8nWAcuB5YxbhyYgEHNvsToUtQutRVs": 1,
+		"1_19KjJXTkb6bLafLJsfVBf5v127H4RYKABM": 1,
+		"4_17ApQKugX1XH727gpAeD3mrRLjLxASdakd": 1,
+		"3_1EMpuiFM1NLZmAVyoAWnwi8VwiZVV4dcnN": 1,
+		"15_1MxdAjWgnqwCaunGHmhY39tVR51qV3peJL": 1,
+		"80_1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD": 1,
+		"79_1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD": 1,
+		"12_1GNdkBSxTw6SpRdGHxDCyfANXnwi7FG7rJ": 1,
+		"410_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"20_1MEWJRMLgvofqG9Mbsb2Rc4hFFyv7HeRx7": 1,
+		"3_1Kg7CXZM5h3wTPENsTDwWUmRBf9VhYy2cW": 1,
+		"2_14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx": 1,
+		"8_16bxMyoL49mWYhcZKBYVBT5zEFW9SQpiao": 1,
+		"1_19hZjnvGuFY2sB3nDpX6869nJgkXURTvxX": 1,
+		"58_1ADB7TdX2fVbTsWBoMe9yBTmVXTbb33b4R": 1,
+		"17_1MxdAjWgnqwCaunGHmhY39tVR51qV3peJL": 1,
+		"8_1DcDDitsjFJohvwonPmpibRChmA7uGxqL7": 1,
+		"26_1NoRNknY1JbJ8nMdn88LwczyMDFnR1GtNw": 1,
+		"14_1CMYxdit4qq9QGk9DYRu2ruRPd2YDGckH8": 1,
+		"43_1MEWJRMLgvofqG9Mbsb2Rc4hFFyv7HeRx7": 1,
+		"39_1ADB7TdX2fVbTsWBoMe9yBTmVXTbb33b4R": 1,
+		"5_1Kg7CXZM5h3wTPENsTDwWUmRBf9VhYy2cW": 1,
+		"9_16bxMyoL49mWYhcZKBYVBT5zEFW9SQpiao": 1,
+		"61_13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ": 1,
+		"87_1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD": 1
+	}
+}

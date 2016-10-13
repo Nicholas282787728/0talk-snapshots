@@ -1,0 +1,21 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 3,
+	"comment": {
+		"1_1LoYccWDeUavLo4g1zTbkqPn3EdBcquSYn": [
+			{
+				"comment_id": 1,
+				"body": "Here my conf which doesn't work (Apache 2):\n[...]\n        <Proxy *>\n                Options FollowSymLinks MultiViews\n                AllowOverride All\n                Order allow,deny\n                allow from all\n        </Proxy>\n\n        ProxyTimeout 3600\n\n        ProxyPass / http://127.0.0.1:43110/\n        ProxyPassReverse / http://127.0.0.1:43110/\n        ProxyPass /Websocket http://127.0.0.1:43110/\n        ProxyPassReverse /Websocket http://127.0.0.1:43110/\n</VirtualHost>\n\nWorking on...",
+				"added": 1457510131
+			},
+			{
+				"comment_id": 2,
+				"body": "You can use it decentralized but behind a proxy (for https for example) ;-)",
+				"added": 1457530472
+			}
+		]
+	},
+	"comment_vote": {}
+}

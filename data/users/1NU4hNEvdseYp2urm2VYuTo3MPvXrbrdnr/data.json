@@ -1,0 +1,16 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 2,
+	"comment": {
+		"1_1JgHfDK4eojCkVZHKey9hiMAcAc9mxMUK2": [
+			{
+				"comment_id": 1,
+				"body": "I developer, I have a idea for alert base on location. Using Your to alert current location dangerous. Are you think about that??",
+				"added": 1473134747
+			}
+		]
+	},
+	"comment_vote": {}
+}

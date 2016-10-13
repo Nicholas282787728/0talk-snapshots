@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "G5f3iSNGA/d52h3CN1gAORWR53TaJxmTdGmLF4XeOpIoJ3lpWeniS1vdrf36/f79oOgnCQKBB6//c/a67/l4VBw=",
+ "cert_user_id": "barackobama@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "b753d4f4d69d5f1209a3d93ece1d58794e45c984a6f4b7fcd424c46b1227307c",
+   "size": 599
+  }
+ },
+ "inner_path": "data/users/1r1hkGGyjWzvhAUULQr2MKXeHvUtCVUjn/content.json",
+ "modified": 1473343417.334,
+ "signs": {
+  "1r1hkGGyjWzvhAUULQr2MKXeHvUtCVUjn": "G6Xis+qM4b0UKMeonaOhZf11DpcTk0Gv+Wn1mmTcezkTxOgdXIFXLiwIPovws8z1ZHa/vMGkiXLRfREbMUmMqNE="
+ }
+}

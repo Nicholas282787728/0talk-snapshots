@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "G/u77SmootzAz80XhJ1cc2zjjj+8oH2EdoTv4M0csygFIc4gmuJwEyrXwJm9NoOmsxIepOTxWpgoJVkbVAkkQ28=",
+ "cert_user_id": "thedoctor@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "db2fe7956880b063254fd4679de3291786ff67721711ad4aed4eb295f16ff60d",
+   "size": 2164
+  }
+ },
+ "inner_path": "data/users/1LE73wwG97GHKidhBLUfu9p6UWwoCQozLC/content.json",
+ "modified": 1457447764.715317,
+ "signs": {
+  "1LE73wwG97GHKidhBLUfu9p6UWwoCQozLC": "GxHZT5ReBtJ9yptDRdS+ersChdnIzS4t3hvjhAp5ABXOgGrv9I4Eau0xo0uZdDXtp3MYpTUrqKspqx2NyDoWRPI="
+ }
+}

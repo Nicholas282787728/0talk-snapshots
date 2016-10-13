@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "GyL09bsSjcuDn0Hb090Z/QKTTw9tVRMW/I5OrMt/SvZW5bKjBwjT49fKfs2EoJBoHxg0fcRDT4iecsj+s8/2UsM=",
+ "cert_user_id": "donald0drumpf@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "9696f2b68ed0f8d3461504794cddc28a14f57278b104f3e3f30e0177292edf93",
+   "size": 1240
+  }
+ },
+ "inner_path": "data/users/12Wqj79riBxxzUdeWVhoGw2J7UjEmxthTD/content.json",
+ "modified": 1458631241.185015,
+ "signs": {
+  "12Wqj79riBxxzUdeWVhoGw2J7UjEmxthTD": "G71K379SpuWYpUxd760F3+ynl9KMNtBi027LmUTSeCYUtzoO4L1WjVxpw9BJx9Q6khEpJw8MCz+F6tfzj9SA0uo="
+ }
+}

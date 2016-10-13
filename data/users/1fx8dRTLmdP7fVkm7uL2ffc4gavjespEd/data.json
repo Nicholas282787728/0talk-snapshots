@@ -1,0 +1,25 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 3,
+	"comment": {
+		"2_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": [
+			{
+				"comment_id": 1,
+				"body": "https://www.youtube.com/watch?v=LtQUJMBH8uE",
+				"added": 1457726462
+			}
+		],
+		"2_1GCsW9TFfjDsvcdmKPADq1n8Q3ha72UtDQ": [
+			{
+				"comment_id": 2,
+				"body": "Javascript",
+				"added": 1457726526
+			}
+		]
+	},
+	"comment_vote": {
+		"1_1fx8dRTLmdP7fVkm7uL2ffc4gavjespEd": 1
+	}
+}

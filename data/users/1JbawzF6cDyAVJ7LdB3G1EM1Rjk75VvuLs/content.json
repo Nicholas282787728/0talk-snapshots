@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HOrLzvarz/QbPXnKWf/lzEeQSQ5fheIsxYpcX/4001ZAldb/BOKMBINT8paM8Kx3RRyVcLU3xdiq+hGbxNt0VkE=",
+ "cert_user_id": "ricksanchez@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "cfa8280029a8b75de856a9ae2bd6e69ab829d778f35f9c3728025c7e00ce4910",
+   "size": 610
+  }
+ },
+ "inner_path": "data/users/1JbawzF6cDyAVJ7LdB3G1EM1Rjk75VvuLs/content.json",
+ "modified": 1468476052.914308,
+ "signs": {
+  "1JbawzF6cDyAVJ7LdB3G1EM1Rjk75VvuLs": "HJPfRcJ04fKQVGL5/B3tFZ4p570xagwAmrJxL74z0MZsZdC2VbcE9kCZpbn3IbAY3wa+yDbtPSdRTvIKFIGptAs="
+ }
+}

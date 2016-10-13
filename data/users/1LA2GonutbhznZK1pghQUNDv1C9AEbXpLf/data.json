@@ -1,0 +1,16 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 2,
+	"comment": {
+		"1_122KPetK2KEaUbmsuB5GTgSJWfs6DqYY22": [
+			{
+				"comment_id": 1,
+				"body": "ya te respondieron?",
+				"added": 1460158099
+			}
+		]
+	},
+	"comment_vote": {}
+}

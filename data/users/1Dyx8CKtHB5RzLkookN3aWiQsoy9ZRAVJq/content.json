@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "G87gYXtwMp16L9Ed2e8xJ4CgtKCGKQ/+ErE5lwAn5PwUwIcOTwhHqk3iLNzjHtG1XvBfggFEuqtm8ss88xg9uSo=",
+ "cert_user_id": "julianpardo@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "7956ed53484fd647be2b81b95a797e3e1e5a729b9a3a95ebf9047682b836f36d",
+   "size": 385
+  }
+ },
+ "inner_path": "data/users/1Dyx8CKtHB5RzLkookN3aWiQsoy9ZRAVJq/content.json",
+ "modified": 1457576056.802,
+ "signs": {
+  "1Dyx8CKtHB5RzLkookN3aWiQsoy9ZRAVJq": "GwK/BrO2srMNS1Bwv5p0wBN5qr+GQ+SslCaxv5PjfLx0bAr9+6OSEv6+c1nrr2w7BuUZHXLF9XtigkzcesAaST4="
+ }
+}

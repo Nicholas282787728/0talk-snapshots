@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HLXsr1ZuwmehVRn4f9K4alZGWCDmwIfbn4ACLm1lRV0yJsAWdqFPAfFQTJ0zSDIUUFjMQEU023EcgmTqYrtEqOM=",
+ "cert_user_id": "codroipojack@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "127b7533706fae98945603f147a1c34bdcbbcc93fabbce40cb2e0bd6adbe0d49",
+   "size": 436
+  }
+ },
+ "inner_path": "data/users/1NVygDt3LZJMwHaCLyC7z5DZgt2g67cyKh/content.json",
+ "modified": 1457769856.702305,
+ "signs": {
+  "1NVygDt3LZJMwHaCLyC7z5DZgt2g67cyKh": "G/0KjPTJ0PxMpTT74B4PNl7bNaX7yf4/i2olVfWlmBtQKfgssAfdZBjypUs7ZYiuO/Lz1zuUqcy9Hk6p6spLEvk="
+ }
+}

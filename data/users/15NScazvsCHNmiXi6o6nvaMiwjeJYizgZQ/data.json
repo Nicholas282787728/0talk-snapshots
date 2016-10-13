@@ -1,0 +1,719 @@
+{
+	"next_topic_id": 6,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "ZeroNet on Android",
+			"body": "Any ideas? Besides proxies ofcourse =D",
+			"added": 1456950746
+		},
+		{
+			"topic_id": 2,
+			"title": "ZeroNet proxy",
+			"body": "What proxy would you recomend?",
+			"added": 1456956619
+		},
+		{
+			"topic_id": 3,
+			"title": "Idea discussion: FireZero",
+			"body": "You know what would be cool? A mix of FireChat and ZeroNet technology.\nThat way our distributed network would be completely independent from the internet, governments, laws and other crap like that =D\nDo you think it can ever happen?))))",
+			"added": 1457693754
+		},
+		{
+			"topic_id": 4,
+			"title": "Button \"Pause all\"",
+			"body": "I think, ZeroHello needs a \"Pause all\" button inside a main dropdown menu to save traffic on limited connections without closing ZNet or the connection.\n\nA small but comfortable option, I think.\n\nAn alternative is to make an \"update all\" button wich woulf update even paused sites. (This may be even better).",
+			"added": 1458032294
+		},
+		{
+			"topic_id": 5,
+			"title": "tasks app",
+			"body": "is there any ZeroNet tasks app with encrypted database?",
+			"added": 1460185470
+		}
+	],
+	"topic_vote": {
+		"1_18C3QMMDj9vRcw6j6bNwb77cX4unMBq6QF": 1,
+		"1_15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ": 1,
+		"1_18NAazqd14AcVXdCqN29NTUrxSLGyPy5gB": 1,
+		"4_1ADB7TdX2fVbTsWBoMe9yBTmVXTbb33b4R": 1,
+		"4380_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG": 1,
+		"1_19LkvdTE3CmnUApuSwY8KGbm7n7sWCNEPC": 1,
+		"3_1Kg7CXZM5h3wTPENsTDwWUmRBf9VhYy2cW": 1,
+		"4_16AFTG7vdicwJbRQpWc2F9BRHTE5MTftE7": 1,
+		"1_12uS7AbHMQEc4YKxoPpASsmDSy6fRtEhrw": 1,
+		"4_1NzjwWNcVjsX1ndBgkgC1EM5EUzMACGm8L": 1,
+		"1_1LJP7tDoGnWNppUGJoNS8cJbmYTS1TecCC": 1,
+		"4_1LJMypJ67iEBwah82xwVVdB8SGZ1mwqgHQ": 1,
+		"1_1KdVeashoiPjj79tVUmAy8cBYjwxfZNe1e": 1,
+		"1_1KLBz9nduZYz3F456wf3T53CaEgj18EtJD": 1
+	},
+	"next_comment_id": 113,
+	"comment": {
+		"2_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": [
+			{
+				"comment_id": 1,
+				"body": "meow",
+				"added": 1456949893
+			}
+		],
+		"1_15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ": [
+			{
+				"comment_id": 2,
+				"body": "Hi, a brief search about this topic spotted nothing interesting, so I tried to do it on my own. Result: falure. Anyone was more lucky?",
+				"added": 1456950815
+			},
+			{
+				"comment_id": 3,
+				"body": "My idea was to download all the components and add them to QPython app. Seems it does not work that way(",
+				"added": 1456950980
+			},
+			{
+				"comment_id": 4,
+				"body": "As far as I understand, there is no need to create a client. It's created already. Problem is in Python.",
+				"added": 1456951503
+			},
+			{
+				"comment_id": 5,
+				"body": "hmm.... https://github.com/kivy/python-for-android",
+				"added": 1456951509
+			},
+			{
+				"comment_id": 6,
+				"body": "write me on ZeroMail if you find something out",
+				"added": 1456953042
+			},
+			{
+				"comment_id": 8,
+				"body": "retos73, you rock!!!! https://ipfs.pics/QmYZFGCPEJUTdKh5FCa3tKLUo6hGLFHPFyXWL81jz8NxU8",
+				"added": 1456975222
+			},
+			{
+				"comment_id": 9,
+				"body": "I mean, it's totally awesome, thank you! now I wander wether or not I can launch IPFS and Twister this way XD",
+				"added": 1456975657
+			},
+			{
+				"comment_id": 10,
+				"body": "it was fast at first, but slowed down to barely bareable pretty soon. I'll tend to this problem after some sleep. It's 6:49 here already xD\nBut man, it's awesome anyway! Look: Year 2016: people can host a distributed network from their watch.\nNo, I do it from a tablet, but never the less, fact is fact.",
+				"added": 1456977205
+			},
+			{
+				"comment_id": 11,
+				"body": "now it's unbareable. I was able to curse twice, take a screenshot, upload it and come back here just as my message appeared. And most of connections end up with timeout, so I guess the message will have a hard time gitting out of my device xD\nanyway, screenshot: https://ipfs.pics/QmR6QjZ8ZUAYTtcrkNnefKw71qeU9BpMU88Zc27JdQwrEu",
+				"added": 1456977413
+			},
+			{
+				"comment_id": 16,
+				"body": "now it works alright. still some synchronysation errors due to timeout, and overal speed is not high. Have to use Yandex.Browser or Chrome, and even they lag from time to time. But I can live with that. Battery consumption is not so high (about 10% per night's sleep and 10% per hour of work) so yea, everything seems fine. quite usable!\n\nAND it will be awesome on @scrub's PC, I think =D",
+				"added": 1457003548
+			},
+			{
+				"comment_id": 17,
+				"body": "Sometimes it's even as fast as PC.",
+				"added": 1457003589
+			},
+			{
+				"comment_id": 20,
+				"body": "-_- read HowTo on GitHub.\nYou don't need to install Python separately as far as I remember.\nAnd you will have to copy downloaded .tar with\ncp /host-root/sdcard/[where you put the .tar] ~\ncd ~",
+				"added": 1457046151
+			},
+			{
+				"comment_id": 21,
+				"body": "*I'm not sure about /host-root/...\nPlease check the folder with \"ls\" command.",
+				"added": 1457046223
+			},
+			{
+				"comment_id": 26,
+				"body": "I've just discovered that /sdcard/GNUROOT/ is Debian's /, which means you can copy and unpack tar with any Android tool of you want. But I've told you how to do it from console if anything goes wrong with this option.\n\nP.S. It is easier to unpack with a console (\"tar...\") if you don't have any tool for .tar.gz files.",
+				"added": 1457054778
+			},
+			{
+				"comment_id": 33,
+				"body": "Very strange. Have you tried some other network? Besides closed port is not a problem. I can't open ports on my network no matter what I do, but everything is working alright.\n\nMore , on droid you can try you mobile provider's network.\n\nP.S. wanted to notify you on ZeroMail, but it could not find your username. Strange.",
+				"added": 1457270303
+			},
+			{
+				"comment_id": 37,
+				"body": "@lulzsec What does it show in the browser?\nCan you explain in short how you installed it?",
+				"added": 1457345752
+			}
+		],
+		"2_15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ": [
+			{
+				"comment_id": 7,
+				"body": "thanks! =D\nmay be someone else knows something?))",
+				"added": 1456971216
+			},
+			{
+				"comment_id": 14,
+				"body": "so... one proxy. that's it?",
+				"added": 1457002422
+			},
+			{
+				"comment_id": 15,
+				"body": "andPIA is not what I meant, it's a usual proxy. By ZeroNet Proxy I meant that it's a site with wich anyone can access ZeroNet, without installing it. is it called somehow else?",
+				"added": 1457002567
+			},
+			{
+				"comment_id": 18,
+				"body": "cool! it works! now I can share links to my lazy friends!))",
+				"added": 1457005011
+			},
+			{
+				"comment_id": 45,
+				"body": "just wanted to bring it up, sorry for spam =)",
+				"added": 1457395546
+			}
+		],
+		"1_1uwy3F41gsLFpc3KbkM7mv5cPugQmW659": [
+			{
+				"comment_id": 12,
+				"body": "http://127.0.0.1:43110/zerosearch.bit",
+				"added": 1456978059
+			},
+			{
+				"comment_id": 25,
+				"body": "http://127.0.0.1:43110/1Mr5rX9TauvaGReB4RjCaE6D37FJQaY5Ba\nor\nhttp://127.0.0.1:43110/search.kaffie.bit\n(the same)\nbetter than 0search...",
+				"added": 1457051836
+			}
+		],
+		"1_1JU8zQ7nZGRU2HvXxrSM9S341gufgzvwtt": [
+			{
+				"comment_id": 13,
+				"body": "because that guy knows php?",
+				"added": 1457000066
+			}
+		],
+		"1_1H8oKiRa7fGgUqS1hpUtaSYLvAqkaknbkf": [
+			{
+				"comment_id": 19,
+				"body": "why would you want to do that?",
+				"added": 1457026200
+			}
+		],
+		"1_17dEBAxTcyJg38KfNtCvYWp7fddLKHv4rc": [
+			{
+				"comment_id": 22,
+				"body": "> [ass](#comment_1_19z3VucxwAoyQZwhmjEgA6vJ9TTp2GmGLN): or i could just drop my username\n\ndrop it like it's hot xD",
+				"added": 1457051683
+			}
+		],
+		"1_1KXwZN8yqqDZTL5kE8bkkaZKAk9VPAxNFT": [],
+		"1_1A6hcWNpQ9SSLoTTpuT19VsVQ6WCVRkyen": [
+			{
+				"comment_id": 27,
+				"body": "has anyone wrote that messages in ZeroMail can be deleted by both sides by deleting on one side? I think it's a bug even though it saves a lot of space in the database =D",
+				"added": 1457083882
+			}
+		],
+		"1_18NAazqd14AcVXdCqN29NTUrxSLGyPy5gB": [
+			{
+				"comment_id": 28,
+				"body": "https://webtorrent.io seem to be a solution for now, but that means more presure on existing seeders, because web player will not store data for long, and another question is disk space usage... how to control it with a web player?\n\nEDIT: ok, nlw I see. A limited storage. Streaming works, but I can't fast forward to a point that I want to watch if it's a few minutes ahead. In case of a film that would such a big black duck.",
+				"added": 1457086898
+			},
+			{
+				"comment_id": 34,
+				"body": "is it possible to embed IPFS files into zeronet sites? if yes, I think, problem's solved =D Big files usually are static =)",
+				"added": 1457318454
+			},
+			{
+				"comment_id": 44,
+				"body": "I return here to state that IPFS and ZeroNet work fine together. I can even embed pictures from IPSF.pics or IPFS.io\nBut to use local IPFS, I had to post pictures this way: http://127.0.0.1:43110/1CiAFnnf6kb2G1GzDV1FhttTWNxCa4mShn/?Post:3:Today's%20troubles\n\nSpeaking about streaming larger files - it's still a debate. I can host them (direct download), but not sure about streaming them.\n\nSo... Concluding all said, there are a lot of ways to send and stream files even if large file support won't be implemented on ZeroNet.",
+				"added": 1457393355
+			},
+			{
+				"comment_id": 51,
+				"body": "http://127.0.0.1:43110/1CiAFnnf6kb2G1GzDV1FhttTWNxCa4mShn/?Post:9:Streaming+with+IFPS/\n\nFUCK ME! IT'S WORKING! IT'S WORKING! AND I'M THE FIRST ONE WHO'S DONE IT RIGHT!\n\nCENTRALIZE MY ASS NOW!",
+				"added": 1457447678
+			}
+		],
+		"3_13vL6ARzDm7215jaRjFvAATfkxBriSnGmb": [
+			{
+				"comment_id": 29,
+				"body": "Not Found",
+				"added": 1457099582
+			},
+			{
+				"comment_id": 30,
+				"body": "cool!! what's bitport?",
+				"added": 1457104328
+			},
+			{
+				"comment_id": 31,
+				"body": "a centralized P2P? are you kidding? xDD Sure it's cool but it's exactly the opposite thing to what ppl are usually trying to achive here =D",
+				"added": 1457107122
+			},
+			{
+				"comment_id": 32,
+				"body": "what for? just wait when big file support will be implemented and there shurely will be an API to stream videos. Ta-Da... End.",
+				"added": 1457133465
+			}
+		],
+		"4_1ADB7TdX2fVbTsWBoMe9yBTmVXTbb33b4R": [
+			{
+				"comment_id": 35,
+				"body": "is game developing included? I've found a nice tutorial for very very beginers =D",
+				"added": 1457337525
+			},
+			{
+				"comment_id": 36,
+				"body": "Oh, wait. It's not books =( It's totorial videos. Can still give those links if someone is interested.\n\nSince I've posted here already, I can give a link I use every day now: http://www.w3schools.com/default.asp\nNot exactly a book, but it's close and it's about coding, not games in particular =)\n\nP.S. you can also write me on ZeroMail for those videos, since this post is ain't about no videos or games xD",
+				"added": 1457345421
+			}
+		],
+		"4380_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG": [
+			{
+				"comment_id": 38,
+				"body": "interesting =D",
+				"added": 1457345927
+			}
+		],
+		"1_1NdofSgkkvCXPx5FotgoSxX3K78Nn6MDue": [
+			{
+				"comment_id": 39,
+				"body": "not found",
+				"added": 1457348429
+			},
+			{
+				"comment_id": 40,
+				"body": "nice. you say it's auto updated, what is the source of images? visitors? other site?",
+				"added": 1457348957
+			},
+			{
+				"comment_id": 41,
+				"body": "man, your site is plain text again -_-\n\nMake the links clickable",
+				"added": 1457351652
+			},
+			{
+				"comment_id": 42,
+				"body": "man, try using IPFS. I'm not sure you can upload them to IPFS.pics , but u can surely use IPFS.io as a gateway.\n\n(at least if you care about real decentralisation)))",
+				"added": 1457370359
+			}
+		],
+		"3_1HcK5Hw1rPZeYdgTmqJGrVG2tSyR9Ke2Gt": [
+			{
+				"comment_id": 43,
+				"body": "so it's not even a Zero's bug. It's people's bug.\nThey see a nice name and they click it without thinking of what will it cost them. =D\n By the way, mama21mama, you can embed it into a blog and share a blog's link. This way the link won't look so suspiciois.\nSpeaking of addresses, don't use static IPs if you are so afraid of people tracking your IP.",
+				"added": 1457392804
+			}
+		],
+		"4411_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG": [
+			{
+				"comment_id": 46,
+				"body": "Either this fails (most surely) or Ruble will have a big big trouble... Sucks in either case(((",
+				"added": 1457398572
+			},
+			{
+				"comment_id": 47,
+				"body": "agreed. But stated that I also want to note that if ruble fails, it's not gonna be \"fuck money\", it's gonna be \"fuck all who live in Russia\" -_- That's bothering me.",
+				"added": 1457399280
+			},
+			{
+				"comment_id": 48,
+				"body": "*ok, not all. All who get paid in ruble =D",
+				"added": 1457399308
+			}
+		],
+		"1_18x3cTfnPkGixpMrrWJQDxtgyT2hDviZVP": [
+			{
+				"comment_id": 49,
+				"body": "for Android you can use retos73's advice from here:\nhttp://127.0.0.1:43110/Talk.ZeroNetwork.bit/?Topic:1_15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ/ZeroNet+on+Android\n(look for Mar 03, 2016)\n\nBut it's mostly for tablets and powerful phones. For everything else, proxy is a good idea.\n\nYou can ask me on ZeroMail if you have questions.\nI may write something on that in my blog too. Some day. Will give a link if I do =D",
+				"added": 1457432155
+			}
+		],
+		"1_1NMerKYwUayNpEZ35FxkzZch6kgoeFTWk": [
+			{
+				"comment_id": 50,
+				"body": "Russians everywhere http://risovach.ru/upload/2013/10/generator/bas-i-vudi_32586227_orig_.jpeg",
+				"added": 1457447521
+			}
+		],
+		"4_1HcK5Hw1rPZeYdgTmqJGrVG2tSyR9Ke2Gt": [
+			{
+				"comment_id": 52,
+				"body": "YACoTPB\nYet Another Clone of The Pirate Bay xD",
+				"added": 1457502761
+			}
+		],
+		"6_1MEWJRMLgvofqG9Mbsb2Rc4hFFyv7HeRx7": [
+			{
+				"comment_id": 53,
+				"body": "> [angristan](#comment_52_1MEWJRMLgvofqG9Mbsb2Rc4hFFyv7HeRx7): Found a solution : go to data\\<site-id>\\data\\users and delete the folder of your user. Done ! :D\n\nbut that should delete all the comments. I think that is caused by limitation 10k per user.\nBut I don't know how to change it!(\n\n(it affected my blog http://127.0.0.1:43110/1CiAFnnf6kb2G1GzDV1FhttTWNxCa4mShn/?Post:16:The+blog+is+dead+%28again%29#Comments )",
+				"added": 1457531409
+			}
+		],
+		"1_1MhL8nWAcuB5YxbhyYgEHNvsToUtQutRVs": [
+			{
+				"comment_id": 54,
+				"body": "GOTCHYA!!!! Now THAT's how you lift the limit!\nAnd I suppose, if someone reaches the limit he has\n> Content sign failed: invalid private key.\nerror?",
+				"added": 1457531730
+			}
+		],
+		"1_19LkvdTE3CmnUApuSwY8KGbm7n7sWCNEPC": [
+			{
+				"comment_id": 55,
+				"body": "Ahaha))) It rose from $0.4 to $0.6 in a couple of hours >.<\nA big stash that was! =)\nHowever you will only need 1 NMC for a long long time))",
+				"added": 1457566494
+			},
+			{
+				"comment_id": 59,
+				"body": "> [basxto](#comment_19_1PVcdu7USZH2kHMETbqDYLPjJZKCDWM52k): The costs seem not to be constant…\n> d/basxto: 0.01 + 0.005 (name_new) 0 + 0.005 (name_firstupdate)\n> id/basxto: 0.01 + 0.00898085 (name_new) 0 + 0.005 (name_firstupdate)\n\nIt may depend on complexity of operation. Was your id bigger than your d?",
+				"added": 1457629975
+			}
+		],
+		"2_1LJMypJ67iEBwah82xwVVdB8SGZ1mwqgHQ": [
+			{
+				"comment_id": 56,
+				"body": "you don't have to install deps if you ise a bundle. Coz they are BUNDLEd with ZN. Listen to nofish.\n(no offence, erkan, you are just wrong here)))\n@nofish you should modify the help page, it says clearly to use python zeronet siteCreate, and nothing about the bundled version (last time I checked it was so)\n\n... and it is still this way http://127.0.0.1:43110/Blog.ZeroNetwork.bit/?Post:3:How to have a blog like this",
+				"added": 1457616226
+			}
+		],
+		"3_1Kg7CXZM5h3wTPENsTDwWUmRBf9VhYy2cW": [
+			{
+				"comment_id": 57,
+				"body": "well, [this](http://127.0.0.1:43110/17wNH5uEUyWhGT8rDrABdJrJ4udGLtC9oJ) in the only thing is JS that I've finished, but I want to learn more, so if your project is opensource, I would like to follow it =D\nAny links?",
+				"added": 1457616925
+			},
+			{
+				"comment_id": 76,
+				"body": "> [noiamo](#comment_25_14XxpXNGMLsyeQxikacrbQnAFXVyhN5Ngx): Who isn't looking for a js developer?\n\nA JS Developer!",
+				"added": 1457822116
+			},
+			{
+				"comment_id": 77,
+				"body": "> [acehigh](#comment_11_1Kg7CXZM5h3wTPENsTDwWUmRBf9VhYy2cW): What kind of explanation do you need? I'd rather not completely disclose the full aspect of what I need done to the entirety  of ZeroNet - I need JS/HTML/CSS devs to build a number of apps/sites that I have in mind, obviously more details will be given once we start some kind of private communication...\n\nSo it won't be opensource?( Saaaaaadly -_-",
+				"added": 1457822175
+			}
+		],
+		"2_1G1yCPeGqsu3Hv2w93MXyhW271WZUnBN4t": [
+			{
+				"comment_id": 58,
+				"body": "ahahah)))) for windows it's data\\users.json file xD\n\\, not /! see? I think it's funny)))\n\nalso ZeroNet\\data\\users.json, if you still don't get it.\n\nwhen you are in explorer, in ZN folder, click in the address bar, and paste \\data there. Copy users.json somewhere no one but you can find it. Can't write it more simple, because my \"teacher\" skill just suck.",
+				"added": 1457617573
+			}
+		],
+		"1_12uS7AbHMQEc4YKxoPpASsmDSy6fRtEhrw": [
+			{
+				"comment_id": 60,
+				"body": "The same problem.\nEven though I add more permissions to myself, I can only change it for a single computer at a time (it does not sync), but even then it does not help. It shows more space, but I still could not add more comments",
+				"added": 1457683010
+			}
+		],
+		"1_19oTjiELVv5NKUxcchx4F7vyoznBfgodur": [
+			{
+				"comment_id": 61,
+				"body": "Why would you not create a blog instead?))) It's more comfortable for everyone!))",
+				"added": 1457694855
+			},
+			{
+				"comment_id": 62,
+				"body": ">This is a topic to track the progress towards my dezentral social network, follow if u want :)\n\nWhy would you not create a blog instead?))) It's more comfortable for everyone!))",
+				"added": 1457694901
+			},
+			{
+				"comment_id": 63,
+				"body": ">This is a topic to track the progress towards my dezentral social network, follow if u want :)\n\nWhy would you not create a blog instead?))) It's more comfortable for everyone!))",
+				"added": 1457695176
+			},
+			{
+				"comment_id": 64,
+				"body": "Sorry, bad connection. I'm from a mobile and can't delete right now. Will do as soon as get home",
+				"added": 1457695340
+			}
+		],
+		"1_1Fwxj6dVq8BHxSL6EfEFmLEFRXARw9f97Z": [
+			{
+				"comment_id": 65,
+				"body": "> [igix](#comment_3_1Fwxj6dVq8BHxSL6EfEFmLEFRXARw9f97Z): За 15 мин. папка с файлами ZeroBundle-v0.1.1 увеличилась в два раза. Говно ваш зеро.\n\nАхах)) и сколько она теперь весит? 200 МБ???)))) чувак, я зеро на мобиле пользую, хуйню не неси))",
+				"added": 1457770876
+			},
+			{
+				"comment_id": 71,
+				"body": "> [kostanew](#comment_5_1LJP7tDoGnWNppUGJoNS8cJbmYTS1TecCC): Как ты смог с мобильного подключиться?\n\nв [блоге](http://127.0.0.1:43110/1CiAFnnf6kb2G1GzDV1FhttTWNxCa4mShn) напишу в течении дня, думаю",
+				"added": 1457780604
+			},
+			{
+				"comment_id": 72,
+				"body": "> [maskas](#comment_1_18YFv8YkcH27FxQh2o6AZmSHKuSZ9GRgc7): вдруг поставил питон, скачал тор и запустил??\n\nбез тора. лениво.",
+				"added": 1457780637
+			},
+			{
+				"comment_id": 73,
+				"body": "> [kostanew](#comment_6_1LJP7tDoGnWNppUGJoNS8cJbmYTS1TecCC): Мы об одном и том же говорим? Ты поставил python в Android или iOS. Скачал бандл. Запустил там ZeroNet... Что с Tor, можно ли как то порт прокинуть по WiFi?\n> Если это так, то напиши подробную инструкцию, это было бы интересно почитать. Тем более люди уже спрашивали о такой воможности...\n> Или вы через прокси?\n\nсделаю, сделаю. погода фиговая, голова болит сейчас. как пройдёт - подробно напишу. правда не уверен, что на русский переводить буду. хз. может переведу, может кто быстрее успеет =)\nждать [тут](http://127.0.0.1:43110/1CiAFnnf6kb2G1GzDV1FhttTWNxCa4mShn)\nпишите на ZeroMail если я пропаду =D",
+				"added": 1457780772
+			},
+			{
+				"comment_id": 74,
+				"body": "> [maskas](#comment_3_18YFv8YkcH27FxQh2o6AZmSHKuSZ9GRgc7): есть телефоны на убунту, разве нельзя накатить софт?\n\nстоят они дорого(( я б такой взял) но у меня дроид. коротко - есть прога GNURoot Debian. кто умный - дальше сам сделает, там и делать-то нечего. А так я напишу гайд, конечно.",
+				"added": 1457780860
+			}
+		],
+		"1_14dNVE624kRnYCiLWcZmaeJCteW6txn7wA": [
+			{
+				"comment_id": 66,
+				"body": "> [jza](#comment_3_1MahZJTzjoEMMCv2jBReDWhyNGRhN5tvDq): Depends where you register it, you can do it from a namecoin node that you have, it will involved as a 8 nmc, at the current price today is around .013 usd, so 1 penny.More information here:https://wiki.namecoin.info/index.php?title=Register_and_Configure_.bit_DomainsYou can do it through a name registrer for up to .02 btc (10 usd). Here is a .bit registrar:https://domaincoin.net/\n\nDid you mean 0.8 NMC? Anyway it costs 0,3 NMC maximum. Which is damn cheap.",
+				"added": 1457771018
+			},
+			{
+				"comment_id": 67,
+				"body": "And then it's 0.005 or 0.05 NMC every 6 months. So if you buy 1 NMC ($0.6), you can have it for life xD",
+				"added": 1457771144
+			}
+		],
+		"1_16m4KFYTxwbNsMUau3t493txwvHxnwb3b9": [
+			{
+				"comment_id": 68,
+				"body": "well, I do my own forecasts. Just as anyone who use it, I guess. Not really anything worth sharing though((",
+				"added": 1457773656
+			},
+			{
+				"comment_id": 69,
+				"body": "> [bitcoinforecastr](#comment_1_19f8xyyCpJx2gzKUjVcVNUkEr5MsPL83rt): here a example http://127.0.0.1:43110/1ASVFYc3TgWf5oFhSmY4Gjc2raEzuYpWZv  i wont update the site and is up to you zeronet users to fork and update this\n\nhow exactly do you suppose ppl will update it? r u gonna give your private key? =D",
+				"added": 1457776558
+			},
+			{
+				"comment_id": 70,
+				"body": "> [zer0admin](#comment_4_143LrtRTyo9ZXpyMtYH9vYv2qbggb2E95R): пишите на международном - на русском языке! басурмане !\n\ngo to russian zerotalk, spam there",
+				"added": 1457777562
+			}
+		],
+		"2_1LZbdpKVACfmxW5vffrcwAGugNwcWxuyKu": [
+			{
+				"comment_id": 75,
+				"body": "can someone who knows both German and English please translate it?",
+				"added": 1457800887
+			}
+		],
+		"4_1NzjwWNcVjsX1ndBgkgC1EM5EUzMACGm8L": [
+			{
+				"comment_id": 78,
+				"body": "Works fine!",
+				"added": 1457822214
+			},
+			{
+				"comment_id": 80,
+				"body": "search IPFS, or/and see http://127.0.0.1:43110/blog.musickiller.bit/?Post:13:About+IPFS+(Demonstration)\n\nEDIT: well, it seem not to be working anymore. Just go to IPFS.io and see it there =D\n\nThen you can read a guide in my blog how to install it. If something there is unclear, write to comments or if I skip it there, write to my ZeroMail.\n\nGood luck!",
+				"added": 1457828235
+			}
+		],
+		"1_1LJP7tDoGnWNppUGJoNS8cJbmYTS1TecCC": [
+			{
+				"comment_id": 81,
+				"body": "I agree. But are 2 benchmarks at the same time possible?",
+				"added": 1457884477
+			}
+		],
+		"4_1LJMypJ67iEBwah82xwVVdB8SGZ1mwqgHQ": [
+			{
+				"comment_id": 82,
+				"body": "> [basxto](#comment_28_1PVcdu7USZH2kHMETbqDYLPjJZKCDWM52k): Or disallow your browser to access external websites.\n\nhow exactly? (any browser example will do)",
+				"added": 1457884548
+			}
+		],
+		"2_1FGs1Gjnx5nQnfR8X1jXdS1fUyy46iWht4": [
+			{
+				"comment_id": 83,
+				"body": "Did you mean \"Are all films on Play in English?\" Then yes, as far as I saw.",
+				"added": 1457918596
+			}
+		],
+		"1_19R2USgb9vPyg1jPQEJkGVoBwDuDcEmHRF": [
+			{
+				"comment_id": 84,
+				"body": "Special torrents? So it's another IPFS? Why on earth would anyone use that?",
+				"added": 1457939942
+			},
+			{
+				"comment_id": 86,
+				"body": "> [jdoig](#comment_3_1D33SjywZjLd2QdRgzYMprcxZPva9FGZ3h): I'm building one for a project.It uses ZeroNet and Tor to host the main site then a webtorrent-hybrid server to seed the media (site visitors will also seed as the browse the site). \n> The idea is to allow YouTube style sites without every user having to permanently store gigs of video, they just seed while they use the site and I can worry about being the initial seed via a webtorrent-hybrid running on my machine.\n\nThe problem here is that if they won't carry all those Gs of data, who will? You? You say \"initial seed\", but if people will only carry videos as long as they are on your site, there won't remain no other seeder bht the initial. If you have solved this problem, I'm willing to read about it, if not - go use IPFS.",
+				"added": 1457948545
+			},
+			{
+				"comment_id": 87,
+				"body": "> [nofish](#comment_506_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): webtorrent runs in your browser no external plugin/application needed\n\nAs far as I remember, it requires a plugin inside a browser (I may be wrong here), but let's suppose that it does not.\n\nThen there is a question, how can a user control those files? Will they be just piled on his drive (bad for user) or will tbey be deleted after he watched the video (bad for network)? Where can a user setup it if there is no plugin?\n\nAnd in case you forgot about it, unlike uTorrent, qBittorrent, IPFS, Maelstrom, ZNet and any other p2p system, a common browser is not run in the background (usually) and without a plugin (and sometimes with it too), you can't change this behaviour.\n\nSo I'm asking you too, with all the respect ofcourse, what is the trick? Where to seek for a bad news? Will it be an unstable network, dependant on the initial seeder, or will it be and uncontrollable pile of files and lots of data upload/download for the user?",
+				"added": 1457948999
+			},
+			{
+				"comment_id": 88,
+				"body": "> [jdoig](#comment_4_1D33SjywZjLd2QdRgzYMprcxZPva9FGZ3h): @musickiller is sounds like you are asking people working on their own projects for their own reasons to solve either your own problems or the entire distributed web's problems. Chill out, if IPFS is working out for you then cool, good for you :)\n\nNope, I'm just saying that it is better for peer network if everyone use the same app. That's it)\n\nI don't actually ask to solve the problem, it was a way to point it out. And see if a man has anything to offer besides his awesome ideas. For awesome ideas I have myself, but some cool new thing instead of IPFS I'm searching indeed.\n\n// but I agree that I should have written it somehow difderent. Sorry, really. It's morning here. And not a nice one.",
+				"added": 1457950612
+			},
+			{
+				"comment_id": 90,
+				"body": "> [kaffie](#comment_71_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh): IPFS seems like a better way to go, but I found it was really slow to stream content. I dunno if that was because I didn't set it up right, or if it was just legit slow.\n\nI suppose, not enough seeders. For me IPFS is usually slow on the initial stage, but then it is as fast as anything else.\n\n> Personally, I like the idea of regular torrents, so that users can freely use a torrent client of their choice, or use the built in one. But AFAIK there's no JS tool to stream them yet.\n\nMe too. Simple = Good at this context. For sure I would use that one if it was available.\n\nAbout the idea itself, it's really good as a support for a centralized or decentralized network, not distributed. If Youtube for example would use your tool, they would need much less ppwer for their servers =))\n\nMay be you can sell it?))))))))",
+				"added": 1457952410
+			}
+		],
+		"1_1ANQTb6AbkbYrAo4tPJ7fcHJjw6B6iB7mY": [
+			{
+				"comment_id": 85,
+				"body": "yup, but if I was him I would nit rise a finger without REAL big reason - to edit/delete comments you have to go to the code of the page, cnange it, sign it.... too much work.\n\nSo you are relatively free here =)",
+				"added": 1457940449
+			}
+		],
+		"2_1JgnSzfqoK7wmgWxZgpm89n9zS7J9YoUMt": [
+			{
+				"comment_id": 91,
+				"body": "> [pycole](#comment_72_1KwTTgPRSTHFmmJAFBt6kQfdyNeSM5KJuH): If I somehow find a way to do this via Javascript alone, I'll be sure to share it.\n\nGreat.\n\n> marcolo: How to keep a site as small as possible?\n\nIn either case, you can keep it small by using external place to keep files. For example, [my forum](http://127.0.0.1:43110/blog.musickiller.bit/?Home) is filled with different content (list you can find in Blog Roadmap), everything is accessable and distributed, but still weights only 556 KB. Wich means you can access it on a mobile connection just as well as on any other.",
+				"added": 1458020445
+			}
+		],
+		"2_17n5jg4bBEoWodXDf8L4Y2u88ShagS272Y": [
+			{
+				"comment_id": 92,
+				"body": "> [kaffie](#comment_82_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh): Double spend is still  an issue, obviously. Since the blockchain/bitcoin is the first solution to that problem. Cryptocurrencies are unique because they guarantee that the coin is unique and unable to be spent twice with no central authority. You either need a central authority to validate, or you need to trust the users (either client).\n\nI think it is possible to use NXT here, but that means 1 NXT per action. Not much at all, 10 NXT ~= 9 cents, but still money. But I think it's possible to compress data and send several actions per \"message\". You can define hundreds of actions for single message (1000 symbols?).\n\nPluses: you can keep all data you need in the blockchain, accounts also can be stored in NXT for security\nMinuses: as all blockchain-based stuff, it is a standalone, several GB big application.\n\nI think a server is a simplier solution, but it's good to know alternatives =)",
+				"added": 1458030982
+			}
+		],
+		"15_1CMYxdit4qq9QGk9DYRu2ruRPd2YDGckH8": [
+			{
+				"comment_id": 93,
+				"body": "And I thought we were building a cenzure-free network. Guess I was wrong.",
+				"added": 1458535895
+			}
+		],
+		"1_1mrFbgzkZRbkFemBU3ipHJdr27fJevfRQ": [
+			{
+				"comment_id": 94,
+				"body": "if not bundle, I guess a simple update should work. 'sudo apt-get update && sudo apt-get upgrade'",
+				"added": 1459664298
+			}
+		],
+		"2_1KRDb5SVJe8Gjy9eYEQz62tJv73vavZdUn": [
+			{
+				"comment_id": 95,
+				"body": "267? maniac...",
+				"added": 1459786396
+			}
+		],
+		"1_1KdVeashoiPjj79tVUmAy8cBYjwxfZNe1e": [
+			{
+				"comment_id": 96,
+				"body": "there was a game made in 2005, called Chrome.\nFrom Techland. Call of Juares was made by them, on the engine called Chrome 4, AFAIR.\nOne of those first games with large levels.\nIt was sold on Steam before, but it's not there now. That sucks.. The game had an awesome multiplayer. And no Steam means no new players..",
+				"added": 1460145680
+			},
+			{
+				"comment_id": 97,
+				"body": "> [klauszimmermann](#comment_39_15QGRquMETTn5LnCHjTm1qa9eaXGtq7gpT): Say what you want, Counter-Strike 1.6 is a classic and will never become old.\n\nCS suck.\n\nP.S. u said it yourself, \" say what you want\" =)",
+				"added": 1460147469
+			},
+			{
+				"comment_id": 102,
+				"body": "> [zerogian](#comment_8_1KdVeashoiPjj79tVUmAy8cBYjwxfZNe1e): *love\n\nyou can edit your comments by clicking on a pencil. adding another comment is a waste of space. Because new comment is adding a header to that comment, time stamp and other data.\n\nUSE EDITING!!",
+				"added": 1460192099
+			},
+			{
+				"comment_id": 107,
+				"body": "> [zerogian](#comment_9_1KdVeashoiPjj79tVUmAy8cBYjwxfZNe1e): I know...That's the first time I use Zeronet\n\nI bet it's not the first time you use internet =D If you can edit posts/messages, why adding new?\n\n> and I'm italian so I can't speack english very well...\n\nI'm Russian. And I don't care. Learn.",
+				"added": 1460201718
+			},
+			{
+				"comment_id": 110,
+				"body": "> [erm3nda](#comment_1_18dZiyuxq5kuXAhviJoop9MqghfYWbBCai): Just one is not enough, but...\n\nThere must be a game that makes your hart pump joy instead of blood =D",
+				"added": 1460627326
+			}
+		],
+		"8_1H8oKiRa7fGgUqS1hpUtaSYLvAqkaknbkf": [
+			{
+				"comment_id": 98,
+				"body": "thank you! (1k of data?!! 1k od data for a single thx u comment?! Sucks. Next time I'll send you a mail. It's easier to delete them...)",
+				"added": 1460185675
+			},
+			{
+				"comment_id": 104,
+				"body": "hey, what about using ZN with Tor browser? This way all the plugins that are left alive, will transmit wrong IP! Ta-da, problem with IP solved, no fake proxy needed and all clearnet stuff is available!! =D",
+				"added": 1460195297
+			},
+			{
+				"comment_id": 105,
+				"body": "> [erkan](#comment_116_1H8oKiRa7fGgUqS1hpUtaSYLvAqkaknbkf): If they can transmit IP...\n\nok, fine, I blocked clearnet on my droid. However FFox is so slow tgat I'm not sure I like it.\n\nPlus it's android. I'm sure there are keyloggers and other stuff that helps to collect my data even if I block clearnet on one browser...\n\nSo after playing a bit with it, I am thinking about reversing to previous settings...\n\n> So, one of the best things to do is:clone the apps, but also be prepared to merge new stuff in the future\n\ncloning apps is a cool option. I can make myself as much storage as I want and I won't need to store other's data =)",
+				"added": 1460200997
+			},
+			{
+				"comment_id": 106,
+				"body": "By \"slow\" I mean that smooth scroll makes whole page freeze, and when I erase several symbols, it freezes a bit and erases after I release the button. Sometimes it cleans the whole post when I want to erase a couple of sentences.",
+				"added": 1460201379
+			}
+		],
+		"5_15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ": [
+			{
+				"comment_id": 99,
+				"body": "> [erkan](#comment_113_1H8oKiRa7fGgUqS1hpUtaSYLvAqkaknbkf): See ZeroTodos:\n\nthanks!\n\nBut it only allow simple one line notes. I hope to find something to replace Google Keep (at least, at best - to replace Evernote).\n\nI guess someone will make it sooner or later =)",
+				"added": 1460186366
+			},
+			{
+				"comment_id": 100,
+				"body": "> [erkan](#comment_113_1H8oKiRa7fGgUqS1hpUtaSYLvAqkaknbkf): See ZeroTodos:\n\nHow do you manage to be everywhere? =D Or is it just your special ZeroNet ability?)",
+				"added": 1460188882
+			},
+			{
+				"comment_id": 101,
+				"body": "> [ekaterina](#comment_135_1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD): I'm working on that :) I actually created something that looks a lot like Google Keep not related to ZeroNet some time ago, but never released it. When I find the time I will modify it to run on ZeroNet, could take a month or two though, I've already got too much work on my hands with my current ZeroNet sites :)\n\nis there a list with your ZN sites?)\n\nI'll wait. I need some secure place to store info away from corporations...",
+				"added": 1460191663
+			},
+			{
+				"comment_id": 103,
+				"body": "> [erkan](#comment_115_1H8oKiRa7fGgUqS1hpUtaSYLvAqkaknbkf): If ZeroTodos (with its 30.0kb storage) is not to your liking:you can always use mail@zeroverse for that, by sending mails to yourself.You have 1953K storage there ;-)\n\nhm... It sounds stupid, but you are actually right. It will be hard to browse through those notes though.",
+				"added": 1460192198
+			},
+			{
+				"comment_id": 108,
+				"body": "> [ekaterina](#comment_136_1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD): They are all in the sidebar of my ZeroNet development blog in the \"My projects\" section: http://127.0.0.1:43110/1Kp5xdjQyrPth5mEJsn6NDBKZxcaeYz86N/\n> And there are already five more sites planned, including the notes app :) I need to do some more work on ZeroQuotes and ZeroTodos, ZeroPolls is already in a really good state, then I'll start work on the next site.\n\nthanks!",
+				"added": 1460626248
+			},
+			{
+				"comment_id": 109,
+				"body": "> [ekaterina](#comment_136_1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD): \n\nBy the way, you should add .bit name from your site. Currently to share your site to other devices I have to copy the link to some place like google keep and then open it on other machines through the same g.keep, but if there was some blog.ekaterina.bit, I would just enter the address =) very comfortable!",
+				"added": 1460626547
+			}
+		],
+		"1_1MNLXtMWLF4FX32eFfztzru14n7rn7V6nj": [
+			{
+				"comment_id": 111,
+				"body": "@nofish, make a FAQ here! it will save time both for these people and for you!",
+				"added": 1460698829
+			}
+		],
+		"1_13DyWatmb969sk7auVXrRHpaZh1VpbNBqw": [
+			{
+				"comment_id": 112,
+				"body": "please share, what means \"farming\" here?",
+				"added": 1464562230
+			}
+		]
+	},
+	"comment_vote": {
+		"56_1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD": 1,
+		"55_1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD": 1,
+		"1_1AQLPLp3jur76cHZhkicmMoAqg6mqyTsTv": 1,
+		"1_1DeDB1i9uCW1YDwhVfVhZjuEruoBWPNqx7": 1,
+		"12_15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ": 1,
+		"103_168qV1Xxp2EyszrzdECLUwXrn9wGYjDdar": 1,
+		"7_1NoRNknY1JbJ8nMdn88LwczyMDFnR1GtNw": 1,
+		"26_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1,
+		"388_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"393_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"1_181YMQqS8QgQ3E6FJgHxTcAqkYWS71Nyd9": 1,
+		"1_19z3VucxwAoyQZwhmjEgA6vJ9TTp2GmGLN": 1,
+		"26_1NoRNknY1JbJ8nMdn88LwczyMDFnR1GtNw": 1,
+		"450_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"32_17fgJ3tZjhM7HCkTkd5TWf2BLLWmhRKcXB": 1,
+		"1_1NdofSgkkvCXPx5FotgoSxX3K78Nn6MDue": 1,
+		"36_15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ": 1,
+		"8_1H8oKiRa7fGgUqS1hpUtaSYLvAqkaknbkf": 1,
+		"51_15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ": 1,
+		"469_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"52_16AFTG7vdicwJbRQpWc2F9BRHTE5MTftE7": 1,
+		"6_1LJP7tDoGnWNppUGJoNS8cJbmYTS1TecCC": 1,
+		"501_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"71_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1,
+		"81_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1,
+		"583_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"113_1H8oKiRa7fGgUqS1hpUtaSYLvAqkaknbkf": 1,
+		"135_1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD": 1,
+		"116_1H8oKiRa7fGgUqS1hpUtaSYLvAqkaknbkf": 1,
+		"136_1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD": 1
+	}
+}

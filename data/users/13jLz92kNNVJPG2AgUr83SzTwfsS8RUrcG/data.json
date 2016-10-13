@@ -1,0 +1,93 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "we need a search engine for zeronet",
+			"body": "no search engine or site directory serivce, I can't find the sites I'm interested in. is there any google like searching service?",
+			"added": 1458957580
+		}
+	],
+	"topic_vote": {
+		"1_13jLz92kNNVJPG2AgUr83SzTwfsS8RUrcG": 1
+	},
+	"next_comment_id": 14,
+	"comment": {
+		"2_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": [
+			{
+				"comment_id": 1,
+				"body": "why there's no login reminds on new post? but there's one",
+				"added": 1458957395
+			}
+		],
+		"1_13jLz92kNNVJPG2AgUr83SzTwfsS8RUrcG": [
+			{
+				"comment_id": 2,
+				"body": "nice work! :)",
+				"added": 1458958407
+			},
+			{
+				"comment_id": 6,
+				"body": "seem's these search engine can't index all contents, it's not full-text index?",
+				"added": 1458986381
+			},
+			{
+				"comment_id": 7,
+				"body": "> [erkan](#comment_93_1H8oKiRa7fGgUqS1hpUtaSYLvAqkaknbkf): Perhaps it will come soon, who knows?\n> Full index needs space.Standard setting of a site here has 10 MB, which ofc, can be increased, which I then don't load. Better is: one can set \"optional file setting\", and files are loaded on request\n\nper file request is nice, since mobile device user need this, is there any android or iOS solution?",
+				"added": 1458988922
+			}
+		],
+		"1_1UfvLnMuzShvi3phWGSqn79tio81Wn9Dt": [
+			{
+				"comment_id": 3,
+				"body": "> [chinanet](#comment_1_1MZ6f3V1cBuhNwzajMVPu8vb1wRt1p6dpt): 我了个去，刚才注册个ID太难了，服务器总是报错，等了一会才行。貌似中国人冲向这里，把负责注册的服务器搞残了。没错，我是twister上的@chinanet正在向twister上的人推荐这里。\n\n翻来覆去还是这几个家伙……",
+				"added": 1458976419
+			},
+			{
+				"comment_id": 4,
+				"body": "和twister不同，zeronet由于提供了富媒体供稿的可能性，可以把被墙的站点内容整体搬迁到zeronet上来，实际由传统中心化网站向p2p网站的转移，当然，最好是由网站所有者主动进行迁移，如果对方不感兴趣，也可以使用脚本自动抓取内容复制过来。",
+				"added": 1458979101
+			},
+			{
+				"comment_id": 5,
+				"body": "有没有人在zeroverse.bit 上面注册了过用户，我注册了一个，但用户名显示是灰色不可用状态。",
+				"added": 1458985834
+			},
+			{
+				"comment_id": 8,
+				"body": "> [chinanet](#comment_4_1MZ6f3V1cBuhNwzajMVPu8vb1wRt1p6dpt): 现在twister面对zeronet的竞争（zeronet很快将推出社交功能），几乎唯一的出路是在移动端发力，搞个基于安全公共托管的twister手机APP。这需要移动开发比较牛的人参与。详见我二十多天前的帖子：德国开发者搞定了安全的twister公共托管（开源）https://1984.city/viewtopic.php?f=10&t=79P2P社交应用的最新发展情况——分别谈谈twister和ZeroNethttps://1984.city/viewtopic.php?f=8&t=80\n\n为毛给你发mail提示ID无效？",
+				"added": 1458993353
+			},
+			{
+				"comment_id": 9,
+				"body": "这货现在内容匮乏，需要大力宣传，或者赶紧把被屏蔽的常用新闻站点复制进来。比如做一个脚本来复制newyork times 中文整站。",
+				"added": 1458994113
+			},
+			{
+				"comment_id": 10,
+				"body": "> [xiaolan65535](#comment_14_1NV87VmSkezRyz8NbFpdkYJsJUSfXx7LJa): 我在做编程随想的博客镜像到这里.....\n\n打算怎么弄，自动同步过来还是定期手动更新？",
+				"added": 1459256309
+			},
+			{
+				"comment_id": 12,
+				"body": "ZeroNet\\src\\config.py 这个文件中的tracker服务器主要做什么用？尝试全部屏蔽，貌似会影响数据传输？尝试只开启zero开头的几个服务器地址，可以正常传输数据。",
+				"added": 1460726600
+			},
+			{
+				"comment_id": 13,
+				"body": "> [p2p](#comment_135_13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ): Tracker可以任意指定啊，通过设置启动参数，或者通过程序升级。如果固定一个tracker那才是做不到 去中心\n\nzero开头的地址是新的协议？",
+				"added": 1460768161
+			}
+		],
+		"1_1McESjc8CgW2oDSNErSQx2UUJe863bYcqM": [
+			{
+				"comment_id": 11,
+				"body": "其实这玩意目前比较适合搞个组织化的约炮平台。",
+				"added": 1459578109
+			}
+		]
+	},
+	"comment_vote": {
+		"1_1MZ6f3V1cBuhNwzajMVPu8vb1wRt1p6dpt": 1
+	}
+}

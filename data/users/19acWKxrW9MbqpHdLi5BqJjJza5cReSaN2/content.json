@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HLUjGELrZPntpX8qmNyc9yeR3GlnvmZLdZz9sl5jDpp6pZWevPNHcsSnJZwMWcNQF3QEtQpsphw5G2aYXRI6/TY=",
+ "cert_user_id": "mit@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "cf2e90960e147cfd0a75161ba61d609bcd0278c63660020ef8faeca5e0b4129f",
+   "size": 267
+  }
+ },
+ "inner_path": "data/users/19acWKxrW9MbqpHdLi5BqJjJza5cReSaN2/content.json",
+ "modified": 1464351002.399,
+ "signs": {
+  "19acWKxrW9MbqpHdLi5BqJjJza5cReSaN2": "G006hRMY2O5dWq2qNXlLRL/kgvDffyFOsOslpbWro7xUyTCb7Dg/s/wXdsEMa3V37k49LsRWdFnzLO5ABrrNmUQ="
+ }
+}

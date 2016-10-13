@@ -1,0 +1,16 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 2,
+	"comment": {
+		"7_1LJMypJ67iEBwah82xwVVdB8SGZ1mwqgHQ": [
+			{
+				"comment_id": 1,
+				"body": "this is the best stuff ever",
+				"added": 1460088132
+			}
+		]
+	},
+	"comment_vote": {}
+}

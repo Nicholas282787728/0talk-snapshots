@@ -1,0 +1,42 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "Tor error: TorManager Tor addOnion error: 510 Unrecognized command \"ADD_ONION\"",
+			"body": "Hello\nI receive the following error when I start ZeroNet with command python zeronet.py --tor always in Ubuntu 15.10:\nTorManager Tor addOnion error: 510 Unrecognized command \"ADD_ONION\"\n\nLooks like  Tor running correctly:\n250-PROTOCOLINFO 1 \n250-AUTH METHODS=COOKIE,SAFECOOKIE COOKIEFILE=\"/var/run/tor/control.authcookie\" \n250-VERSION Tor=\"0.2.6.10\" \n250 OK\n\nHow can I check if I use tor with ZeroNet?",
+			"added": 1457103097
+		}
+	],
+	"topic_vote": {
+		"1_1B2EAgvoxxBcriLxnNXXuJsboE7FbCxtmp": 1
+	},
+	"next_comment_id": 5,
+	"comment": {
+		"1_1FbEENPR12D1yfqWWszQfNgb1Tu5TecMFV": [
+			{
+				"comment_id": 1,
+				"body": "Salut\nPrimesc o eroare când încerc să rulez ZeroNet cu tor. Am descris-o aici: http://127.0.0.1:43110/Talk.ZeroNetwork.bit/?Topic:1_1B2EAgvoxxBcriLxnNXXuJsboE7FbCxtmp/Tor+error+TorManager+Tor+addOnion+error+510+Unrecognized+command+ADD+ONION\n\nAre cineva vreo idee?",
+				"added": 1457103172
+			},
+			{
+				"comment_id": 2,
+				"body": "> [ovidiu](#comment_1_1P46rhvckorxi9PpbN5CvJc9xWwWmzDrRw): Pare o problema similara.http://tor.stackexchange.com/questions/9352/is-add-onion-control-command-implemented-in-the-latest-stable-release\n> According to the line 1405 from control-spec.txt, it's present since Tor 0.2.7.1-alpha. Current Tor Browser Bundle (version 5.0.6) use Tor 0.2.7.6, which is a stable one. ADD_ONION should be implemented.\n\nFolosesc Tor v0.2.6.10; să văd dacă actualizez ce zice.",
+				"added": 1457103627
+			},
+			{
+				"comment_id": 4,
+				"body": "> [ovidiu](#comment_1_1P46rhvckorxi9PpbN5CvJc9xWwWmzDrRw): Pare o problema similara.http://tor.stackexchange.com/questions/9352/is-add-onion-control-command-implemented-in-the-latest-stable-release\n> According to the line 1405 from control-spec.txt, it's present since Tor 0.2.7.1-alpha. Current Tor Browser Bundle (version 5.0.6) use Tor 0.2.7.6, which is a stable one. ADD_ONION should be implemented.\n\nGata, am făcut update-ul la 0.2.7.6 și totul e în regulă acum. Mersi.",
+				"added": 1457104903
+			}
+		],
+		"1_1B2EAgvoxxBcriLxnNXXuJsboE7FbCxtmp": [
+			{
+				"comment_id": 3,
+				"body": "> [nofish](#comment_414_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): Tor version 2.7.5+ required. More info: http://zeronet.readthedocs.org/en/latest/faq/#how-to-make-zeronet-work-with-tor-under-linux\n\nThanks. I updated TOR to 0.2.7.6 and everything is ok.",
+				"added": 1457104831
+			}
+		]
+	},
+	"comment_vote": {}
+}

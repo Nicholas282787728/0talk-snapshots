@@ -1,0 +1,97 @@
+{
+	"next_topic_id": 2,
+	"topic": [],
+	"topic_vote": {
+		"2_18AAv2MxpUxLjG6U64nucoBg833eTaR83u": 1,
+		"1_1DzpF7398yNGjFwHQqHAu9fRkbE3WZ6dZA": 1,
+		"1_1BqTArWCTJVYgdCFcHdo8d341gWJg9F93f": 1,
+		"3_1FTFKztuv4Z5uy6iS83k9hB2xtS6yFnDxx": 1,
+		"4_1FTFKztuv4Z5uy6iS83k9hB2xtS6yFnDxx": 1,
+		"7_1FTFKztuv4Z5uy6iS83k9hB2xtS6yFnDxx": 1,
+		"7_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1,
+		"9_1FTFKztuv4Z5uy6iS83k9hB2xtS6yFnDxx": 1,
+		"10_1FTFKztuv4Z5uy6iS83k9hB2xtS6yFnDxx": 1
+	},
+	"next_comment_id": 12,
+	"comment": {
+		"1_17gEFavobc7RsKNGbSzZwoSZ6jNB7hT2KN": [
+			{
+				"comment_id": 1,
+				"body": "Use this guide http://127.0.0.1:43110/17Kom2G5qNDc6NaQwv445h1gFzxkY3ZtZe/using_zeronet/create_new_site/\nHere's a summary of it:\n\n- Use \"zeronet.py siteCreate\"\n- Store your private key somewhere safe\n- Go to the folder with the address of the created site, that's in /data in your ZeroNet folder\n-  Put your static site in that folder, with an \"index.html\", which is the first page someone sees when browsing your site with just your address.\n- When done, sign it with \"zeronet.py siteSign YOUR_ADDRESS\"\n- And then publish it with  \"zeronet.py sitePublish YOUR_ADDRESS\"",
+				"added": 1466016097
+			},
+			{
+				"comment_id": 9,
+				"body": "> [oren](#comment_4_1ET7iT2Cot3uksKiR9TEvj5RSpqRUgJiso): http://127.0.0.1:43110/1PKH11Tjj6ssfBY3L132DZ4b3d1ezuu5d    my hello world!\n\nGetting \"content.json download failed\". Maybe sign and publish your site again",
+				"added": 1466058581
+			}
+		],
+		"2_18AAv2MxpUxLjG6U64nucoBg833eTaR83u": [
+			{
+				"comment_id": 2,
+				"body": "> [nofish](#comment_687_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): There is no particular reason, i'm open to change the license/other ideas, here is a github issue about it: https://github.com/HelloZeroNet/ZeroNet/issues/224\n\nPlease do!\n\nGPLv2 is incompatible with GPLv3, and here's why you should upgrade to GPLv3: \nhttps://www.gnu.org/licenses/rms-why-gplv3.html.en",
+				"added": 1466016364
+			}
+		],
+		"1_1BqTArWCTJVYgdCFcHdo8d341gWJg9F93f": [
+			{
+				"comment_id": 3,
+				"body": "Use https://bit.no.com:43110/ or https://proxy1.zn.kindlyfire.me/ most of the proxies listed on http://127.0.0.1:43110/zeroproxies.bit/ are offline ... ",
+				"added": 1466017154
+			}
+		],
+		"4_1FTFKztuv4Z5uy6iS83k9hB2xtS6yFnDxx": [
+			{
+				"comment_id": 5,
+				"body": "> [kindlyfire](#comment_12_1FTFKztuv4Z5uy6iS83k9hB2xtS6yFnDxx): Your issues should be resolved. It is now usable over HTTPS.\n> Sometimes it will still refuse to load the font, but only if you use a remote server without HTTPS. (locally seems to work though)\n\nDownload http://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js and put it in your site locally, it's ZeroNet...\nIt's in pacman.js' FontLoader function, use local assets please.",
+				"added": 1466019128
+			},
+			{
+				"comment_id": 8,
+				"body": "> [kindlyfire](#comment_15_1FTFKztuv4Z5uy6iS83k9hB2xtS6yFnDxx): I did not choose to use G. Fonts for loading fonts, the games did (they are open-source, not made by me). I will try to make it better :)\n\nYes, sorry... thought you made these :)\nI think you can find the bits that load the external font in each Javascript file for each game at the same location.\nAnyway, thanks for the mirror!",
+				"added": 1466057777
+			}
+		],
+		"3_1FTFKztuv4Z5uy6iS83k9hB2xtS6yFnDxx": [
+			{
+				"comment_id": 6,
+				"body": "> [scrub](#comment_96_1ADB7TdX2fVbTsWBoMe9yBTmVXTbb33b4R): Here's a mirror for the ZeroDocs: http://127.0.0.1:43110/17Kom2G5qNDc6NaQwv445h1gFzxkY3ZtZe/\n\nThanks, and we need more of the clearnet, copy all the things!",
+				"added": 1466019270
+			}
+		],
+		"1_1PGv4BspGtJ53FYnmZ5b5iW6BdKJ69C3oP": [
+			{
+				"comment_id": 7,
+				"body": "I initially thought you meant a mirror of https://privacytools.io, so I created one: \nhttp://127.0.0.1:43110/1J625kWnshbcBk9gE9BdPr4peTeXusRzU8\n\nAnyway, I only know of https://prism-break.org/en/all/",
+				"added": 1466022283
+			}
+		],
+		"7_1FTFKztuv4Z5uy6iS83k9hB2xtS6yFnDxx": [
+			{
+				"comment_id": 10,
+				"body": "Great, thanks. Is it easy to do? Would like to setup one myself as well. \nI added your proxy as a comment on http://127.0.0.1:43110/zeroblog.bit/?Post:53:we+need+more+proxies#Comments\nand created a \"proxies\" ZeroWiki entry http://127.0.0.1:43110/138R53t3ZW7KDfSfxVpWUsMXgwUnsDNXLP/?Page:proxies",
+				"added": 1466189882
+			}
+		],
+		"8_1FTFKztuv4Z5uy6iS83k9hB2xtS6yFnDxx": [
+			{
+				"comment_id": 11,
+				"body": "Thanks man, great job!",
+				"added": 1466197049
+			}
+		]
+	},
+	"comment_vote": {
+		"687_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"2_1DyHtc8AMKrqjEja7Bi8rQ1hfcc3fTwsSw": 1,
+		"19_18AAv2MxpUxLjG6U64nucoBg833eTaR83u": 1,
+		"3_17nphNHoGtz9EzvvTSSbZn7WHfM1ynpdsL": 1,
+		"96_1ADB7TdX2fVbTsWBoMe9yBTmVXTbb33b4R": 1,
+		"88_1ADB7TdX2fVbTsWBoMe9yBTmVXTbb33b4R": 1,
+		"15_1FTFKztuv4Z5uy6iS83k9hB2xtS6yFnDxx": 1,
+		"575_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"20_1FTFKztuv4Z5uy6iS83k9hB2xtS6yFnDxx": 1,
+		"694_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"17_1DWrKbEomgBLHjczm1HkP556Vg68ewDmyd": 1
+	}
+}

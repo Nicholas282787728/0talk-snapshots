@@ -1,0 +1,33 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 5,
+	"comment": {
+		"2_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": [
+			{
+				"comment_id": 1,
+				"body": "test",
+				"added": 1459534582
+			}
+		],
+		"1_1NK48tpcLLQzcbN6kCin4ZkMQosBd133PG": [
+			{
+				"comment_id": 2,
+				"body": "Cześć, można by było założyć ZeroTalk po polsku. Widzę, że w innych językach już są po najechaniu na \"More\".",
+				"added": 1459535465
+			},
+			{
+				"comment_id": 3,
+				"body": "No peer found. Trzeba dodać do jakiejś listy stron, albo żeby więcej ludzi seedowało.",
+				"added": 1459890699
+			},
+			{
+				"comment_id": 4,
+				"body": "Teraz już działa, wygląda dobrze, dzięki.",
+				"added": 1459967582
+			}
+		]
+	},
+	"comment_vote": {}
+}

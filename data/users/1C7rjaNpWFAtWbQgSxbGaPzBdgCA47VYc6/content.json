@@ -1,0 +1,15 @@
+{
+ "cert_auth_type": "web", 
+ "cert_sign": "HK3tcKOdJ2CMjEns5rikvobfIiPh4R6nHhFpk5aEHnxQzypaSCJj7Q5bg1uJADtRbDts10lXEDuVvmA8dsW/3u0=", 
+ "cert_user_id": "icouldntcareless@zeroid.bit", 
+ "files": {
+  "data.json": {
+   "sha512": "429b0793dd1edb02f849afdb8dd16325e5e802d0f55878300e92b0bac525c8c3", 
+   "size": 1483
+  }
+ }, 
+ "modified": 1451076943.977256, 
+ "signs": {
+  "1C7rjaNpWFAtWbQgSxbGaPzBdgCA47VYc6": "HLxk0lVBKw4ikDzZ3XlINOh3lMY1aYxG/Cbc2aE6viBYppQtBTyG0YaGrpl4AmPVVZqpZgad49f/65CwcaBWJiQ="
+ }
+}

@@ -1,0 +1,23 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 3,
+	"comment": {
+		"1_15ATNsS6aHGvBg5xoMP94sXpNaLX4fSHjN": [
+			{
+				"comment_id": 1,
+				"body": "If you don't want to help spreading certain files (like nasty pictures, etc.) simply replace it with an empty file or with another picture with the same file name. You don't even have to make it write protected, as fas as I know. Zeronet wont re-download it.",
+				"added": 1468359267
+			}
+		],
+		"1_1GKVos5hEJ2zKjKfjXurFCfxwjtvT2CD28": [
+			{
+				"comment_id": 2,
+				"body": "allahu snack bar!",
+				"added": 1468359505
+			}
+		]
+	},
+	"comment_vote": {}
+}

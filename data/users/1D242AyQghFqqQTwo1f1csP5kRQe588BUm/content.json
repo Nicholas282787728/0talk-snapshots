@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "G+//jebWVosQ+rndR2U3Ctb8ej0MFIg57/ISgqGMQiofjdWHRJR0GGsjcql2dSPuTsmr3GhVs/+qfdmYT/uHM3s=",
+ "cert_user_id": "frabrunelle@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "8b70cb54cf0004c63fc0bd1f0fd3e90b147e0dbfb64c8970a9a41d7132f9c621",
+   "size": 425
+  }
+ },
+ "inner_path": "data/users/1D242AyQghFqqQTwo1f1csP5kRQe588BUm/content.json",
+ "modified": 1472033037.849781,
+ "signs": {
+  "1D242AyQghFqqQTwo1f1csP5kRQe588BUm": "HNOuYtyqN8hgYWzXKWDUsBdTFKvqYv2F2xqoFORvZEOMXMlLyxawAAJQG1K9/fiHQDTyPRFu7MfRlmXbV3z+Aew="
+ }
+}

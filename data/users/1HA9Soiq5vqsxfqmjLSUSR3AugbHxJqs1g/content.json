@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "G+OddGo8Gd0r2rq/lJxckN1XgQw0TJYL0bG+CbJ/iK/rcX/nueamjpwsFUfRJGjBr9cx6BMi6tdbjURDpujbGDQ=",
+ "cert_user_id": "bertazo@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "0d6ccef0a9e887ba4c7961377c391d51bc360f3d0b28c5f77d483da9ffa097ac",
+   "size": 309
+  }
+ },
+ "inner_path": "data/users/1HA9Soiq5vqsxfqmjLSUSR3AugbHxJqs1g/content.json",
+ "modified": 1462559650.318,
+ "signs": {
+  "1HA9Soiq5vqsxfqmjLSUSR3AugbHxJqs1g": "HEFgI+lfYYSTezaynoa5E2PluR0B1wCY3V+eTiIXpeSoW4BasK47m4AlAyK93F314HXGo2HkfYxNsBxoBpLUeHc="
+ }
+}

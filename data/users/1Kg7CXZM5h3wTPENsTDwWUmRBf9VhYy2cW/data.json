@@ -1,0 +1,142 @@
+{
+	"next_topic_id": 7,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "Zeronet is awesome - revolution anyone?",
+			"body": "We're going to some interesting things developing now.",
+			"added": 1457199002
+		},
+		{
+			"topic_id": 2,
+			"title": "I explore ZeroNet and document it on ZeroNet",
+			"body": "I found out about ZeroNet and felt what the rest of you are feeling right now...\n\nSo I started exploring this wonderful beast that we're feeding now, and this is the result: [Ace's ZeroNet Exploration](/1NfVz57ebbUae6DiksXR88ZgwY9VY1jQiH).\n\nTips and suggestions are welcome!",
+			"added": 1457211052
+		},
+		{
+			"topic_id": 3,
+			"title": "Need developers",
+			"body": "I'm looking for javascript devs to build tools and apps for ZeroNet.\n\nI'm open for both paid development and partnership on the stuff that will be built - so it's really up to the dev.\n\nYou can send me a ZeroMail message to **acehigh**.",
+			"added": 1457293635
+		},
+		{
+			"topic_id": 4,
+			"title": "Assuming I'm using multiuser/proxy ZeroNet - where is my data stored?",
+			"body": "So let's say I'm using ZeroNet through bit.no.com:43110 (ZeroNet proxy) - where would my ID be stored? How can I share my ID across multiple devices?",
+			"added": 1457296183
+		},
+		{
+			"topic_id": 5,
+			"title": "PSA: Using ZeroNet with the default configuration is exposing your identity to anyone on your network!",
+			"body": "[If you install ZeroNet client and run it using the default configuration, i.e. not in multi-user mode, anyone who tries to access your computer through your local network, using your machine name or ip address, will see ZeroNet through your identity!](http://127.0.0.1:43110/1NfVz57ebbUae6DiksXR88ZgwY9VY1jQiH/?Post:19)\n\n[Read more...](http://127.0.0.1:43110/1NfVz57ebbUae6DiksXR88ZgwY9VY1jQiH/?Post:19)",
+			"added": 1457298943
+		},
+		{
+			"topic_id": 6,
+			"title": "What kind of projects you have in mind now that you begin to understand ZeroNet?",
+			"body": "I'll start!\n\nWe should clone Facebook 1-to-1 (UI/style/functionality) and make it available as both a public multiuser platform like facebook is, and a simple copy-paste do-your-own-social-network ability baked in like we have with other apps.",
+			"added": 1457396470
+		}
+	],
+	"topic_vote": {
+		"1_19y2tY5XJRD3YqFYn9vVgsq74nWBTPUcgv": 1,
+		"2_1BY3fbfkw2w8oDtpbjbEQQbpmNzrWL4BqN": 1,
+		"2_1Kg7CXZM5h3wTPENsTDwWUmRBf9VhYy2cW": 1,
+		"1_19hZjnvGuFY2sB3nDpX6869nJgkXURTvxX": 1,
+		"3_168qV1Xxp2EyszrzdECLUwXrn9wGYjDdar": 1,
+		"3_1Kg7CXZM5h3wTPENsTDwWUmRBf9VhYy2cW": 1
+	},
+	"next_comment_id": 13,
+	"comment": {
+		"1_19y2tY5XJRD3YqFYn9vVgsq74nWBTPUcgv": [
+			{
+				"comment_id": 1,
+				"body": "Also interested...",
+				"added": 1457204890
+			}
+		],
+		"3_168qV1Xxp2EyszrzdECLUwXrn9wGYjDdar": [
+			{
+				"comment_id": 2,
+				"body": "I write about my experience on ZeroNet. [zero/1NfVz57ebbUae6DiksXR88ZgwY9VY1jQiH](/1NfVz57ebbUae6DiksXR88ZgwY9VY1jQiH)",
+				"added": 1457219363
+			},
+			{
+				"comment_id": 9,
+				"body": "> [nullpo](#comment_17_16Szsy1UtjiXpEevWVdUDrNfNTAZ9PLbcY): I created a simple text board where you can post without an account registered at ZeroID, but with one created in the browser:http://127.0.0.1:43110/16KzwuSAjFnivNimSHuRdPrYd1pNPhuHqN\n> This is an experiment that utilizes bitcoinjs-lib to generate an account without any central server.\n\nThis is very nice!",
+				"added": 1457454602
+			}
+		],
+		"1_19hZjnvGuFY2sB3nDpX6869nJgkXURTvxX": [
+			{
+				"comment_id": 3,
+				"body": "מהפכה.",
+				"added": 1457224422
+			},
+			{
+				"comment_id": 5,
+				"body": "למי שמעוניין יש קבוצת \"זירונט ישראלי\" בפייסבוק - קבוצת דיונים בשפה העברית (אבל לא רק) בנושאי זירונט בארץ ובכלל\n\nhttps://www.facebook.com/groups/1770630863164888/",
+				"added": 1457269839
+			}
+		],
+		"2_1Kg7CXZM5h3wTPENsTDwWUmRBf9VhYy2cW": [
+			{
+				"comment_id": 4,
+				"body": "> [pleu](#comment_1_1CbBXYtHDzkkgHJua7fn7z6Sic3andvkDA): Nice blog !\n\nThanks! :)",
+				"added": 1457266498
+			}
+		],
+		"1_1PtoWgfjhzMK8qz1eTVG3QsawNQ4DL8c8Y": [
+			{
+				"comment_id": 6,
+				"body": "> [shift](#comment_48_16AFTG7vdicwJbRQpWc2F9BRHTE5MTftE7): am i right? zero mail = bit message ?\n\nI think I saw it in the support page as a successfully implemented feature - so it makes sense. \n\nCan anyone confirm?",
+				"added": 1457293390
+			}
+		],
+		"5_1Kg7CXZM5h3wTPENsTDwWUmRBf9VhYy2cW": [
+			{
+				"comment_id": 7,
+				"body": "> [nofish](#comment_450_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): By default ZeroNet binds to 127.0.0.1, so remote access is not possible.\n\nYou are correct - the problem is not as bad, but if someone uses your machine (i.e. little sister/brother) and tries to access your local `:43110` port they will see your identity and be able to sign stuff on ZN with it.\n\nI've updated the post to reflect your comment, cheers!",
+				"added": 1457299587
+			}
+		],
+		"1_1FoCQCBaoX3Fi85goewPLRLr1mxFqmCKNU": [
+			{
+				"comment_id": 8,
+				"body": "Hello from Israel! :)",
+				"added": 1457379624
+			}
+		],
+		"3_1Kg7CXZM5h3wTPENsTDwWUmRBf9VhYy2cW": [
+			{
+				"comment_id": 10,
+				"body": "> [overflow](#comment_3_17JSHDd8Hub7LDtYzGD8XPjtQWpiEnVrhR): @acehigh ima js dev, what are you looking to have made?\n\nHey @overflow!\nI want to have a few templates made either on top of ZeroBlog's engine (or maybe a new one, I'm open to ideas) and some basic site templates.",
+				"added": 1457724818
+			},
+			{
+				"comment_id": 11,
+				"body": "> [eugenere](#comment_2_1NUPS87CLEtEmee1AGvmY7iSbvpC9JWHxy): need explain more\n\nWhat kind of explanation do you need? I'd rather not completely disclose the full aspect of what I need done to the entirety  of ZeroNet - I need JS/HTML/CSS devs to build a number of apps/sites that I have in mind, obviously more details will be given once we start some kind of private communication...",
+				"added": 1457785232
+			},
+			{
+				"comment_id": 12,
+				"body": "> [noiamo](#comment_25_14XxpXNGMLsyeQxikacrbQnAFXVyhN5Ngx): Who isn't looking for a js developer?\n\nAnyone who haven't heard of ZeroNet :D",
+				"added": 1457785392
+			}
+		]
+	},
+	"comment_vote": {
+		"1_1CbBXYtHDzkkgHJua7fn7z6Sic3andvkDA": 1,
+		"85_1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD": 1,
+		"48_16AFTG7vdicwJbRQpWc2F9BRHTE5MTftE7": 1,
+		"451_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"17_16Szsy1UtjiXpEevWVdUDrNfNTAZ9PLbcY": 1,
+		"20_1LWuc6JBhUGrKEAh1aPrPU85dEMcKmg3pS": 1,
+		"3_14XxpXNGMLsyeQxikacrbQnAFXVyhN5Ngx": 1,
+		"3_1KGozab6jp6jA6zVM8cTFdzMmBasriNP4f": 1,
+		"463_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"69_1KwTTgPRSTHFmmJAFBt6kQfdyNeSM5KJuH": 1,
+		"5_1GtJqyJRsuZhmxVtw5USgvqGbUmVH7EmBD": 1,
+		"8_1FieP4c1gxFme5webFJB9x5ZPBXdR6p3Fs": 1
+	}
+}

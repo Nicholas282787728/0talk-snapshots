@@ -1,0 +1,23 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "美国总统选举",
+			"body": "2016美国总统竞选",
+			"added": 1460131611
+		}
+	],
+	"topic_vote": {},
+	"next_comment_id": 2,
+	"comment": {
+		"1_1Bhz2SJQx93QhZ3eZE1mnTKXoXsWd5MzfH": [
+			{
+				"comment_id": 1,
+				"body": "> [mylifewaiting](#comment_11_14MrxSzhaSXiFwsAbyhwtipmU3Lh55Xcrr): 我支持共和党科鲁兹，小政府，自由经济，低税收，降低政府赤字，适当福利\n\nme too,其实我和mylifewaiting帐户的所有者是同一个人",
+				"added": 1460132192
+			}
+		]
+	},
+	"comment_vote": {}
+}

@@ -1,0 +1,77 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 11,
+	"comment": {
+		"1_1MKjzLUa2FnZt7ZNjHemEeeh3APtDNnLzb": [
+			{
+				"comment_id": 1,
+				"body": "Merci Korben de ramener encore plus de français ^^",
+				"added": 1441735043
+			},
+			{
+				"comment_id": 3,
+				"body": "@youille, il est déjà possible de les faire chier sans qu'ils aient possibilité de faire quelques choses, tu plantes un réseau mesh dans un quartier (avec des bornes wifi chez l'habitant / sur les toits / drone wifi) et tu as un réseau local extensible.\n\nVoir même plus con, des piratesbox.\n\nPuis bon le filtrage hein, pour ce que ça donne en France.",
+				"added": 1441745137
+			},
+			{
+				"comment_id": 7,
+				"body": "> [betatester](#comment_12_1MS7WkWAZUSohgV5uUF2Ze3kdbifi4J82L): Oui français et sur ZeroNet depuis quelques semaines. Pour voir d'où viennent les gens il suffit de tirer le bandeau de gauche et regarder le globe\n\nLa vache, j'ai même pas lu la doc jusqu'au bout, pour moi le bouton en haut à droit c'était un lien vers l'accueil ZeroNet :o\n\n@youille, le plus compliqué c'est pas de le mettre en place, c'est de trouver des geeks près de chez toi qui veulent s'amuser à faire la même chose sur le temps libre et en achetant / fabricant leur matos mesh ^^",
+				"added": 1442421983
+			}
+		],
+		"2_1EvouJCSru1YAbXsZW6WtRa97eLP4UjqKo": [
+			{
+				"comment_id": 2,
+				"body": "> [m1nistry](#comment_7_1CiW4yN81LYyrDsMsZpM7PBvz4EsZqLZZ1): Backing up your data/users.json file will allow you to keep your username identity. It contains the keys needed to authenticate. It uses the same setup for storing bitcoin wallets as far as I know.\n\nCan you protect it with a password ? (just in case someone access to this file)",
+				"added": 1441735751
+			},
+			{
+				"comment_id": 4,
+				"body": "> [zyx](#comment_6_1DUxbFE7rbRQrzXQigk1VSzeqdaAJpwBvH): You could always pack it in a 7-zip or rar file with a password on :)\n\nYeah, having something like that in mind, but I think it's better when the system ask for my password when I try to login, just in case I forgot to lock my computer ^^",
+				"added": 1441745495
+			}
+		],
+		"1_16Qxab7SNiZ2R9xV1tJQLXbCiWiXyxeELZ": [
+			{
+				"comment_id": 5,
+				"body": "> [gkittz](#comment_2_17iY4QsDEmdCkJywu7Nds2svrDJDEQ24bh): That means, I'm hosting the whole zerotalk site right now?? That would make it impossible to load big sites? won't it...\n\nThat's the magic of P2P, big sites will load smoothly if many user have a copy. And that's why twitter use P2P technology to update datacenter. But of course, if only you host the big site, the loading time increase.",
+				"added": 1441746170
+			}
+		],
+		"8_1PNyuY1iZqXBpft4ArouqcnE4pNRGYij5i": [
+			{
+				"comment_id": 6,
+				"body": "same as other french : korben.info",
+				"added": 1442260013
+			}
+		],
+		"1_18jipjDsfAxAuq4ixbi2w24xJrYVfTYFPn": [
+			{
+				"comment_id": 8,
+				"body": "France",
+				"added": 1459029900
+			}
+		],
+		"1_1BQg5MQZ63aEQZMzLEXP6yY3hsgznKpaps": [
+			{
+				"comment_id": 9,
+				"body": "Debian desktop here",
+				"added": 1459029978
+			}
+		],
+		"1_1HPdSHS7WWEMmsJ77JMtf87DUMRGpbTodx": [
+			{
+				"comment_id": 10,
+				"body": "DO IT, NOW",
+				"added": 1459199142
+			}
+		]
+	},
+	"comment_vote": {
+		"1_1ESb4uRK8qReuTD778qFo3YNPuygDwz6zu": 1,
+		"51_1CMYxdit4qq9QGk9DYRu2ruRPd2YDGckH8": 1,
+		"3_1KdnTJVBGzEZrJppFZtzfG9chukuMv8xSb": 1
+	}
+}

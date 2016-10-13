@@ -1,0 +1,33 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {
+		"4_1KcPohxmuqiNShTaAzJZLndm5aWtBZLuJn": 1,
+		"5_1KwTTgPRSTHFmmJAFBt6kQfdyNeSM5KJuH": 1
+	},
+	"next_comment_id": 3,
+	"comment": {
+		"1_18C3QMMDj9vRcw6j6bNwb77cX4unMBq6QF": [
+			{
+				"comment_id": 1,
+				"body": "So I currently have ZeroNet running of one VM, how can I use it to deploy a site hosted on another VM? I would really prefer not to install zeronet on the VM hosting said site.",
+				"added": 1456955511
+			}
+		],
+		"1_1BQg5MQZ63aEQZMzLEXP6yY3hsgznKpaps": [
+			{
+				"comment_id": 2,
+				"body": "Debian here :)",
+				"added": 1457482658
+			}
+		]
+	},
+	"comment_vote": {
+		"3_18jiuMEFFvYp1asdmcaZ8YvdjPS9aZCcfJ": 1,
+		"4_17fgJ3tZjhM7HCkTkd5TWf2BLLWmhRKcXB": 1,
+		"35_1PNyuY1iZqXBpft4ArouqcnE4pNRGYij5i": 1,
+		"2_1D7uESYtAKV36MVPGJZXuE7LUKbLwfo4dX": 1,
+		"16_1GCMDNMgJHvZJfdbD9ygDmpBdnVAobdJYg": 1,
+		"51_17fgJ3tZjhM7HCkTkd5TWf2BLLWmhRKcXB": 1
+	}
+}

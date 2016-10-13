@@ -1,0 +1,15 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "Zeronet on caddy server",
+			"body": "Has anyone gotten ZN to work with a Caddy proxy?  I want to access it from a subdomain without specifying a port in the address bar. My caddyfile looks like: \n\nsub.domain.tld {\n  proxy / localhost:43110 {\n    header_upstream Host {host}\n  }\n  proxy /Websockets localhost:43110 {\n    websocket\n  }\n}\n\nI just get the error \"Connection with UiServer Websocket was lost. Reconnecting...\"  Any suggestions?",
+			"added": 1472501401
+		}
+	],
+	"topic_vote": {},
+	"next_comment_id": 1,
+	"comment": {},
+	"comment_vote": {}
+}

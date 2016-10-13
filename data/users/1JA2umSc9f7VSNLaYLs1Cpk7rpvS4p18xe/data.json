@@ -1,0 +1,99 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "Stream video on ZeroNet using IPFS",
+			"body": "http://127.0.0.1:43110/1CiAFnnf6kb2G1GzDV1FhttTWNxCa4mShn/?Post:9:Streaming+with+IFPS/",
+			"added": 1457449115
+		}
+	],
+	"topic_vote": {
+		"1_1JxycrsLzVrPA247VxtPuwfdQBA6BJrSQ3": 1,
+		"2_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"1_1D7uESYtAKV36MVPGJZXuE7LUKbLwfo4dX": 1,
+		"1_17ApQKugX1XH727gpAeD3mrRLjLxASdakd": 1,
+		"1_1N9vyd78w2N6174aLsw7FvCk5Lij3Bu33Y": 1,
+		"1_13qeq1z87R1kQWDZUQYm3y7tDCLimnhfvS": 1,
+		"5_1MEWJRMLgvofqG9Mbsb2Rc4hFFyv7HeRx7": 1,
+		"6_1Kg7CXZM5h3wTPENsTDwWUmRBf9VhYy2cW": 1,
+		"1_18NAazqd14AcVXdCqN29NTUrxSLGyPy5gB": 1,
+		"7_17fgJ3tZjhM7HCkTkd5TWf2BLLWmhRKcXB": 1,
+		"2_15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ": 1
+	},
+	"next_comment_id": 9,
+	"comment": {
+		"2_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": [],
+		"1_1D7uESYtAKV36MVPGJZXuE7LUKbLwfo4dX": [],
+		"3_168qV1Xxp2EyszrzdECLUwXrn9wGYjDdar": [
+			{
+				"comment_id": 3,
+				"body": "http://127.0.0.1:43110/zaphods.bit\n\nZeroNet roadmap (for devs and everyone else, including link list)\nCompiling an index of public FTP servers with anonymous login enabled",
+				"added": 1457243041
+			}
+		],
+		"1_154jAWx5PDRmvF4txGHo4Edw1BpduhDyvw": [
+			{
+				"comment_id": 4,
+				"body": "> [nofish](#comment_441_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): Unpack & Run installation method now also added for Linux & OSX: https://github.com/HelloZeroNet/ZeroNet\n> Automatic Tor downloading is not available on this platforms yet, but if anyone able to create a portable Tor binaries it could be also added.\n\nWow! Huge thanks on this occasion, your work continues to amaze me.\nThese simple \"1-click-installers\" can be huge for users on other distros that aren't comfortable building stuff themselves - Arch fortunately has the AUR for that.\nAnd on Mac / Windows they will attract a lot of not-very-techy folk that just want to see what this is about and maybe run a site or two they wouldn't be comfortable having their name attached to directly, so ZeroNet can work out for people with different levels of tech proficiency.",
+				"added": 1457273280
+			}
+		],
+		"2_1NdofSgkkvCXPx5FotgoSxX3K78Nn6MDue": [
+			{
+				"comment_id": 5,
+				"body": "Well, why do you provide a clearnet mail here though? \nAnd you could at least setup a small, one page portfolio from a template, with just a post on 0talk no one will trust you - Which is always a problem.",
+				"added": 1457445212
+			},
+			{
+				"comment_id": 7,
+				"body": "> [angristan](#comment_55_1MEWJRMLgvofqG9Mbsb2Rc4hFFyv7HeRx7): FYI this is the real website. http://www.soyoustart.com/fr/serveurs-essential/\n\nI thought everyone knew about SYS and OVH",
+				"added": 1457453819
+			}
+		],
+		"1_1LnyrYbdxDU1K78nEYVZkfJ1Q4SYP1ukFV": [
+			{
+				"comment_id": 6,
+				"body": "> [thevideovault](#comment_8_1DfkDpkeDXGbHJ2ZT31DPvYr5xR59Jr8BA): Adding my vote AGAINST the addition of a downvote button. All it does is make popular posts get pushed down the page. If a post has people talking, it should be on top.\n\nTrue! Controversy is as legit as anything else. I don't think that adding a downvote  button would do any good.",
+				"added": 1457445582
+			}
+		],
+		"1_1BQg5MQZ63aEQZMzLEXP6yY3hsgznKpaps": [
+			{
+				"comment_id": 8,
+				"body": "Manjaro minimal",
+				"added": 1457528989
+			}
+		]
+	},
+	"comment_vote": {
+		"15_1D7uESYtAKV36MVPGJZXuE7LUKbLwfo4dX": 1,
+		"4_1P46rhvckorxi9PpbN5CvJc9xWwWmzDrRw": 1,
+		"10_1AFL4FFT3BuEDwTwVqychMq4LbxjuEY5Ss": 1,
+		"1_1AbD3wV4jWUry6RWthFVJr9mWiUB2JjCAK": 1,
+		"3_1JA2umSc9f7VSNLaYLs1Cpk7rpvS4p18xe": 1,
+		"2_14gGPfCHoaUU7PizjB6PaUmM6pZ5YV5H4f": 1,
+		"13_1BEvmD7jRfwieXU5H3o1rCT35Y3VV1p9TW": 1,
+		"1_12pSxpWhkdhfrZQrcaUie1Nmoo7irSnZA7": 1,
+		"8_16bxMyoL49mWYhcZKBYVBT5zEFW9SQpiao": 1,
+		"47_1KwTTgPRSTHFmmJAFBt6kQfdyNeSM5KJuH": 1,
+		"39_1ADB7TdX2fVbTsWBoMe9yBTmVXTbb33b4R": 1,
+		"8_1Pfbvp2DhbVrjAYSPaUaucJc6nZsxMpeK9": 1,
+		"43_1MEWJRMLgvofqG9Mbsb2Rc4hFFyv7HeRx7": 1,
+		"53_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1,
+		"47_1MEWJRMLgvofqG9Mbsb2Rc4hFFyv7HeRx7": 1,
+		"441_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"78_1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD": 1,
+		"58_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1,
+		"4_1Ncbw6dFYevejdBHorBMe5civ2choWQHUW": 1,
+		"1_18x3cTfnPkGixpMrrWJQDxtgyT2hDviZVP": 1,
+		"2_18x3cTfnPkGixpMrrWJQDxtgyT2hDviZVP": 1,
+		"6_14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx": 1,
+		"14_1PVcdu7USZH2kHMETbqDYLPjJZKCDWM52k": 1,
+		"18_1CMYxdit4qq9QGk9DYRu2ruRPd2YDGckH8": 1,
+		"8_1DfkDpkeDXGbHJ2ZT31DPvYr5xR59Jr8BA": 1,
+		"51_15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ": 1,
+		"11_1LZbdpKVACfmxW5vffrcwAGugNwcWxuyKu": 1,
+		"18_13vL6ARzDm7215jaRjFvAATfkxBriSnGmb": 1
+	}
+}

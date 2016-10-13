@@ -1,0 +1,68 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "Dockerfile for Zeronet + Tor in raspberry pi",
+			"body": "https://github.com/jdoig/rpi_zeronet_docker/blob/master/Dockerfile\n\nI'm using it with Hypriot's version of Docker on Raspian Jessie Light via these instructions: http://blog.hypriot.com/post/run-docker-rpi3-with-wifi/",
+			"added": 1457945530
+		}
+	],
+	"topic_vote": {
+		"1_19R2USgb9vPyg1jPQEJkGVoBwDuDcEmHRF": 1
+	},
+	"next_comment_id": 9,
+	"comment": {
+		"3_15ymkjUYJS6tjUC35AekGMExZMN6iks8ma": [
+			{
+				"comment_id": 1,
+				"body": "in OSX:\n\n* brew install tor\n* edit /usr/local/etc/tor/torrc.sample ... edit line ~57 to be: ControlPort 9051(removing the leading #) \n* save the file as /usr/local/etc/tor/torrc\n* form the console run: tor\n* run zeronet.py --tor always",
+				"added": 1457124357
+			},
+			{
+				"comment_id": 2,
+				"body": "> [theta](#comment_11_15ymkjUYJS6tjUC35AekGMExZMN6iks8ma): is it port \"9051\" you are referring to? (or 15441?, I have already enabled both UPNP and port 15441)\n\nIt should be 15441 that's forwarded (just enabling UPNP did not work for me).\n\nfrom the terminal run: ifconfig\nlook for an entry that looks like:\n\"inet 192.168.0.X\" (where X is some number)\n(usually on device 'eth0')\nDouble check the ip address is the one that is forwarded on your router.",
+				"added": 1457131668
+			}
+		],
+		"1_19R2USgb9vPyg1jPQEJkGVoBwDuDcEmHRF": [
+			{
+				"comment_id": 3,
+				"body": "I'm building one for a project.\nIt uses ZeroNet and Tor to host the main site then a webtorrent-hybrid server to seed the media (site visitors will also seed as the browse the site). \n\nThe idea is to allow YouTube style sites without every user having to permanently store gigs of video, they just seed while they use the site and I can worry about being the initial seed via a webtorrent-hybrid running on my machine.",
+				"added": 1457945755
+			},
+			{
+				"comment_id": 4,
+				"body": "@musickiller is sounds like you are asking people working on their own projects for their own reasons to solve either your own problems or the entire distributed web's problems. Chill out, if IPFS is working out for you then cool, good for you :)",
+				"added": 1457949189
+			},
+			{
+				"comment_id": 5,
+				"body": "Yeah it's the difference between distributed and decentralised that's important. One thing I was trying to model (for fun not for any serious venture) was my site and torrent links to be on a distributed web, then have aggregators (incentivised... somehow... TBD) aggregate my feed with others and serve as always-on seeder by reseeding everything they aggregate (making the media distributed rather than decentralised).\n\nThere may be several tiers of aggregators, aggregating aggregations of feeds they trust. So no single source has to trust more content or providers of content than they could reasonably manage or trust and if they loose trust they stop seeding and aggregating that feed.\n\nThen as content is viewed an ephemeral distributed network of viewers share load via webtorrent.\n\nThings this was trying to address:\nProviding media without the tyranny of spurious or automated DMCA takedowns (distributed may be \"good enough\" in this case).\nTrying to give Joe Blogs trust that he can sit his kids down in front of that Nintendo game FooTube channel and it not being a horrifying soup of kiddie porn and beheading videos an average user might expect from the wild-west-web. (The people seeding content in the above network are a self selecting bunch, connected by trust in each others work)\nProvide a very low barrier for entry where a tablet user can browse (via a proxy in this case) without any installs or having to dedicate any serious amount of their storage to the network.\nProvide a means of some users paying content providers for doing a good job (zeronet has bitcoin payments out the box).\nMake content easy to find by just having to locate an aggregator of a given topic.\nThe system be simple and light enough a content provider could just run a script on a raspberry pi and have the server up and running with a one-liner.\n\nThere's a bunch of that stuff that could probably be done with IPFS and people just vouching for content that lives inside the permanent web... I dunno? IPFS is a couple of spaces down on my list of \"cool things to tinker with in my spare time\" :) But this is all just me goofing around with random stuff in my spare time, I'm not trying to sell it or solve serious problems (or solve any problem particularly well).",
+				"added": 1458030226
+			}
+		],
+		"1_1H8igzd23YbSUqucNFPg25nKtNgcPcwssE": [
+			{
+				"comment_id": 6,
+				"body": "> [oneuserone](#comment_13_1LJMypJ67iEBwah82xwVVdB8SGZ1mwqgHQ): Best thing about zeronet is, if you have the know how, you can simply clone the website, and add the new functionality yourself!\n\nWould that not lead to crazy amounts of fragmentation? If Alice clones it to add her torrents and Bob clones it to add his do we not end up with 1000's of clones that add only a little content, or clones of clones that each leave the one before them redundant?",
+				"added": 1458112933
+			}
+		],
+		"15_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf": [
+			{
+				"comment_id": 7,
+				"body": "> [ekaterina](#comment_126_1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD): This. Enforces an extreme version of political correctness in both off and online communication, username choice, and the use of IPFS gateways, never saw a CoC get applied to a whole network before, just communities usually. (I'm hitting my data limit here can't write more)\n\nI think if they are providing infrastructure I don't see a problem with them setting what are reasonable ground rules.\n\n\"Be respectful\" & \"Abusive behavior is never tolerated.\" Are good things, if you don't like them then is there anything stopping you from taking their open source software and building your own disrespectful & abusive version of what they are providing?",
+				"added": 1458113391
+			}
+		],
+		"1_1LJP7tDoGnWNppUGJoNS8cJbmYTS1TecCC": [
+			{
+				"comment_id": 8,
+				"body": "I've left a comment on your issue at: https://github.com/HelloZeroNet/ZeroNet/issues/358\n\nFrom the look of the source code you can just append \"disabled\" to the Stats plugin directory and it will not be loaded. (or restrict /Benchmark it at your webproxy)",
+				"added": 1458116842
+			}
+		]
+	},
+	"comment_vote": {}
+}

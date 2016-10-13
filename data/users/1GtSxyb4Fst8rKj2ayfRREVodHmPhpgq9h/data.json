@@ -1,0 +1,16 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 2,
+	"comment": {
+		"1_1AkQwH5jKWsMFH8zAo5zCu9RV2Csa57RYF": [
+			{
+				"comment_id": 1,
+				"body": "Ciao Morro ;)",
+				"added": 1458372634
+			}
+		]
+	},
+	"comment_vote": {}
+}

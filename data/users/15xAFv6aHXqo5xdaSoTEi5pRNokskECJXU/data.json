@@ -1,0 +1,30 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {
+		"6_1MEWJRMLgvofqG9Mbsb2Rc4hFFyv7HeRx7": 1
+	},
+	"next_comment_id": 4,
+	"comment": {
+		"1_1Mwm45xgWJkwaqQeXcLKqPy4KcTNM8XcbD": [
+			{
+				"comment_id": 1,
+				"body": "On va migrer en Corée du Nord au moins on sera libres XD",
+				"added": 1457037014
+			},
+			{
+				"comment_id": 2,
+				"body": "> [angristan](#comment_13_1MEWJRMLgvofqG9Mbsb2Rc4hFFyv7HeRx7): On a qu'à faire un ZeroTalk français\n\nil y en a déja un : http://127.0.0.1:43110/1Vp5LH4wegCaqeB72yMw2jgNdVm4aR7ET\net un zerochat: http://127.0.0.1:43110/1JX3mpfPCXf1xDodbuktrxEZqpPQuVaMr2",
+				"added": 1457037331
+			},
+			{
+				"comment_id": 3,
+				"body": "> [angristan](#comment_14_1MEWJRMLgvofqG9Mbsb2Rc4hFFyv7HeRx7): ZeroChat je savais, mais pas pour ZeroTalk Fr :D\n\nComment tu l'as trouvé sans être passé par le talk? :p",
+				"added": 1457037415
+			}
+		]
+	},
+	"comment_vote": {
+		"52_1MEWJRMLgvofqG9Mbsb2Rc4hFFyv7HeRx7": 1
+	}
+}

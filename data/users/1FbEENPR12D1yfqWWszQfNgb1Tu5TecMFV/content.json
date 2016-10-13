@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "G/an3repCQDtYV9lnc3krO3gF7BMiTltQjb76i2+gT7avZP/ND7y7Zl48ZhA9HZAKE+86HDpfAQgd/68sgEKqcg=",
+ "cert_user_id": "blowfish@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "0af9481b531ea376d84f2bd1218b04158c1c680171b2b076b48dd21dd781e531",
+   "size": 2931
+  }
+ },
+ "inner_path": "data/users/1FbEENPR12D1yfqWWszQfNgb1Tu5TecMFV/content.json",
+ "modified": 1457078109.674447,
+ "signs": {
+  "1FbEENPR12D1yfqWWszQfNgb1Tu5TecMFV": "HE+U+tT2M1mvgR2pgqu19Q7k1i+31xzW9vPN3Fy1AWlL0vgZO9B4SbeS1iuamiTY6LTQdtqcS2C3mxA0Q5CXjno="
+ }
+}

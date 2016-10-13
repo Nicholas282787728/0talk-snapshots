@@ -1,0 +1,15 @@
+{
+ "cert_auth_type": "web", 
+ "cert_sign": "G5678wXeS8aYwULahj0IR7E4cWVReZHtzyPStpcJBxxNbshLuPpH1nNmHX4b47WQd+u0sRxDOiLx8/Lcio/sc8s=", 
+ "cert_user_id": "luiscuadrado123@zeroid.bit", 
+ "files": {
+  "data.json": {
+   "sha512": "9ffb9abfbf1a53be4a28caa3481bbb95be8743d063d846fbfa113d81d2eb71f9", 
+   "size": 210
+  }
+ }, 
+ "modified": 1461853696.693124, 
+ "signs": {
+  "1APYAwUqwiJV6V1jv4zyTTSXAACf1gqoZ7": "G/QABCoSqWOlNXKnVA+ASBz5byRVdwmFyCJZjXbrHwBa8181F78kvEvhZu1rqGw5mHwfB0V7fCCmJATAylJ9PNY="
+ }
+}

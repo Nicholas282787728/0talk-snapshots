@@ -1,0 +1,77 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {
+		"4_1MEWJRMLgvofqG9Mbsb2Rc4hFFyv7HeRx7": 1,
+		"1_1LnyrYbdxDU1K78nEYVZkfJ1Q4SYP1ukFV": 1,
+		"1_1PnCqnnZscQNPpRmHHZ7UfBpv2oZoqejMB": 1,
+		"2_1NgEo4Jc4cvC6ab7J834Ex6DoX9aqmXUi9": 1,
+		"1_1D33SjywZjLd2QdRgzYMprcxZPva9FGZ3h": 1
+	},
+	"next_comment_id": 7,
+	"comment": {
+		"1_18NAazqd14AcVXdCqN29NTUrxSLGyPy5gB": [
+			{
+				"comment_id": 1,
+				"body": "It's totally possible\nhttps://webtorrent.io/",
+				"added": 1457084527
+			}
+		],
+		"3_1HcK5Hw1rPZeYdgTmqJGrVG2tSyR9Ke2Gt": [
+			{
+				"comment_id": 2,
+				"body": "What's wrong ? The guy is only getting your IP. But everyone can get your IPs, because you are connected to several peers, you see their IP. It's why zeronet comes with tor.",
+				"added": 1457425921
+			}
+		],
+		"1_1BQg5MQZ63aEQZMzLEXP6yY3hsgznKpaps": [
+			{
+				"comment_id": 3,
+				"body": "Arch",
+				"added": 1457453349
+			}
+		],
+		"1_1ATu1DyVH63v9TKZ8MGCQ61dLYpEVgBy9X": [
+			{
+				"comment_id": 4,
+				"body": "> [ks](#comment_14_14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx): What happens if you stop Zeronet after cloning, change CSS and HTML as needed, then sign the changes before starting Zeronet again?\n\nIt works, I improved my blog doing it.\nIt also works for images and other files.",
+				"added": 1457624205
+			}
+		],
+		"3_1NzjwWNcVjsX1ndBgkgC1EM5EUzMACGm8L": [
+			{
+				"comment_id": 5,
+				"body": "> [tomasbond](#comment_5_1NzjwWNcVjsX1ndBgkgC1EM5EUzMACGm8L): In Windows 10, in a terminal i go to the ZN folder and \"zeroney.py --debug\". I get the following error \"\n>  File \"C:\\Users\\Tomas\\Desktop\\ZeroBundle\\ZeroNet\\zeronet.py\", line 9    print \"- Starting ZeroNet...\"                                                ^SyntaxError: Missing parentheses in call to 'print'\n\nWhat if you run `python3 zeroney.py --debug` ?",
+				"added": 1457684896
+			},
+			{
+				"comment_id": 6,
+				"body": "Whoops\nI mean `python2 zeroney.py --debug` of course.",
+				"added": 1457688357
+			}
+		]
+	},
+	"comment_vote": {
+		"4_1HSBkju9y9tQrpph3yKgcdzxM6pnkvgmNy": 1,
+		"13_14tJBPnxcrF9kMK5v7DULWnaJx3JepirXb": 1,
+		"411_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"413_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"5_1H8oKiRa7fGgUqS1hpUtaSYLvAqkaknbkf": 1,
+		"1_1E1PGsCSCNzkP8xmx8awJ2hho3cPdsN4FF": 1,
+		"46_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1,
+		"45_16AFTG7vdicwJbRQpWc2F9BRHTE5MTftE7": 1,
+		"32_17fgJ3tZjhM7HCkTkd5TWf2BLLWmhRKcXB": 1,
+		"73_1ADB7TdX2fVbTsWBoMe9yBTmVXTbb33b4R": 1,
+		"30_13KqD3BoaRMudEG5QU2fnGLkSVx8qDXKof": 1,
+		"41_15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ": 1,
+		"34_17fgJ3tZjhM7HCkTkd5TWf2BLLWmhRKcXB": 1,
+		"57_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1,
+		"12_1PVcdu7USZH2kHMETbqDYLPjJZKCDWM52k": 1,
+		"1_1AiNe41vBkiiNKYomPUcxQLV4prbq1gi7D": 1,
+		"62_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1,
+		"14_14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx": 1,
+		"21_14tJBPnxcrF9kMK5v7DULWnaJx3JepirXb": 1,
+		"13_14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx": 1,
+		"83_15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ": 1
+	}
+}

@@ -1,0 +1,18 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 2,
+	"comment": {
+		"1_13EDCw412fCWqTmR4RxRw99aEd2ucYzDyM": [
+			{
+				"comment_id": 1,
+				"body": "https://webtorrent.io/desktop",
+				"added": 1464143898
+			}
+		]
+	},
+	"comment_vote": {
+		"42_15QGRquMETTn5LnCHjTm1qa9eaXGtq7gpT": 1
+	}
+}

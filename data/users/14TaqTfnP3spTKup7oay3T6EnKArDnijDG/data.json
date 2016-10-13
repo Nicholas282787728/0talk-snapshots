@@ -1,0 +1,23 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "Where's the \"Exit\" button.",
+			"body": "So. How do I stop this hidden python trojan server then?",
+			"added": 1456929414
+		}
+	],
+	"topic_vote": {},
+	"next_comment_id": 2,
+	"comment": {
+		"1_14TaqTfnP3spTKup7oay3T6EnKArDnijDG": [
+			{
+				"comment_id": 1,
+				"body": "There is no command prompt (no-one on windows uses command prompts since windows 95) and using the menu just closes the browser but still keeps the servers running eating my pay-per-MB bandwidth.\n\nAlso........\n\nI already use Tor and this launches another instance and then ignores both. Even though it says it is using Tor, there are hundreds of python instances accessing the network directly and I see no activity on the Tor network. And....... if you are going to let us use Tor, then launch the Tor browser!\n\nYou need to have a control panel GUI, guys. This is 2016 not 1980.",
+				"added": 1457091994
+			}
+		]
+	},
+	"comment_vote": {}
+}

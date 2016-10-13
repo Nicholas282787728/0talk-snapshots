@@ -1,0 +1,15 @@
+{
+ "cert_auth_type": "web", 
+ "cert_sign": "G2o8HQIUIWrOO+GJlaLwkChl7/wRakNdXVbaomoSf2NCxxTpMHjzJe5fMuM3SX4c5DekfOHeDc4MTb19iIBS2g4=", 
+ "cert_user_id": "netopwibby@zeroid.bit", 
+ "files": {
+  "data.json": {
+   "sha512": "198af6c7e6f93043f6b8616b7914fd85f9fb77644ad0ab36950b8cdf5273ca83", 
+   "size": 600
+  }
+ }, 
+ "modified": 1454356294.160243, 
+ "signs": {
+  "198jKSKMzpRxH5C81bXojho2xGcTxXXcqc": "GytumCkdnNdwzhy0izXeVnAndTZEJIlhI204mgjjo+Q0Sgnli7gdYqrMxk6kMHf+azIwC/aLxnMxEOyd/spu2oo="
+ }
+}

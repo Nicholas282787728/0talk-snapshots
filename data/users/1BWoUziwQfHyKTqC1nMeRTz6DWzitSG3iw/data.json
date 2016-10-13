@@ -1,0 +1,16 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 2,
+	"comment": {
+		"1_1DjUq8hd2jYZgc5uNhQEtWUVZjMHkMQkpU": [
+			{
+				"comment_id": 1,
+				"body": "Today is the first time I heard of ZeroNet.  Someone made an off hand comment on an article related to the Torrentz shutdown.",
+				"added": 1470423173
+			}
+		]
+	},
+	"comment_vote": {}
+}

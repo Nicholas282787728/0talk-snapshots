@@ -1,0 +1,488 @@
+{
+	"next_topic_id": 24,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "tesyt",
+			"body": "yt4y",
+			"added": 1452021486,
+			"parent_topic_uri": "1_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG"
+		},
+		{
+			"topic_id": 2,
+			"title": "test",
+			"body": "test",
+			"added": 1452175863
+		},
+		{
+			"topic_id": 5,
+			"title": "Cloning Zeromail",
+			"body": "I try cloning zeromail (from button and manual) but if a user creates mailbox i get file write error. Also no content.json exists on /data/users/ Any help?",
+			"added": 1455202041
+		},
+		{
+			"topic_id": 6,
+			"title": "How do i add multiple files allowed in data/users/content.json",
+			"body": "I am trying to add more than on json innner path content json in format:\n\"files_allowed\": \"data.json\", \n\"files_allowed\": \"x.json\", \n\nBut when i try to sign --innerpath one of two disappears...Anyone know what is happening?",
+			"added": 1455615511
+		},
+		{
+			"topic_id": 8,
+			"title": "Bug in cloning?",
+			"body": "I am trying cloning through Zerohello and is done without giving me the private key. Redirection to my new page finishes without prompt",
+			"added": 1457730401
+		},
+		{
+			"topic_id": 10,
+			"title": "People keep posting and asking same stuff",
+			"body": "I think we should add search and tagging in posts to avoid duplication and categorize on post?",
+			"added": 1458051841
+		},
+		{
+			"topic_id": 11,
+			"title": "Is there a way to send a copy of my json file to another user?",
+			"body": "Can i use an api command or i have to do it with js ? If so user could read it or it have to be to files allowed? I think this can be useful for many applications",
+			"added": 1458121875
+		},
+		{
+			"topic_id": 12,
+			"title": "https://blockstack.org/ Blockchain id dns and data storage",
+			"body": "All written in python maybe we can use it",
+			"added": 1458207953
+		},
+		{
+			"topic_id": 13,
+			"title": "Different permissions to different files per user",
+			"body": "Can i add a functionality like this? For example \"data/users/conten1t.json\" , \"data/users/content2.json\" and \"files_allowed\": \"x.json\", \"files_allowed\": \"y.json\" or there is some api limitation? I think it could be very useful for sites combine functionality. Is there some other way to achieve this?",
+			"added": 1458249132
+		},
+		{
+			"topic_id": 15,
+			"title": "How .onion addresses are created?",
+			"body": "Can someone point me to the python source code? Is there some library used?",
+			"added": 1458335897
+		},
+		{
+			"topic_id": 16,
+			"title": "Is there a way to add password protection on a site?",
+			"body": "Is there some api command or any directive on something like that?",
+			"added": 1458643028
+		},
+		{
+			"topic_id": 17,
+			"title": "Tor connection",
+			"body": "Different connection nodes connect to each for downloading and seeding through exit nodes if tor always not enabled?",
+			"added": 1458841298
+		},
+		{
+			"topic_id": 18,
+			"title": "Can i make my own dht bootstrap node to help the network?",
+			"body": "Devs? Thanks",
+			"added": 1459114854
+		},
+		{
+			"topic_id": 20,
+			"title": "Is zeronet using socks proxy to pass udp traffic trough tor?",
+			"body": "Cause i dont see any tcp implementation on the source code",
+			"added": 1459283537
+		},
+		{
+			"topic_id": 21,
+			"title": "Post your opinion!",
+			"body": "https://github.com/HelloZeroNet/ZeroNet/issues/232",
+			"added": 1460628696
+		},
+		{
+			"topic_id": 22,
+			"title": "Can i get the list of peers from my site + plus their addresses??",
+			"body": "Whats the api command?",
+			"added": 1460645413
+		},
+		{
+			"topic_id": 23,
+			"title": "Public key",
+			"body": "When i create a new site i see my private key and my address. But where is the public key? I want to use it as wallet too thanks for your answers",
+			"added": 1461674466
+		}
+	],
+	"topic_vote": {
+		"10_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf": 1,
+		"1_12SuCFUNDaMYRHG9DsWCyCN1NgHGjddwSJ": 1,
+		"1_1FLf4EythVqZASkMdARs4DXdHeugh3USYq": 1,
+		"1_1GCsW9TFfjDsvcdmKPADq1n8Q3ha72UtDQ": 1,
+		"1_16SHqxwSkfr3HFnhAq4AxsZ9TaoLzpPmGu": 1,
+		"1_17oYQdLkvyzEVPH3hXRtK3ru4FLNKZUD3b": 1,
+		"1_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG": 1,
+		"1_17ApQKugX1XH727gpAeD3mrRLjLxASdakd": 1,
+		"1_1AFL4FFT3BuEDwTwVqychMq4LbxjuEY5Ss": 1,
+		"10_14XxpXNGMLsyeQxikacrbQnAFXVyhN5Ngx": 1,
+		"11_14XxpXNGMLsyeQxikacrbQnAFXVyhN5Ngx": 1,
+		"13_14XxpXNGMLsyeQxikacrbQnAFXVyhN5Ngx": 1,
+		"14_14XxpXNGMLsyeQxikacrbQnAFXVyhN5Ngx": 1,
+		"1_15UiHZYjYXmn35qVSaAFyuFwrwqVCTcvmn": 1,
+		"6_17n5jg4bBEoWodXDf8L4Y2u88ShagS272Y": 1,
+		"17_14XxpXNGMLsyeQxikacrbQnAFXVyhN5Ngx": 1,
+		"18_14XxpXNGMLsyeQxikacrbQnAFXVyhN5Ngx": 1,
+		"7_1MahZJTzjoEMMCv2jBReDWhyNGRhN5tvDq": 1,
+		"10_1LRrd96P7FiTcsyNXVzPM5jtpQoH1B4gYf": 1,
+		"21_14XxpXNGMLsyeQxikacrbQnAFXVyhN5Ngx": 1,
+		"22_14XxpXNGMLsyeQxikacrbQnAFXVyhN5Ngx": 1,
+		"1_1FY2Aej66JkkqSGGHq39nwW9JzcGoAzuhc": 1,
+		"23_14XxpXNGMLsyeQxikacrbQnAFXVyhN5Ngx": 1
+	},
+	"next_comment_id": 57,
+	"comment": {
+		"2_16iYwD5U2fNoS22p6447J7992iL3DHjSHY": [
+			{
+				"comment_id": 1,
+				"body": "I cant see the sidebar in any site mm...i dont know what happened?!? But tor works fine",
+				"added": 1452000364
+			}
+		],
+		"10_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf": [
+			{
+				"comment_id": 2,
+				"body": "Social media or reddit with subreddit i think both depend on the ability to merge sites",
+				"added": 1454576156
+			},
+			{
+				"comment_id": 3,
+				"body": "Maybe a PoPcorn time alternative !",
+				"added": 1454597153
+			}
+		],
+		"5_14XxpXNGMLsyeQxikacrbQnAFXVyhN5Ngx": [
+			{
+				"comment_id": 4,
+				"body": "> [nofish](#comment_280_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): It should work this way: \n> \n> Create new site, \n> Copy files from data/[siteyouwantoclone] to data/[yournewsiteaddress]\n> Delete everything from data/users directory except content.json\n> zeronet.py siteSign yournewsiteaddress --inner_path data/users/content.json --publish\n> zeronet.py siteSign yournewsiteaddress --publish\n\nCopy and replace everything?",
+				"added": 1455202672
+			},
+			{
+				"comment_id": 5,
+				"body": "Invalid Sign...",
+				"added": 1455203142
+			},
+			{
+				"comment_id": 6,
+				"body": "> [nofish](#comment_283_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): Fixed the cloning via the webui\n\nThanks a lot !",
+				"added": 1455206718
+			}
+		],
+		"1_1FJFF8d4B5LQ9jJinqBRxqCR7RHbHPxBfv": [
+			{
+				"comment_id": 7,
+				"body": "Echobot reached size limit?!?",
+				"added": 1455467472
+			}
+		],
+		"6_14XxpXNGMLsyeQxikacrbQnAFXVyhN5Ngx": [
+			{
+				"comment_id": 8,
+				"body": "> [gomzik](#comment_55_1F6BMqittjWUStzUbRXm2kG2GQ3RdBLqFQ): I think you need to use regexp (but not sure).\n> Something like \n> {\n>  \"files_allowed\": \"(data|x)\\.json\"\n> }\n\nIt doesnt work as it is...",
+				"added": 1455627020
+			},
+			{
+				"comment_id": 9,
+				"body": "Site:1A68bo..fT2V data/1A68boXS5fX88zKHuT96VcRpPxvXV6fT2V/data/users/content.jso\nn load error: ValueError: Invalid \\escape: line 14 column 34 (char 313) in Conte\nntManager.py line 48 > __init__.py line 290 > __init__.py line 338 > decoder.py\nline 366 > decoder.py line 382",
+				"added": 1455627521
+			},
+			{
+				"comment_id": 10,
+				"body": "Ok thanks i ll try it again",
+				"added": 1455627865
+			},
+			{
+				"comment_id": 11,
+				"body": "> [gomzik](#comment_56_1F6BMqittjWUStzUbRXm2kG2GQ3RdBLqFQ): I look to my file, where I use something like. Try following:\n> {\n>   \"files_allowed\": \"(data|x).json\"\n> }\n> \n> without backslash\n\nWorking now thanks a lot!",
+				"added": 1455647029
+			}
+		],
+		"1_14Q3Go381PvQJ8GCUv74AE8bqXd8F9BoVC": [
+			{
+				"comment_id": 13,
+				"body": "> [nofish](#comment_342_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): There is an optional files feature that allows parts to be downloaded only if your client requests it, see site http://127.0.0.1:43110/1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h (has 1000+ videos but they only downloaded if your browsers requests them)\n> The huge social network problem will be solved by merger sites, where the profiles will acts as separate sites, so you only get the updates/only stores the ones you are following.\n\nSite merging would be great and possibilities endless!",
+				"added": 1455969974
+			}
+		],
+		"1_1FLf4EythVqZASkMdARs4DXdHeugh3USYq": [
+			{
+				"comment_id": 14,
+				"body": "Amazing work congrats. Maybe next step would be easiest app deployment through a web framework built ed for zeronet! I dont thing its by chance that no other apps made rather than apps developed by zeronet devs",
+				"added": 1456839119
+			},
+			{
+				"comment_id": 15,
+				"body": "And maybe a embedded wallet for zeronet would be nice too!",
+				"added": 1456846939
+			},
+			{
+				"comment_id": 16,
+				"body": "> [nofish](#comment_362_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): There is third-party sites (eg. 0chan). It's not that hard: the Chat tutorial @ ZeroBlog is less than 100 lines of code.\n\nYes but chat with no functionality. It gets hard to built zeroapps you need to study and learn a lot to make something new or you have to be a very experienced web dev. Either way i keep reading and learning and maybe someday i ll make my own or someone can save me and get a framework working :)",
+				"added": 1456855248
+			},
+			{
+				"comment_id": 17,
+				"body": "> [nofish](#comment_363_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): It has functionality: You can submit messages and it's get distributed over the network. This is all you need to build ZeroNet apps.\n\n:) I get your point but building a chat 100 lines of code and building a talk forum 3500 lines of code is a big difference at least for me with no web developement experience!",
+				"added": 1456858342
+			}
+		],
+		"1_1GCsW9TFfjDsvcdmKPADq1n8Q3ha72UtDQ": [
+			{
+				"comment_id": 18,
+				"body": "I think other sites would be more useful than a market. For a market we need a lot of people and a complex system for escrowing antispamming antiscamming rating ! Also who will take responsibility for creating an official market that people will buy/sell drugs too or it will have some kind of censorship?",
+				"added": 1456908976
+			},
+			{
+				"comment_id": 19,
+				"body": "> [3x71nc7](#comment_13_1Q8iqH31cKCqynoJRxR2PfJhzQr8wHdiHr): That's not entirely true. From the laws perspective everyone visiting(and therefore hosting) the site is liable. The main liability is at the creators end, because he has the private key and could remove illegal content.\n\nAgreed",
+				"added": 1456950347
+			},
+			{
+				"comment_id": 21,
+				"body": "> [dafleroh](#comment_5_19KtmLJftUcLg5ZtwmAfe616J2vp6iJBHU): Ugh, its so trivial. I do not think there is a right answer, its speculative. If I create and upload a market platform with no visible intent for illegal use, can I still get in trouble? All I did was create a market source code, I do not host or maintain it. I just threw it out and let people do what they want with it. You cannot be prosecuted. Especially if the owner \"throws away\" the key to edit the site. Now, you could say that those hosting are responsible, but that's not realistically prosecutable. As I said, I think this is so out-there we will have to wait and see what happens.. I hope the platform catches on, though.  noiamo: Agreed\n\nI still think other apps are more important for now a lot of people last days lets see what will happen!",
+				"added": 1456992880
+			}
+		],
+		"1_1yq6ABe15TborB8sGQb1pGcZgUd6eu3WJ": [
+			{
+				"comment_id": 20,
+				"body": "Noone can censor you even if you have .bit domain registry! Censorship will come from the user sharing/seeding in a way that if your content is not right/good for them they wont share it!",
+				"added": 1456950547
+			}
+		],
+		"1_17oYQdLkvyzEVPH3hXRtK3ru4FLNKZUD3b": [
+			{
+				"comment_id": 22,
+				"body": "Proof of work and proof of burn to avoiding spamming we cant do anything else but to solve technically or maybe find a way to block some content depending on what a community wants or don;t want to see",
+				"added": 1457268464
+			}
+		],
+		"8_14XxpXNGMLsyeQxikacrbQnAFXVyhN5Ngx": [
+			{
+				"comment_id": 23,
+				"body": "> [nofish](#comment_481_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): The private key is saved to data/users.json\n\nNice thanks",
+				"added": 1457731477
+			}
+		],
+		"1_1AFL4FFT3BuEDwTwVqychMq4LbxjuEY5Ss": [
+			{
+				"comment_id": 24,
+				"body": "I think zeronet is the best and only fully working decentralized internet write now. Though i like the idea of a platform for building apps for non coders like  http://safepress.io/",
+				"added": 1457735068
+			}
+		],
+		"3_1Kg7CXZM5h3wTPENsTDwWUmRBf9VhYy2cW": [
+			{
+				"comment_id": 25,
+				"body": "Who isn't looking for a js developer?",
+				"added": 1457735828
+			}
+		],
+		"10_14XxpXNGMLsyeQxikacrbQnAFXVyhN5Ngx": [
+			{
+				"comment_id": 26,
+				"body": "Actually we need more devs to add functionalities...i am learning javascript so beware :)",
+				"added": 1458072425
+			}
+		],
+		"11_14XxpXNGMLsyeQxikacrbQnAFXVyhN5Ngx": [
+			{
+				"comment_id": 27,
+				"body": "> [nofish](#comment_519_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): You can encrypt it to other user's public key (ZeroMail do this), there is no IP stored for users, so no way to send directly.\n\nEncrypt it and write it to my json and other could read it from there right? I wanna send it or write it directly to other user  file/folder or even better create a new file for each user, for example a message, contract etc. Can i do that? Is this the correct way - is it safe to do something like that?",
+				"added": 1458125906
+			},
+			{
+				"comment_id": 32,
+				"body": "> [nofish](#comment_520_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): The problem is you don't know other user's IP address (it would be a privacy issue), so you can't communicate directly with them.\n\nI dont know user's ip but i know .onion address of the user right?",
+				"added": 1458306406
+			}
+		],
+		"13_14XxpXNGMLsyeQxikacrbQnAFXVyhN5Ngx": [
+			{
+				"comment_id": 28,
+				"body": "> [nofish](#comment_533_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): sorry, don't understand please explain. you can set provide per-user rules the same way as max_size\n\nYes but per user rule on which json someone is allowed to write? Eg admin.json and user.json admins can write to admin.json but users cant",
+				"added": 1458252202
+			},
+			{
+				"comment_id": 29,
+				"body": "I am not asking for extra signers i want 2 different group of users to able to write only in json files for their group for e.g \"nofish@zeroid.bit\": { \"max_size\": 100000 , x.json} \"nofish2@zeroid.bit\": { \"max_size\": 100000, y.json } so user 1 could only write to x.json and user 2 only to y.json. Per file per user permission",
+				"added": 1458252714
+			},
+			{
+				"comment_id": 30,
+				"body": "> [nofish](#comment_535_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): Like I said you can set any other rules the same way as max_size, so add files_allowed there\n\nSo i can add something like \"nofish1@zeroid.bit\": { \"max_size\": 100000, \"files_allowed\": \"x.json\" } , \"nofish2@zeroid.bit\": { \"max_size\": 100000, \"files_allowed\": \"y.json\" }  . So the general rule is in permission rules and above is applied to every user",
+				"added": 1458253025
+			},
+			{
+				"comment_id": 31,
+				"body": "> [nofish](#comment_536_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): It should work.\n\nThanks a lot mate!",
+				"added": 1458253123
+			}
+		],
+		"14_14XxpXNGMLsyeQxikacrbQnAFXVyhN5Ngx": [
+			{
+				"comment_id": 33,
+				"body": "...",
+				"added": 1458327275
+			}
+		],
+		"6_17n5jg4bBEoWodXDf8L4Y2u88ShagS272Y": [
+			{
+				"comment_id": 34,
+				"body": "> [nofish](#comment_561_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): Nothing major change planned.\n\nIsn't site merging  major change?",
+				"added": 1458555791
+			},
+			{
+				"comment_id": 35,
+				"body": "> [nofish](#comment_562_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): It's very similar to newsfeed and only suitable for some, specific kind of sites.\n\nAren't new api commands to pull data etc needed for this?",
+				"added": 1458566466
+			},
+			{
+				"comment_id": 36,
+				"body": "> [nofish](#comment_563_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): Not sure, adding new sites using the API could be problematic, probably it will require manual site adding (following) process.\n\nI just followed this that you propose new api commands https://github.com/HelloZeroNet/ZeroNet/issues/232 i think it should better to do it through api so the main site and other can communicate based on functions added by owner",
+				"added": 1458572991
+			}
+		],
+		"5_1JHQA9oFkFpFFRiscyT4N71AKLWg46pQ92": [
+			{
+				"comment_id": 37,
+				"body": "you don;t no implementation of search yet",
+				"added": 1458573991
+			}
+		],
+		"1_15UiHZYjYXmn35qVSaAFyuFwrwqVCTcvmn": [
+			{
+				"comment_id": 38,
+				"body": "Social media and site merging that will allow scalable sites and pulling data from other sites!",
+				"added": 1458578943
+			}
+		],
+		"16_14XxpXNGMLsyeQxikacrbQnAFXVyhN5Ngx": [
+			{
+				"comment_id": 39,
+				"body": "> [erkan](#comment_79_1H8oKiRa7fGgUqS1hpUtaSYLvAqkaknbkf): look in the plugins directory of your ZN, there is a dir with \"disabled-UiPassword\", when you enable this it should do what you want (didn't try myself)\n\nI was wondering how to make a site password accessible not my UI server",
+				"added": 1458646618
+			}
+		],
+		"18_14XxpXNGMLsyeQxikacrbQnAFXVyhN5Ngx": [
+			{
+				"comment_id": 40,
+				"body": "> [nofish](#comment_574_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): There is no DHT in ZeroNet yet\n\nAnd the servers for bootstrapping? \n\nBootstrap using ZeroNet protocol (and a plugin to setup your own boot node)",
+				"added": 1459117797
+			},
+			{
+				"comment_id": 41,
+				"body": "nofish?",
+				"added": 1459161011
+			}
+		],
+		"7_1MahZJTzjoEMMCv2jBReDWhyNGRhN5tvDq": [
+			{
+				"comment_id": 42,
+				"body": "I think you cannot",
+				"added": 1459288579
+			}
+		],
+		"20_14XxpXNGMLsyeQxikacrbQnAFXVyhN5Ngx": [
+			{
+				"comment_id": 43,
+				"body": "> [nofish](#comment_577_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): ZeroNet is TCP based, the only UDP traffic is torrent trackers, but they are disabled when you are using Tor.\n\nAnd there is one onion address for each connection?",
+				"added": 1459353118
+			}
+		],
+		"6_1H8oKiRa7fGgUqS1hpUtaSYLvAqkaknbkf": [
+			{
+				"comment_id": 44,
+				"body": "Don;t clearnet connections proxyied through tor exit nodes? Cause if so i don;t understand that security issue, except the centralization fact",
+				"added": 1459405132
+			}
+		],
+		"10_1LRrd96P7FiTcsyNXVzPM5jtpQoH1B4gYf": [
+			{
+				"comment_id": 45,
+				"body": "Not decentralized not anonymous",
+				"added": 1459842822
+			},
+			{
+				"comment_id": 46,
+				"body": "> [shineon](#comment_1_14qZpJM1fFnA5mARa1NuvFYcuyad7J5wuG): not every innovation needs to be full of buzzwords\n\nThey got 1 million funding so they must at least be an option on seeding shops and somehow privacy protection no?",
+				"added": 1459929712
+			},
+			{
+				"comment_id": 47,
+				"body": "Think they are going for another round of funding they didnt get much",
+				"added": 1460031274
+			},
+			{
+				"comment_id": 48,
+				"body": "> [bukaking](#comment_42_17n5jg4bBEoWodXDf8L4Y2u88ShagS272Y): If they get more funding they should use it to hire nofish and other ZeroNet devs to integrate store content hosting in ZeroNet to improve scalability. It does look like OpenBazaar's server uses python.\n\nIf the get another they will just w8 ipfs implementation to be mature and they are gonna add this in about a year",
+				"added": 1460058193
+			},
+			{
+				"comment_id": 49,
+				"body": "> [bukaking](#comment_46_17n5jg4bBEoWodXDf8L4Y2u88ShagS272Y): There is already discussion and interest in getting Tor to work with IPFS:\n> https://github.com/ipfs/notes/issues/37\n\nThey don't worry about privacy they just want a nice clean shop",
+				"added": 1460103536
+			}
+		],
+		"21_14XxpXNGMLsyeQxikacrbQnAFXVyhN5Ngx": [
+			{
+				"comment_id": 50,
+				"body": "https://github.com/HelloZeroNet/ZeroNet/issues/419",
+				"added": 1460644001
+			}
+		],
+		"22_14XxpXNGMLsyeQxikacrbQnAFXVyhN5Ngx": [
+			{
+				"comment_id": 51,
+				"body": "I want to make a crawler that will crawl all peers for sites the seed and maybe search their index. I can't find any api command so maybe i have to call the builtin functions. Any help and directions will be very helpful",
+				"added": 1460662668
+			},
+			{
+				"comment_id": 52,
+				"body": "Nofish?",
+				"added": 1460711777
+			},
+			{
+				"comment_id": 53,
+				"body": "> [ks](#comment_70_14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx): @noiamo perhaps you could use the information on the /Stats page, possibly combined with files you find in the data/1* directories of your local Zeronet instance.You cannot crawl other people's instances via their IP address.\n\nVia ip or onion address? Why not?",
+				"added": 1460712479
+			},
+			{
+				"comment_id": 54,
+				"body": "> [noiamo](#comment_53_14XxpXNGMLsyeQxikacrbQnAFXVyhN5Ngx): Via ip or onion address? Why not?\n\nSo i can using zeronet functions like connection.py and peer.py?",
+				"added": 1460792756
+			}
+		],
+		"1_1FY2Aej66JkkqSGGHq39nwW9JzcGoAzuhc": [
+			{
+				"comment_id": 55,
+				"body": "neat!",
+				"added": 1461149728
+			}
+		],
+		"54_1GtJqyJRsuZhmxVtw5USgvqGbUmVH7EmBD": [
+			{
+				"comment_id": 56,
+				"body": "Maybe open an issue on github",
+				"added": 1461754503
+			}
+		]
+	},
+	"comment_vote": {
+		"3_14XxpXNGMLsyeQxikacrbQnAFXVyhN5Ngx": 1,
+		"10_17i7Y7r8nTaCfLbCAuaKyc4R5BbKZYU2Hr": 1,
+		"3_1LgoHzNGWeijeZbJ8a1YgGjMCnjaM4BWG": 1,
+		"4_1Q8iqH31cKCqynoJRxR2PfJhzQr8wHdiHr": 1,
+		"283_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"18_14XxpXNGMLsyeQxikacrbQnAFXVyhN5Ngx": 1,
+		"13_1Q8iqH31cKCqynoJRxR2PfJhzQr8wHdiHr": 1,
+		"2_1D7uESYtAKV36MVPGJZXuE7LUKbLwfo4dX": 1,
+		"48_17n5jg4bBEoWodXDf8L4Y2u88ShagS272Y": 1,
+		"70_14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx": 1,
+		"52_14XxpXNGMLsyeQxikacrbQnAFXVyhN5Ngx": 1,
+		"51_14XxpXNGMLsyeQxikacrbQnAFXVyhN5Ngx": 1,
+		"53_14XxpXNGMLsyeQxikacrbQnAFXVyhN5Ngx": 1,
+		"75_14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx": 1,
+		"3_1L4dZcDF2maSKHDy788yhxpYnBWnXadUtS": 1
+	}
+}

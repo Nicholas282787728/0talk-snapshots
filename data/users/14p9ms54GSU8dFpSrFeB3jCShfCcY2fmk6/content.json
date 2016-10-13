@@ -1,0 +1,15 @@
+{
+ "cert_auth_type": "web", 
+ "cert_sign": "GwQWCydqOQnmR7PJDvflomV9qUMEANoi4PdeQeR3DS9b2GJQ8Xgf3qimQngHmHJbkxmi+EemOEU8Rs0TuxiihYg=", 
+ "cert_user_id": "dildoman@zeroid.bit", 
+ "files": {
+  "data.json": {
+   "sha512": "48059ebdeee07c6e6692f178e9312847d73afd4c630c0a02245078f1b52fd99a", 
+   "size": 258
+  }
+ }, 
+ "modified": 1455094856.986, 
+ "signs": {
+  "14p9ms54GSU8dFpSrFeB3jCShfCcY2fmk6": "HFkQN43aNFUFUel15jyJ1bVd8t8R6SVSEmdpqF8NudpddHevf4JX/hXzx1UF5rUyEzi5CaSpmdUgsVSmAyfae78="
+ }
+}

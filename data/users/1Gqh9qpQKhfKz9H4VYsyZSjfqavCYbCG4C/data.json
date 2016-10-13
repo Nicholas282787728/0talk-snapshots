@@ -1,0 +1,18 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 2,
+	"comment": {
+		"2_1AZjDLkfYwSmjM7ZJUf7HHnrF778augRMa": [
+			{
+				"comment_id": 1,
+				"body": "> [armchairgenius](#comment_1_1DW9EhqZ7rndNKZTPbdxsttBU1jGtT2soT): Ah great, more of the \"only evil people use Tor\" mantra. Does better encryption and privacy allow people to access things like CP? yes it does, but that's the price of freedom.\n\nAmen. I proudly host three separate Tor nodes across the world. As with anything great, there will always be the small percent that will abuse the system for something.",
+				"added": 1470517324
+			}
+		]
+	},
+	"comment_vote": {
+		"28_17VwZEfWSUWb5RHkK9m1odnDdBfvjTL6Cp": 1
+	}
+}

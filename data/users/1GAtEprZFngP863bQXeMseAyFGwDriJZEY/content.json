@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "G1CgtFjQccTGRmnhdgvkagVqnMHSzm94jsT5OmP8G0XVcfxbCt19WmVTNUPZx+Sla+JoYvN/SP9kWdaPOtCbgP8=",
+ "cert_user_id": "hydroatom@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "b768073557e633f4ebb29dbe78ba1e3335c0bb09a28202c2965752368a91cf40",
+   "size": 298
+  }
+ },
+ "inner_path": "data/users/1GAtEprZFngP863bQXeMseAyFGwDriJZEY/content.json",
+ "modified": 1473176615.42,
+ "signs": {
+  "1GAtEprZFngP863bQXeMseAyFGwDriJZEY": "G4d//63MBO3I6Y0I3QuOGTqNFD82HHvaOZE9i5KjM+VJNsl91pwpccrN3/qoXqKX3vtoMQkj+zHUji6GTBKxhMM="
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HMne6yqyMoNc0YOkMKf500uHpoa6+x8B9oR8A17istt5UcBpDjktCf9pyV/LV48iZ0GxHYAYD66AEOaeBaZVE8M=",
+ "cert_user_id": "glock@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "06a4e7a9f3fdf2d5b1f1d59568c20c067e496567fe2807f618d514b12828782b",
+   "size": 2768
+  }
+ },
+ "inner_path": "data/users/1M5ztUWkCMP5Pv7MjwApWT7CNvWimGFaFa/content.json",
+ "modified": 1456746617.440765,
+ "signs": {
+  "1M5ztUWkCMP5Pv7MjwApWT7CNvWimGFaFa": "HNIG5OZNIkORy+hq/m1oL/q/bW8iQK7SGEXn7c8E5DsipVBC4QPQ+WFEAADKcfXGzqS6HL999BAYiNjWNEWtDUs="
+ }
+}

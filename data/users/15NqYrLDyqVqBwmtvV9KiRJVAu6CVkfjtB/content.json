@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "G9/ZRokHR6uKylf7QdsT9XsqhhhquPRrjLLqo4gwP1azbuBXNquuMgzFZF4GLd4a12iajO8MWLh9+mh1z/setW0=",
+ "cert_user_id": "amigdala@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "61d508d09a8edce59ff3e494c2afc4f62db75f8d5c1a8ab8ed0c39c083cb9d74",
+   "size": 403
+  }
+ },
+ "inner_path": "data/users/15NqYrLDyqVqBwmtvV9KiRJVAu6CVkfjtB/content.json",
+ "modified": 1457547559.75116,
+ "signs": {
+  "15NqYrLDyqVqBwmtvV9KiRJVAu6CVkfjtB": "HCDMX1P62L97in166ITpphwk4iBHLkwi5neSarWbxxT2eGZj9+6c0aHyxkauRds2xZ01WspfQveMrOxqnF33B4w="
+ }
+}

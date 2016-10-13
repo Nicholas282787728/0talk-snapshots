@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HDKRrdopn7e3Sh80UhtTcduoglxX2nRDcJNlEeND1NZK8OLYF82GWyZXh2RfAOs6F2gVwuoyl+j/CMOhWK+Lr3Q=",
+ "cert_user_id": "fansofwang@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "18976254c81a8bee24d0e91c338a969317022935048fdd42f0f3524efe96bd41",
+   "size": 8866
+  }
+ },
+ "inner_path": "data/users/17qLXXw5HAJkUYDfDeSJdP4g5YhDNbDo1R/content.json",
+ "modified": 1465385541.267642,
+ "signs": {
+  "17qLXXw5HAJkUYDfDeSJdP4g5YhDNbDo1R": "G8rloYWcugFeJcY2EgkWFYuC1sMevTtFbgWFUU/pMta5RRdjKEZDywn7XNZj/TWZDtkTGD8uFiqF1c1dsEzdepE="
+ }
+}

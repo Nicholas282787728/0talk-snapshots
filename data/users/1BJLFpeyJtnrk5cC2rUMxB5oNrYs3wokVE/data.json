@@ -1,0 +1,15 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "How does ZeroID work?",
+			"body": "Hello! I'm just starting to dive into zeronet, so I apologize if this is a stupid question. From the frontend, one would obviously enter a unique username and then they are able to use that name on various sites, but how is that name allocated? I'm assuming there's no central authority that can take that name away from you, correct? Is there any reason besides readability to use ZeroID for sites as opposed to the user's BIP32 address? There don't seem to be any docs or anything on it's github page.",
+			"added": 1473456418
+		}
+	],
+	"topic_vote": {},
+	"next_comment_id": 1,
+	"comment": {},
+	"comment_vote": {}
+}

@@ -1,0 +1,21 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 3,
+	"comment": {
+		"2_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": [
+			{
+				"comment_id": 1,
+				"body": ";';;lml;m",
+				"added": 1472805160
+			},
+			{
+				"comment_id": 2,
+				"body": "Yes, @mrdrmr it is needed...At least that's what i think...",
+				"added": 1473147177
+			}
+		]
+	},
+	"comment_vote": {}
+}

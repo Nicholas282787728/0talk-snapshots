@@ -1,0 +1,25 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {
+		"2_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1
+	},
+	"next_comment_id": 3,
+	"comment": {
+		"2_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": [
+			{
+				"comment_id": 1,
+				"body": "こんにちはよろしくお願い",
+				"added": 1456917264
+			}
+		],
+		"1_1EFyYHRG136W3HscisQ8ig1MutG6zT3zbV": [
+			{
+				"comment_id": 2,
+				"body": "在中國竟然可以上tor。。。怎麼做到的",
+				"added": 1456996320
+			}
+		]
+	},
+	"comment_vote": {}
+}

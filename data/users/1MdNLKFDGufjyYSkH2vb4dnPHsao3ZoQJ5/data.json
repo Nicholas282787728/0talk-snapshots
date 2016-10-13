@@ -1,0 +1,15 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "Play and search for different languages",
+			"body": "Is there a way to populate Play Database with different languages and not only English : Spanish, French, German, Russian, ...",
+			"added": 1457309417
+		}
+	],
+	"topic_vote": {},
+	"next_comment_id": 1,
+	"comment": {},
+	"comment_vote": {}
+}

@@ -1,0 +1,20 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "ZeroNetwork working even without any internet connection",
+			"body": "Am not an expert, but maybe ZeroNetwork could work even without any internet connection, using P2P through routers. In other words, this network could take some peers inside internet, and some from outside too.",
+			"added": 1457524467
+		}
+	],
+	"topic_vote": {},
+	"next_comment_id": 1,
+	"comment": {},
+	"comment_vote": {
+		"464_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"62_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1,
+		"4_15YUzYgogtiHYqXP5HXtdLS2dLZuxnvuRQ": 1,
+		"1_1V8pALjEftEZUtGeXJfGz6n9LSJE6jewa": 1
+	}
+}

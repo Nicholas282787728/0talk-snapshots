@@ -1,0 +1,23 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 3,
+	"comment": {
+		"2_1JHQA9oFkFpFFRiscyT4N71AKLWg46pQ92": [
+			{
+				"comment_id": 1,
+				"body": "Mientras no haya suficientes usuarios play se queda solo en una buena idea. Aunque por algo se empieza!",
+				"added": 1457031722
+			}
+		],
+		"2_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": [
+			{
+				"comment_id": 2,
+				"body": "Test+",
+				"added": 1457031748
+			}
+		]
+	},
+	"comment_vote": {}
+}

@@ -1,0 +1,140 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "How is zeronet implemented?",
+			"body": "Can you describe  inner working a bit more that in the slides. How is done? Does it use bittorrent BEP about mutable keys?",
+			"added": 1457035276
+		}
+	],
+	"topic_vote": {
+		"2_1GCsW9TFfjDsvcdmKPADq1n8Q3ha72UtDQ": 1,
+		"1_12fNTMaQH1mN5bPehdvkNgTAVxzQXop87e": 1,
+		"1_1Mwm45xgWJkwaqQeXcLKqPy4KcTNM8XcbD": 1
+	},
+	"next_comment_id": 21,
+	"comment": {
+		"2_1GCsW9TFfjDsvcdmKPADq1n8Q3ha72UtDQ": [
+			{
+				"comment_id": 1,
+				"body": "UNPL, Unix is Not a Programming Language.",
+				"added": 1457035354
+			},
+			{
+				"comment_id": 2,
+				"body": "Scheme!",
+				"added": 1457035403
+			},
+			{
+				"comment_id": 3,
+				"body": "and Python. mostly.",
+				"added": 1457036380
+			}
+		],
+		"1_1Mwm45xgWJkwaqQeXcLKqPy4KcTNM8XcbD": [
+			{
+				"comment_id": 4,
+				"body": "Je suis très interessé par le changement social que peux apporter le P2P.",
+				"added": 1457036623
+			},
+			{
+				"comment_id": 7,
+				"body": "> [angristan](#comment_10_1MEWJRMLgvofqG9Mbsb2Rc4hFFyv7HeRx7): Tout à fait d'accord avec vous, c'est l'avenir !Je compte en faire un article sur mon blog (https://angristan.fr/) très bientôt\n\nça nous fait une belle jambe!",
+				"added": 1457037174
+			},
+			{
+				"comment_id": 8,
+				"body": "> [nowhereman](#comment_1_15xAFv6aHXqo5xdaSoTEi5pRNokskECJXU): On va migrer en Corée du Nord au moins on sera libres XD\n\npourquoi migrer? j'ai pas compris la blague",
+				"added": 1457037191
+			},
+			{
+				"comment_id": 9,
+				"body": "> [angristan](#comment_11_1MEWJRMLgvofqG9Mbsb2Rc4hFFyv7HeRx7): Oui. J'espère qu'on ne sera pas contraints d'utiliser des réseaux alternatifs pour préserver notre liberté d'expression...\n\nPeace!",
+				"added": 1457037206
+			},
+			{
+				"comment_id": 10,
+				"body": "> [kilow](#comment_3_1Mwm45xgWJkwaqQeXcLKqPy4KcTNM8XcbD): Bonjour, à vous tous amis français, merci d’être là.Pouvons nous montrer une communauté sur cette plate-forme ?\n\nC'est à dire une reseau social?",
+				"added": 1457037230
+			},
+			{
+				"comment_id": 11,
+				"body": "Ou peut-être un site dedié au francophones?",
+				"added": 1457037251
+			},
+			{
+				"comment_id": 12,
+				"body": "> [angristan](#comment_13_1MEWJRMLgvofqG9Mbsb2Rc4hFFyv7HeRx7): On a qu'à faire un ZeroTalk français\n\noui voilà, il doit y avoir le code quelque part. J'ai commencé a lire le code de zeronet c'est super interessant. En plus il respecte la PEP8",
+				"added": 1457037324
+			},
+			{
+				"comment_id": 13,
+				"body": "> [angristan](#comment_14_1MEWJRMLgvofqG9Mbsb2Rc4hFFyv7HeRx7): ZeroChat je savais, mais pas pour ZeroTalk Fr :D\n\nEt pour le moteur de recherche... x)",
+				"added": 1457037468
+			}
+		],
+		"1_12fNTMaQH1mN5bPehdvkNgTAVxzQXop87e": [
+			{
+				"comment_id": 5,
+				"body": "What about mutable keys? How is the json description of a website is updated in the DHT when the website is updated?",
+				"added": 1457036668
+			},
+			{
+				"comment_id": 6,
+				"body": "What about mutable keys? How is the json description of a website is updated in the DHT when the website is updated?",
+				"added": 1457036669
+			},
+			{
+				"comment_id": 14,
+				"body": "> [nofish](#comment_395_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): Please read: https://docs.google.com/presentation/d/1_2qK1IuOKJ51pgBvllZ9Yu7Au2l551t3XBgyTSvilew/pub?start=false&loop=false&delayms=3000\n\nYes I read that, but does it use http://www.bittorrent.org/beps/bep_0044.html",
+				"added": 1457038103
+			},
+			{
+				"comment_id": 15,
+				"body": "BEP 44 is part of the tracker, I want specifics.",
+				"added": 1457040099
+			},
+			{
+				"comment_id": 16,
+				"body": "point me to the code, if it use to BEP 44, because i can't find it.",
+				"added": 1457040114
+			},
+			{
+				"comment_id": 17,
+				"body": "> [nofish](#comment_397_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): It uses bittorrent trackers, not the DHT\n\nOk but how is content.json updated, I can't find the code that verify the signature of the json before making it the new content.json for a website.",
+				"added": 1457116932
+			},
+			{
+				"comment_id": 18,
+				"body": "> [nofish](#comment_416_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): The code: https://github.com/HelloZeroNet/ZeroNet/blob/master/src/Content/ContentManager.py#L551The tests: https://github.com/HelloZeroNet/ZeroNet/blob/master/src/Test/TestContent.py\n\nI think I get it, it use the bittorrent tracker to find peers, that is all. After that it use its own protocol to store/retrieve/publish content.json. Is that correct?",
+				"added": 1457118195
+			},
+			{
+				"comment_id": 19,
+				"body": "hwo does it find zeronet peers among other peers that ony do bittorrent?",
+				"added": 1457118737
+			},
+			{
+				"comment_id": 20,
+				"body": "Thanks a lot nofish",
+				"added": 1457120354
+			}
+		]
+	},
+	"comment_vote": {
+		"1_12fNTMaQH1mN5bPehdvkNgTAVxzQXop87e": 1,
+		"11_17fgJ3tZjhM7HCkTkd5TWf2BLLWmhRKcXB": 1,
+		"1_1Mwm45xgWJkwaqQeXcLKqPy4KcTNM8XcbD": 1,
+		"12_17fgJ3tZjhM7HCkTkd5TWf2BLLWmhRKcXB": 1,
+		"1_1PFghAyqgbELutEUJ1zEcqEWL7odM3Caka": 1,
+		"11_1MEWJRMLgvofqG9Mbsb2Rc4hFFyv7HeRx7": 1,
+		"12_1MEWJRMLgvofqG9Mbsb2Rc4hFFyv7HeRx7": 1,
+		"14_1MEWJRMLgvofqG9Mbsb2Rc4hFFyv7HeRx7": 1,
+		"6_1Mwm45xgWJkwaqQeXcLKqPy4KcTNM8XcbD": 1,
+		"17_1MEWJRMLgvofqG9Mbsb2Rc4hFFyv7HeRx7": 1,
+		"416_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"417_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"40_1MEWJRMLgvofqG9Mbsb2Rc4hFFyv7HeRx7": 1
+	}
+}

@@ -1,0 +1,49 @@
+{
+	"next_topic_id": 3,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "The NSA is spying on us :v",
+			"body": "(Well this is a joke :p)\nBut for info, even using the Tor network is useless, because it has been hacked and leaked by the FBI.\nIt's better to use an alternative way to remain anonymous such proxychains and/or socks proxy.\nThe better thing about ZeroNet is the elliptic curves cryptography <3\nSuch an innovating project :)",
+			"added": 1462902375
+		},
+		{
+			"topic_id": 2,
+			"title": "Ch4o$ Academy the release (Reign Of Ch4o$)",
+			"body": "http://127.0.0.1:43110/19JmJ9ffRTvt2JzQTEJEQ74pyxKiapQme9",
+			"added": 1462936667
+		}
+	],
+	"topic_vote": {},
+	"next_comment_id": 5,
+	"comment": {
+		"1_1KLBz9nduZYz3F456wf3T53CaEgj18EtJD": [
+			{
+				"comment_id": 1,
+				"body": "Well maybe your data are sent in clear text and might be sniffed, but this is not possible only on LAN's \nIn this case if you're worried that some intruders intercept your data you can use VPN instead, \nOr you can use I2P browser which will be soon supported by Zeronet, or u can combine both VPN and I2P\nPersonally I discourage the use of Tor even if it does protect you against some curious people on LANs and hides your identity for some people and sites, but I'm always feeling uncomfortable with FBI and NSA..\nAt least this is regarding which activity you're request from your device, but anyways I prefer to remain invisible from their eyes..",
+				"added": 1462928738
+			},
+			{
+				"comment_id": 3,
+				"body": "@namecoinfontas \nYou may need to read some hacking news before calling people dumbs: https://www.google.com/?gws_rd=cr,ssl&ei=4u0zV5-OF8SRaNWSqYAG#q=fbi+hack+tor\nhttp://thehackernews.com/2016/04/tor-unmask-malware.html\nhttp://thehackernews.com/search/label/tor",
+				"added": 1463021247
+			},
+			{
+				"comment_id": 4,
+				"body": "For I2P I don't know yet but it is mentioned in ZeroNet HowTo manual that it will be supported soon.\nGood luck",
+				"added": 1463021572
+			}
+		],
+		"7_16tWPYFLbad3R8iGcMuetyiwC2q5qXp45T": [
+			{
+				"comment_id": 2,
+				"body": "Tor is broken by the FBI",
+				"added": 1462929100
+			}
+		]
+	},
+	"comment_vote": {
+		"46_19qsuxKBkNZWYft3epWgn6u3gG82sQHs6n": 1,
+		"2_13WnNjGWpKx29MGErCCpUAnP772R3fYyMk": 1
+	}
+}

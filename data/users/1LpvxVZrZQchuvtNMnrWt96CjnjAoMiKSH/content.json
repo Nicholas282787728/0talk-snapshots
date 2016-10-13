@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "bitmsg",
+ "cert_sign": "G7jDmJF1+fcu0l9LxYskRri8B2+cOiJSYoOydBm/DbVqGcFJEPz30ruy8m88v6FwHcljBiLMpL8WKEeSnz+LD6A=",
+ "cert_user_id": "giuseppem99@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "611e64427a4f0f868cfe69f036aca6491e7bb5fdb89e06898210d4ce3d60ff5a",
+   "size": 361
+  }
+ },
+ "inner_path": "data/users/1LpvxVZrZQchuvtNMnrWt96CjnjAoMiKSH/content.json",
+ "modified": 1457735857.171,
+ "signs": {
+  "1LpvxVZrZQchuvtNMnrWt96CjnjAoMiKSH": "G1Hk6W/N5wMzDPIkDuoVjXpWPXHvZWWr7+P7SnSlaZBXZcGZN03kvP676Nlth1vJs4qah5kNdIsNYH7tX8NVXM8="
+ }
+}

@@ -1,0 +1,31 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "[solved] Still confused about 15441, does my ISP blocked it?",
+			"body": "The result from port checker is \"Port 15441 is closed\".\nI don't have any router (or do I? I use an android phone for tethering to my laptop).\n\nIf the result from port checker is like above, does it mean I can't open it?",
+			"added": 1462068504
+		}
+	],
+	"topic_vote": {},
+	"next_comment_id": 3,
+	"comment": {
+		"1_1PjeSCAGvzNm4UxEqydwzCgQwCXEKc8ikf": [
+			{
+				"comment_id": 1,
+				"body": "> [petercxy](#comment_8_1DXR2Di8Ks9JijfNycWErpenoxxchrdWBB): Do you connect to the Internet via your phone's cellular network? If so, it is highly possible that you have no public IP address.\n\nYes, it's cell network and I have no public IP.\nOkay, I think it's clear know. Thank you.",
+				"added": 1462070675
+			},
+			{
+				"comment_id": 2,
+				"body": "> [thisguy1337](#comment_39_16bxMyoL49mWYhcZKBYVBT5zEFW9SQpiao): Looks like it's due to the tethering of your mobile device.  They make for poor routers  \n> Have you tried something like:https://play.google.com/store/apps/details?id=at.bherbst.net&hl=en  \n> Android Debug Bridgehttp://developer.android.com/tools/help/adb.html#forwardports\n\nTried that PF but failed. \nI should understand that a cell network have no public IP.  Seems like I have zero knowledge about networking.\nThanks for yor help.",
+				"added": 1462070822
+			}
+		]
+	},
+	"comment_vote": {
+		"39_16bxMyoL49mWYhcZKBYVBT5zEFW9SQpiao": 1,
+		"8_1DXR2Di8Ks9JijfNycWErpenoxxchrdWBB": 1
+	}
+}

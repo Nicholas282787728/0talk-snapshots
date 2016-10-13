@@ -1,0 +1,23 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 3,
+	"comment": {
+		"1_1HcmrfyyG9iUtnN4qsjBngiF1Bqdn213Ei": [
+			{
+				"comment_id": 1,
+				"body": "来个wow 60年代的",
+				"added": 1461218890
+			}
+		],
+		"1_1FLq5g9ymyC5fHwgnbfC4qHZhDaRUGzAHm": [
+			{
+				"comment_id": 2,
+				"body": "好东西顶下",
+				"added": 1461218909
+			}
+		]
+	},
+	"comment_vote": {}
+}

@@ -1,0 +1,31 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 5,
+	"comment": {
+		"2_1GkoHb4XqFDbLnxzrZxSzJK7dqnxmGyBRP": [
+			{
+				"comment_id": 1,
+				"body": "And that's what I am doing now.",
+				"added": 1468762896
+			},
+			{
+				"comment_id": 2,
+				"body": "rename disabled-multiuser into multiuser",
+				"added": 1468762927
+			},
+			{
+				"comment_id": 3,
+				"body": "I am 19",
+				"added": 1468762986
+			},
+			{
+				"comment_id": 4,
+				"body": "Just using another id :)",
+				"added": 1468763000
+			}
+		]
+	},
+	"comment_vote": {}
+}

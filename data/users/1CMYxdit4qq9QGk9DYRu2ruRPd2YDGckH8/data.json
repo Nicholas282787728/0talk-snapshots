@@ -1,0 +1,625 @@
+{
+	"next_topic_id": 25,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "Can we get rid of the ultra-cpu-heavy animations on zeroid.bit ?",
+			"body": "I have a small netbook, and I didn't understand that the website actually worked until after a few days. It's so demanding for my computer, that I thought It was a bug. Maybe it could be replaced by just a background? Or maybe some kind of script could determine the speed of the computer to switch it on or off accordingly. \n\nAlso: the graphics/statistics about peers and location thereof is quite demanding, too. I have no problem on my desktop, but - again - on my netbook it regularily crashes. It's very nice and cool with the swiping it to the left and all that, but it is a little too much for some computers (including mine).\n\njust my 2 cents ...",
+			"added": 1455735877
+		},
+		{
+			"topic_id": 2,
+			"title": "[zeroBlog] how can I change my avatar picture?",
+			"body": "Hallo, \n\nI managed to change some things on [my](http://127.0.0.1:43110/1HzKesHsWG3N96CfW9eC2aL9VKY7EDm2Zj) ZeroBlog site. But I don't know where the image of my avatar is at. It seems it is inside of a file, but I don't know where this file is.\n\nIt's all very weird.",
+			"added": 1456739844
+		},
+		{
+			"topic_id": 3,
+			"title": "Format of the hash (name of most websites)",
+			"body": "Hi, \nI was wondering, how the hash of a website works. \nFor example the has of my zerosite: 1HzKesHsWG3N96CfW9eC2aL9VKY7EDm2Zj\nIf i counted correctly it is 34 elements long. \nEach element can be 1-9, A-Z and a-z .( I haven't found a 0 (zero) in any website's hash, yet).\ndoes this mean there are (9+26+26)**34 = (63)**34 combinations?\nI was thinking about this, because maybe there could be a way of turning these hashes into pictures... But I need to now the absolute numbers of the 'incredients'.",
+			"added": 1457036688
+		},
+		{
+			"topic_id": 4,
+			"title": "multi-user blogs ?",
+			"body": "Is it possible to have a blog where different users can post?\n\nI guess right now every user has to have the private/public key. But wouldn't it be interesting, if in a blog different users could post with one still being the owner? \n(I propably have to sort out the exact functionality myself, I am not 100% sure I know what I am talking about exactly).\nMaybe there doesn't have to be one owner, but different users could (like in this forum) post content that could appear in the category <cocktail-receipts> (for example). I could maybe filter by a certain content or by certain users who are in the <cocktail-receipts>-group (or subreddit/group).\n\nbtw - zeronet does need a blog about cocktails. All of them out there in the normal internet are ugly because of all the advertisements. Here we have the chance of making something without the need of monetization (no server costs -> no pressure to finetune everything in order to bring profits)...",
+			"added": 1457720099
+		},
+		{
+			"topic_id": 5,
+			"title": "a scifi subzero (a 'subreddit') dedicated to everything SciFi.",
+			"body": "come and join me here:\n[1BrgXu4E6jzdtvwec9oEU5Fir7355yeJF3](http://127.0.0.1:43110/1BrgXu4E6jzdtvwec9oEU5Fir7355yeJF3).\n\nAs a Fan of scifi, this is of course the first thing for me to think of. If you like that also, come and join me.",
+			"added": 1457903132
+		},
+		{
+			"topic_id": 6,
+			"title": "change another website's color theme?",
+			"body": "Since ZeroTalk is quite bright, I was wondering, if this could be adjusted somehow. Maybe there could be a switch somewhere?\n\nbut more generally, this could be an interesting feature for all sites. Like in a forum, where users could use their own templates for the style. The actual site would then only be the content. \n\nI am sorry, If I maybe sound like a noob... I am very new to website programming. Zeronet is my entry. I am learning a lot right now by looking at the html/css files of my zero-site. So maybe my suggestion is already hidden somewhere in there. If not - I'd love that. If yes, where is it?",
+			"added": 1457904395
+		},
+		{
+			"topic_id": 7,
+			"title": "question about the code in zeroblog/zerotalk.",
+			"body": "I created a discussion forum and changed the colors a little.\nBut I cannot find the part that makes the border around comments blue while they are active. If you answer to this talk, you will know what I mean. I cannot find the part in the .css file. Does anyone know how I can change this?",
+			"added": 1458068879
+		},
+		{
+			"topic_id": 8,
+			"title": "can we have a subforum for technical discussions (html, css, javascript) ?",
+			"body": "Of course most things can also be checked in the normal internet (and should be checked there first). Some questions could especially for the zeronet blog and forum software. The answeres could then later be compiled in  wiki. \n\nI for example have a question about how to include a certain font in the css file. I see the examples already there, but how to i encode my own font into the format inside of css? I guess I will have a few other questions here later. But I'd rather ask them in a zero-web-dev subforum.",
+			"added": 1458152935
+		},
+		{
+			"topic_id": 9,
+			"title": "How can I create subforums? (like the 'P2P Newsflow' subcategory)",
+			"body": "How can I create this: http://127.0.0.1:43110/Talk.ZeroNetwork.bit/?Topics:1_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG/P2P+news+flow",
+			"added": 1458157175
+		},
+		{
+			"topic_id": 10,
+			"title": "How to create subcategories like this",
+			"body": "basxto already gave a nice answer [here](http://127.0.0.1:43110/Talk.ZeroNetwork.bit/?Topic:9_1CMYxdit4qq9QGk9DYRu2ruRPd2YDGckH8/How+can+I+create+subforums+like+the+P2P+Newsflow+subcategory)",
+			"added": 1458168050,
+			"parent_topic_uri": "3_1PVcdu7USZH2kHMETbqDYLPjJZKCDWM52k"
+		},
+		{
+			"topic_id": 11,
+			"title": "What is the exact meaning/cause of the different symbols left of the posts?",
+			"body": "There's the compass, the (rounded-rectangular) speech bubble and the stacked speech bubbles. \nI cannot really understand the cause behind this.",
+			"added": 1458171154,
+			"parent_topic_uri": "3_1PVcdu7USZH2kHMETbqDYLPjJZKCDWM52k"
+		},
+		{
+			"topic_id": 12,
+			"title": "How does the code of the upvote button work?",
+			"body": "I tried to modify it slightly because the number is too low when already active (upvoted). But now the whole button is somehow higher or so.\nYou can see the problem [here](http://127.0.0.1:43110/1BrgXu4E6jzdtvwec9oEU5Fir7355yeJF3). Compare it to like this zite here. the number in the score/upvote button is at same height as the '2 comments' text. \n(this is not the most important issue btw. I am just interested in how hte hole css works...)",
+			"added": 1458174731,
+			"parent_topic_uri": "3_1PVcdu7USZH2kHMETbqDYLPjJZKCDWM52k"
+		},
+		{
+			"topic_id": 13,
+			"title": "What happens when I upvote something?",
+			"body": "What happens 'behind the curtains', when an upvote is counted?\nIs there a central place, where all my upvotes are saved, or is every upvote saved within the zite where it was cast?\nCould I easily add another votable category? e.g. like a downvote for example, next to the upvote button. (later maybe a combined up/downvote button)",
+			"added": 1458265640,
+			"parent_topic_uri": "3_1PVcdu7USZH2kHMETbqDYLPjJZKCDWM52k"
+		},
+		{
+			"topic_id": 14,
+			"title": "How can I include custom fonts in the css file?",
+			"body": "If I open **all.css** in the css folder there are three fonts saved within it. I would like to do the same in order to use another font on the website. But how can I do this? In what format/encoding are the fonts saved there?\n\nAlso: Is there another way of using different fonts in zeronet? (I don't want to use any external resources).",
+			"added": 1458402107,
+			"parent_topic_uri": "3_1PVcdu7USZH2kHMETbqDYLPjJZKCDWM52k"
+		},
+		{
+			"topic_id": 15,
+			"title": "Can you guys please put your antisemitism elsewere?",
+			"body": "We know you just want to troll with this brain-amputated antisemitism shitshow. But can you please go to your own corner. There's nothing easier than cloning a site. Go on. Do it!",
+			"added": 1458517435
+		},
+		{
+			"topic_id": 16,
+			"title": "Is there a way of blocking content?",
+			"body": "Is it possible to prevent seeding certain content?\n\nI am thinking of all the antisemitism lately. How can I delete the content on my own computer? (Is there an easy way?)\nWill it be synchronized again, automatically? \n\nIf I am the owner of a discussion forum (a clone of ZeroTalk) and I delete certain contents, sign and publish the zite afterwards, is this deletetion happening everywhere or only on my computer?",
+			"added": 1458522750,
+			"parent_topic_uri": "3_1PVcdu7USZH2kHMETbqDYLPjJZKCDWM52k"
+		},
+		{
+			"topic_id": 17,
+			"title": "any way of changing 'ownership' of a website?",
+			"body": "Is it possible through some sort of process transfer a website's ownership?\n\ncould I just change the owner in the content.json and sign it with the old identity?",
+			"added": 1458573051,
+			"parent_topic_uri": "3_1PVcdu7USZH2kHMETbqDYLPjJZKCDWM52k"
+		},
+		{
+			"topic_id": 18,
+			"title": "more space for forum members! I'm running out!",
+			"body": "",
+			"added": 1458921938,
+			"parent_topic_uri": "2_18rFd7W9y5QGQEVXaCoJV7jyt7D8aN156h"
+		},
+		{
+			"topic_id": 19,
+			"title": "The forum post symbols. Where are they saved?",
+			"body": "next to this post for example will be either a compass, or a speaking bubble. But where are they saved? I noticed in the data/<hash>/img folder of my scifi-forumthere are 4 different pngs. edit, loading, topic-chat and topic-group. But there is no compass icon. So where does it (or all of them) come from?",
+			"added": 1459014050,
+			"parent_topic_uri": "3_1PVcdu7USZH2kHMETbqDYLPjJZKCDWM52k"
+		},
+		{
+			"topic_id": 20,
+			"title": "Is zeronet a website-only service?",
+			"body": "I was wondering, if zeronet could also be used to things besides websites.\nI like to use weechat for irc. It's a command line tool for chatting.\nSo there could maybe be a decentralized 'server' that I could connect to and chat. But this programm could then be used from the console like weechat.\n\nFilesharing/syncing would also be a cool addition (0net would do the syncing without the use of a browser).",
+			"added": 1460633935
+		},
+		{
+			"topic_id": 21,
+			"title": "Background of non-active editable fields.",
+			"body": "Hello, \nI use a dark shell theme on my computer (with fedora Linux). The dark theme somehow makes all fields which I can use to write (like the field I am writing this sentence here right now) dark if they are not active. If they are active (the cursor is in them) they have a white background (which is better), but the font color is very bright (also set by the shell theme). It make it difficult to write.\n\nI was wondering, If there was an option in the zite's html/css where this can be changed. And if it can, It would be a good idea to change it for zerotalk, too.\n\nI have a similar problem on my own zeroblog, so maybe this is more common.",
+			"added": 1461592290,
+			"parent_topic_uri": "3_1PVcdu7USZH2kHMETbqDYLPjJZKCDWM52k"
+		},
+		{
+			"topic_id": 22,
+			"title": "A tagging system.",
+			"body": "I'd like to be able to add tabs to whatever I like to.\nThat way things could have several categories. People could use filters or search to find things.\n\nWould also help, If other users can tag something. Like 'funny'. But also functional tagging could be interesting like 'nsfw' or 'serious'.",
+			"added": 1461844912,
+			"parent_topic_uri": "2_18rFd7W9y5QGQEVXaCoJV7jyt7D8aN156h"
+		},
+		{
+			"topic_id": 23,
+			"title": "How about adding a video object in the blog software?",
+			"body": "I made myself an 'art'-blog where I occasionally post short videos that loop (because gifs are too big in size).\nI realized, I needed to have a video player that only plays the video on hover (since 10 videos playing at once (outside the screen) makes them all stutter). So maybe someone knows how to do that? Do I have to create a video object in the css file, or is it something in the javascript? or both? \nWe could think of a solution that we could built in the official zeroblog software.",
+			"added": 1463742766,
+			"parent_topic_uri": "3_1PVcdu7USZH2kHMETbqDYLPjJZKCDWM52k"
+		},
+		{
+			"topic_id": 24,
+			"title": "What's going on in Turkey?",
+			"body": "It seems there's a coup going on right now. \nDoes anyone know more about it? Do you expect a shutdown of the internet in Turkey?\n\nI have to say I am gravely disappointed by the state of the world today. When I watched Television like Star Trek as a child, I got the idea that the world would become wiser and more educated. It seems we become ever more stupid while having more information and knowledge evailable. :(",
+			"added": 1468621421
+		}
+	],
+	"topic_vote": {
+		"1_1CMYxdit4qq9QGk9DYRu2ruRPd2YDGckH8": 1,
+		"3_1PVcdu7USZH2kHMETbqDYLPjJZKCDWM52k": 1,
+		"10_17fgJ3tZjhM7HCkTkd5TWf2BLLWmhRKcXB": 1,
+		"1_18ZfPCaU1pYAeos3A7YhZVgtsmXqXeRRW7": 1,
+		"1_1N3AL3aSzykpyxLQcaMXYduLH7XDkYQzU2": 1,
+		"1_19arYgVKguUamTqtYGu6T9FSUsr19CyEcG": 1
+	},
+	"next_comment_id": 71,
+	"comment": {
+		"3_168qV1Xxp2EyszrzdECLUwXrn9wGYjDdar": [
+			{
+				"comment_id": 1,
+				"body": "Hey, I made some kind of Image-Blog. Nothing fancy, just some generative 'art' (or whatever you want to call it).\n\nhttp://127.0.0.1:43110/1HzKesHsWG3N96CfW9eC2aL9VKY7EDm2Zj",
+				"added": 1455817145
+			},
+			{
+				"comment_id": 3,
+				"body": "> [zozon](#comment_102_1QBLGLcgKfcpfLmiDYuDzUKVXFfmTAew55): very nice!text is a bit hard to read on my TV, but art study is good - shaping the research!\n\nWell, I am still experimenting...\nJust check it out in the future - I have a lot to learn though :)",
+				"added": 1455823907
+			},
+			{
+				"comment_id": 4,
+				"body": "> [harry2](#comment_22_167eTX5f6jJt4HPvfQqf2QuwdTFCnxJCf2): nice, is that art collected from elsewhere or done by yourself?\n\nI made everything myself. I wanted to publish it somewhere all along, but never went through with the whole 'creating a website' process. I am pretty much a noob in programming. (That's also the reason, why the colors on the site are a bit strange. I am trying to fix that).\nI thought about making a tumblr website, but then I didn't just want to have to hand over any rights on these images to tumblr or whatever big company there is... \nSo this was kind of cool now!\n\nI am thinking about adding some (really) huge high quality images as well, but I am not sure about it yet.",
+				"added": 1455892033
+			},
+			{
+				"comment_id": 5,
+				"body": "> [muja](#comment_34_17i7Y7r8nTaCfLbCAuaKyc4R5BbKZYU2Hr): If you add \"optional\": \"(img)\", to your content.json file, then the user will only download the images they \"need\". So if someone gets a link to this post they will only download those pictures (and the rest of the page), which makes the loading faster. \n> Here's an example.\n\nwhere do I have to add this ( \"optional\": \"(img)\", ) ?",
+				"added": 1455905618
+			},
+			{
+				"comment_id": 6,
+				"body": "> [muja](#comment_35_17i7Y7r8nTaCfLbCAuaKyc4R5BbKZYU2Hr): You can put it bellow \"modified\": 1455899844.127144, in your content.json file. Don't forget to sign and publish.\n\ndid it. But since the webpage is on my own computer I am not able to tell any difference.\nAlso I realixed, on Firefox some images cannot be displayed (webp image format).",
+				"added": 1455917638
+			},
+			{
+				"comment_id": 52,
+				"body": "i made a scifi-forum http://127.0.0.1:43110/1BrgXu4E6jzdtvwec9oEU5Fir7355yeJF3/",
+				"added": 1458862913
+			}
+		],
+		"2_1CMYxdit4qq9QGk9DYRu2ruRPd2YDGckH8": [
+			{
+				"comment_id": 7,
+				"body": "> [glock](#comment_6_1M5ztUWkCMP5Pv7MjwApWT7CNvWimGFaFa): Maybe this works: \n> \n> Put the new avatar image in your site's \"img\" folder \n> Open the file \"index.html\" in a text editor \n> Search for the string <div class=\"avatar\"> </div> \n> \n> Replace it with <img class=\"avatar\" src=\"img/avatar.jpg\"></img> \n> \n> Save the changes\n\nHey thank you! It worked!\n\n(although the old image seems to be still behind it somehow.)",
+				"added": 1456752890
+			}
+		],
+		"3_1CMYxdit4qq9QGk9DYRu2ruRPd2YDGckH8": [
+			{
+				"comment_id": 8,
+				"body": "> [dirtydem](#comment_7_19gFBQKVBoGDvewv8JLmYDa8ZQGvVTUhhL): can I ask why would you want to turn them into pics? I know maybe it's something cryptography-related but I got curious :P\n\nmaybe it's stupid, but i was wondering If sites could be made recognizable. So that i could create an image where people could remember the image and therefor remember the adress. The namecoin thing is not really straightforward for me.",
+				"added": 1457037607
+			},
+			{
+				"comment_id": 9,
+				"body": "> [crypton](#comment_13_17fgJ3tZjhM7HCkTkd5TWf2BLLWmhRKcXB): Actually they are base58. A set of 58 alphanumeric symbols consisting of easily distinguished uppercase and lowercase letters (0OIl are not used)  It's using the same public and private key system that bitcoin and crypto currencies use.\n> You can already convert your \"site address\" into a QRcode, but not sure what type of \"picture\" you are wanting to create.\n\nThanks! Good to know!\nSo its 58^34 ...",
+				"added": 1457037919
+			}
+		],
+		"1_1CGidpguPpSkqbX3c19P5NUtipRzLJenX": [
+			{
+				"comment_id": 10,
+				"body": "> [3x71nc7](#comment_16_1Q8iqH31cKCqynoJRxR2PfJhzQr8wHdiHr): I think most people just clone ZeroBlog and post their pictures there, but if you have a lot of large files people might choose not to seed your site because it gets to big. I don't really know how to tackle that problem, but hashtag_trashbag tried out .webp files a while ago. They are smaller than .jpg files with comparable quality loss. The drawback here is that .webp only works in google chrome, but you could usewebpJS to add support for other browsers through javascript. This requires some programming experience, though. I might look into figuring out how to do it and post a tutorial on my Blog.\n\nHey I would love that! (btw cool to see my blog mentioned here :) )\nI actually saw a similar thing but with .flif (free lossless image format) which is _even_ better than webp. that could be cool. \nI looked into the js/all.js file in my folder and it is really difficult to figure something out. I also don't have any real experience with programming...",
+				"added": 1457039473
+			}
+		],
+		"3_1GCsW9TFfjDsvcdmKPADq1n8Q3ha72UtDQ": [
+			{
+				"comment_id": 11,
+				"body": "> [nofish](#comment_385_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): it uses markdown, but you can also paste html code. you need <video src=\"data/mp4-redditgifs/1123.mp4\" width=600 height=338 loop muted preload=\"auto\"></video> to insert video\n\nDoes this mean, i can post this code in my zeroblog? \nOr do I have to edit the html file?",
+				"added": 1457040872
+			},
+			{
+				"comment_id": 12,
+				"body": "> [lukipuki](#comment_11_1CMYxdit4qq9QGk9DYRu2ruRPd2YDGckH8): Does this mean, i can post this code in my zeroblog?Or do I have to edit the html file?\n\nbtw i tried it here: http://127.0.0.1:43110/1HzKesHsWG3N96CfW9eC2aL9VKY7EDm2Zj/?Post:51:l%27enfer_film",
+				"added": 1457040993
+			},
+			{
+				"comment_id": 13,
+				"body": "> [nofish](#comment_399_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): You have embedded data/video/video01b.webm, but the file is video/video01b.webm, it's recommended to put every file inside the data dir, because anything outside of it could be deleted on a re-clone.\n> You also need to add autoplay to the video html tag to start it automatically\n\nOh shit, I am stupid... \nthank you very much, Sir!",
+				"added": 1457082785
+			}
+		],
+		"1_1N9vyd78w2N6174aLsw7FvCk5Lij3Bu33Y": [
+			{
+				"comment_id": 14,
+				"body": "I'd be happy with just the way comments are handled in reddit (the tree structure). Right now it's hard to answer to someone in a linear ordered thread of posts. I don't know how this can be implemented in zeronet. Maybe it's a harder problem than thought.\n\nA comment could maybe have an id or something and another id indicate the parent id.",
+				"added": 1457273674
+			}
+		],
+		"1_17oYQdLkvyzEVPH3hXRtK3ru4FLNKZUD3b": [
+			{
+				"comment_id": 15,
+				"body": "Wouldn't it be possible to have like a list of 'trusted peers' and/or 'trusted sites'? With such a concept, I could decide that my pc is downloading and also sharing content from trusted sites automaticly, but from others only if I check it first. \n\nAs someone else said, there will always be people who abuse a given system, but it should be possible to say that someone isn't enabling someone.\n\nI think there has to be a method of combining up/down-voting with distribution of content. \n\nFor example let's think of a reddit-like discussion forum inside zeronet.\nThere would be up- and downvoting. But besides judging quality of a post, this voting would also decide if the content at hand is distributed automatically by my own machine. \nA downvoted post would not be visible for me, because it is not downloaded automaticly. If I choose to download it, it would only be seeded from my computer if I would upvote it myself.\n\nWith decentralized hosting like zeronet, we have to abandon the idea of one universal system of judging content. Like Einstein's theory of relativity which says, there is no absolute coordinate system (only relative ones for each person's point of view) , In zeronet there wouldn't be an absolute system of voting content. I imagine more a way of having upvotes and downvotes next to posts that would be from my trusted peers (trusted accounts), but their wouldn't be a global up/downvote count availably anymore.\nI think about having subscribtions to other (trusted) accounts and getting their up/downvotes. \n\nThere could even be subscriptions to certain tags. There could be a NSFW-tag in order to attach such a warning to certain content. If I don't want to see or help distribute certain content, these filters could be used to stop sharing certain posts. \nYes, this would maybe scatter some websites a little, but for bigger websites it would maybe be necessary. If there was a website like reddit in zeronet, I wouldn't want to help seed the WHOLE thing (my pc wouldn't even be able to handle it). I'd like to seed my subscribed subreddits automaticly.",
+				"added": 1457275971
+			},
+			{
+				"comment_id": 16,
+				"body": "> [3x71nc7](#comment_19_1Q8iqH31cKCqynoJRxR2PfJhzQr8wHdiHr): I would like to have a button with which I can add the current zeronet site to a blacklist and delete all its content on my harddrive. If I ever tried to visit that site again a warning would pop up and ask if i really want to open that site.\n> Right now it's kind of a hassle to find the site on ZeroHello and delete it and will only get harder in the future, when the number of zeronet sites increases.\n> You could then also have zeronet sites where people can list illegal zeronet sites, so others can add them to their blacklists\n\nI think a tiered system will be necessary in the future. Right now, viewing a website is the same as distributing it. But If I click a link I am immediately seeding it's content. There should be some process in between in order for people to decide if they want to share that. This process could be combined with a reddit-like voting system. \n\nalso maybe statistics about shared sites (like how many times something i shared or help distribute was flagged as <tag> by someone (or just someone i trust).\n\nThere could still be a role for moderators in the form of their 'opinions' being like a subscription for others. these opinions could (if i allow them) directly decide, if I seed some content.",
+				"added": 1457276979
+			},
+			{
+				"comment_id": 17,
+				"body": "> [ekaterina](#comment_88_1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD): Some great ideas here, but please be careful about any ideas where the majority of people decides for everyone else, things like downvotes. Anyone who used Reddit for some time knows downvotes get abused. And the majority of people are sometimes idiots. Look back at history to see some of the majority decisions/beliefs that were terrible in hindsight. Slavery, genocides, killing all heathens, homophobia (which is still the majority in some countries), etc. We are not different today and we won't be any different tomorrow, we will always fuck up and hopefully learn from our mistakes. There always needs to be a place for the truth, for ideas that challenge the status quo, even if it is unpopular at the moment. If even a decentralized system starts censoring, we are well and truly fucked as a society. \n> There are things I want to censor for myself, illegal porn comes to mind, yes we need better tools for that eventually, I don't want to seed that stuff, but do you really want yet another tool where someone can censor things for everyone else? We already have that, it's called the (centralized) internet. Empower the user to choose what he wants to censor, don't take away his freedom by imposing censorship on him.\n\nI fully agree. \nI want to be able to censor things for me. But additionally I think a system where I can choose to let trusted peers decide as well (for example in the form of upvote/downvote for zeronet sites, accounts or individual posts) for me could be helpful. \nThe hidden posts should still be visible somehow, (like in reddit, where some posts are minimized due to massive downvoting) but I am willing to let a group of people in on the decision about what I want to see AND share. Like a subscription for something.\n\nThere is actually an idea for a a form of government called liquid democracy. The idea is to (in theory) be able to participate in any legislatural process (writing laws, changing them, voting over the proposals and also voting for the final law). But it is also possible to delegate one's own vote to another person. This other person can again delegate the vote to another person. These delegates can be chosen per topic. This makes possible to let people we trust decide in certain fields. (Maybe a friend is pretty competent on environmental things in general -> i delegate my vote to this friend (i trust him/her to decide for me)). In my opinion this is a very interesting idea in general. It would also make it possible to change delegates fast in order to make delegates more responsible. Today i can vote every 4 years, and after the election the delegates are save to change whatever opinion they have for the next 4 years.\nwell i drifted a little here :)\n\nlet me say: \nI'd like to be able to choose trusted peers in order to somehow preselect the content i want to see and share automaticly.",
+				"added": 1457297345
+			},
+			{
+				"comment_id": 19,
+				"body": "> However, the upvote/downvote thing with automatic blocking depending on the peers you trust sounds overcomplicated to me.\n\nYou are right. This is complicated. In my mind I was already aiming far into the (hopefully great) future of zeronet. Right now your solution is probably the simpler (and therefor more effective) one.\n\nBut if in the future there will be much more content, a system that is reducing the logistical work of figuring out what content should be shared and what not automatically needs to be there.\nA web of trust that would define the 'default setting' of our sharing behaviour could be practically...\n\nBut that's 'Zukunftsmusik' as the Germans say. (Zukunftsmusik = musik of the future)...",
+				"added": 1457454426
+			}
+		],
+		"7_17fgJ3tZjhM7HCkTkd5TWf2BLLWmhRKcXB": [
+			{
+				"comment_id": 18,
+				"body": "I'll try to list a few of the arguments from this discussion and from [this other post](http://127.0.0.1:43110/Talk.ZeroNetwork.bit/?Topic:2_17PhTjw3o2wPhxyKeM3Ss975eWZ1UMsjQC/If+someone+posts+something+illegal+how+to+I+protect+myself) in here.\n\n- we don't want censorship from a single entity in zeronet.\n- however, there should be a way to handle illegal activities/content (Porn, CP, etc) or to prevent Trolls from vandalizing personal pages in the comments.\n\nSome ideas, I have read over the last 2 days.\n\n- self-censorship should be possible (I cannot hide content from others, but I can hide content from myself)\n- users of zeronet want to better decide what content they are sharing from their own computers. (I want to be able to prevent content being seeded by me when it comes from a certain user).\n\njust my ideas:\n- a (tiered) voting system for content/users, where I have my own votes (1st/highest tier) and subscribed votes from trusted accounts (2nd tier) and trusted accounts from trusted accounts (3rd/4th/5...th tier). The voting would not be absolute anymore (like reddit where a central website is accumulating all votes to position a post in an absolute coordinate system). Now the voting would depend on what peers I subscribe to.\n- the vote-count could be combined with the seeding process. If my web of trust says a post is CP, I could enable the automatic blocking of said post. I can still check out the post and decide myself later.\n- this model of subscribing could work also for certain tags. A tag like NSFW would be placed next to a post, if this post was flagged by my subscribed NSFW-tag-feed.",
+				"added": 1457348726
+			}
+		],
+		"1_16nZf7G4qaYRtFpHM9MM1A32nV5oqU9TW1": [
+			{
+				"comment_id": 20,
+				"body": "I made a blog where I post some kind of \"art\". \n[check it out here](http://127.0.0.1:43110/1HzKesHsWG3N96CfW9eC2aL9VKY7EDm2Zj)",
+				"added": 1457687263
+			}
+		],
+		"4_1CMYxdit4qq9QGk9DYRu2ruRPd2YDGckH8": [
+			{
+				"comment_id": 21,
+				"body": "> [nofish](#comment_478_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): Sure, for example this site (ZeroTalk) almost like a multiuser blog :) It just need some design modifications are you are done.\n\nhm. That's good to hear.\nWould I need to add more categories of input to a post in order to make it look like a blog post?",
+				"added": 1457723648
+			}
+		],
+		"4_1NzjwWNcVjsX1ndBgkgC1EM5EUzMACGm8L": [
+			{
+				"comment_id": 22,
+				"body": "how does it work?\ncan you explain the process? Is the video shared like a normal torrent? (I heard, that zeronet wasn't able to split up individual files (like the normal torrent method), yet.",
+				"added": 1457824232
+			}
+		],
+		"1_1LoyRxaxKN6jn6urKfUeqPFuV37BNJFDc5": [
+			{
+				"comment_id": 23,
+				"body": "> [nofish](#comment_504_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): You can find non-english \"subreddits\" under the link \"≡ MORE\". If anyone know other, active ZeroTalk forums I can add them as well\n\nAre they automaticly downloaded/seeded?\nIf not, that would be preferrable imo. Then subreddits would be like our preferred communities, that we like to share with others.",
+				"added": 1457899163
+			},
+			{
+				"comment_id": 25,
+				"body": "> [nofish](#comment_505_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): No, everyone have full control of what he/she seeding. Why would you seed Spanish sub if you are not interested in it?\n\nI am not sure about the exact inner workings of websites, yet.\nSo the Espagnol/Fr/Rus sites are indeed different 'sites'?\nThat is cool!\n\nCould you add something like a SciFi-site/reddit/\n\nbtw I want to propose a certain nomenclature: subreddits/subforums could be called (drummroll):\n'subzeros' :)",
+				"added": 1457899833
+			},
+			{
+				"comment_id": 26,
+				"body": "> \"Subzero\"s sounds so cool!\n\nis the plural of it subzeroes or subzeros ? (no native speaker here... )",
+				"added": 1457900645
+			}
+		],
+		"3_14gsmmDALpphFSCB6nM57HtfPsGckNpjZE": [
+			{
+				"comment_id": 24,
+				"body": "There shouldn't just be a a music section on PLAY.\n\nWe need something like soundcloud. \nzero/sound",
+				"added": 1457899546
+			}
+		],
+		"10_14XxpXNGMLsyeQxikacrbQnAFXVyhN5Ngx": [
+			{
+				"comment_id": 28,
+				"body": "> [ks](#comment_29_14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx): And/or refer to a FAQ section in the ZeroWiki.\n\nThe FAQ should be an official feature of ZEROTALK. added right to the left under [more].",
+				"added": 1458057276
+			}
+		],
+		"8_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": [
+			{
+				"comment_id": 29,
+				"body": "- How can I get a .bit domain?\n- How can I use Tor? (I'd like to know that, too! - haven't been able to install Tor properly on my Fedora-Linux)\n\nrelated: We should maybe also have video tutorials *inside* of zeronet. It's of course totally cool to view everything on youtube, but it would be even more a proof of concept, to have them completely here. ",
+				"added": 1458066919
+			}
+		],
+		"7_1CMYxdit4qq9QGk9DYRu2ruRPd2YDGckH8": [
+			{
+				"comment_id": 30,
+				"body": "> [nofish](#comment_514_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): input.text:focus, textarea:focus { border-color: #5FC0EA; outline: none; background-color: white }\n\nAHHHHH _THANK YOU!_\nI was searching for this so long :D.",
+				"added": 1458069519
+			}
+		],
+		"4_1EMpuiFM1NLZmAVyoAWnwi8VwiZVV4dcnN": [
+			{
+				"comment_id": 31,
+				"body": "I hate this shit! stupid fucking shit game!\n\nedit ... i am soooo bad. I didn't manage 2 tubes.",
+				"added": 1458085543
+			}
+		],
+		"8_1CMYxdit4qq9QGk9DYRu2ruRPd2YDGckH8": [
+			{
+				"comment_id": 32,
+				"body": "> [basxto](#comment_51_1PVcdu7USZH2kHMETbqDYLPjJZKCDWM52k): http://127.0.0.1:43110/Talk.ZeroNetwork.bit/?Topics:3_1PVcdu7USZH2kHMETbqDYLPjJZKCDWM52k/Technical+Discussions\n> here you are\n\noh wow! nice. I didn't know we could create subforums on sites we do not own...",
+				"added": 1458167895
+			},
+			{
+				"comment_id": 33,
+				"body": "> [basxto](#comment_51_1PVcdu7USZH2kHMETbqDYLPjJZKCDWM52k): http://127.0.0.1:43110/Talk.ZeroNetwork.bit/?Topics:3_1PVcdu7USZH2kHMETbqDYLPjJZKCDWM52k/Technical+Discussions\n> here you are\n\nOk one question. It is not showing in the normal ZeroTalk site main view. Would it be displayed if nofish would create the forum?",
+				"added": 1458168376
+			},
+			{
+				"comment_id": 36,
+				"body": "> [nofish](#comment_523_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): It was a bug, fixed now!\n> BTW imho \"ZeroNet site development\" would be more clear title\n\nyes I think too! or maybe 'ZeroNet web development' also.\nMaybe that can be changed by someone. I could also re-create the post I did in the sub-group 'Technical etc'.\n\nedit: i am very slow... :/",
+				"added": 1458170845
+			}
+		],
+		"6_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": [
+			{
+				"comment_id": 34,
+				"body": "just a small side question: Is it possible for 2 computers to see/connect to each other in the same LAN?",
+				"added": 1458168628
+			},
+			{
+				"comment_id": 35,
+				"body": "> [nofish](#comment_525_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): I have not tested it, but i think this could work: enable bootstrapper plugin on one node, then add it's IP to --trackers on both node and use --ip_external 192.168.0.x.\n\nok, i have no idea, that this means :) I'll check the docs about bootstrapper...",
+				"added": 1458169438
+			}
+		],
+		"11_1CMYxdit4qq9QGk9DYRu2ruRPd2YDGckH8": [
+			{
+				"comment_id": 37,
+				"body": "> [nofish](#comment_526_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): Topic, Topic group, Topic with link\n\nmind -> -> -> -> -> **blown**",
+				"added": 1458172139
+			}
+		],
+		"12_1CMYxdit4qq9QGk9DYRu2ruRPd2YDGckH8": [
+			{
+				"comment_id": 38,
+				"body": "> [nofish](#comment_527_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): It's looks nice to me, but it's OS / Font / Browser dependent, whats yours?\n\nLinux (Fedora) / Google Chome.\nin Firefox the button looks slightly different, but it is still positioned slightly higher than the rest of the info line. strange.",
+				"added": 1458175848
+			},
+			{
+				"comment_id": 39,
+				"body": "> [nofish](#comment_528_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): Will try to check, btw you should sign/publish your site, because the css is different from the signed and published one.\n\nI did sign it. I have to sign it everytime I change something. \ni always did\n\n```python zeronet.py siteSign 1BrgX...JF3\n```",
+				"added": 1458176178
+			},
+			{
+				"comment_id": 40,
+				"body": "> [nofish](#comment_529_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): You have to add --publish to the end of the command.\n> Edit: works now, but the upvotes are way off for me (almost reaches the upper border)\n\nok I published it. (seems I never did it before...) Does this mean that nobody every saw my css but me? (up until this momen of course)",
+				"added": 1458176615
+			}
+		],
+		"6_1DcDDitsjFJohvwonPmpibRChmA7uGxqL7": [
+			{
+				"comment_id": 41,
+				"body": "_yes!_ Curators or moderators could be something like 'collections subscribtions' and 'filter subscribtion'. They could be added **voluntarily** by every zeronet user to influence the seeding behaviour of the own node.\n\nI would like for example to have a blacklist that i can subscribe to that is automatically blocking every user or post that someone (i trust) put onto the blacklist. This could prevent users (me) to seed illegal content. It could also prevent me from content that I just don't want to spread (nazi propaganda for example - but then I would probably have to subscribe to another list/curator).\n\nI want to expand a little on the idea. \nThere could be single curators and collectives of curators. A single curator could be an expert in a certain topic - It would be like reading her/his blog (which would have links to other sites). A collective of curators could just be a group of people. Maybe like the circles of google+. A post's rating would get a higher significance (for me) if some people in a circle i have subscribed to are sharing/blocking it or have liked/disliked it.",
+				"added": 1458309669
+			}
+		],
+		"1_1DpjGe8YZWP3idvaNTbBbHzuda341g4W2k": [
+			{
+				"comment_id": 42,
+				"body": "follow this sub_topic here: http://127.0.0.1:43110/Talk.ZeroNetwork.bit/?Topics:3_1PVcdu7USZH2kHMETbqDYLPjJZKCDWM52k/Zite+development",
+				"added": 1458349142
+			}
+		],
+		"14_1CMYxdit4qq9QGk9DYRu2ruRPd2YDGckH8": [
+			{
+				"comment_id": 43,
+				"body": "btw thank you! I had no idea about the whole process...",
+				"added": 1458516614
+			}
+		],
+		"9_17i7Y7r8nTaCfLbCAuaKyc4R5BbKZYU2Hr": [
+			{
+				"comment_id": 44,
+				"body": "~ 1461501637330902918203684832716283019655932542976",
+				"added": 1458531624
+			}
+		],
+		"1_12YJpSQABsv4YyyiuVgBN8swbsuSKPPef6": [
+			{
+				"comment_id": 45,
+				"body": "lol :D\n\nnice try.\n\nbtw the bitcoin adress from the [Docs website](https://zeronet.readthedocs.org/en/latest/) is this one:\n\n1QDhxQ6PraUZa21ET5fYUCPgdrwBomnFgX\n\ncheck it yourself. Don't trust me.",
+				"added": 1458572901
+			}
+		],
+		"1_163rm8X1WReQzp1uAZjbrCHkF7En1VTXbU": [
+			{
+				"comment_id": 46,
+				"body": "nette idee, aber bitte übernimmt das jemand, der auch ab und zu mal spam/getrolle entfernt. Das ist hier im normalen Forum schon nervend. In einem deutschsprachigen Forum könnte das ja noch schwieriger werden... :)",
+				"added": 1458579786
+			},
+			{
+				"comment_id": 48,
+				"body": "> [basxto](#comment_82_1PVcdu7USZH2kHMETbqDYLPjJZKCDWM52k): Man soll ja als Zite-Owner die User-Ordner ändern können, meinte nofish vor kurzem oder klang zumindest so. Ich würde aber eher Inhalte ausblenden, mit so nem „dieser Beitrag wurde als Spam eingestuft, trotzdem anzeigen“ und es in den „weitere Themen“-Bereich verbannen.\n\nso in etwa könnte das funktionieren.\nAllerdings wäre es bestimmt auch noch ganz interessant, falls in Zukunft die Möglichkeit besteht, bestimmte Beiträge nicht zu seeden. Ne Meinung kann jeder haben. Aber ein Diskussionsforum sollte zur - jo - Diskussion benutzt werden. Wenn leute nur rumtrollen und eine sachliche Diskussion behindern, dann will ich auch nicht mitmachen, diese Inhalte aktiv mitzuverbreiten. Eine Information über einen 'nicht einsehbaren' Inhalt sollte aber immer da sein. Irgendein Feld, wo man draufklicken kann um es sich dennoch anzusehen. Falls man sowas aktiviert hat, würde der Inhalt auch erst nach dem anklicken nachgeladen/geseeded werden. \nDas würde langfristig auch dazu führen, dass die Diskussionsteilnehmer ihre eigene Diskussionskultur aufpolieren, um im Gegenzug dafür Bandbreite zu bekommen. Wer dann immer nur undifferenzierten Quatsch posted wird dann langfristig weniger gelesen. Find ich ok. Sowas ähnliches wie ne [Trolldrossel :)](https://www.youtube.com/watch?v=ZG4FawUtYPA) brauchen wir wahrscheinlich irgendwann.",
+				"added": 1458588724
+			},
+			{
+				"comment_id": 49,
+				"body": "> [whateva](#comment_5_16Vj2Cxw7UcghVxoRiiE4wJ7k7dtHM4SM6): Und zwar die Trolldrossel  konkret ausprogrammiert gegen den spammer lucky-puke. ich fang schon mal an...\n\nHui wunderbar dein Spitznamen-Game ist aber allererste Sahne!\n\n- lukiPuke\n- lucky-puke\n\nIch bin gespannt welche Stilblüten meines Nicknames hier als nächstes erscheinen. Ich aktualisiere die Liste mal wenn da noch kreative Wortspielchen kommen. Freu mich drauf.",
+				"added": 1458589063
+			},
+			{
+				"comment_id": 50,
+				"body": "wusste gar nicht, dass es in Deutschland so viele Rednecks gibt.\n\nWas man nicht kennt, das mag man nicht.",
+				"added": 1458590511
+			}
+		],
+		"17_1CMYxdit4qq9QGk9DYRu2ruRPd2YDGckH8": [
+			{
+				"comment_id": 47,
+				"body": "> [basxto](#comment_79_1PVcdu7USZH2kHMETbqDYLPjJZKCDWM52k): Yep, you can add further owners to \"signers_sign\", a zite can have multiple owners\n> http://127.0.0.1:43110/17Kom2G5qNDc6NaQwv445h1gFzxkY3ZtZe/site_development/content_json/\n\nthank you",
+				"added": 1458580590
+			}
+		],
+		"2_16odYTnUpF26qivssGsSuwpLgdMQkvK8qh": [
+			{
+				"comment_id": 51,
+				"body": "**\"Some men just want to watch the world burn.\"**\n\nFor new people around here: There's a lot of hate and trolling going on here like this post here. This usually happens in uncensored communication platforms. So beware, don't take these people too serious. Someone choosing the name 'unab0mber' is certainly not interested in a reasonable discussion.",
+				"added": 1458652612
+			}
+		],
+		"18_1CMYxdit4qq9QGk9DYRu2ruRPd2YDGckH8": [
+			{
+				"comment_id": 53,
+				"body": "THAAAANKS :)\n\nI had to contain my shit for 2 days!!!\nma maaan!",
+				"added": 1458923673
+			}
+		],
+		"2_1BDapygZHNG8GxEuSsEpK9Xipm9mFfW1F2": [
+			{
+				"comment_id": 54,
+				"body": "I think Javascript is actually working on all zites (zeronet sites). \nAlso: there's a sub-category for all kinds of technical discussions:\n[zite development](http://127.0.0.1:43110/Talk.ZeroNetwork.bit/?Topics:3_1PVcdu7USZH2kHMETbqDYLPjJZKCDWM52k/Zite+development)",
+				"added": 1459011047
+			}
+		],
+		"7_17i7Y7r8nTaCfLbCAuaKyc4R5BbKZYU2Hr": [
+			{
+				"comment_id": 55,
+				"body": "Ok one absolutely great one (although It is taking ages for every new episode ...)\n\nA Life Well Wasted\n\nthere are actually only ~7 episodes out there. But each is a great little thing. It is about gaming stuff (history/culture/people) and It is brilliantly mastered. The sound is great. It isn't just information, it is also the form of it. You have to listen to it. \n\nAnd: I have to check out a _lot_ of podcasts in the next weeks :D\n\nbtw for all the germans here: \ncre.fm (--> das Ohr!!!, Brettspiele, Neuronale Netze!, Bier)\nlogbuch netzpolitik ( ~every week ).",
+				"added": 1459290068
+			}
+		],
+		"2_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": [
+			{
+				"comment_id": 56,
+				"body": "> [proba](#comment_2_1KkMG9dp4HYwhmjGZJYgUcKS3aV1AmfxYq): MarkDown Test\n\n**italic**\n_bold_\n`both`\n_**code**_",
+				"added": 1459549604
+			}
+		],
+		"20_1CMYxdit4qq9QGk9DYRu2ruRPd2YDGckH8": [
+			{
+				"comment_id": 57,
+				"body": "> [kaffie](#comment_103_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh): For filesharing, there's IPFS and torrents.\n> For IRC, we have stuff like ZeroMedia.\n\nWell, torrents are a big problem from where I come from (not anonymous).\nI'll have to check out IPFS though.",
+				"added": 1460634743
+			}
+		],
+		"2_1GtJqyJRsuZhmxVtw5USgvqGbUmVH7EmBD": [
+			{
+				"comment_id": 58,
+				"body": "slightly unrelated question: Why is this post here showing up in my newsfeed / ZeroHello but I cannot find it on ZeroTalk?",
+				"added": 1460984890
+			},
+			{
+				"comment_id": 60,
+				"body": "hm very strange. Now it is there. Maybe some kind of glitch?\nto clarify: this post here was accessible from my zeronet dashboard (ZeroHello). There it was in the feed.\nBut when I went to ZeroTalk directly it wasn't there.\n(I didn't search anything - restarted zeronet even, but it wouldn't show).",
+				"added": 1460985414
+			}
+		],
+		"2_1P1Z6QcGaehuexRE5s8AcDnVi7ykErBMSG": [
+			{
+				"comment_id": 59,
+				"body": "This is absolutely necessary! Glad someone finally made this!",
+				"added": 1460985261
+			}
+		],
+		"7_13dUD5qbY6LaXH9pfh5iDgXHgKjCZPxvZV": [
+			{
+				"comment_id": 61,
+				"body": "maybe everything warez-related should go into another forum?\nI don't mind a few links here and there, but if it gets too much ...",
+				"added": 1461154242
+			}
+		],
+		"1_1ARmoCDkmZkYWAMCipxPqbUoT4akypoPoE": [
+			{
+				"comment_id": 62,
+				"body": "Life is very strange. There is no absolute meaning, no absolute purpose, only the things that we decide to be are important. It took me a long time thinking to realize this. There is no absolute measuring system for successfully living one's life. We all lose everything at some point. Even the past will be erased, since the past is just a certain part of our reality, which is created by our brains. If our brains die, our memory goes with it. It will be If we never existed in the first place. \nI had a hard time when I came to this conclusion: There is no purpose in life.\nLater, I realized that this was actually the most liberating idea I ever had. It made me realize, that everybody else, who thinks that they are living a better life than I do (or are regarded by society as in *a group of people*) will in the end loose this as well. They will also seemingly never have existed in the first place, after they die. \nSo If there is no purpose, no measure of success in life, I can suddenly DO WHATEVER I WANT TO DO. \nThere is nobody there who can reasonably say, that I failed in Life. I can make my own (absolutely) equally correct definition of measuring my life's success. Also, I don't have to proof anything. I don't even ave to proof to these people that I am right. \nI am free, to live my life any way I want to. If people think I am crazy, They are mostly just too closeminded, to examine their own life.\n\nDo with your life what you want. And think about what you want, and why you want it. A lot of things we want tend to be things we are told that we have to want. And if we cannot have them, we punish ourselves with self-loathing instead of just realizing, we could be happy without them.\n\nThere's many people out there feeling the way you do, mostly, because with internet wee have more ways of educating us. Some people (like you) ask the right questions about the purpose of life and realize, that society has no answers behind the thin facade of our superstitions. \n\nI wish you good luck. And I hope, you will come back here often and discuss.",
+				"added": 1461591175
+			}
+		],
+		"1_16S7cvRVax2agHYdAcWDRicQdZXZ6PAhmt": [
+			{
+				"comment_id": 63,
+				"body": "yes, But i cannot understand you :)",
+				"added": 1461844449
+			}
+		],
+		"23_1CMYxdit4qq9QGk9DYRu2ruRPd2YDGckH8": [
+			{
+				"comment_id": 64,
+				"body": "I found something here: https://codepen.io/gil--/pen/bNxZWg\n\nBut I am not sure how should I put this into the existing .html .css and .js of the my zeronet blog. Do I just add this, or would this interfere somehow with existing things ?",
+				"added": 1463836924
+			},
+			{
+				"comment_id": 65,
+				"body": "> [nofish](#comment_667_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): The giftime site is basically a modified zeroblog, if you clone it you will get the same video player automatically\n\nYes, But Now I already have created my blog.\nAlso I just want to have the videos play on mouseover.\n\n> [ancap](#comment_40_1FYXQGLBeNabf5jZHgP4CwzbmJSKaK4oMz): Why don't you try and let us know if it works. I'm also curious.\n\nI tried, but it didn't work so far :(\nHave to put more time into it probably.",
+				"added": 1464092318
+			},
+			{
+				"comment_id": 66,
+				"body": "> [namecoinfontas](#comment_31_1P8VJL2iKWfUB4hqQkrFdXCbC8RrimAZoZ): http://127.0.0.1:43110/zeroadmin.bit shows an easy way to display video\n\nYes I know how to include a video myself :)\nsee: http://127.0.0.1:43110/1HzKesHsWG3N96CfW9eC2aL9VKY7EDm2Zj/?Post:94:paper_wall_paper (the bottom one is not a gif, but a video).\nMy problem is, that with ~5 videos playing simultaniously on my blog they all stutter. I am searching for a method of only playing them on mouse-over. Doesn't work so far :/",
+				"added": 1464300023
+			},
+			{
+				"comment_id": 67,
+				"body": "> [ancap](#comment_49_1FYXQGLBeNabf5jZHgP4CwzbmJSKaK4oMz): \"Watch later\" would be nice (not instead, but in addition to what you want) because many access the network via Tor which is slow and vids can't be played unless they're downloaded first. And if I'm not mistaken, files larger than 1MB have to be manually downloaded, but then you have to wait, which is where \"Watch later\" would make more convenient.\n\nhm that could be combined with something (maybe a script or so) that just creates an image and upon clicking it replaces the image with the actual video and (and starts downloading it). So slow-connected users can first see what it is that they are seeing. \nOn the other hand it reduces the amount of shared content from your (or my) site, resulting in low functionality for most people.\n\nBut I would be happy with something that would only play on hover. Cannot manage to put it into my site. :(",
+				"added": 1464778991
+			}
+		],
+		"1_12xXVxkjN2oM6hwtzaSSJxAaiT7VW51VHQ": [
+			{
+				"comment_id": 68,
+				"body": "I prefer Signal to whatsapp even though they use the same encryption. The difference is that Signal is OpenSource. Whatsapp is closed source so in the end you have to trust Whatsapp that they don't somehow check you messages *before* encrypting them. It's end-to-end encrypted sure, but both ends are controlled by whatsapp and run opaque code.\nSignal is open and has been independently audited before.",
+				"added": 1467453831
+			}
+		],
+		"8_1KdnTJVBGzEZrJppFZtzfG9chukuMv8xSb": [
+			{
+				"comment_id": 69,
+				"body": "51K/100K \n:D \n;)",
+				"added": 1468412901
+			}
+		],
+		"24_1CMYxdit4qq9QGk9DYRu2ruRPd2YDGckH8": [
+			{
+				"comment_id": 70,
+				"body": "Well it seems as if it failed. Erdogan didn't even blink before continuing his 'cleansing' by removing 2500 judges from their offices. With the failed coup he can suppress critics even more.\n\nWhat a giant mess.",
+				"added": 1468683989
+			}
+		]
+	},
+	"comment_vote": {
+		"102_1QBLGLcgKfcpfLmiDYuDzUKVXFfmTAew55": 1,
+		"34_17i7Y7r8nTaCfLbCAuaKyc4R5BbKZYU2Hr": 1,
+		"35_17i7Y7r8nTaCfLbCAuaKyc4R5BbKZYU2Hr": 1,
+		"6_1M5ztUWkCMP5Pv7MjwApWT7CNvWimGFaFa": 1,
+		"7_19gFBQKVBoGDvewv8JLmYDa8ZQGvVTUhhL": 1,
+		"13_17fgJ3tZjhM7HCkTkd5TWf2BLLWmhRKcXB": 1,
+		"2_1LVL5r7L5AwFk7waWmBwuVZ8Fcg9NDxakY": 1,
+		"88_1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD": 1,
+		"27_17fgJ3tZjhM7HCkTkd5TWf2BLLWmhRKcXB": 1,
+		"48_1MEWJRMLgvofqG9Mbsb2Rc4hFFyv7HeRx7": 1,
+		"17_1EMpuiFM1NLZmAVyoAWnwi8VwiZVV4dcnN": 1,
+		"478_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"29_14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx": 1,
+		"514_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"13_1NzjwWNcVjsX1ndBgkgC1EM5EUzMACGm8L": 1,
+		"50_1PVcdu7USZH2kHMETbqDYLPjJZKCDWM52k": 1,
+		"512_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"90_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1,
+		"549_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"44_17fgJ3tZjhM7HCkTkd5TWf2BLLWmhRKcXB": 1,
+		"95_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1,
+		"96_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1,
+		"86_1KwTTgPRSTHFmmJAFBt6kQfdyNeSM5KJuH": 1,
+		"2_1B1KzuAuS2KYZ57Zg6VGoYrFpBKDpqRjdg": 1,
+		"11_1KA9sLxVY9KBmdEV73UqXXQhDe4ZS8k3LY": 1
+	}
+}

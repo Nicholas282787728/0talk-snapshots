@@ -1,0 +1,42 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "Nothing work on fappening? http://127.0.0.1:43110/17mwfT4wY11A1GVznXoZMQEfi9TUijp7k6/",
+			"body": "Like the title says,  I can't visualize any images or videos",
+			"added": 1472458726
+		}
+	],
+	"topic_vote": {},
+	"next_comment_id": 5,
+	"comment": {
+		"16_19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ": [
+			{
+				"comment_id": 1,
+				"body": "Hi, why I can't watch anything? the watch it buttons are unclickable.",
+				"added": 1472458332
+			}
+		],
+		"1_1CiHRyU3rHFGR1rEyTPDYH7xjN99iPZkBJ": [
+			{
+				"comment_id": 2,
+				"body": "> [kaffie](#comment_182_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh): Do you have ipfs?\n\nNo I need ipfs for it ? Sorry if it's a noob question I'm new on Zeronet",
+				"added": 1472504982
+			},
+			{
+				"comment_id": 3,
+				"body": "Sorry but that message dissapears fast and I didn't noticed it.\nBut I have downloaded ipfs and did the init and ran a daemon even a test it  with this page   \n> http://localhost:8080/ipfs/QmVc6zuAneKJzicnJpfrqCH9gSy6bz54JhcypfJYhGUFQu/play#/ipfs/QmTKZgRNwDNZwHtJSjCp6r5FYefzpULfy37JvMt9DwvXse ,\n\n which works by the way,but fappening still didn't work for me on Opera and Firefox",
+				"added": 1472620684
+			}
+		],
+		"6_1KzaKud9cUZB7HcgHnhrZqyuq2NnTeW6PR": [
+			{
+				"comment_id": 4,
+				"body": "> [iamdeath](#comment_3_1DcE9QfZbfLZhXxgtQ8Ui3oMZvs9NVjqZB): More non-Tor users.\n\nWhy? I'm not a Tor users but I don't know why is it a problem to have many Tor users on Zeronet?",
+				"added": 1472622790
+			}
+		]
+	},
+	"comment_vote": {}
+}

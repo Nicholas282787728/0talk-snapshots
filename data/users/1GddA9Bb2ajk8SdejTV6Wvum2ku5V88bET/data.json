@@ -1,0 +1,27 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {
+		"1_1GV38NrtMvxkf2N8msQkkTnjz38ABfiaVE": 1
+	},
+	"next_comment_id": 3,
+	"comment": {
+		"1_16S7cvRVax2agHYdAcWDRicQdZXZ6PAhmt": [
+			{
+				"comment_id": 1,
+				"body": "yo, ... sup ?",
+				"added": 1462915046
+			}
+		],
+		"2_1JYGDGm5LLLaSdgE6a6zzPcUDLrd7b7z73": [
+			{
+				"comment_id": 2,
+				"body": "stackoverflow.com",
+				"added": 1462915088
+			}
+		]
+	},
+	"comment_vote": {
+		"45_19qsuxKBkNZWYft3epWgn6u3gG82sQHs6n": 1
+	}
+}

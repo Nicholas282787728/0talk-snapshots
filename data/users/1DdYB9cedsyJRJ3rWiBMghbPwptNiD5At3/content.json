@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HBqyQrL/YJ6qU3QNBbCkXPylGR+K8HMFnHFU7ZShQlkQYDnGlTEXMqjWRukONeNSG85KFIhGhldejDb42LzukPI=",
+ "cert_user_id": "jonutella@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "22d52523b1bdb67b4c1c5754d2a1b385a6ad76f8954cf8a00c0147c0b6755cba",
+   "size": 1093
+  }
+ },
+ "inner_path": "data/users/1DdYB9cedsyJRJ3rWiBMghbPwptNiD5At3/content.json",
+ "modified": 1460306598.499,
+ "signs": {
+  "1DdYB9cedsyJRJ3rWiBMghbPwptNiD5At3": "HDBHqZOaCty221GWygK2ZDL9G8Ig05P9d7krhoq1puJJWpvQDoY2xSv3iLTJPe6maKegv3tv62lWG4RjtxUixWc="
+ }
+}

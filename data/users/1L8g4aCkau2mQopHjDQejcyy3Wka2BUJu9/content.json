@@ -1,0 +1,15 @@
+{
+ "cert_auth_type": "web", 
+ "cert_sign": "G38YlrtmMlJI4TTddMHYZEv6bEv67Gnj5WN0MWJzqOySoGU4L3YkWbO5DTwo3psgPEA098KzeZ7kZHyNZhr/5UY=", 
+ "cert_user_id": "imises@zeroid.bit", 
+ "files": {
+  "data.json": {
+   "sha512": "c5870dee2d29c704381d9ff3fca5c60aa98fa7c19c14038da056667fe502a308", 
+   "size": 1796
+  }
+ }, 
+ "modified": 1456342631.204469, 
+ "signs": {
+  "1L8g4aCkau2mQopHjDQejcyy3Wka2BUJu9": "HKTNR3hrK3Gw3NyQwXOEeWBLqTuuYKSXDVGGWRGR7fe3yLMIXMj/VtjdiqZpsGbfRMoNgqEpZrB1lsbKeGz+UJk="
+ }
+}

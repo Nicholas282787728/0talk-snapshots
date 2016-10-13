@@ -1,0 +1,40 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {
+		"1_1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC": 1
+	},
+	"next_comment_id": 6,
+	"comment": {
+		"1_1GV38NrtMvxkf2N8msQkkTnjz38ABfiaVE": [
+			{
+				"comment_id": 1,
+				"body": "As far as I know, it's not safe. Your real IP may leak to the trackers. Also, it's not recommended, because it will decrease the performance for other users. You might try the tribler torrent program, which has it's own tor-inspired anonymising network: https://tribler.org/.",
+				"added": 1463396195
+			}
+		],
+		"1_12zyC2je1V8Sfq6C5d6CSzUkjYf4bEdva4": [
+			{
+				"comment_id": 2,
+				"body": "There's an explanation about the tor modes, but unfortunately it doesn't clearly explain when the 'enable' mode uses the tor network, and when it does not: \n> Tor support has 3 modes (set it by --tor [disable|enable|always]):\n> Disable: Do not connect to Tor network (you also loose ability to connect tor peers)\n> Enable (default): Connects to Tor network, use standard (clearnet) connection to other peers if possible, so it does not have any negative impact on download speed. If port open fails it sets up tor hidden services, so other peers able to reach you directly, this improve the network quality especially on new sites.\n> Always: Completely hides your IP and use Tor for every connection. \n\nhttps://www.reddit.com/r/zeronet/comments/3dk9k5/changelog/cym8g7b",
+				"added": 1463396518
+			},
+			{
+				"comment_id": 3,
+				"body": "So, with the default tor mode you aren't really anonymous? I think that's a bit misleading if it says on the start page that you are successfully using tor, but actually you are also using direct connenctions to many peers (without tor). There are probably tons of people who aren't aware of that.",
+				"added": 1463398216
+			},
+			{
+				"comment_id": 4,
+				"body": "> [nofish](#comment_658_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): By default it's not anonymous and even if you enable the tor always mode you still need to know what are you doing to protect your identity.\n\nYeah, I know. But even if you are using the tor browser (which prevents some IP leaks through flash, webrtc, etc.) you are still totally not anonymous, because zeronet will still etablish direct connections to some peers (in the default tor mode). I mean, it shouldn't say 'TOR: OK' on zerohello, because it's misleading. Maybe 'TOR: SOMETIMES' would be better, or 'TOR: MIXED'. It's just my opinion.",
+				"added": 1463399837
+			},
+			{
+				"comment_id": 5,
+				"body": "> [ancap](#comment_32_1FYXQGLBeNabf5jZHgP4CwzbmJSKaK4oMz): ZeroNet is not a privacy tool and as @klauszimmermann already pointed out, privacy and anonymity weren't the primary design goals. \nYeah, but then, with the default configuration, it shouldn't say \"TOR: OK\" on the top of the start page. That's misleading. Most people associate tor with internet anonymity.",
+				"added": 1463405025
+			}
+		]
+	},
+	"comment_vote": {}
+}

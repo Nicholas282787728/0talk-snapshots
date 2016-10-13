@@ -1,0 +1,56 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {
+		"1_15kuNrNeQtVRmDqENgbCqw6s3mG9noQ7zA": 1,
+		"1_1BQg5MQZ63aEQZMzLEXP6yY3hsgznKpaps": 1
+	},
+	"next_comment_id": 7,
+	"comment": {
+		"2_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": [
+			{
+				"comment_id": 1,
+				"body": "Whoa.",
+				"added": 1457964950
+			},
+			{
+				"comment_id": 2,
+				"body": "日本語大丈夫？",
+				"added": 1457964976
+			}
+		],
+		"1_1BQg5MQZ63aEQZMzLEXP6yY3hsgznKpaps": [
+			{
+				"comment_id": 3,
+				"body": "Arch Linux user. Before that, Ubuntu user for about 3 years (since 9.04 until maybe  11.10 or 12.04).",
+				"added": 1458650105
+			}
+		],
+		"1_15kuNrNeQtVRmDqENgbCqw6s3mG9noQ7zA": [
+			{
+				"comment_id": 4,
+				"body": "It seems like this case was all about setting a legal precedent. Now that it's looking like they might not win, they want to back out instead of setting the \"wrong\" kind of precedent.",
+				"added": 1458650225
+			},
+			{
+				"comment_id": 5,
+				"body": "> [crypton](#comment_53_17fgJ3tZjhM7HCkTkd5TWf2BLLWmhRKcXB): I think the reason they probably dropped the case (postponed it) was that the FBI actually found a different security hole in which to exploit the iPhone and now don't need any help from Apple.  And by dropping the case they won't have to share the security exploit with Apple and so it won't get patched.\n\nThe model of iPhone in question already had known exploits.",
+				"added": 1458651177
+			}
+		],
+		"1_1LBz6orS5KPtvoS7BaTsgquYnMsystDNjE": [
+			{
+				"comment_id": 6,
+				"body": "I have a raspberry pi2 running Arch Linux. Zeronet works fine on that.",
+				"added": 1460550822
+			}
+		]
+	},
+	"comment_vote": {
+		"2_1GgXbWMo4NkVQNKbLJFvEephA9rPLp9j2P": 1,
+		"51_17fgJ3tZjhM7HCkTkd5TWf2BLLWmhRKcXB": 1,
+		"5_15YUzYgogtiHYqXP5HXtdLS2dLZuxnvuRQ": 1,
+		"8_1JHQA9oFkFpFFRiscyT4N71AKLWg46pQ92": 1,
+		"50_17fgJ3tZjhM7HCkTkd5TWf2BLLWmhRKcXB": 1
+	}
+}

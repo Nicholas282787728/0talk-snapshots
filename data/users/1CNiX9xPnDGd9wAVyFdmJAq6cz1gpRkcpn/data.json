@@ -1,0 +1,15 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "Invisible Issue Post on GitHub For ZeroNet Repo",
+			"body": "The issues thread itself:\nhttps://github.com/HelloZeroNet/ZeroNet/issues/306\n\nSide by side comparison of logged in user view and anyone else's view.\nhttps://u.pomf.is/mqzsmw.png\n\nIt's been more than an hour since it has been posted, so I doubt it will turn up. It's not to report a technical issue (which is on GitHub's end anyways), but rather to express that there's a post to the issue that not everyone, or anyone at all can see.",
+			"added": 1457356364
+		}
+	],
+	"topic_vote": {},
+	"next_comment_id": 1,
+	"comment": {},
+	"comment_vote": {}
+}

@@ -1,0 +1,29 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {
+		"2_1Frg5nFndHFkmUaaGK7Qr46dRLX8a2BhBT": 1,
+		"2_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"3_1KzaKud9cUZB7HcgHnhrZqyuq2NnTeW6PR": 1
+	},
+	"next_comment_id": 3,
+	"comment": {
+		"2_1Frg5nFndHFkmUaaGK7Qr46dRLX8a2BhBT": [
+			{
+				"comment_id": 1,
+				"body": "I've been wondering the same thing. Tried the multiuser plugin, did all sorts of weird things.",
+				"added": 1460322331
+			}
+		],
+		"50_1GtJqyJRsuZhmxVtw5USgvqGbUmVH7EmBD": [
+			{
+				"comment_id": 2,
+				"body": "Needs a frontend.",
+				"added": 1461118477
+			}
+		]
+	},
+	"comment_vote": {
+		"29_1CMYxdit4qq9QGk9DYRu2ruRPd2YDGckH8": 1
+	}
+}

@@ -1,0 +1,17 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "NSFW links",
+			"body": "Drop your nsfw links here!",
+			"added": 1456953246
+		}
+	],
+	"topic_vote": {
+		"1_17dEBAxTcyJg38KfNtCvYWp7fddLKHv4rc": 1
+	},
+	"next_comment_id": 1,
+	"comment": {},
+	"comment_vote": {}
+}

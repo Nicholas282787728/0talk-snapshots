@@ -1,0 +1,33 @@
+{
+	"next_topic_id": 3,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "Can usernames be recovered or shared?",
+			"body": "I lost a username that I made yesterday because I deleted my ZeroNet-master folder. Besides data recovery, is there any way to get that uname back? \n\nAlso, how can I share my new username across multiple computers that I want to use to access ZeroNet?",
+			"added": 1457036916
+		},
+		{
+			"topic_id": 2,
+			"title": "If someone posts something illegal, how to I protect myself ?",
+			"body": "If someone posts an illegal image on an image board like 0chan, that syncs to my computer without my knowing. How do I protect myself from something I don't want in the first place? Do I just have to avoid image sites all together because someone might be posting illegal content?",
+			"added": 1457105832
+		}
+	],
+	"topic_vote": {
+		"1_17PhTjw3o2wPhxyKeM3Ss975eWZ1UMsjQC": 1
+	},
+	"next_comment_id": 2,
+	"comment": {
+		"1_17PhTjw3o2wPhxyKeM3Ss975eWZ1UMsjQC": [
+			{
+				"comment_id": 1,
+				"body": "> [stormcynk](#comment_4_1EPfU5BJ9VLBdWxrprrqFhTGfXMHy3z9HB): No, as far as I understand there isn't a way to recover the username once it's been deleted, besides recovering your users.json file.As far as sharing the username across multiple computers you just need to copy the users.json to each computer and put it in the data folder of zeronet before you start it up.\n\nthank you for the reply. i'll try to recover my previous users.json file",
+				"added": 1457037781
+			}
+		]
+	},
+	"comment_vote": {
+		"4_1EPfU5BJ9VLBdWxrprrqFhTGfXMHy3z9HB": 1
+	}
+}

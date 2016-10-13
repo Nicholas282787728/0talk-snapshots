@@ -1,0 +1,334 @@
+{
+	"next_topic_id": 10,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "Can someone send me zeromail?",
+			"body": "The echo bot is ignoring me :( eventi@zeroit.bit",
+			"added": 1457182284
+		},
+		{
+			"topic_id": 2,
+			"title": "How can I create another identity",
+			"body": "It seems like there are facilities for alternate identities, but I can't seem to figure out how to create one.",
+			"added": 1457187048
+		},
+		{
+			"topic_id": 4,
+			"title": "You've all got the wrong idea about social",
+			"body": "We have a ubiquitous publishing platform... we can share with one another easily, with no central entity deciding what we can do or not.  The only thing missing is registration and discovery and those are all doable",
+			"added": 1457553335
+		},
+		{
+			"topic_id": 5,
+			"title": "Pulling content from another site",
+			"body": "Is it possible for one site to pull content from another? For example, could my blog \"embed\" an image hosted in another blog?  I understand that I'd have to pull down a copy of the entire blog to do so, but is it even possible with ZeroFrame?",
+			"added": 1458270493
+		},
+		{
+			"topic_id": 6,
+			"title": "Repost: Pulling content from another (zeronet) site",
+			"body": "Is it possible for one site to pull content from another? For example, could my blog \"embed\" an image hosted in another blog? I understand that I'd have to pull down a copy of the entire blog to do so, but is it even possible with ZeroFrame?\n\nreposted since I saw this subcategory",
+			"added": 1458270783,
+			"parent_topic_uri": "3_1PVcdu7USZH2kHMETbqDYLPjJZKCDWM52k"
+		},
+		{
+			"topic_id": 7,
+			"title": "How does the Newsfeed mechanism work?",
+			"body": "",
+			"added": 1458383905,
+			"parent_topic_uri": "3_1PVcdu7USZH2kHMETbqDYLPjJZKCDWM52k"
+		},
+		{
+			"topic_id": 8,
+			"title": "Mathematical Diversion",
+			"body": "My attempt at explaining cryptographic card shuffling\n\nhttp://127.0.0.1:43110/eventi.bit/?Post:11:Pick+a+card...+any+card",
+			"added": 1459001057
+		},
+		{
+			"topic_id": 9,
+			"title": "Actually profitable Bitcoin Faucet",
+			"body": "I wasted a lot of time on other faucets, but this one gives over 10,000 satoshi per click.  Currently the Captcha is just a checkbox!!\n\nhttp://10000satoshi.com/register?ref=233527",
+			"added": 1461408700
+		}
+	],
+	"topic_vote": {
+		"2_17PhTjw3o2wPhxyKeM3Ss975eWZ1UMsjQC": 1,
+		"3_1LRrd96P7FiTcsyNXVzPM5jtpQoH1B4gYf": 1,
+		"2_13qeq1z87R1kQWDZUQYm3y7tDCLimnhfvS": 1,
+		"1_1BhtLu1iKdZ2HaBNUrDdmwqF11ZC4y3zL": 1,
+		"5_1MEWJRMLgvofqG9Mbsb2Rc4hFFyv7HeRx7": 1,
+		"4_1KcPohxmuqiNShTaAzJZLndm5aWtBZLuJn": 1,
+		"1_1FoCQCBaoX3Fi85goewPLRLr1mxFqmCKNU": 1,
+		"1_1LnyrYbdxDU1K78nEYVZkfJ1Q4SYP1ukFV": 1,
+		"4_1MEWJRMLgvofqG9Mbsb2Rc4hFFyv7HeRx7": 1,
+		"1_15P5kZhBwmwiuBmSUBSkBsT2DLEUYvn24u": 1,
+		"1_1PrEU3jo5aME6pebitM8DJ3Pm4KnsmzfpT": 1,
+		"4_1DcDDitsjFJohvwonPmpibRChmA7uGxqL7": 1,
+		"3_1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD": 1,
+		"3_1LJMypJ67iEBwah82xwVVdB8SGZ1mwqgHQ": 1,
+		"5_1LRrd96P7FiTcsyNXVzPM5jtpQoH1B4gYf": 1,
+		"11_14XxpXNGMLsyeQxikacrbQnAFXVyhN5Ngx": 1,
+		"10_14XxpXNGMLsyeQxikacrbQnAFXVyhN5Ngx": 1,
+		"3_1PVcdu7USZH2kHMETbqDYLPjJZKCDWM52k": 1,
+		"1_1Pvgpd3Qgmr8pCHFM1W8c9gQi9evLtm6UY": 1,
+		"10_1CMYxdit4qq9QGk9DYRu2ruRPd2YDGckH8": 1,
+		"2_1BidR2Pw65fTPeh1R3LbwCdfEJUPB6FLes": 1,
+		"1_1DpjGe8YZWP3idvaNTbBbHzuda341g4W2k": 1,
+		"2_18sw1reMFB1fpxc4vjfjoCrLaFs8UbMeQH": 1,
+		"15_1CMYxdit4qq9QGk9DYRu2ruRPd2YDGckH8": 1,
+		"2_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"1_1PRtPMsAohGekTGBAqKEZG1V8ZPX4iY2gW": 1,
+		"19_1CMYxdit4qq9QGk9DYRu2ruRPd2YDGckH8": 1,
+		"1_1NAiWdeFHBwVkAB9SqhL1ebACZqLTuk1mU": 1,
+		"9_1DcDDitsjFJohvwonPmpibRChmA7uGxqL7": 1
+	},
+	"next_comment_id": 36,
+	"comment": {
+		"1_1DcDDitsjFJohvwonPmpibRChmA7uGxqL7": [
+			{
+				"comment_id": 1,
+				"body": "> [cub3](#comment_9_1LRrd96P7FiTcsyNXVzPM5jtpQoH1B4gYf): I've sent you a ZeroMail just now.\n\nThanks cub3 - I got it",
+				"added": 1457182627
+			},
+			{
+				"comment_id": 2,
+				"body": "> [dadix](#comment_10_1BEvmD7jRfwieXU5H3o1rCT35Y3VV1p9TW): I think zeromail is not working at this momment, I have the same problem\n\nZeromail works, but not the echobot :/",
+				"added": 1457187193
+			},
+			{
+				"comment_id": 6,
+				"body": "> [nofish](#comment_429_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): Fixed the issue and the bot should work again!\n\nthanks nofish... in the mean time I made some friends",
+				"added": 1457201692
+			}
+		],
+		"3_1LRrd96P7FiTcsyNXVzPM5jtpQoH1B4gYf": [
+			{
+				"comment_id": 3,
+				"body": "Be sure to check the comments on the blog article about developing for ZeroFrame",
+				"added": 1457190228
+			}
+		],
+		"1_14WuynvAFSGKrHExccPBC2BiLdh2DF35Ut": [
+			{
+				"comment_id": 4,
+				"body": "Also http://127.0.0.1:43110/cryptonbits.bit/?Post:4:How+to+connect+your+.bit+domain+with+your+Zeronet+site",
+				"added": 1457190284
+			}
+		],
+		"1_1BhtLu1iKdZ2HaBNUrDdmwqF11ZC4y3zL": [
+			{
+				"comment_id": 5,
+				"body": "same",
+				"added": 1457196258
+			}
+		],
+		"5_1MEWJRMLgvofqG9Mbsb2Rc4hFFyv7HeRx7": [
+			{
+				"comment_id": 7,
+				"body": "I just wrote up a blog post for how to do this\n\nhttp://127.0.0.1:43110/159bRwxjgvNGfhvXw1qzXsTPjenMzy2P4n\n\nSorry it's a WIP",
+				"added": 1457260529
+			}
+		],
+		"2_1DcDDitsjFJohvwonPmpibRChmA7uGxqL7": [
+			{
+				"comment_id": 8,
+				"body": "I did finally get this solved: http://127.0.0.1:43110/159bRwxjgvNGfhvXw1qzXsTPjenMzy2P4n/?Post:3:Using+the+Multiuser+plugin",
+				"added": 1457270011
+			},
+			{
+				"comment_id": 10,
+				"body": "> [antiphase](#comment_28_1NoRNknY1JbJ8nMdn88LwczyMDFnR1GtNw): See my post in this thread: http://127.0.0.1:43110/Talk.ZeroNetwork.bit/?Topic:1_19y2tY5XJRD3YqFYn9vVgsq74nWBTPUcgv/How+can+I+make+a+new+ZeroID\n\nThanks @antiphase, that was exactly what I needed",
+				"added": 1457275658
+			}
+		],
+		"1_17oYQdLkvyzEVPH3hXRtK3ru4FLNKZUD3b": [
+			{
+				"comment_id": 9,
+				"body": "The point in being decentralized is that everyone has an equal voice.  That doesn't mean that you are obliged to listen to everyone. We should have a mechanism to decide as an individual not to listen to voices as we see fit... where it becomes censorship is when someone aside from me decides what I can and can't see.\n\nIdeally I'd like to see a mechanism to selectively block certain identified users at the viewer's discression.  It doesn't seem too hard to do (in ZeroTalk for example)",
+				"added": 1457275608
+			},
+			{
+				"comment_id": 11,
+				"body": "> [muja](#comment_57_17i7Y7r8nTaCfLbCAuaKyc4R5BbKZYU2Hr): This doesn't seem hard at all. We probably could do it today (with a few errors, probably). I imagine a script that would keep deleting the data/*/data/users/17i7Y7r8nTaCfLbCAuaKyc4R5BbKZYU2Hr/ folder (my user's folder). This would probably remove that user from your feed. The problem is that (I think) zeronet would keep downloading it. Not sure how that can be fixed without a built-in solution.\n\nI don't speak coffeescript (well I did years ago, but not any more) nor do I know the ZeroTalk schema, but js/TopicList.coffee has a function called loadTopics which has the query to list the topics available to you to view.  It'd simply be a matter of keeping per-user blacklists and using them in the topic query",
+				"added": 1457277763
+			}
+		],
+		"1_13AvYD3hX888Ey6y8kFEce3Ak8hVNLcdrg": [
+			{
+				"comment_id": 12,
+				"body": "you can also move the data directory and create a link to the new location",
+				"added": 1457277807
+			}
+		],
+		"3_168qV1Xxp2EyszrzdECLUwXrn9wGYjDdar": [
+			{
+				"comment_id": 13,
+				"body": "I wrote some things here: http://127.0.0.1:43110/eventi.bit Including how-to activate multi-user mode",
+				"added": 1457402819
+			}
+		],
+		"1_1FoCQCBaoX3Fi85goewPLRLr1mxFqmCKNU": [
+			{
+				"comment_id": 14,
+				"body": "Hello from NJ",
+				"added": 1457403663
+			}
+		],
+		"1_1HHSJHKhrpXzsGmtHhJmkk7hp2DZ9CRSN6": [
+			{
+				"comment_id": 15,
+				"body": "I wrote up instructions here: \n\nhttp://127.0.0.1:43110/eventi.bit/?Post:3:Using+the+Multiuser+plugin",
+				"added": 1457461779
+			}
+		],
+		"1_12xtj36axnhJ5M7jfCQNfDbMYK7hg7uvjM": [
+			{
+				"comment_id": 16,
+				"body": "I wrote about Multiuser here: http://127.0.0.1:43110/eventi.bit/?Post:3:Using+the+Multiuser+plugin",
+				"added": 1457492328
+			}
+		],
+		"1_1GtJqyJRsuZhmxVtw5USgvqGbUmVH7EmBD": [
+			{
+				"comment_id": 17,
+				"body": "> [angristan](#comment_63_1MEWJRMLgvofqG9Mbsb2Rc4hFFyv7HeRx7): Is there a ZeroTube ? :p\n\nnot yet ;)",
+				"added": 1457550069
+			}
+		],
+		"1_1PrEU3jo5aME6pebitM8DJ3Pm4KnsmzfpT": [
+			{
+				"comment_id": 18,
+				"body": "Hello kira!!",
+				"added": 1457550093
+			}
+		],
+		"5_1LRrd96P7FiTcsyNXVzPM5jtpQoH1B4gYf": [
+			{
+				"comment_id": 19,
+				"body": "Great Job, @cub3",
+				"added": 1458043523
+			}
+		],
+		"1_1Da4ebREvCs4FX8pME6HGhuS8yqMHvPw8r": [
+			{
+				"comment_id": 20,
+				"body": "I have one as well here: http://127.0.0.1:43110/eventi.bit/tiddle.html\n\nAs Erkan mentioned it doesn't save, but it probably would be possible to override the save function to use user storage.\n\nI save by downloading a new version into my folder for the site",
+				"added": 1458270147
+			}
+		],
+		"6_1DcDDitsjFJohvwonPmpibRChmA7uGxqL7": [
+			{
+				"comment_id": 21,
+				"body": "> [basxto](#comment_66_1PVcdu7USZH2kHMETbqDYLPjJZKCDWM52k): Well this could be cool if you have a central image hoster or something like ZeroCDN. But this could result in a single point of failure, as soon as the owners of the hosters clear their zites, this would affect a lot other. On the other hand you maybe could have a central imagehoster who is capable of uploading images to your own zite and later linking to it would be rather cool. This on the other hand could result in freenet-like behavior, where freesites include images of others just to keep them alive. You would need to block zites intentionally.\n\nThink \"decentralized\" host instead... having the originator of the image be able to delete is a feature, not a bug...  What I'm thinking is something like a curated site of content contributed by users, where the curators decides whose content to show, and the host deciding what to share.",
+				"added": 1458295431
+			}
+		],
+		"5_1DcDDitsjFJohvwonPmpibRChmA7uGxqL7": [
+			{
+				"comment_id": 22,
+				"body": "> [kaffie](#comment_91_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh): Not possible yet. AFAIK this would be an example of 'merger sites'. You can use an img tag, which is native HTML, and then put a link in there to a site, or something like ipfs. But if you try to do that with another zeronet site, I'd imagine problems would occur (due to the site not being downloaded, and iframe issues, and such).\n\nSomething like this works, though:\n\ncurl http://127.0.0.1:43110/159bRwxjgvNGfhvXw1qzXsTPjenMzy2P4n/data/hello.json\n\nI'm just looking to do that in my own zite\n",
+				"added": 1458296277
+			}
+		],
+		"9_1LRrd96P7FiTcsyNXVzPM5jtpQoH1B4gYf": [
+			{
+				"comment_id": 23,
+				"body": "This is a great idea - Is your intention to illustrate how to do things like Notifications and tricks people have figured out elsewhere?",
+				"added": 1459015088
+			},
+			{
+				"comment_id": 24,
+				"body": "also it would be cool if you had some of the functionality implemented in sample HTMLs, like login and user saves",
+				"added": 1459015914
+			},
+			{
+				"comment_id": 25,
+				"body": "We need to get ekaterina involved - she's done some cool stuff",
+				"added": 1459017477
+			}
+		],
+		"8_1DcDDitsjFJohvwonPmpibRChmA7uGxqL7": [
+			{
+				"comment_id": 26,
+				"body": "> [hello](#comment_6_15YUzYgogtiHYqXP5HXtdLS2dLZuxnvuRQ): not visible here, have you signed/published your changes?\n\nYeah - I even tested it on a proxy, and it's working - Can you read it now?",
+				"added": 1459022716
+			}
+		],
+		"24_1ED3Ho3kmzaKiECtyuqSjDpoE47rKuXeP": [
+			{
+				"comment_id": 27,
+				"body": "I wrote up a little thing about shuffling cards with no central authority - I'd love to turn it into a real thing, but as you can see it's computationally expensive:\n\nhttp://127.0.0.1:43110/eventi.bit/?Post:11:Pick+a+card...+any+card",
+				"added": 1459100354
+			}
+		],
+		"1_17Ee4M2FnhJ9oHx2kpcDcYLZQckvNpspDP": [
+			{
+				"comment_id": 28,
+				"body": "http://127.0.0.1:43110/eventi.bit/?Post:3:Using+the+Multiuser+plugin",
+				"added": 1459334240
+			}
+		],
+		"1_1DVD9gfgFAYrc5EN7T9qJnEKpeY6eBKwEs": [
+			{
+				"comment_id": 29,
+				"body": "I got the tor (cli from homebrew) running in one terminal window, and then I run zeronet.py --tor always",
+				"added": 1459792445
+			}
+		],
+		"9_1DcDDitsjFJohvwonPmpibRChmA7uGxqL7": [
+			{
+				"comment_id": 30,
+				"body": "> [bot](#comment_23_1KdnTJVBGzEZrJppFZtzfG9chukuMv8xSb): The minimum you can withdraw is 100000000 Satoshi. (1 BTC)That's 10,000 x 10,000. :P\n\nTrue, but I'm up to 14034526 with hardly any effort.",
+				"added": 1461411255
+			},
+			{
+				"comment_id": 31,
+				"body": "> [bot](#comment_25_1KdnTJVBGzEZrJppFZtzfG9chukuMv8xSb): How long from when you started?\nAbout a month ago, but I only actively used it a few times, mostly watching TV\n\nYou can see my last 50 transactions here: http://10000satoshi.com/user-233527",
+				"added": 1461414172
+			},
+			{
+				"comment_id": 32,
+				"body": "> [ace](#comment_18_1An7ATsNMMNqRgSgB2upWwbpXgFXQ9E2XD): Yeah something tells me when you reach 1 BTC you will not be paid\n\nI'll let you all know",
+				"added": 1461420601
+			},
+			{
+				"comment_id": 33,
+				"body": "> [bot](#comment_26_1KdnTJVBGzEZrJppFZtzfG9chukuMv8xSb): Well, at say $2.50 USD a day and about 6 months effort.. IF they pay.. that would be pretty good return for someone in a poor country with cheap power. So yeah.. all hinges on the \"IF..\"\n> Though, setting the bar so high to get a payout (6 months) does make it seem like they could shut up shop just before having to make the first payouts, and walk away with 100% ad revenue for the cost of a cheap domain.\n\nHAHA - I don't think any of these things are better than actually getting a job or something, but this one \"pays\" extremely well compared to a lot of the others... Plus they pay out 100% of referral earnings, so if I had 10 referrals with a similar activity to my own, I'd already be at 1 BTC.",
+				"added": 1461426040
+			},
+			{
+				"comment_id": 34,
+				"body": "I'm up to 0.24222332 now because their \"game\" is pretty poorly thought out.\n\n0.10187806 BTC earnings today  - about $45 USD, not bad",
+				"added": 1461437853
+			},
+			{
+				"comment_id": 35,
+				"body": "Currently 30533738",
+				"added": 1461544932
+			}
+		]
+	},
+	"comment_vote": {
+		"9_1LRrd96P7FiTcsyNXVzPM5jtpQoH1B4gYf": 1,
+		"74_1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD": 1,
+		"2_1D7uESYtAKV36MVPGJZXuE7LUKbLwfo4dX": 1,
+		"26_1NoRNknY1JbJ8nMdn88LwczyMDFnR1GtNw": 1,
+		"19_1Q8iqH31cKCqynoJRxR2PfJhzQr8wHdiHr": 1,
+		"16_1NoRNknY1JbJ8nMdn88LwczyMDFnR1GtNw": 1,
+		"48_1MEWJRMLgvofqG9Mbsb2Rc4hFFyv7HeRx7": 1,
+		"27_17fgJ3tZjhM7HCkTkd5TWf2BLLWmhRKcXB": 1,
+		"90_1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD": 1,
+		"4_1FfLoFiiFnaf2RPE4nqHEP8mB9uU2rPTmH": 1,
+		"37_1PVcdu7USZH2kHMETbqDYLPjJZKCDWM52k": 1,
+		"17_1GNdkBSxTw6SpRdGHxDCyfANXnwi7FG7rJ": 1,
+		"28_1CMYxdit4qq9QGk9DYRu2ruRPd2YDGckH8": 1,
+		"52_1PVcdu7USZH2kHMETbqDYLPjJZKCDWM52k": 1,
+		"73_1H8oKiRa7fGgUqS1hpUtaSYLvAqkaknbkf": 1,
+		"27_16bxMyoL49mWYhcZKBYVBT5zEFW9SQpiao": 1,
+		"33_17n5jg4bBEoWodXDf8L4Y2u88ShagS272Y": 1,
+		"32_1DcDDitsjFJohvwonPmpibRChmA7uGxqL7": 1,
+		"33_1DcDDitsjFJohvwonPmpibRChmA7uGxqL7": 1,
+		"34_1DcDDitsjFJohvwonPmpibRChmA7uGxqL7": 1
+	}
+}

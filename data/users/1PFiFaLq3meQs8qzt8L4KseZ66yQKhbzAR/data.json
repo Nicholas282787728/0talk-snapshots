@@ -1,0 +1,19 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 2,
+	"comment": {
+		"2_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": [
+			{
+				"comment_id": 1,
+				"body": "Testerino",
+				"added": 1457018652
+			}
+		]
+	},
+	"comment_vote": {
+		"4_1PJVSC1FHaZpkkbZqVGJcMrKrYTGmYN6rM": 1,
+		"394_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1
+	}
+}

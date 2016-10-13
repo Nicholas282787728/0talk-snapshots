@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "G8z/M/bbmUUCYBYNlPMzM/rVgpIDfAqRtOImQGxUVrvfUkO49XZtL8WzQVy0k2aOZXMvIJLhDVi6yr5D4+7Npj0=",
+ "cert_user_id": "nikdoof@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "8abdd0649bdcb8328a3167b387fb438a9c35663afa29e1e3eb6d5c58ebedc0e6",
+   "size": 458
+  }
+ },
+ "inner_path": "data/users/1qCyM7iFxCrBXeWUQJpBNBYSSaNwkFDNM/content.json",
+ "modified": 1471742221.079453,
+ "signs": {
+  "1qCyM7iFxCrBXeWUQJpBNBYSSaNwkFDNM": "HJUn+hSfZQrlxxiAKc36uIIw93/r6YuN+6GmCopeSx41tjo6CjKs9Hn7aVZSpL2FJxjH2LrkPss50mHstcKn5vU="
+ }
+}

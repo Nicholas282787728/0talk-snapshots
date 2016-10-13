@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HNzsNt/c1u2LIjCx+YePKNwbDo5FAvUJ+4FjwvlIQFQ1ksBqUjEP2ythsT5yxh+cbLT89+I0Kap4jv8AhF+PzUc=",
+ "cert_user_id": "delirium@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "f9d6a5b42d434c706bada2d7a670f7646e08c0803b9a4e0f9a5e8e67b153e873",
+   "size": 380
+  }
+ },
+ "inner_path": "data/users/1J9pah9h8pQATasNnGJgSuH2DEovfi5uzS/content.json",
+ "modified": 1456989013.293641,
+ "signs": {
+  "1J9pah9h8pQATasNnGJgSuH2DEovfi5uzS": "Gx5RkVSm3DMH+MtZo3t42urJ7Cw7LYdCRVC71gXULZmfkMahrnMnnrhK+b/cPtq5sX3HX+6DHl1FMEBsD94KIZc="
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HPegFNuS8XkjBmu0V0Fg5aE4NUyK/jmyBnnjs6CxLFZ3HYZTE5isXnmEqh77WfmvedOEaLoEK7OtWR+yfM1EYXg=",
+ "cert_user_id": "zerolear@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "77d0c68512dcebc130665b127f87fa2e18328ea75110ba6d6d32db47af116b0f",
+   "size": 509
+  }
+ },
+ "inner_path": "data/users/1ftSTP9H5BguRypJ1RFEhN1G9Hb16Z9Wu/content.json",
+ "modified": 1460683383.585,
+ "signs": {
+  "1ftSTP9H5BguRypJ1RFEhN1G9Hb16Z9Wu": "G0JQaF96Jzmhh419jWPyH6UhUUUaBxdK8M8yR1PO0yi92aqx961nmGlSFwA21rscGjjG3BbKRX2ogx732mcQt28="
+ }
+}

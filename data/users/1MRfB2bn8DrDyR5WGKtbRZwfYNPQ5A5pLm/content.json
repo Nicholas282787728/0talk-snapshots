@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "G5AmmkLEAOAHLfZhoEStKIbWgKfp/Z8sJbJafU2/hFrnjAHdIcvVQaLCGJ5zMeABuoRoPYeL6KSacqG1F/A1tDY=",
+ "cert_user_id": "kascor@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "5bdb41c90524c76d31e6f7e7d7db26822b3f16d59146d14200fa15da4c9d29d3",
+   "size": 162
+  }
+ },
+ "inner_path": "data/users/1MRfB2bn8DrDyR5WGKtbRZwfYNPQ5A5pLm/content.json",
+ "modified": 1459537182.22,
+ "signs": {
+  "1MRfB2bn8DrDyR5WGKtbRZwfYNPQ5A5pLm": "HA8rvBCvUW0nKKFoffr3mFLUNJn2/G/VSuIqnBXToz4sicyWqNO6wFFgMhbU8uKMhBuxIgARa0TM80K5E9eHTiY="
+ }
+}

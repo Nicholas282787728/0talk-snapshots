@@ -1,0 +1,34 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "Multiuser site, user generated content, no server only peers",
+			"body": "Hi guys!\n\nI'm trying to understand zeronet a little better and see, in the light of recent torrent site takedowns, if it would be feasible to open a torrent site akin to kickasstorrents on zeronet with minimal hardware investment.\nI'm asking because I find it hard to imagine how a site with a 'large amount' of user generated content can be decentralized. Ideally the site owner should not need to be online constantly for the site to run normally (only to update features or fix bugs). So in order for the users to be able to login and add content without the 'central server', the user database would have to be available to every peer. In order not to compromise the privacy of the users it must be possible for every user to encrypt his own private user data into this user database. Also as admin of the site one might want to also look in on some of this private data. So maybe the private user data needs to be also encrypted using the site owners public key as a duplicate.\n\nIs something like that feasible or a pipe dream?\n\njolly wishes",
+			"added": 1470304664,
+			"parent_topic_uri": "3_1PVcdu7USZH2kHMETbqDYLPjJZKCDWM52k"
+		}
+	],
+	"topic_vote": {},
+	"next_comment_id": 4,
+	"comment": {
+		"1_1GARNBmKSxstSwbNZLVQLBCNwAtjxjheae": [
+			{
+				"comment_id": 1,
+				"body": "thanks for the quick reply!\n\nWhat about a zite/feature like the currently defunct btdigg.org? Could the crawling of the dht be decentralized or would the zite owner have to do the crawling and maintenance of the database? I'm asking because the crawling part would be part of the day to day operation of a zite like that.",
+				"added": 1470306748
+			},
+			{
+				"comment_id": 2,
+				"body": "btdigg was/is a search engine for the bittorrent dht network. One used to be able to search all torrents' names and containing filenames for keywords and get magnet links in return. For instance one could search for strawberry fields forever and get the torrent for the beatles discography. A shame it's no more, for now.\n\nConcerning the automated maintenance; So either one has a really very efficient distributed crawler written in java script or one introduces a single point of failure for the zite. Have you heard of yacy?",
+				"added": 1470310007
+			},
+			{
+				"comment_id": 3,
+				"body": "food for thought.\nI find that, that plugin alternative sounds practical but I imagine problems with adoption of such.\nAnyway, I like the idea of zeronet a lot. That backend stuff is a caveat though...\nthanks for the insights!",
+				"added": 1470312212
+			}
+		]
+	},
+	"comment_vote": {}
+}

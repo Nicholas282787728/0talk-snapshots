@@ -1,0 +1,28 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "Whoah",
+			"body": "I gotta say, this shit is cool. My apologies for the language but, holy shit. Wow. I can't wait to build off this.",
+			"added": 1454353489
+		}
+	],
+	"topic_vote": {
+		"2_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1
+	},
+	"next_comment_id": 2,
+	"comment": {
+		"2_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": [
+			{
+				"comment_id": 1,
+				"body": "Wow, this thing is cool.",
+				"added": 1454353381
+			}
+		]
+	},
+	"comment_vote": {
+		"1_198jKSKMzpRxH5C81bXojho2xGcTxXXcqc": 1,
+		"21_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf": 1
+	}
+}

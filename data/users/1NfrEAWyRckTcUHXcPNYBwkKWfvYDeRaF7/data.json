@@ -1,0 +1,31 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "Hitler was a fantastic leader",
+			"body": "Mr. Hitler's policies really kicked butt!",
+			"added": 1462956711
+		}
+	],
+	"topic_vote": {
+		"2_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"1_1NfrEAWyRckTcUHXcPNYBwkKWfvYDeRaF7": 1
+	},
+	"next_comment_id": 3,
+	"comment": {
+		"2_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": [
+			{
+				"comment_id": 1,
+				"body": "#1000 post\n\nYES!",
+				"added": 1462956609
+			},
+			{
+				"comment_id": 2,
+				"body": "wtf ?",
+				"added": 1462956651
+			}
+		]
+	},
+	"comment_vote": {}
+}

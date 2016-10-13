@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HFrrXdaDe32VvyJw+AvaCLQdzKC8hAiaFhlfTs+EV4/AI9+JNEunGfethxffQCK5zK8G1V3udcxdAKADnqNoi2M=",
+ "cert_user_id": "lostfox@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "90c8111a39296ad492da7a673632678a3ae361c76cb1834906562f70376a3241",
+   "size": 259
+  }
+ },
+ "inner_path": "data/users/1ADokdixdnEUbWA1DcsTM6TzEbKzH3MfFR/content.json",
+ "modified": 1463327399.372,
+ "signs": {
+  "1ADokdixdnEUbWA1DcsTM6TzEbKzH3MfFR": "GyOwNefHcNFZw/NGwMXDkJ5GpkrAmc/C8ZbTMZ+vlRlsMH40XfO7xLxXxOGGLxMZ3nl5onAEBg+R38c9pRwA/Z0="
+ }
+}

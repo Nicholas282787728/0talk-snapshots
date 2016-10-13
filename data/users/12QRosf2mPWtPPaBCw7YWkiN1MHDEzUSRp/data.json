@@ -1,0 +1,35 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "Content Encription with Tor?",
+			"body": "This is probably a stupid question, but does the `--tor always` argument make zeronet encrypt content being downloaded and uploaded while going from peer-to-peer?",
+			"added": 1460412916
+		}
+	],
+	"topic_vote": {
+		"14_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf": 1,
+		"3_168qV1Xxp2EyszrzdECLUwXrn9wGYjDdar": 1
+	},
+	"next_comment_id": 3,
+	"comment": {
+		"1_12QRosf2mPWtPPaBCw7YWkiN1MHDEzUSRp": [
+			{
+				"comment_id": 1,
+				"body": "> [nofish](#comment_600_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): Yes, on tor network (.onion addresses) everything is encrypted, for non-tor connections zeronet uses ssl.\n\nThanks for the explanation. \nAnother question if you don't mind: On the Stats page I see that non-onion clients have a \"peerid\". Is that a fixed ID or does it change in some frequency? How is it used?",
+				"added": 1460418281
+			},
+			{
+				"comment_id": 2,
+				"body": "> [nofish](#comment_601_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): It changed every time you restart the client. It can be used to distinguish peers using the same ip behind the NAT. (not implemented yet)\n\nGot it. Thanks for all the work and the attention to the community. It is truly inspiring what you are doing. :)",
+				"added": 1460421334
+			}
+		]
+	},
+	"comment_vote": {
+		"41_1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD": 1,
+		"40_17i7Y7r8nTaCfLbCAuaKyc4R5BbKZYU2Hr": 1,
+		"601_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1
+	}
+}

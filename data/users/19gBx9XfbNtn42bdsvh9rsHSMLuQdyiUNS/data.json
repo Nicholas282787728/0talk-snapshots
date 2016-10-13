@@ -1,0 +1,66 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 10,
+	"comment": {
+		"14_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf": [
+			{
+				"comment_id": 1,
+				"body": "Computer server forum LowEndTalk. https://lowendtalk.com",
+				"added": 1457834785
+			}
+		],
+		"1_1BQg5MQZ63aEQZMzLEXP6yY3hsgznKpaps": [
+			{
+				"comment_id": 2,
+				"body": "All 6 of my computers are Ubuntu (1 desktop, 2 laptops, 3 servers)",
+				"added": 1457835124
+			}
+		],
+		"2_1MCsyW6W243LY69ZYm99XbV3M8Gbbrp5hF": [
+			{
+				"comment_id": 3,
+				"body": "Buy a cheap VPS and run your own vpn server. Keep your data secure and out of the hands of others =)",
+				"added": 1457835387
+			},
+			{
+				"comment_id": 4,
+				"body": "> [nofish](#comment_496_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): and you can also run ZeroNet node on it :)For cheap EU I recommend https://www.arubacloud.com (1EUR/mo), for cheap US maybe SSDNodes\n\nNice! I'm running a few (8) VPS's plus a dedi and NAT box for proxy. I might have a problem haha",
+				"added": 1457835772
+			},
+			{
+				"comment_id": 5,
+				"body": "@nofish Anything special to run the node on a server? I've got am unlimited BW box in Quebec I'd like to run it on",
+				"added": 1457836031
+			},
+			{
+				"comment_id": 6,
+				"body": "> [nofish](#comment_497_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): Python with some packages: https://github.com/HelloZeroNet/ZeroNet#manual-install-for-debian-linuxThere is also a pre-packed bundle, unpack & run version with all dependencies included\n\nThanks! I'll spin one up",
+				"added": 1457836265
+			}
+		],
+		"4_1EMpuiFM1NLZmAVyoAWnwi8VwiZVV4dcnN": [
+			{
+				"comment_id": 7,
+				"body": "Lol I giggle a few times through",
+				"added": 1458069485
+			}
+		],
+		"7_1KTjPe9MxoYkcXj78GuZgCcj3R3f3Twh7r": [
+			{
+				"comment_id": 8,
+				"body": "> [klauszimmermann](#comment_33_15QGRquMETTn5LnCHjTm1qa9eaXGtq7gpT): That is amazing! I remember some times last year and earlier this year where a well-seeded site would get something like 70 peers maximum, and look at how it is now!\n> I wonder what happened in late February that caused this explosion of peers.\n\nSecret underground meetings!",
+				"added": 1458482450
+			}
+		],
+		"1_15UiHZYjYXmn35qVSaAFyuFwrwqVCTcvmn": [
+			{
+				"comment_id": 9,
+				"body": "> [drazor](#comment_1_1GemSsS34hDyFsxcuRLXNB8sLF9TUGMVp4): we need tv shows\n\nhttp://127.0.0.1:43110/tvepisodes.bit/  =)",
+				"added": 1458482595
+			}
+		]
+	},
+	"comment_vote": {}
+}

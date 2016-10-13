@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "G+ZEJzqXKOuqBgRYo4ehg+pQoDV0wWPVUuEu4/UNxzCHhaA/BQ+GIIeh4Fv1zWuqoXU33mx8twyXNTw/uNFqdWo=",
+ "cert_user_id": "besalel@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "1b42077ee6a0af7fc61d943370b419ad8aad475fdb308fde4ab06e7d44551157",
+   "size": 268
+  }
+ },
+ "inner_path": "data/users/12sPGUnq98RgFXzLj6VsyFBMFzAbLNn7UL/content.json",
+ "modified": 1456972232.736893,
+ "signs": {
+  "12sPGUnq98RgFXzLj6VsyFBMFzAbLNn7UL": "GyT3/Zt56+C9ub+XWUMY3F9WcPNPkOLc6+jUYj2uBmCd2X6hoTZN7PH/e7kUDRThYPoELsWg4XNa7RPKHwUtzlA="
+ }
+}

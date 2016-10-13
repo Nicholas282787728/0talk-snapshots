@@ -1,0 +1,30 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 4,
+	"comment": {
+		"5_1HDGK4rrMzuouF8hNnxfMNpWyR8qAtP4HR": [
+			{
+				"comment_id": 1,
+				"body": "> [neonet](#comment_5_15ATNsS6aHGvBg5xoMP94sXpNaLX4fSHjN): Good that ZeroNet is being advertised but I dislike Play, it only lists 187 movies and uses up more than 60 MB.It's just not scalable...\n\ni do quite like the ui though",
+				"added": 1468061733
+			}
+		],
+		"1_1KiE39saL9HUwUb3huV7gQYeVk4vCx1FWw": [
+			{
+				"comment_id": 2,
+				"body": "i made i site, now i just dont know what to do with it",
+				"added": 1468075945
+			}
+		],
+		"1_15B3N5kBvnaMAv6ufCmSLf4BzexsZw66tS": [
+			{
+				"comment_id": 3,
+				"body": "> [up4](#comment_49_1BLPKyrF2D4ertte6JnAa6oWAMYzZGwKQz): seed this, fag dearest\n> or iterate through the list of domains in ZeroName\nwhy did i even try",
+				"added": 1468081940
+			}
+		]
+	},
+	"comment_vote": {}
+}

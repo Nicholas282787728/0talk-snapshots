@@ -1,0 +1,37 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 5,
+	"comment": {
+		"2_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": [
+			{
+				"comment_id": 1,
+				"body": "Testerester",
+				"added": 1475371472
+			}
+		],
+		"1_1JtxPipMFzvBTQ8fwSeupUxfiVMbutBfhG": [
+			{
+				"comment_id": 2,
+				"body": "sure, generalize an entire group for the actions of some of them, worthy of a two-digit IQ",
+				"added": 1475371689
+			}
+		],
+		"2_18Sh2Z83C23xdd6pjCq6NGv7Y6svEBcUfb": [
+			{
+				"comment_id": 3,
+				"body": "Some countries actually can control the climate, but just in a short run, days or weeks at maximum, and just in some ways. No, the climate change is not something ex profeso, and no country alone or conglomerate has the power to do it now nor in the close future",
+				"added": 1475372438
+			}
+		],
+		"9_12i4LiZ39NxcYtsf36aTWJzcpzw4KFUCJy": [
+			{
+				"comment_id": 4,
+				"body": "His stupidity, is really funny, especially when i'm not american, so, I give a fuck about who of both assholes will win xD",
+				"added": 1475372737
+			}
+		]
+	},
+	"comment_vote": {}
+}

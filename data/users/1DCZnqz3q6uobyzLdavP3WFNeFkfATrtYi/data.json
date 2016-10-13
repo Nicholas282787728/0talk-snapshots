@@ -1,0 +1,16 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 2,
+	"comment": {
+		"1_1NGtwPu16u2iVu35a6jwGF7ijxN6yUXaBA": [
+			{
+				"comment_id": 1,
+				"body": "> [squeezit](#comment_4_1GzGCc4PYVgD3XqQV3tpT8ow6bWGySa25a): What do you mean by \"activate\" a CP site?I'm a bit worried about accidentally clicking a bad link on this website.  There's plenty of shit I do not want to see. But as far as I know it's still completely anonymous\n\nZeroNet sites are like torrents - they are hosted by the people that visit them. So when you visit a site, you're downloading the data from the people that have visited the site before.\n\nOf course, this means that once you've visited a site, all of the site's content gets downloaded to your PC, and you also become a host.\n\nTherefore, someone could easily get a LOT of people in trouble just by posting illicit content on to some widely used site.",
+				"added": 1470066869
+			}
+		]
+	},
+	"comment_vote": {}
+}

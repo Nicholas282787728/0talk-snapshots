@@ -1,0 +1,26 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {
+		"2_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"20_1CMjV2r4EBpFt8VCcWWZKDysZXPcPExRNN": 1
+	},
+	"next_comment_id": 3,
+	"comment": {
+		"2_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": [
+			{
+				"comment_id": 1,
+				"body": "Boop BOop Beep bop boop",
+				"added": 1471296208
+			}
+		],
+		"20_1CMjV2r4EBpFt8VCcWWZKDysZXPcPExRNN": [
+			{
+				"comment_id": 2,
+				"body": "I'd recommend Airbitz app - or breadwallet on iOS. Can't explain why the lamassu didn't accept your QR code - perhaps some fault in the QR generator. AIrbitz should work just fine. Try with a small amount first of course.",
+				"added": 1471296341
+			}
+		]
+	},
+	"comment_vote": {}
+}

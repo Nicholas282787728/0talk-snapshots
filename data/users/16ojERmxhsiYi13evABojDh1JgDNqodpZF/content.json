@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HCudUtwZa84eY8S8AytqmNasW83W4+t2rqLuowISze1iCx4Zl0lMobz63YXebDNdrzIOBjtJov3WR4ZBMr2VJes=",
+ "cert_user_id": "zentralsonne@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "81084ad17a16b8f576199415345b13cb387cecf944bb9ca6bd6b9cd3fd19530a",
+   "size": 1127
+  }
+ },
+ "inner_path": "data/users/16ojERmxhsiYi13evABojDh1JgDNqodpZF/content.json",
+ "modified": 1476093744.992,
+ "signs": {
+  "16ojERmxhsiYi13evABojDh1JgDNqodpZF": "HP6LbeRACx01ldu1ZwpN8KCTwZcMWhlqQyU6/PqnshUgi+1fd3c1Ftb5dQ3rUGafgGevxjeijso0GBi6JMefAUA="
+ }
+}

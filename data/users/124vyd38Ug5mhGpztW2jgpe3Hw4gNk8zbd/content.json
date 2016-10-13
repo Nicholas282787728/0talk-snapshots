@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HCNCq/SrWVGp6yPZALfoVD86hPnCUFSuqTcVlmRxrOOudBw+5pI3BMBwLc+ttx0zC1IsZZ67O2zvLO23JcHxTzQ=",
+ "cert_user_id": "cyberdog@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "d1c904e7753bb94c3d88755dfe3d68fa30f26d2f044a680507a14c01c7a6394c",
+   "size": 241
+  }
+ },
+ "inner_path": "data/users/124vyd38Ug5mhGpztW2jgpe3Hw4gNk8zbd/content.json",
+ "modified": 1457195196.034967,
+ "signs": {
+  "124vyd38Ug5mhGpztW2jgpe3Hw4gNk8zbd": "Gye0KwQiIMhHpEMHwHdwcJuOqKE8H17J8ycpWzW55UZq0mtrWbxP8q8fwboiMMJmErzjlO4mEb6MVi3e15aYajA="
+ }
+}

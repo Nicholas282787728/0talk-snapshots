@@ -1,0 +1,15 @@
+{
+ "cert_auth_type": "web", 
+ "cert_sign": "G1AO9ZzPp6sCyi2MFRkJ1qstOgQMasNNZ/5loN98/ozG3VH6OEI574TutYp0BX/rnqs/h47n0DjrDBa3L3N3eYw=", 
+ "cert_user_id": "vesta@zeroid.bit", 
+ "files": {
+  "data.json": {
+   "sha512": "a93b5b7a050131875be177628fca5a4ef9bcf176cccd26ad105df6d4181737e0", 
+   "size": 2729
+  }
+ }, 
+ "modified": 1450208488.658, 
+ "signs": {
+  "16jG1cAYu6rAXhRpqq9ph1ere1Z5e7j72b": "HA9qxXx6kpy7Ksoy6phpPYXWJQ85gDmYKG4XydcsUprOGaCGSk9Uv+Q0WnVVuCiAmAiaLdC4IfGm5jOS64RMW9A="
+ }
+}

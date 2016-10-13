@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "G1ZFWM1YkQ7H4/F7yvmQoh2Jj6mo7LDpZSxKQ4ULVAnY8t3ymlK5CEePQcTeyjKUQX+oavlmxg4o+BOWhHH6yZs=",
+ "cert_user_id": "drchow@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "d1fc43e5ea67e3acc44561cb72f9b32be408862f7d2de7ef932d7c4de397347a",
+   "size": 247
+  }
+ },
+ "inner_path": "data/users/1QJEcB4cJ9awgmULZ1rnw7DsT5qxa5tMqt/content.json",
+ "modified": 1463924788.907,
+ "signs": {
+  "1QJEcB4cJ9awgmULZ1rnw7DsT5qxa5tMqt": "Gw6AxAfgpqVCHIiKhgcI40sS7tHV3g+PaqLDBtd6MweVtHDhocPbbNK/JepO2qyBPta1J1bq54X42Ll1KwofGcQ="
+ }
+}

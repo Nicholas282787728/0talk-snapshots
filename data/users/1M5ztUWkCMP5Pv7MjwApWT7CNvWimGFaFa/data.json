@@ -1,0 +1,62 @@
+{
+	"next_topic_id": 3,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "How to update existing ZeroTalk clone?",
+			"body": "Does someone know an easy way to update an existing ZeroTalk clone to the latest version of ZeroTalk, without losing all the topics?",
+			"added": 1454513062
+		},
+		{
+			"topic_id": 2,
+			"title": "Free .bit Domains for ZeroNet Sites",
+			"body": "I'm handing out free .bit domains for ZeroNet sites. \nhttp://127.0.0.1:43110/blog.0list.bit/?Post:2:Free+.bit+Domains+for+ZeroNet+Sites \nツ",
+			"added": 1454802052
+		}
+	],
+	"topic_vote": {
+		"1_1NxaomNYTzsRc8GwVWtd9wBMrP2fZPN3D6": 1
+	},
+	"next_comment_id": 7,
+	"comment": {
+		"3_168qV1Xxp2EyszrzdECLUwXrn9wGYjDdar": [
+			{
+				"comment_id": 1,
+				"body": "> [aimganesh0](#comment_1_19A6hpNLaSguuDxa1tCXBBD2wB3oKtwhvu): [...]\n> I have started a website to discuss more....(still in development) try it.....http://127.0.0.1:43110/1EfBtV7woxqR5mL7r3PyDzD3AUDYcKLaxh\n\nCool site. I have added it to my list: \nhttp://127.0.0.1:43110/0List.bit",
+				"added": 1454489680
+			}
+		],
+		"1_1M5ztUWkCMP5Pv7MjwApWT7CNvWimGFaFa": [
+			{
+				"comment_id": 3,
+				"body": "> [nofish](#comment_232_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): Backup your site's directory, Overwrite everything except content.json and data directory with the new files from the data/1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT directory. (same works for blogs)\n\nThanks! ",
+				"added": 1454523973
+			}
+		],
+		"1_1NxaomNYTzsRc8GwVWtd9wBMrP2fZPN3D6": [
+			{
+				"comment_id": 4,
+				"body": "> [zalex](#comment_24_1LWuc6JBhUGrKEAh1aPrPU85dEMcKmg3pS): Dude, I sympathize, but... What do you want to achieve by writing this here?\n\nLetting it out, that's what he wants to achieve. For all I care, he's more than welcome to do so. ツ",
+				"added": 1454687202
+			}
+		],
+		"2_1M5ztUWkCMP5Pv7MjwApWT7CNvWimGFaFa": [
+			{
+				"comment_id": 5,
+				"body": "> [kasthuri](#comment_1_1BBKD8mSqtGDaK5GQ5Q6A6mLhpc8xrgW97): hihow can i see the websites through zeronet\n\nHi  \n\nWhat do you mean? You just have to add 127.0.0.1:43110 in front of the domain, for example: \nhttp://127.0.0.1:43110/blog.0list.bit/, and then open it in your web browser. You have to have ZeroNet installed of course.",
+				"added": 1454840538
+			}
+		],
+		"2_1CMYxdit4qq9QGk9DYRu2ruRPd2YDGckH8": [
+			{
+				"comment_id": 6,
+				"body": "Maybe this works: \n1. Put the new avatar image in your site's \"img\" folder \n2. Open the file \"index.html\" in a text editor \n3. Search for the string <div class=\"avatar\"> </div> \n4. Replace it with <img class=\"avatar\" src=\"img/avatar.jpg\"></img> \n5. Save the changes",
+				"added": 1456746618
+			}
+		]
+	},
+	"comment_vote": {
+		"232_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"38_1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD": 1
+	}
+}

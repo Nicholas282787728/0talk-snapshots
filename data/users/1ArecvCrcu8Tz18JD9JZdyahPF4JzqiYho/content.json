@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HLAkAExAMJtYpjuMrsUOxLwqCVOisCqC97LebothEmL4zxrsRWDUryxZSVM78vpkg9lFHX05OLkVe00pkvVh5vs=",
+ "cert_user_id": "galvanizeddream@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "9762a9fb15ca114ad3fe756ca5743fcf81a75d7c9b527ec9754037920654e8ab",
+   "size": 242
+  }
+ },
+ "inner_path": "data/users/1ArecvCrcu8Tz18JD9JZdyahPF4JzqiYho/content.json",
+ "modified": 1470498439.537,
+ "signs": {
+  "1ArecvCrcu8Tz18JD9JZdyahPF4JzqiYho": "HM/umVfP6dbvSP40o17GWR50jcDU+BMBgXZWtFi/oZPBFuMgelrTFfFQqhXi9os3GX20cJvEcoXagZJr16ksBqo="
+ }
+}

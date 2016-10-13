@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HJYd/E00LCDkEkv2b9iCNJ03o58wOS/3uy69FyqLni15wBAvmES+1I4zUtx0wEkvnOOCFdUAq1Kw6uHfpI8d5lI=",
+ "cert_user_id": "hougelangley@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "9ca160cb710dc92e178e1048ed87a702e5890563d26091ec5a4bcd6d80d11eb9",
+   "size": 952
+  }
+ },
+ "inner_path": "data/users/1BKk6YNJB5K8F1KmFHRCBfjCDNwLaWMh4T/content.json",
+ "modified": 1460790168.040294,
+ "signs": {
+  "1BKk6YNJB5K8F1KmFHRCBfjCDNwLaWMh4T": "GxuhhNbhri5a1Og7m3DAs7NrW9smJXU0fgpfWBHvDUytpTy6H2pOVLPa0TgXYQma+LFZ+xVHuhanhQrzfZAtbr0="
+ }
+}

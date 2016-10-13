@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HBrTsEBK8yJRA5fEpnWwhdBxIHnzdXTdFIPQ9b8Iox+lvcdLxyEy2RfLMRy+xMro6crNEB59pTj/vLFKLecAoN4=",
+ "cert_user_id": "cloudhero@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "2069e35a7a4d70c56e0d0205fac2a5af967a6812b1157022f506808af17c075a",
+   "size": 866
+  }
+ },
+ "inner_path": "data/users/1HHx8ndzv5HniuG3CHmBWJyXnBcnXgnShX/content.json",
+ "modified": 1465783214.814,
+ "signs": {
+  "1HHx8ndzv5HniuG3CHmBWJyXnBcnXgnShX": "Gw1pM6bjr6ssrTaxa+3zdED9tIiCUW8bqMpoB4BvauyTE/YNooXIWJztGTa8ImBdDNUKxOJgTXqAuZN3R8O0gdA="
+ }
+}

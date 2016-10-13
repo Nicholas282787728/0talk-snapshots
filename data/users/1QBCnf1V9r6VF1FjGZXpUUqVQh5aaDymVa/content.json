@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HLkkrOKrsQCUDG4GonXiL1+H6ZHwreyJYZ5a9ophdFTM9197FMdTNOMPgjO7BAjqphapE5/hxRl8k1lPcEpqcp0=",
+ "cert_user_id": "kgpersky@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "445041fafdb0cb16b7b1048621b618959b25a1ad30ed168831bb95aa384ddd6b",
+   "size": 381
+  }
+ },
+ "inner_path": "data/users/1QBCnf1V9r6VF1FjGZXpUUqVQh5aaDymVa/content.json",
+ "modified": 1462978051.510822,
+ "signs": {
+  "1QBCnf1V9r6VF1FjGZXpUUqVQh5aaDymVa": "HLh0sQNOdRjepank7OLXQioUU6M6HIeJRHCM91yx0ysZLfRG5BTLOAcCE2IlmmT/cJkiaDPHr7kNJ60N6/rcL38="
+ }
+}

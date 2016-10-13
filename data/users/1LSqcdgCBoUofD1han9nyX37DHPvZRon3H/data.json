@@ -1,0 +1,33 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "Is there any tutorial on how to make a site for ZeroNet?",
+			"body": "title says it all",
+			"added": 1457820192
+		}
+	],
+	"topic_vote": {},
+	"next_comment_id": 3,
+	"comment": {
+		"1_1LSqcdgCBoUofD1han9nyX37DHPvZRon3H": [
+			{
+				"comment_id": 1,
+				"body": "> [ks](#comment_24_14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx): Basically you could just python2 zeronet.py siteCreate in the ZeroNet folder, then make your changes and sign the new contents with siteSign. Look at the sidebar in the ZeroBlog site.\n\nThank you!",
+				"added": 1457820457
+			},
+			{
+				"comment_id": 2,
+				"body": "> [uujh](#comment_1_1GUEjoXBHc2Mxi1w3sozizBdJDNXCX2G2o): See, cos it's a double u.\n\nlmfao",
+				"added": 1457821451
+			}
+		]
+	},
+	"comment_vote": {
+		"24_14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx": 1,
+		"1_1GUEjoXBHc2Mxi1w3sozizBdJDNXCX2G2o": 1,
+		"495_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"1_1KwGKhCEr4ZtKzwP2EcG4TTiZaJurjfjCA": 1
+	}
+}

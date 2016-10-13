@@ -1,0 +1,15 @@
+{
+ "cert_auth_type": "web", 
+ "cert_sign": "GzMvvtEbdBvG3OillmUBoGdXp8koaLfwsaDRTtX5gDKhDqbyHlYA2A+TTam6VwHe815g4oOr29BvoTCwsO3f5+8=", 
+ "cert_user_id": "holaque@zeroid.bit", 
+ "files": {
+  "data.json": {
+   "sha512": "2c74db0fe5948edd2968a3fd7586f7bae42cae47e18de4e2d34d483dc2385e04", 
+   "size": 239
+  }
+ }, 
+ "modified": 1453591102.146516, 
+ "signs": {
+  "175HnJ7WBsov48M7xaUm6zoU8AFvHvJGP6": "G+ed+SbY7nvE2B5/WsB/j39NzpZZy7yXM9ZU65zW8zpBpqvcWzB8AKM7eUwG57vnfW/crCXpGhPWXr47dTRRnms="
+ }
+}

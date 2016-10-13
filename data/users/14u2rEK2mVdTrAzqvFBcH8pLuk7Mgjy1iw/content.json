@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HI25pQ8TFgQdvTH363NL3ZXj6SyYZFW8HQx05lTjovtYngbvr9cP1euA8Q9xHoEo9RS1jZZ2xAKD9Uhw8Z3V7BA=",
+ "cert_user_id": "laito@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "8fe9b824ad88e988d31930ab511f7248b4813d2d9d517e3003e7d9e0c193b477",
+   "size": 322
+  }
+ },
+ "inner_path": "data/users/14u2rEK2mVdTrAzqvFBcH8pLuk7Mgjy1iw/content.json",
+ "modified": 1472255385.687,
+ "signs": {
+  "14u2rEK2mVdTrAzqvFBcH8pLuk7Mgjy1iw": "HIMJ2F9DoCwRvKz+2xPUasOWrHE9XmWaM2fneeupr6bgzHus/JRWgdSApt5hnNpu9yT9zaicL58SZAcwQ4Ftyhs="
+ }
+}

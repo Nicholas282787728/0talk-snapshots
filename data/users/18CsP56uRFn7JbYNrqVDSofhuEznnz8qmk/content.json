@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HGPm+bcX7YbcKLvhqEdXOwqj4IFRSsC5RbFpbxpyxyZ+eSPnEDY4xSBMgIrTRLKtDGds4oNwg3b6ik7GFkyU6Zw=",
+ "cert_user_id": "cicada@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "dcb15415ccdf2749d33aac333bd30fc1e53bab8152d3f107e62462ed66aa9f54",
+   "size": 163
+  }
+ },
+ "inner_path": "data/users/18CsP56uRFn7JbYNrqVDSofhuEznnz8qmk/content.json",
+ "modified": 1460787790.977,
+ "signs": {
+  "18CsP56uRFn7JbYNrqVDSofhuEznnz8qmk": "HJoVJuzrJXPLj8dUwkvvSi+lSD7GLT2l3ybL9XYyWtTGzGeHNV8tVbpBt6/Iox8hsXz2FdYGQc25d27+M4hYAls="
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HHRcVbw9VElSPNQWDQvpJmEvWZbDsHPX2QPklfWLYk5I5odO5PAm0PBUqWOX17sTGktwXMPtZ4x5UjZAgWjad/k=",
+ "cert_user_id": "tychota@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "95c3df7178aabce6228b0aeec57869f9cc2b17f6c289ed1daaa9a350c3420be6",
+   "size": 247
+  }
+ },
+ "inner_path": "data/users/1BhrPvYrPEhSY32L24KEQtL3Uopfs2X7V/content.json",
+ "modified": 1456238120.352096,
+ "signs": {
+  "1BhrPvYrPEhSY32L24KEQtL3Uopfs2X7V": "HJg5qPFeCLQfkcTdOAKpBgYqvcFvyLnZdIkMGG/jzmLcwZ2ZHQu1icjAx7u7S0pON6Ojg8TgQ6Nm8hPLE0aacFk="
+ }
+}

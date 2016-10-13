@@ -1,0 +1,42 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "Current limitations of ZeroNet API and project's activity",
+			"body": "Hi, what are the current limitations of ZeroNet API? I had a quick glance at it already and it seemed full featured enough, but I can't help but wonder why there are no complex apps like markets already available? Is everything already in place to create such applications but no one tried making a public market yet or is something still missing in the API that's preventing commerce from coming over to ZeroNet? Or perhaps I just haven't found any yet? \n\nLast thing, I noticed there isn't much activity on the project's main repository, is the project lacking in maintainers?",
+			"added": 1455771678
+		}
+	],
+	"topic_vote": {
+		"1_1HN54tqPZqnHs5SpJVFVsMhRH1nUSt3iQF": 1
+	},
+	"next_comment_id": 5,
+	"comment": {
+		"2_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": [
+			{
+				"comment_id": 1,
+				"body": "Test",
+				"added": 1455771217
+			}
+		],
+		"1_1HN54tqPZqnHs5SpJVFVsMhRH1nUSt3iQF": [
+			{
+				"comment_id": 2,
+				"body": "> [o4zw5vmpoz5hz78z](#comment_101_1KTjPe9MxoYkcXj78GuZgCcj3R3f3Twh7r): what is the main repo?\n> checkout the http://127.0.0.1:43110/Blog.ZeroNetwork.bit about updates to zeronet\n\nhttps://github.com/HelloZeroNet/ZeroNet",
+				"added": 1455776443
+			},
+			{
+				"comment_id": 3,
+				"body": "> [o4zw5vmpoz5hz78z](#comment_102_1KTjPe9MxoYkcXj78GuZgCcj3R3f3Twh7r): mhh looks good to me https://github.com/HelloZeroNet/ZeroNet/graphs/contributors\n\nYea it seems the project has many contributors, however the commit frequency is rather low for a project of this size. Isn't it?\n\nhttps://github.com/HelloZeroNet/ZeroNet/pulse/monthly",
+				"added": 1455780143
+			},
+			{
+				"comment_id": 4,
+				"body": "> [nofish](#comment_331_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): I think the API is ready for a public market. There is currently only one developer of the project (me). I usually tests new features for some days before commiting to public, so the commits will contain many thing at once.\n> There is also many other, ZeroNet related repositories I contributing to (sites, docs): https://github.com/HelloZeroNet?tab=activity\n\nOh I see, well I guess its pretty good for a single developer! Are you actively trying to attract more core maintainers but you can't find any?",
+				"added": 1455818832
+			}
+		]
+	},
+	"comment_vote": {}
+}

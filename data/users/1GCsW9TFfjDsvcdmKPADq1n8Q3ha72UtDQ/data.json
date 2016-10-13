@@ -1,0 +1,137 @@
+{
+	"next_topic_id": 6,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "A good marketplace",
+			"body": "What I would love to see come out of ZeroNet is a good marketplace, based entirely around BTC/LTC etc. (virutal currency). It would be awesome to be able to sell goods (both virtual and physical) in an entirely new market. Think about it... a decentralized P2P marketplace. \n\nI'm getting wet already.",
+			"added": 1456897025
+		},
+		{
+			"topic_id": 2,
+			"title": "What's your favorite programming language?",
+			"body": "Obviously this thread is going to have a lot of different answers depending on what line of work you are interested in. But for me personally, C# is my favorite, with UNIX coming in at a close second",
+			"added": 1456954299
+		},
+		{
+			"topic_id": 3,
+			"title": "Upload .gif and .webm to GIF Time clone?",
+			"body": "Title pretty much says it all. I just want to know how to post a gif or webm to my GIF Time clone. Does it use Markdown syntax or HTML5? When you open the files in a new tab, it brings open the HTML5 movie player so I wasn't sure how it's handled.",
+			"added": 1456975447
+		},
+		{
+			"topic_id": 4,
+			"title": "EZTerminal: Windows Terminal for Creating, Building, and Publishing sites with ease",
+			"body": "A quick program/guide I created to help beginners and those who have little to no coding experience with creating, building, and publishing their websites. Let me know what you guys think of the guide, and if you use the program, if it helped you at all. Also, send me any bugs you might encounter via mail.\n\n\n\n[Link to site](http://127.0.0.1:43110/1NQSaE4rV83oeDVzDVryMNFSCqwz2gAaB4/?Post:4:EZTerminal:+Windows+Terminal+for+Creating,+Building,+and+Publishing+Sites)\n\n[Link to download](http://127.0.0.1:43110/1NQSaE4rV83oeDVzDVryMNFSCqwz2gAaB4/downloads/EZTerminal/EZTerminal.zip)",
+			"added": 1456995938
+		},
+		{
+			"topic_id": 5,
+			"title": "Problem setting up VPS",
+			"body": "So I'm tying to set up ZeroNet on a Windows VPS but I'm getting the following error when I run `zeronet.cmd`\n```\nThe application has failed to start because its side-by-side configuration is incorrect. Please see the application event\nlog or use the command-line sxstrace.exe tool for more detail.\n```\n\nAny ideas on how to fix it?",
+			"added": 1457118817
+		}
+	],
+	"topic_vote": {
+		"3_1GCsW9TFfjDsvcdmKPADq1n8Q3ha72UtDQ": 1,
+		"4_1GCsW9TFfjDsvcdmKPADq1n8Q3ha72UtDQ": 1,
+		"1_1GCsW9TFfjDsvcdmKPADq1n8Q3ha72UtDQ": 1,
+		"2_1GCsW9TFfjDsvcdmKPADq1n8Q3ha72UtDQ": 1,
+		"5_1GCsW9TFfjDsvcdmKPADq1n8Q3ha72UtDQ": 1
+	},
+	"next_comment_id": 15,
+	"comment": {
+		"2_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": [
+			{
+				"comment_id": 1,
+				"body": "> [536c6179657](#comment_1_19vShEYjZVCrBmja1PcuPZ9FiffMnKLU9V): x\n\nWritten like a true poet.",
+				"added": 1456891618
+			}
+		],
+		"1_1Q8iqH31cKCqynoJRxR2PfJhzQr8wHdiHr": [
+			{
+				"comment_id": 2,
+				"body": "> [3x71nc7](#comment_9_1Q8iqH31cKCqynoJRxR2PfJhzQr8wHdiHr): I'm generally surprised by all the traffic going through ZeroNet right now, haven't seen log so active yet. My poor Internet :)\n\nIt's getting popular with reddit and there was a torrentfreak article released today about it. It's about to get a lot more popular",
+				"added": 1456891841
+			}
+		],
+		"1_1GCsW9TFfjDsvcdmKPADq1n8Q3ha72UtDQ": [
+			{
+				"comment_id": 3,
+				"body": "> [dafleroh](#comment_1_19KtmLJftUcLg5ZtwmAfe616J2vp6iJBHU): If this happened, it would be amazing. I would hope it wouldn't be primarily for illegal stuff such as drugs (though it could be allowed) We already have a DNM for that. I would like an ebay type site with no fees for selling, so you get 100% of the cash the buyer pays.\n\nAn ebay themed site was exactly what I was thinking of, but without all of the restrictions. No fees, no middleman, just the buyer and seller conducting whatever business they please. I would also like to see some sort of reviews/testimonials page for each seller, so buyer's with better reviews have better credibility.",
+				"added": 1456897836
+			}
+		],
+		"1_15zfQw1PPLNRYGUtuzTj1LN5hX6K24rUnY": [
+			{
+				"comment_id": 4,
+				"body": "You can also try [dotbit.me](dotbit.me). Not sure about its compatibility with ZeroNet but it is an alternative",
+				"added": 1456904010
+			}
+		],
+		"1_1LHDMj1xjMxeVTqkaVF3PUyJkPX7UrQsKY": [
+			{
+				"comment_id": 5,
+				"body": "fubar",
+				"added": 1456940618
+			}
+		],
+		"1_18C3QMMDj9vRcw6j6bNwb77cX4unMBq6QF": [
+			{
+				"comment_id": 6,
+				"body": "> [ekaterina](#comment_55_1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD): If you just want a blog you can click on the 3 vertical dots next to ZeroBlog in the list of ZeroNet sites, then click on \"Clone\". If you want to develop your own sites (which is really easy if you're a web dev), there is a two part tutorial in the sidebar of ZeroBlog which teaches you how to create a chat website and everything you need to know for your own ideas.\n\nWhen I try to clone the blog, I get this error: \"This function is disabled on this proxy\"",
+				"added": 1456949032
+			},
+			{
+				"comment_id": 7,
+				"body": "> [ekaterina](#comment_56_1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD): You have to actually install ZeroNet on your computer first if you want to create a site. The proxies like http://bit.no.com:43110 are more useful for just trying ZeroNet out. Or did you somehow turn your ZeroNet installation into a proxy? If so, no idea how that works.\n\nI'm using the ZeroBundle. Is there an installer?",
+				"added": 1456951830
+			}
+		],
+		"4_1GCsW9TFfjDsvcdmKPADq1n8Q3ha72UtDQ": [],
+		"3_1GCsW9TFfjDsvcdmKPADq1n8Q3ha72UtDQ": [
+			{
+				"comment_id": 9,
+				"body": "> [nofish](#comment_385_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): it uses markdown, but you can also paste html code. you need <video src=\"data/mp4-redditgifs/1123.mp4\" width=600 height=338 loop muted preload=\"auto\"></video> to insert video\n\nI've tried using the HTML video player for webm and mp4, but neither work. Any idea on why?\n\nI got a gif file to work with the image markdown syntax.",
+				"added": 1457027813
+			},
+			{
+				"comment_id": 11,
+				"body": "> [lukipuki](#comment_12_1CMYxdit4qq9QGk9DYRu2ruRPd2YDGckH8): btw i tried it here: http://127.0.0.1:43110/1HzKesHsWG3N96CfW9eC2aL9VKY7EDm2Zj/?Post:51:l%27enfer_film\n\nIt doesn't work. The only thing I've managed to get to work is .gif with image markdown syntax. I tried .mp4 and .webms with HTML5 video player and they dont seem to work.",
+				"added": 1457041845
+			}
+		],
+		"2_1GCsW9TFfjDsvcdmKPADq1n8Q3ha72UtDQ": [
+			{
+				"comment_id": 10,
+				"body": "> [theworstsupport](#comment_3_13zsigUYso1gENPWyPd66wVACoF32W4Mnq): Visual Basic .NET please don't kill me\n\nAs long as you promise you'll learn another language and not just end with Basic.",
+				"added": 1457028002
+			}
+		],
+		"1_1N1WCav1oetiu7QpKNXmsfxpeGrEtZ3gCe": [
+			{
+				"comment_id": 12,
+				"body": "You can always use [Kaffeine Search](http://127.0.0.1:43110/1Mr5rX9TauvaGReB4RjCaE6D37FJQaY5Ba). That's what I use the most",
+				"added": 1457042078
+			}
+		],
+		"5_1GCsW9TFfjDsvcdmKPADq1n8Q3ha72UtDQ": [
+			{
+				"comment_id": 13,
+				"body": "> [jesusfckngchrist](#comment_1_1NZzwF41g4xAn2R6t8UC625wEDfQtQdB1B): Yes, since you mention VPS, try a linux one... Or try vagrant/docker, easier to setup...\n\nWhen I tried to set up with a linux server, I got this error when trying the following line of code:\n`python get-pip.py --user gevent msgpack-python`\nIt throws this error\n`Could not import setuptools which is required to install from a source distribution. Please install setuptools.",
+				"added": 1457124482
+			},
+			{
+				"comment_id": 14,
+				"body": "> [angristan](#comment_42_1MEWJRMLgvofqG9Mbsb2Rc4hFFyv7HeRx7): You don't have root access ? This works well for me https://zeronet.readthedocs.org/en/latest/using_zeronet/installing/#linux\n\nI don't think root access is the problem, and yes I used that same install guide. Just for shits and giggles though, my root permissions are `drwxr-xr-x`. I moved it to a folder with full permissions and the same problem persists.",
+				"added": 1457124996
+			}
+		]
+	},
+	"comment_vote": {
+		"41_17i7Y7r8nTaCfLbCAuaKyc4R5BbKZYU2Hr": 1,
+		"1_19KtmLJftUcLg5ZtwmAfe616J2vp6iJBHU": 1,
+		"59_1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD": 1,
+		"1_1E9uQVsfNme1Zot3ZaKYSd4VDagq4efSqt": 1
+	}
+}

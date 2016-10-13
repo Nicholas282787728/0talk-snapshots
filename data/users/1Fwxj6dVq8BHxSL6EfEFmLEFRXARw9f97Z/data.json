@@ -1,0 +1,39 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "Здесь РУССКИЙ дух, здесь РУСЬЮ пахнет!",
+			"body": "\nхуй",
+			"added": 1457766847
+		}
+	],
+	"topic_vote": {
+		"2_1NyFX6DUcyMs3S76Vz8X7ssDLC4uCCA1YM": 1,
+		"1_1Fwxj6dVq8BHxSL6EfEFmLEFRXARw9f97Z": 1
+	},
+	"next_comment_id": 11,
+	"comment": {
+		"2_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": [
+			{
+				"comment_id": 1,
+				"body": "хуй",
+				"added": 1457766811
+			}
+		],
+		"2_1NyFX6DUcyMs3S76Vz8X7ssDLC4uCCA1YM": [],
+		"1_1Fwxj6dVq8BHxSL6EfEFmLEFRXARw9f97Z": []
+	},
+	"comment_vote": {
+		"2_1Fwxj6dVq8BHxSL6EfEFmLEFRXARw9f97Z": 1,
+		"1_1H6LWi1ksFHLH1fa8jmC71PD8jTmsvuaNw": 1,
+		"11_1FZxKCwPzn7rvLaNi2rE7QHwvyq14XVWzi": 1,
+		"5_1Fwxj6dVq8BHxSL6EfEFmLEFRXARw9f97Z": 1,
+		"4_1Fwxj6dVq8BHxSL6EfEFmLEFRXARw9f97Z": 1,
+		"3_1Fwxj6dVq8BHxSL6EfEFmLEFRXARw9f97Z": 1,
+		"65_15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ": 1,
+		"6_1Fwxj6dVq8BHxSL6EfEFmLEFRXARw9f97Z": 1,
+		"7_1Fwxj6dVq8BHxSL6EfEFmLEFRXARw9f97Z": 1,
+		"8_1Fwxj6dVq8BHxSL6EfEFmLEFRXARw9f97Z": 1
+	}
+}

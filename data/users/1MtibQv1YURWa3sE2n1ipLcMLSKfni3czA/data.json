@@ -1,0 +1,23 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 3,
+	"comment": {
+		"1_1LJLVfT9hKRuTHzBKTpse57PGfpwx82myR": [
+			{
+				"comment_id": 1,
+				"body": "You mean like, \"Top in the last 7 days\"?",
+				"added": 1469761217
+			}
+		],
+		"1_19RagxAc2n7zYdfbfda2Zc4dRoHRJzyAxo": [
+			{
+				"comment_id": 2,
+				"body": "> [chloe](#comment_7_1LJLVfT9hKRuTHzBKTpse57PGfpwx82myR): You don't get spam in your post box do you? Make all post cost a penny or less and only quality things will be posted.\n\nNot sure what postal carrier you have but I get unwanted mail all of the time and that costs money for them to send out.  In fact these deadtree spammers practically pay for the USPS to operate: https://journey24pointoh.com/2012/02/29/the-united-states-postal-service-subsidized-by-junk/",
+				"added": 1470159007
+			}
+		]
+	},
+	"comment_vote": {}
+}

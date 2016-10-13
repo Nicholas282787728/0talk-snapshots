@@ -1,0 +1,15 @@
+{
+ "cert_auth_type": "web",
+ "cert_sign": "HJABiJGNe8XTl+aVWqekdnvxCrnsYaJoya9AwKtq5oSXo737NR0NUH3SfKxGbCGUWv4rAtqCaiI1rGsMZ6I8WBc=",
+ "cert_user_id": "anubis022@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "4454f5d0c5164eb6f2eaf1b063bff09d1cc3ecb3b79a14c6c0efa4063f8690bd",
+   "size": 253
+  }
+ },
+ "modified": 1455216352.561156,
+ "signs": {
+  "1C5P3N5keQ9STGDNrQKQTUCfM25E7n3xMv": "HPniceMDcwadVsWkFd/12RY3yp0XUZ5oHr2bqq2+WQKV0WRQrRW4VK8fLnkCjsCaxZTFzgj8G00ViUgltoFHTjU="
+ }
+}

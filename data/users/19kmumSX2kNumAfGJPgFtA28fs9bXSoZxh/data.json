@@ -1,0 +1,23 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "Upnp open port works rarely",
+			"body": "I'm on version 0.3.4 (r667) and lately the port never opens.  Other upnp ports open fine with other programs.  I tried disabling windows firewall to see if that helped and still no luck.  It use to have no difficulties.  Is this a bug with the new version?",
+			"added": 1451400134
+		}
+	],
+	"topic_vote": {},
+	"next_comment_id": 2,
+	"comment": {
+		"1_19kmumSX2kNumAfGJPgFtA28fs9bXSoZxh": [
+			{
+				"comment_id": 1,
+				"body": "BTW:  Not looking for brain storming in fixing the problem.   Just curious if it's a bug...    Maybe it will fix itself next version...",
+				"added": 1451401959
+			}
+		]
+	},
+	"comment_vote": {}
+}

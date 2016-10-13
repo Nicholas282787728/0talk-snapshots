@@ -1,0 +1,15 @@
+{
+ "cert_auth_type": "web", 
+ "cert_sign": "HECi/Yeo6NRPyMj0pfSzQGBPknRoR2jPQ/STyrT9dbmQjPxaesq3WDdY+QtIHd4ehu6FGdWL8q1Q447+FIxYuR4=", 
+ "cert_user_id": "slowas@zeroid.bit", 
+ "files": {
+  "data.json": {
+   "sha512": "464f336ee45791fb7fab400001e0f5e666e882abe3706edfffbcc84a899a656c", 
+   "size": 362
+  }
+ }, 
+ "modified": 1456997264.027009, 
+ "signs": {
+  "1JU8zQ7nZGRU2HvXxrSM9S341gufgzvwtt": "G4Gcwzk8yEOMi4exXvp0eHS8MClo3cww1FsDn858XDKStcZwcXe3R18lhpVR0tmwIDXvTgGDqY8GNUAWIWI+xeQ="
+ }
+}

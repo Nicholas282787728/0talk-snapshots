@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "G2yhZRVkHcai/25dsedhLC4ohAeFFStrylDpZCtZvsbeWARTYinZ5nLPLjRP9i+kl+LGHROk1LyIyvOJweB21uw=",
+ "cert_user_id": "theepicsnail@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "0904311926c50379338c0bbc8a37ce78dba36b333c0fc845576fb6ce6fac6614",
+   "size": 248
+  }
+ },
+ "inner_path": "data/users/1ETSVT12fTbz8joQwjGdats3YfXEzryRAA/content.json",
+ "modified": 1456897343.92548,
+ "signs": {
+  "1ETSVT12fTbz8joQwjGdats3YfXEzryRAA": "G71Hk+B5+u1agdCJOkCR10FSJ4t8Zyc22S0QGFdwmhyScdn9FFXVL2xDUq68HOoYEc9V/f+SJ5B/pWTd6aMldc4="
+ }
+}

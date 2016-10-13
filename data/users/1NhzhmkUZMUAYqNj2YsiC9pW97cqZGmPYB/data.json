@@ -1,0 +1,35 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "SOMEONE NEED A NEW FRIEND ?",
+			"body": "Answere me please if you want a new friend :)",
+			"added": 1463071527
+		}
+	],
+	"topic_vote": {},
+	"next_comment_id": 4,
+	"comment": {
+		"1_16S7cvRVax2agHYdAcWDRicQdZXZ6PAhmt": [
+			{
+				"comment_id": 1,
+				"body": "Yes i can see you xD",
+				"added": 1463071286
+			},
+			{
+				"comment_id": 2,
+				"body": "▒▬▬▬▬▬▒                                                                                 \n                                                       ▀ █ █ ▀                                                                               \n                                                           ■■■                                                                                 \n                                                                                                                                          \n                                        ▄▄▄▓▓███████▓▓▄▄▄ █▀▀▀\"\"\"\"\"\"\"\"\"\"\"\"\"\"                                                                               \n                                                 ▀███▒█▒███▀                                                                                   \n                                                        ██ █ ██                                                                                   \n                                                          █ █                                                                                 \n                                                         ▄█ █▄                                                                               \n                                               ▓█▓█▓█▓█▓█▓",
+				"added": 1463071371
+			},
+			{
+				"comment_id": 3,
+				"body": "xD",
+				"added": 1463071404
+			}
+		]
+	},
+	"comment_vote": {
+		"1_16S7cvRVax2agHYdAcWDRicQdZXZ6PAhmt": 1
+	}
+}

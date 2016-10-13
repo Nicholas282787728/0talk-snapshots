@@ -1,0 +1,21 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 3,
+	"comment": {
+		"1_1HMRzb6FeATsL87krzdUSNZEcYMA8t6RG2": [
+			{
+				"comment_id": 1,
+				"body": "hola",
+				"added": 1460565903
+			},
+			{
+				"comment_id": 2,
+				"body": "Alguien sería tan amable de explicar como se buscan los .torrent?",
+				"added": 1460565957
+			}
+		]
+	},
+	"comment_vote": {}
+}

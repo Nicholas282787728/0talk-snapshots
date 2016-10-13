@@ -1,0 +1,32 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "ZeroNet site with Webtorrent player?",
+			"body": "Any site on here that has a Webtorrent player where you can add magnet links to watch?",
+			"added": 1463605698
+		}
+	],
+	"topic_vote": {
+		"1_14uHGcnMinwK9ZdSQosHqjRV4eBCxkv9Mu": 1
+	},
+	"next_comment_id": 3,
+	"comment": {
+		"1_14uHGcnMinwK9ZdSQosHqjRV4eBCxkv9Mu": [
+			{
+				"comment_id": 1,
+				"body": "Apparently this little piece of code is enough to get the player running. I can't however get it to work with any other magnet or torrent link...\n\n<!DOCTYPE html>\n<html>\n<head>\n    <title></title>\n    <script src=\"https://cdn.jsdelivr.net/webtorrent/latest/webtorrent.min.js\"></script>\n</head>\n<body>\n<script type=\"text/javascript\">\n\nvar client = new WebTorrent()\n\nvar torrentId = 'https://webtorrent.io/torrents/sintel.torrent'\n\nclient.add(torrentId, function (torrent) {\n  var file = torrent.files[0]\n  file.appendTo('body') // append the file to the DOM\n})\n</script>\n</body>\n</html>",
+				"added": 1463608890
+			}
+		],
+		"1_13EDCw412fCWqTmR4RxRw99aEd2ucYzDyM": [
+			{
+				"comment_id": 2,
+				"body": "For some reason only the sintel.torrent is working...",
+				"added": 1467003657
+			}
+		]
+	},
+	"comment_vote": {}
+}

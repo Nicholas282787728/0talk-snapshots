@@ -1,0 +1,25 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "Add image to blogpost",
+			"body": "Hey, i tried searching a bit, but do anyone know if it is possible to add an image to a Zeroblog post? And if so, how?",
+			"added": 1465921170
+		}
+	],
+	"topic_vote": {
+		"4_1FTFKztuv4Z5uy6iS83k9hB2xtS6yFnDxx": 1
+	},
+	"next_comment_id": 2,
+	"comment": {
+		"4_1FTFKztuv4Z5uy6iS83k9hB2xtS6yFnDxx": [
+			{
+				"comment_id": 1,
+				"body": "Haha, this is awesome! Good job kindlyfire!",
+				"added": 1465920453
+			}
+		]
+	},
+	"comment_vote": {}
+}

@@ -1,0 +1,16 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 2,
+	"comment": {
+		"8_1GervYZoP82e8X1Rgc4wyMkJY2zSsJuq8t": [
+			{
+				"comment_id": 1,
+				"body": "What should I see when I enter the site ?",
+				"added": 1472148703
+			}
+		]
+	},
+	"comment_vote": {}
+}

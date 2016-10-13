@@ -1,0 +1,211 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {
+		"1_12Ex3Mrd75wY2r5rB21jBcmgj9hxwUK1w2": 1,
+		"3_168qV1Xxp2EyszrzdECLUwXrn9wGYjDdar": 1,
+		"1_12fNTMaQH1mN5bPehdvkNgTAVxzQXop87e": 1,
+		"8_17fgJ3tZjhM7HCkTkd5TWf2BLLWmhRKcXB": 1,
+		"1_1ASQXi7waaCUePWHbbsM2LSPVZ8dHGm7LQ": 1,
+		"5_1KwTTgPRSTHFmmJAFBt6kQfdyNeSM5KJuH": 1,
+		"4_1MEWJRMLgvofqG9Mbsb2Rc4hFFyv7HeRx7": 1,
+		"1_1F6BMqittjWUStzUbRXm2kG2GQ3RdBLqFQ": 1,
+		"1_1BQg5MQZ63aEQZMzLEXP6yY3hsgznKpaps": 1,
+		"1_145RMBphDHxfAeUP5YPjozVkSMSw1GppVA": 1,
+		"1_1MuqWEiJ8VCCZMHZ6hcJW35RMEgm7VVED5": 1,
+		"2_1BidR2Pw65fTPeh1R3LbwCdfEJUPB6FLes": 1,
+		"3_1PVcdu7USZH2kHMETbqDYLPjJZKCDWM52k": 1,
+		"6_13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ": 1,
+		"4_1HDGK4rrMzuouF8hNnxfMNpWyR8qAtP4HR": 1,
+		"4_19R2USgb9vPyg1jPQEJkGVoBwDuDcEmHRF": 1,
+		"1_1FWsCi4sgjq9PyF3fdirysiehYVn162NGW": 1,
+		"24_1CMYxdit4qq9QGk9DYRu2ruRPd2YDGckH8": 1,
+		"1_15JNF8bdyG4zEWVASsgbkFirzM6gyYpSBA": 1
+	},
+	"next_comment_id": 24,
+	"comment": {
+		"8_1PNyuY1iZqXBpft4ArouqcnE4pNRGYij5i": [
+			{
+				"comment_id": 1,
+				"body": "r/bitcoin",
+				"added": 1441573203
+			}
+		],
+		"1_12Ex3Mrd75wY2r5rB21jBcmgj9hxwUK1w2": [
+			{
+				"comment_id": 2,
+				"body": "IPFS - an alternative protocol to HTTP for realizing a permanent web based on a global content-addressed datastore. (I've been following it.). Also following Storj -- an decentralized storage incentivized by a cryptocurrency.",
+				"added": 1454653949
+			}
+		],
+		"10_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf": [
+			{
+				"comment_id": 3,
+				"body": "1. Ability to deploy standard websites (forum, reddit-clone, chat) without any code. Point-and-click for non-coders.\n2. Private communities -- password-protected and encrypted.",
+				"added": 1454654127
+			}
+		],
+		"2_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": [
+			{
+				"comment_id": 4,
+				"body": "a test",
+				"added": 1457043197
+			},
+			{
+				"comment_id": 18,
+				"body": "post",
+				"added": 1462120827
+			}
+		],
+		"1_1ASQXi7waaCUePWHbbsM2LSPVZ8dHGm7LQ": [
+			{
+				"comment_id": 5,
+				"body": "A reminder of how important signing is in package managers.",
+				"added": 1457534415
+			},
+			{
+				"comment_id": 8,
+				"body": "> [nofish](#comment_462_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): It was signed: \"The KeRanger application was signed with a valid Mac app development certificate\"\n\nRight, the distribution channel was totally compromized. All I'm saying is that a major package manager with proper security practices is much less likely to get compromized then basically a random website on the Internet.",
+				"added": 1457537318
+			}
+		],
+		"1_1LJMypJ67iEBwah82xwVVdB8SGZ1mwqgHQ": [
+			{
+				"comment_id": 6,
+				"body": "If you run zeronet with '--tor always' then it should only connect via tor.\nOn Linux, you can check incoming and outgoing connections and listening ports using 'lsof -i -n -P', look for python2 for zeronet, it should only listen on local interface and all connections should be to localhost (127.0.0.1), which is how Tor connections appear.\nOn Windows... good luck with toy operating systems ;)",
+				"added": 1457536892
+			}
+		],
+		"1_1BQg5MQZ63aEQZMzLEXP6yY3hsgznKpaps": [
+			{
+				"comment_id": 7,
+				"body": "> [sojka](#comment_1_1PguxwuQ8jcjw6Lp7AFWgWDxb36NVpNWXu): Arch on laptop and Arch on Raspberry Pi as ZeroNet seeder\n\nRunning on 24/7 on an ARM board here, too. Arch, of course ;)",
+				"added": 1457537046
+			}
+		],
+		"4_1MEWJRMLgvofqG9Mbsb2Rc4hFFyv7HeRx7": [
+			{
+				"comment_id": 9,
+				"body": "This is nice, but a little too risky. I really would like to manually inspect the website before I agree to host it.",
+				"added": 1457537567
+			}
+		],
+		"2_1MCsyW6W243LY69ZYm99XbV3M8Gbbrp5hF": [
+			{
+				"comment_id": 10,
+				"body": "there's also cryptostorm.is",
+				"added": 1457745003
+			}
+		],
+		"1_1AFL4FFT3BuEDwTwVqychMq4LbxjuEY5Ss": [
+			{
+				"comment_id": 11,
+				"body": "Grand objective... little code.",
+				"added": 1457745070
+			}
+		],
+		"1_145RMBphDHxfAeUP5YPjozVkSMSw1GppVA": [
+			{
+				"comment_id": 12,
+				"body": "Do it! Data: https://dumps.wikimedia.org/\nRelevant info: https://github.com/ipfs/archives/issues/20",
+				"added": 1457745277
+			}
+		],
+		"7_1LJMypJ67iEBwah82xwVVdB8SGZ1mwqgHQ": [
+			{
+				"comment_id": 13,
+				"body": "I switched to Tox from Jitsi. qTox is working out nicely for me on Linux, out-of-the-box. Have yet to check out Antox's new audio feature on Android.",
+				"added": 1459387081
+			}
+		],
+		"7_17i7Y7r8nTaCfLbCAuaKyc4R5BbKZYU2Hr": [
+			{
+				"comment_id": 14,
+				"body": "PEL: Partially Examined Life -- if you're into philosophy and interested in reading some notable works (before listening to the discussion).",
+				"added": 1459387322
+			}
+		],
+		"1_1LBz6orS5KPtvoS7BaTsgquYnMsystDNjE": [
+			{
+				"comment_id": 15,
+				"body": "I've been running in on a similar ARM board, on Arch Linux ARM. No issues.",
+				"added": 1460347118
+			}
+		],
+		"1_1JQmAwSmx4VFEbYchZGAwqC9QppdKBENsb": [
+			{
+				"comment_id": 16,
+				"body": "I know this thread is resurrected from last year, but in any case: post your problems or suggestions for the AUR packages, and I will try my best to help and improve.",
+				"added": 1461904333
+			}
+		],
+		"4_1CMjV2r4EBpFt8VCcWWZKDysZXPcPExRNN": [
+			{
+				"comment_id": 19,
+				"body": "Yes it works on Raspberry Pi (or any ARM, in general). I run it off an Odroid board that's on 24/7 and runs several other applications that like to be always on. Paying for VPS, is one approach (many offers on lowendbox.com), but getting a cheap low-power ARM board in every home seems more promising for the future.",
+				"added": 1465168761
+			}
+		],
+		"1_1FWsCi4sgjq9PyF3fdirysiehYVn162NGW": [
+			{
+				"comment_id": 20,
+				"body": "That's why the only interesting development will be a completely user-generated torrent aggregator. If there is an admin, then it's nothing interesting -- it will die sooner or later.",
+				"added": 1468732695
+			}
+		],
+		"2_1J7dTw3ZsXUsXzpBqVWVj5aXRUMsMC6Nfc": [
+			{
+				"comment_id": 21,
+				"body": "Calling a closed-source app secure is silly.",
+				"added": 1468732834
+			}
+		],
+		"1_1GKVos5hEJ2zKjKfjXurFCfxwjtvT2CD28": [
+			{
+				"comment_id": 22,
+				"body": "No.",
+				"added": 1468732865
+			}
+		],
+		"1_1CYra61M5noh9Uj5aAdRtRFikdhkQiXeB9": [
+			{
+				"comment_id": 23,
+				"body": "Zeronet works fine on armv7h.",
+				"added": 1469314847
+			}
+		]
+	},
+	"comment_vote": {
+		"50_168qV1Xxp2EyszrzdECLUwXrn9wGYjDdar": 1,
+		"25_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf": 1,
+		"11_17i7Y7r8nTaCfLbCAuaKyc4R5BbKZYU2Hr": 1,
+		"14_1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD": 1,
+		"21_1LWuc6JBhUGrKEAh1aPrPU85dEMcKmg3pS": 1,
+		"94_1ED3Ho3kmzaKiECtyuqSjDpoE47rKuXeP": 1,
+		"156_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf": 1,
+		"259_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"11_1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD": 1,
+		"18_1EMpuiFM1NLZmAVyoAWnwi8VwiZVV4dcnN": 1,
+		"61_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1,
+		"1_1PguxwuQ8jcjw6Lp7AFWgWDxb36NVpNWXu": 1,
+		"1_1MahZJTzjoEMMCv2jBReDWhyNGRhN5tvDq": 1,
+		"13_1GNdkBSxTw6SpRdGHxDCyfANXnwi7FG7rJ": 1,
+		"11_1BDTDgpyizvUDsc1hcL1pjCvXCy4ozzSFN": 1,
+		"1_1EtRhLYL2MQk5jvEYdy9NkKLEBUAwAjGRf": 1,
+		"2_1LJP7tDoGnWNppUGJoNS8cJbmYTS1TecCC": 1,
+		"23_16AFTG7vdicwJbRQpWc2F9BRHTE5MTftE7": 1,
+		"85_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf": 1,
+		"10_16AFTG7vdicwJbRQpWc2F9BRHTE5MTftE7": 1,
+		"9_1BNmjz9tBLY3M1tq2z7DKvA1LjFXYsmLd9": 1,
+		"19_1EMpuiFM1NLZmAVyoAWnwi8VwiZVV4dcnN": 1,
+		"28_15QGRquMETTn5LnCHjTm1qa9eaXGtq7gpT": 1,
+		"14_1FjXt18Hp1boVSpHrxwwYzpWxbNdukf1hF": 1,
+		"82_1MEWJRMLgvofqG9Mbsb2Rc4hFFyv7HeRx7": 1,
+		"10_1DXR2Di8Ks9JijfNycWErpenoxxchrdWBB": 1,
+		"62_1CMYxdit4qq9QGk9DYRu2ruRPd2YDGckH8": 1,
+		"3_1DEGNzqUcsqYMGB68Py4M7UdksAd5ed4AW": 1,
+		"10_13k6itGVhzLTZUZKiqWWJ5KdvVUEMqDWDv": 1,
+		"3_13Cqt2MSFS6eu4cbVuByZBuULrEAcZAqFG": 1,
+		"7_1JF3eQjW4voiKdcvCkMXvUx5bLmZAiVdyi": 1
+	}
+}

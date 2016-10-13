@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "G4NSIjN4lEuEBiJp/VawKdeexIFXxYZW+XN25B59kPN77j2oshh8SVt6AWnOGPi603hS0oDDnKuKJhA6bIJ+qXg=",
+ "cert_user_id": "lenovo@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "ea3b13a222dad18717c4832e4a16615165deb1676d89223a8cb5a468803851ab",
+   "size": 387
+  }
+ },
+ "inner_path": "data/users/146V8kpfeor1py3KV7jL8sZNVjqL2MBCkM/content.json",
+ "modified": 1457488376.237461,
+ "signs": {
+  "146V8kpfeor1py3KV7jL8sZNVjqL2MBCkM": "HOEH0O3eC/4oZrIw9QQwdetijigOwLJ/K9PhP9a0i5cQ/j/AOl5gWJcBiHZj7I5CwhbLQO48kZa5AJfquMv3pVQ="
+ }
+}

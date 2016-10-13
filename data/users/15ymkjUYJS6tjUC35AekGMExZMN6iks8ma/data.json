@@ -1,0 +1,229 @@
+{
+	"next_topic_id": 8,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "Want to use TorBrowser for ZeroNet",
+			"body": "Hi!\n\nHow do I set TorBrowser to be my default browser for just ZeroNet (I want to use Safari as my default for everything else).\n\nThanks in advance!",
+			"added": 1457019973
+		},
+		{
+			"topic_id": 2,
+			"title": "Start ZeroNet using Mac",
+			"body": "Hi, everyone!\n\nAfter:\n1) Install home-brew\n2) brew install python\n3) pip install gevent msgpack-python\n4)Download, Unpack zeronet.py\n\nI had to right-click on \"zeronet.py\", then chose open with python and then do the same with \"start.py\" (and also right-click and choose Python) in order to run ZeroNet.\n\nAre you others that are using Mac running/starting ZeroNet in any other way, e.g. through the terminal?\n\nWhy I am asking is because I have some other problems that I cannot figure out. ZeroNet is working, but my common is not, I am guessing it is because I am not running it through the terminal, but I am not sure.",
+			"added": 1457050416
+		},
+		{
+			"topic_id": 3,
+			"title": "[SOLVED] How to use ZeroNet with Tor? (Mac)",
+			"body": "The instruction says: \n\n\"If you want to hide your IP install the latest version of ZeroNet then start it using the  [zeronet.py --tor always] parameter.\"\n\nStupid question, but where do I put/write \"zeronet.py --tor always\"?\n\nThanks in advance!",
+			"added": 1457120313
+		},
+		{
+			"topic_id": 4,
+			"title": "[SOLVED] Images on blogs",
+			"body": "If I want to post images on my blog, do I have to upload them on the web first, and then use that URL?",
+			"added": 1457279216
+		},
+		{
+			"topic_id": 5,
+			"title": "UiWSGIHandler error: [Errno 32] Broken pipe in UiServer.py",
+			"body": "Anyone who knows how to fix this problem?  \nI am using Mac and running version 10.11.3.",
+			"added": 1457393254
+		},
+		{
+			"topic_id": 6,
+			"title": "[SOLVED] \"Content sign failed: invalid private key\" and \"File write error: [object Object]\"",
+			"body": "I am trying to reply on to one of the comments on my blog. However, I write my reply and hit \"Save,\" I get the following errors: \"Content sign failed: invalid private key.\"  and  \"File write error: [object Object]\".\n\nI do not know why I suddenly can't answer blog comments; I have done it before without any problem. \nI have no problem adding new blog post and stuff, just replying on comments for the moment.\n\nDoes anyone have an idea how to fix it (I'm using a OSX )?",
+			"added": 1459290915
+		},
+		{
+			"topic_id": 7,
+			"title": "[SOLVED] Transfer old ZeroNet data to a new computer",
+			"body": "I have just bought a new computer (Mac), and I want to transfer my old ZeroNet data to the new computer. \n\nOLD COMPUTER:  ZeroNet was installed by using the Mac's terminal and through \"Brew\", which created a ZeroNet-master folder etc. and I have all my data there.\n\nNEW COMPUTER: I recently installed ZeroNet on my new computer but, this time, I installed GitHub's ZeroNet bundle. \n\nQuestion: What do I have to do, what files do I have to transfer, what should I **not** do,  in order to transfer my user ID, my mail, my blog, all sites, etc., in a correct way?  I just want everything to look and work when I log in as it did before. \n\nI'm a complete idiot when it comes to this sort of stuff (as I think you have figured out by now), I would really appreciate your help.",
+			"added": 1459539262
+		}
+	],
+	"topic_vote": {
+		"2_15ymkjUYJS6tjUC35AekGMExZMN6iks8ma": 1,
+		"3_15ymkjUYJS6tjUC35AekGMExZMN6iks8ma": 1,
+		"4_15ymkjUYJS6tjUC35AekGMExZMN6iks8ma": 1,
+		"5_15ymkjUYJS6tjUC35AekGMExZMN6iks8ma": 1,
+		"1_16nZf7G4qaYRtFpHM9MM1A32nV5oqU9TW1": 1,
+		"6_15ymkjUYJS6tjUC35AekGMExZMN6iks8ma": 1
+	},
+	"next_comment_id": 30,
+	"comment": {
+		"1_15ymkjUYJS6tjUC35AekGMExZMN6iks8ma": [
+			{
+				"comment_id": 1,
+				"body": "So in \"start.py\":\n\n\"def main():\n    sys.argv += [\"--open_browser\", \"default_browser\"]\n    zeronet.main()\"\n\nshould I change/add to\n\n\"def main():\n    sys.argv += [\"--open_browser\",  \"--tor always\"]\n    zeronet.main()\"\n\nI tried that yesterday but could not get it working.",
+				"added": 1457020439
+			},
+			{
+				"comment_id": 2,
+				"body": "> [dirtydem](#comment_3_19gFBQKVBoGDvewv8JLmYDa8ZQGvVTUhhL): I think I've read this script yesterday and this is for using always the proxy used by Tor in the browser you installed ZeroNet, not implies that is gonna open TorBrowser when you click a link to 127.0.0.1 and so on\n\nOkay, so they only option I have is to set the TorBrowser as my default browser for everything?",
+				"added": 1457023871
+			},
+			{
+				"comment_id": 3,
+				"body": "> [theta](#comment_2_15ymkjUYJS6tjUC35AekGMExZMN6iks8ma): Okay, so they only option I have is to set the TorBrowser as my default browser for everything?\n\nIt didn't work. I guess that I just have to wait until someone makes a Youtube-clip about it :)",
+				"added": 1457025290
+			},
+			{
+				"comment_id": 4,
+				"body": "> [dirtydem](#comment_4_19gFBQKVBoGDvewv8JLmYDa8ZQGvVTUhhL): You could save the main menu of ZeroNet as a favourite site and open it up only In Tor, use the regular browser for everything else\n> Personally I'm using Chrome here, I would only change if I'd see it as a very recommend step for privacy, but for the moment...\n\nThank you for your help!",
+				"added": 1457025398
+			}
+		],
+		"2_15ymkjUYJS6tjUC35AekGMExZMN6iks8ma": [
+			{
+				"comment_id": 5,
+				"body": "> [kaffie](#comment_32_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh): I'm on mac and run zeronet through the terminal with the pre-installed python. Just navigate to the folder and then 'python netzero.py'. I didn't install python through homebrew at all.\n\nSorry for a stupid question but I have almost never used terminal before installing homebrew. \n\nHow do I navigate to the folder?",
+				"added": 1457051938
+			},
+			{
+				"comment_id": 6,
+				"body": "> [bucky](#comment_4_1ErPzcG2oTKhq4q7MyDhvuUQBDtpD4i9mR): The site swallowed the number sign… there needs to be a number sign (#) before the exclamation mark (#!). And you need to chmod +x your shell script, of course.\n\nThanks bucky, I really appriacte your help! \nThink and write to me as I was a five-year old child. \nI downloaded bitbar and run it. I got like 4-5 warning signs in my bar. \n\nHowever, when I run your code:\n\"#! /bin/bash\ncd~/Applications/ZeroNet-master/python zeronet.py\"\n\nI get the following message:\n\"-bash: cd~/Applications/ZeroNet-master/python : No such file or directory\"",
+				"added": 1457118758
+			}
+		],
+		"3_15ymkjUYJS6tjUC35AekGMExZMN6iks8ma": [
+			{
+				"comment_id": 7,
+				"body": "I only get \"status error ([Errno 61] Connection refused)\" when I try to activate Tor",
+				"added": 1457120920
+			},
+			{
+				"comment_id": 8,
+				"body": "> [mtsvip](#comment_6_17tRugXJrS18zKWVEYqZCPisSTk43hqUzx): brew install torthen run tor in a second window. \n> Edit config to enable controll protocol:mcedit /etc/tor/torrcRemove the # character from lines ControlPort 9051 and CookieAuthentication 1 (line ~57)\n\nHi, thanks for taking the time to answer my question.\n\n\nI have now \"brew install tor\", \nwhat to you mean with run tor in a second window, do I just write \"tor\" into a second terminal window?",
+				"added": 1457123430
+			},
+			{
+				"comment_id": 9,
+				"body": "> [theta](#comment_8_15ymkjUYJS6tjUC35AekGMExZMN6iks8ma): Hi, thanks for taking the time to answer my question.\n> I have now \"brew install tor\",what to you mean with run tor in a second window, do I just write \"tor\" into a second terminal window?\n\nalso, in my \"torrc\"-file.  I did not have any \"#\", it look like this:\n\n\"# Tor config for ZeroNet\n\nDataDirectory data\nDirReqStatistics 0\nGeoIPFile geoip\\geoip\nGeoIPv6File geoip\\geoip6\n\n# Log notice file data\\notice.log\n\nControlPort 49051\nSOCKSPort 49050\n\nCookieAuthentication 1\"",
+				"added": 1457123693
+			},
+			{
+				"comment_id": 10,
+				"body": "> [jdoig](#comment_1_1D33SjywZjLd2QdRgzYMprcxZPva9FGZ3h): in OSX:\n> \n> brew install tor\n> edit /usr/local/etc/tor/torrc.sample ... edit line ~57 to be: ControlPort 9051(removing the leading #) \n> save the file as /usr/local/etc/tor/torrc\n> form the console run: tor\n> run zeronet.py --tor always\n\n\nNow when I \"log in\" to ZeroNet, it says \"PORT: CLOSED\"  and \"TOR: ALWAYS\" in my top-right corner of the screen. So I guess it works.\n\nTHANK YOU VERY MUCH! :D",
+				"added": 1457126949
+			},
+			{
+				"comment_id": 11,
+				"body": "> [mtsvip](#comment_7_17tRugXJrS18zKWVEYqZCPisSTk43hqUzx): Great you got Tor working. Now open the port on your router if you want. If it's a UPNP supported router, it should have opened it automatically. I had to open it manually on my Apple Airport Extreme router.\n\nis it port \"9051\" you are referring to? (or 15441?, I have already enabled both UPNP and port 15441)",
+				"added": 1457127208
+			},
+			{
+				"comment_id": 13,
+				"body": "> [jdoig](#comment_2_1D33SjywZjLd2QdRgzYMprcxZPva9FGZ3h): It should be 15441 that's forwarded (just enabling UPNP did not work for me).\n> from the terminal run: ifconfiglook for an entry that looks like:\"inet 192.168.0.X\" (where X is some number)(usually on device 'eth0')Double check the ip address is the one that is forwarded on your router.\n\nYes, it is the same as I have forward. Thank you for caring! :)",
+				"added": 1457137134
+			}
+		],
+		"2_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": [
+			{
+				"comment_id": 12,
+				"body": "I must say that I'm really impressed how friendly the ZeroNet community is! :)",
+				"added": 1457134382
+			}
+		],
+		"2_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": [
+			{
+				"comment_id": 14,
+				"body": "I have the same problem and I'm running on OS X El Capitan. \nIt seems like \"ulimit -n\" is not enough, do one have to change in some other config-file as well?",
+				"added": 1457140559
+			},
+			{
+				"comment_id": 15,
+				"body": "There are a lot of people warning about changing the \"ulimit -n\" (e.g. https://github.com/ansible/ansible/issues/12259).\n\nTherefore, I hope that someone finds a safer way to get around this problem.",
+				"added": 1457179613
+			}
+		],
+		"2_11pADbvn3XmFZ5sbM9ZANRb5Gv9igHLCF": [
+			{
+				"comment_id": 16,
+				"body": "I hope ZeroNet will become more than just a content \"library\" for blog posts and other websites. I found ZeroNet by an article about its Play service, and I think it is crucial for ZeroNet to offer more unique and user-friendly functions just like that. \n\nEven though ZeroNet has a great, friendly and, not at least, very helpful community, it will still need innovation in order to attract new users. Of course, it is not the quantity of users that is the most important here, but hopefully,  the new users will be \"better with computers\" than me and also contribute to new smart content and functions.",
+				"added": 1457187395
+			},
+			{
+				"comment_id": 17,
+				"body": "> [crypton](#comment_22_17fgJ3tZjhM7HCkTkd5TWf2BLLWmhRKcXB): You forgot a huge aspect.  http://127.0.0.1:43110/cryptonbits.bit/?Post:5:Your+Zeronet+Site+is+a+Bitcoin+Wallet\n\nTrue!",
+				"added": 1457188313
+			}
+		],
+		"4_15ymkjUYJS6tjUC35AekGMExZMN6iks8ma": [
+			{
+				"comment_id": 18,
+				"body": "would someone be nice just to double-check (http://127.0.0.1:43110/1KVkSrfNoCRjjQEFDK3xKXeL71Byi2yLpF/?Post:5:In+progress)  that my test image does shows?",
+				"added": 1457287849
+			},
+			{
+				"comment_id": 19,
+				"body": "> [muja](#comment_62_17i7Y7r8nTaCfLbCAuaKyc4R5BbKZYU2Hr): I can't see the image. Did you sign and publish after adding it to your folder?\n\nI thought so, but I hadn't (had just signed the comments). Please try again.  :)",
+				"added": 1457290040
+			},
+			{
+				"comment_id": 20,
+				"body": "> [muja](#comment_63_17i7Y7r8nTaCfLbCAuaKyc4R5BbKZYU2Hr): It works! Nice. Great topic, looking forward to your posts.\n\nThank you muja, nofish, crypton, and medusa for taking your time helping me with this issue!\n It is much appreciated! :)",
+				"added": 1457294297
+			}
+		],
+		"3_168qV1Xxp2EyszrzdECLUwXrn9wGYjDdar": [
+			{
+				"comment_id": 21,
+				"body": "This is my finance blog: http://127.0.0.1:43110/1KVkSrfNoCRjjQEFDK3xKXeL71Byi2yLpF\nI will try to be as transparent as possible, and I promise you to not only tell the success stories, you will also learn about my failures.",
+				"added": 1457305349
+			}
+		],
+		"5_15ymkjUYJS6tjUC35AekGMExZMN6iks8ma": [
+			{
+				"comment_id": 23,
+				"body": "> [nofish](#comment_452_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): Where do you see this error? What browser are you using?\n\nI use Safari but the error appears in the terminal. \nI get it every time I visit e.g. GIF Time (http://127.0.0.1:43110/1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h) and other gif sites.",
+				"added": 1457395760
+			},
+			{
+				"comment_id": 24,
+				"body": "> [theta](#comment_23_15ymkjUYJS6tjUC35AekGMExZMN6iks8ma): I use Safari but the error appears in the terminal.I get it every time I visit e.g. GIF Time (http://127.0.0.1:43110/1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h) and other gif sites.\n\nWhat happens is that I can't watch gifs, instead of playing the gif, the gif is just black.",
+				"added": 1457440130
+			}
+		],
+		"1_16nZf7G4qaYRtFpHM9MM1A32nV5oqU9TW1": [
+			{
+				"comment_id": 25,
+				"body": "I have recently started a blog about finance and economics: http://127.0.0.1:43110/1KVkSrfNoCRjjQEFDK3xKXeL71Byi2yLpF",
+				"added": 1457727970
+			}
+		],
+		"7_17i7Y7r8nTaCfLbCAuaKyc4R5BbKZYU2Hr": [
+			{
+				"comment_id": 26,
+				"body": "- Freakonomics\n- Wall Street Unplugged with Frank Curzio\n- Masters in Business\n- The Economist Radio",
+				"added": 1457728181
+			}
+		],
+		"7_15ymkjUYJS6tjUC35AekGMExZMN6iks8ma": [
+			{
+				"comment_id": 27,
+				"body": "> [nofish](#comment_581_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): the easiest way is copy your old ZeroNet/data directory to new computer's ZeroNet/data directory\n\nSo, it is okay to copy the entire folder and replace files already existing files that have the same name?",
+				"added": 1459541648
+			},
+			{
+				"comment_id": 28,
+				"body": "> [nofish](#comment_582_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): Yes, would do this way:\n> \n> Stop ZeroNet (eg. using the ... menu in ZeroHello)\n> Rename data dir to data-bk\n> Copy the old data dir\n> Start ZeroNet\n> If everything is fine then you can delete the data-bk dir\n\nIt worked! \nThanks nofish for taking your time!",
+				"added": 1459542111
+			}
+		],
+		"6_15ymkjUYJS6tjUC35AekGMExZMN6iks8ma": [
+			{
+				"comment_id": 29,
+				"body": "Figured it out. \nI changed the \"max limit\" to 100K in the \" /user/content.json\" file.",
+				"added": 1459558411
+			}
+		]
+	},
+	"comment_vote": {
+		"34_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1,
+		"1_1D33SjywZjLd2QdRgzYMprcxZPva9FGZ3h": 1,
+		"6_1JA2umSc9f7VSNLaYLs1Cpk7rpvS4p18xe": 1
+	}
+}

@@ -1,0 +1,61 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {
+		"1_1EUyJtat7mbu5wMcR6nrJTPBBRons1mtMA": 1
+	},
+	"next_comment_id": 8,
+	"comment": {
+		"1_1GCsW9TFfjDsvcdmKPADq1n8Q3ha72UtDQ": [
+			{
+				"comment_id": 1,
+				"body": "If this happened, it would be amazing. I would hope it wouldn't be primarily for illegal stuff such as drugs (though it could be allowed) We already have a DNM for that. I would like an ebay type site with no fees for selling, so you get 100% of the cash the buyer pays.",
+				"added": 1456897246
+			},
+			{
+				"comment_id": 4,
+				"body": "> [noiamo](#comment_18_14XxpXNGMLsyeQxikacrbQnAFXVyhN5Ngx): I think other sites would be more useful than a market. For a market we need a lot of people and a complex system for escrowing antispamming antiscamming rating ! Also who will take responsibility for creating an official market that people will buy/sell drugs too or it will have some kind of censorship?\n\nNobody. Thats whats great about this platform. If I create a market platform and release it on here I am not liable for what is done with it. I am not hosting it, or allowing it to run. There is no one to hold liable for creating such a platform.",
+				"added": 1456942120
+			},
+			{
+				"comment_id": 5,
+				"body": "Ugh, its so trivial. I do not think there is a right answer, its speculative. If I create and upload a market platform with no visible intent for illegal use, can I still get in trouble? All I did was create a market source code, I do not host or maintain it. I just threw it out and let people do what they want with it. You cannot be prosecuted. Especially if the owner \"throws away\" the key to edit the site. Now, you could say that those hosting are responsible, but that's not realistically prosecutable. As I said, I think this is so out-there we will have to wait and see what happens.. I hope the platform catches on, though.  [noiamo](#comment_19_14XxpXNGMLsyeQxikacrbQnAFXVyhN5Ngx): Agreed",
+				"added": 1456974675
+			}
+		],
+		"1_1Q8iqH31cKCqynoJRxR2PfJhzQr8wHdiHr": [
+			{
+				"comment_id": 2,
+				"body": "Just downloaded ZeroTalk. Love this, and I hope it becomes popular. I know it will become popular. > [deafboy](#comment_7_1xf9XC4Nsa7YfQWFiK6xGsNDJA3AaCTUa): That Torrent Freak article sure helped a lot. Total for ZeroTalk: 524. Total for Play: 449 🚀",
+				"added": 1456897340
+			}
+		],
+		"1_1BdMXBp831M7V2CRJ6CwQGRuLA6PPpcxK8": [
+			{
+				"comment_id": 3,
+				"body": "No, there is no censorship. That is the point of the platform. And even if the media gets a hold of the story, it cannot be shut down by any government, since there is no central hosting. Its a censorship free, ultimate open web and no government and do anything to stop it or change it.",
+				"added": 1456941468
+			}
+		],
+		"4_1PX7VW6xfccTT2tNUTwrYKJpGsGfrnoJfP": [
+			{
+				"comment_id": 6,
+				"body": "What do you mean \"putting themselves on the blockchain.\" I am kinda out of the loop. Can anyone explain?",
+				"added": 1456974870
+			}
+		],
+		"1_1PcZp2QH1vFVxr6Kz7X527mVx7Nj6P7xBb": [
+			{
+				"comment_id": 7,
+				"body": "As others have said, you will not have your IP blacklisted. By default, your computer does not receive other peoples data from the tor network. It only uses the tor network to send data.",
+				"added": 1456975107
+			}
+		]
+	},
+	"comment_vote": {
+		"3_1GCsW9TFfjDsvcdmKPADq1n8Q3ha72UtDQ": 1,
+		"1_1LVL5r7L5AwFk7waWmBwuVZ8Fcg9NDxakY": 1,
+		"1_1AQLPLp3jur76cHZhkicmMoAqg6mqyTsTv": 1,
+		"383_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1
+	}
+}

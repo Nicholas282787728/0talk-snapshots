@@ -1,0 +1,23 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 3,
+	"comment": {
+		"2_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": [
+			{
+				"comment_id": 1,
+				"body": "test fkosdfgsdhgdfuhgsdf",
+				"added": 1457082659
+			},
+			{
+				"comment_id": 2,
+				"body": "I like the restriction of message 40k :D",
+				"added": 1457082718
+			}
+		]
+	},
+	"comment_vote": {
+		"11_1PmQPsmpcuDvtjKQ6J9g2bH39w1TKAwGPr": 1
+	}
+}

@@ -1,0 +1,18 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 2,
+	"comment": {
+		"1_1Kg7CXZM5h3wTPENsTDwWUmRBf9VhYy2cW": [
+			{
+				"comment_id": 1,
+				"body": "Zeronet needs to be publicized around the net so that it can explode. So far, there is not much interest on this from the general public. Apart there are services like Freenet and I2P, so it's going to take a while to make people transfer.",
+				"added": 1457200184
+			}
+		]
+	},
+	"comment_vote": {
+		"1_13tcdDYq9M2m3SGarHeBmeGxhjgtQ2Tg5J": 1
+	}
+}

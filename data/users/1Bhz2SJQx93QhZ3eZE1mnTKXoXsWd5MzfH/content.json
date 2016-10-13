@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HMoMoiOwafAgQkuN+JpAy4jPvmviqcQ2qR11DAlvMpnZPJkGGIAWKsy06geG00Tqp/DnJL4Jtlo1zmvZQvph0Eg=",
+ "cert_user_id": "stoneli@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "2de748f6ef723807b8216f82b9d30cd3a2d97d33c1d45474061d3ab300b2e57e",
+   "size": 597
+  }
+ },
+ "inner_path": "data/users/1Bhz2SJQx93QhZ3eZE1mnTKXoXsWd5MzfH/content.json",
+ "modified": 1460132213.993847,
+ "signs": {
+  "1Bhz2SJQx93QhZ3eZE1mnTKXoXsWd5MzfH": "HAjmujt1BN1DuRn6tec+Hmg+J5jMC2BqllnnPTjc6FgvOLvukC//u+ax2xpfAg3ylk7KOuD0eizVyEUq9+ZfLU0="
+ }
+}

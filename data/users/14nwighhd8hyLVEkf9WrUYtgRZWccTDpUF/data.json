@@ -1,0 +1,18 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 2,
+	"comment": {
+		"1_1CYra61M5noh9Uj5aAdRtRFikdhkQiXeB9": [
+			{
+				"comment_id": 1,
+				"body": "seems it is all python based programming, however, everything is client based, i.e. no centralized server. Once you put it on a piratebox, bam, it is now centralized which defeats the purpose of ZeroNet. HOWEVER, The piratebox could be used to host the files and all clients could communicate and share files over the piratebox communication network, Not really practical since a single router has a short range.",
+				"added": 1465652138
+			}
+		]
+	},
+	"comment_vote": {
+		"1_14nwighhd8hyLVEkf9WrUYtgRZWccTDpUF": 1
+	}
+}

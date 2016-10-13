@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HHAsx3AjFuDJW0QBI0m4vP3tvzLfQ7GyQVkoIyA01PYCQ3JmqETNUPNYdmghOi4xP7K/QtTfYkX2/48hLrDolYw=",
+ "cert_user_id": "icelion@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "f42fcdefa138603319c4e4a066d9e1b55a657d7d5a76a35a97dcee197e5639cd",
+   "size": 444
+  }
+ },
+ "inner_path": "data/users/19iFKyEPFnLVqhakGvr6T4iGqrSjK7qYAg/content.json",
+ "modified": 1468763789.756198,
+ "signs": {
+  "19iFKyEPFnLVqhakGvr6T4iGqrSjK7qYAg": "G3xE3XjcD5TPt9CtA+q1m6+wxQcgjxL7h8HJOsPs27JHWOX98JgvbhUSsIOPUMW4zMWT02T9rdT4CdmQLzQ3Fqc="
+ }
+}

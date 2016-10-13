@@ -1,0 +1,147 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "How big is your Zeronet Data Folder?",
+			"body": "Mine is 854 MB and growing!\n\nWhat do you think will it be in 2 years? Maybe 10GB?",
+			"added": 1454236808
+		}
+	],
+	"topic_vote": {
+		"1_153yJaRcL3ECYXYqnKAFWeRUHYs5rQiaj9": 1,
+		"1_168qV1Xxp2EyszrzdECLUwXrn9wGYjDdar": 1,
+		"4_1KdQMFyXwPY2vjMDL9UiPnckwGbyvUjpcj": 1,
+		"3_1MUqdrFhphoWYBHRgnKFnVR5DrsQ1Lx35V": 1
+	},
+	"next_comment_id": 22,
+	"comment": {
+		"2_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": [
+			{
+				"comment_id": 1,
+				"body": "hi",
+				"added": 1438222093
+			},
+			{
+				"comment_id": 4,
+				"body": "> [nofish](#comment_28_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): It's hard to tell, but 522 different user sent a message to ZeroBoard.\n\nreply test",
+				"added": 1438223632
+			},
+			{
+				"comment_id": 7,
+				"body": "> [o4zw5vmpoz5hz78z](#comment_13_1KTjPe9MxoYkcXj78GuZgCcj3R3f3Twh7r): This site currently served by 206 peers without any central server. They are online at the moment :)\n\nmy client is now 3 hours online and i see only 41 peers. why?",
+				"added": 1438241937
+			},
+			{
+				"comment_id": 18,
+				"body": "test number 34856",
+				"added": 1454242645
+			},
+			{
+				"comment_id": 21,
+				"body": "> [ace](#comment_2_1An7ATsNMMNqRgSgB2upWwbpXgFXQ9E2XD): You can edit posts\n\nthx. i looked for an edit button but it is a little hidden.",
+				"added": 1454442838
+			}
+		],
+		"1_153yJaRcL3ECYXYqnKAFWeRUHYs5rQiaj9": [
+			{
+				"comment_id": 2,
+				"body": "Nice! Will you add the Wiki and Blog too?",
+				"added": 1438222708
+			},
+			{
+				"comment_id": 6,
+				"body": "just make the two links on the top of the site work inside zeronet.\nhttp://retroshare.sourceforge.net/wiki/index.php/\nhttps://retroshareteam.wordpress.com/",
+				"added": 1438231012
+			}
+		],
+		"1_168qV1Xxp2EyszrzdECLUwXrn9wGYjDdar": [
+			{
+				"comment_id": 3,
+				"body": "Some Tutorials to make a Websites for Zeronet without coding would be great!\n\nhere are some Apps that can output Static html Pages without (much?) coding:\n\nLibreOffice   https://www.libreoffice.org/\nBlueGriffon   http://bluegriffon.org/\nAbiword   http://www.abisource.com/\nThingamablog  http://www.thingamablog.com/\nContruct 2   https://www.scirra.com/    not only great for Games. Free Version should be good for interactive Content\n\n",
+				"added": 1438223281
+			}
+		],
+		"2_16cnC4CxZKjMJNNopuiFQ9nVNiCk5mZ9CP": [
+			{
+				"comment_id": 5,
+				"body": "the link to this new site on the old one. where it say \"This forum is closed.\nPlease use the new one!\" the link didnt work for me.\n\nand please update the link here: https://zeronet.readthedocs.org/en/latest/using_zeronet/sample_sites/#zerotalk",
+				"added": 1438224902
+			}
+		],
+		"2_168qV1Xxp2EyszrzdECLUwXrn9wGYjDdar": [
+			{
+				"comment_id": 8,
+				"body": "> [lostfile](#comment_9_134tqSwDpKTdoPABqGskg1YMNptAxfu3Lh): check out my new Blog :3 1DniZHDZPWiCPC2JL6dURYm6dk9fWZeDbc\n\nnice blog like it. and i wrote some comments for you.",
+				"added": 1440061375
+			}
+		],
+		"8_1PNyuY1iZqXBpft4ArouqcnE4pNRGYij5i": [
+			{
+				"comment_id": 9,
+				"body": "Hacker News\nhttps://news.ycombinator.com/",
+				"added": 1442136487
+			}
+		],
+		"1_1KTyMhnssBpFUGavNRXQ5YNc15xTLkcfwD": [
+			{
+				"comment_id": 10,
+				"body": "i was using rs very much with version 0.5. but with 0.6 i cant get a connetion to any chatserver. (port is open) a link or download to the newest 0.6 win build would be nice. any other ideas? when i fire up rs again i will post my key here. hope i get it to work again.",
+				"added": 1454105576
+			},
+			{
+				"comment_id": 13,
+				"body": "> [dude](#comment_7_1APx2pf1wNGFz4mWCN2sFzrtTGzrLKZUQ2): Chatservers for v0.6: https://retroshare.rocksNewest builds: https://adorabilis.wordpress.com/2015/05/04/retroshare-news-2/\n\nThanks!",
+				"added": 1454232716
+			}
+		],
+		"1_12Ex3Mrd75wY2r5rB21jBcmgj9hxwUK1w2": [
+			{
+				"comment_id": 11,
+				"body": "hey zozon!\n\"with this i am into exploring of resilient networks.\"\ndo you know about http://www.osiris-sps.org/ a serverless p2p forum? it is or was a great projekt. its not dead but it takes some time for the dev to open source the code.",
+				"added": 1454105851
+			},
+			{
+				"comment_id": 14,
+				"body": "subscribe to some of these forums maybe they will work http://www.osiris-sps.org/isis/home.php\njust to how it looks like. and yes its not very alive. :(",
+				"added": 1454236081
+			},
+			{
+				"comment_id": 17,
+				"body": "the developer of Osiris (Clodo) is making big money now with airvpn.org and he doing a great job there!",
+				"added": 1454242577
+			}
+		],
+		"2_17i7Y7r8nTaCfLbCAuaKyc4R5BbKZYU2Hr": [
+			{
+				"comment_id": 12,
+				"body": "confirmed here... 0 sites indexed",
+				"added": 1454105993
+			}
+		],
+		"4_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf": [
+			{
+				"comment_id": 15,
+				"body": "zeronet is growing. i have 162 connections now some month ago i had 20-40.\n\ncontend is king! with more quality contend more users will come.",
+				"added": 1454237107
+			}
+		],
+		"5_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf": [
+			{
+				"comment_id": 16,
+				"body": "dosnt show the tray icon the correct number?",
+				"added": 1454242396
+			}
+		],
+		"4_1QH84f44yLPvMjMua9s7iM7c4RoJNZ2nTp": [
+			{
+				"comment_id": 20,
+				"body": "loot\njust spam and p0rn allowed ;-)",
+				"added": 1454242893
+			}
+		]
+	},
+	"comment_vote": {
+		"2_153yJaRcL3ECYXYqnKAFWeRUHYs5rQiaj9": 1
+	}
+}

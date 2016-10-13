@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "GwAObtX6YnYOpbmKRPvomeDMnhY5BnGT6scfWME9VB5eQDLK62XjrMzxYfABMNDR+bBw15Gzqe9FWAdexycBgfE=",
+ "cert_user_id": "twopik@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "1acfe57ca3dd1280ee843e0fea8bf847ac10146640b479c2e6659fde8eece2d7",
+   "size": 720
+  }
+ },
+ "inner_path": "data/users/1B1F5eyUu3cmQjV2hpfjTFfRr86dL6JtS/content.json",
+ "modified": 1457527936.896,
+ "signs": {
+  "1B1F5eyUu3cmQjV2hpfjTFfRr86dL6JtS": "HECW7d3psNf74uccz5nLEsv5Xl8GKHNLsulYFvA+ygxZhCkuVBFg0Eah//oWjjTe2esfN4hL9Glz2JIUIpYEv+0="
+ }
+}

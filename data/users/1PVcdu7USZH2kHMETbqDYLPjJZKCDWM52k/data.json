@@ -1,0 +1,668 @@
+{
+	"next_topic_id": 10,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "Tor error",
+			"body": "Is it possible to tell zeronet to retry to connect to tor, without restarting full zeronet? Sometimes I have to restart tor …",
+			"added": 1457381192
+		},
+		{
+			"topic_id": 2,
+			"title": "frames and static content",
+			"body": "Is there a way to tell zeronet not to frame specific files, like in the content.json? Could be interesting for files you want to download and parse with third party programs. Like curl, git …",
+			"added": 1457635986
+		},
+		{
+			"topic_id": 3,
+			"title": "Zite development",
+			"body": "This is an subboard for technical discussions.\n\nHTML, CSS, JavaScript, CoffeeScript etc.",
+			"type": "group",
+			"added": 1458165943
+		},
+		{
+			"topic_id": 7,
+			"title": "How is the debug compiler supposed to work?",
+			"body": "I checked out ZeroTalk sources and tried to run them, but the coffescript compiler just tells me, that there is no jQuery and no window. What did I do wrong?\n\nI modified content.json, published content.json and data/user/content.json and changed access privileges, so that zeronet can read and write all files.\n\nhttp://127.0.0.1:43110/1MgHVPCE1ve6QfKrgsqCURzRj72HrRWioz/?1PVcdu7USZH2kHMETbqDYLPjJZKCDWM52k_12",
+			"added": 1458221598,
+			"parent_topic_uri": "3_1PVcdu7USZH2kHMETbqDYLPjJZKCDWM52k"
+		},
+		{
+			"topic_id": 8,
+			"title": "Translations",
+			"body": "Just an idea how to split code and text, which would make translation easier. I chose arrays, because it seemed like being the simplest and fastest solution to me.\n\nThe less we have to modify the easier it is keeping cloned sites up to date.\n\n\nPaste: http://127.0.0.1:43110/1MgHVPCE1ve6QfKrgsqCURzRj72HrRWioz/?1PVcdu7USZH2kHMETbqDYLPjJZKCDWM52k_14 (proof of concept)\n\n\nI used it here: http://127.0.0.1:43110/1GEReDEwgi2JKjGXF2NmB4DvYsKWCETfbG/ (Partly German)\n\nJust modified TopicList.coffee for now.",
+			"added": 1458253020
+		},
+		{
+			"topic_id": 9,
+			"title": "just fooling around",
+			"body": "`curl http://127.0.0.1:43110/1FiSxj2yDPeGuuf6iBwRAXvEMQJATAZNt6/data/users/1PVcdu7USZH2kHMETbqDYLPjJZKCDWM52k/nota.gif`",
+			"added": 1458255035
+		}
+	],
+	"topic_vote": {
+		"5_1LRrd96P7FiTcsyNXVzPM5jtpQoH1B4gYf": 1,
+		"6_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1,
+		"10_14XxpXNGMLsyeQxikacrbQnAFXVyhN5Ngx": 1,
+		"2_1BidR2Pw65fTPeh1R3LbwCdfEJUPB6FLes": 1
+	},
+	"next_comment_id": 97,
+	"comment": {
+		"14_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf": [
+			{
+				"comment_id": 1,
+				"body": "When I read about namecoin or freenet … I think\n\nThis table https://en.wikipedia.org/wiki/Peer-to-peer_web_hosting finally motivated me to try it\n\nNever noticed it on d*",
+				"added": 1456528457
+			}
+		],
+		"4250_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG": [
+			{
+				"comment_id": 2,
+				"body": "https://trac.transmissionbt.com/wiki/Changes#version-2.90",
+				"added": 1456724799
+			}
+		],
+		"3_1GCMDNMgJHvZJfdbD9ygDmpBdnVAobdJYg": [
+			{
+				"comment_id": 3,
+				"body": "It work in Chromium Version 48.0.2564.116 (64-bit) with private mode, so I guess it's not a browser fault then?\n\n> Did you try to turn it off and on again?",
+				"added": 1457007104
+			}
+		],
+		"1_1CNWTRN6cn761Wyb4eauhUU8wiKgGSTMC7": [
+			{
+				"comment_id": 4,
+				"body": "> [dacuckking](#comment_2_135Z8VtdVojw56VQi7Shf1JLb5D5SDrt34): try searx it's way better\n\n[Searx](https://searx.me) operates outside of zeronet, also it can't search zeronet afaik. We would need a specialized search engine first, which extraxt an index from zeronet and searches through it … searx is a meta search after all",
+				"added": 1457008080
+			}
+		],
+		"2_17PhTjw3o2wPhxyKeM3Ss975eWZ1UMsjQC": [
+			{
+				"comment_id": 5,
+				"body": "Well you just redistribute the thumbnail if you don't click the image. It's also questionable for which content you are reliable, since it seems like you can track which content comes from you. (your user directory)",
+				"added": 1457107233
+			}
+		],
+		"1_1E1PGsCSCNzkP8xmx8awJ2hho3cPdsN4FF": [
+			{
+				"comment_id": 6,
+				"body": "Bonan tagon … my Esparanto is more than rusty",
+				"added": 1457129224
+			}
+		],
+		"4337_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG": [
+			{
+				"comment_id": 7,
+				"body": "zeronet could have it's part in this\n\n> Anonymity: Full Tor network support with .onion hidden services instead of ipv4 addresses",
+				"added": 1457131704
+			},
+			{
+				"comment_id": 8,
+				"body": "> [b3nis](#comment_15_1HwYER58xAxchBDL6WKRqKuPZzmwSvMwjY): no, it's been going on since before the zeronet event\n\nI wasn’t saying it’s causing it, but at 03-01 it could’ve add on top of the already high amount of unique .onions",
+				"added": 1457135810
+			}
+		],
+		"1_13qeq1z87R1kQWDZUQYm3y7tDCLimnhfvS": [
+			{
+				"comment_id": 9,
+				"body": "And that's why we should use https://www.gnu.org/software/librejs/free-your-javascript#magnet-link-license\n\n    <script>\n    // @license magnet:?xt=urn:btih:1f739d935676111cfff4b4693e3816e664797050&dn=gpl-3.0.txt GPL-v3-or-Later\n    var myString = \"Hello World!\";\n    alert(myString);\n    // @license-end\n    </script>",
+				"added": 1457257632
+			},
+			{
+				"comment_id": 10,
+				"body": "I made a new blog, which also states the license in the bottom. But with magnet links, feel free to copy. Next step would be stating the licenses in all used scripts.\n\nhttp://127.0.0.1:43110/1BasxToLP7Wadjv8VjxVXQwmneDfqpJbwg",
+				"added": 1457278680
+			}
+		],
+		"1_154jAWx5PDRmvF4txGHo4Edw1BpduhDyvw": [
+			{
+				"comment_id": 11,
+				"body": "I would consider ZeroBlog being an (pimitive) CMS … you can write stuff with ZeroKnowledge\n\n\n> [nofish](#comment_437_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): \n> Also if someone create a new site he/she able to load it in a proxy and it will help seeding it until it's gets some peers.\n\nand checking if it is seeded correctly / looks good if you are not the owner",
+				"added": 1457285621
+			}
+		],
+		"1_1FoCQCBaoX3Fi85goewPLRLr1mxFqmCKNU": [
+			{
+				"comment_id": 12,
+				"body": "Hello from the internet.",
+				"added": 1457381328
+			}
+		],
+		"6_1Kg7CXZM5h3wTPENsTDwWUmRBf9VhYy2cW": [
+			{
+				"comment_id": 14,
+				"body": "index of creative commons works with torrents, categories, tags, votesystem and a system to let the users update the data (by vote)\n\nhttp://haxeflixel.com/demos/MinimalistTD/ with highscore also would be cool\n\n… but I'm problably too lazy for doing that",
+				"added": 1457426975
+			}
+		],
+		"1_1ByKXu4VhEGgR47xjRKm9MmK8czPVzBfTw": [
+			{
+				"comment_id": 15,
+				"body": "http://127.0.0.1:43110/1Ey8WR7e3quTdPTMZZKDdqw2U6JG3zvkHe ;)\n\nYou can't disallow javascript … same for external sources, but you could tell your browser only to connect to 127.0.0.1",
+				"added": 1457444242
+			}
+		],
+		"1_1BQg5MQZ63aEQZMzLEXP6yY3hsgznKpaps": [
+			{
+				"comment_id": 16,
+				"body": "Run it proudly on Arch. May move it to a BPi (bananian) or raspi (alarm) in the future. Tor and namecoin also run just on my main machine. (not 24/7 online)",
+				"added": 1457445352
+			},
+			{
+				"comment_id": 26,
+				"body": "> meny",
+				"added": 1457696440
+			}
+		],
+		"1_1LnyrYbdxDU1K78nEYVZkfJ1Q4SYP1ukFV": [
+			{
+				"comment_id": 17,
+				"body": "A spam vote is definitely needed and hiding stuff that is > 50% spamvoted and has at least 20 votes\n\nhide => just show a ‘This is marked as spam, click *here* to show it.’\n\nI'm against subjective downvotes, which could also be against another persons opinion … if you don't like it, skip it",
+				"added": 1457445787
+			}
+		],
+		"1_19LkvdTE3CmnUApuSwY8KGbm7n7sWCNEPC": [
+			{
+				"comment_id": 18,
+				"body": "Does namecoin work with:\n\n    \"paytxfee\" : 0.00000000\n\n?",
+				"added": 1457602376
+			},
+			{
+				"comment_id": 19,
+				"body": "The costs seem not to be constant…\n\n    d/basxto: 0.01 + 0.005 (name_new) 0 + 0.005 (name_firstupdate)\n    id/basxto: 0.01 + 0.00898085 (name_new) 0 + 0.005 (name_firstupdate)",
+				"added": 1457607967
+			},
+			{
+				"comment_id": 24,
+				"body": "> [angristan](#comment_66_1MEWJRMLgvofqG9Mbsb2Rc4hFFyv7HeRx7): Where do you buy Namecoins ?\n\nDon't know, got mine [here](https://cryptospout.com/faucet/hourly_namecoin_faucet.html?r=MyT6iLCSNqDywoo4a3gqQFd3MYmECwYwDU) … win the daily deluge once and you can buy a domain, they pay as soon as you reach 0.01 NMC.\n\nOr use the hourly faucets, that schould take > 10 hours.",
+				"added": 1457641208
+			}
+		],
+		"2_1LJMypJ67iEBwah82xwVVdB8SGZ1mwqgHQ": [
+			{
+				"comment_id": 20,
+				"body": "Are you in the folder of zeronet?\n\nI have to do\n\n    cd $(ZERONET_PATH);sudo python2 ./zeronet.py siteSign ${ZERONET_ID}",
+				"added": 1457609067
+			},
+			{
+				"comment_id": 21,
+				"body": "did you use `./zeronet.py`?",
+				"added": 1457609211
+			}
+		],
+		"2_1DFDjUGJdSp1kMuFq1AtNS9ZWmkVtbp947": [
+			{
+				"comment_id": 22,
+				"body": "or simple use a own browser profile for zeronet and block anything besides 127.0.0.7 … this is fail proof and also blocks sites who load images from imgur and stuff",
+				"added": 1457620264
+			}
+		],
+		"4_16AFTG7vdicwJbRQpWc2F9BRHTE5MTftE7": [
+			{
+				"comment_id": 23,
+				"body": "bad thing: you can't find new sides this way and that is sometimes the intention behind using a search engine",
+				"added": 1457640452
+			}
+		],
+		"4_1H8oKiRa7fGgUqS1hpUtaSYLvAqkaknbkf": [
+			{
+				"comment_id": 25,
+				"body": "Great, now I can really generate a pseudonic account, this one is already connected with my clearnet identity, I think\n\nDoes this mean I can now vote twice?\n\n… oh, don't have bitmessage",
+				"added": 1457677852
+			}
+		],
+		"3_1LJMypJ67iEBwah82xwVVdB8SGZ1mwqgHQ": [
+			{
+				"comment_id": 27,
+				"body": "Denmark is most probably ks",
+				"added": 1457710136
+			}
+		],
+		"4_1LJMypJ67iEBwah82xwVVdB8SGZ1mwqgHQ": [
+			{
+				"comment_id": 28,
+				"body": "> Your IP is \n\nOr disallow your browser to access external websites.",
+				"added": 1457882868
+			},
+			{
+				"comment_id": 29,
+				"body": "> [musickiller](#comment_82_15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ): how exactly? (any browser example will do)\n\nIn icecat (firefox fork) I just set an invalid proxy and exluded 127.0.0.1 from using a proxy.\n\nI also an own profile with all addons disabled. See `firefox --profilemanager` and [ProfileSwitcher addon](https://addons.mozilla.org/en-US/firefox/addon/profileswitcher/). You can also disable all plugins this way, which I didn't … just have Gecko Media Player.\n\nAnd since all profiles work indepently, you can run it besides another firefox instance or set Kaffiene as your search engine etc.",
+				"added": 1457885124
+			}
+		],
+		"1_19R2USgb9vPyg1jPQEJkGVoBwDuDcEmHRF": [
+			{
+				"comment_id": 30,
+				"body": "> ## Why is this cool?\n> Imagine a video site like YouTube, where **visitors** ***help*** **to host the site's content**.\n\n> ## How does WebTorrent work?\n> The WebTorrent protocol works just like BitTorrent protocol, except it uses WebRTC instead of TCP/uTP as the transport protocol.\n\n> ## Can WebTorrent clients on different websites connect to each other?\n> Yes! WebTorrent works across the entire web. WebTorrent clients running on one domain can connect to clients on any other domain. No silos!\n\nhttps://webtorrent.io/faq\n\nYou basically seed your cache, therefor it's illegal if you watch illegal content unlike regular streaming.",
+				"added": 1457953762
+			}
+		],
+		"5_1LRrd96P7FiTcsyNXVzPM5jtpQoH1B4gYf": [
+			{
+				"comment_id": 31,
+				"body": "Looks great\n\n> Wikis can be used for taking notes and storing snippets, to create FAQs and documentation, to keep track of your goals or as a simple To-Do list.\n\nI think NullPaste and ZeroTodo are more suitable for that\n\n---\nLet the edit wars begin",
+				"added": 1457955102
+			},
+			{
+				"comment_id": 32,
+				"body": "Please support `[[wikisite|alternative naming]]` and `#tags` / categories\n\n---\n\nProposal: use `[☇]()` to link also to the real address if you use a .bit-address\n\n---\n\nmade [ZeroPolls](http://127.0.0.1:43110/138R53t3ZW7KDfSfxVpWUsMXgwUnsDNXLP/?Page:ZeroPolls)",
+				"added": 1457956624
+			},
+			{
+				"comment_id": 33,
+				"body": "> [kaffie](#comment_75_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh): Just an FYI, the capital urls lead back to the homepage. I copied the content and put it into the proper zeropolls page. Should probably rollback the homepage.\n\noh … oh … that's bad … m'kay",
+				"added": 1457957259
+			},
+			{
+				"comment_id": 34,
+				"body": "> [ekaterina](#comment_116_1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD): The ☇ doesn't show up in my Tor Browser on Linux, shows the missing Unicode symbol instead, so I'd be for a different symbol that is supported by more browsers / operating systems.\n\nDo some of those 9 work? ⭸ 🡖 ⭝ ⮩ 🞆 ┇ ▚ 🖰 📎\n\nPreferebly an arrow to the bottom right as oppossed to the arrow to the upper right wikipedia uses for external links.",
+				"added": 1457958533
+			},
+			{
+				"comment_id": 35,
+				"body": "> [ekaterina](#comment_117_1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD): ┇ ▚  📎 These three work, the others don't. From left to right I see a vertical dashed line, a checkerboard pattern and a paperclip.\n\nThen I guess using the paper clip (📎) as a permalink symbol would be the most intuitive solution. The other two symbols look too weird in an article.",
+				"added": 1457959866
+			},
+			{
+				"comment_id": 36,
+				"body": "using cc-by-sa like wikipedia would make sense https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License",
+				"added": 1457962188
+			},
+			{
+				"comment_id": 37,
+				"body": "> The most popular is Kaffiene.\n\n> Kaffiene has enabled cloning to encourage competition and growth amongst ZeroNet search engines.\n\nYou instantly know when an article is authored by @Kaffie.\n\n---\n\n> Free software is software that comes with permission for anyone to use, copy, and/or distribute, either verbatim or with modifications, either gratis or for a fee.\n\n> The term “open source” software is used by some people to mean more or less the same category as free software. It is not exactly the same class of software: they accept some licenses that we consider too restrictive, and there are free software licenses they have not accepted. However, the differences in extension of the category are small: nearly all free software is open source, and nearly all open source software is free.\n\n-> https://www.gnu.org/philosophy/categories.html\n\nIt does mean you can redistribute it, but the name itself does not imply that. It would be best for the network to release all zites as *free / libre open source software* though…",
+				"added": 1457965984
+			},
+			{
+				"comment_id": 38,
+				"body": "> [kaffie](#comment_80_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh): \n> Huh. It'd be kind of silly to have a decentralized web where you're not allowed to copy things.\n\nMost people just don't give a shit or don't know better. Even though it does need such little effort to make perfectly legal. (same as using creative commons licenses on ZeroBlogs and on ZeroWiki)\n\n> [ekaterina](#comment_122_1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD): ZeroBoard however actually sends posts through a PHP script on a normal web server. \n\nThat might explain why ZeroBoard does not work any longer for me, I only allow 127.0.0.1\n",
+				"added": 1457967070
+			},
+			{
+				"comment_id": 40,
+				"body": "and most people would probably be annoyed if they got asked because of every littleness",
+				"added": 1457967888
+			},
+			{
+				"comment_id": 41,
+				"body": "and as always the Russians are rushin' ahead",
+				"added": 1457991751
+			},
+			{
+				"comment_id": 42,
+				"body": "> [jza](#comment_8_1MahZJTzjoEMMCv2jBReDWhyNGRhN5tvDq): Sorry, small question, how do I clone it, I tried a direct copy to a free site that I created. I am just not sure what to copy, I did most of the files except for control.js but get this error notification:\"Internal error: TypeError: 'bool' object does not support item assignmentUiWebsocket.py line 98 > UiWebsocket.py line 178 > UiWebsocket.py line 438\"\n> Did I miss a file?\n\ngo to http://127.0.0.1:43110/1HeLLo4uzjaLetFx6NH3PMwFP3qbRbTf3D search for ‘ZeroWiki’, click on the ┇-button beside the name … and then ‘clone’ should do it, doesn't it?",
+				"added": 1458053271
+			}
+		],
+		"3_1FGs1Gjnx5nQnfR8X1jXdS1fUyy46iWht4": [
+			{
+				"comment_id": 39,
+				"body": "Doesn't exist.\n\nBut you could try if you can use [tox](tox.chat) or [ring](https://ring.cx) over [i2p](https://geti2p.net)",
+				"added": 1457967432
+			}
+		],
+		"10_14XxpXNGMLsyeQxikacrbQnAFXVyhN5Ngx": [
+			{
+				"comment_id": 43,
+				"body": "a *stickied* post, which links to the FAQ and kaffiene might be handy",
+				"added": 1458053420
+			}
+		],
+		"8_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": [
+			{
+				"comment_id": 44,
+				"body": "For those, who don't allow external links:\n\nhttp://127.0.0.1:43110/17Kom2G5qNDc6NaQwv445h1gFzxkY3ZtZe/faq/ even though anchors aren't working with zn",
+				"added": 1458123866
+			}
+		],
+		"6_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": [
+			{
+				"comment_id": 45,
+				"body": "> [kaffie](#comment_85_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh): \n> As a side note, I was wondering if you knew of any light weight linux distros that come with the various P2P stuff preinstalled? Seems like another project that should be started, if it hasn't already. Having an easily deployable, lightweight OS that can connect to and help expand a decentralized meshnet+zeronet seems like it'd do wonders. Package that with a raspberry pi, or some other cheap PC, or maybe make it a liveboot USB and you've got an internet revolution kickstarted.\n\nhttp://project-byzantium.org/ tries to do this\n\n> Ad-hoc wireless mesh networking for the zombie apocalypse\n\nfrom the FAQs:\n\n> The goal of Byzantium is to develop and maintain a distribution of Linux  which can run from removable media (such as a CD-ROM, DVD-ROM, or USB storage device) without needing to be installed.  This distribution of Linux will include a graphical desktop, a control panel application which configures and manipulates services running on the Byzantium node, and mesh routing software which allows the creation of an entirely separate wireless Internet, functionally indistinguishable from a wireless access point of the sort that you’d find in a coffee shop or at home.",
+				"added": 1458140085
+			},
+			{
+				"comment_id": 46,
+				"body": "> [pycole](#comment_76_1KwTTgPRSTHFmmJAFBt6kQfdyNeSM5KJuH): even if that somehow happened, there are dozens more trackers available, and it's certainly possible to run one yourself\n\n\n      --trackers [protocol://address [protocol://address ...]]\n      --trackers_file path  Load torrent trackers dynamically from a file",
+				"added": 1458141589
+			},
+			{
+				"comment_id": 47,
+				"body": "> [error404](#comment_5_1CWttfFnJgQmZifX8FbZn9dZ3xaTfooSJd): does the ZeroNet uses the same trackers as the bittorrent network?\n\nYes, those with udp:// and http:// look like regular bittorent trackers. I know coppersurfer.tk and leechers-paradies.org.\n\nThe two zero://*:15441 looks rather like zeronet nodes, at least that's the port zeronet usually uses.",
+				"added": 1458154201
+			},
+			{
+				"comment_id": 54,
+				"body": "> [nofish](#comment_525_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): I have not tested it, but i think this could work: enable bootstrapper plugin on one node, then add it's IP to --trackers on both node and use --ip_external 192.168.0.x.\n\nSo do regular nodes already exchange .onion- and ip-addresses with nodes they know?\n\n> [lukipuki](#comment_35_1CMYxdit4qq9QGk9DYRu2ruRPd2YDGckH8): ok, i have no idea, that this means :) I'll check the docs about bootstrapper...\n\nDoesn't seem like it's in the  docs\n\nhttps://en.wikipedia.org/wiki/Bootstrapping_node",
+				"added": 1458201798
+			}
+		],
+		"1_1EgYg1XAxktqWHWC1aTWQoToF6Mr5QmEWq": [
+			{
+				"comment_id": 48,
+				"body": "This probably can happen if you modify your data.json, topics are simply numbered consecutively … it has a field ‘\"next_topic_id\": 2,’\n\nYou could overwrite older data this way, but not sure though\n\nMaybe you deleted your whole data.json and signed that?",
+				"added": 1458156544
+			},
+			{
+				"comment_id": 49,
+				"body": "> [jamesheald](#comment_2_1EgYg1XAxktqWHWC1aTWQoToF6Mr5QmEWq): http://127.0.0.1:43110/Talk.ZeroNetwork.bit/?Topic:1_1EgYg1XAxktqWHWC1aTWQoToF6Mr5QmEWq/How+will+we+end+up+handling+big+amounts+of+data\n> Seems to link to this post? This is so bizarre, you can access this same post from the link above and this http://127.0.0.1:43110/Talk.ZeroNetwork.bit/?Topic:1_1EgYg1XAxktqWHWC1aTWQoToF6Mr5QmEWq/Transfered+my+users+json+to+my+laptop+but+can+t+access+my+ZeroMail. Interesting that they both seem to have the same key.\n> Perhaps it has something to do with the fact that both my desktop and my laptop are both online with the ZeroNet right now?\n\nDid you also transfer the content.json and data.json of zerotalk? If did not get them via the network **you will overwrite** your old content. Zeronet creates a new one, sign it, publish it and the other clients overwrite the old date with the update\n\nthe URLs are ?Topic:<index>_<user>/<irrelevant headline> the headline is just there to make it more readable, you could also link to http://127.0.0.1:43110/Talk.ZeroNetwork.bit/?Topic:1_1EgYg1XAxktqWHWC1aTWQoToF6Mr5QmEWq/I+Suck+Dicks",
+				"added": 1458157009
+			}
+		],
+		"9_1CMYxdit4qq9QGk9DYRu2ruRPd2YDGckH8": [
+			{
+				"comment_id": 50,
+				"body": " \n\n    {\n      \"body\": \"Articles about Bitcoin, Torrent and Peer To Peer networks\", \n      \"added\": 1436262090, \n      \"type\": \"group\", \n      \"topic_id\": 1, \n      \"title\": \"P2P news flow\"\n    }, \n\nyou probably have to go to your user folder manually and add the `\"type\": \"group\", ` to your data.json\n\n`nano data/1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT/data/users/1CMYxdit4qq9QGk9DYRu2ruRPd2YDGckH8/data.json`\n\nand you have to obviously sign it afterwards … editing a topic / comment here should also do",
+				"added": 1458158254
+			}
+		],
+		"8_1CMYxdit4qq9QGk9DYRu2ruRPd2YDGckH8": [
+			{
+				"comment_id": 51,
+				"body": "http://127.0.0.1:43110/Talk.ZeroNetwork.bit/?Topics:3_1PVcdu7USZH2kHMETbqDYLPjJZKCDWM52k/Technical+Discussions\n\nhere you are",
+				"added": 1458166079
+			},
+			{
+				"comment_id": 53,
+				"body": "It did show up, but at the very end of the site, I assumed that was because there was no sub topic yet. Renamed it to ‘Zite development’, would be too long otherwise",
+				"added": 1458169644
+			},
+			{
+				"comment_id": 56,
+				"body": "I'm used to asynchronous and chronological wrongly sorted discussions.\n\nThanks to diaspora* - the social notwork",
+				"added": 1458203721
+			},
+			{
+				"comment_id": 72,
+				"body": "> [rumham](#comment_9_1MuqWEiJ8VCCZMHZ6hcJW35RMEgm7VVED5): yeah, it had such potential but it stagnated really fast. all my activist friends considered it useless without events and groups. still can't move your account to another server.\n\nAccount migration is comming,  senya@socializer.cc is working on this.",
+				"added": 1458481199
+			}
+		],
+		"10_1CMYxdit4qq9QGk9DYRu2ruRPd2YDGckH8": [
+			{
+				"comment_id": 52,
+				"body": "You can move your old topic.\n\nTake a look at `nano data/1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT/data/users/1CMYxdit4qq9QGk9DYRu2ruRPd2YDGckH8/data.json`\n\nJust add `,\"parent_topic_uri\": \"3_1PVcdu7USZH2kHMETbqDYLPjJZKCDWM52k\"` to your old topic. As soon as you make your next change through the ZeroTalk ‘interface’ it will be signed and published.\n\nIf you succeed you can rename this to ‘How to move a topic’",
+				"added": 1458169458
+			},
+			{
+				"comment_id": 55,
+				"body": "Well I also thought this, but then I just took a look at the data.json. ‘stickied’ on the other hand can be configured only by the owner.",
+				"added": 1458203566
+			}
+		],
+		"1_1HChVi4MV85rvyAkEpATe6TweGoUaxy2yy": [
+			{
+				"comment_id": 57,
+				"body": "http://127.0.0.1:43110/Talk.ZeroNetwork.bit/?Topic:8_1CMYxdit4qq9QGk9DYRu2ruRPd2YDGckH8/can+we+have+subreddits\n\nWhat are you talking about?",
+				"added": 1458203846
+			}
+		],
+		"11_1CMYxdit4qq9QGk9DYRu2ruRPd2YDGckH8": [
+			{
+				"comment_id": 58,
+				"body": "Yeah, took me also some days to figure that out.",
+				"added": 1458204234
+			}
+		],
+		"2_19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ": [
+			{
+				"comment_id": 59,
+				"body": "You can either clone this zite … or make a sub category http://127.0.0.1:43110/Talk.ZeroNetwork.bit/?Topic:8_1CMYxdit4qq9QGk9DYRu2ruRPd2YDGckH8/can+we+have+a+subforum+for+technical+discussions+html+css+javascript\n\nIf you make an own zite, make sure to tell nofish about it, so he can add it to the more-menu on the left. If you have you own zite you have to update it manually.",
+				"added": 1458205598
+			}
+		],
+		"6_1KwTTgPRSTHFmmJAFBt6kQfdyNeSM5KJuH": [
+			{
+				"comment_id": 60,
+				"body": "But this would be so much faster.\n\nI wrote a shell script for this, since using an external provider for this would undermine the whole encryption\n\nhttp://127.0.0.1:43110/1MgHVPCE1ve6QfKrgsqCURzRj72HrRWioz/?1PVcdu7USZH2kHMETbqDYLPjJZKCDWM52k_11\n\nI think with the Polish alphabet as it's base, it would actually be more secure.",
+				"added": 1458206153
+			}
+		],
+		"2_1BidR2Pw65fTPeh1R3LbwCdfEJUPB6FLes": [
+			{
+				"comment_id": 61,
+				"body": "> Rule breakage may result in an IP ban.\n\nMight be more effective to also ban the used zeronet identity … if that is somehow possible. But that would need to log which ip belongs to which identity. Not sure if that's a good idea.\n\nDo you block 0chan and porn0chan on your node?",
+				"added": 1458231025
+			}
+		],
+		"1_1Pvgpd3Qgmr8pCHFM1W8c9gQi9evLtm6UY": [
+			{
+				"comment_id": 62,
+				"body": "danknet and normal 0chan also have porn … as well as GIF Time, which has an #nsfw section",
+				"added": 1458234500
+			}
+		],
+		"7_1PVcdu7USZH2kHMETbqDYLPjJZKCDWM52k": [
+			{
+				"comment_id": 63,
+				"body": "Yes, I configured manually, since the docs said so, I will try that, thanks.\n\nedit: Works, thanks.",
+				"added": 1458247536
+			}
+		],
+		"8_1PVcdu7USZH2kHMETbqDYLPjJZKCDWM52k": [
+			{
+				"comment_id": 64,
+				"body": "Ok. Fastest solution would be replacement via precompiler, but this would result in same language for all users. Will join that discussion then.\n\nYour replacement version would break as soon as the original text changes and sounds kinda redundant.",
+				"added": 1458255184
+			}
+		],
+		"4_1EMpuiFM1NLZmAVyoAWnwi8VwiZVV4dcnN": [
+			{
+				"comment_id": 65,
+				"body": "I just modified my data/users/1PVcdu7USZH2kHMETbqDYLPjJZKCDWM52k/data.json … and you can't fix this. This folder is completely under users control.",
+				"added": 1458256202
+			}
+		],
+		"6_1DcDDitsjFJohvwonPmpibRChmA7uGxqL7": [
+			{
+				"comment_id": 66,
+				"body": "Well this could be cool if you have a central image hoster or something like ZeroCDN. But this could result in a single point of failure, as soon as the owners of the hosters clear their zites, this would affect a lot other. On the other hand you maybe could have a central imagehoster who is capable of uploading images to your own zite and later linking to it would be rather cool. This on the other hand could result in freenet-like behavior, where freesites include images of others just to keep them alive. You would need to block zites intentionally.",
+				"added": 1458291017
+			}
+		],
+		"4_1P97itWECWCYp7D73wY4GaTKUyUo4A3Pcf": [
+			{
+				"comment_id": 67,
+				"body": "Can't get index.html and js/all.js\n\nhttp://bit.no.com:43110/1KMSfa7mF911ert6iFQuwfJPMqpT8uZT8s\n\nYou only translated index.html? Did you sign and publish it after modifying it?\n\n---\n\nBut your posts are defitinely there\n\n        \"topic\": [\n                {\n                        \"topic_id\": 1,\n                        \"title\": \"テスト\",\n                        \"body\": \"テスト投稿\",\n                        \"added\": 1458205751\n                },\n                {\n                        \"topic_id\": 2,\n                        \"title\": \"2016年3月18日\",\n                        \"body\": \"ボードを日本語化しました\",\n                        \"added\": 1458268668\n                }\n        ],",
+				"added": 1458302592
+			}
+		],
+		"5_1DcDDitsjFJohvwonPmpibRChmA7uGxqL7": [
+			{
+				"comment_id": 68,
+				"body": "> [kaffie](#comment_92_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh): And even running curl anyway just results in the ZeroNet wrapper. You'd still need to resolve the iframe/js in order to access the content. \n\nNo, the wrapper wraps only around .html-files, that's what nofish said and also what I experienced so far. But still it could be the case the content isn't loaded yet.\n\n\nhttp://127.0.0.1:43110/1BasxToLP7Wadjv8VjxVXQwmneDfqpJbwg/?Post:5:Cats!!!11eleven",
+				"added": 1458303865
+			}
+		],
+		"11_14XxpXNGMLsyeQxikacrbQnAFXVyhN5Ngx": [
+			{
+				"comment_id": 69,
+				"body": "Try a usb stick",
+				"added": 1458308641
+			}
+		],
+		"2_18sw1reMFB1fpxc4vjfjoCrLaFs8UbMeQH": [
+			{
+				"comment_id": 70,
+				"body": "> I've seen some otherworldly stuff up \n\nhuman eyes are everything but trustworthy\n\nhttps://media.giphy.com/media/l41lVSjlVFJkrzobu/giphy.gif",
+				"added": 1458309126
+			}
+		],
+		"5_17n5jg4bBEoWodXDf8L4Y2u88ShagS272Y": [
+			{
+				"comment_id": 71,
+				"body": "Well you can do something like this for storing it in the user directory:\n\n    inner_path = \"data/users/#{@site_info.auth_address}/config.encrypted.json\"\n    json_raw = unescape(encodeURIComponent(JSON.stringify(@config, undefined, '\\t')))\n    #encrypt json and write file\n    @cmd \"eciesEncrypt\", [json_raw], (encrypted) =>\n      @cmd \"fileWrite\", [inner_path, btoa(encrypted)], (res) =>\n\n\nand something like this for loading:\n\n    inner_path = \"data/users/#{@site_info.auth_address}/config.encrypted.json\"\n    @cmd \"fileGet\", {\"inner_path\": inner_path, \"required\": false}, (data) =>\n      if data  # Parse and encrypt if already exits\n        @cmd \"eciesDecrypt\", [data], (decrypted) =>\n          @config = JSON.parse(decrypted)\n      else  # Does not exist yet, use default data\n        @defaultConfig()",
+				"added": 1458476628
+			}
+		],
+		"7_1KTjPe9MxoYkcXj78GuZgCcj3R3f3Twh7r": [
+			{
+				"comment_id": 73,
+				"body": "0chan: 875\nZeroName: 761\nNew ZeroHello: 724\n0list: 529\n\nfor me, but my machine is not running 24/7, the numbers get higher the longer your node is running. bit.no.com has >1000 for all of these\n\nIt probably incudes peers who are not going online  anymore, but not sure about that.",
+				"added": 1458481723
+			}
+		],
+		"1_15UiHZYjYXmn35qVSaAFyuFwrwqVCTcvmn": [
+			{
+				"comment_id": 74,
+				"body": "Paste zite which allows to share encrypted pastes and ‘automatic’ deletion after some time and ‘burn after read’ (working on that)\n\nIndex for creative commons content with magnet links.\n\nRegular cooking book … because during a Zombieapocalypse with only a mashnet and zeronet left, we totally need this to survive. Should focus on food you can grow yourselft, though.\n\nGithub like zite that can visualize a git repository, also support issues and stuff. Cloning and pulling should be possible. Pushing won't work.\n\nZite that can generate a magnet link and torrent file for an uploaded file.",
+				"added": 1458482112
+			},
+			{
+				"comment_id": 75,
+				"body": "> [aoi](#comment_1_13NJuU9nw3cFSVoETCkN6BCv5s5v5V2ngA): A forum for sites like play or zerotorrent, I like the downloads but miss the community\n\nJust clone ZeroTalk …",
+				"added": 1458494886
+			},
+			{
+				"comment_id": 76,
+				"body": "> [klauszimmermann](#comment_34_15QGRquMETTn5LnCHjTm1qa9eaXGtq7gpT): A library full of free (or freed) ebooks.\n> All other \"ebook sites\" around here simply link to somewhere else that has the stuff. Why are people afraid of hosting them? Is hard drive space an issue? Unlike movies or games, I think ebooks are small enough to be hosted here.\n\nWell you could classify them as optional. But linking existing torrents (magnet link) could also make sense, if there are already such. Also different zites can link the same content this way and it's shared more efficiently. But weblinks do not make sense, agree with that.\n\nProject Gutenberg only has their [archive ISOs](https://www.gutenberg.org/wiki/Gutenberg:The_CD_and_DVD_Project#Downloading_Via_BitTorrent) as torrents, though. Might be worth it to mirror that site or copy their content into an independant index.",
+				"added": 1458502073
+			}
+		],
+		"15_1CMYxdit4qq9QGk9DYRu2ruRPd2YDGckH8": [
+			{
+				"comment_id": 77,
+				"body": "We can't stop them, therefore we have to ignore them. No feeding, no flaming.\n\nWe can moderate boards, but that won't stop anyone from reposting and creating trash accounts.",
+				"added": 1458522263
+			}
+		],
+		"1_1JQmAwSmx4VFEbYchZGAwqC9QppdKBENsb": [
+			{
+				"comment_id": 78,
+				"body": "This post is from last year, just saying.\n\nThere is also http://127.0.0.1:43110/1K7je8msjzcCrVyeGeA7C3zuaUQ9E9RfTf/, which is getting more and more active now.",
+				"added": 1458566439
+			}
+		],
+		"17_1CMYxdit4qq9QGk9DYRu2ruRPd2YDGckH8": [
+			{
+				"comment_id": 79,
+				"body": "Yep, you can add further owners to \"signers_sign\", a zite can have multiple owners\n\nhttp://127.0.0.1:43110/17Kom2G5qNDc6NaQwv445h1gFzxkY3ZtZe/site_development/content_json/",
+				"added": 1458577071
+			}
+		],
+		"1_163rm8X1WReQzp1uAZjbrCHkF7En1VTXbU": [
+			{
+				"comment_id": 80,
+				"body": "http://127.0.0.1:43110/1GEReDEwgi2JKjGXF2NmB4DvYsKWCETfbG",
+				"added": 1458577265
+			},
+			{
+				"comment_id": 82,
+				"body": "Man soll ja als Zite-Owner die User-Ordner ändern können, meinte nofish vor kurzem oder klang zumindest so. Ich würde aber eher Inhalte ausblenden, mit so nem „dieser Beitrag wurde als Spam eingestuft, [trotzdem anzeigen](#)“ und es in den „weitere Themen“-Bereich verbannen.",
+				"added": 1458582697
+			}
+		],
+		"16_1CMYxdit4qq9QGk9DYRu2ruRPd2YDGckH8": [
+			{
+				"comment_id": 81,
+				"body": "Also replacing the deleted file or folder with an empty one and take read/write access from zeronet for those seems to work when you want to delete something other people own.\n\nBut could be related to my updating problems, not sure about that.",
+				"added": 1458577566
+			}
+		],
+		"10_17i7Y7r8nTaCfLbCAuaKyc4R5BbKZYU2Hr": [
+			{
+				"comment_id": 83,
+				"body": "own server + own domain",
+				"added": 1458728368
+			}
+		],
+		"7_17n5jg4bBEoWodXDf8L4Y2u88ShagS272Y": [
+			{
+				"comment_id": 84,
+				"body": "this might be faster:\n\n    query = \"\"\"\n      SELECT json.directory, keyvalue.value AS cert_user_id FROM json \n      LEFT JOIN keyvalue ON (keyvalue.key = 'cert_user_id' AND keyvalue.json_id = json.json_id)\n      WHERE directory = 'users/#{auth_address}' AND file_name = 'content.json'\n    \"\"\"\"\n    @cmd \"dbQuery\", [query], (user) =>\n      if user? && user.length == 1\n        console.log(\"cert_user_id of #{auth_address}\", user[0].cert_user_id)\n       else \n         console.log(\"No such user: \", auth_address)",
+				"added": 1458729314
+			}
+		],
+		"10_1MEWJRMLgvofqG9Mbsb2Rc4hFFyv7HeRx7": [
+			{
+				"comment_id": 85,
+				"body": "I wouldn't call ZeroNet as such, because it is even though it's probably not indexable (much JavaScript) pretty easy to use for average users. You can use ZeroNet use via a proxy without noteworthy cutbacks. You can also easily link it from clearnet sites. (which I already did)\n\nI also think it's just a matter of time until meta search engines like searx are able to use search engines within TOR and ZeroNet.\n\nThey just need to run a node and could let the user choose wherther links go to a proxy or to the local node.",
+				"added": 1458745077
+			},
+			{
+				"comment_id": 86,
+				"body": "> [pycole](#comment_94_1KwTTgPRSTHFmmJAFBt6kQfdyNeSM5KJuH): You can browse tor via proxy too: here's the onion mirror of Bluish Coder's site run by the onion.to service. And for even more weirdness, here's a proxy into tor that points to a proxy into zeronet (It doesn't seem to work, but it's still neat).\n\nI’m aware of that, my last sentence was meant for both ZeroNet and TOR\n\nhttps://zerowrohotccypak.onion.cab/ and http://zerowrohotccypak.onion.link/ also don't work",
+				"added": 1458745879
+			}
+		],
+		"1_1KRDb5SVJe8Gjy9eYEQz62tJv73vavZdUn": [
+			{
+				"comment_id": 87,
+				"body": "If I understood it right, some zites (mail echoboard, board) use a node like a server. But I think you should avoid this.\n\nMost sides are basically client side + read/write/sign/publish files through the ZeroFrame API, which is the magic you need for interactive sites.\n\nhttp://127.0.0.1:43110/17Kom2G5qNDc6NaQwv445h1gFzxkY3ZtZe/site_development/zeroframe_api_reference/",
+				"added": 1458761561
+			}
+		],
+		"6_18rFd7W9y5QGQEVXaCoJV7jyt7D8aN156h": [
+			{
+				"comment_id": 88,
+				"body": "As you see here, it will never work on all clients. And if I see a zite with no content or which is totally broken, I delete it right away.\n\nLike ZeroBoard for example or that one zite that embedded porn from imgur.\n\nBut it’s not zeronet doing these requests, it’s your browser.",
+				"added": 1458790539
+			}
+		],
+		"2_13BepSu3vkeSQB3ZWkCDg7Lu5w64tfpeTa": [
+			{
+				"comment_id": 89,
+				"body": "That’s always possible, you can rebuild any site.",
+				"added": 1458827279
+			},
+			{
+				"comment_id": 91,
+				"body": "But copying user content should be possible?\n\n> Always accept modifications on user files from site owner\n\nhttp://127.0.0.1:43110/Blog.ZeroNetwork.bit/?Post:78:Changelog,+March+23,+2016\n\n---\n\nYou can’t steal intellectual property",
+				"added": 1458905487
+			}
+		],
+		"2_1CWttfFnJgQmZifX8FbZn9dZ3xaTfooSJd": [
+			{
+				"comment_id": 90,
+				"body": "http://127.0.0.1:43110/17Kom2G5qNDc6NaQwv445h1gFzxkY3ZtZe/site_development/zeroframe_api_reference/#siteclone-address",
+				"added": 1458838855
+			}
+		],
+		"1_1Hz5zjZ6UfmEckdzBWxMFyYWMvBix3ABTZ": [
+			{
+				"comment_id": 92,
+				"body": "> [ks](#comment_51_14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx): I didn't know that was possible.\n\nZites like 0chan and GIF Time do this.\nIn the “hidden” sidepanel you can see how much space optional files already alloctate. There you can furthermore activate an setting called “Download and help distribute all files”",
+				"added": 1458939328
+			}
+		],
+		"1_1L5rGDgTs4W2V7gekSvJNhKa7XaHkVwotD": [
+			{
+				"comment_id": 93,
+				"body": "You can telll zeronet which browser it shall use `--open_browser [browser_name]`\n\nBut this won’t fix your other problem. Normal browser is able to connect to zn?\n\nMaybe related to this: https://trac.torproject.org/projects/tor/ticket/11493",
+				"added": 1459023300
+			},
+			{
+				"comment_id": 94,
+				"body": "The addresse looks right, but give it up. I was able to connect to my already running ZeroNet node with torbrowser. Can’t test `--open_browser` since I don’t want to run my browser with zeronet user.\n\nIf you expect some help you should also always present the exact error messages.\n\n(can’t reproduce since I don’t use bundles)\n\n---\n\nIt seems TOR browser is not meant to be used without TOR.\n\n> The design document says:\n> The browser MUST NOT bypass Tor proxy settings for any content.\n\nBetter try to install TOR via your distro’s repo and use a real daemon for that. If you depend on torbrowser for TOR, it will probably not work, I expect it to start the browser after connection is established … this means it already detected TOR as non-working at this point.",
+				"added": 1459179292
+			}
+		],
+		"6_1H8oKiRa7fGgUqS1hpUtaSYLvAqkaknbkf": [
+			{
+				"comment_id": 95,
+				"body": "Switching users is buggy",
+				"added": 1459290915
+			}
+		],
+		"1_18jipjDsfAxAuq4ixbi2w24xJrYVfTYFPn": [
+			{
+				"comment_id": 96,
+				"body": "Central Europe",
+				"added": 1459346112
+			}
+		]
+	},
+	"comment_vote": {
+		"27_15QGRquMETTn5LnCHjTm1qa9eaXGtq7gpT": 1,
+		"4_1BWsVpXFVzcpYwdgKhjCRuTx3xDTxyevKS": 1,
+		"440_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"30_13KqD3BoaRMudEG5QU2fnGLkSVx8qDXKof": 1,
+		"19_1H8oKiRa7fGgUqS1hpUtaSYLvAqkaknbkf": 1,
+		"2_1NAoLoD1HGFpwJBvG61HG77XVFc7VJfHv1": 1,
+		"557_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"96_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1,
+		"51_17fgJ3tZjhM7HCkTkd5TWf2BLLWmhRKcXB": 1,
+		"21_16bxMyoL49mWYhcZKBYVBT5zEFW9SQpiao": 1,
+		"1_1LSwXsnntscVeytsQChPkGXq1ExcR7ULvi": 1
+	}
+}

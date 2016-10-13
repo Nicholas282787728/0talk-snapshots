@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HFZFQqMKriz45Dl1HEt/SrsIGXfifvFQ4WeQQfqKB3h1kYKVrjMNQT5YuT6k/9pVs6SjfklYmTDG57IAYELFrgM=",
+ "cert_user_id": "zetag@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "15d45332a1e828d4f95a9086c909f02bc6c27358fb709c4b4fadf9aeafdd2313",
+   "size": 244
+  }
+ },
+ "inner_path": "data/users/1DosZG1SomezpZjPiHkxhtcGDYXvqXgWum/content.json",
+ "modified": 1460132369.65732,
+ "signs": {
+  "1DosZG1SomezpZjPiHkxhtcGDYXvqXgWum": "G8t8n+xVPjCf2KIpnJoTcX+xmUF7W4wKpglX3eJBA9lT2eGowF9WzLKqdQKzXJfE8JUfF6AhqtHA5p7xg4dGfXw="
+ }
+}

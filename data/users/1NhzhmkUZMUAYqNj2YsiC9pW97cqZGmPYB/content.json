@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HJDfDjOdwo0R7DB1O3L3N6P9cOgy4SmSaCSm0MpBN/AXO1MAINtndGbhBuLXXF5h2UzCbqTjW3Z6nShGRAanzRY=",
+ "cert_user_id": "chocolatetable@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "fd4579a9c89a1adf68782ea7f995a4b96c8ee4251483f11aceaf8a68c71f0a99",
+   "size": 2080
+  }
+ },
+ "inner_path": "data/users/1NhzhmkUZMUAYqNj2YsiC9pW97cqZGmPYB/content.json",
+ "modified": 1463071527.939,
+ "signs": {
+  "1NhzhmkUZMUAYqNj2YsiC9pW97cqZGmPYB": "HKeVt3YrFC82MvrTuV0Z/2Ex2/3CkQbQOvYqM6KoHjHjDRvY14SDfVg+/KqZRZL8Mfsp133sq+5SEymm/1YF3Yo="
+ }
+}

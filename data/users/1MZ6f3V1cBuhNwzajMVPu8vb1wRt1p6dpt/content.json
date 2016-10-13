@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "G8dopfKB5pZZFCUr7Ms/5M2737ZaERw8tMg3hNlAmJYAMtSWk5D9uqrYWkzlN3f/QO/t0zwUPvR+/vfQJq8IIdo=",
+ "cert_user_id": "chinanet@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "5d9263b10d35159c4674cc81c70c83496588472522d30ea0a4a0280ff9e9b984",
+   "size": 8404
+  }
+ },
+ "inner_path": "data/users/1MZ6f3V1cBuhNwzajMVPu8vb1wRt1p6dpt/content.json",
+ "modified": 1470838990.980624,
+ "signs": {
+  "1MZ6f3V1cBuhNwzajMVPu8vb1wRt1p6dpt": "HKA083p+KP5iIBZYfyUke46awld1CyqWcs0UecnluKQYB9wtsSc4fVYNkpybiNAjxvZNr6/2AQaURoqGKMKVN/8="
+ }
+}

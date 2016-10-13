@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "G7lQCNcm4yw6JyThFUnmIEESaE0FuVaBLWgT0kwqjRiPEDw+KljHEF8rxsdHzVhAWRkX0JZiBVFC5eNRkAkFt60=",
+ "cert_user_id": "freefox@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "0d176cfe177d8cc20a7e2e0b408f49ff457a06e5c9b92723cada02861db8163d",
+   "size": 255
+  }
+ },
+ "inner_path": "data/users/1ARmoCDkmZkYWAMCipxPqbUoT4akypoPoE/content.json",
+ "modified": 1461552327.757,
+ "signs": {
+  "1ARmoCDkmZkYWAMCipxPqbUoT4akypoPoE": "G3KK5MP/eSEWPB2ZW+SFPnRQKNdho4FCHbeCL2AnwTIIodqF29N4RqMy3ll4l0If2AxOxMNrNCpjOxTMg9O5Qp0="
+ }
+}

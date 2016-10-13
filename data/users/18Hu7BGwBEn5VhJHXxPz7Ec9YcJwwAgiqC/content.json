@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "GzXFiOL/3S0tf4DrrOKxt5FDWzHcsQWVbi1cLngGAbIq7npLswap6IBgptxwYI1ARAPypq92aVIMvC3IXgwGi/E=",
+ "cert_user_id": "fondler@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "3aa86c857cdc0d938a560e39738e463fb414bd8bd845378f4d8095e0e38100ff",
+   "size": 242
+  }
+ },
+ "inner_path": "data/users/18Hu7BGwBEn5VhJHXxPz7Ec9YcJwwAgiqC/content.json",
+ "modified": 1457212873.087,
+ "signs": {
+  "18Hu7BGwBEn5VhJHXxPz7Ec9YcJwwAgiqC": "HKOGWewL8VcWIsCq/M3ddy5I2VXd3Hi21AOTLM4HIgDuA6UlUasRTFVlZYzO0x0PSBRIUFCl+HRM6hgBNAEomjk="
+ }
+}

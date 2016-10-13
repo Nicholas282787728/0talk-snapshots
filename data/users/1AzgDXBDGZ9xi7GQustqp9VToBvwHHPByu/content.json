@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HLcqaq8Y4h8O5syed3fllTA6fGCqOnOE0C13PkHk3lQjsQzV5zIUaumaR2Erclwmfm21iiMoKdjsNHT2zQmQB/Y=",
+ "cert_user_id": "kraken33@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "1ff92e10c80cbdd1bb542ed4afc3a5d955d88bf0091c6b752e3101d7976ba1fd",
+   "size": 304
+  }
+ },
+ "inner_path": "data/users/1AzgDXBDGZ9xi7GQustqp9VToBvwHHPByu/content.json",
+ "modified": 1471539428.155016,
+ "signs": {
+  "1AzgDXBDGZ9xi7GQustqp9VToBvwHHPByu": "HGvCuS161HnE/IiK0KPB4ZV9T4aPFt8nX3CDZt3P3IVCJf4ALt904IesUluIXR/m3zSt3oSnTnrsU7yOVmVbpAo="
+ }
+}

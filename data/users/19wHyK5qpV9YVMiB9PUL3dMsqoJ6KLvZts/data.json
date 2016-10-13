@@ -1,0 +1,93 @@
+{
+	"next_topic_id": 6,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "create site?",
+			"body": "HOW?",
+			"added": 1464737322
+		},
+		{
+			"topic_id": 2,
+			"title": "ZeroNet",
+			"body": "is anybody knows who started this network zeronet",
+			"added": 1465176007
+		},
+		{
+			"topic_id": 3,
+			"title": "New -additional printing of money on bitcoin",
+			"body": "on the principle of P2P networks(algorithm=)\nwhoever opened the wallet gets deposit of 1000 bitcoin\nread more on http://www.ponudapotraznja.tk",
+			"added": 1465182659,
+			"parent_topic_uri": "1_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG"
+		},
+		{
+			"topic_id": 4,
+			"title": "How open e -commerce via zeronet",
+			"body": "for selling and buying product",
+			"added": 1468453107
+		},
+		{
+			"topic_id": 5,
+			"title": "how to sen mesagge",
+			"body": "how to send message  or ask the question to autor of content on this url http://127.0.0.1:43110/1AtRr9BPxKkPswG4uKn17bht2JCdv2cMqt/",
+			"added": 1470370853
+		}
+	],
+	"topic_vote": {
+		"1_19wHyK5qpV9YVMiB9PUL3dMsqoJ6KLvZts": 1,
+		"2_19wHyK5qpV9YVMiB9PUL3dMsqoJ6KLvZts": 1,
+		"3_19wHyK5qpV9YVMiB9PUL3dMsqoJ6KLvZts": 1
+	},
+	"next_comment_id": 8,
+	"comment": {
+		"2_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": [
+			{
+				"comment_id": 1,
+				"body": "yee cool man\n> [testingzeronet12](#comment_9_1CMjV2r4EBpFt8VCcWWZKDysZXPcPExRNN): I'm making a decentralized peer 2 Peer video streaming portal like Youtube on ZeroNet, using WebTorrent streaming technology, which means the videos cannot be deleted. This is my proof of concept. Can anyone help with integrating webtorrent into the html?: http://127.0.0.1:43110/1AtRr9BPxKkPswG4uKn17bht2JCdv2cMqt/",
+				"added": 1464736087
+			}
+		],
+		"1_19wHyK5qpV9YVMiB9PUL3dMsqoJ6KLvZts": [
+			{
+				"comment_id": 2,
+				"body": "thx\n> [testingzeronet12](#comment_10_1CMjV2r4EBpFt8VCcWWZKDysZXPcPExRNN): Its pretty simple: https://www.youtube.com/watch?v=D-x9Ob7kktE",
+				"added": 1464818288
+			},
+			{
+				"comment_id": 3,
+				"body": "you are lazy :)> [ancap](#comment_45_1FYXQGLBeNabf5jZHgP4CwzbmJSKaK4oMz): It's too much to expect that anyone would read the docs or watch YouTube how-to's when it's easier to spam 100 people.\n> The network is growing (good) and the lazy bastard syndrome will soon become really annoying (bad).",
+				"added": 1464823679
+			}
+		],
+		"6_1ADB7TdX2fVbTsWBoMe9yBTmVXTbb33b4R": [
+			{
+				"comment_id": 4,
+				"body": "how?I installed on my computer> [icf20](#comment_1_1JARuoKjvXanUeKyPTXU9cus2jRzi4DZU5): just use ring.cx",
+				"added": 1465178428
+			}
+		],
+		"6111_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG": [
+			{
+				"comment_id": 5,
+				"body": "someone obviously does not like, but for those who do not know what it is, remains a fear, if at the same time you've got power ups",
+				"added": 1465243425
+			}
+		],
+		"4_19wHyK5qpV9YVMiB9PUL3dMsqoJ6KLvZts": [
+			{
+				"comment_id": 6,
+				"body": "> [bot](#comment_51_1KdnTJVBGzEZrJppFZtzfG9chukuMv8xSb): Database alone is not very secure, so needs blockchain or similar.\n\nCould be existing bitcoin blockchain or similar.",
+				"added": 1468465065
+			},
+			{
+				"comment_id": 7,
+				"body": "> [bot](#comment_53_1KdnTJVBGzEZrJppFZtzfG9chukuMv8xSb): Yes, but bitcoin blockchain is huge (growing) so parsing is slow.This project on github looks suitable for the task..   https://github.com/ssbc/secure-scuttlebutt/(..I've made start on a db-editor, and ready to try adding this functionality myself also)\n\nThx.I try to work with nxt platform ,what a mess.",
+				"added": 1468551066
+			}
+		]
+	},
+	"comment_vote": {
+		"2_19wHyK5qpV9YVMiB9PUL3dMsqoJ6KLvZts": 1,
+		"5_19wHyK5qpV9YVMiB9PUL3dMsqoJ6KLvZts": 1
+	}
+}

@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "GzgZ8lkVGX7mBijdYBR8/zWq3IVpSwYcbXiQYVXsoBvNEZefvpZJdd4cc9Ze5UCsdxEeZDANPG7+Vw/2ioDfX6w=",
+ "cert_user_id": "graveyardswatch@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "a7ae484ef1239d4ae911f2002820e953a7028db4491c877bb769f0d60ca072a6",
+   "size": 18983
+  }
+ },
+ "inner_path": "data/users/1HrRNH7KbdxMjwLmwrHmZqJrzVZVDKc9bF/content.json",
+ "modified": 1472005718.085605,
+ "signs": {
+  "1HrRNH7KbdxMjwLmwrHmZqJrzVZVDKc9bF": "HFjBYErh9ZvDai8MNRGNe7j47zGnnSArZIkgnV2KWclS+/K9fFJV1/5smpjJu+Oph9dGW9pdzuR4gKZxuP9WY8Y="
+ }
+}

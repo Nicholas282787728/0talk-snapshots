@@ -1,0 +1,121 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 18,
+	"comment": {
+		"3_15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ": [
+			{
+				"comment_id": 1,
+				"body": "To become independent you need mesh networks widely spreaded that means satellites as some nodes. FireChat can work on some territory where you have lots of nodes. Even outside of cities there would be problem with connecting A to B if they are for eg 100km away from each other.\nImo mesh networks needs:\n-data stored\n-economic iniciative to run node, cryptocurrency with which users would pay for bandwidth would be great to spread it but it still would need lots of activists to start it",
+				"added": 1457696552
+			},
+			{
+				"comment_id": 4,
+				"body": "> [musickiller](#comment_66_15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ): They said something about \"ppl move and carry the messages\" in their site. But of course it's too slow.But still we got cities. If such a network would appear it would take part of the load from service providers wich is good.\n> \n> My guess is that all who come to ZeroNet this days are activists, more or less\n> After some thinking and refining of this idea, I suppose it's possible to build a similar network as an addon to ZeroNet. It should be. But may be you are right and it's not reliable and only worth it if someone will work at it in parallel to ZeroNet.\n> \n> You mean.. Like if someone has a big antenna, he gets paid for (amount of data) * (distance)?\n\nBig antenna or small one, depends on where it would be.\nImo distance would become irrelevant as users would choose fastest and cheapest transfer so new one would show up very fast.\nAs for working in cities I would love to see it, there is project which wants to utilize current net and mix it with mesh networks http://meshnet.pl/ but its only in polish.",
+				"added": 1457718064
+			}
+		],
+		"1_1A2Enr1q8vQEuZdJjGDiENzmYb3cypxjAN": [
+			{
+				"comment_id": 2,
+				"body": "pool needs to enable it, so search for pool which has merge mining and mine on port for btc+nmc mining",
+				"added": 1457696678
+			},
+			{
+				"comment_id": 6,
+				"body": "You dont need any firmware change in order to merge mine. As it comes to VPN you install it on PC to which asic is plugged, dunno nothing about asics with rpi builded in, didnt read nothing about asics for year or smth like that.\nF2pool might be massive but they are mining smaller blocks to keep backlog (on btc) which allows cheaper DOS attacks which are used to make pressure on community to push us into hardfork which is clearly a power grab and mixing politics with tech, so I would not mine there.",
+				"added": 1457723296
+			}
+		],
+		"1_1BQg5MQZ63aEQZMzLEXP6yY3hsgznKpaps": [
+			{
+				"comment_id": 3,
+				"body": "+1 for Linux, windows is for suckers",
+				"added": 1457698034
+			}
+		],
+		"2_1FieP4c1gxFme5webFJB9x5ZPBXdR6p3Fs": [
+			{
+				"comment_id": 5,
+				"body": "You mean other than ShapeShift?\npoloniex.com\nbtc-e.com\nor find some1 on forums but take escrow",
+				"added": 1457722781
+			}
+		],
+		"1_1NnRbaLtsJpLqX8QG4rU73uCrLUTAZNhBP": [
+			{
+				"comment_id": 7,
+				"body": "srsly post about porn w/o link...",
+				"added": 1457739011
+			}
+		],
+		"1_1MahZJTzjoEMMCv2jBReDWhyNGRhN5tvDq": [
+			{
+				"comment_id": 8,
+				"body": "I dont think its competing not too many sites right now ;p it would be good to have them here, definitely will seed their site",
+				"added": 1457777257
+			}
+		],
+		"2_1LZbdpKVACfmxW5vffrcwAGugNwcWxuyKu": [
+			{
+				"comment_id": 9,
+				"body": "reputation would be also nice",
+				"added": 1457799575
+			}
+		],
+		"1_1NK48tpcLLQzcbN6kCin4ZkMQosBd133PG": [
+			{
+				"comment_id": 10,
+				"body": "Cześć.\nJeżeli chodzi o zdecentralizowany twitter to jest twister.net.co ale nie testowałem.",
+				"added": 1457804855
+			},
+			{
+				"comment_id": 11,
+				"body": "Twitter jest przydatny do kryptowalut jeżeli Cie interesują, szczególnie do kursu.\nMyślę, że ciężko by było ludzi namówić na zdecentralizowane social media bo:\n-na zcentralizowanych są ich znajomi\n-za pomocą zcentralizowanych mogą się logować w różne miejsca do jakieś gierek czy chuj wie co.",
+				"added": 1457806229
+			},
+			{
+				"comment_id": 12,
+				"body": "Teraz jeszcze znalazłem to http://127.0.0.1:43110/1NpNCPyBpZaGe9BdhuVAkwqVZXg8Hy7VB/",
+				"added": 1457806604
+			},
+			{
+				"comment_id": 17,
+				"body": "> [teddydd](#comment_16_1GNdkBSxTw6SpRdGHxDCyfANXnwi7FG7rJ): Ciężko mi namówić znajomych do używania Telegrama, co dopiero 0netu. Chociaż zdecentralizowany Slack mógłby zrobić furorę.\n\nNo ja właśnie namawiam ludzi z libertarianizm.net abyśmy mieli zapasowy kanał do komunikacji, już kilka osób na chociaż przetestowanie namówiłem :)\nTak slack zdecentralizowany byłby dobry, szczególnie, że darmowe kanały na slacku przechowują jedynie 10k wiadomości, więc i tu może być tak samo. Możnaby z nim uderzać w społeczności kryptowalut, najlepiej bitcoincore i jumbucks jako, że te są chyba najbardziej liczne.\nOgólnie bardzo mi się podoba pomysł, fajnie jakby więcej ludzi korzystało.",
+				"added": 1458000116
+			}
+		],
+		"1_1BBgFTTUGGerJGQZwPs9nG2ty3xtiWbUJh": [
+			{
+				"comment_id": 13,
+				"body": "what is Hwo?",
+				"added": 1457815074
+			}
+		],
+		"14_1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf": [
+			{
+				"comment_id": 14,
+				"body": "twitter, there was some link about ZeroNet",
+				"added": 1457826379
+			}
+		],
+		"1_1PoJALTLYV3CvytpitHoXDsjEhs44bhBZU": [
+			{
+				"comment_id": 15,
+				"body": "working for me, it took about 1min for bot to answer",
+				"added": 1457879159
+			}
+		],
+		"4528_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG": [
+			{
+				"comment_id": 16,
+				"body": "hmm? https://twitter.com/Dennahz/status/709321755182145536",
+				"added": 1457955448
+			}
+		]
+	},
+	"comment_vote": {
+		"110_1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD": 1,
+		"3_1L5rGDgTs4W2V7gekSvJNhKa7XaHkVwotD": 1
+	}
+}

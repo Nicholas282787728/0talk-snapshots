@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HBTgDh9QgJWvm/Q4ESkAay5GBp9dGr1k2VyI6ZyVOCrwMgGIrMQT0OodrJfvvOeYYk2TQwmhe89FuR/c/WNSmxw=",
+ "cert_user_id": "duqueimoral@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "e22db33280f0f13e731359dd25550146139d4c6c5b382433f4ac3a1b9a80fdcc",
+   "size": 227
+  }
+ },
+ "inner_path": "data/users/1P2SHSi7kfE1rq3msU11nL3jo3ufaYeYTU/content.json",
+ "modified": 1461377613.762,
+ "signs": {
+  "1P2SHSi7kfE1rq3msU11nL3jo3ufaYeYTU": "G8FHX5XNYvMGQsTFg4FV0Oi+x4hfRnJHE0th3/4rHlPimcY2w4vC/n0cRzGxozOWwW6OlICgOFC3a1lfDNAk8nA="
+ }
+}

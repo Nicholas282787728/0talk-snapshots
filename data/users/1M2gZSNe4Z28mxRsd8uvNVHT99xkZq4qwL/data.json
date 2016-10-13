@@ -1,0 +1,16 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 2,
+	"comment": {
+		"2_1AZjDLkfYwSmjM7ZJUf7HHnrF778augRMa": [
+			{
+				"comment_id": 1,
+				"body": "This is the wrong mindset for anyone who really wants this network to be free and keep anonymity.",
+				"added": 1470743145
+			}
+		]
+	},
+	"comment_vote": {}
+}

@@ -1,0 +1,112 @@
+{
+	"next_topic_id": 5,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "one questions",
+			"body": "Hi :) Here is one questions !\n- How to stick topic (as founder/admin of a clone)",
+			"added": 1452536863
+		},
+		{
+			"topic_id": 2,
+			"title": "Change number adress to *.bit ?",
+			"body": "How i can change a number adress(e.g. : 1K3kSvhYo8DdT7gvfT3quVYZVpzqncHHZn) to lettre .bit adress (e.g. : **127.0.0.1:43110/**frzero.bit)",
+			"added": 1452542389
+		},
+		{
+			"topic_id": 3,
+			"title": "Forum Francophone",
+			"body": "Due a un problème, l'adresse de l'ancien forum français ne marchait plus (suppression de dossier je suppose), j'ouvre donc ce nouveau forum destiné autant au expérimenté qu'au débutant...\n###**FrZer0** : http://127.0.0.1:43110/1FrkJ12QXyF7ZeFJG8SFQz6NqzwNe1iDmJ\n\n**Ce que je prevois :**\n- Entièrement traduit en français dans l'interface\n- Plusieurs catégories en haut de page afin de s'y retrouver\n- Bien d'autre choses selon vos idées\n\n**Ce qui à déjà été fait :**\n- Traduction Française de l'interface presque finie\n- Deux catégories\n- Nouvelles couleurs dans l'interface plus conviviale !\n\n**_Cordialement, Spl0it_**\n(J'ai eu un probleme qui m'a fait perdre mon identifiant Spl**0**it donc c'est maintenant Spl**o**it :D)",
+			"added": 1452545679
+		},
+		{
+			"topic_id": 4,
+			"title": "[FR] Référencez votre site ZeroNet !",
+			"body": "J'officialise l'ouverture de ZeroDev ! Un site codé de A à Z dédié au référencement de site ZeroNet...\n**Explication du concept** : Vous trouvez un site sur ZeroNet en vous baladant, le site vous parait intéressante, vous le partagez sur ZeroDev... Vous êtes développeur et vous souhaitez un maximum d’audience, ajoutez votre site à ZeroDev !\n**Lien** : http://127.0.0.1:43110/1CN5B75Z2PU5DjBxQnTi9genBmxsPGjoVY\n**Le site est encore en développement et dépendant de ZeroNet pour certain soucis**\n**Pour ceux qui se posent la question : le framwork utilisé est Materialize CSS**\n_Merci de votre écoute !_",
+			"added": 1453504796
+		}
+	],
+	"topic_vote": {
+		"1_1LdcHtaGFmZPLefm1zN6pQoTi1ibqQn7ug": 1,
+		"3_1LdcHtaGFmZPLefm1zN6pQoTi1ibqQn7ug": 1
+	},
+	"next_comment_id": 15,
+	"comment": {
+		"1_1LdcHtaGFmZPLefm1zN6pQoTi1ibqQn7ug": [
+			{
+				"comment_id": 1,
+				"body": "> [nofish](#comment_178_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): No easy way to do it yet, you have to edit js/all.js file search for topic_sticky_uris then add your topic uri there.\n> After that sign + publish the modifications using the sidebar.\n\nOkay, right that not easy... Another question, how to create \"category\" ?",
+				"added": 1452538777
+			},
+			{
+				"comment_id": 2,
+				"body": "> [nofish](#comment_179_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): Create a topic, edit your data file (data/users/1LdcHtaGFmZPLefm1zN6pQoTi1ibqQn7ug/data.json) and add line \"type\": \"group\", after line \"added\": ....\n> Example: http://127.0.0.1:43110/talk.zeronetwork.bit/data/users/1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG/data.json\n> Sign + Publish your data/users/1LdcHtaGFmZPLefm1zN6pQoTi1ibqQn7ug/content.json using the sidebar\n\nThank you a lot :) And thank you for you great work",
+				"added": 1452541963
+			}
+		],
+		"2_1LdcHtaGFmZPLefm1zN6pQoTi1ibqQn7ug": [
+			{
+				"comment_id": 3,
+				"body": "> [nofish](#comment_180_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): You have to use Namecoin then edit the domain like this: http://namecha.in/name/d/ojrask\n\nOkay, on the another post, where i can find the topic uri ?",
+				"added": 1452543041
+			},
+			{
+				"comment_id": 4,
+				"body": "> [nofish](#comment_180_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): You have to use Namecoin then edit the domain like this: http://namecha.in/name/d/ojrask\n\nAnother question (sorry but i have lot of questions), Ad allowed ?",
+				"added": 1452543195
+			},
+			{
+				"comment_id": 5,
+				"body": "> [nofish](#comment_182_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): You can try, but I its greatly reduces privacy as the ad providers will do everything to follow/mark your users, so its not recommended.\n\nYeah, there isn't a website or service can transform a **Ad .js file** to a **anonym ad .js file** ? (poor english xC)",
+				"added": 1452543524
+			},
+			{
+				"comment_id": 6,
+				"body": "> [nofish](#comment_183_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): The ad provider will only pay you if you let them to mark the users and also your site is served by your visitors, so it's not ethical to serve them ads/pass their browsing habits to third-party/reduce their privacy.\n\nSo there isn't recommended to display ad on P2P website ? Again an other question, everyone can change/be the admin of a website or theree a protection ?",
+				"added": 1452543803
+			},
+			{
+				"comment_id": 7,
+				"body": "> [nofish](#comment_183_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): The ad provider will only pay you if you let them to mark the users and also your site is served by your visitors, so it's not ethical to serve them ads/pass their browsing habits to third-party/reduce their privacy.\n\nTHANK YOU :D That good i created a sticked ~~category~~ named Tutorial :3",
+				"added": 1452543938
+			},
+			{
+				"comment_id": 8,
+				"body": "> [nofish](#comment_184_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): Yeah, it's working now!\n> \n> Only you can change the site files. Because of that the backup of data/users.json is recommended, it contains the keys required to make the changes.\n\nWithout i give you link to my website, you can view him ?",
+				"added": 1452544307
+			},
+			{
+				"comment_id": 9,
+				"body": "> [nofish](#comment_185_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): If you register a domain then its possible to find your site, if you don't create domain for it then no way to find it without knowing the address.\n\nI thought you were on my site: D",
+				"added": 1452545098
+			},
+			{
+				"comment_id": 10,
+				"body": "> [nofish](#comment_185_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): If you register a domain then its possible to find your site, if you don't create domain for it then no way to find it without knowing the address.\n\n~~mpossible to create a category :/ i writed :\n**\"type\": \"group\"** after **\"added\": xxxxx,**... Nothing (with sign & publish)~~\nWork after waiting :D",
+				"added": 1452546039
+			}
+		],
+		"3_1LdcHtaGFmZPLefm1zN6pQoTi1ibqQn7ug": [
+			{
+				"comment_id": 12,
+				"body": "Venez visiter, beaucoup de nouveautés !",
+				"added": 1452791487
+			},
+			{
+				"comment_id": 13,
+				"body": "> [zeroplume](#comment_3_1AJdtnk779rokEtd4tCCX53255ME1HobU4): Bon, les enfants, va falloir corriger tout ça, là. D'une part, vous manquez clairement de pairs sur votre nouveau site (le 1FrMachin ). J'aimerais bien vous aider, mais j'ai même pas moyen de choper le contenu.\n> D'autre part, et c'est plus emmerdant à mon sens, vous avez fait une redirection de l'ancien (1K3ktruc) vers le nouveau. Youpi. Sauf que tant qu'à (bien) faire, vous n'êtes pas obligés de coller toute l'URL dans la redirection. Ce que je veux dire, c'est que le protocole et le domaine n'ont pas besoin d'être précisés. Ils sont d'ailleurs contreproductifs pour les gens qui accèdent par un \"nœud public\" (ou qui sont simplement sur un autre port que le 43110, pour des raisons qui leur sont propres).\n> Bref, j'imagine que c'est une bête redirection Javascript, vu qu'on a pas trop moyen de faire mieux. Mais ça serait sympa de remplacer \"http://127.0.0.1:43110/1FrkJ12QXyF7ZeFJG8SFQz6NqzwNe1iDmJ\" par \"/1FrkJ12QXyF7ZeFJG8SFQz6NqzwNe1iDmJ\". Ah, et seedez! Merci beaucoup.\n\nJe m'occupe de remplacer par la fonction \"transfer\": \"new_url\"\nMerci... Annoter, oui c'était un simple redirection en JS :D\nEdit: J'ai modifier le post, mais je met quand même la fonction Transfer pour les ancien :D",
+				"added": 1453502174
+			}
+		],
+		"4_1LdcHtaGFmZPLefm1zN6pQoTi1ibqQn7ug": [
+			{
+				"comment_id": 14,
+				"body": "> [konubinix](#comment_2_1JWV37RdEUEwDuK3ZuuzzkHMG9jkPyPYrM): No peers found...\n\nProblème réglé :)",
+				"added": 1453575060
+			}
+		]
+	},
+	"comment_vote": {
+		"11_1LdcHtaGFmZPLefm1zN6pQoTi1ibqQn7ug": 1
+	}
+}

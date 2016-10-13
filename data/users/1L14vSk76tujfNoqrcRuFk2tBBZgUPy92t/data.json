@@ -1,0 +1,31 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {
+		"2_17LQPJZz9sBC1besM5ZwKFKt9CmndJTjcA": 1
+	},
+	"next_comment_id": 2,
+	"comment": {
+		"4_1BFTNXtYQDMCurqyg45KLmsV6oJD7bQSsH": [
+			{
+				"comment_id": 1,
+				"body": "Sure, let's bring the bad parts of the clearnet onto here.",
+				"added": 1476150236
+			}
+		]
+	},
+	"comment_vote": {
+		"1_16uoBqDu9HhAkUhjDyW69bNT9WMSd239MQ": 1,
+		"19_1D7uESYtAKV36MVPGJZXuE7LUKbLwfo4dX": 1,
+		"4_1HvZzixBMnPehyouwx83zNYK3E97MrUVxS": 1,
+		"10_1BFTNXtYQDMCurqyg45KLmsV6oJD7bQSsH": 1,
+		"1_1NUY43gPDsUgxEn5QJtvKnMhL2TJAwFNXC": 1,
+		"17_14Ph48APoNHojAArCqa6FAwXiobE9JByCy": 1,
+		"2_1KpxvLkiFHNd2NpkH6T4ms2RVbpVTi9Fh1": 1,
+		"7_1PCPuVtFv8apVpXYbc46wHugNhFUVQ6KCv": 1,
+		"4_1CZhapKybCk4VkGiSso1YzXZd1oG5C3oAw": 1,
+		"1_1Bx1tNpf8HRG7FJpcuCVVasdma3CUaho9w": 1,
+		"1_1L14vSk76tujfNoqrcRuFk2tBBZgUPy92t": 1,
+		"20_1BFTNXtYQDMCurqyg45KLmsV6oJD7bQSsH": 1
+	}
+}

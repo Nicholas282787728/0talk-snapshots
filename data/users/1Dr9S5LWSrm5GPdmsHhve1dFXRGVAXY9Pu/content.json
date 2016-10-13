@@ -1,0 +1,12 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "G03Sh6rekh5d/QlvrdKXjZyvc9QbalKbw87OQkLRXfT/u/dlowgvMNKZ6wpo6CO9e+eSyWp864314yemr53RsIw=",
+ "cert_user_id": "gogan@zeroid.bit",
+ "files": {},
+ "inner_path": "data/users/1Dr9S5LWSrm5GPdmsHhve1dFXRGVAXY9Pu/content.json",
+ "modified": 1457806203.173,
+ "signs": {
+  "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT": "G8GkIeQN9wr4TFYQkicmnsXJBs4Oa9K6gfxNzOIEi4bmcEDJYwGlzsNMLRC+7sO/Szcf9fXj0Nolf12y4MtOjkw="
+ }
+}

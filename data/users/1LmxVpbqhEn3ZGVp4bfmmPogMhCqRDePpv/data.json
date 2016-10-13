@@ -1,0 +1,16 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 2,
+	"comment": {
+		"4_1HDGK4rrMzuouF8hNnxfMNpWyR8qAtP4HR": [
+			{
+				"comment_id": 1,
+				"body": "Even if the hard fork takes place nothing is won. The old blockchain would still be allive. You end up just in to chains, one where the ethers go back to the DAO and one where the attacker gets access to it. Since asside from the attacker and the DAO everyone has the same amount of Ethers in the old and in the forked blockchain it is very unlikely, that one of them dies within a short timeframe.  All a fork can achieve is a bunch of confusion. I hope Etherereum creators thing twice bevore attacking the constitution of blockchains: \"whats in the blockchain that is true\".",
+				"added": 1466522799
+			}
+		]
+	},
+	"comment_vote": {}
+}

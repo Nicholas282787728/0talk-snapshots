@@ -1,0 +1,44 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "IDEA : add many laungage for sites in ZeroNet ()",
+			"body": "what we should do to add many laungage for sites in ZeroNet ?\n\nthe must good  point in ZeroNet is \"Clone site by one Click!\"\n\n\nand the process of develop , and add new code in a site by developer >>> other Cloner can't get last update in site >>>\n\n\nso , can we develop site and the \" TEXT of language should put in JSON file \"\nthat will help an other one to make his language (EN,FR,RU,AR,IN,AN...) site and , new code to his Clone site file and support many people not programer to translate .",
+			"added": 1473554687
+		}
+	],
+	"topic_vote": {
+		"1_18Sh2Z83C23xdd6pjCq6NGv7Y6svEBcUfb": 1,
+		"1_15zYrGJKfXo6XXU6rBUsuU3cTgpJkDuQYA": 1,
+		"2_168qV1Xxp2EyszrzdECLUwXrn9wGYjDdar": 1,
+		"1_1JgHfDK4eojCkVZHKey9hiMAcAc9mxMUK2": 1
+	},
+	"next_comment_id": 4,
+	"comment": {
+		"22_19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ": [
+			{
+				"comment_id": 1,
+				"body": "do you whant link as this :\n\n127.0.0.1:43110/Talk.ZeroNetwork.bit",
+				"added": 1473394077
+			}
+		],
+		"8_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": [
+			{
+				"comment_id": 2,
+				"body": "dear Zeronet network :\nyou should get this site : zeronet.readthedocs.org on Zeronet \n\ndo this >>>",
+				"added": 1473450741
+			}
+		],
+		"1_18Sh2Z83C23xdd6pjCq6NGv7Y6svEBcUfb": [
+			{
+				"comment_id": 3,
+				"body": "##for developer :\n\n- extract language from page ( HTML File ) and put in external JSON file , to help any one translate file to any language (EN,FR,IT,RU,AR,IN,CH ... )",
+				"added": 1473555206
+			}
+		]
+	},
+	"comment_vote": {
+		"16_13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ": 1
+	}
+}

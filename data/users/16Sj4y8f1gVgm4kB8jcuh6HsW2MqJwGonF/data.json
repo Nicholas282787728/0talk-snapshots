@@ -1,0 +1,15 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "Filesharing: I2P torrent bridge from clearnet",
+			"body": "1. Request magnet links currently hosted on clearnet.\n2. Look over previous requests, and if you like or want the same thing help bridge from clearnet to I2P.\n  \nThis can be done by downloading it through a normal torrent client and then sharing it on I2P, making sure it still has the same magnet info. An easier method is to use the Vuze torrent client, which has build in I2P support, so you share to and from both clearnet and I2P users, automatically bridging clearnet and I2P magnets/torrents.\n  \nUsing I2Psnark or Vuze you can already download most popular torrents using I2P, as there are likely a few Vuze users bridging those popular ones already.\n  \nBTdigg I2P: http://btdigg.i2p/\nBTdigg onion: http://btdigg63cdjmmmqj.onion/\nTPB onion: http://uj3wazyk5u4hnvtk.onion/\nKat clearnet: https://kat.cr/full/\n  \nWikipedia: \nThe Invisible Internet Project (I2P) is an overlay network and darknet that allows applications to send messages to each other pseudonymously and securely. Uses include anonymous Web surfing, chatting, blogging and file transfers. The software that implements this layer is called an I2P router and a computer running I2P is called an I2P node.\n  \nThe software is free and open source and is published under multiple licenses. The name I2P is derived from Invisible Internet Project, which, in pseudo-mathematical notation, is represented as I²P.\n  \nBridging to Clearnet\nCurrently, Vuze is the only torrent client that makes clearnet (connections not through I2P) torrents available on I2P and vice versa. It has a plugin that connects to the I2P network. If the user adds a torrent initially made for I2P, it will be seeded on both I2P and the clearnet. If a user adds a torrent from the clearnet, it will be seeded on both the clearnet and I2P. For this reason, torrents previously published only on I2P are made available to the entire Internet, and users of I2P can download any torrent on the Internet while maintaining the anonymity of I2P.",
+			"added": 1456262637
+		}
+	],
+	"topic_vote": {},
+	"next_comment_id": 1,
+	"comment": {},
+	"comment_vote": {}
+}

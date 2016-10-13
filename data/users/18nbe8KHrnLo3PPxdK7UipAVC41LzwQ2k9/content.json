@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HFKXzrFceCrGg0gpC+pq1DcjhYttwAQI5TPrNXujC9ZaPBebCSFVfJEllDrWNUhZqqSbZsaCrnD55qrtcKXpfcQ=",
+ "cert_user_id": "milanabonita@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "c6a38f542e3f607cbe18f9ac8fd1cecd1db046deab568ffc67df05a1e6126291",
+   "size": 384
+  }
+ },
+ "inner_path": "data/users/18nbe8KHrnLo3PPxdK7UipAVC41LzwQ2k9/content.json",
+ "modified": 1458071051.447,
+ "signs": {
+  "18nbe8KHrnLo3PPxdK7UipAVC41LzwQ2k9": "G8WGhKllvipWr2AuGkBi6aWlT4lSdZe+Ly2gfIr7f4JUOY5GYJ++QmLk+NDSY6ZF+8JVLLqLdWWOrCAv5UwMofc="
+ }
+}

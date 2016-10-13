@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "Gyh3obiLd5dAAOMEr4Ni1ear/d5z9wt5VXfdlwH7QJVXf3Ae2DsQHzvOhXIYIF1LYITWMky+i9iPSZvaACVgB9g=",
+ "cert_user_id": "jesusfckngchrist@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "9c1c3cffc2a45e19c3d0e1c3ce8ab6e08b1555115a31afb160176d52e4451e59",
+   "size": 582
+  }
+ },
+ "inner_path": "data/users/1NZzwF41g4xAn2R6t8UC625wEDfQtQdB1B/content.json",
+ "modified": 1457121694.923053,
+ "signs": {
+  "1NZzwF41g4xAn2R6t8UC625wEDfQtQdB1B": "G6g7Q5f3DjT7oYF0C7p5SrQzOoUlSv/4R/1izpuJAW+9kCdCIufmP7vTfEGHOMVUdIHuKX7tLsw2Q7GLWDlz/aA="
+ }
+}

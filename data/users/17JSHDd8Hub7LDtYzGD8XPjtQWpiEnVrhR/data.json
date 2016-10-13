@@ -1,0 +1,39 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "ZeroNet + Docker",
+			"body": "should the dockerfile allow volume mapping the data dir so certs and things can be persistent? or is this handled through the decentralized store somehow?",
+			"added": 1456944732
+		}
+	],
+	"topic_vote": {
+		"1_17JSHDd8Hub7LDtYzGD8XPjtQWpiEnVrhR": 1
+	},
+	"next_comment_id": 4,
+	"comment": {
+		"2_1GCsW9TFfjDsvcdmKPADq1n8Q3ha72UtDQ": [
+			{
+				"comment_id": 1,
+				"body": "NodeJS",
+				"added": 1457037943
+			}
+		],
+		"1_1DFDjUGJdSp1kMuFq1AtNS9ZWmkVtbp947": [
+			{
+				"comment_id": 2,
+				"body": "try setting the viewport http://zeronet.readthedocs.org/en/latest/site_development/content_json/?highlight=viewport#viewport",
+				"added": 1457405126
+			}
+		],
+		"3_1Kg7CXZM5h3wTPENsTDwWUmRBf9VhYy2cW": [
+			{
+				"comment_id": 3,
+				"body": "@acehigh ima js dev, what are you looking to have made?",
+				"added": 1457616510
+			}
+		]
+	},
+	"comment_vote": {}
+}

@@ -1,0 +1,27 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "Public zeronet server on my LAN",
+			"body": "I'm trying to make my zeronet running server available for other machines on my LAN. I'm not sure if what I want to do make sense.\n\nCan any browser open a ZeroNet site without going through a local zeronet process?",
+			"added": 1457104230
+		}
+	],
+	"topic_vote": {
+		"1_1GiYSQXB6Qsog3Mu7jL2zFmAm38d4XZDtZ": 1
+	},
+	"next_comment_id": 2,
+	"comment": {
+		"1_1GiYSQXB6Qsog3Mu7jL2zFmAm38d4XZDtZ": [
+			{
+				"comment_id": 1,
+				"body": "Amazing\n\n`zeronet.py --ui_ip \"*\"`\n\nWas what I looking for. The _--ui_password_ option is great.\n\nThanks for your quick answers",
+				"added": 1457105254
+			}
+		]
+	},
+	"comment_vote": {
+		"32_1MEWJRMLgvofqG9Mbsb2Rc4hFFyv7HeRx7": 1
+	}
+}

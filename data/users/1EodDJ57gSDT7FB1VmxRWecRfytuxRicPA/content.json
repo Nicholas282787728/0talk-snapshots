@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HLENqVlKOfKaJozOZ5khCpyZAMZf/kE51mOq6irf6RnMZYUNLPHCROfPcKU5qS2qErFoBWt4bNnIR0Plr3if3w0=",
+ "cert_user_id": "freebitcoin@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "e8462bc14ac9dff991b55e322cb7d2fc6ade3fda07e6e066a4f9baea420eee16",
+   "size": 1106
+  }
+ },
+ "inner_path": "data/users/1EodDJ57gSDT7FB1VmxRWecRfytuxRicPA/content.json",
+ "modified": 1457016057.655306,
+ "signs": {
+  "1EodDJ57gSDT7FB1VmxRWecRfytuxRicPA": "HKl1zTHJHtqvUw4koDwu5W6CZ+hAU1/1BvRuAm0pv7Qjkp86VqIPpu4y/95Am/NTgCT3NaINs0f7q16yUy9a7fE="
+ }
+}

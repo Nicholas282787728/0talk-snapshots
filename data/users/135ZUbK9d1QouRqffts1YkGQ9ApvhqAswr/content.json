@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HOfi+Lmvoez0O54mxJcx9Z8rRNSBjryAkJKIbIbWZVbSyu0d8wS54svLQuzB63QY5yshnJOo1mksuslgBiqHYDU=",
+ "cert_user_id": "lucasvra@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "a545106b16216d314f86b9b56d79c846051c0edf666b2610d907dc3b8bc79147",
+   "size": 162
+  }
+ },
+ "inner_path": "data/users/135ZUbK9d1QouRqffts1YkGQ9ApvhqAswr/content.json",
+ "modified": 1457272588.71,
+ "signs": {
+  "135ZUbK9d1QouRqffts1YkGQ9ApvhqAswr": "G7u48gOhkSn3yjFmumVjihhjnLE0uh7ShYrLJbiUg51EHvBuDCu3xJ7OlrPAjSd5A6SNhSOWJibjEDG4GgJyeAE="
+ }
+}

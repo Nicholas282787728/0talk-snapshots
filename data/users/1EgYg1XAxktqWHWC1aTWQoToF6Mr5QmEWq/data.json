@@ -1,0 +1,48 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "Transfered my users.json to my laptop but can't access my ZeroMail?",
+			"body": "Ive just copied my users.json to my laptop and now I I get this when I try to access ZeroMail:\n\n__________                     _____         .__.__   ​\n\\____    /___________  ____   /     \\ _____  |__|  |  ​\n  /     _/ __ \\_  __ \\/  _ \\ /  \\ /  \\\\__  \\ |  |  |  ​\n /     /\\  ___/|  | \\(  <_> /    Y    \\/ __ \\|  |  |__​\n/_______ \\___  |__|   \\____/\\____|__  (____  |__|____/​\n        \\/   \\/                     \\/     \\/         ​\n\nEND-TO-END ENCRYPTED P2P MESSAGING SYSTEM\n\n\n\nChecking ZeroNet version.........................0.3.6 r1026 [OK]\nChecking public keys in database...........................[DONE]\nChecking messages in database..............................[DONE]\nChecking current user's public key in database........[NOT FOUND]\nSelected username: jamesheald@zeroid.bit.......[NO MAILBOX FOUND]\n\nI can see one email ive had in the past there but cant open it. What can I do to make this work?",
+			"added": 1458148308
+		}
+	],
+	"topic_vote": {
+		"1_1EgYg1XAxktqWHWC1aTWQoToF6Mr5QmEWq": 1
+	},
+	"next_comment_id": 5,
+	"comment": {
+		"1_1EgYg1XAxktqWHWC1aTWQoToF6Mr5QmEWq": [
+			{
+				"comment_id": 1,
+				"body": "> [erkan](#comment_68_1H8oKiRa7fGgUqS1hpUtaSYLvAqkaknbkf): @bukaking indeed.or: @ jamesheald just edited it :-( this would be not nice, actually.\n\nI was wondering where that went! I just gathered someone deleted it :( . You can still access it by a link, hang on Il try and find it. And yup @bukaking that was my post! No idea what the hell happened to it....\n\nAnd woah yeah, this post has inherited the  comments of the post that disappeared? I broke the Zeronet, what an achievement!!",
+				"added": 1458149043
+			},
+			{
+				"comment_id": 2,
+				"body": "http://127.0.0.1:43110/Talk.ZeroNetwork.bit/?Topic:1_1EgYg1XAxktqWHWC1aTWQoToF6Mr5QmEWq/How+will+we+end+up+handling+big+amounts+of+data\n\nSeems to link to this post? This is so bizarre, you can access this same post from the link above and this http://127.0.0.1:43110/Talk.ZeroNetwork.bit/?Topic:1_1EgYg1XAxktqWHWC1aTWQoToF6Mr5QmEWq/Transfered+my+users+json+to+my+laptop+but+can+t+access+my+ZeroMail. Interesting that they both seem to have the same key.\n\nPerhaps it has something to do with the fact that both my desktop and my laptop are both online with the ZeroNet right now?\n",
+				"added": 1458149615
+			},
+			{
+				"comment_id": 3,
+				"body": "> [erkan](#comment_69_1H8oKiRa7fGgUqS1hpUtaSYLvAqkaknbkf): my sources say:it was the NSA \n> (they are trying to seed quarrel among us)\n\nNSA confirmed. Thats it, we're snookered! RIP ZeroNet :c",
+				"added": 1458149760
+			}
+		],
+		"2_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": [
+			{
+				"comment_id": 4,
+				"body": "this is really cool",
+				"added": 1458150532
+			}
+		]
+	},
+	"comment_vote": {
+		"72_1KwTTgPRSTHFmmJAFBt6kQfdyNeSM5KJuH": 1,
+		"7_17n5jg4bBEoWodXDf8L4Y2u88ShagS272Y": 1,
+		"68_1H8oKiRa7fGgUqS1hpUtaSYLvAqkaknbkf": 1,
+		"65_1H8oKiRa7fGgUqS1hpUtaSYLvAqkaknbkf": 1,
+		"69_1H8oKiRa7fGgUqS1hpUtaSYLvAqkaknbkf": 1
+	}
+}

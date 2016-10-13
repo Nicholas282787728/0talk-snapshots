@@ -1,0 +1,20 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {
+		"8_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1
+	},
+	"next_comment_id": 2,
+	"comment": {
+		"8_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": [
+			{
+				"comment_id": 1,
+				"body": "I can view my zite but it seems others cant. http://127.0.0.1:43110/13J4xKyutC2qQuukZymgBNpZUsVbo2oouF \nits a zerotalk clone.  when i try to view it through a proxy i get stuck on:\n\"Connecting...\nPeers found: 2\ncontent.json download failed\"\nand after \"504 Gateway Time-out\"\nWhat would make it so i can view it locally but it wont successfully peer outside my system?  Permissions?  Ports? Zerobundle file location?  I run lubuntu, and i understand this stuff on a intermediate level. \nAny thoughts?",
+				"added": 1471294658
+			}
+		]
+	},
+	"comment_vote": {
+		"1_1A7Jhb42rcCE86shNxvzbi6uQ7Agemspdd": 1
+	}
+}

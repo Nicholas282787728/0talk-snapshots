@@ -1,0 +1,23 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 3,
+	"comment": {
+		"1_1KdVeashoiPjj79tVUmAy8cBYjwxfZNe1e": [
+			{
+				"comment_id": 1,
+				"body": "Hi everyone. Actualy, I don't have any (properly said) favourite videogame. Maybe Gone Home because it's soundtrack or Left 4 Dead 2 because of it's incredible modder comunity. I have a Youtube chanel in the other side of the internet (lol that sounds kind of creepy) where I talk about all this stuff. It's name is Crítica y Videojuegos (Yep, I'm Spanish, sorry). If you wanna take a look just do it and if not, I'm gonna open a blog or something like that in a near future... Just saying XD",
+				"added": 1460413753
+			}
+		],
+		"1_1HMRzb6FeATsL87krzdUSNZEcYMA8t6RG2": [
+			{
+				"comment_id": 2,
+				"body": "Holap, parece que en esto del lado \"oscuro\" de la web los españoles tenemos nuestro mundillo. Estamos creando una buena fanbase en Zeronet.",
+				"added": 1460413920
+			}
+		]
+	},
+	"comment_vote": {}
+}

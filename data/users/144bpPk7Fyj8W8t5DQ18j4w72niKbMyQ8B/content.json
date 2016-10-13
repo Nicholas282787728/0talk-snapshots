@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HBgVo00mcvWVStQPbkf+IB/NEP5QeJd72V/OD+07jjaONh0u2RbCGEdyOjL4Vv713fOrYSJsO1dmBOUU4eNey2I=",
+ "cert_user_id": "factoryhow@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "5bdb41c90524c76d31e6f7e7d7db26822b3f16d59146d14200fa15da4c9d29d3",
+   "size": 162
+  }
+ },
+ "inner_path": "data/users/144bpPk7Fyj8W8t5DQ18j4w72niKbMyQ8B/content.json",
+ "modified": 1472322429.657897,
+ "signs": {
+  "144bpPk7Fyj8W8t5DQ18j4w72niKbMyQ8B": "HAvaMyN1MZjd+bm8Z8s3A7hcUF5DTQt8A+pMAq4Gdu0hbh/FL8iwNskukiIRjl1uZPnL4dsoJ0QvCQp+sB3IHrI="
+ }
+}

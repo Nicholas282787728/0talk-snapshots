@@ -1,0 +1,26 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 3,
+	"comment": {
+		"6_17n5jg4bBEoWodXDf8L4Y2u88ShagS272Y": [
+			{
+				"comment_id": 1,
+				"body": "a really performant, fast, reliable, stable, current & trustworthy web-proxy would be most helpful. The ones we have already are pretty decent, too, though.\n\nIt would attract people from mainstream internet faster.",
+				"added": 1458812093
+			},
+			{
+				"comment_id": 2,
+				"body": "thanks, nofish. Well then I'd say let's have a few more small & trustworthy web-proxies...   ;-)",
+				"added": 1458814693
+			}
+		]
+	},
+	"comment_vote": {
+		"556_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"1_1PqVqKrq3imiqJGrsccodxXM2FXiawqUhv": 1,
+		"2_1PqVqKrq3imiqJGrsccodxXM2FXiawqUhv": 1,
+		"568_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1
+	}
+}

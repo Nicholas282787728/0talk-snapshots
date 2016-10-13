@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HI39SVeSwRHWnzEHnOt4q26ThJo6+HFgQuMBJApB4TENQFGS2bzTxs6AnVbvQE/W5ZfwcR7ZawSbJ+tEYoygueE=",
+ "cert_user_id": "malbonkonduta@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "74609a056e648728d2fdc9c50509b7f18a1d2ef37226fab2074139e63125dd4a",
+   "size": 295
+  }
+ },
+ "inner_path": "data/users/154gAnMB3ChRWzTgxj4DNwVX53JXyQYMZf/content.json",
+ "modified": 1459081094.627843,
+ "signs": {
+  "154gAnMB3ChRWzTgxj4DNwVX53JXyQYMZf": "HOvRcqoGoSJVA46XgDicrIms+P5fw1yKHneVVcRQ+yXt72KaaC5HvjMCHXQzv3eqmM0I74WfIlK7JJAeRmumP8Y="
+ }
+}

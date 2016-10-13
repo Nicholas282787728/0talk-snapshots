@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "G6TSbAxVF8SXC8AI/i8kHnRF2fhOjV2qgHxfI5WZWttQ3pm0qfBcBKh+A6qFIO8GrrGYpAa6tjtLfUSUpfWq9X4=",
+ "cert_user_id": "zerolaw@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "21e611bc98c368644f0d0982909ed5190ecce7731d74bf03802880ffdf234c56",
+   "size": 695
+  }
+ },
+ "inner_path": "data/users/1ANQTb6AbkbYrAo4tPJ7fcHJjw6B6iB7mY/content.json",
+ "modified": 1457924041.116,
+ "signs": {
+  "1ANQTb6AbkbYrAo4tPJ7fcHJjw6B6iB7mY": "HMbtIN7LlIyNnTSoXUxd9FexbSoXV+I/sggeJYGv1PoqrvoJTBhaTZRzignTRuAgFst1y/uOMXQF5VZn3b+tBU4="
+ }
+}

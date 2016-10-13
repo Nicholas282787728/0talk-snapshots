@@ -1,0 +1,39 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {
+		"1_15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ": 1
+	},
+	"next_comment_id": 5,
+	"comment": {
+		"1_15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ": [
+			{
+				"comment_id": 1,
+				"body": "@retos73, could you please help get this working? I'm trying but I'm nor sure how to turn the .py app into an apk file",
+				"added": 1456959318
+			},
+			{
+				"comment_id": 2,
+				"body": "I got python installed on GNURoot Debian with \"apt-get install python\" but there no option for ZeroBundle or ZeroNet-Master, and python won't run any of the scripts :/ it always says \" IOError: [Errno] No such file or directory: 'log/error.log' \" when i run the start script from the ZeroNet-Master",
+				"added": 1457045805
+			},
+			{
+				"comment_id": 3,
+				"body": "I never even got on github but thanks. I got it installed. Now, it won't run because it cant unblock the port. Even though UPnP is enabled and I manually entered the forward...",
+				"added": 1457092232
+			}
+		],
+		"1_14TaqTfnP3spTKup7oay3T6EnKArDnijDG": [
+			{
+				"comment_id": 4,
+				"body": "I still use command prompts daily for various things",
+				"added": 1457092364
+			}
+		]
+	},
+	"comment_vote": {
+		"6_1GNdkBSxTw6SpRdGHxDCyfANXnwi7FG7rJ": 1,
+		"1_1DeDB1i9uCW1YDwhVfVhZjuEruoBWPNqx7": 1,
+		"1_1DfkDpkeDXGbHJ2ZT31DPvYr5xR59Jr8BA": 1
+	}
+}
